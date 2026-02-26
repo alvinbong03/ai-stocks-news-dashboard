@@ -1,14 +1,56 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T19:54:24.705Z",
+  "last_updated_utc": "2026-02-26T21:37:48.741Z",
   "news": [
+    {
+      "title": "Anthropic narrows AI safety pledge amid Pentagon dispute over Claude use",
+      "description": "Anthropic, the maker of the chatbot Claude, is narrowing its signature pledge on artificial intelligence safety. The abrupt changes come amid a tense standoff between the company and the Pentagon over the use of its AI model. New York Times reporter Sheera Fr…",
+      "url": "https://www.cbsnews.com/video/anthropic-narrows-ai-safety-pledge-pentagon-dispute-claude-use",
+      "source": "CBS News",
+      "publishedAt": "2026-02-25T21:29:00Z"
+    },
     {
       "title": "Anthropic Waters Down Core AI Safety Rules",
       "description": "Anthropic has tossed out one of the firmest safety vows in the AI business. The San Francisco startup, founded by former OpenAI staffers who warned about runaway AI, has scrapped its Responsible Scaling Policy, which required it to pause training more powerfu…",
       "url": "https://www.newser.com/story/384380/anthropic-waters-down-core-ai-safety-rules.html",
       "source": "Newser",
       "publishedAt": "2026-02-25T18:55:00Z"
+    },
+    {
+      "title": "Hacker uses Claude to steal Mexican data",
+      "description": "Rest of World News: A hacker exploited Anthropic PBC's AI chatbot to carry out a series of attacks against Mexican govt agencies, resulting in the theft of a huge trove o.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/hacker-uses-claude-to-steal-mexican-data/articleshow/128794973.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T21:22:33Z"
+    },
+    {
+      "title": "OpenAI, Google and Anthropic AI Models Deployed Nuclear Weapons in 95% of War Simulations",
+      "description": "As the Department of Defense pushes for greater AI integration, researchers said the top models chose the nuclear option in nearly all war simulations.",
+      "url": "https://decrypt.co/359137/openai-google-anthropic-ai-models-nuclear-weapons-war-simulations",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-25T21:07:09Z"
+    },
+    {
+      "title": "OpenAI Intelligence Report Identifies New Tactics in AI-Enhanced Scams",
+      "description": "Criminals are using artificial intelligence in combination with websites, social media and other tools to carry out scams and other malicious operations, OpenAI said Wednesday (Feb. 25) in its latest threat report. One of the latest threats the company disrup…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-intelligence-report-identifies-new-tactics-in-ai-enhanced-scams",
+      "source": "pymnts.com",
+      "publishedAt": "2026-02-25T20:46:20Z"
+    },
+    {
+      "title": "Anthropic’s Claude Bots Make Robots.txt Decisions More Granular via @sejournal, @MattGSouthern",
+      "description": "Anthropic updated its crawler documentation to list separate Claude bots for training, search indexing, and user requests, with visibility tradeoffs when blocked.\nThe post Anthropic’s Claude Bots Make Robots.txt Decisions More Granular appeared first on Searc…",
+      "url": "https://www.searchenginejournal.com/anthropics-claude-bots-make-robots-txt-decisions-more-granular/568253",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-02-25T20:20:17Z"
+    },
+    {
+      "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+      "description": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
+      "url": "https://www.wired.com/story/openai-hires-riley-walz",
+      "source": "Wired",
+      "publishedAt": "2026-02-25T19:59:26Z"
     },
     {
       "title": "Stocks Climb as Traders Look to Nvidia for AI News: Markets Wrap",
@@ -46,18 +88,53 @@
       "publishedAt": "2026-02-25T19:00:00Z"
     },
     {
-      "title": "Vast Data expands AI Operating System with global control plane, zero-trust agent framework and deeper Nvidia integration",
-      "description": "Vast Data Inc. continues its evolution from a storage provider to an artificial intelligence infrastructure platform today with a series of announcements at its Forward 2026 conference, highlighted by the broadest expansion yet of what it calls its AI Operati…",
-      "url": "https://siliconangle.com/2026/02/25/vast-data-expands-ai-operating-system-global-control-plane-zero-trust-agent-framework-deeper-nvidia-integration",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-02-25T18:30:02Z"
+      "title": "Nvidia smashes forecasts with record quarter as AI boom rolls on",
+      "description": "The figures sent a powerful signal that the technology buildout dominated by Nvidia that underpins the global AI boom remains in full swing.",
+      "url": "https://www.channelnewsasia.com/business/nvidia-quarterly-results-sales-earnings-forecast-ai-boom-5953576",
+      "source": "CNA",
+      "publishedAt": "2026-02-25T21:37:00Z"
     },
     {
-      "title": "Anthropic just dropped its core AI safety promise, and that should worry you",
-      "description": "History doesn't repeat itself, but AI companies sure do.",
-      "url": "https://www.xda-developers.com/anthropic-just-dropped-its-core-ai-safety-promise",
-      "source": "XDA Developers",
-      "publishedAt": "2026-02-25T17:50:48Z"
+      "title": "Hegseth issues ultimatum to Anthropic to let military use co's AI tech as it sees fit",
+      "description": "US News: Washington: The Pentagon has delivered an ultimatum to Anthropic, the only AI company currently operating on classified military systems, ordering the.",
+      "url": "https://timesofindia.indiatimes.com/world/us/hegseth-issues-ultimatum-to-anthropic-to-let-military-use-cos-ai-tech-as-it-sees-fit/articleshow/128794899.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T21:06:03Z"
+    },
+    {
+      "title": "Canadian government demands safety changes from OpenAI",
+      "description": "Canadian officials summoned leaders from OpenAI to Ottawa this week to address safety concerns about ChatGPT. The crux of the government concerns was that OpenAI did not notify authorities when it banned the account of a user who allegedly committed a mass sh…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180860292",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T20:53:42Z"
+    },
+    {
+      "title": "Jittery stock market’s lonely eyes turn to Nvidia earnings",
+      "description": "Expectations are sky high for the company's earnings report as demand for Nvidia's AI processors breaks records.",
+      "url": "https://fortune.com/2026/02/25/nvidia-earnings-call-ai-stock-jensen-huang-chipmaker",
+      "source": "Fortune",
+      "publishedAt": "2026-02-25T20:48:10Z"
+    },
+    {
+      "title": "Show HN: Claude-PR-reviewer – AI code review in GitHub Actions (BYOK)",
+      "description": "Article URL: https://github.com/indoor47/claude-pr-reviewer\nComments URL: https://news.ycombinator.com/item?id=47157228\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/indoor47/claude-pr-reviewer",
+      "source": "Github.com",
+      "publishedAt": "2026-02-25T20:16:59Z"
+    },
+    {
+      "title": "Anthropic loosens its safety promise amid AI fight with Pentagon",
+      "description": "The AI company, founded by people worried about the dangers of the technology, said its previous safety policy was designed to build industry standards around managing AI risks — guardrails that the industry blew through.",
+      "url": "https://www.wcvb.com/article/anthropic-loosens-its-safety-promise-in-the-middle-of-an-ai-red-line-fight-with-the-pentagon/70494053",
+      "source": "WCVB Boston",
+      "publishedAt": "2026-02-25T20:08:29Z"
+    },
+    {
+      "title": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting",
+      "description": "Ottawa says it's ready to step in on AI chatbots if safety protocols fall short.",
+      "url": "https://www.politico.eu/article/canada-ai-minister-blames-openai-for-failure-after-mass-shooting",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-02-25T20:08:09Z"
     },
     {
       "title": "Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock Market - Bloomberg.com",
@@ -93,128 +170,46 @@
       "url": "https://gyrovague.com/?s=4594955186976835922",
       "source": "Gyrovague.com",
       "publishedAt": "2026-02-25T19:00:13Z"
-    },
-    {
-      "title": "All your bots are belong to US if you don't play ball, DoD tells Anthropic",
-      "description": "AI firm drops key safety pledge as Pentagon dispute drags on\nUS Secretary of Defense Pete Hegseth has made Anthropic an offer it may not be able to refuse. The Defense Department and the AI firm held a meeting at the Pentagon on Tuesday, where the government …",
-      "url": "https://www.theregister.com/2026/02/25/pentagon_threatens_anthropic",
-      "source": "Theregister.com",
-      "publishedAt": "2026-02-25T18:43:41Z"
-    },
-    {
-      "title": "Big Tech companies to meet Trump at White House to sign pledge on data center power costs",
-      "description": "The companies attending the March 4 meeting include Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI, a White House official confirmed.",
-      "url": "https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html",
-      "source": "CNBC",
-      "publishedAt": "2026-02-25T18:40:32Z"
-    },
-    {
-      "title": "VAST Data Introduces End-to-End Fully Accelerated AI Data Stack with NVIDIA",
-      "description": "VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector search, real-time SQL, and agentic applications VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector searc…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244905/0/en/VAST-Data-Introduces-End-to-End-Fully-Accelerated-AI-Data-Stack-with-NVIDIA.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-25T18:30:00Z"
-    },
-    {
-      "title": "Deutsche Bank makes the case for why Anthropic won't kill software stocks",
-      "description": "Anthropic has become a boogeyman on Wall Street, with Claude's capabilities slamming various stock sectors. Deutsche says software will survive.",
-      "url": "https://www.businessinsider.com/anthropic-claude-software-stocks-deutsche-bank-ai-scare-trade-2026-2",
-      "source": "Business Insider",
-      "publishedAt": "2026-02-25T18:29:40Z"
-    },
-    {
-      "title": "The Pentagon Is Pushing Anthropic to Make the Most Evil A.I. Possible. Will It?",
-      "description": "The company behind Claude once promised to build safe and ethical tech. Pete Hegseth is putting that promise to the test.",
-      "url": "https://slate.com/technology/2026/02/anthropic-ai-pentagon-pete-hegseth.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-02-25T18:18:01Z"
-    },
-    {
-      "title": "The Samsung Galaxy S26 Has 3 New AI Tricks That Could Make Gemini Useful",
-      "description": "Google has new AI features for the Galaxy S26, including a new Gemini tool that lets the AI book rides and order food for you while you do something else.",
-      "url": "https://www.bgr.com/2109898/samsung-galaxy-s26-gemini-circle-to-search-scam-detection",
-      "source": "BGR",
-      "publishedAt": "2026-02-25T18:01:00Z"
-    },
-    {
-      "title": "Gemini Starts Ordering Your Groceries and Booking Rideshares",
-      "description": "For AI to truly be useful to the masses, it’s going to have to be more than a research assistant or code builder or basic task completer. It’s going to have to perform difficult tasks for you that would typically require multiple steps from you or through mul…",
-      "url": "https://www.droid-life.com/2026/02/25/gemini-starts-ordering-your-groceries-and-booking-rideshares",
-      "source": "Droid Life",
-      "publishedAt": "2026-02-25T18:00:26Z"
-    },
-    {
-      "title": "Pentagon to Anthropic: If You Won't Let Us Use Your AI for Mass Surveillance or Autonomous Weapons, Expect Punishment",
-      "description": "The Pentagon wants Anthropic to remove limits on AI use for autonomous weapons and mass surveillance, raising civil liberties concerns.",
-      "url": "https://reason.com/2026/02/25/pentagon-to-anthropic-if-you-wont-let-us-use-your-ai-for-mass-surveillance-or-autonomous-weapons-expect-punishment",
-      "source": "Reason",
-      "publishedAt": "2026-02-25T18:00:08Z"
-    },
-    {
-      "title": "Android Update Puts Gemini AI In the Driver's Seat for Ride-Hail, Food Orders",
-      "description": "The new feature only runs on Galaxy S26 and Pixel 10 phones, with Samsung’s new series also getting call scam detection and improved Circle to Search.\nGoogle crossed \"start applying smartphone AI to tasks\" off its task list with an update announced Wednesday …",
-      "url": "https://me.pcmag.com/en/android/35539/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders",
-      "source": "PCMag.com",
-      "publishedAt": "2026-02-25T18:00:00Z"
-    },
-    {
-      "title": "Android Update Puts Gemini AI In the Driver's Seat for Ride-Hail, Food Orders",
-      "description": "The new feature only runs on Galaxy S26 and Pixel 10 phones, with Samsung’s new series also getting call scam detection and improved Circle to Search.\nGoogle crossed \"start applying smartphone AI to tasks\" off its task list with an update announced Wednesday …",
-      "url": "https://uk.pcmag.com/android/163369/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders",
-      "source": "PCMag.com",
-      "publishedAt": "2026-02-25T18:00:00Z"
-    },
-    {
-      "title": "Anthropic says U.S. military can use its AI systems for missile defense",
-      "description": "Defense chief Pete Hegseth has threatened to force the company to lift guardrails against greater military use of AI.",
-      "url": "https://www.nbcnews.com/tech/security/anthropic-pentagon-us-military-can-use-ai-missile-defense-hegseth-rcna260534",
-      "source": "NBC News",
-      "publishedAt": "2026-02-25T17:56:24Z"
-    },
-    {
-      "title": "Gemini is getting its first agentic capabilities",
-      "description": "Google's Gemini AI is getting one step closer to being more like an actual assistant. Starting with some Pixel 10 phones and the Samsung Galaxy S26 series, Gemini will be able to hail an Uber or put together a DoorDash order on its own. It's called task autom…",
-      "url": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
-      "source": "The Verge",
-      "publishedAt": "2026-02-25T17:52:08Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Anthropic drops core AI safety rules",
-      "Stocks climb due to Nvidia news",
-      "Nvidia earnings loom as risk factor for AI market",
-      "Canada's AI minister blames OpenAI for failure",
-      "DoD threatens Anthropic over AI usage"
+      "Anthropic's safety pledges are being challenged",
+      "Hacker steals Mexican data",
+      "OpenAI models used in war simulations",
+      "New AI scam tactics identified",
+      "Jony Ive designs may change AI hardware landscape"
     ],
     "insights": [
-      "AI companies dropping safety promises",
-      "Market reactions to Nvidia earnings",
-      "Government interference in AI development"
+      "AI companies face increasing scrutiny",
+      "Security breaches highlight vulnerabilities",
+      "Tech giants dominate AI market"
     ]
   },
   "clusters": [
     {
-      "title": "Impact of Drop in Safety Pledge",
-      "summary": "The drop in safety promises from Anthropic raises concerns among industry experts and policymakers alike.",
+      "title": "Short-term Impact",
+      "summary": "The recent events have highlighted the growing concern among governments and organizations regarding the security and ethical implications of AI technologies.",
       "article_urls": [
-        "https://www.newser.com/story/384380/anthropic-waters-down-core-ai-safety-rules.html",
-        "https://www.theregister.com/2026/02/25/pentagon_threatens_anthropic"
+        "https://www.wcvb.com/article/anthropic-loosens-its-safety-promise-in-the-middle-of-an-ai-red-line-fight-with-the-pentagon/70494053",
+        "https://www.theregister.com/2026/02/25/openai_asks_its_friends_to",
+        "https://www.politico.eu/article/canada-ai-minister-blames-openai-for-failure-after-mass-shooting"
       ]
     },
     {
-      "title": "Market Reactions and Government Interference",
-      "summary": "As Nvidia reports earnings, Wall Street anticipates signs of AI demand, while the Department of Defense threatens Anthropic with penalties.",
+      "title": "Long-term Trends",
+      "summary": "As AI continues to play a larger role in society, there will likely be increased pressure on companies like OpenAI and Anthropic to prioritize safety and ethics.",
       "article_urls": [
-        "https://www.ibtimes.com.au/nvidia-nvda-set-report-q4-fy2026-earnings-after-bell-february-25-2026-wall-street-eyes-ai-1862109",
-        "https://www.theregister.com/2026/02/25/pentagon_threatens_anthropic"
+        "https://www.wired.com/story/openai-hires-riley-walz",
+        "https://www.theregister.com/2026/02/25/openai-smart-speaker-leaks"
       ]
     },
     {
-      "title": "Policy and Industry Concerns",
-      "summary": "The decline in safety pledges from Anthropic prompts discussions about the future of AI development and regulation.",
+      "title": "Market Sentiment",
+      "summary": "Stocks are generally positive due to optimism surrounding the future of AI and the potential benefits it brings.",
       "article_urls": [
-        "https://www.theregister.com/2026/02/25/pentagon_threatens_anthropic"
+        "https://www.wired.com/story/openai-hires-riley-walz",
+        "https://www.theregister.com/2026/02/25/openai-smart-speaker-leaks"
       ]
     }
   ],
@@ -360,16 +355,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 185
+          "close": 184.9
         }
       ],
-      "sentiment_direction": "Negative",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Negative",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "NVIDIA Corporation is a leading manufacturer of graphics processing units (GPUs), primarily used in computer systems for rendering graphical user interfaces and other visual effects. This is an educational summary, not financial advice."
+      "ai_explanation": "NVIDIA Corporation is a leading provider of graphics processing units (GPUs), which are essential components in many AI applications. This is an educational summary, not financial advice."
     },
     {
       "ticker": "MSFT",
@@ -512,7 +507,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 401.93
+          "close": 401.79
         }
       ],
       "sentiment_direction": "Positive",
@@ -521,7 +516,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Microsoft Corporation is a multinational technology corporation headquartered in Redmond, Washington, United States. It is best known for producing Windows operating systems and Office productivity suite. This is an educational summary, not financial advice."
+      "ai_explanation": "Microsoft Corporation is a multinational technology giant known for its Windows operating system and Office suite. This is an educational summary, not financial advice."
     },
     {
       "ticker": "GOOGL",
@@ -664,7 +659,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 307.67
+          "close": 307.41
         }
       ],
       "sentiment_direction": "Positive",
@@ -673,7 +668,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Google LLC is an American multinational technology conglomerate headquartered in Mountain View, California, United States. It is best known for providing online search engine services, web-based email services, cloud computing services, mobile ad networks, and Android operating system. This is an educational summary, not financial advice."
+      "ai_explanation": "Alphabet Inc., formerly Google, is a technology company that provides internet-related services and products. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMZN",
@@ -816,7 +811,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 207.94
+          "close": 207.91
         }
       ],
       "sentiment_direction": "Positive",
@@ -825,7 +820,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Amazon.com, Inc., commonly referred to as Amazon, is an American multinational e-commerce corporation headquartered in Seattle, Washington, United States. It is best known for selling a wide variety of products and providing a wide range of services. This is an educational summary, not financial advice."
+      "ai_explanation": "Amazon.com, Inc. is a retail and cloud computing company. This is an educational summary, not financial advice."
     },
     {
       "ticker": "META",
@@ -968,7 +963,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 658.9
+          "close": 657.01
         }
       ],
       "sentiment_direction": "Positive",
@@ -977,7 +972,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Meta Platforms, Inc., formerly Facebook, Inc., is an American multinational social media corporation headquartered in Menlo Park, California, United States. It is best known for creating the social networking service Facebook. This is an educational summary, not financial advice."
+      "ai_explanation": "Meta Platforms, Inc. is a digital advertising company. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

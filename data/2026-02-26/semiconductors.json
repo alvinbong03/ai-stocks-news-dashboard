@@ -1,8 +1,134 @@
 {
   "theme": "semiconductors",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T19:54:49.536Z",
+  "last_updated_utc": "2026-02-26T21:38:16.925Z",
   "news": [
+    {
+      "title": "Nvidia smashes forecasts with record quarter as AI boom rolls on",
+      "description": "The figures sent a powerful signal that the technology buildout dominated by Nvidia that underpins the global AI boom remains in full swing.",
+      "url": "https://www.channelnewsasia.com/business/nvidia-quarterly-results-sales-earnings-forecast-ai-boom-5953576",
+      "source": "CNA",
+      "publishedAt": "2026-02-25T21:37:00Z"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "description": "SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue w…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3245078/0/en/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T21:31:00Z"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "description": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal ...",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-02-25T21:31:00Z"
+    },
+    {
+      "title": "Nvidia Helps Wall Street Erase Its Losses for the Week",
+      "description": "US stocks rose Wednesday and erased their losses for the week so far, as Nvidia and other technology companies led the way. The S&P 500 climbed 56.06 points, or 0.8%, to 6.946.12 for a second straight gain following Monday's swoon. The Dow Jones Industrial Av…",
+      "url": "https://www.newser.com/story/384393/nvidia-helps-wall-street-erase-its-losses-for-the-week.html",
+      "source": "Newser",
+      "publishedAt": "2026-02-25T21:28:10Z"
+    },
+    {
+      "title": "NVIDIA Could Beat Apple to TSMC's Most Advanced Chip Process, and It's Not Even Close to Ready",
+      "description": "The post NVIDIA Could Beat Apple to TSMC's Most Advanced Chip Process, and It's Not Even Close to Ready appeared first on Android Headlines.",
+      "url": "https://www.androidheadlines.com/2026/02/nvidia-could-beat-apple-to-tsmcs-most-advanced-chip-process-and-its-not-even-close-to-ready.html",
+      "source": "Android Headlines",
+      "publishedAt": "2026-02-25T21:26:49Z"
+    },
+    {
+      "title": "Former Polish intel chiefs charged over ‘Israeli spyware’ use",
+      "description": "Two former Polish intelligence chiefs have been charged over alleged illegal use of Israeli-developed Pegasus software Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/633051-polish-intel-chiefs-pegasus",
+      "source": "RT",
+      "publishedAt": "2026-02-25T21:15:45Z"
+    },
+    {
+      "title": "Nvidia at $203 As Earnings Beat and Guidance is Good",
+      "description": "Can Nvidia Earnings Save the stock market? Looks like yes. Earnings was $68 billion for this quarter and they are guiding to $78 billion for next quarter (which means a likely $80-81 billion actual next quarter). This is still without any China revenue kickin…",
+      "url": "https://www.nextbigfuture.com/2026/02/can-nvidia-save-the-stock-market-in-the-next-hour.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-02-25T21:05:23Z"
+    },
+    {
+      "title": "Show HN: Synergetic-SQR – A 4D rendering engine with bit-exact rotation",
+      "description": "I’ve been exploring the intersection of alternative geometry and numerical\n stability. This is a proof-of-concept 3D renderer that abandons the standard\n Cartesian (XYZ) basis in favor of Buckminster Fuller’s Synergetic Geometry (a\n 4D tetrahedral coordinate …",
+      "url": "https://github.com/johncurley/synergetic-sqr",
+      "source": "Github.com",
+      "publishedAt": "2026-02-25T21:03:08Z"
+    },
+    {
+      "title": "Chip Roy pushes terrorist designation for Mexican drug cartels",
+      "description": "Criminals 'threaten the safety of the American people, the security of the United States, and the stability of the international order'",
+      "url": "https://www.wnd.com/2026/02/chip-roy-pushes-terrorist-designation-mexican-drug-cartels",
+      "source": "Wnd.com",
+      "publishedAt": "2026-02-25T20:52:34Z"
+    },
+    {
+      "title": "Jittery stock market’s lonely eyes turn to Nvidia earnings",
+      "description": "Expectations are sky high for the company's earnings report as demand for Nvidia's AI processors breaks records.",
+      "url": "https://fortune.com/2026/02/25/nvidia-earnings-call-ai-stock-jensen-huang-chipmaker",
+      "source": "Fortune",
+      "publishedAt": "2026-02-25T20:48:10Z"
+    },
+    {
+      "title": "macOS 27: All the Rumors So Far",
+      "description": "macOS 27 is still months away, but there are already a handful of rumors about the upcoming software update, as outlined below.\n\n\n\n\n\nWe expect the first beta of macOS 27 to be seeded to developers during WWDC 2026 in June, and a public beta to follow in July.…",
+      "url": "https://www.macrumors.com/2026/02/25/macos-27-all-the-rumors-so-far",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-25T20:42:49Z"
+    },
+    {
+      "title": "Has Samsung improved the Galaxy S26 selfie camera experience?",
+      "description": "AI became an even more important component of mobile photography in 2024, when Qualcomm debuted the Snapdragon 8 Elite chip with an AI ISP (Image Signal Processor). Now, with the launch of the Galaxy S26 series, Samsung is expanding on that idea in a way that…",
+      "url": "https://www.sammobile.com/news/has-samsung-improved-the-galaxy-s26-selfie-camera-experience",
+      "source": "SamMobile",
+      "publishedAt": "2026-02-25T20:41:07Z"
+    },
+    {
+      "title": "MagicPad 4: New high-end Android tablet surpasses Galaxy Tab S11 Ultra in early benchmarks",
+      "description": "Honor's new high-end Android tablet has turned up across over a dozen leaked benchmark listings. Featuring Qualcomm's Snapdragon 8 Gen 5, the new tablet will outperform larger options like the Galaxy Tab S11 Ultra. GPU performance leaves a little to be desire…",
+      "url": "https://www.notebookcheck.net/MagicPad-4-New-high-end-Android-tablet-surpasses-Galaxy-Tab-S11-Ultra-in-early-benchmarks.1234723.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-25T20:40:00Z"
+    },
+    {
+      "title": "MrBeast Editor Banned From Kalshi for Insider Trading Using Intel on the Creator",
+      "description": "Artem Kaptur's two-year ban from the popular prediction market app comes with a $20,397.58 fine\nThe post MrBeast Editor Banned From Kalshi for Insider Trading Using Intel on the Creator appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/media-platforms/tv/mrbeast-editor-kalshi-insider-trading",
+      "source": "TheWrap",
+      "publishedAt": "2026-02-25T20:37:48Z"
+    },
+    {
+      "title": "LLVM Clang 22 Compiler Performance Largely Unchanged Over Clang 21 On AMD Zen 5",
+      "description": "With yesterday's stable release of the LLVM Clang 22 compiler it didn't take long for Phoronix readers to begin asking about the performance of this half-year feature update to this prominent open-source C/C++ compiler. What I am seeing so far are no big surp…",
+      "url": "https://www.phoronix.com/review/llvm-clang-22-znver5",
+      "source": "Phoronix",
+      "publishedAt": "2026-02-25T20:05:00Z"
+    },
+    {
+      "title": "Aptos price jumps 20% as altcoins rally: more gains ahead?",
+      "description": "Aptos price jumped more than 20% to break above $1 on Wednesday. The altcoin’s rally followed a sharp bounce for Bitcoin, which rose to above $69,000. Risk assets gained ahead of Nvidia earnings. Aptos (APT) is trading around $1.02 amid a broader altcoin upti…",
+      "url": "https://coinjournal.net/news/aptos-price-jumps-20-as-altcoins-rally-more-gains-ahead",
+      "source": "Coinjournal.net",
+      "publishedAt": "2026-02-25T20:00:35Z"
+    },
+    {
+      "title": "Which chip powers the Samsung Galaxy S26 series in the USA?",
+      "description": "You can never be too sure what chipset Samsung will use in its next premium phones. But with the Galaxy S26 series now official, one thing is clear: in the US, every Galaxy S26 model is powered by Qualcomm. Specifically, the Galaxy S26, S26+, and S26 Ultra in…",
+      "url": "https://www.sammobile.com/news/which-chip-powers-samsung-galaxy-s26-series-usa",
+      "source": "SamMobile",
+      "publishedAt": "2026-02-25T20:00:00Z"
+    },
+    {
+      "title": "ASML's Triple-Laser EUV Tech Breakthrough Aims To Boost Chip Production By 50%",
+      "description": "You know who ASML is, right? For those who are just joining us, ASML is the guys who make the tools that the TSMC and Intel and Samsung guys use to make their bleeding-edge chips. The Dutch company is the only firm in the world capable of commercializing Extr…",
+      "url": "https://hothardware.com/news/asml-triple-laser-1000w-euv-tech",
+      "source": "Hot Hardware",
+      "publishedAt": "2026-02-25T19:55:00Z"
+    },
     {
       "title": "Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock Market - Bloomberg.com",
       "description": "Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock MarketBloomberg.com Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updatesCNBC Stocks gain, supported by tech rally as markets await NvidiaMSN Nvidia Earnings Slam Int…",
@@ -191,127 +317,27 @@
       "url": "https://siliconangle.com/2026/02/25/vast-data-expands-ai-operating-system-global-control-plane-zero-trust-agent-framework-deeper-nvidia-integration",
       "source": "SiliconANGLE News",
       "publishedAt": "2026-02-25T18:30:02Z"
-    },
-    {
-      "title": "VAST Data Introduces End-to-End Fully Accelerated AI Data Stack with NVIDIA",
-      "description": "VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector search, real-time SQL, and agentic applications VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector searc…",
-      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244905/0/en/VAST-Data-Introduces-End-to-End-Fully-Accelerated-AI-Data-Stack-with-NVIDIA.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-25T18:30:00Z"
-    },
-    {
-      "title": "HP says the memory chip crunch isn't going anywhere soon - and also warns of PC sales slump",
-      "description": "AI-induced memory shortages and increasing costs won't make PCs cheaper any time soon, HP warns.",
-      "url": "https://www.techradar.com/pro/hp-says-the-memory-chip-crunch-will-be-around-for-some-time-also-warns-of-pc-sales-slump",
-      "source": "TechRadar",
-      "publishedAt": "2026-02-25T18:25:00Z"
-    },
-    {
-      "title": "US stocks rise as tech shares continue rebound",
-      "description": "<![CDATA[ Wall Street stocks rose as investors awaited earnings from Nvidia and brushed aside comments from US President Donald Trump. ]]>",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-new-york-tech-shares-trump-5953171",
-      "source": "CNA",
-      "publishedAt": "2026-02-25T18:21:04Z"
-    },
-    {
-      "title": "Tech Yes City Witnesses Back-to-Back AMD Ryzen 9950X Deaths On ASRock X870 Motherboard",
-      "description": "There is something wrong with ASRock motherboards, as this isn't the first time we are seeing two dead CPUs back to back. Two Ryzen 9 9950X Killed on ASRock X870 Steel Legend WiFi; Each Lived for Only 3-4 Months, and Latest BIOS Couldn't Revive Them Popular T…",
-      "url": "https://wccftech.com/tech-yes-city-witnesses-back-to-back-amd-ryzen-9950x-deaths-on-asrock-x870-motherboard",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-25T18:20:14Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 hands-on: A lot more of the same for a little more money",
-      "description": "As we prepare to leave the winter months, Samsung announced another family of Galaxy S flagships for those looking to upgrade. As usual, the company put its best components and features into the Galaxy S26 Ultra, but it also added more to the base S26 and S26…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859716",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T18:13:08Z"
-    },
-    {
-      "title": "Samsung's Galaxy S26 Ultra offers a subtle set of hardware improvements",
-      "description": "Samsung has announced the latest version of its flagship smartphone, the Samsung Galaxy S26 Ultra, and just like last year, the high-end phone is where the company is making some of its biggest changes. The S26 Ultra includes a new processor, a new privacy-fo…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859714",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T18:12:58Z"
-    },
-    {
-      "title": "Samsung's S26 and S26+ offer familiar designs, Snapdragon 8 Gen 5 chips and new software features",
-      "description": "The wait is over. At its Unpacked event today, Samsung took the wraps off its new S26 family of phones. Unlike the S26 Ultra, the S26 and S26+ represent mostly iterative updates. Samsung has tweaked the design of the two devices, making it so they share the s…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859710",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T18:12:37Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra launched: Price, specifications, features and all you need to know about latest flagship ‘Agentic AI phone’",
-      "description": "Samsung has unveiled its latest flagship, the Galaxy S26 Ultra, featuring a groundbreaking Privacy Display for enhanced data protection. This new device boasts a powerful Snapdragon 8 Elite Gen 5 chip, an impressive 200MP camera system, and a 5,000mAh battery…",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-s26-ultra-launched-price-specifications-features-and-all-you-need-to-know-about-latest-flagship-agentic-ai-phone/articleshow/128791401.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T18:12:31Z"
-    },
-    {
-      "title": "Everything announced at Samsung Unpacked: Galaxy S26 lineup and more",
-      "description": "Mobile World Congress is right around the corner, but Samsung got out ahead of many rivals that will be showing off new handsets at that event by running the latest edition of Unpacked on Wednesday. The company took the opportunity to reveal the Galaxy S26 li…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859708",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T18:12:26Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra hands-on: Meaningful tweaks plus a slick new Privacy Display",
-      "description": "Last year, it felt like Samsung relied a bit too much on AI when trying to convince people to upgrade to itsflagship phone. And while there’s no shortage of features that utilize machine learning on the new Galaxy S26 Ultra, it feels like Samsung has done a m…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859702",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T18:12:05Z"
-    },
-    {
-      "title": "Dickens Font Family by Fenotype",
-      "description": "The Dickens typeface family arrives with unusual timing and relevance. Released by the Finnish foundry Fenotype, it feels authentic and authoritative rather than artificially vintage. Designed by Emil...",
-      "url": "https://tumblr.weandthecolor.com/post/809545669239013376/dickens-font-family-by-fenotype",
-      "source": "Weandthecolor.com",
-      "publishedAt": "2026-02-25T18:08:32Z"
-    },
-    {
-      "title": "Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design",
-      "description": "Featuring Intel’s Core Ultra Series 3 processors built on Intel 18A, long-lasting battery life and an ultra-slim profile, Samsung’s Galaxy Book6 series elevates what users can expect from a PC SAN FRANCISCO — Samsung Electronics Co., Ltd. today introduced Gal…",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
-      "source": "Financial Post",
-      "publishedAt": "2026-02-25T18:03:59Z"
-    },
-    {
-      "title": "Samsung Launches Galaxy S26 Ultra With Built-In Privacy Display and New AI Features",
-      "description": "Samsung today announced its newest flagship smartphones, the Galaxy S26, S26+, and S26 Ultra. Samsung's latest devices are focused on AI, and Samsung says they have the most \"intuitive, proactive, and adaptive Galaxy AI features\" to date.\n\n\n\n\r\nSubscribe to th…",
-      "url": "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-25T18:01:00Z"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra arrives with Privacy Display, SD 8 Elite Gen 5 for Galaxy",
-      "description": "The yearly Galaxy S-series update has reached the S26 Ultra and it gets the latest Qualcomm flagship chip, a new privacy display that keeps peeping eyes off your screen and the fastest charging on a Galaxy to date. It’s a tad thinner (7.2mm) and lighter (214 …",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_arrives_with_privacy_display_sd_8_elite_gen_5_for_galaxy_and_60w_charging_-news-71717.php",
-      "source": "GSMArena.com",
-      "publishedAt": "2026-02-25T18:00:02Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Nvidia earnings could impact AI-focused stock market",
-      "Apple MacBook price prediction uncertain",
-      "AMD introduces new Epyc processor",
-      "Intel deploys AI-powered chatbots",
-      "Ryzen Z1 Extreme platform abandoned"
+      "Nvidia reports strong quarterly results",
+      "AI boom continues despite challenges",
+      "Chip production advancements boost semiconductor industry"
     ],
     "insights": [
-      "AI technology impacts various sectors",
-      "Stock market reactions to corporate news"
+      "AI-driven growth",
+      "Semiconductor manufacturing improvements"
     ]
   },
   "clusters": [
     {
-      "title": "Tech Industry Developments",
-      "summary": "The tech industry continues to evolve with advancements in AI and semiconductor technologies.",
+      "title": "semiconductors",
+      "summary": "The semiconductor industry is experiencing robust growth due to increased demand for AI-related technologies.",
       "article_urls": [
-        "https://slashdot.org/firehose.pl?op=view&amp;id=180860076",
-        "https://www.notebookcheck.net/Report-claims-low-cost-12-9-inch-Apple-MacBook-might-not-be-as-cheap-as-once-predicted.1234742.0.html",
-        "https://www.theregister.com/2026/02/25/amd_edge_sorano"
+        "https://www.channelnewsasia.com/business/nvidia-quarterly-results-sales-earnings-forecast-ai-boom-5953576",
+        "https://www.globenewswire.com/news-release/2026/02/25/3245078/0/en/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026.html",
+        "https://www.nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026"
       ]
     }
   ],
@@ -457,7 +483,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 374.755
+          "close": 376.81
         }
       ],
       "sentiment_direction": "Positive",
@@ -466,7 +492,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Nvidia Corporation is a leading developer of graphics processing units and AI systems. This is an educational summary, not financial advice."
+      "ai_explanation": "TSM is a leading manufacturer of semiconductor equipment used in chip production. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -609,16 +635,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 203.2341
+          "close": 203.66
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Advanced Micro Devices Inc. is a major player in the semiconductor industry, focusing on CPU development. This is an educational summary, not financial advice."
+      "ai_explanation": "AMD is a major player in the semiconductor industry, particularly in graphics processing units. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -761,16 +787,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 1456.6486
+          "close": 1464.211
         }
       ],
-      "sentiment_direction": "Negative",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Negative",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "ASML Holding NV is a Dutch multinational company specializing in advanced lithography machines used in semiconductor manufacturing. This is an educational summary, not financial advice."
+      "ai_explanation": "ASML specializes in advanced lithography systems used in semiconductor manufacturing. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -913,16 +939,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 45.28
+          "close": 45.48
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Intel Corporation is a leading manufacturer of microprocessors and other electronic components. This is an educational summary, not financial advice."
+      "ai_explanation": "Intel Corporation is a leader in semiconductor design and manufacturing. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -1065,16 +1091,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 145.4201
+          "close": 145.6
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Qualcomm Incorporated develops and manufactures mobile communication devices. This is an educational summary, not financial advice."
+      "ai_explanation": "Qualcomm Inc. produces integrated circuits and wireless communication solutions. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

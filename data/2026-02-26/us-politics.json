@@ -1,367 +1,358 @@
 {
   "theme": "us-politics",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T19:55:46.095Z",
+  "last_updated_utc": "2026-02-26T21:39:18.335Z",
   "news": [
     {
-      "title": "Trump Administration Moves to Allow Intelligence Agencies Easier Access to Law Enforcement Files (Tim Golden/ProPublica)",
-      "description": "Tim Golden / ProPublica:\nTrump Administration Moves to Allow Intelligence Agencies Easier Access to Law Enforcement Files  —  Reporting Highlights  — Changing the Rules: The Trump administration is sharing law enforcement files on criminal gangs more freely w…",
-      "url": "https://www.memeorandum.com/260225/p85",
-      "source": "Memeorandum.com",
-      "publishedAt": "2026-02-25T19:55:02Z"
-    },
-    {
-      "title": "World Trade Center’s last office tower soon will get built and house American Express",
-      "description": "The building will round out the redevelopment of the original 16-acre trade center property.",
-      "url": "https://www.bostonherald.com/2026/02/25/world-trade-center-redevelopment",
-      "source": "Boston Herald",
-      "publishedAt": "2026-02-25T19:53:59Z"
-    },
-    {
-      "title": "Treasury Targets Iran’s Shadow Fleet, Networks Supplying Ballistic Missile and ACW Programs - U.S. Department of the Treasury (.gov)",
-      "description": "Treasury Targets Iran’s Shadow Fleet, Networks Supplying Ballistic Missile and ACW ProgramsU.S. Department of the Treasury (.gov) US issues new sanctions as it dials up pressure on IranAl Jazeera Trump administration hits Iran with new sanctions as nuclear ta…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180860078",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T19:53:31Z"
-    },
-    {
-      "title": "Trump floats new retirement benefit for 54 million workers - The Washington Post",
-      "description": "Trump floats new retirement benefit for 54 million workersThe Washington Post Trump announces new retirement plan at State of the UnionAxios Trump pitches new retirement plan with a federal match of up to $1,000 per year — who could benefitCNBC Trump announce…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180860074",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T19:53:10Z"
-    },
-    {
-      "title": "'They kept the worst stuff': House lawmaker makes explosive accusation on DOJ Epstein drop",
-      "description": "WASHINGTON — Rep. Ro Khanna (D-CA) uncorked explosive claims Wednesday about stonewalling from the Justice Department, claiming the Trump administration kept the \"worst\" documents from the public eye.In an interview with Raw Story, Khanna said the House Overs…",
-      "url": "https://www.rawstory.com/raw-investigates/doj-epstein-2675334332",
-      "source": "Raw Story",
-      "publishedAt": "2026-02-25T19:52:52Z"
-    },
-    {
-      "title": "Joe Scarborough's State of the Union: Trump 'Did Sh-- No Sane President Would Ever Do'",
-      "description": "Joe Scarborough has reacted to President Trump’s State of the Union with profanity — and by questioning his sanity. After a sweeping denunciation of Trump’s remarks on immigration, inflation, and elections, Joe Scarborough declared the speech “extraordinary… …",
-      "url": "https://freerepublic.com/focus/f-news/4368281/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-02-25T19:52:44Z"
-    },
-    {
-      "title": "Joe Scarborough's State of the Union: Trump 'Did Sh-- No Sane President Would Ever Do'",
-      "description": "Joe Scarborough has reacted to President Trump’s State of the Union with profanity — and by questioning his sanity. After a sweeping denunciation of Trump’s remarks on immigration, inflation, and elections, Joe Scarborough declared the speech “extraordinary… …",
-      "url": "https://freerepublic.com/focus/f-chat/4368281/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-02-25T19:52:44Z"
-    },
-    {
-      "title": "Bruins' Jeremy Swayman Breaks Silence on Team USA Blowback From Trump Call",
-      "description": "That locker room phone call heard ’round the internet? Jeremy Swayman says Team USA would do it differently. The Boston Bruins goalie is speaking out about the viral moment that followed Sunday's gold medal win ... when President Donald Trump…",
-      "url": "https://www.tmz.com/2026/02/25/jeremy-swayman-breaks-silence-on-team-usa-trump-call-blowback",
-      "source": "TMZ",
-      "publishedAt": "2026-02-25T19:52:03Z"
-    },
-    {
-      "title": "‘Should be institutionalized’: Trump says two members of Congress have ‘bulging, bloodshot eyes of crazy people’",
-      "description": "U.S. senator: 'I just don't think that's what we want. And I don't believe, as a Democrat, I don't think dancing frogs really moves the ball for us as a party either'",
-      "url": "https://www.wnd.com/2026/02/should-be-institutionalized-trump-says-two-members-congress",
-      "source": "Wnd.com",
-      "publishedAt": "2026-02-25T19:51:50Z"
-    },
-    {
-      "title": "Reports Indicate That The Cleveland Browns Are Already Exploring Options To Replace Shedeur Sanders",
-      "description": "Despite his father Deion Sanders suggesting that God helped elect him to the Pro Bowl, the Cleveland Browns are reportedly exploring options other than Shedeur Sanders as their starting quarterback next season. QBs that the moribund franchise will reportedly …",
-      "url": "https://brobible.com/sports/article/cleveland-browns-exploring-other-qb-options",
-      "source": "BroBible",
-      "publishedAt": "2026-02-25T19:51:39Z"
-    },
-    {
-      "title": "Why Lightning’s Jake Guentzel skipped White House visit after Olympics",
-      "description": "Twenty of Guentzel's USA Hockey teammates made the trip to Washington, D.C., following their overtime triumph against Canada at the Olympics on Sunday.",
-      "url": "https://nypost.com/2026/02/25/sports/why-lightnings-jake-guentzel-skipped-white-house-visit-after-olympics",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T19:49:23Z"
-    },
-    {
-      "title": "Trump’s State of the Union Speech Failed to Mention Violence by DHS Agencies",
-      "description": "Trump relied on theatrics to push disinformation about immigrants in his speech.",
-      "url": "https://truthout.org/articles/trumps-state-of-the-union-speech-failed-to-mention-violence-by-dhs-agencies",
-      "source": "Truthout",
-      "publishedAt": "2026-02-25T19:49:12Z"
-    },
-    {
-      "title": "Sizing up Costa Rica’s most luxurious 5-star ultra-villa",
-      "description": "Back in 2007, Airbnb rebranded vacation rentals to the point where it’s now a generic term. The self-catering landscape is a slightly mixed bag, though. Travelers have shared their worst experiences online, from the annoying (huge binders of house rules), to …",
-      "url": "https://nypost.com/2026/02/25/lifestyle/inside-villa-avellana-costa-ricas-top-serviced-residence",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T19:47:06Z"
-    },
-    {
-      "title": "Suspect arrested in Germany in 2025 Ukrainian aide's killing",
-      "description": "A person suspected of shooting a former Ukrainian politician in a wealthy suburb of Madrid in 2025 has been arrested in Heinsberg, in western Germany. A person suspected of killing a former Ukrainian pro-Russian politician outside a wealthy suburb of Madrid i…",
-      "url": "https://www.dw.com/en/suspect-arrested-in-germany-in-2025-ukrainian-aides-killing/a-76125922",
-      "source": "DW (English)",
-      "publishedAt": "2026-02-25T19:47:00Z"
-    },
-    {
-      "title": "Streamer Adin Ross Purchases Breaking Bad House for $1.3 Million",
-      "description": "Ross intends to make it a 1-to-1 replica of \"just how you see it in the show.\"\nStreamer Adin Ross Purchases Breaking Bad House for $1.3 Million\nEddie Fu",
-      "url": "https://consequence.net/2026/02/adin-ross-breaking-bad-house-purchase",
-      "source": "Consequence.net",
-      "publishedAt": "2026-02-25T19:46:48Z"
-    },
-    {
-      "title": "Cuban Coast Guard Kills 4 Americans in Move Sure to Piss Off Trump",
-      "description": "Cuban officials have confirmed that the country’s Border Guard troops killed four people aboard a speedboat registered in Florida Wednesday morning.The speedboat was one nautical mile from a small island northeast of Cuba when Cuban troops approached the boat…",
-      "url": "https://newrepublic.com/post/207062/cuba-coast-guard-kills-americans-donald-trump",
-      "source": "The New Republic",
-      "publishedAt": "2026-02-25T19:46:17Z"
-    },
-    {
-      "title": "Trump Forced To Deploy ICE During State Of The Union To Pepper Spray Unruly Democrats",
-      "description": "WASHINGTON, D.C. — In a historic first, a sitting U.S. president was forced to subdue members of Congress with a squad of ICE agents, who pepper sprayed unruly Democrats as President Trump delivered his State of the Union address.",
-      "url": "https://babylonbee.com/news/trump-forced-to-deploy-ice-during-state-of-the-union-to-pepper-spray-unruly-democrats",
-      "source": "Babylonbee.com",
-      "publishedAt": "2026-02-25T19:45:12Z"
-    },
-    {
-      "title": "Biden-Appointed Judge’s Blistering Rebuke Could Change Trump’s Deportation Strategy",
-      "description": "A Biden-appointed federal judge on Wednesday revoked the Trump administration’s policy of deporting illegal immigrants to places other than their country of origin.  U.S. District... Read More\nThe post Biden-Appointed Judge’s Blistering Rebuke Could Change Tr…",
-      "url": "https://www.dailysignal.com/2026/02/25/biden-appointed-judges-blistering-rebuke-could-change-trumps-deportation-strategy",
-      "source": "Daily Signal",
-      "publishedAt": "2026-02-25T19:45:00Z"
-    },
-    {
-      "title": "A Privacy Policy Change has Genshin Impact Players Concerned Their Voice Chat Data was Used to Train AI Models, Unless They Opted Out",
-      "description": "With Generative AI (GenAI) remaining the most controversial topic in the video game industry, any mention of GenAI or AI in general is making the hair on players' arms stand up. The latest occurrence of this comes from Genshin Impact players looking a little …",
-      "url": "https://wccftech.com/hoyoverse-added-clause-to-genshin-impacts-privacy-policy-train-ai-model-on-players-voice-chat",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-25T19:44:16Z"
-    },
-    {
-      "title": "Internet Download Manager (IDM) v6.42 Build 61 Portable Cracked",
-      "description": "Description: Internet Download Manager has a smart download logic accelerator that features intelligent dynamic file segmentation and safe multipart downloading technology to accelerate your downloads. Unlike other download accelerators and managers that segm…",
-      "url": "https://post.rlsbb.to/internet-download-manager-idm-v6-42-build-61-portable-cracked",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-02-25T19:43:42Z"
-    },
-    {
-      "title": "Trump Calls His Foes ‘Deranged’ in Rant on Deporting Robert De Niro",
-      "description": "Trump called his foes ‘deranged’ in an incoherent rant about deporting Robert De Niro. On Truth Social, Trump made racist remarks about Rashida Tlaib and Ilhan Omar, mocked De Niro for crying, and attacked Rosie O’Donnell for no apparent reason.",
-      "url": "http://nymag.com/intelligencer/article/trump-ilhan-omar-de-niro-rosie-odonnell-truth-social.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-02-25T19:43:35Z"
-    },
-    {
-      "title": "DisplayFusion Pro v12.0.2 + Fix",
-      "description": "DisplayFusion will make your multi-monitor life much easier! With powerful features like Multi-Monitor Taskbars, TitleBar Buttons and fully customizable HotKeys, DisplayFusion will make managing your multiple monitors easy. Incredible Desktop WallpaperEasily …",
-      "url": "https://post.rlsbb.to/displayfusion-pro-v12-0-2-fix",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-02-25T19:43:32Z"
-    },
-    {
-      "title": "Netflix CEO Ted Sarandos to visit White House for talks on WBD deal, report says",
-      "description": "The reported visit is scheduled just days after President Donald Trump demanded that Netflix immediately fire one of its board members, Susan Rice.",
-      "url": "https://www.cnbc.com/2026/02/25/netflix-sarandos-white-house-wbd-paramount-deal-trump-rice.html",
-      "source": "CNBC",
-      "publishedAt": "2026-02-25T19:43:23Z"
-    },
-    {
-      "title": "Kathy Hochul demands $13.5B in tariff refunds for New Yorkers following Supreme Court Trump ruling",
-      "description": "New York Gov. Kathy Hochul on Tuesday demanded $13.5 billion in tariff refunds for New Yorkers following last week’s Supreme Court ruling overturning the bulk of President Trump’s import taxes.",
-      "url": "https://nypost.com/2026/02/25/business/ny-gov-kathy-hochul-demands-13-5b-in-tariff-refunds-after-supreme-court-trump-ruling",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T19:43:12Z"
-    },
-    {
-      "title": "CNN: The Economy Is Doing Pretty Well, Just as Trump Claims.Too Bad It's a Boomcession That Is Leaving So, So Many People Behind.",
-      "description": "I suppose a grudging admission with lots of defensive Democrat Talking Point caveats is still an admission. CNN Fact Check: Trump told the truth when he said the economy is solid. (But sad about the boomcession!) President Donald Trump made...",
-      "url": "https://acecomments.mu.nu/?post=418660",
-      "source": "Acecomments.mu.nu",
-      "publishedAt": "2026-02-25T19:42:47Z"
-    },
-    {
-      "title": "US lawmakers want UK briefing on backdoor order to Apple",
-      "description": "BRUSSELS, Feb 25 : U.S. House Judiciary Chair Jim Jordan and Foreign Affairs Chair Brian Mast on Wednesday asked the British government to brief them on its order to Apple to create a back door to its encrypted user data so they could better understand the Br…",
-      "url": "https://www.channelnewsasia.com/business/us-lawmakers-want-uk-briefing-backdoor-order-apple-5953396",
-      "source": "CNA",
-      "publishedAt": "2026-02-25T19:41:02Z"
-    },
-    {
-      "title": "EXCLUSIVE: Andrew Windsor 'Effectively Being Kept Locked Under House Arrest by King Charles' as He Faces Epstein Police Probe",
-      "description": "King Charles is said to have confined his younger brother, Andrew Windsor, to Sandringham after his historic arrest.",
-      "url": "https://radaronline.com/p/andrew-windsor-house-arrest-king-charles-epstein-probe",
-      "source": "Radaronline.com",
-      "publishedAt": "2026-02-25T19:40:00Z"
-    },
-    {
-      "title": "Trump Team Cites Executive Privilege to Save Tulsi Gabbard’s Butt",
-      "description": "The Trump administration is blocking Congress from seeing the classified intelligence report that prompted a whistleblower complaint against Director of National Intelligence Tulsi Gabbard. The Wall Street Journal reports that Gabbard’s office emailed Democra…",
-      "url": "https://newrepublic.com/post/207054/donald-trump-tulsi-gabbard-whistleblower-executive-privilege",
-      "source": "The New Republic",
-      "publishedAt": "2026-02-25T19:39:29Z"
-    },
-    {
-      "title": "YouTube Upgrades $7.99 Premium Lite Plan With Great New Features",
-      "description": "Google expanded YouTube Premium Lite from its limited pilot program to the United States back in March of 2025, and just under a year later, it has received two additional features that make it an effective alternative to YouTube Premium for users not interes…",
-      "url": "https://hothardware.com/news/youtube-upgrades-799-premium-lite-plan",
-      "source": "Hot Hardware",
-      "publishedAt": "2026-02-25T19:38:00Z"
-    },
-    {
-      "title": "Trump’s pick to lead new Justice Department unit scrutinized as president declares ‘war on fraud’",
-      "description": "Colin McDonald’s nomination comes as the Trump administration has put fresh attention on allegations of widespread fraud in Minnesota.",
-      "url": "https://www.bostonherald.com/2026/02/25/justice-department-fraud",
-      "source": "Boston Herald",
-      "publishedAt": "2026-02-25T19:37:37Z"
-    },
-    {
-      "title": "Unpacking The State Of The Union",
-      "description": "<p dir=\"ltr\">On Tuesday night, President Donald Trump <a href=\"https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-takeaways.html\"target=\"_blank\"   >delivered the first State of the Union address of his second term.</a><p dir=\"ltr\">It come…",
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5726430/unpacking-the-state-of-the-union",
-      "source": "NPR",
-      "publishedAt": "2026-02-25T19:37:36Z"
-    },
-    {
-      "title": "State of the Union poll: Americans’ sentiment shifts after Trump speech",
-      "description": "The president's address drew favorable reviews from nearly two-thirds of viewers, though approval fell short of his first-term speeches when at least 70...",
-      "url": "https://www.nj.com/politics/2026/02/state-of-the-union-poll-americans-sentiment-shifts-after-trump-speech.html",
-      "source": "nj.com",
-      "publishedAt": "2026-02-25T19:36:20Z"
-    },
-    {
-      "title": "Save on Snacks, Pantry Staples & Everyday Food Items with Amazon Grocery Deals",
-      "description": "Grocery shopping just got easier — and potentially more affordable. Amazon Canada’s Grocery & Food Deals page features rotating discounts on pantry staples, snacks, beverages and everyday household food essentials, giving shoppers a convenient way to stock up…",
-      "url": "https://www.redflagdeals.com/deal/groceries/save-on-snacks-pantry-staples-everyday-food-items-with-amazon-grocery-deals",
-      "source": "redflagdeals.com",
-      "publishedAt": "2026-02-25T19:35:03Z"
-    },
-    {
-      "title": "Sanders, Mullin butt heads in Surgeon General confirmation hearing (Sophie Brams/The Hill)",
-      "description": "Sophie Brams / The Hill:\nSanders, Mullin butt heads in Surgeon General confirmation hearing  —  Sen. Markwayne Mullin (R-Okla.) lashed out against Sen. Bernie Sanders (I-Vt.) over Obamacare during a Senate confirmation hearing on Tuesday for President Trump's…",
-      "url": "https://www.memeorandum.com/260225/p81",
-      "source": "Memeorandum.com",
-      "publishedAt": "2026-02-25T19:35:00Z"
-    },
-    {
-      "title": "Judge Strikes Down Sinister Trump Tactic to Fast-Track Deportations",
-      "description": "U.S. District Judge Brian Murphy on Wednesday joined a growing list of federal judges ruling that the Trump administration’s mass deportation tactics are illegal and unconstitutional.Murphy was the judge for a class action lawsuit filed against the Department…",
-      "url": "https://newrepublic.com/post/207059/judge-strikes-down-trump-tactic-fast-track-deportations-third-countries",
-      "source": "The New Republic",
-      "publishedAt": "2026-02-25T19:33:09Z"
-    },
-    {
-      "title": "Kalshi fined a MrBeast editor for insider trading",
-      "description": "Kalshi, one of several online prediction markets that have exploded in popularity in the last few years, has suspended one of YouTube MrBeast's video editors for insider trading, NPR reports. Besides being suspended from the platform for two years, Kalshi say…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859994",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T19:32:08Z"
-    },
-    {
-      "title": "[Eugene Volokh] \"The New Global Tariffs Are Also Unlawful,\" by Philip Zelikow",
-      "description": "A very interesting article by my Hoover Institution colleague Philip Zelikow, who is an emeritus history professor (mostly specializing in...",
-      "url": "https://reason.com/volokh/2026/02/25/the-new-global-tariffs-are-also-unlawful-by-philip-zelikow",
-      "source": "Reason",
-      "publishedAt": "2026-02-25T19:30:51Z"
-    },
-    {
-      "title": "Tipped workers expect tax boon this year, but not a long-term fix",
-      "description": "In his State of the Union address on Tuesday night, President Trump once again touted new tax benefits for tipped workers, who like many Americans are feeling the pinch of higher prices.",
-      "url": "https://www.npr.org/2026/02/25/nx-s1-5684227/trump-tax-tips-state-union",
-      "source": "NPR",
-      "publishedAt": "2026-02-25T19:30:48Z"
-    },
-    {
-      "title": "US eases Cuba oil ban as crisis alarms Caribbean",
-      "description": "The United States has notched down sanctions on Venezuelan oil exports to Cuba after the communist-run island plunged into an economic crisis, which alarmed leaders at a Caribbean summit.",
-      "url": "https://www.rte.ie/news/world/2026/0225/1560458-us-cuba-embargo",
-      "source": "RTE",
-      "publishedAt": "2026-02-25T19:30:31Z"
-    },
-    {
-      "title": "Cuba says four shot dead on Florida-registered speedboat",
-      "description": "Cuban forces have killed four people and wounded six others aboard a Florida-based speedboat that entered Cuban waters and opened fire on a Cuban patrol, the Cuban government said at a time of heightened tensions with the United States.",
-      "url": "https://www.rte.ie/news/world/2026/0225/1560458-us-cuba",
-      "source": "RTE",
-      "publishedAt": "2026-02-25T19:30:31Z"
-    },
-    {
-      "title": "Streamer Adin Ross bought the ‘Breaking Bad’ house for $1.3M — with plans to make it a series replica",
-      "description": "The \"Breaking Bad\" home in New Mexico has officially sold for a whopping $1.3 million, sources told The Post.",
-      "url": "https://nypost.com/2026/02/25/real-estate/streamer-adin-ross-bought-the-breaking-bad-house-for-1-3m",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T19:29:58Z"
-    },
-    {
-      "title": "US Sanctions Russian Exploit Broker Over Stolen US Cyber Tools",
-      "description": "The US Treasury targets Sergey Zelenyuk and his firm Operation Zero for the illegal trade of stolen government cyber tools following the sentencing of Peter Williams.",
-      "url": "https://hackread.com/us-sanctions-russian-exploit-broker-us-cyber-tools",
-      "source": "HackRead",
-      "publishedAt": "2026-02-25T19:29:40Z"
-    },
-    {
-      "title": "Trump Wants to Deport Ilhan Omar, Rashida Tlaib, and … Robert De Niro?",
-      "description": "The White House’s next immigration target: a pair of Democratic lawmakers and famed actor Robert De Niro.The Academy Award–winning performer headlined Defiance.org’s “State of the Swamp” counter-address Tuesday evening, speaking to America at the same time th…",
-      "url": "https://newrepublic.com/post/207053/donald-trump-ilhan-omar-rashida-tlaib-robert-de-niro",
-      "source": "The New Republic",
-      "publishedAt": "2026-02-25T19:29:25Z"
-    },
-    {
-      "title": "Trump Pushes ‘RINO’ Purge With Endorsement Spree Against Republicans Who Opposed His Redistricting Plan",
-      "description": "Trump went on a Truth Social barrage where he backed six Indiana state lawmakers against six \"RINO\" Republicans who did not support his redistricting plan\nThe post Trump Pushes ‘RINO’ Purge With Endorsement Spree Against Republicans Who Opposed His Redistrict…",
-      "url": "https://www.mediaite.com/politics/trump-pushes-rino-purge-with-endorsement-spree-against-republicans-who-opposed-his-redistricting-plan",
-      "source": "Mediaite",
-      "publishedAt": "2026-02-25T19:28:20Z"
-    },
-    {
-      "title": "Trump administration hits Iran with new sanctions as nuclear talks near",
-      "description": "America has imposed new sanctions on Iran. These target individuals and companies involved in Iran's missile and drone programs. The move comes as the US presses Iran for a deal before nuclear talks. The sanctions aim to curb Iran's weapons capabilities and s…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-administration-hits-iran-with-new-sanctions-as-nuclear-talks-near/articleshow/128793585.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T19:27:51Z"
-    },
-    {
-      "title": "Cocoio Weatherproof Heated Outdoor Cat House for $34 + free shipping",
-      "description": "Clip the $22.98 coupon on the product page to save a total of $64 off the list price of this outdoor cat shelter. Buy Now at Amazon\r\n Features\r\n <ul> <li>measures 24.8\" x 20.86\" x 17.12\"</li> <li>sits 5\" off the ground</li> <li>military-grade 900D Oxford fabr…",
-      "url": "https://www.dealnews.com/Cocoio-Weatherproof-Heated-Outdoor-Cat-House-for-34-free-shipping/21812670.html",
-      "source": "Dealnews.com",
-      "publishedAt": "2026-02-25T19:27:46Z"
-    },
-    {
-      "title": "Trump said he 'obliterated' Iran's nuclear program. Now he says the U.S. may have to bomb Iran again.",
-      "description": "President Donald Trump said that Iran's nuclear program was \"obliterated\" last summer, but he now says the U.S. may have to bomb Iran again over Iran's nuclear ambitions.",
-      "url": "https://www.nbcnews.com/world/iran/trump-said-obliterated-irans-nuclear-program-now-says-us-may-bomb-iran-rcna260383",
-      "source": "NBC News",
-      "publishedAt": "2026-02-25T19:26:37Z"
-    },
-    {
-      "title": "Trump's post-State of the Union sales job begins now",
-      "description": "His address Tuesday was a declaration of pride in the achievements of his still-young second term, as he boasted of an economic renaissance at home while he's imposed a new world order abroad. Trump is getting his first opportunity to test drive that midterm …",
-      "url": "https://www.pbs.org/newshour/politics/trumps-post-state-of-the-union-sales-job-begins-now",
+      "title": "Ukrainian officials will meet Trump envoys in Geneva for talks",
+      "description": "A Ukrainian delegation will meet with U.S. President Donald Trump's envoys in the run-up to another round of trilateral talks with Russia, Ukrainian President Volodymyr Zelenskyy said Wednesday.",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-officials-will-meet-trump-envoys-in-geneva-for-talks",
       "source": "PBS",
-      "publishedAt": "2026-02-25T19:26:31Z"
+      "publishedAt": "2026-02-25T21:38:34Z"
+    },
+    {
+      "title": "DHS official tells state election chiefs there won't be ICE agents at polling places",
+      "description": "A senior Department of Homeland Security official said on a call with state election officials Wednesday that immigration agents will not show up at polling places this year, according to three call participants.“Any suggestion that ICE is going to be present…",
+      "url": "https://www.nbcnews.com/politics/elections/dhs-official-state-election-chiefs-wont-be-ice-agents-polling-places-rcna260706",
+      "source": "NBC News",
+      "publishedAt": "2026-02-25T21:37:44Z"
+    },
+    {
+      "title": "Special needs assistants protest outside Leinster House to demand ‘job security’",
+      "description": "Hundreds of special needs assistants (SNAs), parents and children cheered and chanted outside Leinster House on Wednesday afternoon demanding clarity and certainty from the Government.",
+      "url": "https://www.independent.ie/irish-news/special-needs-assistants-protest-outside-leinster-house-to-demand-job-security/a805489515.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-02-25T21:37:18Z"
+    },
+    {
+      "title": "2028 Democratic Primary Odds: Top 10 Most Likely Nominees Ranked",
+      "description": "The 2028 United States presidential election is already drawing national attention. With the next election cycle approaching, early speculation is underway over who will win the 2028 Democratic primary and become the party’s nominee for President. When Presid…",
+      "url": "https://www.justjared.com/2026/02/25/2028-democratic-primary-odds-10-most-likely-nominees-ranked",
+      "source": "Just Jared",
+      "publishedAt": "2026-02-25T21:37:16Z"
+    },
+    {
+      "title": "2028 Democratic Primary Odds: Top 10 Most Likely Nominees Ranked",
+      "description": "The 2028 United States presidential election is already drawing national attention. With the next election cycle approaching, early speculation is underway over who will win the 2028 Democratic primary and become the party’s nominee for President. When Presid…",
+      "url": "https://www.justjared.com/2026/02/25/2028-democratic-primary-odds-top-10-most-likely-nominees-ranked",
+      "source": "Just Jared",
+      "publishedAt": "2026-02-25T21:37:16Z"
+    },
+    {
+      "title": "Exclusive-FBI obtained Kash Patel and Susie Wiles phone records during Biden administration",
+      "description": "WASHINGTON, Feb 25 (Reuters) - The FBI subpoenaed records of phone calls made by ⁠Kash Patel and Susie Wiles, now the FBI director and White House Chief of Staff, when they were both private citizens in 2022 and 2023 during the federal probe of Donald Trump, …",
+      "url": "https://www.thestar.com.my/news/world/2026/02/26/exclusive-fbi-obtained-kash-patel-and-susie-wiles-phone-records-during-biden-administration",
+      "source": "The Star Online",
+      "publishedAt": "2026-02-25T21:36:00Z"
+    },
+    {
+      "title": "Sad State of the Union: President stresses division to a country in need of collaboration (Letters)",
+      "description": "\"Over and over in opportunities for collaboration, (Trump) created blame, shame and division.\" -- David L. Stevenson, Denver",
+      "url": "https://www.denverpost.com/2026/02/25/trump-divisive-in-state-of-union-speech",
+      "source": "The Denver Post",
+      "publishedAt": "2026-02-25T21:35:47Z"
+    },
+    {
+      "title": "Trump’s Selective War on Censorship",
+      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n People using their cellphones while in transit, September 2023.\n © 2023 Francis Joseph Dean/Dean Pictures/Reuters \n \n \n\n\n \nThe Trump administration is framing its new forthcoming online portal, freedom.gov, as a bold…",
+      "url": "https://www.hrw.org/news/2026/02/25/trumps-selective-war-on-censorship",
+      "source": "Human Rights Watch",
+      "publishedAt": "2026-02-25T21:35:18Z"
+    },
+    {
+      "title": "Trump’s Cruelty Is Strangling Cuba — Its Oil Reserves Could Be Empty by March",
+      "description": "The Supreme Court struck down Trump’s threatened tariffs on countries that send oil to Cuba, but the crisis persists.",
+      "url": "https://truthout.org/articles/trumps-cruelty-is-strangling-cuba-its-oil-reserves-could-be-empty-by-march",
+      "source": "Truthout",
+      "publishedAt": "2026-02-25T21:35:13Z"
+    },
+    {
+      "title": "Iryna Zarutska back in national spotlight; Trump rebukes Democrats’ response during speech",
+      "description": "Six months after Iryna Zarutska was killed on a Charlotte light rail train, her mother sat inside the House chamber Tuesday night as President Donald Trump detailed the attack during his State of the Union address.",
+      "url": "https://www.wsoctv.com/news/local/iryna-zarutska-back-national-spotlight-trump-rebukes-democrats-response-during-speech/L3RXXIYBXJHRFM6YQQ5EOPSJA4",
+      "source": "WSOC Charlotte",
+      "publishedAt": "2026-02-25T21:34:35Z"
+    },
+    {
+      "title": "The Bulwark Just Published One Of The Most Disgusting 9/11 Takes I Have Ever Seen",
+      "description": "The Bulwark, a Never Trump \"conservative\" outlet, published an insane and insanely mawkish take on the memorials to Alex Pretti and Renee Good.",
+      "url": "https://dailycaller.com/2026/02/25/the-bulwark-ice-shooting-alex-pretti-memorial-shanksville-pa-9-11-flight-93",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-02-25T21:34:13Z"
+    },
+    {
+      "title": "“A collection of images of trees at Dollar Tree...",
+      "description": "“A collection of images of trees at Dollar Tree store locations across the United States.”",
+      "url": "https://kottke.org/26/02/0047977-a-collection-of-images-of",
+      "source": "kottke.org",
+      "publishedAt": "2026-02-25T21:31:49Z"
+    },
+    {
+      "title": "Literal Sex Offender Running For Major City’s Council On ‘Safety’ Platform",
+      "description": "Rene Campos, a registered sex offender, launched a campaign to represent Fresno, California's District 7, ABC30 reported Wednesday.",
+      "url": "https://dailycaller.com/2026/02/25/sex-offender-fresno-city-council-safety",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-02-25T21:31:13Z"
+    },
+    {
+      "title": "Trump Administration to Ditch 2M-SF Agriculture South Building in D.C.",
+      "description": "The U.S. General Services Administration (GSA) and Department of Agriculture (USDA) are formally unloading the mostly empty Agriculture South building in Washington, D.C. — the latest target of the GSA’s effort to rightsize the government’s real estate portfo…",
+      "url": "http://commercialobserver.com/2026/02/trump-gsa-usda-dc-office-disposition",
+      "source": "Commercial Observer",
+      "publishedAt": "2026-02-25T21:30:31Z"
+    },
+    {
+      "title": "Trump vows voter ID requirements for the midterms, ‘whether approved by Congress or not",
+      "description": "Nate Persily, a law professor at Stanford University, said that an executive order mandating changes to elections would be unconstitutional. “The Constitution is clear on this. There are a lot […]",
+      "url": "https://law.stanford.edu/press/trump-vows-voter-id-requirements-for-the-midterms-whether-approved-by-congress-or-not",
+      "source": "Stanford.edu",
+      "publishedAt": "2026-02-25T21:30:30Z"
+    },
+    {
+      "title": "Texas-based ABC affiliates file equal time notices as FCC cracks down on ‘The View’ over Talarico segment",
+      "description": "Many ABC affiliates in Texas quietly filed equal time notices after Texas Democratic Senate candidate James Talarico appeared on \"The View.\"",
+      "url": "https://www.foxnews.com/media/many-texas-based-abc-affiliates-file-equal-time-notices-fcc-cracks-down-the-view-over-talarico-segment",
+      "source": "Fox News",
+      "publishedAt": "2026-02-25T21:30:30Z"
+    },
+    {
+      "title": "Would Josh Shapiro Make A Good President? Pennsylvania Voters Are Divided, Quinnipiac University Pennsylvania Poll Finds; Voters Do Agree On This: Ban Cellphones In K-12 Schools (Quinnipiac University Poll)",
+      "description": "Quinnipiac University Poll:\nWould Josh Shapiro Make A Good President?  Pennsylvania Voters Are Divided, Quinnipiac University Pennsylvania Poll Finds; Voters Do Agree On This: Ban Cellphones In K-12 Schools  — mail_outline  —  While Josh Shapiro faces re-elec…",
+      "url": "https://www.memeorandum.com/260225/p97",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-25T21:30:00Z"
+    },
+    {
+      "title": "Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing (New York Times)",
+      "description": "New York Times:\nSurgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing  —  Dr. Casey Means, a wellness influencer, author and supporter of Health Secretary Robert F. Kennedy Jr., said that “anti-vaccine rhetoric has never been part” of her …",
+      "url": "https://www.memeorandum.com/260225/p96",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-25T21:30:00Z"
+    },
+    {
+      "title": "Member of U.S. Men’s Hockey Team Says They Should Have ‘Reacted Differently’ on Locker Room Call with Trump",
+      "description": "All but five members of the hockey team accepted the president's invitation to Washington, D.C. to attend the State of the Union address",
+      "url": "https://people.com/us-mens-hockey-player-we-should-have-reacted-differently-on-call-with-trump-11914555",
+      "source": "PEOPLE",
+      "publishedAt": "2026-02-25T21:29:15Z"
+    },
+    {
+      "title": "EXCLUSIVE: Top Trump Official Reveals Main GOP Message For 2026 Midterms",
+      "description": "James Blair revealed to the Daily Caller what the administration's primary 2026 midterm message is following President Donald Trump's State of the Union.",
+      "url": "https://dailycaller.com/2026/02/25/trump-gop-midterms-james-blair-2026-state-union-affordability",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-02-25T21:28:27Z"
+    },
+    {
+      "title": "Trump Tried To Sell Americans On Deranged Positivity And Existential Dread",
+      "description": "Trump celebrated America's \"golden age\" — one filled with brutal and violent death around every corner.",
+      "url": "https://www.huffpost.com/entry/donald-trump-state-of-the-union_n_699f552ce4b01b76c0e3708f",
+      "source": "HuffPost",
+      "publishedAt": "2026-02-25T21:27:36Z"
+    },
+    {
+      "title": "Sarandos Schleps To White House To Counterpunch Paramount’s Potential Upper Hand In WBD Bid",
+      "description": "Ted Sarandos is heading to the White House to salvage Netflix’s bid for Warner Bros’ crown jewels. The streamer co-CEO will sit down Thursday with “several administration officials,” Deadline has confirmed. White House Chief of Staff Susie Wiles is among thos…",
+      "url": "http://deadline.com/2026/02/sarandos-white-house-netflix-paramount-warner-bros-1236736230",
+      "source": "Deadline",
+      "publishedAt": "2026-02-25T21:27:33Z"
+    },
+    {
+      "title": "Johnson Warns Scandal Will ‘Play Out’ in GOP Primary",
+      "description": "Speaker Mike Johnson has told Rep. Tony Gonzales (R-TX) “publicly and privately” that he must address the serious sexual harassment allegations he’s facing “head on with his constituents” — and that the scandal now will “play out” in his primary election six …",
+      "url": "https://politicalwire.com/2026/02/25/johnson-warns-scandal-will-play-out-in-gop-primary",
+      "source": "Politicalwire.com",
+      "publishedAt": "2026-02-25T21:27:25Z"
+    },
+    {
+      "title": "James Carville Has Dire Warning For Trump In Curse-Laden Video: 'Sorry Sack Of S**t'",
+      "description": "The longtime Democratic strategist tore into President Donald Trump for more than six minutes and shared a rather bold prediction.",
+      "url": "https://www.huffpost.com/entry/james-carville-dire-warning-for-trump-curse-laden-video-fat-sorry-sack-of-shit_n_699f32ece4b01b76c0e32db9",
+      "source": "HuffPost",
+      "publishedAt": "2026-02-25T21:27:07Z"
+    },
+    {
+      "title": "Gold rises as traders weigh tariff risks and Middle East tension",
+      "description": "Gold rose and silver surged as traders weighed uncertainty around United States import tariffs and friction in the Middle East. Read here",
+      "url": "https://financialpost.com/commodities/gold-rises-traders-weigh-risks",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T21:26:47Z"
+    },
+    {
+      "title": "9 Times Trump Claimed Supreme Court Tariff Case Was ‘Literally, LIFE OR DEATH’ for the US — Until He Lost it",
+      "description": "Trump repeatedly claimed the Supreme Court striking down his tariffs would be \"catastrophic\" — but promptly changed his tune when they actually did it.\nThe post 9 Times Trump Claimed Supreme Court Tariff Case Was ‘Literally, LIFE OR DEATH’ for the US — Until …",
+      "url": "https://www.mediaite.com/analysis/9-times-trump-claimed-supreme-court-tariff-case-was-literally-life-or-death-for-the-us-until-he-lost-it",
+      "source": "Mediaite",
+      "publishedAt": "2026-02-25T21:26:21Z"
+    },
+    {
+      "title": "Trump’s Tariffs and a Strained Private Label Business Seen as Obstacles for Steve Madden in 2026",
+      "description": "Steve Madden CEO Edward Rosenfeld told analysts that the company expects Trump's tariffs and its private label business to be obstacles in 2026.",
+      "url": "http://wwd.com/footwear-news/shoe-industry-news/steve-madden-ceo-trump-tariffs-private-label-outlook-2026-1238628121",
+      "source": "WWD",
+      "publishedAt": "2026-02-25T21:23:56Z"
+    },
+    {
+      "title": "Maria Grazia Chiuri’s Debut at Fendi Draws Uma Thurman, Jessica Alba, Dakota Fanning, Monica Bellucci and More Stars",
+      "description": "Hollywood stars and other celebrities flew to Milan with their Fendi Baguettes in hand to attend Chiuri’s first show for the Roman house.",
+      "url": "http://wwd.com/eye/people/fendi-chiuri-debut-uma-thurman-jessica-alba-dakota-fanning-1238628006",
+      "source": "WWD",
+      "publishedAt": "2026-02-25T21:23:02Z"
+    },
+    {
+      "title": "Cuba says 4 killed, 6 hurt on US-registered boat in 'confrontation' off Cuba's coast",
+      "description": "Those on board the United States-registered vessel opened fire on Cuban troops who approached for identification, according to the Cuban Ministry of the Interior.",
+      "url": "https://abcnews.com/International/4-people-us-registered-boat-killed-confrontation-troops/story?id=130501458",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-02-25T21:22:13Z"
+    },
+    {
+      "title": "4 killed, 6 injured in boat shootout, Cuban government says",
+      "description": "The Cuban government is reporting that four people were killed in a shootout with a small vessel off the coast of Cuba Wednesday. \nThe Cuban Ministry of the Interior said in a statement that people on a boat originating from the United States, with a Florida …",
+      "url": "https://www.cbc.ca/news/world/four-killed-cuba-shootout-9.7105978",
+      "source": "CBC News",
+      "publishedAt": "2026-02-25T21:21:56Z"
+    },
+    {
+      "title": "Hilary Knight trying to move on from President Donald Trump’s ‘distasteful joke’ after Olympic hockey wins",
+      "description": "Donald Trump drew laughs from the men’s team when he told them he’d have to invite the women’s team to the White House, too, or he’d be impeached.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49a88cb3-10b1-44fd-a1fd-889e7fee3deb",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T21:19:51Z"
+    },
+    {
+      "title": "Ukraine's ambassador to the U.S. on power outages, resilience and peace",
+      "description": "NPR's Mary Louise Kelly speaks with Ukraine's Ambassador to the United States as Russia's war with Ukraine stretches into a fifth year.",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5725361/ukraines-ambassador-to-the-u-s-on-power-outages-resilience-and-peace",
+      "source": "NPR",
+      "publishedAt": "2026-02-25T21:19:50Z"
+    },
+    {
+      "title": "News-Based Trade Policy Uncertainty Highest since April",
+      "description": "So the IEEPA tariffs are gone. Now a hodge podge of indefinitely-lived tariffs lives on, with uncertainty elevated. Figure 1: EPU-trade (Baker-Bloom-Davis) (blue, left scale); Trade Policy Uncertainty (Caldara et al.) (red, right scale). Source: policyuncerta…",
+      "url": "https://econbrowser.com/archives/2026/02/news-based-trade-policy-uncertainty-highest-since-april",
+      "source": "Econbrowser.com",
+      "publishedAt": "2026-02-25T21:19:30Z"
+    },
+    {
+      "title": "News Analysis: Tariffs bite, but erratic U.S. trade policies inflict greater damage",
+      "description": "LONDON, Feb. 25 (Xinhua) -- The United States began enforcing a new round of global tariffs Tuesday, imposing a 10 percent levy on most imports to replace broad duties recently struck down by the Supreme Court. The Trump administration has also indicated plan…",
+      "url": "https://www.thestar.com.my/news/world/2026/02/26/news-analysis-tariffs-bite-but-erratic-us-trade-policies-inflict-greater-damage",
+      "source": "The Star Online",
+      "publishedAt": "2026-02-25T21:19:00Z"
+    },
+    {
+      "title": "Here are 5 health topics Trump avoided in his SOTU speech",
+      "description": "Despite President Trump's aim to make health care a \"Republican issue\" for the midterms, his speech left out scientific research, MAHA, abortion and rural health, among other issues.",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726256/trump-sotu-aca-autism-vaccines-research-abortion",
+      "source": "NPR",
+      "publishedAt": "2026-02-25T21:18:57Z"
+    },
+    {
+      "title": "Here's what Trump didn't say on health in his speech",
+      "description": "In his State of the Union address, President Trump avoided health topics that he spoke of last year, including abortion and cancer. He also didn't mention his health secretary RFK Jr.'s priorities.",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726256/heres-what-trump-didnt-say-on-health-in-his-speech",
+      "source": "NPR",
+      "publishedAt": "2026-02-25T21:18:57Z"
+    },
+    {
+      "title": "Bolivia’s 2026 FIFA World Cup hopes reignited by shock return of fan-favorite as CONMEBOL cult hero quits retirement after two years",
+      "description": "Just as the nation prepares for a decisive intercontinental playoff in Mexico, great news has emerged: a CONMEBOL cult hero has come out of retirement in a bid to lead Bolivia to the 2026 FIFA World Cup.\n There is a renewed sense of belief surrounding Bolivia…",
+      "url": "https://worldsoccertalk.com/news/bolivias-2026-fifa-world-cup-hopes-reignited-by-shock-return-of-fan-favorite-as-conmebol-cult-hero-quits-retirement-after-two-years",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-02-25T21:18:08Z"
+    },
+    {
+      "title": "What Trump's State of the Union address tells us about the midterm elections",
+      "description": "President Trump gave his State of the Union address Tuesday night — and blamed Democrats for the affordability issues facing many Americans. The address was also surprisingly short on new ideas.",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5726291/what-trumps-state-of-the-union-address-tells-us-about-the-midterm-elections",
+      "source": "NPR",
+      "publishedAt": "2026-02-25T21:17:56Z"
+    },
+    {
+      "title": "Netflix co-CEO Ted Sarandos to visit White House on Thursday amid Warner Bros bid: Report",
+      "description": "Netflix CEO Ted Sarandos is expected to attend White House meetings as the company’s $82.7 billion bid for Warner Bros. Discovery faces political pressure and antitrust review.",
+      "url": "https://www.livemint.com/companies/news/netflix-co-ceo-ted-sarandos-to-visit-white-house-on-thursday-amid-warner-bros-bid-report-11772052860815.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-25T21:17:47Z"
+    },
+    {
+      "title": "Unearthed Docs Show DEI Dominated Biden-Era Science",
+      "description": "Ideology was embedded in \"scientific integrity\" initiatives under Biden, according to documents recently unearthed by a government watchdog group.",
+      "url": "https://dailycaller.com/2026/02/25/exclusive-documents-reveal-biden-science-dei-programs",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-02-25T21:16:53Z"
+    },
+    {
+      "title": "The Winners in Trump’s America Are Not You and Me",
+      "description": "The United States, you may have heard, is the “hottest” country in the world. It’s a phrase that President Trump often deploys to sell his presidency, and he did so again in Tuesday night’s State of the Union Address. “What a difference a president makes. A s…",
+      "url": "https://newrepublic.com/article/207066/trump-state-union-winners-epstein-ice-corrupt-impunity",
+      "source": "The New Republic",
+      "publishedAt": "2026-02-25T21:16:49Z"
+    },
+    {
+      "title": "‘This is misery for us:’ New home construction stalls after immigration crackdown in Minnesota",
+      "description": "Roofers are turning down jobs. Painters are locking themselves inside the homes they’re finishing. Concrete crews have monthslong waiting lists. In the Twin Cities and surrounding suburbs, the Trump administration’s immigration crackdown has slowed home const…",
+      "url": "https://freerepublic.com/focus/f-news/4368289/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T21:16:44Z"
+    },
+    {
+      "title": "Virginia governor lauds anti-ICE student walkouts at schools during Democratic rebuttal to Trump",
+      "description": "Virginia Gov. Abigail Spanberger praised anti-ICE student walkouts during her Democratic rebuttal to President Donald Trump's State of the Union on Tuesday.",
+      "url": "https://www.foxnews.com/media/virginia-governor-lauds-student-anti-ice-walkouts-schools-during-democratic-rebuttal",
+      "source": "Fox News",
+      "publishedAt": "2026-02-25T21:12:40Z"
+    },
+    {
+      "title": "Cuba says at least 4 killed in gunfire exchange with Florida-registered speedboat",
+      "description": "Cuba says its border patrol killed four people who entered Cuban waters on a Florida speedboat and opened fire. CBS News White House reporter Olivia Rinaldi has the latest.",
+      "url": "https://www.cbsnews.com/video/cuba-at-least-4-killed-gunfire-exchange-florida-registered-speedboat",
+      "source": "CBS News",
+      "publishedAt": "2026-02-25T21:11:00Z"
+    },
+    {
+      "title": "Trump Asks Congress To Stand If Their Duty Is To American Citizens: Guess Who Didn't Stand? (Nicole Silverio/The Daily Caller)",
+      "description": "Nicole Silverio / The Daily Caller:\nTrump Asks Congress To Stand If Their Duty Is To American Citizens: Guess Who Didn't Stand?  —  Democrats remained seated on Tuesday when President Donald Trump gave them to chance to stand in solidarity with U.S. citizens …",
+      "url": "https://www.memeorandum.com/260225/p95",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-25T21:10:00Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Trump Administration Moves to Allow Intelligence Agencies Easier Access to Law Enforcement Files",
-      "House lawmaker accuses DOJ of withholding documents",
-      "Cuban Coast Guard kills Americans",
-      "Streamer purchases Breaking Bad House"
+      "Ukrainian officials meeting with US President's envoys",
+      "DHS official confirms no ICE agents at polling places",
+      "Special needs assistants protesting job security",
+      "2028 Democratic primary odds ranked",
+      "Exclusive FBI phone records obtained during Biden administration"
     ],
     "insights": [
-      "US politics",
-      "Government actions",
-      "International relations"
+      "International relations",
+      "Government policies",
+      "Labor rights"
     ]
   },
   "clusters": [
     {
-      "title": "Recent Developments in US Politics",
-      "summary": "In recent weeks, there have been several significant developments in US politics including the Trump administration allowing intelligence agencies easier access to law enforcement files, accusations of DOJ withholding documents from lawmakers, and reports of violence by DHS agencies.",
+      "title": "Politics & International Relations",
+      "summary": "Ukraine is preparing for further diplomatic talks with Russia, while the US is considering removing Immigration and Customs Enforcement (ICE) agents from polling places.",
       "article_urls": [
-        "https://www.memeorandum.com/260225/p85",
-        "https://www.bostonherald.com/2026/02/25/world-trade-center-redevelopment",
-        "https://www.rawstory.com/raw-investigates/doj-epstein-2675334332"
+        "https://www.pbs.org/newshour/world/ukrainian-officials-will-meet-trump-envoys-in-geneva-for-talks",
+        "https://www.nbcnews.com/politics/elections/dhs-official-state-election-chiefs-wont-be-ice-agents-polling-places-rcna260706"
       ]
+    },
+    {
+      "title": "Government Policies",
+      "summary": "Special needs assistants are protesting for better job security amid concerns about potential layoffs.",
+      "article_urls": [
+        "https://www.independent.ie/irish-news/special-needs-assistants-protest-outside-leinster-house-to-demand-job-security/a805489515.html"
+      ]
+    },
+    {
+      "title": "Labor Rights",
+      "summary": "There have been discussions regarding ICE agents being removed from polling places due to safety concerns.",
+      "article_urls": []
     }
   ],
   "stocks": [
@@ -506,16 +497,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 689.13
+          "close": 689.33
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Investors may consider the stock market performance as a reflection of broader economic conditions and investor sentiment towards US politics. This is an educational summary, not financial advice."
+      "ai_explanation": "Investors may consider these companies for exposure to international markets and geopolitical tensions. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QQQ",
@@ -658,16 +649,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 608.82
+          "close": 609.28
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "The QQQ index tracks large-cap stocks across various sectors, which can provide insight into overall market trends and investor confidence. This is an educational summary, not financial advice."
+      "ai_explanation": "These stocks could reflect investor sentiment towards global economic stability and political uncertainty. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLF",
@@ -810,7 +801,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 52.505
+          "close": 52.5
         }
       ],
       "sentiment_direction": "Neutral",
@@ -819,7 +810,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "The XLF index represents energy sector stocks, which can indicate changes in global oil prices and geopolitical tensions. This is an educational summary, not financial advice."
+      "ai_explanation": "Companies listed here might benefit from increased foreign investment and trade. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLE",
@@ -962,16 +953,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 55.155
+          "close": 55.05
         }
       ],
-      "sentiment_direction": "Neutral",
+      "sentiment_direction": "Negative",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Negative",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "The XLE index reflects the performance of industrial commodities such as metals and mining stocks, which can reflect economic growth and commodity demand. This is an educational summary, not financial advice."
+      "ai_explanation": "Energy-related stocks could see positive performance if geopolitical tensions ease. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLK",
@@ -1114,7 +1105,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 140.685
+          "close": 141.01
         }
       ],
       "sentiment_direction": "Neutral",
@@ -1123,7 +1114,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "The XLK index covers consumer discretionary stocks, which can give clues about consumer spending habits and retail sales. This is an educational summary, not financial advice."
+      "ai_explanation": "Consumer discretionary stocks could perform well if consumer confidence improves. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
