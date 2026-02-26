@@ -1,7 +1,7 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:04:38.972Z",
+  "last_updated_utc": "2026-02-26T18:08:01.039Z",
   "news": [
     {
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
@@ -392,7 +392,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 186.2664
+          "close": 186.5397
         }
       ],
       "sentiment": {
@@ -543,7 +543,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 400.29
+          "close": 400.71
         }
       ],
       "sentiment": {
@@ -694,7 +694,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 304.98
+          "close": 305.52
         }
       ],
       "sentiment": {
@@ -845,7 +845,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 206.03
+          "close": 206.175
         }
       ],
       "sentiment": {
@@ -996,7 +996,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 654.115
+          "close": 655.2544
         }
       ],
       "sentiment": {

@@ -1,7 +1,7 @@
 {
   "theme": "us-politics",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:05:15.914Z",
+  "last_updated_utc": "2026-02-26T18:08:37.102Z",
   "news": [
     {
       "title": "Hughes brothers wore Trump hats in Team USA's visit to the White House",
@@ -518,7 +518,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 685.29
+          "close": 685.75
         }
       ],
       "sentiment": {
@@ -669,7 +669,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 605.48
+          "close": 605.95
         }
       ],
       "sentiment": {
@@ -820,7 +820,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 52.1
+          "close": 52.135
         }
       ],
       "sentiment": {
@@ -971,7 +971,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 55.33
+          "close": 55.3399
         }
       ],
       "sentiment": {
@@ -1122,7 +1122,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 139.92
+          "close": 140.055
         }
       ],
       "sentiment": {
