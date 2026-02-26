@@ -1,8 +1,8 @@
 # AI Stocks News Dashboard
 
-A static, automated dashboard that generates a daily AI-assisted digest of market narratives across AI, semiconductors, energy, and US politics, and connects them to real stock price data.
+A static, automated dashboard that generates a daily AI-assisted digest of market narratives across AI, semiconductors, energy, and US politics, and connects them to real stock price data. The main project goal is to help beginner investors learn to read and observe AI-related news and observe market movements while I practice web development. This was an issue I wished to solve when I started learning investing.
 
-This project is intentionally designed to be low-risk, reproducible, and transparent. All data is generated once per day via GitHub Actions and served as static JSON to a TypeScript React frontend.
+All data is generated once per day via GitHub Actions and served as static JSON to a TypeScript React frontend.
 
 ---
 
@@ -15,8 +15,6 @@ This project is intentionally designed to be low-risk, reproducible, and transpa
 - Labels sentiment direction (Positive / Neutral / Negative)
 - Displays interactive charts and stock drill-down drawer
 - Deploys automatically via CI/CD
-
-The goal is clarity and structure, not prediction.
 
 ---
 
@@ -75,13 +73,11 @@ There is no backend server in production.
 - Scheduled CI jobs
 - API orchestration
 - Structured JSON generation
-- Idempotent daily builds
 
 ### 2. AI Integration with Validation
 - Prompt-controlled structured outputs
 - Strict JSON parsing
 - Retry logic with exponential backoff
-- Fallback rule-based summaries if AI fails
 
 ### 3. Safe Secret Handling
 - Secrets stored in GitHub repository settings
