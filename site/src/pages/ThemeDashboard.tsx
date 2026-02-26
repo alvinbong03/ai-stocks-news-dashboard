@@ -4,6 +4,7 @@ import StockChart from "@/components/StockChart";
 import EventClustersAccordion from "@/components/EventClustersAccordion";
 import LearningGlossary from "@/components/LearningGlossary";
 import { loadThemeData, type ThemeData, type ThemeSlug } from "@/lib/loadThemeData";
+import StockDrawer from "@/components/StockDrawer";
 
 type SentimentDirection = "Positive" | "Neutral" | "Negative";
 
@@ -59,10 +60,12 @@ export default function ThemeDashboard() {
   const [error, setError] = useState<string | null>(null);
 
   const [windowMode, setWindowMode] = useState<"7d" | "30d">("7d");
+  const [selectedTicker, setSelectedTicker] = useState<string | null>(null);
 
   useEffect(() => {
     setData(null);
     setError(null);
+    setSelectedTicker(null);
 
     loadThemeData(themeSlug)
       .then(setData)
@@ -72,6 +75,7 @@ export default function ThemeDashboard() {
   }, [themeSlug]);
 
   const stock = data?.stocks[0];
+  const selectedStock = data?.stocks.find((s) => s.ticker === selectedTicker) ?? null;
   const points = useMemo(() => {
     if (!stock) return [];
     if (windowMode === "7d") return stock.price_history.slice(-7);
@@ -195,7 +199,13 @@ export default function ThemeDashboard() {
                   return (
                     <div
                       key={s.ticker}
-                      className="flex items-start justify-between gap-4 rounded-md border border-[var(--border)] px-4 py-3"
+                      role="button"
+                      tabIndex={0}
+                      onClick={() => setSelectedTicker(s.ticker)}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" || e.key === " ") setSelectedTicker(s.ticker);
+                      }}
+                      className="flex items-start justify-between gap-4 rounded-md border border-[var(--border)] px-4 py-3 cursor-pointer hover:border-[#f59e0b]/60"
                     >
                       <div>
                         <div className="flex items-center gap-3">
@@ -288,6 +298,13 @@ export default function ThemeDashboard() {
           </div>
         )}
       </div>
+      <StockDrawer
+        stock={selectedStock as any}
+        isOpen={Boolean(selectedStock)}
+        onClose={() => setSelectedTicker(null)}
+        windowMode={windowMode}
+        onChangeWindow={setWindowMode}
+      />
     </main>
   );
 }
