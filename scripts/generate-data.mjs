@@ -165,7 +165,8 @@ async function fetchWithRetry(url, options = {}) {
     baseDelayMs = 500,
     maxDelayMs = 8000,
     minSpacingMs = 1100,
-    parse = "json" // "json" | "text"
+    parse = "json", // "json" | "text"
+    fetchInit = undefined
   } = options;
 
   let attempt = 1;
@@ -176,7 +177,7 @@ async function fetchWithRetry(url, options = {}) {
     await sleep(minSpacingMs);
 
     try {
-      const res = await fetch(url);
+      const res = await fetch(url, fetchInit);
 
       if (res.ok) {
         if (parse === "text") return res.text();
@@ -625,6 +626,206 @@ function buildClusters(articles) {
   return clusters.slice(0, 5);
 }
 
+function extractJsonBlock(text) {
+  const s = String(text ?? "").trim();
+  const start = s.indexOf("{");
+  const end = s.lastIndexOf("}");
+  if (start === -1 || end === -1 || end <= start) return null;
+  return s.slice(start, end + 1);
+}
+
+function isPlainObject(x) {
+  return typeof x === "object" && x !== null && !Array.isArray(x);
+}
+
+function validateHfPayload(payload, allowedTickers) {
+  if (!isPlainObject(payload)) return { ok: false, reason: "HF output is not an object" };
+
+  const digestBullets = payload.digest_bullets;
+  const insights = payload.insights;
+  const clusters = payload.clusters;
+
+  if (!Array.isArray(digestBullets)) return { ok: false, reason: "digest_bullets must be an array" };
+  if (!Array.isArray(insights)) return { ok: false, reason: "insights must be an array" };
+  if (!Array.isArray(clusters)) return { ok: false, reason: "clusters must be an array" };
+
+  if (!digestBullets.every((x) => typeof x === "string")) return { ok: false, reason: "digest_bullets must be strings" };
+  if (!insights.every((x) => typeof x === "string")) return { ok: false, reason: "insights must be strings" };
+
+  // Hard limits from the pipeline spec
+  if (digestBullets.length > 5) return { ok: false, reason: "digest_bullets too long" };
+  if (insights.length > 3) return { ok: false, reason: "insights too long" };
+  if (clusters.length > 5) return { ok: false, reason: "clusters too many" };
+
+  for (const c of clusters) {
+    if (!isPlainObject(c)) return { ok: false, reason: "cluster entry must be an object" };
+    if (typeof c.title !== "string") return { ok: false, reason: "cluster.title must be a string" };
+    if (typeof c.summary !== "string") return { ok: false, reason: "cluster.summary must be a string" };
+    if (!Array.isArray(c.article_urls)) return { ok: false, reason: "cluster.article_urls must be an array" };
+    if (!c.article_urls.every((u) => typeof u === "string")) return { ok: false, reason: "cluster.article_urls must be strings" };
+  }
+
+  let tickerExplanations = {};
+  if (payload.ticker_explanations !== undefined) {
+    if (!isPlainObject(payload.ticker_explanations)) {
+      return { ok: false, reason: "ticker_explanations must be an object if present" };
+    }
+    tickerExplanations = payload.ticker_explanations;
+    for (const [k, v] of Object.entries(tickerExplanations)) {
+      if (!allowedTickers.includes(k)) return { ok: false, reason: `ticker_explanations contains unknown ticker: ${k}` };
+      if (typeof v !== "string") return { ok: false, reason: `ticker_explanations[${k}] must be a string` };
+    }
+  }
+
+  return {
+    ok: true,
+    value: {
+      digest: { bullets: digestBullets, insights },
+      clusters: clusters.map((c) => ({
+        title: c.title,
+        summary: c.summary,
+        article_urls: c.article_urls.slice(0, 3)
+      })),
+      ticker_explanations: tickerExplanations
+    }
+  };
+}
+
+function buildHfPrompt(theme, articles, tickers) {
+  const top = articles
+    .slice(0, 20)
+    .map((a, i) => {
+      const title = (a.title ?? "").replace(/\s+/g, " ").trim();
+      const desc = (a.description ?? "").replace(/\s+/g, " ").trim();
+      const src = a.source ?? "Unknown";
+      const date = a.publishedAt ?? "";
+      const url = a.url ?? "";
+      return `${i + 1}. ${title}\n   source: ${src}\n   publishedAt: ${date}\n   url: ${url}\n   description: ${desc}`;
+    })
+    .join("\n\n");
+
+  return `You are generating content for an educational dashboard. Not financial advice.\n\nTheme: ${theme}\nTickers: ${tickers.join(", ")}\n\nArticles:\n${top}\n\nReturn STRICT JSON ONLY with this schema (no markdown, no extra text):\n\n{\n  "digest_bullets": ["... up to 5 strings ..."],\n  "insights": ["... up to 3 strings ..."],\n  "clusters": [\n    {\n      "title": "short title",\n      "summary": "1 short paragraph",\n      "article_urls": ["... up to 5 urls from the list above ..."]\n    }\n  ],\n  "ticker_explanations": {\n    ${tickers.map((t) => `"${t}": "1–2 educational sentences linking the theme to this ticker"`).join(",\n    ")}\n  }\n}\n\nRules:\n- digest_bullets max 5\n- insights max 3\n- clusters between 3 and 5 if possible, otherwise fewer\n- Use only URLs from the Articles list\n- Keep ticker_explanations to only the given tickers`;
+}
+
+async function callHuggingFaceStructured(theme, articles, tickers, hfApiKey, hfModel) {
+  const endpoint = "https://router.huggingface.co/v1/chat/completions";
+  const routedModel = hfModel.includes(":") ? hfModel : `${hfModel}:hf-inference`;
+
+  async function runOnce(prompt, attemptLabel) {
+    const schema = {
+      type: "object",
+      additionalProperties: false,
+      properties: {
+        digest_bullets: {
+          type: "array",
+          items: { type: "string" },
+          minItems: 0,
+          maxItems: 5
+        },
+        insights: {
+          type: "array",
+          items: { type: "string" },
+          minItems: 0,
+          maxItems: 3
+        },
+        clusters: {
+          type: "array",
+          minItems: 0,
+          maxItems: 5,
+          items: {
+            type: "object",
+            additionalProperties: false,
+            properties: {
+              title: { type: "string" },
+              summary: { type: "string" },
+              article_urls: {
+                type: "array",
+                items: { type: "string" },
+                minItems: 0,
+                maxItems: 5
+              }
+            },
+            required: ["title", "summary", "article_urls"]
+          }
+        },
+        ticker_explanations: {
+          type: "object",
+          additionalProperties: { type: "string" }
+        }
+      },
+      required: ["digest_bullets", "insights", "clusters"]
+    };
+
+    const body = JSON.stringify({
+      model: routedModel,
+      messages: [{ role: "user", content: prompt }],
+      temperature: 0.2,
+      max_tokens: 900,
+      response_format: {
+        type: "json_schema",
+        json_schema: {
+          name: "theme_digest",
+          description: "Theme digest bullets, insights, clusters, and optional ticker explanations.",
+          strict: true,
+          schema
+        }
+      }
+    });
+
+    const res = await fetchJson(endpoint, {
+      label: `hf:${theme}:${attemptLabel}`,
+      minSpacingMs: 1300,
+      fetchInit: {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${hfApiKey}`,
+          "Content-Type": "application/json"
+        },
+        body
+      }
+    });
+
+    // HF often returns: [{ generated_text: "..." }]
+    const text =
+      res?.choices?.[0]?.message?.content ??
+      res?.choices?.[0]?.text ??
+      "";
+
+    let parsed;
+
+    // With response_format=json_schema, the model should return a pure JSON string.
+    try {
+      parsed = JSON.parse(String(text).trim());
+    } catch {
+      // Fallback: try extracting the largest {...} block
+      const block = extractJsonBlock(text);
+      if (!block) return { ok: false, reason: "No JSON block found" };
+
+      try {
+        parsed = JSON.parse(block);
+      } catch {
+        const preview = String(text).slice(0, 300);
+        return { ok: false, reason: `JSON.parse failed. Preview: ${preview}` };
+      }
+    }
+
+    const v = validateHfPayload(parsed, tickers);
+    if (!v.ok) return { ok: false, reason: v.reason };
+    return { ok: true, value: v.value };
+  }
+
+  const prompt1 = buildHfPrompt(theme, articles, tickers);
+  const a1 = await runOnce(prompt1, "a1");
+  if (a1.ok) return a1.value;
+
+  // Option A: one retry with an even stricter instruction
+  const prompt2 = `Return ONLY valid JSON matching the schema exactly. No extra text.\n\n${prompt1}`;
+  const a2 = await runOnce(prompt2, "a2");
+  if (a2.ok) return a2.value;
+
+  throw new Error(`[hf:${theme}] invalid output after retry: ${a1.reason} / ${a2.reason}`);
+}
+
 async function main() {
   // Take raw external data (NewsAPI + Stooq) → transform it → output structured JSON files → update manifest → frontend reads them.
   console.log(`[generate-data] START ${new Date().toISOString()}`);
@@ -647,8 +848,36 @@ async function main() {
       const tickers = tickersByTheme[theme] ?? [];
       const articles = await fetchNews(theme, newsApiKey);
 
-      const digest = buildDigest(articles);
-      const clusters = buildClusters(articles);
+      let digest = buildDigest(articles);
+      let clusters = buildClusters(articles);
+      let ticker_explanations = {};
+
+      const hfApiKey = process.env.HUGGINGFACE_API_KEY;
+      const hfModel = process.env.HUGGINGFACE_MODEL || "mistralai/Mistral-7B-Instruct-v0.2";
+      console.log(`[hf:${theme}] env present: ${Boolean(hfApiKey)} model: ${hfModel}`);
+
+      if (hfApiKey) {
+        try {
+          const hf = await callHuggingFaceStructured(
+            theme,
+            articles,
+            tickers.slice(0, 5),
+            hfApiKey,
+            hfModel
+          );
+
+          digest = hf.digest;
+          clusters = hf.clusters;
+          ticker_explanations = hf.ticker_explanations ?? {};
+
+          console.log(`[hf:${theme}] OK (validated JSON)`);
+        } catch (e) {
+          console.warn(`[hf:${theme}] FAILED, using rule-based fallback`);
+          console.warn(e);
+        }
+      } else {
+        console.warn(`[hf:${theme}] HUGGINGFACE_API_KEY missing, using rule-based fallback`);
+      }
 
       const stocks = [];
 
@@ -657,15 +886,18 @@ async function main() {
 
       for (const ticker of tickers.slice(0, 5)) {
         const price_history = await fetchStooqDailyCloses(ticker);
+        const hfExplain = ticker_explanations?.[ticker];
 
         const ai_explanationParts = [];
         if (topBullet) ai_explanationParts.push(`Top headline signal: ${topBullet}`);
         if (topClusterTitle) ai_explanationParts.push(`Main topic cluster: ${topClusterTitle}`);
 
         const ai_explanation =
-          ai_explanationParts.length > 0
-            ? `${ai_explanationParts.join(". ")}. This is an educational summary, not financial advice.`
-            : "Educational summary unavailable for this theme today. Not financial advice.";
+          typeof hfExplain === "string" && hfExplain.trim().length > 0
+            ? `${hfExplain.trim()} This is an educational summary, not financial advice.`
+            : ai_explanationParts.length > 0
+              ? `${ai_explanationParts.join(". ")}. This is an educational summary, not financial advice.`
+              : "Educational summary unavailable for this theme today. Not financial advice.";
 
         stocks.push({
           ticker,

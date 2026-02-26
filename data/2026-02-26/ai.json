@@ -1,14 +1,42 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T14:37:52.209Z",
+  "last_updated_utc": "2026-02-26T16:27:20.352Z",
   "news": [
     {
-      "title": "Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini",
-      "description": "I built a scoring system to measure how AI models represent software products when users ask buying questions.\nThe process: I take a product, generate the queries a buyer would ask (category, competitor alternatives, head-to-head), run them through ChatGPT, C…",
-      "url": "https://www.bersyn.com/",
-      "source": "Bersyn.com",
-      "publishedAt": "2026-02-25T13:43:00Z"
+      "title": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
+      "description": "Today, Amazon Location launched curated AI Agent context as a Kiro power, Claude Code plugin, and agent skill in the open Agent Skills format, usable by any compatible agent. Developers can use this context with generative AI tools such as Kiro, Claude Code, …",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context",
+      "source": "Amazon.com",
+      "publishedAt": "2026-02-25T16:26:00Z"
+    },
+    {
+      "title": "The next step in Artificial Intelligence: Can an AI model be conscious, “feel,” “live”? Even experts admit they don’t know",
+      "description": "The discussion has intensified around the Claude chatbot developed by Anthropic, with users and creators debating whether it is “alive.” The company says “no,” but leaves open the possibility that it may have - or could develop - some form of “consciousness”\n…",
+      "url": "https://en.protothema.gr/2026/02/25/the-next-step-in-artificial-intelligence-can-an-ai-model-be-conscious-feel-live-even-experts-admit-they-dont-know",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-02-25T16:17:15Z"
+    },
+    {
+      "title": "Trump Announces Deals to Have Tech Companies Shoulder Burden of AI Data Center Costs",
+      "description": "President Donald Trump used the State of the Union address on Tuesday night to announce deals with major tech companies to ensure data centers cover more of the costs needed in powering artificial intelligence.\nThe post Trump Announces Deals to Have Tech Comp…",
+      "url": "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs",
+      "source": "Breitbart News",
+      "publishedAt": "2026-02-25T16:11:27Z"
+    },
+    {
+      "title": "Anthropic’s AI coding surge reshapes hiring: Why senior talent is in demand now as Claude takes over junior engineers' role",
+      "description": "Anthropic AI Claude impact on engineering jobs: Anthropic says its AI coding assistant, powered by Claude, now writes the majority of the company’s code and could reach 99% soon. Instead of cutting engineers, the AI shift is reshaping roles: routine coding is…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/anthropics-ai-coding-surge-reshapes-hiring-why-senior-talent-is-in-demand-now-as-claude-takes-over-junior-engineers-role/articleshow/128787065.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T15:47:15Z"
+    },
+    {
+      "title": "Show HN: Automatic context rotation for Claude Code (no manual steps)",
+      "description": "AI coding agents break when the context window fills up — they lose state,\nhallucinate, or auto-compact shreds the context you built up.I built a 3-hook pipeline that rotates before that happens, with a dry-run\nreplay you can run locally (no LLM/API keys).Qui…",
+      "url": "https://news.ycombinator.com/item?id=47152204",
+      "source": "Hacker News",
+      "publishedAt": "2026-02-25T14:45:37Z"
     },
     {
       "title": "Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon",
@@ -46,6 +74,104 @@
       "publishedAt": "2026-02-25T13:50:24Z"
     },
     {
+      "title": "I asked Claude for 37,500 random names, and it can't stop saying Marcus",
+      "description": "experiments invoking AI agents and asking them to act randomly! - benjismith/ai-randomness",
+      "url": "https://github.com/benjismith/ai-randomness",
+      "source": "Github.com",
+      "publishedAt": "2026-02-25T16:23:52Z"
+    },
+    {
+      "title": "Here’s a Look at One of the World’s Most Complex AI Systems, the NVIDIA Vera Rubin, Integrating a Million Components",
+      "description": "NVIDIA's next-gen Vera Rubin is currently under full production, and the company has provided us with an extensive overview of the rack architecture, diving into individual components. NVIDIA's Vera Rubin Features Six New Upgraded Chips, Enhanced Liquid Cooli…",
+      "url": "https://wccftech.com/heres-an-extensive-look-at-one-of-the-worlds-most-complex-ai-systems-the-nvidia-vera-rubin-integrating-a-million-components",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T16:20:45Z"
+    },
+    {
+      "title": "Inside Meta and AMD's $100 billion deal, and why AMD is giving up a slice of the company in return for GPU orders — Meta stays platform-agnostic as it develops AI compute strategy",
+      "description": "AMD and Meta's blockbuster deal could see the company signing away 10% of shares in the business to Meta. We examine why AMD is keen to secure AI hardware orders, and explore Meta's AI compute strategy.",
+      "url": "https://www.tomshardware.com/tech-industry/inside-meta-amd-deal",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-02-25T16:02:23Z"
+    },
+    {
+      "title": "Accelerating agent intelligence: Cisco Secure AI Factory expands with NVIDIA and VAST",
+      "description": "A secure AI data platform combines VAST and Cisco UCS with Cilium, Tetragon, and Cisco AI Defense to accelerate RAG and agentic AI, while enforcing container-level segmentation, runtime visibility, and model/MCP security. Ship AI outcomes faster, without expa…",
+      "url": "https://blogs.cisco.com/datacenter/accelerating-agent-intelligence-cisco-secure-ai-factory-expands-with-nvidia-and-vast",
+      "source": "Cisco.com",
+      "publishedAt": "2026-02-25T16:00:15Z"
+    },
+    {
+      "title": "LLM firewalls emerge as a new AI security layer",
+      "description": "The race by organizations to AI-enable their operations and business workflows is exposing them to new risks that AI firewalls aim to address.",
+      "url": "https://www.techtarget.com/searchsecurity/feature/LLM-firewalls-emerge-as-a-new-AI-security-layer",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-02-25T16:00:00Z"
+    },
+    {
+      "title": "Anthropic: Is Pete Hegseth threatening the US AI jewel?",
+      "description": "Anthropic, a much vaunted AI startup, is firmly in the Trump administration's sights. The Pentagon wants complete access to its models, despite safety and ethical concerns.",
+      "url": "https://www.dw.com/en/anthropic-is-pete-hegseth-threatening-the-us-ai-jewel/a-76119912",
+      "source": "DW (English)",
+      "publishedAt": "2026-02-25T15:30:00Z"
+    },
+    {
+      "title": "Anthropic: Is the Pentagon overreaching on AI access?",
+      "description": "Anthropic, a much vaunted AI startup, is firmly in the Trump administration's sights. The Pentagon wants complete access to its models, despite safety and ethical concerns. US Defense Secretary Pete Hegseth's threat to cut AI group Anthropic from government s…",
+      "url": "https://www.dw.com/en/anthropic-is-the-pentagon-overreaching-on-ai-access/a-76119912",
+      "source": "DW (English)",
+      "publishedAt": "2026-02-25T15:30:00Z"
+    },
+    {
+      "title": "OpenAI is testing a $100-a-month version of ChatGPT — and it finally fills a big gap",
+      "description": "OpenAI is preparing a new $100 ChatGPT Pro Lite tier aimed at users who need more power than Plus offers",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-is-testing-a-usd100-a-month-version-of-chatgpt-and-it-finally-fills-a-big-gap",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T15:18:23Z"
+    },
+    {
+      "title": "Kuwait Ai Data Center Market Report Opportunities & Forecast 2025-2030: Expansions by Gulf Data Hub and Khazna, Alongside Hyperscale Entrants Google Cloud and AWS, Reinforce Regional Market Momentum",
+      "description": "The Kuwait AI Data Center Market presents strong opportunities in IoT and smart city projects, driven by substantial investments, and partnerships with local tech startups to spur innovation. Increased adoption of AI, digital transformation initiatives, and c…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244759/28124/en/Kuwait-Ai-Data-Center-Market-Report-Opportunities-Forecast-2025-2030-Expansions-by-Gulf-Data-Hub-and-Khazna-Alongside-Hyperscale-Entrants-Google-Cloud-and-AWS-Reinforce-Regional-Ma.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T15:17:00Z"
+    },
+    {
+      "title": "Nvidia Earnings Slam Into Market With No Patience for AI Hiccups",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0bc9f2fa-a7c1-44fc-b1c4-c7c48b54e82c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T15:00:01Z"
+    },
+    {
+      "title": "US stock market on the move today: Dow, S&P 500, Nasdaq all pumped up - Oracle, Nvidia, Tesla and other AI stocks gain big",
+      "description": "US stock market today surged as the Dow Jones Industrial Average rose to 49,369. Investors are piling into AI stocks like Nvidia (NVDA) and Oracle as the S&P 500 hits 6,927.93. The Nasdaq jumped 0.79% ahead of the Nvidia earnings report. Tesla and AMD gained …",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-on-the-move-today-dow-sp-500-nasdaq-all-pumped-up-oracle-nvidia-tesla-and-other-ai-stocks-gain-big/articleshow/128786169.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T14:54:57Z"
+    },
+    {
+      "title": "NVIDIAのN1/N1X搭載ノートPCは2026年上半期中に登場する",
+      "description": "NVIDIA Reportedly Launching Its Arm-Based Laptop Chips in First Half of 2026（TechPowerUp）Nvidia N1/N1X laptop SoCs rumored for H1 2026 debut（Guru3D）The Wall Street Journalの報道によると、NVIDIAはこの2026年上半期中にコンシューマノートPC向けの新しいProcessorを発表するようだ。新しいチップはSoCであり、CPU, GPU, NP…",
+      "url": "https://northwood.blog.fc2.com/blog-entry-13004.html",
+      "source": "Fc2.com",
+      "publishedAt": "2026-02-25T14:44:50Z"
+    },
+    {
+      "title": "Nvidia earnings updates: Chip titan to deliver results at a key crossroads for the AI trade",
+      "description": "Nvidia will report results for the fourth quarter after the 4 p.m. ET closing bell. The call with analysts will begin around 5 p.m. ET.",
+      "url": "https://www.businessinsider.com/nvidia-q4-earnings-live-updates-ai-chips-rubin-jensen-huang-2026-2",
+      "source": "Business Insider",
+      "publishedAt": "2026-02-25T14:37:48Z"
+    },
+    {
+      "title": "OpenAI Defeats xAI: Judge Throws Out Musk’s Trade Secrets Theft Claims",
+      "description": "Sam Altman's OpenAI has secured a win in court as a judge dismisses the AI-related trade secrets lawsuit filed by Elon Musk's xAI.",
+      "url": "https://www.androidheadlines.com/2026/02/openai-defeats-xai-trade-secrets-lawsuit-dismissed.html",
+      "source": "Android Headlines",
+      "publishedAt": "2026-02-25T14:37:36Z"
+    },
+    {
       "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade",
       "description": "",
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
@@ -79,117 +205,43 @@
       "url": "https://seite.sh/",
       "source": "Seite.sh",
       "publishedAt": "2026-02-25T13:50:50Z"
-    },
-    {
-      "title": "Anthropic cofounder says AI is making junior roles at the company less valuable, but boosting demand for senior talent",
-      "description": "Anthropic cofounder Jack Clark says AI now writes most of its code, making the value of junior roles \"more dubious\" and senior talent more valuable.",
-      "url": "https://www.businessinsider.com/anthropic-ai-value-of-junior-roles-dubious-senior-talent2026-2",
-      "source": "Business Insider",
-      "publishedAt": "2026-02-25T13:31:24Z"
-    },
-    {
-      "title": "Anthropic vs the Pentagon: Why AI firm is taking on Trump administration",
-      "description": "Anthropic was the first AI developer to be used in classified operations by the US Defense Department.",
-      "url": "https://www.aljazeera.com/news/2026/2/25/anthropic-vs-the-pentagon-why-ai-firm-is-taking-on-trump-administration",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-02-25T13:05:27Z"
-    },
-    {
-      "title": "Nvidia earnings loom as risk factor for AI-obsessed stock market",
-      "description": "Nvidia’s earnings report comes at a critical time for the U.S. stock market with investors nervous about the outlook for AI. Read more.",
-      "url": "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market",
-      "source": "Financial Post",
-      "publishedAt": "2026-02-25T12:54:01Z"
-    },
-    {
-      "title": "I use this simple repetition trick with ChatGPT when it misses the point — and it works every time",
-      "description": "Repeating prompts to ChatGPT and AI chatbots improves their responses.",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-use-this-simple-repetition-trick-with-chatgpt-when-it-misses-the-point-and-it-works-every-time",
-      "source": "TechRadar",
-      "publishedAt": "2026-02-25T12:51:35Z"
-    },
-    {
-      "title": "Gemini Adds Voice Chat & AI Studio Tools for Rapid Product Prototyping",
-      "description": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory, which supports up to 1 million tokens, far surpassing the l…",
-      "url": "https://www.geeky-gadgets.com/gemini-million-token-memory",
-      "source": "Geeky Gadgets",
-      "publishedAt": "2026-02-25T12:41:00Z"
-    },
-    {
-      "title": "US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside",
-      "description": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due later in the day.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T12:39:41Z"
-    },
-    {
-      "title": "Anthropic’s Remote Control feature brings Claude Code to mobile devices",
-      "description": "Anthropic has introduced a new Claude Code feature called Remote Control, allowing developers to continue a local coding session from a phone, tablet, or any web browser. The feature is rolling out as a research preview to Max users. This is another in a seri…",
-      "url": "https://www.helpnetsecurity.com/2026/02/25/anthropic-remote-control-claude-code-feature",
-      "source": "Help Net Security",
-      "publishedAt": "2026-02-25T12:39:09Z"
-    },
-    {
-      "title": "Nvidia seemingly wants to make Linux better for gamers — and one way or another, that must worry Microsoft",
-      "description": "Nvidia looks set to make its GPU drivers better in Linux — which could be an exciting sign for the future of gaming.",
-      "url": "https://www.techradar.com/computing/gpu/nvidia-seemingly-wants-to-make-linux-better-for-gamers-and-one-way-or-another-that-must-worry-microsoft",
-      "source": "TechRadar",
-      "publishedAt": "2026-02-25T12:35:02Z"
-    },
-    {
-      "title": "Big Nvidia (NVDA) Q4 earnings today: here’s what investors will watch from the Jensen Huang-led chip giant - NVDA stock forecast",
-      "description": "Nvidia (NVDA) Q4 earnings today: Nvidia reports Q4 earnings today, February 25 — and $65.7 billion is on the line. Wall Street expects EPS of $1.53, up 72% year over year. Revenue growth stands at 67%. Blackwell GPU orders have crossed $350 billion. Hyperscal…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/big-nvidia-nvda-q4-earnings-today-heres-what-investors-will-watch-from-the-jensen-huang-led-chip-giant-nvda-stock-forecast/articleshow/128781200.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T12:10:41Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini",
-      "Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon",
-      "Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",
-      "Pentagon at odds with tech company Anthropic over AI model",
-      "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat"
+      "Amazon Location Service introduces LLM Context",
+      "Anthropic's AI coding surge reshapes hiring",
+      "Pentagon at odds with tech company Anthropic"
     ],
     "insights": [
-      "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation can be added later."
+      "AI advancements reshape industries",
+      "Tech companies face regulatory challenges"
     ]
   },
   "clusters": [
     {
-      "title": "Anthropic",
-      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "AI Advancements",
+      "summary": "The articles discuss various aspects of AI development and its impacts.",
+      "article_urls": [
+        "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context",
+        "https://economictimes.indiatimes.com/news/international/us/anthropics-ai-coding-surge-reshapes-hiring-why-senior-talent-is-in-demand-now-as-claude-takes-over-junior-engineers-role",
+        "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs"
+      ]
+    },
+    {
+      "title": "Regulatory Challenges",
+      "summary": "The articles highlight issues related to regulation and oversight of AI technologies.",
       "article_urls": [
         "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73d027ce-7380-41b3-bd07-dc99c7194574",
         "https://www.cbsnews.com/video/pentagon-at-odds-with-tech-company-anthropic-over-ai-model"
       ]
     },
     {
-      "title": "Nvidia",
-      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Industry Impact",
+      "summary": "The articles describe how AI is transforming different sectors.",
       "article_urls": [
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-today-us-stocks-open-higher-in-run-up-to-nvidia-earnings-as-ai-worries-abate/articleshow/128785884.cms",
-        "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market"
-      ]
-    },
-    {
-      "title": "Claude",
-      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.bersyn.com/",
-        "https://seite.sh/"
-      ]
-    },
-    {
-      "title": "Other",
-      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-use-this-simple-repetition-trick-with-chatgpt-when-it-misses-the-point-and-it-works-every-time",
-        "https://www.geeky-gadgets.com/gemini-million-token-memory"
+        "https://www.wccftech.com/heres-an-extensive-look-at-one-of-the-worlds-most-complex-ai-systems-the-nvidia-vera-rubin-integrating-a-million-components",
+        "https://www.tomshardware.co.uk/tech-industry/inside-meta-amd-deal"
       ]
     }
   ],
@@ -197,10 +249,6 @@
     {
       "ticker": "NVDA",
       "price_history": [
-        {
-          "date": "2026-01-06",
-          "close": 187.24
-        },
         {
           "date": "2026-01-07",
           "close": 189.11
@@ -336,6 +384,10 @@
         {
           "date": "2026-02-25",
           "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 187.38
         }
       ],
       "sentiment": {
@@ -343,15 +395,11 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "NVIDIA is a leading provider of graphics processing units (GPUs) and other computing solutions. This is an educational summary, not financial advice."
     },
     {
       "ticker": "MSFT",
       "price_history": [
-        {
-          "date": "2026-01-06",
-          "close": 478.51
-        },
         {
           "date": "2026-01-07",
           "close": 483.47
@@ -487,6 +535,10 @@
         {
           "date": "2026-02-25",
           "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 402.46
         }
       ],
       "sentiment": {
@@ -494,15 +546,11 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Microsoft is a global leader in software and services. This is an educational summary, not financial advice."
     },
     {
       "ticker": "GOOGL",
       "price_history": [
-        {
-          "date": "2026-01-06",
-          "close": 314.34
-        },
         {
           "date": "2026-01-07",
           "close": 321.98
@@ -638,6 +686,10 @@
         {
           "date": "2026-02-25",
           "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 305.58
         }
       ],
       "sentiment": {
@@ -645,15 +697,11 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Google is one of the world's largest internet companies. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMZN",
       "price_history": [
-        {
-          "date": "2026-01-06",
-          "close": 240.93
-        },
         {
           "date": "2026-01-07",
           "close": 241.56
@@ -789,6 +837,10 @@
         {
           "date": "2026-02-25",
           "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 208.97
         }
       ],
       "sentiment": {
@@ -796,15 +848,11 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Amazon is a multinational retail corporation. This is an educational summary, not financial advice."
     },
     {
       "ticker": "META",
       "price_history": [
-        {
-          "date": "2026-01-06",
-          "close": 660.62
-        },
         {
           "date": "2026-01-07",
           "close": 648.69
@@ -940,6 +988,10 @@
         {
           "date": "2026-02-25",
           "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 655.56
         }
       ],
       "sentiment": {
@@ -947,7 +999,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Meta Platforms Inc., formerly known as Facebook, Inc. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
