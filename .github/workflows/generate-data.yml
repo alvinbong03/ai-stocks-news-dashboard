@@ -28,11 +28,25 @@ jobs:
       - name: Install site dependencies
         run: npm --prefix site ci
 
-      - name: Generate data
+      - name: Generate data (direct + debug)
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-        run: npm run generate:data
+        run: |
+          set -e
+          echo "NEWSAPI_KEY length: ${#NEWSAPI_KEY}"
+          echo "FINNHUB_API_KEY length: ${#FINNHUB_API_KEY}"
+          node -v
+          node scripts/generate-data.mjs
+
+      - name: Debug output files
+        run: |
+          echo "Listing data folder:"
+          ls -la data
+          echo "Listing today's folder (UTC) if it exists:"
+          ls -la data/$(date -u +%F) || true
+          echo "Git status (porcelain):"
+          git status --porcelain
 
       - name: Commit and push changes (if any)
         run: |

@@ -319,6 +319,7 @@ async function main() {
   // run this script with env vars available (via .env loader or shell env)
 
   //Take raw external data (NewsAPI + Finnhub) → transform it → output structured JSON files → update manifest → frontend reads them.
+  console.log(`[generate-data] START ${new Date().toISOString()}`);
   const newsApiKey = requireEnv("NEWSAPI_KEY");
   const finnhubKey = requireEnv("FINNHUB_API_KEY");
 
@@ -374,6 +375,7 @@ async function main() {
 
   writeJson(manifestPath, manifest);
   console.log("Updated data/manifest.json");
+  console.log(`[generate-data] DONE ${new Date().toISOString()}`);
 }
 
 main().catch((e) => {
