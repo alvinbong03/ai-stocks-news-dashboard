@@ -9,6 +9,18 @@ function isThemeSlug(value: string): value is ThemeSlug {
   return value === "ai" || value === "semiconductors" || value === "energy" || value === "us-politics";
 }
 
+function formatUtcLabel(iso: string) {
+  // Example output: 2026-02-26 18:12 UTC
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, "0");
+  const day = String(d.getUTCDate()).padStart(2, "0");
+  const hh = String(d.getUTCHours()).padStart(2, "0");
+  const mm = String(d.getUTCMinutes()).padStart(2, "0");
+  return `${y}-${m}-${day} ${hh}:${mm} UTC`;
+}
+
 export default function ThemeDashboard() {
   const { slug } = useParams(); // reads from URL path /theme/:slug
   const themeSlug = useMemo(() => (slug && isThemeSlug(slug) ? slug : "ai"), [slug]);
@@ -26,7 +38,7 @@ export default function ThemeDashboard() {
     loadThemeData(themeSlug)
       .then(setData)
       .catch((e: unknown) => {
-        setError(e instanceof Error ? e.message : "Unknown error");
+        setError(e instanceof Error ? e.message : "No data generated yet for this theme. Check back later.");
       });
   }, [themeSlug]);
 
@@ -49,9 +61,19 @@ export default function ThemeDashboard() {
 
         <div className="mt-6">
           <h1 className="text-3xl font-bold capitalize">Theme: {themeSlug}</h1>
+
           <p className="text-[var(--muted-foreground)] mt-2">
             Built from a daily digest and clustered news narratives.
           </p>
+
+          {data?.last_updated_utc && (
+            <p className="mt-2 text-xs text-[var(--muted-foreground)]">
+              Last updated (UTC):{" "}
+              <span className="text-[var(--foreground)]">
+                {formatUtcLabel(data.last_updated_utc)}
+              </span>
+            </p>
+          )}
         </div>
 
         {error && (
@@ -70,27 +92,38 @@ export default function ThemeDashboard() {
           <div className="mt-8 space-y-6">
             {/* Digest */}
             <div className="rounded-lg border border-[var(--border)] bg-[var(--card)] p-6">
-              <h2 className="text-xl font-semibold mb-4">Daily digest</h2>
+              <div className="flex items-start justify-between gap-4 mb-4">
+                <div>
+                  <h2 className="text-xl font-semibold">Daily Digest</h2>
+                  <p className="text-sm text-[var(--muted-foreground)] mt-1">
+                    A quick, beginner-friendly summary of the most important news narratives today.
+                  </p>
+                </div>
+
+                <span className="shrink-0 text-xs px-2 py-1 rounded border border-[var(--border)] text-[var(--muted-foreground)]">
+                  Max 5 bullets
+                </span>
+              </div>
 
               <ul className="list-disc pl-5 space-y-2">
-                {data.digest.bullets.slice(0, 5).map((b) => (
-                  <li key={b} className="text-[var(--muted-foreground)]">
+                {data.digest.bullets.slice(0, 5).map((b, idx) => (
+                  <li key={`${idx}-${b}`} className="text-[var(--foreground)] leading-relaxed">
                     {b}
                   </li>
                 ))}
               </ul>
 
               {data.digest.insights.length > 0 && (
-                <>
-                  <h3 className="text-lg font-semibold mt-6 mb-3">Key insights</h3>
+                <div className="mt-6 pt-4 border-t border-[var(--border)]">
+                  <h3 className="text-lg font-semibold mb-3">Key insights</h3>
                   <ul className="list-disc pl-5 space-y-2">
-                    {data.digest.insights.slice(0, 3).map((i) => (
-                      <li key={i} className="text-[var(--muted-foreground)]">
+                    {data.digest.insights.slice(0, 3).map((i, idx) => (
+                      <li key={`${idx}-${i}`} className="text-[var(--foreground)]/90 leading-relaxed">
                         {i}
                       </li>
                     ))}
                   </ul>
-                </>
+                </div>
               )}
             </div>
 
