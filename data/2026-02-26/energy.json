@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "What is the warmest part of your body?",
-      "Solana (SOL) Recovery Shows Strength After Breaking Initial Resistance Level",
-      "XRP Price Recovery Stalls Near Resistance, Bears Eye Renewed Downside",
-      "West Asia: Redrawing the geopolitical map for the 21st century",
-      "What are the symptoms of distemper in animals?"
+      "Trump says US has received 80m barrels of Venezuelan oil; 3rd tanker seized",
+      "Yuhang Economic Development Zone: \"Qihang Road\" Connects to a New Industrial Future",
+      "EON Lifts Spending Plan by €5 Billion in Boost for Europe’s Grid",
+      "Riviera Tower: The tallest green residential skyscraper in the Mediterranean nears completion – 200 meters high and 170 apartments",
+      "Can raccoons fall in love?"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,39 +16,45 @@
   },
   "clusters": [
     {
+      "title": "Energy",
+      "summary": "Grouped stories where \"energy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://financialpost.com/pmn/business-pmn/eon-lifts-spending-plan-by-e5-billion-in-boost-for-europes-grid",
+        "https://alltoc.com/science/why-did-solar-generation-surpass-hydro-in-the-us",
+        "https://www.naftemporiki.gr/english/2076848/the-transformation-of-the-aktor-group-and-the-lng-bet/"
+      ]
+    },
+    {
+      "title": "Known",
+      "summary": "Grouped stories where \"known\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.lifesciencesworld.com/can-raccoons-fall-in-love/",
+        "https://yle.fi/a/74-20212069"
+      ]
+    },
+    {
       "title": "Trump",
       "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://financialpost.com/pmn/business-pmn/trump-says-iran-resumed-its-pursuit-of-sinister-nuclear-aims",
-        "https://www.businessinsider.com/takeaways-trump-state-of-the-union-speech-2026-2",
-        "https://www.nextgov.com/artificial-intelligence/2026/02/trump-unveils-big-tech-pledge-offset-rising-data-center-energy-costs/411668/"
+        "https://www.aljazeera.com/news/2026/2/25/trump-says-us-has-received-80m-barrels-of-venezuelan-oil-3rd-tanker-seized",
+        "https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read"
       ]
     },
     {
-      "title": "Like",
-      "summary": "Grouped stories where \"like\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Development",
+      "summary": "Grouped stories where \"development\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.lifesciencesworld.com/what-is-the-warmest-part-of-your-body/",
-        "https://www.lifesciencesworld.com/what-are-the-symptoms-of-distemper-in-animals/",
-        "https://www.blogto.com/travel/2026/02/one-night-staycation-toronto-with-large-dog/"
-      ]
-    },
-    {
-      "title": "Above",
-      "summary": "Grouped stories where \"above\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "http://www.newsbtc.com/analysis/solana-sol-recovery-shows-strength-82/",
-        "http://www.newsbtc.com/analysis/xrp/xrp-price-recovery-stalls-1-40/",
-        "https://bitcoinist.com/bitcoin-mining-difficulty-erases-frost-driven-dips/"
+        "https://www.globenewswire.com/news-release/2026/02/25/3244252/0/en/Yuhang-Economic-Development-Zone-Qihang-Road-Connects-to-a-New-Industrial-Future.html",
+        "https://www.naftemporiki.gr/english/2076846/terna-ukrhydroenergo-cooperation-on-track-for-1-5-billion-euro-projects/"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/news/international/world-news/west-asia-redrawing-the-geopolitical-map-for-the-21st-century/articleshow/128770523.cms",
-        "http://foreignpolicy.com/2026/02/25/india-brics-global-south-ai-summit-leadership/",
-        "http://wwd.com/business-news/retail/american-eagle-country-bailey-zimmerman-stagecoach-ella-langley-1238623856/"
+        "https://www.naftemporiki.gr/english/2076853/riviera-tower-the-tallest-green-residential-skyscraper-in-the-mediterranean-nears-completion-200-meters-high-and-170-apartments/",
+        "https://www.irishtimes.com/business/2026/02/25/denis-obriens-new-zealand-move-and-the-corporation-tax-riddle/",
+        "https://www.lifesciencesworld.com/why-is-a-bat-a-mammal-and-not-a-bird/"
       ]
     }
   ],
