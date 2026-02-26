@@ -1,3 +1,4 @@
+import "dotenv/config";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -26,20 +27,108 @@ function requireEnv(name) {
   return v;
 }
 
-async function fetchJson(url) {
-  const res = await fetch(url);
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Fetch failed ${res.status} for ${url}\n${text.slice(0, 200)}`);
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function parseRetryAfterMs(retryAfterHeader) {
+  if (!retryAfterHeader) return null;
+
+  // Retry-After can be seconds or an HTTP-date
+  const asSeconds = Number(retryAfterHeader);
+  if (!Number.isNaN(asSeconds) && asSeconds > 0) {
+    return asSeconds * 1000;
   }
-  return res.json();
+
+  const asDate = Date.parse(retryAfterHeader);
+  if (!Number.isNaN(asDate)) {
+    const delta = asDate - Date.now();
+    return delta > 0 ? delta : 0;
+  }
+
+  return null;
+}
+
+function shouldRetryStatus(status) {
+  // Retry on rate limit and transient server/network issues
+  return (
+    status === 429 ||
+    status === 408 ||
+    status === 500 ||
+    status === 502 ||
+    status === 503 ||
+    status === 504
+  );
+}
+
+async function fetchJson(url, options = {}) {
+  const {
+    label = "request",
+    maxAttempts = 4,
+    baseDelayMs = 500,
+    maxDelayMs = 8000,
+    minSpacingMs = 250
+  } = options;
+
+  let attempt = 1;
+  let lastError = null;
+
+  while (attempt <= maxAttempts) {
+    // Basic pacing to reduce burstiness (especially important on free tiers)
+    await sleep(minSpacingMs);
+
+    try {
+      const res = await fetch(url);
+
+      if (res.ok) {
+        return res.json();
+      }
+
+      const retryAfterMs = parseRetryAfterMs(res.headers.get("retry-after"));
+      const isRetryable = shouldRetryStatus(res.status);
+
+      const bodyText = await res.text();
+      const snippet = bodyText.slice(0, 200);
+
+      if (!isRetryable) {
+        throw new Error(`[${label}] Fetch failed ${res.status} for ${url}\n${snippet}`);
+      }
+
+      const expDelay = Math.min(maxDelayMs, baseDelayMs * Math.pow(2, attempt - 1));
+      const jitter = Math.floor(Math.random() * 250);
+      const delayMs = retryAfterMs !== null ? retryAfterMs : expDelay + jitter;
+
+      console.warn(
+        `[${label}] Attempt ${attempt}/${maxAttempts} failed (${res.status}). Retrying in ${delayMs}ms...`
+      );
+      await sleep(delayMs);
+    } catch (err) {
+      lastError = err;
+
+      if (attempt === maxAttempts) break;
+
+      const expDelay = Math.min(maxDelayMs, baseDelayMs * Math.pow(2, attempt - 1));
+      const jitter = Math.floor(Math.random() * 250);
+      const delayMs = expDelay + jitter;
+
+      console.warn(
+        `[${label}] Attempt ${attempt}/${maxAttempts} threw an error. Retrying in ${delayMs}ms...`
+      );
+      await sleep(delayMs);
+    }
+
+    attempt += 1;
+  }
+
+  if (lastError instanceof Error) throw lastError;
+  throw new Error(`[${label}] Fetch failed after ${maxAttempts} attempts for ${url}`);
 }
 
 async function fetchNews(theme, newsApiKey) {
-  // Very simple query. We will improve later.
+  // Very simple query.
   const q = encodeURIComponent(theme);
   const url = `https://newsapi.org/v2/everything?q=${q}&language=en&pageSize=20&sortBy=publishedAt&apiKey=${newsApiKey}`;
-  const data = await fetchJson(url);
+  const data = await fetchJson(url, { label: `news:${theme}` });
 
   // Normalize to only what we need
   const articles = (data.articles ?? []).map((a) => ({
@@ -62,10 +151,20 @@ async function fetchFinnhubCandles(ticker, finnhubKey) {
     `https://finnhub.io/api/v1/stock/candle?symbol=${encodeURIComponent(ticker)}` +
     `&resolution=D&from=${fromSec}&to=${nowSec}&token=${encodeURIComponent(finnhubKey)}`;
 
-  const data = await fetchJson(url);
+  let data;
+    try {
+        data = await fetchJson(url, { label: `finnhub:${ticker}` });
+    } catch (err) {
+        const msg = err instanceof Error ? err.message : String(err);
+        console.warn(
+        `[finnhub:${ticker}] Failed to fetch candle data. Continuing without price history.\n${msg}`
+    );
+    return [];
+    }
 
   if (data.s !== "ok") {
     // finnhub returns { s: "no_data" } sometimes
+    console.warn(`[finnhub:${ticker}] No candle data (status: ${data.s}).`);
     return [];
   }
 
@@ -93,32 +192,133 @@ function buildDigest(articles) {
   return { bullets, insights: insights.slice(0, 3) };
 }
 
+function tokenize(text) {
+  // Lowercase and replace punctuation with spaces
+  const cleaned = text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ");
+
+  // Split on whitespace and filter out junk
+  return cleaned
+    .split(/\s+/) // split into an array, using whitespace as separators: \s = any whitespace; + = one or more of them
+    .map((t) => t.trim()) // for each token t, we run t.trim()
+    .filter((t) => t.length >= 3); // only keep tokens with length >= 3 to reduce noise
+}
+
 function buildClusters(articles) {
-  // MVP clustering: group by source (simple and deterministic)
-  const bySource = new Map();
+  // Common stopwords: do not want as “keywords”
+  const stopwords = new Set([
+    "the", "and", "for", "with", "from", "that", "this", "are", "was", "were",
+    "into", "over", "will", "just", "than", "then", "they", "their", "about",
+    "after", "before", "today", "says", "said", "into", "onto", "have", "has",
+    "had", "you", "your", "its", "also", "not", "but", "new", "more", "most",
+    "can", "could", "would", "should", "may", "might", "than", "when", "what",
+    "why", "how", "who", "where", "which", "market", "stocks", "stock"
+  ]);
+
+  // 1) Build tokens per article and a global keyword frequency map
+  const perArticleTokens = [];
+  const freq = new Map(); // keyword -> count
+
   for (const a of articles) {
-    const key = a.source || "Unknown";
-    if (!bySource.has(key)) bySource.set(key, []);
-    bySource.get(key).push(a);
+    const combined = `${a.title ?? ""} ${a.description ?? ""}`; // comvine title and description for better keyword extraction
+    const tokens = tokenize(combined).filter((t) => !stopwords.has(t));
+
+    perArticleTokens.push({ article: a, tokens });
+
+    // Count keyword frequency (unique per article helps reduce spammy repetition)
+    const unique = new Set(tokens); // only count each keyword once per article to avoid over-weighting articles with repeated words
+    for (const word of unique) {
+      freq.set(word, (freq.get(word) ?? 0) + 1); 
+    }
   }
 
+  // If not enough data, return a single fallback cluster
+  if (articles.length === 0) {
+    return [];
+  }
+
+  // 2) Choose top keywords as cluster labels
+  // Rules:
+  // - keyword must appear in at least 2 articles (filters noise)
+  // - take top N
+  const MIN_ARTICLE_COUNT = 2;
+  const MAX_LABELS = 4;
+
+  const sortedKeywords = Array.from(freq.entries())
+    .filter(([, count]) => count >= MIN_ARTICLE_COUNT)
+    .sort((a, b) => b[1] - a[1]) // descending by count
+    .map(([word]) => word);
+
+  const labels = sortedKeywords.slice(0, MAX_LABELS);
+
+  // If nothing qualifies, fall back to 1 label to avoid empty UI
+  const finalLabels = labels.length > 0 ? labels : ["updates"];
+
+  // 3) Create buckets: label -> articles (create an empty array for each cluster label)
+  const buckets = new Map();
+  for (const label of finalLabels) {
+    buckets.set(label, []);
+  }
+  buckets.set("other", []);
+
+  // 4) Assign each article to the first label it matches
+  for (const item of perArticleTokens) {
+    const { article, tokens } = item;
+
+    let assigned = false;
+    for (const label of finalLabels) { // loop through cluster labels in priority order
+      if (tokens.includes(label)) {
+        buckets.get(label).push(article);
+        assigned = true;
+        break; // assign to first matching label only to create more distinct clusters; if an article matches multiple labels, it will go into the first one in the list
+      }
+    }
+
+    if (!assigned) {
+      buckets.get("other").push(article);
+    }
+  }
+
+  // 5) Convert buckets into the final clusters array
   const clusters = [];
-  const entries = Array.from(bySource.entries()).slice(0, 4);
-  for (const [source, list] of entries) {
-    const urls = list.slice(0, 3).map((x) => x.url);
+
+  for (const label of finalLabels) {
+    const list = buckets.get(label);
+
+    // Skip empty clusters
+    if (!list || list.length === 0) continue;
+
+    const urls = list
+      .slice(0, 3)
+      .map((x) => x.url)
+      .filter(Boolean);
+
     clusters.push({
-      title: `${source} coverage`,
-      summary: `Top recent stories from ${source}. (MVP grouping by source)`,
-      article_urls: urls
+      title: `${label.charAt(0).toUpperCase()}${label.slice(1)}`,
+      summary: `Grouped stories where "${label}" appears frequently in titles/descriptions. (Keyword-based MVP)`,
+      article_urls: urls,
     });
   }
 
-  return clusters;
+  // Optional “Other” cluster if it has at least 2 articles
+  const otherList = buckets.get("other") ?? [];
+  if (otherList.length >= 2 && clusters.length < 5) {
+    clusters.push({
+      title: "Other",
+      summary: "Stories that did not match the main keywords. (Keyword-based MVP)",
+      article_urls: otherList.slice(0, 3).map((x) => x.url).filter(Boolean),
+    });
+  }
+
+  return clusters.slice(0, 5);
 }
 
 async function main() {
   // Load env (simple, no dependency)
-  // You must run this script with env vars available (via .env loader or shell env)
+  // run this script with env vars available (via .env loader or shell env)
+
+  //Take raw external data (NewsAPI + Finnhub) → transform it → output structured JSON files → update manifest → frontend reads them.
   const newsApiKey = requireEnv("NEWSAPI_KEY");
   const finnhubKey = requireEnv("FINNHUB_API_KEY");
 
