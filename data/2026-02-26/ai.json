@@ -1,0 +1,100 @@
+{
+  "theme": "ai",
+  "date": "2026-02-26",
+  "digest": {
+    "bullets": [
+      "Texas Rep Al Green Tossed From Trump's SOTU for Protesting Obama AI Video",
+      "Futures Try To Bounce After Market Sell-Off - Investor's Business Daily",
+      "geoai-py 0.31.1",
+      "simmer-sdk 0.8.28",
+      "Nvidia prepares to release its quarterly results as AI fears weigh on the stock market"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation will be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.usmagazine.com/celebrity-news/news/texas-rep-al-green-removed-from-president-trumps-state-of-the-union-for-protest/",
+        "https://projects.eclipse.org/projects/modeling.uml2/reviews/eclipse-uml2-2026-03-5.6.0-release-review",
+        "https://projects.eclipse.org/projects/modeling.modisco/reviews/eclipse-modisco-2026-03-1.6.0-release-review"
+      ]
+    },
+    {
+      "title": "Release",
+      "summary": "Grouped stories where \"release\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://abcnews.com/Technology/wireStory/nvidia-prepares-release-quarterly-results-ai-fears-weigh-130482137"
+      ]
+    },
+    {
+      "title": "Trump",
+      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/takeaways-trump-state-of-the-union-speech-2026-2",
+        "https://www.nextgov.com/artificial-intelligence/2026/02/trump-unveils-big-tech-pledge-offset-rising-data-center-energy-costs/411668/"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180857402",
+        "https://pypi.org/project/geoai-py/0.31.1/",
+        "https://pypi.org/project/simmer-sdk/0.8.28/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

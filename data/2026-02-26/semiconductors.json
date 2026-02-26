@@ -1,0 +1,109 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-02-26",
+  "digest": {
+    "bullets": [
+      "Indonesia, Arm partnership targets faster mastery of chip technology",
+      "Toshiba Releases Small Photorelays with 135°C Rating for High-Temperature Equipment Operation",
+      "China has not yet received any Nvidia H200 chips, US official says",
+      "US Stock Market | Wall Street bounces back, ending higher on renewed tech vigor, easing AI concerns",
+      "The global M&A boom is rolling into 2026 as AI sparks deal frenzy — but cash is getting tight"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation will be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Global",
+      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html",
+        "https://www.cnbc.com/2026/02/25/critical-minerals-stockpile-race-us-eu-china-resource-nationalism.html",
+        "https://www.globenewswire.com/news-release/2026/02/24/3243984/0/en/Latest-Global-IT-Risk-Management-Market-Size-Share-Worth-USD-IT-Risk-Management-Billion-by-2035-at-11-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-.html"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/us/how-the-ai-boom-is-fueling-the-south-korean-economy-heres-the-breakdown/articleshow/128755794.cms",
+        "https://www.ibtimes.com.au/nasdaq-composite-pulls-back-around-22800-amid-ai-spending-concerns-tariff-uncertainty-volatile-1862018"
+      ]
+    },
+    {
+      "title": "Scale",
+      "summary": "Grouped stories where \"scale\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.nature.com/articles/s41565-026-02127-y",
+        "https://www.nature.com/articles/s41563-026-02513-w",
+        "https://www.nature.com/articles/s41567-026-03187-6"
+      ]
+    },
+    {
+      "title": "Driven",
+      "summary": "Grouped stories where \"driven\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-releases-small-photorelays-with-135c-rating-for-high-temperature-equipment-operation"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://en.antaranews.com/news/405938/indonesia-arm-partnership-targets-faster-mastery-of-chip-technology",
+        "https://economictimes.indiatimes.com/tech/technology/china-has-not-yet-received-any-nvidia-h200-chips-us-official-says/articleshow/128767585.cms",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-bounces-back-ending-higher-on-renewed-tech-vigor-easing-ai-concerns/articleshow/128767407.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

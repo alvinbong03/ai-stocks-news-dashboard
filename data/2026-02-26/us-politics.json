@@ -1,0 +1,85 @@
+{
+  "theme": "us-politics",
+  "date": "2026-02-26",
+  "digest": {
+    "bullets": [
+      "Fact-checking Trump's 2026 State of the Union address",
+      "30 Christian Substacks I Read and Recommend in 2026",
+      "Mad for it: Labour feels strain of Greens and Reform pincer grip in Manchester",
+      "Ilhan Omar Melts Down When Trump Calls for Protecting Americans over Illegal Aliens",
+      "Dems Refuse En Masse To Say The Government Should Protect Americans, Not Illegals"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation will be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Trump",
+      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.nbcnews.com/politics/donald-trump/state-of-union-fact-check-trump-speech-2026-rcna259900",
+        "https://freerepublic.com/focus/f-news/4368196/posts",
+        "https://freerepublic.com/focus/f-news/4368195/posts"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.challies.com/articles/30-christian-substacks-i-read-and-recommend-in-2026/",
+        "https://www.irishtimes.com/world/uk/2026/02/25/mad-for-it-labour-feels-strain-of-greens-and-reform-pincer-grip-in-manchester/",
+        "https://www.nzherald.co.nz/business/companies/airlines/regional-airline-loans-welcomed-but-insidious-cost-increases-may-be-one-reason-for-sense-of-urgency/premium/IZTN6ZI6RFGSVJ2FL4LALA7YRU/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "SPY",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "QQQ",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "XLF",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "XLE",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "XLK",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

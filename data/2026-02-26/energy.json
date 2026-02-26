@@ -1,0 +1,103 @@
+{
+  "theme": "energy",
+  "date": "2026-02-26",
+  "digest": {
+    "bullets": [
+      "What is the warmest part of your body?",
+      "Solana (SOL) Recovery Shows Strength After Breaking Initial Resistance Level",
+      "XRP Price Recovery Stalls Near Resistance, Bears Eye Renewed Downside",
+      "West Asia: Redrawing the geopolitical map for the 21st century",
+      "What are the symptoms of distemper in animals?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation will be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Trump",
+      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://financialpost.com/pmn/business-pmn/trump-says-iran-resumed-its-pursuit-of-sinister-nuclear-aims",
+        "https://www.businessinsider.com/takeaways-trump-state-of-the-union-speech-2026-2",
+        "https://www.nextgov.com/artificial-intelligence/2026/02/trump-unveils-big-tech-pledge-offset-rising-data-center-energy-costs/411668/"
+      ]
+    },
+    {
+      "title": "Like",
+      "summary": "Grouped stories where \"like\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.lifesciencesworld.com/what-is-the-warmest-part-of-your-body/",
+        "https://www.lifesciencesworld.com/what-are-the-symptoms-of-distemper-in-animals/",
+        "https://www.blogto.com/travel/2026/02/one-night-staycation-toronto-with-large-dog/"
+      ]
+    },
+    {
+      "title": "Above",
+      "summary": "Grouped stories where \"above\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://www.newsbtc.com/analysis/solana-sol-recovery-shows-strength-82/",
+        "http://www.newsbtc.com/analysis/xrp/xrp-price-recovery-stalls-1-40/",
+        "https://bitcoinist.com/bitcoin-mining-difficulty-erases-frost-driven-dips/"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/world-news/west-asia-redrawing-the-geopolitical-map-for-the-21st-century/articleshow/128770523.cms",
+        "http://foreignpolicy.com/2026/02/25/india-brics-global-south-ai-summit-leadership/",
+        "http://wwd.com/business-news/retail/american-eagle-country-bailey-zimmerman-stagecoach-ella-langley-1238623856/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "XOM",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "CVX",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "NEE",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "SHEL",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    },
+    {
+      "ticker": "BP",
+      "price_history": [],
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
