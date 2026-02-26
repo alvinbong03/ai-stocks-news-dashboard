@@ -14,6 +14,7 @@ export type PricePoint = {
 export type ThemeData = {
   theme: ThemeSlug;
   date: string;
+  last_updated_utc?: string;
   digest: {
     bullets: string[];
     insights: string[];
