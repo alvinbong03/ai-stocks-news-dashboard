@@ -93,6 +93,9 @@ export default function ThemeDashboard() {
         >
           ← Back to themes
         </Link>
+        <Link to="/methodology" className="text-sm text-[var(--muted-foreground)] hover:underline ml-4">
+            Methodology
+        </Link>
 
         <div className="mt-6">
           <h1 className="text-3xl font-bold capitalize">Theme: {themeSlug}</h1>
