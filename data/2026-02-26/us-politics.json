@@ -1,13 +1,345 @@
 {
   "theme": "us-politics",
   "date": "2026-02-26",
+  "last_updated_utc": "2026-02-26T14:38:32.253Z",
+  "news": [
+    {
+      "title": "Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?",
+      "description": "Friday’s Supreme Court ruling wiped out many of Trump's tariffs, removing the main incentive for foreign governments to negotiate new trade agreements.",
+      "url": "https://fortune.com/2026/02/25/trump-far-worse-trade-deals-tariffs-state-of-the-union",
+      "source": "Fortune",
+      "publishedAt": "2026-02-25T14:37:56Z"
+    },
+    {
+      "title": "Trump's SOTU Lies",
+      "description": "In a record-long State of the Union, Trump defended tariffs, overstated economic gains, and repeated disputed claims on inflation and gas prices.",
+      "url": "https://reason.com/2026/02/25/trumps-sotu-lies",
+      "source": "Reason",
+      "publishedAt": "2026-02-25T14:36:19Z"
+    },
+    {
+      "title": "Makinde, Kwankwaso in closed-door meeting",
+      "description": "Oyo State Governor, Seyi Makinde, holds a closed-door meeting with NNPP leader Rabiu Kwankwaso, fueling speculation about 2027 election alignments.\n\nRead More: https://punchng.com/makinde-kwankwaso-in-closed-door-meeting/",
+      "url": "https://punchng.com/makinde-kwankwaso-in-closed-door-meeting",
+      "source": "The Punch",
+      "publishedAt": "2026-02-25T14:36:07Z"
+    },
+    {
+      "title": "WATCH LIVE: Casey Means testifies at Senate confirmation hearing for surgeon general",
+      "description": "Dr. Casey Means, a wellness influencer, author and entrepreneur aligned with Health Secretary Robert F. Kennedy Jr. and his Make America Healthy Again movement, will appear before the Senate health committee on Wednesday as she seeks approval to be the nation…",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-casey-means-testifies-at-senate-confirmation-hearing-for-surgeon-general",
+      "source": "PBS",
+      "publishedAt": "2026-02-25T14:34:18Z"
+    },
+    {
+      "title": "Several pets killed, firefighter injured in early morning house fire in Attleboro",
+      "description": "ATTLEBORO -- Several pets were killed, one was missing, and a firefighter was injured during a two-alarm house fire early Wednesday morning where crews were hampered by deep snow, live electrical wires and frozen fire hydrants.",
+      "url": "https://www.thesunchronicle.com/news/local_news/several-pets-killed-firefighter-injured-in-early-morning-house-fire-in-attleboro/article_3a06bd09-4d98-4604-b8a6-873737988a97.html",
+      "source": "The Sun Chronicle",
+      "publishedAt": "2026-02-25T14:34:00Z"
+    },
+    {
+      "title": "Federal Government leads radio charts amid shift in ad spending strategy",
+      "description": "The advertiser logged 7,765 occurrences for the week of Feb. 16 to 22.Read More",
+      "url": "https://mediaincanada.com/2026/02/25/federal-government-leads-radio-charts-amid-shift-in-ad-spending-strategy",
+      "source": "Mediaincanada.com",
+      "publishedAt": "2026-02-25T14:33:50Z"
+    },
+    {
+      "title": "How Democrats reorganized their State of the Union resistance",
+      "description": "When President Donald Trump addressed Congress a year ago, the Democrats seemed to be, as the meme would have it, “in disarray.” They were lambasted for their disorganized responses to Trump — remember those little ping-pong paddles?  But things were differen…",
+      "url": "https://www.vox.com/politics/480385/democrat-response-trump-state-of-the-union-sotu-affordability-alternative-media-resistance",
+      "source": "Vox",
+      "publishedAt": "2026-02-25T14:33:24Z"
+    },
+    {
+      "title": "Trump considers ordering banks to collect citizenship data – FT",
+      "description": "Washington is reportedly considering a move that would force US banks to collect citizenship information from customers Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/633027-trump-banks-order-citizeship-data",
+      "source": "RT",
+      "publishedAt": "2026-02-25T14:33:18Z"
+    },
+    {
+      "title": "6 Takeaways From Trump’s State of the Union - The New York Times",
+      "description": "6 Takeaways From Trump’s State of the UnionThe New York Times 5 takeaways from Trump's State of the Union addressNPR Trump News and State of the Union Address Reaction: Live UpdatesThe New York Times President Trump’s State of the Union Variety ShowThe Atlant…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180858822",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T14:33:16Z"
+    },
+    {
+      "title": "Army helicopter pilot wounded during Maduro raid receives Medal of Honor during State of the Union - Military Times",
+      "description": "Army helicopter pilot wounded during Maduro raid receives Medal of Honor during State of the UnionMilitary Times Trump awarded these medals during his State of the Union addressThe Hill Trump awards Medal of Honor to 100-year-old veteran during State of the U…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180858820",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T14:33:05Z"
+    },
+    {
+      "title": "Reform’s Matt Goodwin Faces No Fine Over “Inadvertent” Election Rule Breach",
+      "description": "Matt Goodwin will not be sanctioned over an “honest administrative error” that saw by-election campaign leaflets printed without a Reform UK imprint – a potential violation of the Representation of the People Act 1983. Following a High Court hearing today, Ju…",
+      "url": "https://order-order.com/2026/02/25/reforms-matt-goodwin-faces-no-fine-over-inadvertent-election-rule-breach",
+      "source": "Order-order.com",
+      "publishedAt": "2026-02-25T14:31:48Z"
+    },
+    {
+      "title": "Indian exporters report rise in US enquiries after court verdict on tariffs",
+      "description": "Indian exporters see increased US inquiries post-court ruling on tariffs, but remain cautious about future tariff uncertainties.",
+      "url": "https://www.thehindubusinessline.com/economy/indian-exporters-report-rise-in-us-enquiries-after-court-verdict-on-tariffs/article70676029.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-25T14:31:07Z"
+    },
+    {
+      "title": "Joe Scarborough Skewers Trump State of the Union for ‘Unrelenting Bigotry’ and ‘Un-American’ Lies | Video",
+      "description": "\"He did s--t that no sane president would ever do,\" the MS NOW host tells his \"Morning Joe\" panel\nThe post Joe Scarborough Skewers Trump State of the Union for ‘Unrelenting Bigotry’ and ‘Un-American’ Lies | Video appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/media-platforms/journalism/trump-state-of-the-union-lies-morning-joe-scarborough-reaction",
+      "source": "TheWrap",
+      "publishedAt": "2026-02-25T14:30:55Z"
+    },
+    {
+      "title": "Virginia mom praises Trump for shining 'a light' on daughter's school transition case during SOTU",
+      "description": "Michele Blair vows to continue federal lawsuit against Virginia school that allegedly socially transitioned her daughter Sage without parental consent.",
+      "url": "https://www.foxnews.com/media/mother-sotu-guest-school-transition-case-praises-trump-shining-a-light-dark-topic",
+      "source": "Fox News",
+      "publishedAt": "2026-02-25T14:30:42Z"
+    },
+    {
+      "title": "Trump’s Great Enemy Is Time",
+      "description": "Republicans are starting to see that the 80-year-old president is a lame duck who has given them little to campaign on this fall, writes columnist Ross Barkan.",
+      "url": "http://nymag.com/intelligencer/article/trumps-great-enemy-is-time.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-02-25T14:30:30Z"
+    },
+    {
+      "title": "Chagos Islands deal bill paused for talks with US",
+      "description": "A minister says the UK is discussing \"concerns\" with the US, after President Trump criticised the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5lqd4g338o",
+      "source": "BBC News",
+      "publishedAt": "2026-02-25T14:30:03Z"
+    },
+    {
+      "title": "Jimmy Kimmel Slams Trump’s State Of The Union Speech: ‘We Have A Nutjob Wannabe King” Who “Has His Goons Arresting, Incarcerating & Killing American Citizens”",
+      "description": "Jimmy Kimmel laid into Donald Trump following the president’s State of the Union address Tuesday night, describing the theme of tonight’s “angry” speech as ‘All foreigners are murderers.’” He continued, “And Trump said zero illegal aliens have been allowed in…",
+      "url": "http://deadline.com/2026/02/jimmy-kimmel-donald-trump-state-of-the-union-reacts-1236735740",
+      "source": "Deadline",
+      "publishedAt": "2026-02-25T14:30:00Z"
+    },
+    {
+      "title": "Gold Medal Speech (bray)",
+      "description": "A Gold Medal Speech Jeremiah 29:11-13 (King James Version) For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Then shall ye call upon me, and ye shall go and pray unto me, and I wi…",
+      "url": "https://freerepublic.com/focus/f-news/4368240/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T14:29:13Z"
+    },
+    {
+      "title": "Gold Medal Speech (bray)",
+      "description": "A Gold Medal Speech Jeremiah 29:11-13 (King James Version) For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end. Then shall ye call upon me, and ye shall go and pray unto me, and I wi…",
+      "url": "https://freerepublic.com/focus/f-bloggers/4368240/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T14:29:13Z"
+    },
+    {
+      "title": "‘Say No to Suno’ open letter takes aim at ‘irresponsible AI’",
+      "description": "Armed with its latest funding round of $250m, AI-music startup Suno is finally starting to sign licensing deals with rightsholders – albeit while pushing back on some of their ‘walled garden’ demands. Some of Suno’s critics have now banded together and publis…",
+      "url": "http://musically.com/2026/02/25/say-no-to-suno-open-letter-takes-aim-at-irresponsible-ai",
+      "source": "Music Ally",
+      "publishedAt": "2026-02-25T14:29:00Z"
+    },
+    {
+      "title": "Calls for Pride Progress flag to be raised at Stonewall National Monument",
+      "description": "After the Pride flag outside the Stonewall National Monument was removed by the Trump administration and reinstated by the local community, some are calling for the Pride Progress flag to be used instead. Earlier this month, the Trump administration quietly t…",
+      "url": "https://www.thepinknews.com/2026/02/25/calls-for-pride-progress-flag-to-be-raised-at-stonewall-national-monument",
+      "source": "Thepinknews.com",
+      "publishedAt": "2026-02-25T14:28:17Z"
+    },
+    {
+      "title": "Gold Rises as Traders Weigh Tariff Risks and Middle East Tension",
+      "description": "A lack of clarity over US trade policy has supported the metal in recent sessions, as well as tensions over an American military buildup ahead of the next...",
+      "url": "https://finance.yahoo.com/news/gold-rises-traders-weigh-tariff-074525702.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T14:28:03Z"
+    },
+    {
+      "title": "Days after his biggest defeat, Trump tells America ‘we’re winning so much’",
+      "description": "President Donald Trump declared during a marathon State of the Union on Tuesday that “we’re winning so much” — insisting he’d sparked an economic boom at home and imposed a new world order abroad in hopes it can counter his sliding approval ratings. Trump’s m…",
+      "url": "https://fortune.com/2026/02/25/trump-state-of-the-union-winning-so-much-big-defeat-supreme-court",
+      "source": "Fortune",
+      "publishedAt": "2026-02-25T14:27:17Z"
+    },
+    {
+      "title": "Brunswick Exploration Announces Insider-Led Non-Brokered Life Private Placement",
+      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES MONTREAL, Feb. 25, 2026 (GLOBE NEWSWIRE) — Brunswick Exploration Inc. (TSX-V: BRW, OTCQB: BRWXF; FRANKFURT:1XQ; “BRW” or the “Corporation”) is pleased to announ…",
+      "url": "https://financialpost.com/globe-newswire/brunswick-exploration-announces-insider-led-non-brokered-life-private-placement",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T14:27:00Z"
+    },
+    {
+      "title": "Jimmy Kimmel Mocks Donald Trump as “Nut Job Wannabe King”",
+      "description": "Reading Time: 3 minutesJimmy Kimmel had quite the reaction to the State of the Union address this wee. You can read most of it here.\nJimmy Kimmel Mocks Donald Trump as “Nut Job Wannabe King” was originally published on The Hollywood Gossip.",
+      "url": "http://www.thehollywoodgossip.com/2026/02/jimmy-kimmel-mocks-donald-trump-as-nut-job-wannabe-king",
+      "source": "The Hollywood Gossip",
+      "publishedAt": "2026-02-25T14:26:56Z"
+    },
+    {
+      "title": "Watch: Trump Won over CNN Viewers, Contradicting Network's Own Abby Phillip’s Post-Speech Grading",
+      "description": "President Donald Trump delivered his first State of the Union address since his triumphant return in 2024’s presidential election on Tuesday night and television viewers liked what they saw.\nThe post Watch: Trump Won over CNN Viewers, Contradicting Network’s …",
+      "url": "https://www.breitbart.com/the-media/2026/02/25/watch-trump-won-over-cnn-viewers-contradicting-networks-own-abby-phillips-post-speech-grading",
+      "source": "Breitbart News",
+      "publishedAt": "2026-02-25T14:25:29Z"
+    },
+    {
+      "title": "Inside Epstein’s Very Own “Oval Office”: Power, Peacocking, and Printer Toner",
+      "description": "Jeffrey Epstein and Donald Trump shared a lot of things, especially chasing women through New York City high society of the 1990s and early 2000s. But this detail caught my eye in the Epstein files. They also shared, in two different cities and times, the nam…",
+      "url": "https://www.motherjones.com/politics/2026/02/epstein-files-oval-office-trump-white-house",
+      "source": "Mother Jones",
+      "publishedAt": "2026-02-25T14:24:50Z"
+    },
+    {
+      "title": "EU Nordic expansion: why would Iceland and Norway want in?",
+      "description": "Trump’s tariffs and threats to seize Nato ally Greenland are fuelling support for joining the bloc, with its implied security as well as economic benefits",
+      "url": "https://theweek.com/politics/eu-expansion-iceland-norway-joining-eu-trump",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-02-25T14:24:01Z"
+    },
+    {
+      "title": "Chagos Islands deal bill paused for talks with US",
+      "description": "A minister says the UK is discussing \"concerns\" with the US, after President Trump criticised the deal.",
+      "url": "https://www.bbc.com/news/articles/cr5lqd4g338o",
+      "source": "BBC News",
+      "publishedAt": "2026-02-25T14:23:04Z"
+    },
+    {
+      "title": "Behind Trump's immigration remarks at the State of the Union address",
+      "description": "President Trump addressed his immigration crackdown during the State of the Union address, but he did not mention the killings of Alex Pretti and Renee Good in Minneapolis. CBS News' Camilo Montoya-Galvez reports.",
+      "url": "https://www.cbsnews.com/video/behind-trumps-immigration-remarks-at-the-state-of-the-union-address",
+      "source": "CBS News",
+      "publishedAt": "2026-02-25T14:19:00Z"
+    },
+    {
+      "title": "‘There Was Just a Lot of Lying!’ CNN’s Daniel Dale Drops Blistering Fact Check on Trump Speech",
+      "description": "CNN senior reporter Daniel Dale dropped a blistering fact-check on President Donald Trump's State of the Union speech, Tuesday.\nThe post ‘There Was Just a Lot of Lying!’ CNN’s Daniel Dale Drops Blistering Fact Check on Trump Speech first appeared on Mediaite.",
+      "url": "https://www.mediaite.com/media/tv/there-was-just-a-lot-of-lying-cnns-daniel-dale-drops-blistering-fact-check-on-trump-speech",
+      "source": "Mediaite",
+      "publishedAt": "2026-02-25T14:18:29Z"
+    },
+    {
+      "title": "£10m Champions League clause a growing concern for Man United and Michael Carrick",
+      "description": "Manchester United are pushing for a return to the Champions League under Michael Carrick this season, but missing out could have major implications. After finishing 15th in the Premier League last year, expectations were low for Manchester United heading into…",
+      "url": "https://www.hitc.com/10m-champions-league-clause-a-growing-concern-for-man-united-and-michael-carrick",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "publishedAt": "2026-02-25T14:18:09Z"
+    },
+    {
+      "title": "HoR election: 219 out of 250 candidates in Kathmandu open bank accounts",
+      "description": "KATHMANDU: As many as 219 out of 250 candidates in Kathmandu, the federal capital city, have so far opened bank accounts. For the HoR election to be held on coming March 5, 250 candidates have registered their nominations in 10 constituencies of Kathmandu and…",
+      "url": "https://english.khabarhub.com/2026/25/536667",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-02-25T14:15:58Z"
+    },
+    {
+      "title": "One Identity Appoints Michael Henricks as Chief Financial and Operating Officer",
+      "description": "Alisa Viejo, CA, United States, 25th February 2026, CyberNewswire",
+      "url": "https://www.nextbigfuture.com/2026/02/one-identity-appoints-michael-henricks-as-chief-financial-and-operating-officer.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-02-25T14:15:36Z"
+    },
+    {
+      "title": "Cold Void 2017 1080p WEB H264-AMORT",
+      "description": "Plot: A short art house documentary about mental illness as seen through the eyes of Niklas Kvarforth of Shining. Cold Void is a personal portrayal of the man behind headlines of suicide, drugs and self-destruction.Genre: ShortIMDB Rating Live: IMDB Rating: 8…",
+      "url": "https://post.rlsbb.to/cold-void-2017-1080p-web-h264-amort",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-25T14:15:31Z"
+    },
+    {
+      "title": "One Identity Appoints Michael Henricks as Chief Financial and Operating Officer",
+      "description": "Alisa Viejo, CA, United States, 25th February 2026, CyberNewswire",
+      "url": "https://hackread.com/one-identity-appoints-michael-henricks-as-chief-financial-and-operating-officer",
+      "source": "HackRead",
+      "publishedAt": "2026-02-25T14:15:20Z"
+    },
+    {
+      "title": "Pride and Petulance: Trump Touts American Triumph as Democrats Seethe (Andrew Stiles/The Washington Free Beacon)",
+      "description": "Andrew Stiles / The Washington Free Beacon:\nPride and Petulance: Trump Touts American Triumph as Democrats Seethe  —  The first State of the Union address of ‘what should be’ the president's third term went as expected: Trump honored great Americans, and Ilha…",
+      "url": "https://www.memeorandum.com/260225/p33",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-25T14:15:00Z"
+    },
+    {
+      "title": "The Fani Files: Georgia prosecutor plotted Trump case closely with Biden DOJ, J6 Democrats: memos",
+      "description": "Just the News and America First Legal win access to 8,000 pages of documents after extensive open records litigation. The memos include revelations on how Joe Biden waived Trump's executive privilege specifically to aid Georgia prosecutors. Fulton County Dist…",
+      "url": "https://freerepublic.com/focus/f-news/4368239/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T14:14:36Z"
+    },
+    {
+      "title": "President Trump commemorates Iryna Zarutska in front of her mother during State of the Union address",
+      "description": "“We will ensure justice for your magnificent daughter, Iryna,” President Trump said during his 108-minute State of the Union address on Tuesday night. Among those in the audience was the mother of 23-year-old Iryna Zarutska, a Ukrainian refugee who was fatall…",
+      "url": "https://freerepublic.com/focus/f-news/4368238/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T14:14:33Z"
+    },
+    {
+      "title": "Body-ody-ody of Evidence",
+      "description": "Andy brings the case against his fiancé Kevin, aka World Famous Drag Queen Monét X Change. Andy says he met Monét outside of RuPaul's DragCon in New York City back in 2018. Andy was enchanted. Their first date didn’t happen for another few years. But for Andy…",
+      "url": "https://maximumfun.org/episodes/judge-john-hodgman/episode-762-body-ody-ody-of-evidence",
+      "source": "Maximumfun.org",
+      "publishedAt": "2026-02-25T14:14:20Z"
+    },
+    {
+      "title": "How ERP and supply chain platforms protect profits",
+      "description": "Working capital, forecast accuracy and supplier exposure are governed as much by ERP and supply chain design as finance policy, making supply chain platforms key to margin control.",
+      "url": "https://www.techtarget.com/searcherp/feature/How-ERP-and-supply-chain-platforms-protect-profits",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-02-25T14:13:00Z"
+    },
+    {
+      "title": "Who were the four Democrat lawmakers who stood for Trump's illegal alien question?",
+      "description": "Does anyone know WHO the four lawmakers who stood on the Democrat side of the aisle when Trump asked the following question at the SOTU address last night:Please stand if you think the priority of government should be to protect American citizens over illegal…",
+      "url": "https://freerepublic.com/focus/f-chat/4368235/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T14:11:35Z"
+    },
+    {
+      "title": "Kimmel Slams Trump State of the Union Speech: He's Killing Americans",
+      "description": "Jimmy Kimmel torched Donald Trump's 'rambling' State of the Union speech by reminding viewers that Trump is 'killing Americans.'",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-trump-state-of-the-union-speech-killing-americans-1236672374",
+      "source": "Variety",
+      "publishedAt": "2026-02-25T14:11:30Z"
+    },
+    {
+      "title": "V/A - Kapote Presents: Toy Tonics Wildstyle House Vol. 1",
+      "description": "Music Reviews\n \n \r\n\n \n \n COMPILATIONS\n \n \r\n\n \r\n\n\n\n \n\n \n Release date: 27 February 2026 |\n \n Megan Venzin\n \n \r\n\n\n \r\n\n\n\n \r\n\n\n \n \n \r\n\n\n \n \n\n \r\n\n\n \n\n \n \n V/A\n \n Kapote Presents: Toy Tonics Wildstyle House Vol. 1\n \r\n\n \n \n Toy Tonics\n \r\n\n \r\n\n \n Fun and for all",
+      "url": "https://djmag.com/reviews/va-kapote-presents-toy-tonics-wildstyle-house-vol-1",
+      "source": "DJ Mag",
+      "publishedAt": "2026-02-25T14:10:02Z"
+    },
+    {
+      "title": "Republican Roasted for Begging Trump to Sign His Tie After SOTU",
+      "description": "The State of the Union address is an opportunity for all branches of government to convene over the most pressing issues of the year. But Republicans treated Donald Trump’s sophomoric performance more like a rowdy sports game than a presidential appearance.Pr…",
+      "url": "https://newrepublic.com/post/207023/republican-troy-nehls-donald-trump-sign-tie-state-union",
+      "source": "The New Republic",
+      "publishedAt": "2026-02-25T14:09:23Z"
+    },
+    {
+      "title": "Trump’s Speech Hit With Embarrassing Fact-Check From Own Website",
+      "description": "In his State of the Union Tuesday night, Donald Trump claimed that he had secured $18 trillion in foreign investments for the U.S. But, his own website says that isn’t true. “I secured commitments for more than $18 trillion, pouring in from all over the globe…",
+      "url": "https://newrepublic.com/post/207021/donald-trump-state-union-investment-fact-check-website",
+      "source": "The New Republic",
+      "publishedAt": "2026-02-25T14:09:18Z"
+    },
+    {
+      "title": "$80 billion in Trump tariffs could come back to you — who qualifies for refund checks and how soon could payments arrive?",
+      "description": "About $80 billion in Trump tariffs were collected during the U.S.–China trade war. Now, a new Trump tariff refund checks bill in Congress could return part of that money to Americans. Lawmakers acted after the U.S. Supreme Court ruled key tariffs unlawful. Th…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/80-billion-in-trump-tariffs-could-come-back-to-you-who-qualifies-for-refund-checks-and-how-soon-could-payments-arrive/articleshow/128784826.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T14:06:12Z"
+    }
+  ],
   "digest": {
     "bullets": [
-      "Gaurav Gogoi appointed India-Philippines friendship Group President, Congress cites 'Pakistan link' propaganda exposed",
-      "IPO-bound OYO parent PRISM appoints former SEBI chairman Ajay Tyagi to board",
-      "What Trump’s speech means for the world",
-      "LEIF LARSON: Credit Card Rate Caps A Bad Progressive Idea",
-      "Tiger census in Shuklaphanta National Park to begin from March 7"
+      "Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?",
+      "Trump's SOTU Lies",
+      "Makinde, Kwankwaso in closed-door meeting",
+      "WATCH LIVE: Casey Means testifies at Senate confirmation hearing for surgeon general",
+      "Several pets killed, firefighter injured in early morning house fire in Attleboro"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -19,26 +351,25 @@
       "title": "Trump",
       "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.irishtimes.com/world/2026/02/25/state-of-the-union-speech-trump-says-little-on-europe-china-as-foreign-policy-sidelined",
-        "https://economictimes.indiatimes.com/news/defence/iran-rejects-us-claims-on-missile-programme-as-big-lies/articleshow/128773393.cms",
-        "https://mainichi.jp/english/articles/20260225/p2g/00m/0in/019000c"
+        "https://fortune.com/2026/02/25/trump-far-worse-trade-deals-tariffs-state-of-the-union",
+        "https://reason.com/2026/02/25/trumps-sotu-lies",
+        "https://www.vox.com/politics/480385/democrat-response-trump-state-of-the-union-sotu-affordability-alternative-media-resistance"
       ]
     },
     {
-      "title": "President",
-      "summary": "Grouped stories where \"president\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "State",
+      "summary": "Grouped stories where \"state\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/news/india/gaurav-gogoi-gets-key-lok-sabha-role-assam-congress-says-move-exposes-pakistan-link-propaganda-by-cm-himanta-biswa-sarma/articleshow/128773251.cms",
-        "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-on-compromised-mission-has-links-with-pro-pak-elements-nitin-nabin/articleshow/128773535.cms"
+        "https://punchng.com/makinde-kwankwaso-in-closed-door-meeting"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/ipo-bound-oyo-parent-prism-appoints-former-sebi-chairman-ajay-tyagi-to-board/articleshow/128773628.cms",
-        "https://dailycaller.com/2026/02/25/opinion-credit-card-rate-caps-a-bad-progressive-idea",
-        "https://english.khabarhub.com/2026/25/536601"
+        "https://www.pbs.org/newshour/politics/watch-live-casey-means-testifies-at-senate-confirmation-hearing-for-surgeon-general",
+        "https://www.thesunchronicle.com/news/local_news/several-pets-killed-firefighter-injured-in-early-morning-house-fire-in-attleboro/article_3a06bd09-4d98-4604-b8a6-873737988a97.html",
+        "https://mediaincanada.com/2026/02/25/federal-government-leads-radio-charts-amid-shift-in-ad-spending-strategy"
       ]
     }
   ],
@@ -191,7 +522,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?. Main topic cluster: Trump. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QQQ",
@@ -341,7 +673,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?. Main topic cluster: Trump. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLF",
@@ -491,7 +824,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?. Main topic cluster: Trump. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLE",
@@ -641,7 +975,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?. Main topic cluster: Trump. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLK",
@@ -791,7 +1126,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Trump warns countries they could face something ‘far worse’ if they try to renegotiate trade deals. What options do they have?. Main topic cluster: Trump. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

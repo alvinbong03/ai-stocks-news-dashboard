@@ -1,13 +1,289 @@
 {
   "theme": "semiconductors",
   "date": "2026-02-26",
+  "last_updated_utc": "2026-02-26T14:38:05.639Z",
+  "news": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T14:34:48Z"
+    },
+    {
+      "title": "US stock market today: US stocks open higher in run-up to Nvidia earnings as AI worries abate",
+      "description": "Wall ​Street's main ​indexes opened higher ​on Wednesday after volatile sessions earlier this ‌week ⁠as investors assessed ⁠risks to ​the AI trade and ​growing tariff doubts heading into Nvidia's earnings ​due later ⁠in ‌the day.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-today-us-stocks-open-higher-in-run-up-to-nvidia-earnings-as-ai-worries-abate/articleshow/128785884.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T14:34:03Z"
+    },
+    {
+      "title": "Show HN: Tortuise – Gaussian splatting in your terminal, no GPU required",
+      "description": "Article URL: https://github.com/buildoak/tortuise\nComments URL: https://news.ycombinator.com/item?id=47151927\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/buildoak/tortuise",
+      "source": "Github.com",
+      "publishedAt": "2026-02-25T14:27:28Z"
+    },
+    {
+      "title": "Micron Confirms 24Gb GDDR7 Modules With 36 Gbps Speeds For Next-Wave of Discrete GPUs",
+      "description": "Micron continues to innovate its GDDR7 memory solutions with higher capacities, faster bandwidth, and optimizations for gamers & AI workloads. Micron Says Its Upcoming GDDR7 Memory With 24Gb Capacities & 36 Gbps Bandwidth Are Designed For Immersive Graphics &…",
+      "url": "https://wccftech.com/micron-confirms-24gb-gddr7-modules-36-gbps-for-next-wave-of-discrete-gpus",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T14:25:10Z"
+    },
+    {
+      "title": "Get Samsung’s glasses-free 3D 4K monitor for an insane $1,200 off",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nThere are cool gaming monitors out there… and then there’s the Samsung Odyssey 3D, which turns your images tridimensional without you wearing any glasses. And the best part is that you can get this insanely expensive $2,000 monitor for under …",
+      "url": "https://www.macworld.com/article/3070841/get-samsungs-glasses-free-3d-4k-monitor-for-an-insane-1200-off.html",
+      "source": "Macworld",
+      "publishedAt": "2026-02-25T14:23:07Z"
+    },
+    {
+      "title": "AMD Announces The EPYC 8005 \"Sorano\" Series",
+      "description": "The EPYC 9005 series for high-end Zen 5 server processors is a year and a half old and then at the lower-end of the spectrum is the EPYC 4005 series AM5 server processors that launched last year. On the embedded side is also the EPYC Embedded 2005 series. AMD…",
+      "url": "https://www.phoronix.com/news/AMD-EPYC-8005-Series",
+      "source": "Phoronix",
+      "publishedAt": "2026-02-25T14:20:49Z"
+    },
+    {
+      "title": "NVIDIA starts listing jobs for Linux gaming with Valve's Proton in its sights — AMD probably wonders what took them so long",
+      "description": "NVIDIA job listings show the company hiring for Vulkan performance and Linux graphics roles, signaling growing interest in Linux gaming as Proton and SteamOS continue to mature.",
+      "url": "https://www.windowscentral.com/hardware/nvidia/nvidia-listing-jobs-for-linux-gaming-with-valve-proton-in-mind",
+      "source": "Windows Central",
+      "publishedAt": "2026-02-25T14:17:10Z"
+    },
+    {
+      "title": "Canadians are roasting proposed glow-ups at Loblaw-owned stores",
+      "description": "Loblaw revealed new designs for its Shoppers Drug Mart and No Frills expansion, and Canadians aren't impressed.On Monday, the president and CEO of Loblaw Companies Ltd., Per Bank, announced that the company will open dozens of new stores across Canada, creati…",
+      "url": "https://dailyhive.com/canada/no-frills-shoppers-drug-mart-new-stores-reax",
+      "source": "Daily Hive",
+      "publishedAt": "2026-02-25T14:16:43Z"
+    },
+    {
+      "title": "How ERP and supply chain platforms protect profits",
+      "description": "Working capital, forecast accuracy and supplier exposure are governed as much by ERP and supply chain design as finance policy, making supply chain platforms key to margin control.",
+      "url": "https://www.techtarget.com/searcherp/feature/How-ERP-and-supply-chain-platforms-protect-profits",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-02-25T14:13:00Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "description": "Security updates have been issued by AlmaLinux (grafana and grafana-pcp), Debian (gnutls28), Fedora (chromium and yt-dlp), Oracle (389-ds-base, kernel, munge, and openssl), Red Hat (buildah, containernetworking-plugins, opentelemetry-collector, podman, runc, …",
+      "url": "https://lwn.net/Articles/1060185",
+      "source": "Lwn.net",
+      "publishedAt": "2026-02-25T14:08:37Z"
+    },
+    {
+      "title": "Kamrui E3B mini PC now $340: Ryzen 5, 32GB RAM, triple 4K power",
+      "description": "If you’re looking for a computer that won’t cost a fortune but can still easily handle all your workloads and tasks, then this Kamrui E3B mini PC is a must-buy, especially now that it’s on sale for just $340. That’s a friggin’ good price for a machine with 32…",
+      "url": "https://www.pcworld.com/article/3070734/kamrui-e3b-mini-pc-now-340-ryzen-5-32gb-ram-triple-4k-power.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-02-25T14:08:19Z"
+    },
+    {
+      "title": "Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73d027ce-7380-41b3-bd07-dc99c7194574",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T14:00:09Z"
+    },
+    {
+      "title": "Put a PC in your living room. You won’t regret it",
+      "description": "I’ve had Windows PCs hooked up to my living room TVs for decades. While Microsoft hasn’t taken home theater PCs seriously since it axed Windows Media Center, that doesn’t matter—Windows PCs are amazing in the living room. I’ll never give mine up.\r\n\n\n\n\nWith al…",
+      "url": "https://www.pcworld.com/article/3063888/put-a-pc-in-your-living-room-you-wont-regret-it.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-02-25T14:00:00Z"
+    },
+    {
+      "title": "Shiplify Shortlisted for Retail Supply Chain Innovation as LTL Complexity Surges",
+      "description": "Recognition underscores Shiplify’s role in helping retail shippers navigate the narrow margins that come with LTL shipping Recognition underscores Shiplify’s role in helping retail shippers navigate the narrow margins that come with LTL shipping",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244632/0/en/Shiplify-Shortlisted-for-Retail-Supply-Chain-Innovation-as-LTL-Complexity-Surges.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T14:00:00Z"
+    },
+    {
+      "title": "Arm & Linaro Launch New \"CoreCollective\" Consortium - With Backing From AMD & Others",
+      "description": "The embargo just lifted on an interesting new industry consortium... CoreCollective. The CoreCollective consortium is focused on open collaboration in the Arm software ecosystem and to a large extent what Linaro has already been doing for the past decade and …",
+      "url": "https://www.phoronix.com/news/CoreCollective",
+      "source": "Phoronix",
+      "publishedAt": "2026-02-25T14:00:00Z"
+    },
+    {
+      "title": "Hiring slumps for semiconductor design GCCs before Q4 uptick: Report",
+      "description": "Mumbai's semiconductor design Global Capability Centres saw hiring slow in 2025. A cautious rebound occurred in the final quarter. This indicates a shift towards specialised roles. Companies are prioritising design impact and long-term value. Government suppo…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/hiring-slumps-for-semiconductor-design-gccs-before-q4-uptick-report/articleshow/128784866.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T13:59:41Z"
+    },
+    {
+      "title": "US futures rise as investors turn from Trump's State of the Union speech to Nvidia's latest results",
+      "description": "Wall Street inched higher in early trading Wednesday as markets turned their attention away from President Donald Trump’s State of the Union speech and toward the latest earnings report from AI chipmaker Nvidia",
+      "url": "https://abcnews.com/US/wireStory/us-futures-rise-investors-turn-trumps-state-union-130478256",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-02-25T13:33:34Z"
+    },
+    {
+      "title": "ASUS Announces ProArt GoPro Edition (PX13) and ProArt PX13, Now Available",
+      "description": "ASUS launches ProArt GoPro Edition and PX13 in Canada, combining AI-powered AMD Ryzen performance, 3K OLED precision and a 360° studio-ready design....",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244597/0/en/ASUS-Announces-ProArt-GoPro-Edition-PX13-and-ProArt-PX13-Now-Available.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T13:30:00Z"
+    },
+    {
+      "title": "Nvidia still hasn’t sold a single H200 to China nearly three months after getting the green light from the White House — U.S. Commerce official says department hasn’t approved any sales during a House hearing",
+      "description": "U.S. Department of Commerce Assistant Secretary for export enforcement David Peters said that his agency has not approved a single H200 export license since President Donald Trump allowed Nvidia to sell them to China.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-still-hasnt-sold-a-single-h200-to-china-nearly-three-months-after-getting-the-green-light-from-the-white-house-u-s-commerce-official-says-department-hasnt-approved-any-sales-during-a-house-hearing",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-02-25T13:26:56Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia earnings on deck",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_026bad4b-b194-4d36-971f-44cd16b20631",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T13:17:48Z"
+    },
+    {
+      "title": "(PR) SK hynix Announces New Facility Investment for Yongin Semiconductor Cluster",
+      "description": "In Yongin, South Korea, the towering frame of a semiconductor fab has emerged, reaching the height of a 50-story apartment building to form the massive Yongin Semiconductor Cluster. With construction gaining momentum, SK hynix announced Feb. 25 that it has de…",
+      "url": "https://www.techpowerup.com/346743/sk-hynix-announces-new-facility-investment-for-yongin-semiconductor-cluster",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-02-25T13:11:17Z"
+    },
+    {
+      "title": "Overwhelmed? This site breaks any task into a checklist in seconds",
+      "description": "I’m always looking for websites to make life easier and here are two I’ve recently found and got hooked on.\r\n\n\n\n\nMagic To Do\r\n\n\n\n\nIf you’ve ever been overwhelmed with all the things you need to do to accomplish a task it’s understandable. Some tasks have so m…",
+      "url": "https://www.pcworld.com/article/3054221/overwhelmed-this-site-breaks-any-task-into-a-checklist-in-seconds.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-02-25T13:00:00Z"
+    },
+    {
+      "title": "(PR) Sapphire PURE X870A WIFI 7 Motherboard Available Now",
+      "description": "The all-white SAPPHIRE PURE X870A WIFI 7 returns with Wi-Fi 7, PCIe 5.0, SAPPHIRE CORE BIOS, and TriXX-M software, delivering high performance and striking design for gamers and PC builders.\n\nNext-Gen Performance Meets Sleek Design\nSAPPHIRE Technology today l…",
+      "url": "https://www.techpowerup.com/346741/sapphire-pure-x870a-wifi-7-motherboard-available-now",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-02-25T12:58:03Z"
+    },
+    {
+      "title": "Nvidia earnings loom as risk factor for AI-obsessed stock market",
+      "description": "Nvidia’s earnings report comes at a critical time for the U.S. stock market with investors nervous about the outlook for AI. Read more.",
+      "url": "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T12:54:01Z"
+    },
+    {
+      "title": "US stock futures little changed after Trump speech; Nvidia earnings in focus - Investing.com",
+      "description": "US stock futures little changed after Trump speech; Nvidia earnings in focusInvesting.com Stock futures inch higher ahead of key earnings results from Nvidia: Live updatesCNBC Teetering US tech trade puts anchor on market as Nvidia test loomsYahoo Finance U.S…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180858504",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T12:52:40Z"
+    },
+    {
+      "title": "US futures are flat and global stocks gain after optimism about AI sends Wall Street higher",
+      "description": "Investors are closely watching for an earnings report due from chipmaking giant Nvidia.",
+      "url": "https://www.bostonherald.com/2026/02/25/wall-street-ai",
+      "source": "Boston Herald",
+      "publishedAt": "2026-02-25T12:51:32Z"
+    },
+    {
+      "title": "US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside",
+      "description": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due later in the day.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T12:39:41Z"
+    },
+    {
+      "title": "Get $480 off Acer’s Aspire 14 AI Intel-powered Copilot+ PC with 16GB RAM/1TB SSD while it’s down to $500 all-time low",
+      "description": "Today only, as part of its Deals of the Day offers, Best Buy has listed Acer’s Aspire 14 AI Copilot+ PC with an Intel Core Ultra 7 processor for $499.99 shipped. This is regularly a $980 laptop, which is currently fetching $647 at Amazon. We saw the variant o…",
+      "url": "http://9to5toys.com/2026/02/25/acer-aspire-14-ai-intel-powered-copilot-pc-500-all-time-low",
+      "source": "9to5Toys",
+      "publishedAt": "2026-02-25T12:35:24Z"
+    },
+    {
+      "title": "Nvidia seemingly wants to make Linux better for gamers — and one way or another, that must worry Microsoft",
+      "description": "Nvidia looks set to make its GPU drivers better in Linux — which could be an exciting sign for the future of gaming.",
+      "url": "https://www.techradar.com/computing/gpu/nvidia-seemingly-wants-to-make-linux-better-for-gamers-and-one-way-or-another-that-must-worry-microsoft",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T12:35:02Z"
+    },
+    {
+      "title": "Samsung Originally Intended To Charge Apple A 60% Premium For LPDDR5X RAM, But The iPhone Maker’s Desperation Led It Down A Costly Path",
+      "description": "A robust and reliable supply chain doesn’t make Apple immune to DRAM shortages, which is why the company’s executives were previously reported to have booked long-term hotel stays in South Korea in an effort to come to terms with Samsung to secure adequate su…",
+      "url": "https://wccftech.com/apple-agreed-to-pay-samsung-a-massive-sum-for-lpddr5x-ram",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T12:34:21Z"
+    },
+    {
+      "title": "S&P 500 Set to Open Up as Market Shrugs Off Trump's Address - Barron's",
+      "description": "S&P 500 Set to Open Up as Market Shrugs Off Trump's AddressBarron's Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump to deliver State of the Union, Nvidia earnings loomYahoo! Finance Canada Global Markets, U.S. Stock Futures GainWSJ U.S. futures…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180858444",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T12:32:27Z"
+    },
+    {
+      "title": "Medline Reports Fourth Quarter and Full Year 2025 Results",
+      "description": "NORTHFIELD, Ill., Feb. 25, 2026 (GLOBE NEWSWIRE) -- Medline Inc. (“Medline” or the “Company”) (Nasdaq: MDLN), the largest provider of medical-surgical (“med-surg”) products and supply chain solutions serving all points of care2, today reported its operating r…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244502/0/en/Medline-Reports-Fourth-Quarter-and-Full-Year-2025-Results.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T12:30:00Z"
+    },
+    {
+      "title": "Choose an Intel or AMD CPU and save up to $1200 on an RTX 5080-powered Omen Max 16 laptop — high-end gaming just got cheaper",
+      "description": "Save up to $1200 on a new HP Omen Max 16 RTX 5080-powered gaming laptop.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/choose-an-intel-or-amd-cpu-and-save-up-to-usd1200-on-an-rtx-5080-powered-omen-max-16-laptop-high-end-gaming-just-got-cheaper",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-02-25T12:29:19Z"
+    },
+    {
+      "title": "Around Half Of The Galaxy S26 Series Units To Sport A Micron DRAM Instead Of One From Samsung",
+      "description": "Despite being a veritable memory chip behemoth, Samsung's Galaxy S26 series won't come equipped with a Samsung-manufactured DRAM, at least for the 50 percent or so units that are now all set to employ an LPDDR5X memory from Micron. Samsung DS wants to maximiz…",
+      "url": "https://wccftech.com/around-half-of-the-galaxy-s26-series-units-to-sport-a-micron-dram-instead-of-one-from-samsung",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T12:28:40Z"
+    },
+    {
+      "title": "Grand Theft GPU: Thief steals GPUs worth over $11,000 mimicking trend seen during Covid-era chip shortage",
+      "description": "A thief has stolen more than $11,000 worth of GPUs from a store in Korea. We saw similar GPU theft unfold during the COVID-era GPU shortage. It is quite easy to see that stolen desktop GPUs will end up in the hands of scalpers who will then charge much more t…",
+      "url": "https://www.notebookcheck.net/Grand-Theft-GPU-Thief-steals-GPUs-worth-over-11-000-mimicking-trend-seen-during-Covid-era-chip-shortage.1233536.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-25T12:26:00Z"
+    },
+    {
+      "title": "Polkadot, Solana Lead Altcoin Surge Ahead of Nvidia Earnings Call",
+      "description": "Crypto markets climb 3% as traders position for Nvidia's earnings, which analysts say now overshadow the SOTU as the key catalyst.",
+      "url": "https://decrypt.co/359098/polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-25T12:20:36Z"
+    },
+    {
+      "title": "Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC",
+      "description": "Stock futures inch higher ahead of key earnings results from Nvidia: Live updatesCNBC Options traders price Nvidia's smallest postearnings swing in three yearsYahoo Finance Stock Market Today: Nasdaq Futures Inch Up; Nvidia Earnings Due This Afternoon — Live …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180858410",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T12:12:38Z"
+    },
+    {
+      "title": "Big Nvidia (NVDA) Q4 earnings today: here’s what investors will watch from the Jensen Huang-led chip giant - NVDA stock forecast",
+      "description": "Nvidia (NVDA) Q4 earnings today: Nvidia reports Q4 earnings today, February 25 — and $65.7 billion is on the line. Wall Street expects EPS of $1.53, up 72% year over year. Revenue growth stands at 67%. Blackwell GPU orders have crossed $350 billion. Hyperscal…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/big-nvidia-nvda-q4-earnings-today-heres-what-investors-will-watch-from-the-jensen-huang-led-chip-giant-nvda-stock-forecast/articleshow/128781200.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T12:10:41Z"
+    },
+    {
+      "title": "Save $349 on a 9850X3D, bundled with 32GB of RAM and a motherboard at Newegg — RAM effectively $150 when paired with X870E Aorus and AMD's fastest gaming chip",
+      "description": "Get an AMD Ryzen 9850X3D CPU, 32GB of DDR5, and an X870E Aorus motherboard at Newegg.",
+      "url": "https://www.tomshardware.com/pc-components/save-usd349-on-a-9850x3d-bundled-with-32gb-of-ram-and-a-motherboard-at-newegg-ram-effectively-usd150-when-paired-with-x870e-aorus-and-amds-fastest-gaming-chip",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-02-25T12:05:37Z"
+    }
+  ],
   "digest": {
     "bullets": [
-      "Global Markets | Australian shares hit record high as investors focus on strong earnings, shrug off hot CPI",
-      "Aspocomp’s Remuneration Report for Governing Bodies 2025 has been published",
-      "Sigurd invests NT$1.54B to acquire Unimicron's Hukou plant amid strong AI, ASIC demand",
-      "Iridium 9604 3-in-1 IoT module integrates Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning",
-      "China targets fivefold jump in advanced chip output to fuel AI expansion"
+      "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade",
+      "US stock market today: US stocks open higher in run-up to Nvidia earnings as AI worries abate",
+      "Show HN: Tortuise – Gaussian splatting in your terminal, no GPU required",
+      "Micron Confirms 24Gb GDDR7 Modules With 36 Gbps Speeds For Next-Wave of Discrete GPUs",
+      "Get Samsung’s glasses-free 3D 4K monitor for an insane $1,200 off"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,46 +292,28 @@
   },
   "clusters": [
     {
-      "title": "Report",
-      "summary": "Grouped stories where \"report\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-as-investors-focus-on-strong-earnings-shrug-off-hot-cpi/articleshow/128773614.cms",
-        "https://www.globenewswire.com/news-release/2026/02/25/3244287/0/en/Aspocomp-s-Remuneration-Report-for-Governing-Bodies-2025-has-been-published.html",
-        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html"
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-today-us-stocks-open-higher-in-run-up-to-nvidia-earnings-as-ai-worries-abate/articleshow/128785884.cms",
+        "https://www.windowscentral.com/hardware/nvidia/nvidia-listing-jobs-for-linux-gaming-with-valve-proton-in-mind"
       ]
     },
     {
-      "title": "Supply",
-      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Higher",
+      "summary": "Grouped stories where \"higher\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225PD218/sigurd-unimicron-ic-packaging-testing-supply-chain-taiwan.html",
-        "https://www.digitimes.com/news/a20260225VL210/dji-fcc-expansion-market-commercial.html",
-        "https://www.theregister.com/2026/02/25/threat_intelligence_supply_chain_research"
-      ]
-    },
-    {
-      "title": "Off",
-      "summary": "Grouped stories where \"off\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://freerepublic.com/focus/f-news/4368201/posts",
-        "https://slashdot.org/firehose.pl?op=view&amp;id=180857402"
-      ]
-    },
-    {
-      "title": "Chip",
-      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.digitimes.com/news/a20260225VL209/expansion-capacity-smic-ai-chip-production.html",
-        "https://theconversation.com/why-india-joining-the-us-alliance-on-ai-tech-is-an-opportunity-for-australia-274115"
+        "https://wccftech.com/micron-confirms-24gb-gddr7-modules-36-gbps-for-next-wave-of-discrete-gpus"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning",
-        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
-        "https://www.techpowerup.com/346728/multiple-reports-emerge-of-msi-12v-2x6-psu-connectors-creeping-out-of-gpus"
+        "https://github.com/buildoak/tortuise",
+        "https://www.macworld.com/article/3070841/get-samsungs-glasses-free-3d-4k-monitor-for-an-insane-1200-off.html",
+        "https://www.phoronix.com/news/AMD-EPYC-8005-Series"
       ]
     }
   ],
@@ -208,7 +466,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -358,7 +617,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -508,7 +768,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -658,7 +919,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -808,7 +1070,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

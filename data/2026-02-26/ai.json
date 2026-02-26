@@ -1,13 +1,156 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
+  "last_updated_utc": "2026-02-26T14:37:52.209Z",
+  "news": [
+    {
+      "title": "Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini",
+      "description": "I built a scoring system to measure how AI models represent software products when users ask buying questions.\nThe process: I take a product, generate the queries a buyer would ask (category, competitor alternatives, head-to-head), run them through ChatGPT, C…",
+      "url": "https://www.bersyn.com/",
+      "source": "Bersyn.com",
+      "publishedAt": "2026-02-25T13:43:00Z"
+    },
+    {
+      "title": "Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon",
+      "description": "Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "source": "CNN",
+      "publishedAt": "2026-02-25T14:10:05Z"
+    },
+    {
+      "title": "Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73d027ce-7380-41b3-bd07-dc99c7194574",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T14:00:09Z"
+    },
+    {
+      "title": "Pentagon at odds with tech company Anthropic over AI model",
+      "description": "The Pentagon and pioneering tech company Anthropic are in a tense standoff over artificial intelligence, sources tell CBS News. Defense Secretary Pete Hegseth has told Anthropic to give the military full access to an AI model by Friday, but the company's CEO …",
+      "url": "https://www.cbsnews.com/video/pentagon-at-odds-with-tech-company-anthropic-over-ai-model",
+      "source": "CBS News",
+      "publishedAt": "2026-02-25T13:55:00Z"
+    },
+    {
+      "title": "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat",
+      "description": "International Business Machines stock is getting slammed Monday, becoming the latest perceived victim of rapidly developing AI technology, after Anthropic said its Claude Code tool could be used to modernize legacy systems that run COBOL. Shares of IBM closed…",
+      "url": "https://freerepublic.com/focus/f-news/4368233/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T13:52:46Z"
+    },
+    {
+      "title": "Anthropic: Chinese AI firms created 24,000 fraudulent accounts for 'distillation attacks'",
+      "description": "Anthropic is accusing three Chinese artificial intelligence companies of \"industrial-scale campaigns\" to \"illicitly extract\" its technology using distillation attacks. Anthropic says these companies created 24,000 fraudulent accounts to hide these efforts. In…",
+      "url": "https://freerepublic.com/focus/f-news/4368232/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T13:50:24Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T14:34:48Z"
+    },
+    {
+      "title": "US stock market today: US stocks open higher in run-up to Nvidia earnings as AI worries abate",
+      "description": "Wall ​Street's main ​indexes opened higher ​on Wednesday after volatile sessions earlier this ‌week ⁠as investors assessed ⁠risks to ​the AI trade and ​growing tariff doubts heading into Nvidia's earnings ​due later ⁠in ‌the day.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-today-us-stocks-open-higher-in-run-up-to-nvidia-earnings-as-ai-worries-abate/articleshow/128785884.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T14:34:03Z"
+    },
+    {
+      "title": "Does Anthropic think Claude is alive? Define ‘alive’",
+      "description": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded…",
+      "url": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+      "source": "The Verge",
+      "publishedAt": "2026-02-25T14:24:30Z"
+    },
+    {
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "description": "Anthropic, the AI company that has long positioned itself as the industry's most safety-conscious research lab, is dropping the central commitment of its Responsible Scaling Policy -- a 2023 pledge to never train an AI system unless it could guarantee beforeh…",
+      "url": "https://slashdot.org/story/26/02/25/1355245/anthropic-drops-flagship-safety-pledge",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T14:00:00Z"
+    },
+    {
+      "title": "Show HN: Seite static site generator with MCP server and Claude Code integration",
+      "description": "I'm CTO at a startup, tired of maintaining five separate tools for our web presence while shipping software with Claude Code every day. So I built seite — a Rust SSG where the AI agent has a proper MCP interface to your site, not just file access.seite mcp ru…",
+      "url": "https://seite.sh/",
+      "source": "Seite.sh",
+      "publishedAt": "2026-02-25T13:50:50Z"
+    },
+    {
+      "title": "Anthropic cofounder says AI is making junior roles at the company less valuable, but boosting demand for senior talent",
+      "description": "Anthropic cofounder Jack Clark says AI now writes most of its code, making the value of junior roles \"more dubious\" and senior talent more valuable.",
+      "url": "https://www.businessinsider.com/anthropic-ai-value-of-junior-roles-dubious-senior-talent2026-2",
+      "source": "Business Insider",
+      "publishedAt": "2026-02-25T13:31:24Z"
+    },
+    {
+      "title": "Anthropic vs the Pentagon: Why AI firm is taking on Trump administration",
+      "description": "Anthropic was the first AI developer to be used in classified operations by the US Defense Department.",
+      "url": "https://www.aljazeera.com/news/2026/2/25/anthropic-vs-the-pentagon-why-ai-firm-is-taking-on-trump-administration",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-02-25T13:05:27Z"
+    },
+    {
+      "title": "Nvidia earnings loom as risk factor for AI-obsessed stock market",
+      "description": "Nvidia’s earnings report comes at a critical time for the U.S. stock market with investors nervous about the outlook for AI. Read more.",
+      "url": "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T12:54:01Z"
+    },
+    {
+      "title": "I use this simple repetition trick with ChatGPT when it misses the point — and it works every time",
+      "description": "Repeating prompts to ChatGPT and AI chatbots improves their responses.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-use-this-simple-repetition-trick-with-chatgpt-when-it-misses-the-point-and-it-works-every-time",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T12:51:35Z"
+    },
+    {
+      "title": "Gemini Adds Voice Chat & AI Studio Tools for Rapid Product Prototyping",
+      "description": "Gemini AI introduces a range of advanced features designed to meet the needs of both technical and creative professionals, as explored by Dylan Davis. One standout capability is its expansive memory, which supports up to 1 million tokens, far surpassing the l…",
+      "url": "https://www.geeky-gadgets.com/gemini-million-token-memory",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-02-25T12:41:00Z"
+    },
+    {
+      "title": "US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside",
+      "description": "U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week as investors assessed risks to the AI trade and growing tariff doubts heading into Nvidia's earnings due later in the day.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T12:39:41Z"
+    },
+    {
+      "title": "Anthropic’s Remote Control feature brings Claude Code to mobile devices",
+      "description": "Anthropic has introduced a new Claude Code feature called Remote Control, allowing developers to continue a local coding session from a phone, tablet, or any web browser. The feature is rolling out as a research preview to Max users. This is another in a seri…",
+      "url": "https://www.helpnetsecurity.com/2026/02/25/anthropic-remote-control-claude-code-feature",
+      "source": "Help Net Security",
+      "publishedAt": "2026-02-25T12:39:09Z"
+    },
+    {
+      "title": "Nvidia seemingly wants to make Linux better for gamers — and one way or another, that must worry Microsoft",
+      "description": "Nvidia looks set to make its GPU drivers better in Linux — which could be an exciting sign for the future of gaming.",
+      "url": "https://www.techradar.com/computing/gpu/nvidia-seemingly-wants-to-make-linux-better-for-gamers-and-one-way-or-another-that-must-worry-microsoft",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T12:35:02Z"
+    },
+    {
+      "title": "Big Nvidia (NVDA) Q4 earnings today: here’s what investors will watch from the Jensen Huang-led chip giant - NVDA stock forecast",
+      "description": "Nvidia (NVDA) Q4 earnings today: Nvidia reports Q4 earnings today, February 25 — and $65.7 billion is on the line. Wall Street expects EPS of $1.53, up 72% year over year. Revenue growth stands at 67%. Blackwell GPU orders have crossed $350 billion. Hyperscal…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/big-nvidia-nvda-q4-earnings-today-heres-what-investors-will-watch-from-the-jensen-huang-led-chip-giant-nvda-stock-forecast/articleshow/128781200.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T12:10:41Z"
+    }
+  ],
   "digest": {
     "bullets": [
-      "Commentary: How China's AI firms are mining Claude—and why it matters to supply chains and export controls",
-      "Here’s what Anthropic’s Dario Amodei says startups should not be doing with Claude",
-      "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry",
-      "Anthropic partners’ shares up as AI tools target banking and HR",
-      "Nvidia deploys AI-driven cybersecurity to protect critical infrastructure"
+      "Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini",
+      "Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon",
+      "Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",
+      "Pentagon at odds with tech company Anthropic over AI model",
+      "IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -19,25 +162,34 @@
       "title": "Anthropic",
       "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html",
-        "https://economictimes.indiatimes.com/tech/technology/heres-what-anthropics-dario-amodei-says-startups-should-not-be-doing-with-claude/articleshow/128772220.cms",
-        "https://economictimes.indiatimes.com/tech/artificial-intelligence/heres-what-anthropics-dario-amodei-says-startups-should-not-be-doing-with-claude/articleshow/128772121.cms"
+        "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73d027ce-7380-41b3-bd07-dc99c7194574",
+        "https://www.cbsnews.com/video/pentagon-at-odds-with-tech-company-anthropic-over-ai-model"
       ]
     },
     {
-      "title": "Chatgpt",
-      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.cnet.com/tech/services-and-software/top-ways-to-customize-your-chatgpt-settings-according-to-an-openai-expert",
-        "https://economictimes.indiatimes.com/tech/technology/openai-names-indian-origin-executive-arvind-kc-as-chief-people-officer/articleshow/128771719.cms"
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f5e9d3fb-6feb-4869-aec3-1ed5df2e105b",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-today-us-stocks-open-higher-in-run-up-to-nvidia-earnings-as-ai-worries-abate/articleshow/128785884.cms",
+        "https://financialpost.com/investing/nvidia-earnings-risk-factor-ai-stock-market"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.bersyn.com/",
+        "https://seite.sh/"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
-        "https://www.nextgov.com/artificial-intelligence/2026/02/trump-unveils-big-tech-pledge-offset-rising-data-center-energy-costs/411668"
+        "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-use-this-simple-repetition-trick-with-chatgpt-when-it-misses-the-point-and-it-works-every-time",
+        "https://www.geeky-gadgets.com/gemini-million-token-memory"
       ]
     }
   ],
@@ -190,7 +342,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
     },
     {
       "ticker": "MSFT",
@@ -340,7 +493,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
     },
     {
       "ticker": "GOOGL",
@@ -490,7 +644,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMZN",
@@ -640,7 +795,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
     },
     {
       "ticker": "META",
@@ -790,7 +946,8 @@
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
-      }
+      },
+      "ai_explanation": "Top headline signal: Show HN: I scanned 35 SaaS products across ChatGPT, Claude, Perplexity, Gemini. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
