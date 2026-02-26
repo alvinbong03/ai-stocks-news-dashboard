@@ -37,9 +37,10 @@ type Manifest = {
 };
 
 async function loadManifest(): Promise<Manifest> {
-  const res = await fetch("/data/manifest.json");
+  const baseUrl = import.meta.env.BASE_URL; // "/" locally, "/<repo-name>/" on GitHub Pages
+  const res = await fetch(`${baseUrl}data/manifest.json`); // fetch manifest to find latest data date for each theme
   if (!res.ok) {
-    throw new Error("Failed to load /data/manifest.json");
+    throw new Error("Failed to load data/manifest.json");
   }
   return res.json();
 }
@@ -52,7 +53,8 @@ export async function loadThemeData(slug: ThemeSlug): Promise<ThemeData> {
     throw new Error(`No latest_date found in manifest for theme: ${slug}`);
   }
 
-  const res = await fetch(`/data/${latestDate}/${slug}.json`);
+  const baseUrl = import.meta.env.BASE_URL; // "/" locally, "/<repo-name>/" on GitHub Pages
+  const res = await fetch(`${baseUrl}data/${latestDate}/${slug}.json`);
   if (!res.ok) {
     throw new Error(`Failed to load theme data for ${slug} at ${latestDate}`);
   }
