@@ -1,0 +1,43 @@
+{
+  "theme": "ai",
+  "date": "2026-02-25",
+  "digest": {
+    "bullets": [
+      "Major AI firms reported continued enterprise demand for model deployment.",
+      "GPU supply constraints remain a recurring narrative across coverage.",
+      "Regulatory commentary focused on model transparency and safety.",
+      "Big tech earnings commentary highlighted AI as a capex driver.",
+      "Partnership announcements emphasized private data and fine-tuning."
+    ],
+    "insights": [
+      "AI investment remains concentrated in infrastructure and data-center buildout.",
+      "Policy risk is more about compliance cost than outright restrictions."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data-center demand and capex",
+      "summary": "Coverage focused on sustained spend for AI infrastructure. Firms framed near-term costs as strategic investment.",
+      "article_urls": ["https://example.com/article-1", "https://example.com/article-2"]
+    },
+    {
+      "title": "Regulation and transparency",
+      "summary": "Discussion centered on governance, disclosure, and safety guardrails.",
+      "article_urls": ["https://example.com/article-3"]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        { "date": "2026-02-19", "close": 890 },
+        { "date": "2026-02-20", "close": 905 },
+        { "date": "2026-02-21", "close": 898 },
+        { "date": "2026-02-24", "close": 920 },
+        { "date": "2026-02-25", "close": 915 }
+      ],
+      "sentiment": { "category": "Positive", "score": 0.28, "magnitude": 0.62 }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

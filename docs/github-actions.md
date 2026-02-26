@@ -401,6 +401,3 @@ To finalize implementation:
 2) Exact cron time (UTC)
 3) Whether to store `available_dates` array in manifest (nice-to-have)
 4) Whether `ai_explanation` per stock is generated (extra call) or omitted in MVP
-
----
-END

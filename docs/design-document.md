@@ -363,7 +363,3 @@ Stocks:
 
 Learning:
 - Always visible near bottom
-
----
-
-END OF MASTER DESIGN + UI SCAFFOLD

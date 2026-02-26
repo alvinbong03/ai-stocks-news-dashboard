@@ -1,0 +1,10 @@
+{
+  "name": "ai-stocks-news-dashboard",
+  "private": true,
+  "scripts": {
+    "sync:data": "node scripts/sync-data-to-site.mjs",
+    "dev": "npm run sync:data && npm --prefix site run dev",
+    "build": "npm run sync:data && npm --prefix site run build",
+    "preview": "npm --prefix site run preview"
+  }
+}

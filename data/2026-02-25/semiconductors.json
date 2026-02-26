@@ -1,0 +1,43 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-02-25",
+  "digest": {
+    "bullets": [
+      "Chip demand commentary remains tied to AI server buildout.",
+      "Supply chain updates emphasized advanced packaging constraints.",
+      "Foundry capacity planning stayed in focus across coverage.",
+      "Export controls and industrial policy continued to affect outlook.",
+      "Memory pricing signals were mixed across reports."
+    ],
+    "insights": [
+      "AI infrastructure spending links directly to high-end chip demand.",
+      "Policy constraints can shift revenue mix and regional exposure."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI compute supply and pricing",
+      "summary": "Coverage linked AI server demand to premium GPU and accelerator pricing and availability.",
+      "article_urls": ["https://example.com/semi-1", "https://example.com/semi-2"]
+    },
+    {
+      "title": "Foundry capacity and geopolitics",
+      "summary": "Stories discussed capacity expansion and the impact of trade and export policy.",
+      "article_urls": ["https://example.com/semi-3"]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        { "date": "2026-02-19", "close": 138 },
+        { "date": "2026-02-20", "close": 140 },
+        { "date": "2026-02-21", "close": 139 },
+        { "date": "2026-02-24", "close": 142 },
+        { "date": "2026-02-25", "close": 141 }
+      ],
+      "sentiment": { "category": "Neutral", "score": 0.05, "magnitude": 0.40 }
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
