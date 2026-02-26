@@ -5,6 +5,8 @@ import EventClustersAccordion from "@/components/EventClustersAccordion";
 import LearningGlossary from "@/components/LearningGlossary";
 import { loadThemeData, type ThemeData, type ThemeSlug } from "@/lib/loadThemeData";
 import StockDrawer from "@/components/StockDrawer";
+import LearningAccordion from "@/components/LearningAccordion";
+import { learningByTheme } from "@/lib/learningContent";
 
 type SentimentDirection = "Positive" | "Neutral" | "Negative";
 
@@ -285,6 +287,9 @@ export default function ThemeDashboard() {
                 </p>
               )}
             </div>
+
+            {/* Beginner learning */}
+            <LearningAccordion items={learningByTheme[themeSlug]} />
 
             {/* Glossary */}
             <LearningGlossary />
