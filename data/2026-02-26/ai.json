@@ -1,7 +1,7 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T17:52:29.347Z",
+  "last_updated_utc": "2026-02-26T18:04:38.972Z",
   "news": [
     {
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
@@ -60,11 +60,46 @@
       "publishedAt": "2026-02-25T16:11:27Z"
     },
     {
-      "title": "Anthropic’s AI coding surge reshapes hiring: Why senior talent is in demand now as Claude takes over junior engineers' role",
-      "description": "Anthropic AI Claude impact on engineering jobs: Anthropic says its AI coding assistant, powered by Claude, now writes the majority of the company’s code and could reach 99% soon. Instead of cutting engineers, the AI shift is reshaping roles: routine coding is…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/anthropics-ai-coding-surge-reshapes-hiring-why-senior-talent-is-in-demand-now-as-claude-takes-over-junior-engineers-role/articleshow/128787065.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T15:47:15Z"
+      "title": "The Samsung Galaxy S26 Has 3 New AI Tricks That Could Make Gemini Useful",
+      "description": "Google has new AI features for the Galaxy S26, including a new Gemini tool that lets the AI book rides and order food for you while you do something else.",
+      "url": "https://www.bgr.com/2109898/samsung-galaxy-s26-gemini-circle-to-search-scam-detection",
+      "source": "BGR",
+      "publishedAt": "2026-02-25T18:01:00Z"
+    },
+    {
+      "title": "Gemini Starts Ordering Your Groceries and Booking Rideshares",
+      "description": "For AI to truly be useful to the masses, it’s going to have to be more than a research assistant or code builder or basic task completer. It’s going to have to perform difficult tasks for you that would typically require multiple steps from you or through mul…",
+      "url": "https://www.droid-life.com/2026/02/25/gemini-starts-ordering-your-groceries-and-booking-rideshares",
+      "source": "Droid Life",
+      "publishedAt": "2026-02-25T18:00:26Z"
+    },
+    {
+      "title": "Pentagon to Anthropic: If You Won't Let Us Use Your AI for Mass Surveillance or Autonomous Weapons, Expect Punishment",
+      "description": "The Pentagon wants Anthropic to remove limits on AI use for autonomous weapons and mass surveillance, raising civil liberties concerns.",
+      "url": "https://reason.com/2026/02/25/pentagon-to-anthropic-if-you-wont-let-us-use-your-ai-for-mass-surveillance-or-autonomous-weapons-expect-punishment",
+      "source": "Reason",
+      "publishedAt": "2026-02-25T18:00:08Z"
+    },
+    {
+      "title": "Android Update Puts Gemini AI In the Driver's Seat for Ride-Hail, Food Orders",
+      "description": "The new feature only runs on Galaxy S26 and Pixel 10 phones, with Samsung’s new series also getting call scam detection and improved Circle to Search.\nGoogle crossed \"start applying smartphone AI to tasks\" off its task list with an update announced Wednesday …",
+      "url": "https://me.pcmag.com/en/android/35539/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders",
+      "source": "PCMag.com",
+      "publishedAt": "2026-02-25T18:00:00Z"
+    },
+    {
+      "title": "Android Update Puts Gemini AI In the Driver's Seat for Ride-Hail, Food Orders",
+      "description": "The new feature only runs on Galaxy S26 and Pixel 10 phones, with Samsung’s new series also getting call scam detection and improved Circle to Search.\nGoogle crossed \"start applying smartphone AI to tasks\" off its task list with an update announced Wednesday …",
+      "url": "https://uk.pcmag.com/android/163369/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders",
+      "source": "PCMag.com",
+      "publishedAt": "2026-02-25T18:00:00Z"
+    },
+    {
+      "title": "Anthropic says U.S. military can use its AI systems for missile defense",
+      "description": "Defense chief Pete Hegseth has threatened to force the company to lift guardrails against greater military use of AI.",
+      "url": "https://www.nbcnews.com/tech/security/anthropic-pentagon-us-military-can-use-ai-missile-defense-hegseth-rcna260534",
+      "source": "NBC News",
+      "publishedAt": "2026-02-25T17:56:24Z"
     },
     {
       "title": "Gemini is getting its first agentic capabilities",
@@ -156,48 +191,6 @@
       "url": "https://www.tomshardware.com/tech-industry/inside-meta-amd-deal",
       "source": "Tom's Hardware UK",
       "publishedAt": "2026-02-25T16:02:23Z"
-    },
-    {
-      "title": "Accelerating agent intelligence: Cisco Secure AI Factory expands with NVIDIA and VAST",
-      "description": "A secure AI data platform combines VAST and Cisco UCS with Cilium, Tetragon, and Cisco AI Defense to accelerate RAG and agentic AI, while enforcing container-level segmentation, runtime visibility, and model/MCP security. Ship AI outcomes faster, without expa…",
-      "url": "https://blogs.cisco.com/datacenter/accelerating-agent-intelligence-cisco-secure-ai-factory-expands-with-nvidia-and-vast",
-      "source": "Cisco.com",
-      "publishedAt": "2026-02-25T16:00:15Z"
-    },
-    {
-      "title": "LLM firewalls emerge as a new AI security layer",
-      "description": "The race by organizations to AI-enable their operations and business workflows is exposing them to new risks that AI firewalls aim to address.",
-      "url": "https://www.techtarget.com/searchsecurity/feature/LLM-firewalls-emerge-as-a-new-AI-security-layer",
-      "source": "Techtarget.com",
-      "publishedAt": "2026-02-25T16:00:00Z"
-    },
-    {
-      "title": "Pentagon pressures Anthropic on AI access",
-      "description": "Anthropic, a much vaunted AI startup, is firmly in the Trump administration's sights. The Pentagon wants complete access to its models, despite safety and ethical concerns. US Defense Secretary Pete Hegseth's threat to cut AI group Anthropic from government s…",
-      "url": "https://www.dw.com/en/anthropic-pentagon-ai-hegseth-trump-defense-military-spending-ethics-safety/a-76119912",
-      "source": "DW (English)",
-      "publishedAt": "2026-02-25T15:30:00Z"
-    },
-    {
-      "title": "Anthropic: Is Pete Hegseth threatening the US AI jewel?",
-      "description": "Anthropic, a much vaunted AI startup, is firmly in the Trump administration's sights. The Pentagon wants complete access to its models, despite safety and ethical concerns.",
-      "url": "https://www.dw.com/en/anthropic-is-pete-hegseth-threatening-the-us-ai-jewel/a-76119912",
-      "source": "DW (English)",
-      "publishedAt": "2026-02-25T15:30:00Z"
-    },
-    {
-      "title": "Anthropic: Is the Pentagon overreaching on AI access?",
-      "description": "Anthropic, a much vaunted AI startup, is firmly in the Trump administration's sights. The Pentagon wants complete access to its models, despite safety and ethical concerns. US Defense Secretary Pete Hegseth's threat to cut AI group Anthropic from government s…",
-      "url": "https://www.dw.com/en/anthropic-is-the-pentagon-overreaching-on-ai-access/a-76119912",
-      "source": "DW (English)",
-      "publishedAt": "2026-02-25T15:30:00Z"
-    },
-    {
-      "title": "OpenAI is testing a $100-a-month version of ChatGPT — and it finally fills a big gap",
-      "description": "OpenAI is preparing a new $100 ChatGPT Pro Lite tier aimed at users who need more power than Plus offers",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-is-testing-a-usd100-a-month-version-of-chatgpt-and-it-finally-fills-a-big-gap",
-      "source": "TechRadar",
-      "publishedAt": "2026-02-25T15:18:23Z"
     }
   ],
   "digest": {
@@ -233,12 +226,27 @@
       ]
     },
     {
+      "title": "Code",
+      "summary": "Grouped stories where \"code\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.droid-life.com/2026/02/25/gemini-starts-ordering-your-groceries-and-booking-rideshares"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60325bd7-592d-49ea-bd03-4926aa1de9bb"
+      ]
+    },
+    {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
         "https://github.com/ayushdnb/Neural-Siege/tree/combat_first_tick",
-        "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs",
-        "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber"
+        "https://www.bgr.com/2109898/samsung-galaxy-s26-gemini-circle-to-search-scam-detection",
+        "https://me.pcmag.com/en/android/35539/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders"
       ]
     }
   ],
@@ -384,7 +392,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 187.24
+          "close": 186.2664
         }
       ],
       "sentiment": {
@@ -535,7 +543,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 400.21
+          "close": 400.29
         }
       ],
       "sentiment": {
@@ -686,7 +694,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 305.09
+          "close": 304.98
         }
       ],
       "sentiment": {
@@ -837,7 +845,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 206.38
+          "close": 206.03
         }
       ],
       "sentiment": {
@@ -988,7 +996,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 653.94
+          "close": 654.115
         }
       ],
       "sentiment": {

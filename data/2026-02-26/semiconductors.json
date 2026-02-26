@@ -1,8 +1,50 @@
 {
   "theme": "semiconductors",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T17:52:42.755Z",
+  "last_updated_utc": "2026-02-26T18:04:51.766Z",
   "news": [
+    {
+      "title": "Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design",
+      "description": "Featuring Intel’s Core Ultra Series 3 processors built on Intel 18A, long-lasting battery life and an ultra-slim profile, Samsung’s Galaxy Book6 series elevates what users can expect from a PC SAN FRANCISCO — Samsung Electronics Co., Ltd. today introduced Gal…",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T18:03:59Z"
+    },
+    {
+      "title": "Samsung Launches Galaxy S26 Ultra With Built-In Privacy Display and New AI Features",
+      "description": "Samsung today announced its newest flagship smartphones, the Galaxy S26, S26+, and S26 Ultra. Samsung's latest devices are focused on AI, and Samsung says they have the most \"intuitive, proactive, and adaptive Galaxy AI features\" to date.\n\n\n\n\r\nSubscribe to th…",
+      "url": "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch",
+      "source": "MacRumors",
+      "publishedAt": "2026-02-25T18:01:00Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra arrives with Privacy Display, SD 8 Elite Gen 5 for Galaxy",
+      "description": "The yearly Galaxy S-series update has reached the S26 Ultra and it gets the latest Qualcomm flagship chip, a new privacy display that keeps peeping eyes off your screen and the fastest charging on a Galaxy to date. It’s a tad thinner (7.2mm) and lighter (214 …",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_arrives_with_privacy_display_sd_8_elite_gen_5_for_galaxy_and_60w_charging_-news-71717.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-02-25T18:00:02Z"
+    },
+    {
+      "title": "Samsung launches S26 smartphone as sector braces for memory chip crunch",
+      "description": "The latest generation of Galaxy phones touts enhanced AI capabilities, but supply chain concerns hang over sector",
+      "url": "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html",
+      "source": "CNBC",
+      "publishedAt": "2026-02-25T18:00:01Z"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5 hands the Galaxy S26 the AI upgrade we've been waiting for",
+      "description": "The Galaxy S26 Ultra's custom Snapdragon chip delivers massive speed boosts and truly autonomous, on-device AI that thinks ahead while keeping your data locked down.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for",
+      "source": "Android Central",
+      "publishedAt": "2026-02-25T18:00:00Z"
+    },
+    {
+      "title": "Fuel Supply Gap Could Hold Back U.S. Nuclear Energy Renaissance",
+      "description": "Soaring demand for power generation, the U.S. goal of quadrupling nuclear electricity generation by 2050, and a looming ban on Russian nuclear fuel imports could create a bottleneck in the nuclear fuel supply chain, according to U.S. enrichment company Centru…",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-02-25T18:00:00Z"
+    },
     {
       "title": "Dickens Font Family by Fenotype",
       "description": "Typography rarely arrives at exactly the right moment. The Dickens font family by Fenotype did. Released by Finnish type foundry Fenotype, Dickens carries the kind of earned authority that most typefaces spend decades trying to fake. Designed by Emil Karl Ber…",
@@ -212,106 +254,15 @@
       "url": "https://www.techpowerup.com/346734/acemagic-k1-mini-pc-core-i5-12600h-premium-performance-without-the-premium-price",
       "source": "Techpowerup.com",
       "publishedAt": "2026-02-25T16:11:44Z"
-    },
-    {
-      "title": "Morgan Stanley Remains a Buy on NVIDIA Corporation (NVDA)",
-      "description": "​NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Stocks to Buy and Hold For the Next 3 Years. On February 23, Joseph Moore from Morgan Stanley reiterated...",
-      "url": "https://finance.yahoo.com/news/morgan-stanley-remains-buy-nvidia-161025284.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-02-25T16:10:25Z"
-    },
-    {
-      "title": "AMD Introduces EPYC 8005 \"Sorano\" Server CPUs",
-      "description": "AMD has announced its EPYC 8005 series server processors, codenamed \"Sorano\". These new CPUs are filling the gap between the EPYC 9005 high-end Zen 5 lineup and the lower-tier EPYC 4005 parts. The new 8005 series succeeds the EPYC 8004 \"Siena\" family and targ…",
-      "url": "https://www.techpowerup.com/346757/amd-introduces-epyc-8005-sorano-server-cpus",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-02-25T16:07:19Z"
-    },
-    {
-      "title": "A laptop for your desk: Where the affordable Lenovo ThinkPad L16 G2 AMD is strongest",
-      "description": "Sometimes laptops are best suited for a certain use case. With the Lenovo ThinkPad L16 Gen 2 AMD, it is very clear: This is not a laptop you want to use on the go that often.",
-      "url": "https://www.notebookcheck.net/A-laptop-for-your-desk-Where-the-affordable-Lenovo-ThinkPad-L16-G2-AMD-is-strongest.1233032.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-02-25T16:07:00Z"
-    },
-    {
-      "title": "The affordable ThinkPad that’s happiest as a desktop replacement",
-      "description": "Sometimes laptops are best suited for a certain use case. With the Lenovo ThinkPad L16 Gen 2 AMD, it is very clear: This is not a laptop you want to use on the go that often.",
-      "url": "https://www.notebookcheck.net/The-affordable-ThinkPad-that-s-happiest-as-a-desktop-replacement.1233032.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-02-25T16:07:00Z"
-    },
-    {
-      "title": "Protein Industries Canada partners with nine companies to boost domestic food production and strengthen Canada’s food supply chain",
-      "description": "Companies spanning from BC to Quebec shifting their supply chains to include more Canadian ingredients Regina, SK, Feb. 25, 2026 (GLOBE NEWSWIRE) — Today, Protein Industries Canada announced the second cohort of companies participating in its Strengthening th…",
-      "url": "https://financialpost.com/globe-newswire/protein-industries-canada-partners-with-nine-companies-to-boost-domestic-food-production-and-strengthen-canadas-food-supply-chain",
-      "source": "Financial Post",
-      "publishedAt": "2026-02-25T16:04:10Z"
-    },
-    {
-      "title": "Inside Meta and AMD's $100 billion deal, and why AMD is giving up a slice of the company in return for GPU orders — Meta stays platform-agnostic as it develops AI compute strategy",
-      "description": "AMD and Meta's blockbuster deal could see the company signing away 10% of shares in the business to Meta. We examine why AMD is keen to secure AI hardware orders, and explore Meta's AI compute strategy.",
-      "url": "https://www.tomshardware.com/tech-industry/inside-meta-amd-deal",
-      "source": "Tom's Hardware UK",
-      "publishedAt": "2026-02-25T16:02:23Z"
-    },
-    {
-      "title": "Accelerating agent intelligence: Cisco Secure AI Factory expands with NVIDIA and VAST",
-      "description": "A secure AI data platform combines VAST and Cisco UCS with Cilium, Tetragon, and Cisco AI Defense to accelerate RAG and agentic AI, while enforcing container-level segmentation, runtime visibility, and model/MCP security. Ship AI outcomes faster, without expa…",
-      "url": "https://blogs.cisco.com/datacenter/accelerating-agent-intelligence-cisco-secure-ai-factory-expands-with-nvidia-and-vast",
-      "source": "Cisco.com",
-      "publishedAt": "2026-02-25T16:00:15Z"
-    },
-    {
-      "title": "8 Costco Protein Staples That Make Healthy Meal Prep Effortless",
-      "description": "It's no secret that protein has been all the rage among gym rats lately. When I started getting serious about a workout routine and wasn't seeing results, I realized I hadn't been following their advice. The one thing really missing from my diet was more prot…",
-      "url": "https://www.brit.co/costco-protein-finds",
-      "source": "Brit + Co",
-      "publishedAt": "2026-02-25T16:00:02Z"
-    },
-    {
-      "title": "REVIEW: Costco Double Chocolate Mint Sundae",
-      "description": "This year’s McDonald’s Shamrock Season is here! But if you have a Costco membership card, I might recommend grabbing it and heading to your nearest warehouse to get your hands on the new Double Chocolate Mint Sundae instead. Of course, that’s after you pick u…",
-      "url": "https://www.theimpulsivebuy.com/wordpress/2026/02/25/kirkland-signature-double-chocolate-mint-sundae-review",
-      "source": "Theimpulsivebuy.com",
-      "publishedAt": "2026-02-25T16:00:00Z"
-    },
-    {
-      "title": "Protein Industries Canada partners with nine companies to boost domestic food production and strengthen Canada’s food supply chain",
-      "description": "Companies spanning from BC to Quebec shifting their supply chains to include more Canadian ingredients Companies spanning from BC to Quebec shifting their supply chains to include more Canadian ingredients",
-      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244795/0/en/Protein-Industries-Canada-partners-with-nine-companies-to-boost-domestic-food-production-and-strengthen-Canada-s-food-supply-chain.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-25T16:00:00Z"
-    },
-    {
-      "title": "Show HN: SeeVideo – Access Seedance 2.0 and Kling 3.0 without a subscription",
-      "description": "Hi HN,AI video has reached a \"Sora-level\" moment that you can actually use today. We’ve built seevideo.dance to bridge the gap between researchers and creators by integrating the two most powerful models currently in existence: Kling 3.0 and Seedance 2.0.Why …",
-      "url": "https://seevideo.dance/",
-      "source": "Seevideo.dance",
-      "publishedAt": "2026-02-25T15:55:31Z"
-    },
-    {
-      "title": "Walmart: Supply chain spending set to ‘peak’ next 2 years, CEO says",
-      "description": "The retail giant is continuing to automate regional distribution centers throughout the U.S. and starting to deploy technological improvements internationally.",
-      "url": "https://www.supplychaindive.com/news/walmart-supply-chain-automation-q4-earnings/812721",
-      "source": "Supply Chain Dive",
-      "publishedAt": "2026-02-25T15:53:00Z"
-    },
-    {
-      "title": "RAM shortage? Australian outfit sells server with 1TB RAM and four Xeon CPUs for $1200 — Decade-old powerhouse has rare Intel SSD, two redundant 1.1kW PSUs and is worth thousands more in parts",
-      "description": "This Dell PowerEdge R820 probably cost one hundred times more when it went on sale back in the early 2010s; it is an absolute bargain, a true one-off.",
-      "url": "https://www.techradar.com/pro/ram-shortage-australian-outfit-sells-server-with-1tb-ram-and-four-xeon-cpus-for-usd1200-decade-old-powerhouse-has-rare-intel-ssd-two-redundant-1-1kw-psus-and-is-worth-thousands-more-in-parts",
-      "source": "TechRadar",
-      "publishedAt": "2026-02-25T15:52:18Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Dickens Font Family by Fenotype",
-      "How the Pentagon picks what drones to buy in a Chinese-dominated market",
-      "2001 Ford Excursion Limited Power Stroke 4×4 at No Reserve",
-      "Expat BBQ to close March 11 at City Foundry, reopen as sports bar Brickline",
-      "Der8auer Says He Loved The Effort Of User Who Got His Wireview Connector Melted And Is Sending Wireview Pro 2"
+      "Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design",
+      "Samsung Launches Galaxy S26 Ultra With Built-In Privacy Display and New AI Features",
+      "Samsung Galaxy S26 Ultra arrives with Privacy Display, SD 8 Elite Gen 5 for Galaxy",
+      "Samsung launches S26 smartphone as sector braces for memory chip crunch",
+      "Snapdragon 8 Elite Gen 5 hands the Galaxy S26 the AI upgrade we've been waiting for"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -320,21 +271,21 @@
   },
   "clusters": [
     {
-      "title": "Nvidia",
-      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Latest",
+      "summary": "Grouped stories where \"latest\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://financialpost.com/fp-finance/cryptocurrency/bitcoin-snaps-losing-streak",
-        "https://www.usatoday.com/story/money/2026/02/25/nvidia-earnings-call-february-25/88858633007",
-        "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html"
+        "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch",
+        "https://www.gsmarena.com/samsung_galaxy_s26_ultra_arrives_with_privacy_display_sd_8_elite_gen_5_for_galaxy_and_60w_charging_-news-71717.php",
+        "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html"
       ]
     },
     {
       "title": "Supply",
       "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
+        "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html",
         "https://www.businessinsider.com/pentagon-drones-chinese-dominated-market-list-2026-2",
-        "https://www.globenewswire.com/news-release/2026/02/25/3244871/0/en/BizClik-Returns-With-CPD-Accredited-Procurement-Supply-Chain-LIVE-and-Sustainability-LIVE-The-Net-Zero-Summit.html",
-        "https://theweek.com/politics/anthropic-ai-defense-department-hegseth"
+        "https://www.globenewswire.com/news-release/2026/02/25/3244871/0/en/BizClik-Returns-With-CPD-Accredited-Procurement-Supply-Chain-LIVE-and-Sustainability-LIVE-The-Net-Zero-Summit.html"
       ]
     },
     {
@@ -350,9 +301,9 @@
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://weandthecolor.com/dickens-font-family-fenotype/208377",
-        "https://bringatrailer.com/listing/2001-ford-excursion-163",
-        "https://www.stltoday.com/life-entertainment/local/food-drink/restaurants/article_48785d94-47db-4def-8cdc-a6a720b3c7a9.html"
+        "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
+        "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for",
+        "https://weandthecolor.com/dickens-font-family-fenotype/208377"
       ]
     }
   ],
@@ -498,7 +449,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 372.725
+          "close": 372.53
         }
       ],
       "sentiment": {
@@ -506,7 +457,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Dickens Font Family by Fenotype. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -649,7 +600,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 202.6
+          "close": 201.645
         }
       ],
       "sentiment": {
@@ -657,7 +608,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Dickens Font Family by Fenotype. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -800,7 +751,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 1449.98
+          "close": 1448.18
         }
       ],
       "sentiment": {
@@ -808,7 +759,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Dickens Font Family by Fenotype. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -951,7 +902,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 45.21
+          "close": 45.15
         }
       ],
       "sentiment": {
@@ -959,7 +910,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Dickens Font Family by Fenotype. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -1102,7 +1053,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 144.9808
+          "close": 145.1
         }
       ],
       "sentiment": {
@@ -1110,7 +1061,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Dickens Font Family by Fenotype. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
