@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "Jimmy Kimmel Gives 'Nutjob' Trump A Sharp Reality Check After SOTU",
-      "'Trump desperate for a foreign policy success,' expert says on US President's claim of ending India-Pak conflict",
-      "House Speaker Mike Johnson: 'Shameful display'",
-      "\"You should be ashamed\" | Ilhan Omar, Trump clash during State of the Union",
-      "Gerry Hutch launches byelection campaign by calling on supporters to register to vote"
+      "Gaurav Gogoi appointed India-Philippines friendship Group President, Congress cites 'Pakistan link' propaganda exposed",
+      "IPO-bound OYO parent PRISM appoints former SEBI chairman Ajay Tyagi to board",
+      "What Trump’s speech means for the world",
+      "LEIF LARSON: Credit Card Rate Caps A Bad Progressive Idea",
+      "Tiger census in Shuklaphanta National Park to begin from March 7"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -19,18 +19,26 @@
       "title": "Trump",
       "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.huffpost.com/entry/jimmy-kimmel-trump-state-of-the-union_n_699e8ac3e4b0c4f808271e17",
-        "https://economictimes.indiatimes.com/news/international/world-news/trump-desperate-for-a-foreign-policy-success-expert-says-on-us-presidents-claim-of-ending-india-pak-conflict/articleshow/128773220.cms",
-        "https://www.israelnationalnews.com/news/422951"
+        "https://www.irishtimes.com/world/2026/02/25/state-of-the-union-speech-trump-says-little-on-europe-china-as-foreign-policy-sidelined",
+        "https://economictimes.indiatimes.com/news/defence/iran-rejects-us-claims-on-missile-programme-as-big-lies/articleshow/128773393.cms",
+        "https://mainichi.jp/english/articles/20260225/p2g/00m/0in/019000c"
+      ]
+    },
+    {
+      "title": "President",
+      "summary": "Grouped stories where \"president\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/india/gaurav-gogoi-gets-key-lok-sabha-role-assam-congress-says-move-exposes-pakistan-link-propaganda-by-cm-himanta-biswa-sarma/articleshow/128773251.cms",
+        "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-on-compromised-mission-has-links-with-pro-pak-elements-nitin-nabin/articleshow/128773535.cms"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.irishtimes.com/politics/2026/02/25/gerry-hutch-launches-byelection-campaign-by-calling-on-supporters-to-register-to-vote",
-        "https://economictimes.indiatimes.com/news/politics-and-nation/highly-condemnable-shameful-priyanka-slams-arrest-of-iyc-leaders/articleshow/128773044.cms",
-        "https://slashdot.org/firehose.pl?op=view&amp;id=180857682"
+        "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/ipo-bound-oyo-parent-prism-appoints-former-sebi-chairman-ajay-tyagi-to-board/articleshow/128773628.cms",
+        "https://dailycaller.com/2026/02/25/opinion-credit-card-rate-caps-a-bad-progressive-idea",
+        "https://english.khabarhub.com/2026/25/536601"
       ]
     }
   ],

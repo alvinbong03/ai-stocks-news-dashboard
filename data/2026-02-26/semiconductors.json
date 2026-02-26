@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "China targets fivefold jump in advanced chip output to fuel AI expansion",
-      "Nvidia deploys AI-driven cybersecurity to protect critical infrastructure",
-      "Multiple Reports Emerge of MSI 12v-2×6 PSU Connectors Creeping Out of GPUs",
-      "Commentary: How China's AI firms are mining Claude—and why it matters to supply chains and export controls",
-      "DJI takes FCC to court over drone supply chain crackdown"
+      "Global Markets | Australian shares hit record high as investors focus on strong earnings, shrug off hot CPI",
+      "Aspocomp’s Remuneration Report for Governing Bodies 2025 has been published",
+      "Sigurd invests NT$1.54B to acquire Unimicron's Hukou plant amid strong AI, ASIC demand",
+      "Iridium 9604 3-in-1 IoT module integrates Iridium SBD satellite service, LTE-M cellular connectivity, and GNSS positioning",
+      "China targets fivefold jump in advanced chip output to fuel AI expansion"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,39 +16,46 @@
   },
   "clusters": [
     {
+      "title": "Report",
+      "summary": "Grouped stories where \"report\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-as-investors-focus-on-strong-earnings-shrug-off-hot-cpi/articleshow/128773614.cms",
+        "https://www.globenewswire.com/news-release/2026/02/25/3244287/0/en/Aspocomp-s-Remuneration-Report-for-Governing-Bodies-2025-has-been-published.html",
+        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html"
+      ]
+    },
+    {
       "title": "Supply",
       "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html",
+        "https://www.digitimes.com/news/a20260225PD218/sigurd-unimicron-ic-packaging-testing-supply-chain-taiwan.html",
         "https://www.digitimes.com/news/a20260225VL210/dji-fcc-expansion-market-commercial.html",
         "https://www.theregister.com/2026/02/25/threat_intelligence_supply_chain_research"
       ]
     },
     {
-      "title": "China",
-      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Off",
+      "summary": "Grouped stories where \"off\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225VL209/expansion-capacity-smic-ai-chip-production.html",
         "https://freerepublic.com/focus/f-news/4368201/posts",
-        "https://theconversation.com/why-india-joining-the-us-alliance-on-ai-tech-is-an-opportunity-for-australia-274115"
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180857402"
       ]
     },
     {
-      "title": "Nvidia",
-      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
-        "https://abcnews.com/Technology/wireStory/nvidia-prepares-release-quarterly-results-ai-fears-weigh-130482137",
-        "https://en.antaranews.com/news/405946/ridger-achieves-xfusions-fusionxpark-nvidia-gb10-based-compatibility-certification"
+        "https://www.digitimes.com/news/a20260225VL209/expansion-capacity-smic-ai-chip-production.html",
+        "https://theconversation.com/why-india-joining-the-us-alliance-on-ai-tech-is-an-opportunity-for-australia-274115"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.techpowerup.com/346728/multiple-reports-emerge-of-msi-12v-2x6-psu-connectors-creeping-out-of-gpus",
-        "https://www.globenewswire.com/news-release/2026/02/25/3244245/0/en/ASML-publishes-2025-Annual-Reports.html",
-        "https://slashdot.org/firehose.pl?op=view&amp;id=180857402"
+        "https://www.cnx-software.com/2026/02/25/iridium-9604-3-in-1-iot-module-integrates-iridium-sbd-satellite-service-lte-m-cellular-connectivity-and-gnss-positioning",
+        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
+        "https://www.techpowerup.com/346728/multiple-reports-emerge-of-msi-12v-2x6-psu-connectors-creeping-out-of-gpus"
       ]
     }
   ],
