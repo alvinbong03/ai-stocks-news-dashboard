@@ -6,6 +6,15 @@ function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
 
+function readJsonIfExists(filePath, fallbackValue) {
+  try {
+    if (!fs.existsSync(filePath)) return fallbackValue;
+    return readJson(filePath);
+  } catch {
+    return fallbackValue;
+  }
+}
+
 function writeJson(filePath, value) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, JSON.stringify(value, null, 2) + "\n", "utf8");
@@ -149,13 +158,14 @@ function dedupeArticles(articles) {
   return out;
 }
 
-async function fetchJson(url, options = {}) {
+async function fetchWithRetry(url, options = {}) {
   const {
     label = "request",
     maxAttempts = 4,
     baseDelayMs = 500,
     maxDelayMs = 8000,
-    minSpacingMs = 250
+    minSpacingMs = 1100,
+    parse = "json" // "json" | "text"
   } = options;
 
   let attempt = 1;
@@ -169,6 +179,7 @@ async function fetchJson(url, options = {}) {
       const res = await fetch(url);
 
       if (res.ok) {
+        if (parse === "text") return res.text();
         return res.json();
       }
 
@@ -212,18 +223,25 @@ async function fetchJson(url, options = {}) {
   throw new Error(`[${label}] Fetch failed after ${maxAttempts} attempts for ${url}`);
 }
 
+async function fetchJson(url, options = {}) {
+  return fetchWithRetry(url, { ...options, parse: "json" });
+}
+
+async function fetchText(url, options = {}) {
+  return fetchWithRetry(url, { ...options, parse: "text" });
+}
+
 async function fetchStooqDailyCloses(ticker) {
   const symbol = `${ticker.toLowerCase()}.us`;
   const url = `https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&i=d`;
 
-  const res = await fetch(url);
-
-  if (!res.ok) {
-    console.warn(`[stooq:${ticker}] HTTP ${res.status}.`);
+  let csv = "";
+  try {
+    csv = await fetchText(url, { label: `stooq:${ticker}`, minSpacingMs: 1100 });
+  } catch (e) {
+    console.warn(`[stooq:${ticker}] Failed after retries.`);
     return [];
   }
-
-  const csv = await res.text();
 
   // Split safely on both \r\n and \n
   const lines = csv.trim().split(/\r?\n/);
@@ -463,7 +481,8 @@ async function fetchNews(theme, newsApiKey) {
     title: a.title ?? "",
     description: a.description ?? "",
     url: canonicalizeUrl(a.url ?? ""),
-    source: a.source?.name ?? "Unknown"
+    source: a.source?.name ?? "Unknown",
+    publishedAt: a.publishedAt ?? ""
   }));
 
   return articles;
@@ -621,44 +640,71 @@ async function main() {
 
   const themes = Object.keys(tickersByTheme);
 
+  const successfulThemes = [];
+
   for (const theme of themes) {
-    const tickers = tickersByTheme[theme] ?? [];
-    const articles = await fetchNews(theme, newsApiKey);
+    try {
+      const tickers = tickersByTheme[theme] ?? [];
+      const articles = await fetchNews(theme, newsApiKey);
 
-    const digest = buildDigest(articles);
-    const clusters = buildClusters(articles);
+      const digest = buildDigest(articles);
+      const clusters = buildClusters(articles);
 
-    const stocks = [];
-    for (const ticker of tickers.slice(0, 5)) {
-      const price_history = await fetchStooqDailyCloses(ticker);
-      stocks.push({
-        ticker,
-        price_history,
-        sentiment: { category: "Neutral", score: 0, magnitude: 0 }
-      });
+      const stocks = [];
+
+      const topBullet = digest.bullets[0] ?? "";
+      const topClusterTitle = clusters[0]?.title ?? "";
+
+      for (const ticker of tickers.slice(0, 5)) {
+        const price_history = await fetchStooqDailyCloses(ticker);
+
+        const ai_explanationParts = [];
+        if (topBullet) ai_explanationParts.push(`Top headline signal: ${topBullet}`);
+        if (topClusterTitle) ai_explanationParts.push(`Main topic cluster: ${topClusterTitle}`);
+
+        const ai_explanation =
+          ai_explanationParts.length > 0
+            ? `${ai_explanationParts.join(". ")}. This is an educational summary, not financial advice.`
+            : "Educational summary unavailable for this theme today. Not financial advice.";
+
+        stocks.push({
+          ticker,
+          price_history,
+          sentiment: { category: "Neutral", score: 0, magnitude: 0 },
+          ai_explanation
+        });
+      }
+
+      const themeJson = {
+        theme,
+        date,
+        last_updated_utc: new Date().toISOString(),
+        news: articles,
+        digest,
+        clusters,
+        stocks,
+        disclaimer: "Educational use only. Not financial advice."
+      };
+
+      writeJson(path.join(outDir, `${theme}.json`), themeJson);
+      successfulThemes.push(theme);
+      console.log(`Wrote ${date}/${theme}.json`);
+    } catch (e) {
+      console.warn(`[generate-data] Theme failed: ${theme}`);
+      console.warn(e);
     }
-
-    const themeJson = {
-      theme,
-      date,
-      digest,
-      clusters,
-      stocks,
-      disclaimer: "Educational use only. Not financial advice."
-    };
-
-    writeJson(path.join(outDir, `${theme}.json`), themeJson);
-    console.log(`Wrote ${date}/${theme}.json`);
   }
 
-  // Update manifest.json
+  // Update manifest.json (only for themes that actually wrote data)
   const manifestPath = path.join(repoRoot, "data", "manifest.json");
+  const previousManifest = readJsonIfExists(manifestPath, { generated_at_utc: "", themes: {} });
+
   const manifest = {
     generated_at_utc: new Date().toISOString(),
-    themes: {}
+    themes: { ...(previousManifest.themes ?? {}) }
   };
 
-  for (const theme of themes) {
+  for (const theme of successfulThemes) {
     manifest.themes[theme] = { latest_date: date };
   }
 
