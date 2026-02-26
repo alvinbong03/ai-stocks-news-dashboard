@@ -124,8 +124,49 @@ async function fetchJson(url, options = {}) {
   throw new Error(`[${label}] Fetch failed after ${maxAttempts} attempts for ${url}`);
 }
 
+async function fetchStooqDailyCloses(ticker) {
+  // Stooq uses lowercase tickers. US symbols often use ".us"
+  // Examples: nvda.us, msft.us, spy.us
+  const symbol = `${ticker.toLowerCase()}.us`;
+  const url = `https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&i=d`;
+
+  const res = await fetch(url);
+
+  if (!res.ok) {
+    console.warn(`[stooq:${ticker}] HTTP ${res.status}. Continuing without price history.`);
+    return [];
+  }
+
+  const csv = await res.text();
+
+  // CSV format:
+  // Date,Open,High,Low,Close,Volume
+  const lines = csv.trim().split("\n");
+
+  if (lines.length < 2) {
+    console.warn(`[stooq:${ticker}] No CSV rows. Continuing without price history.`);
+    return [];
+  }
+
+  const out = [];
+
+  for (let i = 1; i < lines.length; i++) {
+    const cols = lines[i].split(",");
+    const date = cols[0];
+    const closeStr = cols[4];
+    const close = Number(closeStr);
+
+    if (!date || Number.isNaN(close)) continue;
+
+    out.push({ date, close });
+  }
+
+  // Keep last ~35 points to keep JSON small
+  return out.slice(-35);
+}
+
 async function fetchNews(theme, newsApiKey) {
-  // Very simple query.
+  // Very simple query 
   const q = encodeURIComponent(theme);
   const url = `https://newsapi.org/v2/everything?q=${q}&language=en&pageSize=20&sortBy=publishedAt&apiKey=${newsApiKey}`;
   const data = await fetchJson(url, { label: `news:${theme}` });
@@ -142,44 +183,6 @@ async function fetchNews(theme, newsApiKey) {
   return articles.filter((a) => a.title && a.url);
 }
 
-async function fetchFinnhubCandles(ticker, finnhubKey) {
-  // Fetch ~30 days of daily candles
-  const nowSec = Math.floor(Date.now() / 1000);
-  const fromSec = nowSec - 60 * 60 * 24 * 35;
-
-  const url =
-    `https://finnhub.io/api/v1/stock/candle?symbol=${encodeURIComponent(ticker)}` +
-    `&resolution=D&from=${fromSec}&to=${nowSec}&token=${encodeURIComponent(finnhubKey)}`;
-
-  let data;
-    try {
-        data = await fetchJson(url, { label: `finnhub:${ticker}` });
-    } catch (err) {
-        const msg = err instanceof Error ? err.message : String(err);
-        console.warn(
-        `[finnhub:${ticker}] Failed to fetch candle data. Continuing without price history.\n${msg}`
-    );
-    return [];
-    }
-
-  if (data.s !== "ok") {
-    // finnhub returns { s: "no_data" } sometimes
-    console.warn(`[finnhub:${ticker}] No candle data (status: ${data.s}).`);
-    return [];
-  }
-
-  // data.t is unix timestamps; data.c is close prices
-  const points = [];
-  for (let i = 0; i < data.t.length; i++) {
-    const dt = new Date(data.t[i] * 1000);
-    const yyyy = dt.getUTCFullYear();
-    const mm = String(dt.getUTCMonth() + 1).padStart(2, "0");
-    const dd = String(dt.getUTCDate()).padStart(2, "0");
-    points.push({ date: `${yyyy}-${mm}-${dd}`, close: data.c[i] });
-  }
-  return points;
-}
-
 function buildDigest(articles) {
   // MVP: use top 5 titles as bullets
   const bullets = articles.slice(0, 5).map((a) => a.title);
@@ -187,7 +190,7 @@ function buildDigest(articles) {
   // MVP: a couple simple “insights”
   const insights = [];
   if (articles.length >= 8) insights.push("Coverage volume is elevated, suggesting an active news cycle.");
-  insights.push("Digest is rule-based for MVP; AI summarisation will be added later.");
+  insights.push("Digest is rule-based for MVP; AI summarisation can be added later.");
 
   return { bullets, insights: insights.slice(0, 3) };
 }
@@ -221,7 +224,7 @@ function buildClusters(articles) {
   const freq = new Map(); // keyword -> count
 
   for (const a of articles) {
-    const combined = `${a.title ?? ""} ${a.description ?? ""}`; // comvine title and description for better keyword extraction
+    const combined = `${a.title ?? ""} ${a.description ?? ""}`; // combine title and description for better keyword extraction
     const tokens = tokenize(combined).filter((t) => !stopwords.has(t));
 
     perArticleTokens.push({ article: a, tokens });
@@ -316,12 +319,9 @@ function buildClusters(articles) {
 
 async function main() {
   // Load env (simple, no dependency)
-  // run this script with env vars available (via .env loader or shell env)
-
-  //Take raw external data (NewsAPI + Finnhub) → transform it → output structured JSON files → update manifest → frontend reads them.
+  // Take raw external data (NewsAPI + Stooq) → transform it → output structured JSON files → update manifest → frontend reads them.
   console.log(`[generate-data] START ${new Date().toISOString()}`);
   const newsApiKey = requireEnv("NEWSAPI_KEY");
-  const finnhubKey = requireEnv("FINNHUB_API_KEY");
 
   const repoRoot = process.cwd();
   const tickersPath = path.join(repoRoot, "themeTickers.json");
@@ -341,7 +341,7 @@ async function main() {
 
     const stocks = [];
     for (const ticker of tickers.slice(0, 5)) {
-      const price_history = await fetchFinnhubCandles(ticker, finnhubKey);
+      const price_history = await fetchStooqDailyCloses(ticker);
       stocks.push({
         ticker,
         price_history,
