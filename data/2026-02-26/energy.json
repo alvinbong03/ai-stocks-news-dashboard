@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "How do birds stay warm in extreme cold?",
-      "Türkiye promotes rooftop solar at homes to expand sustainable energy use",
-      "Vikram Solar gets 378.75 MW solar module order from Indian Oil-NTPC Green Energy Private JV",
-      "Why do birds suddenly change direction?",
-      "UK Hits Russian Oil Fleet with Biggest Sanctions in Years"
+      "Vikram Solar secures 378.75 MW module order from INGEL",
+      "Kim Kardashian Announces Energy Drink Update, Joins New Relaunch of Caffeine Free Beverage",
+      "A message of strong transatlantic cooperation with new deals for the Vertical Corridor",
+      "Diego Pavia combine schedule: Time, TV channel, live stream to watch Vanderbilt QB's 2026 NFL Draft workouts",
+      "Türkiye promotes rooftop solar at homes to expand sustainable energy use"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,47 +16,47 @@
   },
   "clusters": [
     {
-      "title": "2026",
-      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.freepressjournal.in/business/larsen-toubro-wins-major-epc-orders-for-power-transmission-projects-in-india-middle-east",
-        "https://punchng.com/10-best-online-pokies-in-australia-youll-want-to-play-in-2026/",
-        "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html"
-      ]
-    },
-    {
-      "title": "Guide",
-      "summary": "Grouped stories where \"guide\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.lifesciencesworld.com/how-do-birds-stay-warm-in-extreme-cold/",
-        "https://www.lifesciencesworld.com/can-catfish-eat-egg/",
-        "https://www.lifesciencesworld.com/what-do-you-feed-a-baby-ferret/"
-      ]
-    },
-    {
       "title": "Energy",
       "summary": "Grouped stories where \"energy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.hurriyetdailynews.com/turkiye-promotes-rooftop-solar-at-homes-to-expand-sustainable-energy-use-219305",
-        "https://economictimes.indiatimes.com/industry/renewables/vikram-solar-gets-378-75-mw-solar-module-order-from-indian-oil-ntpc-green-energy-private-jv/articleshow/128772858.cms",
-        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html"
+        "https://www.thehindubusinessline.com/companies/vikram-solar-secures-37875-mw-module-order-from-ingel/article70674550.ece",
+        "https://www.justjared.com/2026/02/25/kim-kardashian-announces-energy-drink-update-joins-new-relaunch-of-caffeine-free-beverage",
+        "https://en.protothema.gr/2026/02/25/a-message-of-strong-transatlantic-cooperation-with-new-deals-for-the-vertical-corridor"
       ]
     },
     {
       "title": "Oil",
       "summary": "Grouped stories where \"oil\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.rigzone.com/news/wire/uk_hits_russian_oil_fleet_with_biggest_sanctions_in_years-25-feb-2026-183063-article/",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a20faf42-078c-4660-a11c-ea8a8d5065bb",
+        "https://www.rigzone.com/news/wire/uk_hits_russian_oil_fleet_with_biggest_sanctions_in_years-25-feb-2026-183063-article",
         "https://sputnikglobe.com/20260225/us-state-department-urged-ukraine-to-cease-attacks-on-us-interests-1123685789.html"
+      ]
+    },
+    {
+      "title": "Solar",
+      "summary": "Grouped stories where \"solar\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://hackaday.com/2026/02/24/interplanetary-clock-keeps-time-across-the-solar-system",
+        "https://www.thehindubusinessline.com/markets/waaree-energies-premier-energies-vikram-solar-tumble-up-to-10-after-us-imposes-126-preliminary-duty-on-solar-imports/article70674010.ece",
+        "https://www.bloomberg.com/news/articles/2026-02-24/us-finds-that-india-indonesia-laos-unfairly-subsidized-solar"
+      ]
+    },
+    {
+      "title": "State",
+      "summary": "Grouped stories where \"state\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.irishtimes.com/business/2026/02/25/corrib-gasfield-owners-pilot-green-hydrogen-project-with-gas-networks-ireland",
+        "https://www.rawstory.com/rachel-maddow-2675328989"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.lifesciencesworld.com/why-do-birds-suddenly-change-direction/",
-        "https://www.cnbc.com/2026/02/25/rolls-royce-fy-earnings-due-for-aerospace-giant.html",
-        "https://www.lifesciencesworld.com/can-bears-have-quadruplets/"
+        "https://www.channelnewsasia.com/singapore/deliveroo-singapore-cease-operations-food-delivery-5951801",
+        "https://www.lifesciencesworld.com/what-is-an-example-of-predation",
+        "https://www.thestar.com.my/news/nation/2026/02/25/court-dismisses-petros039-challenge-of-petronas-call-on-rm795mil-bank-guarantee"
       ]
     }
   ],

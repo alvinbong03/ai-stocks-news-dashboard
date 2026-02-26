@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "To trade coders for legos, India needs a better deal",
-      "Global Market | Hot Streak or Turning Point? Kospi’s historic run leaves investors weighing what comes next",
-      "Indonesia, Arm partnership targets faster mastery of chip technology",
-      "Toshiba Releases Small Photorelays with 135°C Rating for High-Temperature Equipment Operation",
-      "China has not yet received any Nvidia H200 chips, US official says"
+      "China targets fivefold jump in advanced chip output to fuel AI expansion",
+      "Nvidia deploys AI-driven cybersecurity to protect critical infrastructure",
+      "Multiple Reports Emerge of MSI 12v-2×6 PSU Connectors Creeping Out of GPUs",
+      "Commentary: How China's AI firms are mining Claude—and why it matters to supply chains and export controls",
+      "DJI takes FCC to court over drone supply chain crackdown"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,44 +16,39 @@
   },
   "clusters": [
     {
-      "title": "Global",
-      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hot-streak-or-turning-point-kospis-historic-run-leaves-investors-weighing-what-comes-next/articleshow/128770815.cms",
-        "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html",
-        "https://www.cnbc.com/2026/02/25/critical-minerals-stockpile-race-us-eu-china-resource-nationalism.html"
+        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html",
+        "https://www.digitimes.com/news/a20260225VL210/dji-fcc-expansion-market-commercial.html",
+        "https://www.theregister.com/2026/02/25/threat_intelligence_supply_chain_research"
       ]
     },
     {
-      "title": "Driven",
-      "summary": "Grouped stories where \"driven\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "China",
+      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-releases-small-photorelays-with-135c-rating-for-high-temperature-equipment-operation",
-        "https://economictimes.indiatimes.com/news/international/us/how-the-ai-boom-is-fueling-the-south-korean-economy-heres-the-breakdown/articleshow/128755794.cms"
+        "https://www.digitimes.com/news/a20260225VL209/expansion-capacity-smic-ai-chip-production.html",
+        "https://freerepublic.com/focus/f-news/4368201/posts",
+        "https://theconversation.com/why-india-joining-the-us-alliance-on-ai-tech-is-an-opportunity-for-australia-274115"
       ]
     },
     {
-      "title": "Tech",
-      "summary": "Grouped stories where \"tech\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-bounces-back-ending-higher-on-renewed-tech-vigor-easing-ai-concerns/articleshow/128767407.cms",
-        "http://electrek.co/2026/02/24/first-solar-perovskite-oxford-pv/"
-      ]
-    },
-    {
-      "title": "2026",
-      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.ibtimes.com.au/nasdaq-composite-pulls-back-around-22800-amid-ai-spending-concerns-tariff-uncertainty-volatile-1862018"
+        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
+        "https://abcnews.com/Technology/wireStory/nvidia-prepares-release-quarterly-results-ai-fears-weigh-130482137",
+        "https://en.antaranews.com/news/405946/ridger-achieves-xfusions-fusionxpark-nvidia-gb10-based-compatibility-certification"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/jobs/fresher/to-trade-coders-for-legos-india-needs-a-better-deal/articleshow/128770938.cms",
-        "https://en.antaranews.com/news/405938/indonesia-arm-partnership-targets-faster-mastery-of-chip-technology",
-        "https://economictimes.indiatimes.com/tech/technology/china-has-not-yet-received-any-nvidia-h200-chips-us-official-says/articleshow/128767585.cms"
+        "https://www.techpowerup.com/346728/multiple-reports-emerge-of-msi-12v-2x6-psu-connectors-creeping-out-of-gpus",
+        "https://www.globenewswire.com/news-release/2026/02/25/3244245/0/en/ASML-publishes-2025-Annual-Reports.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180857402"
       ]
     }
   ],

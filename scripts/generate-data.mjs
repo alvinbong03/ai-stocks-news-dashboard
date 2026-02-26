@@ -61,6 +61,94 @@ function shouldRetryStatus(status) {
   );
 }
 
+function normalizeText(s) {
+  return String(s ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, " ");
+}
+
+function canonicalizeUrl(raw) {
+  try {
+    const u = new URL(String(raw));
+
+    // Remove common tracking params to reduce duplicates
+    const drop = new Set([
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "utm_term",
+      "utm_content",
+      "utm_id",
+      "gclid",
+      "fbclid",
+      "mc_cid",
+      "mc_eid",
+      "ref",
+      "ref_src",
+      "igshid"
+    ]);
+
+    for (const k of [...u.searchParams.keys()]) {
+      if (drop.has(k.toLowerCase())) u.searchParams.delete(k);
+    }
+
+    // Normalise trivial differences
+    u.hash = "";
+    if (u.pathname.endsWith("/")) u.pathname = u.pathname.slice(0, -1);
+
+    return u.toString();
+  } catch {
+    return String(raw ?? "").trim();
+  }
+}
+
+function uniqueStrings(items) {
+  const seen = new Set();
+  const out = [];
+
+  for (const item of items) {
+    const key = normalizeText(item);
+    if (!key) continue;
+    if (seen.has(key)) continue;
+
+    seen.add(key);
+    out.push(item);
+  }
+
+  return out;
+}
+
+// Deduplicate NewsAPI articles by canonical URL (preferred) or title+source.
+function dedupeArticles(articles) {
+  const seen = new Set();
+  const out = [];
+
+  for (const a of articles) {
+    const url = canonicalizeUrl(a?.url);
+    const titleKey = normalizeText(a?.title);
+    const sourceKey = normalizeText(a?.source?.name);
+
+    const key = url
+      ? `url:${url}`
+      : titleKey
+        ? `t:${titleKey}|s:${sourceKey}`
+        : null;
+
+    if (!key) continue;
+    if (seen.has(key)) continue;
+
+    seen.add(key);
+
+    out.push({
+      ...a,
+      url
+    });
+  }
+
+  return out;
+}
+
 async function fetchJson(url, options = {}) {
   const {
     label = "request",
@@ -149,7 +237,6 @@ async function fetchStooqDailyCloses(ticker) {
 
   for (let i = 1; i < lines.length; i++) {
     const cols = lines[i].split(",");
-
     if (cols.length < 5) continue;
 
     const date = cols[0].trim();
@@ -157,39 +244,244 @@ async function fetchStooqDailyCloses(ticker) {
     const close = Number(closeStr);
 
     if (!date || Number.isNaN(close)) continue;
-
     out.push({ date, close });
   }
 
-  // Keep last 35 points
+  // Keep last ~35 points to keep JSON small
   return out.slice(-35);
 }
 
+function buildNewsQuery(theme) {
+  // Theme-specific queries (MVP). Keep them simple and readable.
+  // NewsAPI query syntax supports AND/OR, quotes, and negative terms with a leading minus.
+  const queryByTheme = {
+    ai: [
+      '"artificial intelligence"',
+      '"generative AI"',
+      '"machine learning"',
+      "LLM",
+      '"large language model"',
+      "ChatGPT",
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "Gemini",
+      "DeepMind",
+      "NVIDIA",
+      "GPU",
+      '"AI chip"',
+      '"data center"',
+      '"model safety"',
+      "regulation"
+    ].join(" OR "),
+
+    semiconductors: [
+      "semiconductor",
+      "chip",
+      "chips",
+      "GPU",
+      "NVIDIA",
+      "TSMC",
+      "Intel",
+      "AMD",
+      "ASML",
+      '"foundry"',
+      '"export controls"',
+      '"supply chain"'
+    ].join(" OR "),
+
+    energy: [
+      "energy",
+      "oil",
+      "gas",
+      "OPEC",
+      "renewables",
+      "solar",
+      "wind",
+      "LNG",
+      '"power grid"',
+      '"electricity prices"',
+      '"energy transition"'
+    ].join(" OR "),
+
+    "us-politics": [
+      '"United States"',
+      '"White House"',
+      "Congress",
+      "Senate",
+      "House",
+      "Biden",
+      "Trump",
+      "election",
+      "campaign",
+      "policy",
+      "tariffs",
+      "sanctions",
+      '"federal government"'
+    ].join(" OR ")
+  };
+
+  const rawQuery = queryByTheme[theme] ?? theme;
+
+  // Slightly tighten the AI theme by excluding common false positives.
+  // Keep this minimal so we do not accidentally exclude real AI coverage.
+  if (theme === "ai") {
+    return `${rawQuery} -pypi -package -wordpress -dev -release`;
+  }
+
+  return rawQuery;
+}
+
 async function fetchNews(theme, newsApiKey) {
-  // Very simple query 
-  const q = encodeURIComponent(theme);
-  const url = `https://newsapi.org/v2/everything?q=${q}&language=en&pageSize=20&sortBy=publishedAt&apiKey=${newsApiKey}`;
+  // Better query + slightly tighter matching: title/description only
+  const finalQuery = buildNewsQuery(theme);
+  const q = encodeURIComponent(finalQuery);
+
+  const baseParams =
+    `&language=en` +
+    `&pageSize=50` +
+    `&sortBy=publishedAt` +
+    `&apiKey=${newsApiKey}`;
+
+  // For AI, use qInTitle for higher precision. For others, keep broader searchIn.
+  const url =
+    theme === "ai"
+      ? `https://newsapi.org/v2/everything?qInTitle=${q}${baseParams}`
+      : `https://newsapi.org/v2/everything?q=${q}&searchIn=title,description${baseParams}`;
+
   const data = await fetchJson(url, { label: `news:${theme}` });
 
-  // Normalize to only what we need
-  const articles = (data.articles ?? []).map((a) => ({
+  // Remove obvious low-quality / irrelevant sources for our educational dashboard (MVP denylist)
+  const blockedHosts = new Set([
+    "pypi.org",
+    "alltoc.com"
+  ]);
+
+  const rawArticles = Array.isArray(data.articles) ? data.articles : [];
+
+  // 1) Domain/URL quality filter (denylist)
+  const domainFiltered = rawArticles.filter((a) => {
+    const urlStr = a?.url;
+    if (!urlStr) return false;
+
+    try {
+      const host = new URL(urlStr).hostname.replace(/^www\./, "");
+      return !blockedHosts.has(host);
+    } catch {
+      // If URL parsing fails, drop it
+      return false;
+    }
+  });
+
+  // 2) AI relevance filter (AI theme only)
+  // New approach: relevance scoring. Require multiple AI signals to avoid random articles.
+  function aiRelevanceScore(title, description) {
+    const text = `${title ?? ""} ${description ?? ""}`.toLowerCase();
+
+    // Common false positives where "AI" does not mean artificial intelligence.
+    const falsePositivePhrases = ["air india", "all india", "aiadmk", "aiims"];
+    for (const p of falsePositivePhrases) {
+      if (text.includes(p)) return 0;
+    }
+
+    // Signals are grouped. We want at least 2 points for a "good" AI article.
+    const phraseSignals = [
+      "artificial intelligence",
+      "generative ai",
+      "machine learning",
+      "deep learning",
+      "large language model",
+      "language model",
+      "foundation model",
+      "ai safety",
+      "model safety",
+      "ai regulation",
+      "data center",
+      "datacenter",
+      "ai chip"
+    ];
+
+    const tokenSignals = [
+      "llm",
+      "gpt",
+      "chatgpt",
+      "openai",
+      "anthropic",
+      "claude",
+      "gemini",
+      "deepmind",
+      "nvidia",
+      "gpu",
+      "inference",
+      "training",
+      "transformer",
+      "neural",
+      "cuda"
+    ];
+
+    let score = 0;
+
+    for (const p of phraseSignals) {
+      if (text.includes(p)) score += 1;
+    }
+
+    for (const t of tokenSignals) {
+      const re = new RegExp(`\\b${t}\\b`, "i");
+      if (re.test(text)) score += 1;
+    }
+
+    // The bare token "ai" is weak. Count it only if we already have other context.
+    if (score > 0 && /\bai\b/i.test(text)) score += 1;
+
+    return score;
+  }
+
+  let filtered = domainFiltered;
+
+  if (theme === "ai") {
+    const scored = domainFiltered
+      .map((a) => ({
+        a,
+        score: aiRelevanceScore(a?.title ?? "", a?.description ?? "")
+      }))
+      .filter((x) => x.score > 0)
+      .sort((x, y) => y.score - x.score);
+
+    // Primary rule: keep only articles with at least 2 AI signals.
+    const strong = scored.filter((x) => x.score >= 2).map((x) => x.a);
+
+    // Fallback rule: if the day is quiet, allow score >= 1 but keep it small.
+    const weak = scored.filter((x) => x.score >= 1).map((x) => x.a).slice(0, 15);
+
+    filtered = strong.length >= 6 ? strong : weak;
+  }
+
+  filtered = dedupeArticles(filtered);
+
+  // Map into our stable shape after filtering
+  const articles = filtered.map((a) => ({
     title: a.title ?? "",
-    url: a.url ?? "",
-    source: a.source?.name ?? "",
-    publishedAt: a.publishedAt ?? "",
-    description: a.description ?? ""
+    description: a.description ?? "",
+    url: canonicalizeUrl(a.url ?? ""),
+    source: a.source?.name ?? "Unknown"
   }));
 
-  return articles.filter((a) => a.title && a.url);
+  return articles;
 }
 
 function buildDigest(articles) {
-  // MVP: use top 5 titles as bullets
-  const bullets = articles.slice(0, 5).map((a) => a.title);
+  // MVP: use top 5 unique titles as bullets
+  const bullets = uniqueStrings(
+    articles
+      .map((a) => a.title)
+      .filter(Boolean)
+  ).slice(0, 5);
 
   // MVP: a couple simple “insights”
   const insights = [];
-  if (articles.length >= 8) insights.push("Coverage volume is elevated, suggesting an active news cycle.");
+  if (articles.length >= 8) {
+    insights.push("Coverage volume is elevated, suggesting an active news cycle.");
+  }
   insights.push("Digest is rule-based for MVP; AI summarisation can be added later.");
 
   return { bullets, insights: insights.slice(0, 3) };
@@ -197,9 +489,7 @@ function buildDigest(articles) {
 
 function tokenize(text) {
   // Lowercase and replace punctuation with spaces
-  const cleaned = text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, " ");
+  const cleaned = text.toLowerCase().replace(/[^a-z0-9\s]/g, " ");
 
   // Split on whitespace and filter out junk
   return cleaned
@@ -232,19 +522,15 @@ function buildClusters(articles) {
     // Count keyword frequency (unique per article helps reduce spammy repetition)
     const unique = new Set(tokens); // only count each keyword once per article to avoid over-weighting articles with repeated words
     for (const word of unique) {
-      freq.set(word, (freq.get(word) ?? 0) + 1); 
+      freq.set(word, (freq.get(word) ?? 0) + 1);
     }
   }
 
-  // If not enough data, return a single fallback cluster
   if (articles.length === 0) {
     return [];
   }
 
   // 2) Choose top keywords as cluster labels
-  // Rules:
-  // - keyword must appear in at least 2 articles (filters noise)
-  // - take top N
   const MIN_ARTICLE_COUNT = 2;
   const MAX_LABELS = 4;
 
@@ -258,7 +544,7 @@ function buildClusters(articles) {
   // If nothing qualifies, fall back to 1 label to avoid empty UI
   const finalLabels = labels.length > 0 ? labels : ["updates"];
 
-  // 3) Create buckets: label -> articles (create an empty array for each cluster label)
+  // 3) Create buckets: label -> articles
   const buckets = new Map();
   for (const label of finalLabels) {
     buckets.set(label, []);
@@ -270,11 +556,11 @@ function buildClusters(articles) {
     const { article, tokens } = item;
 
     let assigned = false;
-    for (const label of finalLabels) { // loop through cluster labels in priority order
+    for (const label of finalLabels) {
       if (tokens.includes(label)) {
         buckets.get(label).push(article);
         assigned = true;
-        break; // assign to first matching label only to create more distinct clusters; if an article matches multiple labels, it will go into the first one in the list
+        break;
       }
     }
 
@@ -288,19 +574,18 @@ function buildClusters(articles) {
 
   for (const label of finalLabels) {
     const list = buckets.get(label);
-
-    // Skip empty clusters
     if (!list || list.length === 0) continue;
 
-    const urls = list
-      .slice(0, 3)
-      .map((x) => x.url)
-      .filter(Boolean);
+    const urls = uniqueStrings(
+      list
+        .map((x) => canonicalizeUrl(x.url))
+        .filter(Boolean)
+    ).slice(0, 3);
 
     clusters.push({
       title: `${label.charAt(0).toUpperCase()}${label.slice(1)}`,
       summary: `Grouped stories where "${label}" appears frequently in titles/descriptions. (Keyword-based MVP)`,
-      article_urls: urls,
+      article_urls: urls
     });
   }
 
@@ -310,7 +595,11 @@ function buildClusters(articles) {
     clusters.push({
       title: "Other",
       summary: "Stories that did not match the main keywords. (Keyword-based MVP)",
-      article_urls: otherList.slice(0, 3).map((x) => x.url).filter(Boolean),
+      article_urls: uniqueStrings(
+        otherList
+          .map((x) => canonicalizeUrl(x.url))
+          .filter(Boolean)
+      ).slice(0, 3)
     });
   }
 
@@ -318,9 +607,9 @@ function buildClusters(articles) {
 }
 
 async function main() {
-  // Load env (simple, no dependency)
   // Take raw external data (NewsAPI + Stooq) → transform it → output structured JSON files → update manifest → frontend reads them.
   console.log(`[generate-data] START ${new Date().toISOString()}`);
+
   const newsApiKey = requireEnv("NEWSAPI_KEY");
 
   const repoRoot = process.cwd();
@@ -375,6 +664,7 @@ async function main() {
 
   writeJson(manifestPath, manifest);
   console.log("Updated data/manifest.json");
+
   console.log(`[generate-data] DONE ${new Date().toISOString()}`);
 }
 

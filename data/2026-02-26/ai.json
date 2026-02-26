@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "Highly condemnable, shameful: Priyanka slams arrest of IYC leaders",
-      "Samsung Receives 77 Accolades at iF Design Awards 2026",
-      "salmalm 0.24.0",
+      "Commentary: How China's AI firms are mining Claude—and why it matters to supply chains and export controls",
+      "Here’s what Anthropic’s Dario Amodei says startups should not be doing with Claude",
       "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry",
-      "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry"
+      "Anthropic partners’ shares up as AI tools target banking and HR",
+      "Nvidia deploys AI-driven cybersecurity to protect critical infrastructure"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -16,45 +16,28 @@
   },
   "clusters": [
     {
-      "title": "Claude",
-      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://economictimes.indiatimes.com/markets/stocks/news/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128773004.cms",
-        "https://economictimes.indiatimes.com/tech/information-tech/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128774419.cms",
-        "https://pypi.org/project/claude-self-improve/0.1.0/"
+        "https://www.digitimes.com/news/a20260225PD217/anthropic-claude-deepseek-data-training.html",
+        "https://economictimes.indiatimes.com/tech/technology/heres-what-anthropics-dario-amodei-says-startups-should-not-be-doing-with-claude/articleshow/128772220.cms",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/heres-what-anthropics-dario-amodei-says-startups-should-not-be-doing-with-claude/articleshow/128772121.cms"
       ]
     },
     {
-      "title": "Intelligence",
-      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://github.com/sopho-tech/sopho",
-        "https://economictimes.indiatimes.com/tech/funding/wyser-logs-first-close-of-rs-200-crore-fund/articleshow/128772828.cms"
-      ]
-    },
-    {
-      "title": "Powered",
-      "summary": "Grouped stories where \"powered\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://pypi.org/project/lecture-forge/0.4.3/",
-        "https://pypi.org/project/doit-fm/2.1.1/",
-        "https://pypi.org/project/doit-fm/2.1.0/"
-      ]
-    },
-    {
-      "title": "India",
-      "summary": "Grouped stories where \"india\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://economictimes.indiatimes.com/news/politics-and-nation/highly-condemnable-shameful-priyanka-slams-arrest-of-iyc-leaders/articleshow/128773044.cms"
+        "https://www.cnet.com/tech/services-and-software/top-ways-to-customize-your-chatgpt-settings-according-to-an-openai-expert",
+        "https://economictimes.indiatimes.com/tech/technology/openai-names-indian-origin-executive-arvind-kc-as-chief-people-officer/articleshow/128771719.cms"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://news.samsung.com/in/samsung-receives-77-accolades-at-if-design-awards-2026",
-        "https://pypi.org/project/salmalm/0.24.0/",
-        "https://pypi.org/project/watchclaw/0.1.1/"
+        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html",
+        "https://www.nextgov.com/artificial-intelligence/2026/02/trump-unveils-big-tech-pledge-offset-rising-data-center-energy-costs/411668"
       ]
     }
   ],

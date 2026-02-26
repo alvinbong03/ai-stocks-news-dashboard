@@ -3,11 +3,11 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "Sarah Palin Feeds Boyfriend Ron Duguay in Hospital Amid His Cancer Battle",
-      "Donald Trump hails US economy, rounds on Democrats in longest State of the Union address",
-      "5 takeaways from Trump's State of Union address",
-      "Venezuela reports over 3,200 people fully released under new amnesty law",
-      "Recapping Trump's State of the Union address: From the Politics Desk"
+      "Jimmy Kimmel Gives 'Nutjob' Trump A Sharp Reality Check After SOTU",
+      "'Trump desperate for a foreign policy success,' expert says on US President's claim of ending India-Pak conflict",
+      "House Speaker Mike Johnson: 'Shameful display'",
+      "\"You should be ashamed\" | Ilhan Omar, Trump clash during State of the Union",
+      "Gerry Hutch launches byelection campaign by calling on supporters to register to vote"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -19,18 +19,18 @@
       "title": "Trump",
       "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.irishtimes.com/world/us/2026/02/25/donald-trump-hails-us-economy-rounds-on-democrats-in-longest-state-of-the-union-address/",
-        "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
-        "https://www.nbcnews.com/politics/politics-news/recapping-trumps-state-union-address-politics-desk-rcna260549"
+        "https://www.huffpost.com/entry/jimmy-kimmel-trump-state-of-the-union_n_699e8ac3e4b0c4f808271e17",
+        "https://economictimes.indiatimes.com/news/international/world-news/trump-desperate-for-a-foreign-policy-success-expert-says-on-us-presidents-claim-of-ending-india-pak-conflict/articleshow/128773220.cms",
+        "https://www.israelnationalnews.com/news/422951"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.usmagazine.com/celebrity-news/news/sarah-palin-feeds-boyfriend-ron-duguay-in-hospital-amid-his-cancer-battle/",
-        "https://www.aljazeera.com/news/2026/2/25/venezuela-reports-over-3200-people-fully-released-under-new-amnesty-law",
-        "https://www.irishtimes.com/opinion/2026/02/25/parents-of-children-with-special-needs-should-not-have-to-fight-for-everything/"
+        "https://www.irishtimes.com/politics/2026/02/25/gerry-hutch-launches-byelection-campaign-by-calling-on-supporters-to-register-to-vote",
+        "https://economictimes.indiatimes.com/news/politics-and-nation/highly-condemnable-shameful-priyanka-slams-arrest-of-iyc-leaders/articleshow/128773044.cms",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180857682"
       ]
     }
   ],
