@@ -125,26 +125,23 @@ async function fetchJson(url, options = {}) {
 }
 
 async function fetchStooqDailyCloses(ticker) {
-  // Stooq uses lowercase tickers. US symbols often use ".us"
-  // Examples: nvda.us, msft.us, spy.us
   const symbol = `${ticker.toLowerCase()}.us`;
   const url = `https://stooq.com/q/d/l/?s=${encodeURIComponent(symbol)}&i=d`;
 
   const res = await fetch(url);
 
   if (!res.ok) {
-    console.warn(`[stooq:${ticker}] HTTP ${res.status}. Continuing without price history.`);
+    console.warn(`[stooq:${ticker}] HTTP ${res.status}.`);
     return [];
   }
 
   const csv = await res.text();
 
-  // CSV format:
-  // Date,Open,High,Low,Close,Volume
-  const lines = csv.trim().split("\n");
+  // Split safely on both \r\n and \n
+  const lines = csv.trim().split(/\r?\n/);
 
   if (lines.length < 2) {
-    console.warn(`[stooq:${ticker}] No CSV rows. Continuing without price history.`);
+    console.warn(`[stooq:${ticker}] No CSV data.`);
     return [];
   }
 
@@ -152,8 +149,11 @@ async function fetchStooqDailyCloses(ticker) {
 
   for (let i = 1; i < lines.length; i++) {
     const cols = lines[i].split(",");
-    const date = cols[0];
-    const closeStr = cols[4];
+
+    if (cols.length < 5) continue;
+
+    const date = cols[0].trim();
+    const closeStr = cols[4].trim();
     const close = Number(closeStr);
 
     if (!date || Number.isNaN(close)) continue;
@@ -161,7 +161,7 @@ async function fetchStooqDailyCloses(ticker) {
     out.push({ date, close });
   }
 
-  // Keep last ~35 points to keep JSON small
+  // Keep last 35 points
   return out.slice(-35);
 }
 
