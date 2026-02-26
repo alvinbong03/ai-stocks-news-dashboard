@@ -677,6 +677,22 @@ function validateHfPayload(payload, allowedTickers) {
     }
   }
 
+  // --- New: Validate ticker_sentiment ---
+  let tickerSentiment = {};
+  if (payload.ticker_sentiment !== undefined) {
+    if (!isPlainObject(payload.ticker_sentiment)) {
+      return { ok: false, reason: "ticker_sentiment must be an object if present" };
+    }
+    tickerSentiment = payload.ticker_sentiment;
+    for (const [k, v] of Object.entries(tickerSentiment)) {
+      if (!allowedTickers.includes(k)) return { ok: false, reason: `ticker_sentiment contains unknown ticker: ${k}` };
+      if (typeof v !== "string") return { ok: false, reason: `ticker_sentiment[${k}] must be a string` };
+      if (v !== "Positive" && v !== "Neutral" && v !== "Negative") {
+        return { ok: false, reason: `ticker_sentiment[${k}] must be Positive/Neutral/Negative` };
+      }
+    }
+  }
+
   return {
     ok: true,
     value: {
@@ -686,7 +702,8 @@ function validateHfPayload(payload, allowedTickers) {
         summary: c.summary,
         article_urls: c.article_urls.slice(0, 3)
       })),
-      ticker_explanations: tickerExplanations
+      ticker_explanations: tickerExplanations,
+      ticker_sentiment: tickerSentiment
     }
   };
 }
@@ -704,7 +721,41 @@ function buildHfPrompt(theme, articles, tickers) {
     })
     .join("\n\n");
 
-  return `You are generating content for an educational dashboard. Not financial advice.\n\nTheme: ${theme}\nTickers: ${tickers.join(", ")}\n\nArticles:\n${top}\n\nReturn STRICT JSON ONLY with this schema (no markdown, no extra text):\n\n{\n  "digest_bullets": ["... up to 5 strings ..."],\n  "insights": ["... up to 3 strings ..."],\n  "clusters": [\n    {\n      "title": "short title",\n      "summary": "1 short paragraph",\n      "article_urls": ["... up to 5 urls from the list above ..."]\n    }\n  ],\n  "ticker_explanations": {\n    ${tickers.map((t) => `"${t}": "1–2 educational sentences linking the theme to this ticker"`).join(",\n    ")}\n  }\n}\n\nRules:\n- digest_bullets max 5\n- insights max 3\n- clusters between 3 and 5 if possible, otherwise fewer\n- Use only URLs from the Articles list\n- Keep ticker_explanations to only the given tickers`;
+  return `You are generating content for an educational dashboard. Not financial advice.
+
+Theme: ${theme}
+Tickers: ${tickers.join(", ")}
+
+Articles:
+${top}
+
+Return STRICT JSON ONLY with this schema (no markdown, no extra text):
+
+{
+  "digest_bullets": ["... up to 5 strings ..."],
+  "insights": ["... up to 3 strings ..."],
+  "clusters": [
+    {
+      "title": "short title",
+      "summary": "1 short paragraph",
+      "article_urls": ["... up to 5 urls from the list above ..."]
+    }
+  ],
+  "ticker_explanations": {
+    ${tickers.map((t) => `"${t}": "1–2 educational sentences linking the theme to this ticker"`).join(",\n    ")}
+  },
+  "ticker_sentiment": {
+    ${tickers.map((t) => `"${t}": "Neutral"`).join(",\n    ")}
+  }
+}
+
+Rules:
+- digest_bullets max 5
+- insights max 3
+- clusters between 3 and 5 if possible, otherwise fewer
+- Use only URLs from the Articles list
+- Keep ticker_explanations to only the given tickers
+- ticker_sentiment values must be exactly one of: Positive, Neutral, Negative`;
 }
 
 async function callHuggingFaceStructured(theme, articles, tickers, hfApiKey, hfModel) {
@@ -751,6 +802,10 @@ async function callHuggingFaceStructured(theme, articles, tickers, hfApiKey, hfM
         ticker_explanations: {
           type: "object",
           additionalProperties: { type: "string" }
+        },
+        ticker_sentiment: {
+          type: "object",
+          additionalProperties: { type: "string", enum: ["Positive", "Neutral", "Negative"] }
         }
       },
       required: ["digest_bullets", "insights", "clusters"]
@@ -851,6 +906,7 @@ async function main() {
       let digest = buildDigest(articles);
       let clusters = buildClusters(articles);
       let ticker_explanations = {};
+      let ticker_sentiment = {};
 
       const hfApiKey = process.env.HUGGINGFACE_API_KEY;
       const hfModel = process.env.HUGGINGFACE_MODEL || "mistralai/Mistral-7B-Instruct-v0.2";
@@ -869,6 +925,7 @@ async function main() {
           digest = hf.digest;
           clusters = hf.clusters;
           ticker_explanations = hf.ticker_explanations ?? {};
+          ticker_sentiment = hf.ticker_sentiment ?? {};
 
           console.log(`[hf:${theme}] OK (validated JSON)`);
         } catch (e) {
@@ -887,6 +944,7 @@ async function main() {
       for (const ticker of tickers.slice(0, 5)) {
         const price_history = await fetchStooqDailyCloses(ticker);
         const hfExplain = ticker_explanations?.[ticker];
+        const hfSentiment = ticker_sentiment?.[ticker];
 
         const ai_explanationParts = [];
         if (topBullet) ai_explanationParts.push(`Top headline signal: ${topBullet}`);
@@ -899,10 +957,16 @@ async function main() {
               ? `${ai_explanationParts.join(". ")}. This is an educational summary, not financial advice.`
               : "Educational summary unavailable for this theme today. Not financial advice.";
 
+        const sentiment_direction =
+          hfSentiment === "Positive" || hfSentiment === "Neutral" || hfSentiment === "Negative"
+            ? hfSentiment
+            : "Neutral";
+
         stocks.push({
           ticker,
           price_history,
-          sentiment: { category: "Neutral", score: 0, magnitude: 0 },
+          sentiment_direction,
+          sentiment: { category: sentiment_direction, score: 0, magnitude: 0 },
           ai_explanation
         });
       }

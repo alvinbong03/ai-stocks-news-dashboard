@@ -1,8 +1,267 @@
 {
   "theme": "semiconductors",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:11:58.797Z",
+  "last_updated_utc": "2026-02-26T19:54:49.536Z",
   "news": [
+    {
+      "title": "Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock Market - Bloomberg.com",
+      "description": "Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock MarketBloomberg.com Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updatesCNBC Stocks gain, supported by tech rally as markets await NvidiaMSN Nvidia Earnings Slam Int…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180860076",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T19:53:20Z"
+    },
+    {
+      "title": "Report claims low-cost 12.9 inch Apple MacBook might not be as cheap as once predicted",
+      "description": "Apple is reportedly having a difficult time pricing the upcoming budget MacBook as low as it would have liked. With mounting supply chain pressures owing to ever-increasing component prices, the affordable MacBook might not be as affordable as once thought.",
+      "url": "https://www.notebookcheck.net/Report-claims-low-cost-12-9-inch-Apple-MacBook-might-not-be-as-cheap-as-once-predicted.1234742.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-25T19:51:00Z"
+    },
+    {
+      "title": "AMD challenges Intel with an 84-core Epyc processor aimed at telcos, edge",
+      "description": "Chips are likely Zen 5's last hurrah before Venice makes its debut later this year AMD's edgiest Epyc chips are officially getting a Zen 5 refresh with the introduction of its 8005-series processors codenamed Sorano.…",
+      "url": "https://www.theregister.com/2026/02/25/amd_edge_sorano",
+      "source": "Theregister.com",
+      "publishedAt": "2026-02-25T19:50:09Z"
+    },
+    {
+      "title": "Intel ditches human customer support for 'one of the first of its kind in the semiconductor industry' system made up of Copilot-powered AI agents",
+      "description": "Ask Intel is an AI-powered assistant replacing phone-based support and centralizing warranty, troubleshooting, and case management online.",
+      "url": "https://www.techradar.com/pro/intel-ditches-human-customer-support-for-one-of-the-first-of-its-kind-in-the-semiconductor-industry-system-made-of-copilot-powered-ai-agents",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T19:45:00Z"
+    },
+    {
+      "title": "Ryzen Z1 Extreme-powered ROG Ally handheld finally gets graphics driver update after six months of silence",
+      "description": "Just a few days following reports of AMD abandoning the Ryzen Z1 Extreme platform, Asus has released new driver updates for the popular ROG Ally gaming handheld. Interestingly, there's more to the story.",
+      "url": "https://www.notebookcheck.net/Ryzen-Z1-Extreme-powered-ROG-Ally-handheld-finally-gets-graphics-driver-update-after-six-months-of-silence.1234748.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-25T19:38:00Z"
+    },
+    {
+      "title": "Apple expands in Mumbai with new Borivali store",
+      "description": "Apple is set to open its sixth retail store in India at Sky City Mall in Borivali, marking its second location in Mumbai and signalling a deeper push into city-level markets. The new outlet will stock the latest Apple products, including the iPhone 17 series,…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/apple-expands-in-mumbai-with-new-borivali-store/articleshow/128793862.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T19:37:41Z"
+    },
+    {
+      "title": "Beefy Nacho Soup Recipe - cheesy, hearty, and packed with bold Tex-Mex flavor. Made with seasoned ground beef, nacho cheese soup, black beans, corn, and Rotel tomatoes, it’s quick, comforting, and perfect for busy weeknights, game day, or chilly weather. Serve with tortilla chips for dipping and watch it disappear fast.",
+      "description": "Beefy Nacho Soup Recipe - cheesy, hearty, and packed with bold Tex-Mex flavor. Made with seasoned ground beef, nacho cheese soup, black beans, corn, and Rotel tomatoes, it’s quick, comforting, and perfect for busy weeknights, game day, or chilly weather. Serv…",
+      "url": "https://www.pinterest.com/pin/273171533645055239",
+      "source": "Pinterest.com",
+      "publishedAt": "2026-02-25T19:31:55Z"
+    },
+    {
+      "title": "Circus Ace by Pandeka Foundry",
+      "description": "Free download of Circus Ace Font. Released in 2023 by Pandeka Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/circus-ace-font-f119914",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-02-25T19:28:42Z"
+    },
+    {
+      "title": "Galdern by Pandeka Foundry",
+      "description": "Free download of Galdern Font. Released in 2024 by Pandeka Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/galdern-font-f119923",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-02-25T19:28:23Z"
+    },
+    {
+      "title": "Fasrie by Pandeka Foundry",
+      "description": "Free download of Fasrie Font. Released in 2024 by Pandeka Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/fasrie-font-f119925",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-02-25T19:28:01Z"
+    },
+    {
+      "title": "Show HN: Penclaw.ai hire OpenClaw tenant for pentesting",
+      "description": "This idea flashed to me when someone wanted to hire me as a pentester by falsely thinking that I was an expert at pentesting on Reddit. Then I revealed to him that I am not a pentester, my AI is.Previously, I shared an ablated closed-source LLM on Show HN. \nh…",
+      "url": "https://penclaw.ai/",
+      "source": "Penclaw.ai",
+      "publishedAt": "2026-02-25T19:25:55Z"
+    },
+    {
+      "title": "Samsung Galaxy S26, S26+ and S26 Ultra launched in India with custom Snapdragon 8 Elite Gen 5 and deeper AI integration",
+      "description": "Samsung has unveiled the Galaxy S26 series, including the S26, S26+ and S26 Ultra, with a strong focus on making AI feel seamless rather than feature-driven. The company says this generation embeds AI into everyday tasks like searching, editing, planning and …",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/samsung-galaxy-s26-s26-and-s26-ultra-launched-in-india-with-custom-snapdragon-8-elite-gen-5-and-deeper-ai-integration/articleshow/128792774.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T19:25:37Z"
+    },
+    {
+      "title": "Stocks Climb as Traders Look to Nvidia for AI News: Markets Wrap",
+      "description": "Wall Street traders bracing for Nvidia Corp.’s results drove stocks higher, hoping for evidence that the outlook for artificial intelligence remains intact. Bitcoin topped $69,000. A rally in bonds stalled.",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-climb-as-traders-look-to-nvidia-for-ai-news-markets-wrap",
+      "source": "Financial Post",
+      "publishedAt": "2026-02-25T19:25:06Z"
+    },
+    {
+      "title": "NVIDIA (NVDA) Set to Report Q4 FY2026 Earnings After Bell on February 25, 2026: Wall Street Eyes AI Demand",
+      "description": "NVIDIA Corp. faces one of its most anticipated quarterly reports on February 25, 2026, after market close, as investors scrutinize whether the AI chip leader can sustain explosive growth amid soaring expectations and a stock trading near $197 ahead of the rel…",
+      "url": "https://www.ibtimes.com.au/nvidia-nvda-set-report-q4-fy2026-earnings-after-bell-february-25-2026-wall-street-eyes-ai-1862109",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-02-25T19:24:58Z"
+    },
+    {
+      "title": "New AMD Radeon 9070 XT Graphics Cards Come With a Free Code for Crimson Desert",
+      "description": "The most affordable GPU that will run any game at 4K and 60fps now includes a $70 game.",
+      "url": "https://www.ign.com/articles/amd-radeon-9070-xt-graphics-cards-crimson-desert-deals",
+      "source": "IGN",
+      "publishedAt": "2026-02-25T19:20:00Z"
+    },
+    {
+      "title": "New Intel Reveals Anfernee Simons Played With Wrist Fracture While With Celtics",
+      "description": "Simons's Celtics stint looks even more impressive now.",
+      "url": "https://nesn.com/boston-celtics/news/new-intel-reveals-anfernee-simons-played-wrist-fracture-while-celtics/c3b63cdf28f35be75df7be33",
+      "source": "NESN",
+      "publishedAt": "2026-02-25T19:17:29Z"
+    },
+    {
+      "title": "Roy Pushes Terrorist Designation for Mexican Drug Cartels",
+      "description": "In the wake of Mexico’s recent explosion of gang violence, Rep. Chip Roy, R-Texas, is pushing his Republican colleagues in the House to codify an... Read More\nThe post Roy Pushes Terrorist Designation for Mexican Drug Cartels appeared first on The Daily Signa…",
+      "url": "https://www.dailysignal.com/2026/02/25/roy-pushes-terrorist-designation-for-mexican-drug-cartels",
+      "source": "Daily Signal",
+      "publishedAt": "2026-02-25T19:14:50Z"
+    },
+    {
+      "title": "Accurate forecasting tough as currency shocks, FTA uncertainty, supply disruptions weigh: Consumer chiefs",
+      "description": "Amid currency swings, volatile commodity prices and global trade uncertainty, leaders at Voltas, Tata Consumer Products and Bisleri International say long-term forecasting is losing relevance, as supply chain disruptions, tariffs and inflation push companies …",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/tata-consumer-products-voltas-bisleri-accurate-forecasting-tough-as-currency-shocks-fta-uncertainty-supply-disruptions-weigh-consumer-chiefs/articleshow/128792794.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T19:09:32Z"
+    },
+    {
+      "title": "AIDA64 8.25.8200",
+      "description": "Description: AIDA64 has a hardware detection engine unrivaled in its class. It provides detailed information about installed software and offers diagnostic functions and support for overclocking. As it is monitoring sensors in real time, it can gather accurat…",
+      "url": "https://post.rlsbb.to/aida64-8-25-8200",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-25T19:04:16Z"
+    },
+    {
+      "title": "Galaxy S26 chip split explained: Snapdragon vs Exynos by region",
+      "description": "Samsung has officially confirmed how it is splitting chipsets for the Galaxy S26 series. As expected, the lineup once again uses both Exynos and Snapdragon processors, depending on the model and region. Here’s how it breaks down. Galaxy S26 and Galaxy S26+: E…",
+      "url": "https://www.sammobile.com/news/galaxy-s26-plus-ultra-snapdragon-exynos-region-split-explained",
+      "source": "SamMobile",
+      "publishedAt": "2026-02-25T19:03:25Z"
+    },
+    {
+      "title": "Big Tech Now Sees Relying Solely on Taiwan For Their Chip Needs as a ‘Death Trap’, With Hidden Economic Time Bombs",
+      "description": "The debate over the future of Taiwan's chip industry has resurfaced, but for those who haven't noticed, fabless manufacturers have already begun preparing for the worst. Taiwan's Chip Production Shift Is Driven By the Worries of Big Tech CEOs Amid Their Depen…",
+      "url": "https://wccftech.com/big-tech-now-sees-relying-solely-on-taiwan-for-their-chip-needs-as-a-death-trap",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T18:51:35Z"
+    },
+    {
+      "title": "Apple’s first foldable iPhone might set a new standard for display creases",
+      "description": "A rumor stemming from supply chain info says Apple's first foldable phone will appear almost perfectly flat when opened.",
+      "url": "https://www.androidauthority.com/iphone-fold-flat-inner-display-3644284",
+      "source": "Android Authority",
+      "publishedAt": "2026-02-25T18:46:49Z"
+    },
+    {
+      "title": "NVIDIA's New Job Postings Reveal A Big Push To Boost Gaming Performance On Linux",
+      "description": "New NVIDIA job postings that explicitly reference Vulkan performance and compatibility layer work on Linux might be a sign of a stronger push into the Linux gaming ecosystem, catching the eye of developers and Linux gaming communities alike. A Senior System S…",
+      "url": "https://hothardware.com/news/nvidia-job-postings-linux-gaming",
+      "source": "Hot Hardware",
+      "publishedAt": "2026-02-25T18:45:00Z"
+    },
+    {
+      "title": "New Budget MacBook: Here Are the Rumoured Compromises",
+      "description": "New leaks reveal 8 limitations for Apple’s rumored budget MacBook, including an iPhone chip and no True Tone. Here is what to expect before the March launch.\nThe post New Budget MacBook: Here Are the Rumoured Compromises first appeared on iPhone in Canada.",
+      "url": "https://www.iphoneincanada.ca/2026/02/25/new-budget-macbook-here-are-the-rumoured-compromises",
+      "source": "iPhone in Canada",
+      "publishedAt": "2026-02-25T18:44:19Z"
+    },
+    {
+      "title": "Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig",
+      "description": "Article URL: https://github.com/semos-labs/attyx\nComments URL: https://news.ycombinator.com/item?id=47155772\nPoints: 4\n# Comments: 0",
+      "url": "https://github.com/semos-labs/attyx",
+      "source": "Github.com",
+      "publishedAt": "2026-02-25T18:38:33Z"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq, Dow Hold Gains Before Nvidia Earnings; Vertiv, Keysight Advance (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: Nasdaq, Dow Hold Gains Before Nvidia Earnings; Vertiv, Keysight Advance (Live Coverage)Investor's Business Daily Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updatesCNBC Nasdaq up 1% as tech extends rebo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859810",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:33:34Z"
+    },
+    {
+      "title": "Vast Data expands AI Operating System with global control plane, zero-trust agent framework and deeper Nvidia integration",
+      "description": "Vast Data Inc. continues its evolution from a storage provider to an artificial intelligence infrastructure platform today with a series of announcements at its Forward 2026 conference, highlighted by the broadest expansion yet of what it calls its AI Operati…",
+      "url": "https://siliconangle.com/2026/02/25/vast-data-expands-ai-operating-system-global-control-plane-zero-trust-agent-framework-deeper-nvidia-integration",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-02-25T18:30:02Z"
+    },
+    {
+      "title": "VAST Data Introduces End-to-End Fully Accelerated AI Data Stack with NVIDIA",
+      "description": "VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector search, real-time SQL, and agentic applications VAST AI OS will leverage NVIDIA libraries to accelerate both compute and data services for RAG, vector searc…",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244905/0/en/VAST-Data-Introduces-End-to-End-Fully-Accelerated-AI-Data-Stack-with-NVIDIA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-25T18:30:00Z"
+    },
+    {
+      "title": "HP says the memory chip crunch isn't going anywhere soon - and also warns of PC sales slump",
+      "description": "AI-induced memory shortages and increasing costs won't make PCs cheaper any time soon, HP warns.",
+      "url": "https://www.techradar.com/pro/hp-says-the-memory-chip-crunch-will-be-around-for-some-time-also-warns-of-pc-sales-slump",
+      "source": "TechRadar",
+      "publishedAt": "2026-02-25T18:25:00Z"
+    },
+    {
+      "title": "US stocks rise as tech shares continue rebound",
+      "description": "<![CDATA[ Wall Street stocks rose as investors awaited earnings from Nvidia and brushed aside comments from US President Donald Trump. ]]>",
+      "url": "https://www.channelnewsasia.com/world/us-stocks-new-york-tech-shares-trump-5953171",
+      "source": "CNA",
+      "publishedAt": "2026-02-25T18:21:04Z"
+    },
+    {
+      "title": "Tech Yes City Witnesses Back-to-Back AMD Ryzen 9950X Deaths On ASRock X870 Motherboard",
+      "description": "There is something wrong with ASRock motherboards, as this isn't the first time we are seeing two dead CPUs back to back. Two Ryzen 9 9950X Killed on ASRock X870 Steel Legend WiFi; Each Lived for Only 3-4 Months, and Latest BIOS Couldn't Revive Them Popular T…",
+      "url": "https://wccftech.com/tech-yes-city-witnesses-back-to-back-amd-ryzen-9950x-deaths-on-asrock-x870-motherboard",
+      "source": "Wccftech",
+      "publishedAt": "2026-02-25T18:20:14Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 hands-on: A lot more of the same for a little more money",
+      "description": "As we prepare to leave the winter months, Samsung announced another family of Galaxy S flagships for those looking to upgrade. As usual, the company put its best components and features into the Galaxy S26 Ultra, but it also added more to the base S26 and S26…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859716",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:13:08Z"
+    },
+    {
+      "title": "Samsung's Galaxy S26 Ultra offers a subtle set of hardware improvements",
+      "description": "Samsung has announced the latest version of its flagship smartphone, the Samsung Galaxy S26 Ultra, and just like last year, the high-end phone is where the company is making some of its biggest changes. The S26 Ultra includes a new processor, a new privacy-fo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859714",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:12:58Z"
+    },
+    {
+      "title": "Samsung's S26 and S26+ offer familiar designs, Snapdragon 8 Gen 5 chips and new software features",
+      "description": "The wait is over. At its Unpacked event today, Samsung took the wraps off its new S26 family of phones. Unlike the S26 Ultra, the S26 and S26+ represent mostly iterative updates. Samsung has tweaked the design of the two devices, making it so they share the s…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859710",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:12:37Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra launched: Price, specifications, features and all you need to know about latest flagship ‘Agentic AI phone’",
+      "description": "Samsung has unveiled its latest flagship, the Galaxy S26 Ultra, featuring a groundbreaking Privacy Display for enhanced data protection. This new device boasts a powerful Snapdragon 8 Elite Gen 5 chip, an impressive 200MP camera system, and a 5,000mAh battery…",
+      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-s26-ultra-launched-price-specifications-features-and-all-you-need-to-know-about-latest-flagship-agentic-ai-phone/articleshow/128791401.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-25T18:12:31Z"
+    },
+    {
+      "title": "Everything announced at Samsung Unpacked: Galaxy S26 lineup and more",
+      "description": "Mobile World Congress is right around the corner, but Samsung got out ahead of many rivals that will be showing off new handsets at that event by running the latest edition of Unpacked on Wednesday. The company took the opportunity to reveal the Galaxy S26 li…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859708",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:12:26Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra hands-on: Meaningful tweaks plus a slick new Privacy Display",
+      "description": "Last year, it felt like Samsung relied a bit too much on AI when trying to convince people to upgrade to itsflagship phone. And while there’s no shortage of features that utilize machine learning on the new Galaxy S26 Ultra, it feels like Samsung has done a m…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859702",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-25T18:12:05Z"
+    },
     {
       "title": "Dickens Font Family by Fenotype",
       "description": "The Dickens typeface family arrives with unusual timing and relevance. Released by the Finnish foundry Fenotype, it feels authentic and authoritative rather than artificially vintage. Designed by Emil...",
@@ -30,266 +289,29 @@
       "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_arrives_with_privacy_display_sd_8_elite_gen_5_for_galaxy_and_60w_charging_-news-71717.php",
       "source": "GSMArena.com",
       "publishedAt": "2026-02-25T18:00:02Z"
-    },
-    {
-      "title": "Samsung launches S26 smartphone as sector braces for memory chip crunch",
-      "description": "The latest generation of Galaxy phones touts enhanced AI capabilities, but supply chain concerns hang over sector",
-      "url": "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html",
-      "source": "CNBC",
-      "publishedAt": "2026-02-25T18:00:01Z"
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 5 hands the Galaxy S26 the AI upgrade we've been waiting for",
-      "description": "The Galaxy S26 Ultra's custom Snapdragon chip delivers massive speed boosts and truly autonomous, on-device AI that thinks ahead while keeping your data locked down.",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for",
-      "source": "Android Central",
-      "publishedAt": "2026-02-25T18:00:00Z"
-    },
-    {
-      "title": "Fuel Supply Gap Could Hold Back U.S. Nuclear Energy Renaissance",
-      "description": "Soaring demand for power generation, the U.S. goal of quadrupling nuclear electricity generation by 2050, and a looming ban on Russian nuclear fuel imports could create a bottleneck in the nuclear fuel supply chain, according to U.S. enrichment company Centru…",
-      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-02-25T18:00:00Z"
-    },
-    {
-      "title": "Dickens Font Family by Fenotype",
-      "description": "Typography rarely arrives at exactly the right moment. The Dickens font family by Fenotype did. Released by Finnish type foundry Fenotype, Dickens carries the kind of earned authority that most typefaces spend decades trying to fake. Designed by Emil Karl Ber…",
-      "url": "https://weandthecolor.com/dickens-font-family-fenotype/208377",
-      "source": "Weandthecolor.com",
-      "publishedAt": "2026-02-25T17:51:17Z"
-    },
-    {
-      "title": "How the Pentagon picks what drones to buy in a Chinese-dominated market",
-      "description": "The Blue UAS List vets commercial drones for security and supply chain risks. The program is one part of DoD's bet on drone warfare.",
-      "url": "https://www.businessinsider.com/pentagon-drones-chinese-dominated-market-list-2026-2",
-      "source": "Business Insider",
-      "publishedAt": "2026-02-25T17:50:59Z"
-    },
-    {
-      "title": "2001 Ford Excursion Limited Power Stroke 4×4 at No Reserve",
-      "description": "This 2001 Ford Excursion Limited had a registration history in Oregon until 2017, and it was purchased by the seller in Iowa in August 2020. A Sam Wyse Stage 1 4R100 four-speed automatic transmission has since been installed, along with a Mishimoto transmissi…",
-      "url": "https://bringatrailer.com/listing/2001-ford-excursion-163",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-02-25T17:45:06Z"
-    },
-    {
-      "title": "Expat BBQ to close March 11 at City Foundry, reopen as sports bar Brickline",
-      "description": "Beast Craft BBQ Co. in Belleville will serve its barbecue at City Foundry out of the former Expat BBQ kitchen, while Brickline will feature seating for all Food Hall guests.",
-      "url": "https://www.stltoday.com/life-entertainment/local/food-drink/restaurants/article_48785d94-47db-4def-8cdc-a6a720b3c7a9.html",
-      "source": "STLtoday.com",
-      "publishedAt": "2026-02-25T17:45:00Z"
-    },
-    {
-      "title": "Der8auer Says He Loved The Effort Of User Who Got His Wireview Connector Melted And Is Sending Wireview Pro 2",
-      "description": "The user will now get a free Wireview Pro 2 for his ROG Astral RTX 5090, whose Wireview Pro connector was melted due to ignoring the temperature warning. Der8auer Appreciates The Effort and Dedication of the ROG Astral RTX 5090 User and is Sending Him The Lat…",
-      "url": "https://wccftech.com/der8auer-says-he-loved-the-effort-of-user-who-got-his-wireview-connector-melted-and-is-sending-wireview-pro-2",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-25T17:35:13Z"
-    },
-    {
-      "title": "Every attendee who was awarded by Trump during the State of the Union",
-      "description": "President Donald Trump awarded several honors and medals during his historic State of the Union Tuesday night. Here is every honor Trump awarded during the joint address. 'He was a legend long before this evening.'1. Connor Hellebuyck, Presidential Medal of F…",
-      "url": "https://www.theblaze.com/news/every-attendee-who-was-awarded-by-trump-during-the-state-of-the-union",
-      "source": "TheBlaze",
-      "publishedAt": "2026-02-25T17:35:00Z"
-    },
-    {
-      "title": "Why Taiwan Semiconductor Expects More Good Times in 2026",
-      "description": "",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_275e3716-f160-4a45-80ba-cbab430c1df5",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-02-25T17:29:00Z"
-    },
-    {
-      "title": "Show HN: GPU multi-agent war simulation",
-      "description": "Neural-Siege is a PyTorch GPU multi-agent arena sim (thousands of agents) with PPO training, checkpoint/resume, and detailed telemetry.\nI’m using it to probe emergent behavior and failure modes (camping/stalemates).\nWould appreciate critiques on the environme…",
-      "url": "https://github.com/ayushdnb/Neural-Siege/tree/combat_first_tick",
-      "source": "Github.com",
-      "publishedAt": "2026-02-25T17:25:07Z"
-    },
-    {
-      "title": "Leaker Says Apple's Lower-Cost MacBook Will Have These 8 Limitations",
-      "description": "Apple is expected to unveil its long-rumored lower-cost MacBook next week. Given it will be more affordable, this MacBook model will obviously have some reduced specs and compromises compared to the MacBook Air and MacBook Pro.\n\n\n\n\n\nWhile we are still waiting…",
-      "url": "https://www.macrumors.com/2026/02/25/lower-cost-macbook-alleged-limitations",
-      "source": "MacRumors",
-      "publishedAt": "2026-02-25T17:25:04Z"
-    },
-    {
-      "title": "BizClik Returns With CPD-Accredited Procurement & Supply Chain LIVE and Sustainability LIVE: The Net Zero Summit",
-      "description": "BizClik’s Net Zero Summit in London (4–5 March 2026) is now CPD-accredited, offering delegates 10–12 verified learning hours across panels and workshops....",
-      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244871/0/en/BizClik-Returns-With-CPD-Accredited-Procurement-Supply-Chain-LIVE-and-Sustainability-LIVE-The-Net-Zero-Summit.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-25T17:24:00Z"
-    },
-    {
-      "title": "Get an Acer laptop with 16GB of RAM for $500",
-      "description": "I’ve been hunting for laptops at or below the $500 range with at least 16GB of RAM — the least I’d recommend for Windows 11 — because they’re really frickin’ hard to find at the moment. I often have to go for a refurb to hit that target in 2026, but today you…",
-      "url": "https://www.pcworld.com/article/3071236/get-an-acer-laptop-with-16gb-of-ram-for-500.html",
-      "source": "PCWorld",
-      "publishedAt": "2026-02-25T17:23:38Z"
-    },
-    {
-      "title": "Hegseth gives Anthopic ultimatum on guardrails",
-      "description": "The defense secretary has threatened to cut business ties with AI company Anthropic and designate it a ‘supply chain risk’",
-      "url": "https://theweek.com/politics/anthropic-ai-defense-department-hegseth",
-      "source": "The Week Magazine",
-      "publishedAt": "2026-02-25T17:22:31Z"
-    },
-    {
-      "title": "Bitcoin snaps losing streak with five per cent jump before Nvidia results",
-      "description": "Bitcoin climbed back above US$67,000, snapping a losing streak as stocks posted modest gains and risk sentiment improved. Find out more here",
-      "url": "https://financialpost.com/fp-finance/cryptocurrency/bitcoin-snaps-losing-streak",
-      "source": "Financial Post",
-      "publishedAt": "2026-02-25T17:16:28Z"
-    },
-    {
-      "title": "ASUS ProArt GoPro Edition PX13 review: An incredible if pricy Windows creator laptop",
-      "description": "With its ProArt lineup, ASUS has commendably addressed a glaring hole in the PC market by targeting video editors and other creative pros. Its latest model even uses a popular camera marque in its name: the ProArt GoPro Edition PX13. It’s a true co-branding e…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180859484",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-02-25T17:12:07Z"
-    },
-    {
-      "title": "Gap in core chip manufacturing, equipment capabilities: Industry executives",
-      "description": "At the IESA Vision Summit, Radhika Viswanathan of Applied Materials said India has strong chip design skills but lacks core semiconductor manufacturing and equipment capabilities. Rangesh Raghavan of Lam Research highlighted a $50 billion supply chain opportu…",
-      "url": "https://economictimes.indiatimes.com/tech/technology/gap-in-core-chip-manufacturing-equipment-capabilities-industry-execs/articleshow/128789821.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T17:07:01Z"
-    },
-    {
-      "title": "Steam Quietly Addresses Incorrect Hardware Survey VRAM Readings and Multi-GPU Setup Quirks",
-      "description": "Valve has steadily been adding features to SteamOS and the Steam Client since the release of the Steam Deck and leading up to the Steam Machine, but the latest Steam Deck Beta client update aims to address two main issues that have apparently been prevalent i…",
-      "url": "https://www.techpowerup.com/346760/steam-quietly-addresses-incorrect-hardware-survey-vram-readings-and-multi-gpu-setup-quirks",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-02-25T17:04:24Z"
-    },
-    {
-      "title": "Nvidia to report earnings on Feb. 25. How to tune in to the call.",
-      "description": "The company is expected to report $65.9 billion in revenue, according to Bloomberg analysts.",
-      "url": "https://www.usatoday.com/story/money/2026/02/25/nvidia-earnings-call-february-25/88858633007",
-      "source": "USA Today",
-      "publishedAt": "2026-02-25T17:03:59Z"
-    },
-    {
-      "title": "AMD Strix Halo & 128 GB RAM in a 13-inch convertible - Asus ProArt PX13 GoPro Review",
-      "description": "Ryzen AI Max+ 395 with massive CPU performance. | Asus launches a special GoPro version of its powerful ProArt PX13 convertible. In addition to some visual changes, the compact 13-inch model also gets the fastest AMD Strix Halo Ryzen AI Max+ 395 including the…",
-      "url": "https://www.notebookcheck.net/AMD-Strix-Halo-128-GB-RAM-in-a-13-inch-convertible-Asus-ProArt-PX13-GoPro-Edition-Review.1232755.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-02-25T17:01:00Z"
-    },
-    {
-      "title": "Nvidia set to report quarterly results after the bell",
-      "description": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies.",
-      "url": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
-      "source": "CNBC",
-      "publishedAt": "2026-02-25T17:00:01Z"
-    },
-    {
-      "title": "Amazon EC2 R8a instances now available in the Europe (Ireland) region",
-      "description": "Starting today, Amazon EC2 R8a instances are now available in Europe (Ireland) region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up to 30% higher performance, and up to 19% be…",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions",
-      "source": "Amazon.com",
-      "publishedAt": "2026-02-25T17:00:00Z"
-    },
-    {
-      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region",
-      "description": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance and fastest memory bandwidth among c…",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions",
-      "source": "Amazon.com",
-      "publishedAt": "2026-02-25T17:00:00Z"
-    },
-    {
-      "title": "HP says RAM and storage now make up 35% of PC component costs",
-      "description": "Memory prices are insane, and it’s not just hurting consumers — PC makers have to deal with this crap, too. According to HP’s quarterly earnings call yesterday, the company is now spending approximately 35 percent of its PC bill of materials (that is, the pri…",
-      "url": "https://www.pcworld.com/article/3071154/hp-says-a-third-of-its-component-cost-is-now-ram-and-storage.html",
-      "source": "PCWorld",
-      "publishedAt": "2026-02-25T16:57:07Z"
-    },
-    {
-      "title": "Micron Reveals 24 Gbit GDDR7 Memory with 36 Gbps Bandwidth",
-      "description": "Micron chose to unveil its latest developments in graphics memory via a blog post titled \"The new performance bottleneck: How more GPU memory unlocks next gen gaming and AI PCs\" which explains that its latest GDDR7 memory will allow for graphics cards with as…",
-      "url": "https://www.techpowerup.com/346759/micron-reveals-24-gbit-gddr7-memory-with-36-gbps-bandwidth",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-02-25T16:54:49Z"
-    },
-    {
-      "title": "Stock Market Today, Feb. 25: Investors brace for Nvidia, Salesforce earnings after market close",
-      "description": "This live blog is refreshed periodically throughout the day with the latest updates from the market.To find the latest Stock Market Today threads, click here...",
-      "url": "https://www.thestreet.com/latest-news/stock-market-today-feb-25-investors-brace-for-nvidia-salesforce-earnings-after-market-close",
-      "source": "TheStreet",
-      "publishedAt": "2026-02-25T16:51:40Z"
-    },
-    {
-      "title": "Samsung’s Shadowy Internal War That Bungled Its Galaxy Unpacked Event",
-      "description": "A new tip from a relatively well-known tipster now suggests that Samsung's recent channel leaks - which saw an unreleased Galaxy S26 Ultra fall into the hands of a tech YouTuber amid concurrent reports of a plethora of those unreleased units making their way …",
-      "url": "https://wccftech.com/samsungs-shadowy-internal-war-that-bungled-its-galaxy-unpacked-event",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-25T16:49:54Z"
-    },
-    {
-      "title": "Jim Cramer is Still Enthusiastic About NVIDIA (NVDA)",
-      "description": "",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56137643-4cfe-4edd-8adc-12d8091ded45",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-02-25T16:33:54Z"
-    },
-    {
-      "title": "How Avantor and Aera Technology Are Operationalizing Decision Intelligence, Insights from ARC Advisory Group’s 30th Leadership Forum",
-      "description": "During the 30th Annual ARC Advisory Forum on February 10th, the session “The New Frontier of Operations and Supply Chain” offered 1.5 hours of valuable learning. It provided a platform for professionals to share their experiences and insights about the future…",
-      "url": "https://logisticsviewpoints.com/2026/02/25/how-avantor-and-aera-technology-are-operationalizing-decision-intelligence-insights-from-arc-advisory-groups-30th-leadership-forum",
-      "source": "Logisticsviewpoints.com",
-      "publishedAt": "2026-02-25T16:30:13Z"
     }
   ],
   "digest": {
     "bullets": [
-      "The Dickens Font Family by Fenotype",
-      "Engineered for Performance: Galaxy Book6",
-      "Samsung Galaxy S26 Ultra",
-      "Snapdragon 8 Elite Gen 5",
-      "Fuel Supply Gap"
+      "Nvidia earnings could impact AI-focused stock market",
+      "Apple MacBook price prediction uncertain",
+      "AMD introduces new Epyc processor",
+      "Intel deploys AI-powered chatbots",
+      "Ryzen Z1 Extreme platform abandoned"
     ],
     "insights": [
-      "Typography and design trends",
-      "Performance-oriented technology",
-      "Advanced hardware specifications"
+      "AI technology impacts various sectors",
+      "Stock market reactions to corporate news"
     ]
   },
   "clusters": [
     {
-      "title": "Short Title",
-      "summary": "The Dickens Font Family by Fenotype is a unique typeface release that stands out for its authenticity and authority.",
+      "title": "Tech Industry Developments",
+      "summary": "The tech industry continues to evolve with advancements in AI and semiconductor technologies.",
       "article_urls": [
-        "https://weandthecolor.com/dickens-font-family-fenotype/208377"
-      ]
-    },
-    {
-      "title": "Engineered for Performance: Galaxy Book6",
-      "summary": "Samsung's Galaxy Book6 series offers advanced performance and productivity with Intel's Core Ultra Series 3 processors, long-lasting battery life, and an ultra-slim profile.",
-      "article_urls": [
-        "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra",
-      "summary": "The Samsung Galaxy S26 Ultra comes equipped with the latest Qualcomm flagship chip, a new privacy display, and fast charging.",
-      "article_urls": [
-        "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch"
-      ]
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 5",
-      "summary": "The Snapdragon 8 Elite Gen 5 provides massive speed boosts and true AI capabilities for the Galaxy S26 Ultra.",
-      "article_urls": [
-        "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for"
-      ]
-    },
-    {
-      "title": "Fuel Supply Gap",
-      "summary": "Soaring demand for power generation, the U.S. goal of quadrupling nuclear electricity generation by 2050, and a looming ban on Russian nuclear fuel imports could create a bottleneck in the nuclear fuel supply chain.",
-      "article_urls": [
-        "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html"
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180860076",
+        "https://www.notebookcheck.net/Report-claims-low-cost-12-9-inch-Apple-MacBook-might-not-be-as-cheap-as-once-predicted.1234742.0.html",
+        "https://www.theregister.com/2026/02/25/amd_edge_sorano"
       ]
     }
   ],
@@ -435,15 +457,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 372.73
+          "close": 374.755
         }
       ],
+      "sentiment_direction": "Positive",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Positive",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "TSM is a semiconductor manufacturer known for producing high-quality chips. This is an educational summary, not financial advice."
+      "ai_explanation": "Nvidia Corporation is a leading developer of graphics processing units and AI systems. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -586,15 +609,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 201.84
+          "close": 203.2341
         }
       ],
+      "sentiment_direction": "Neutral",
       "sentiment": {
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "AMD is another semiconductor company focusing on graphics processing units. This is an educational summary, not financial advice."
+      "ai_explanation": "Advanced Micro Devices Inc. is a major player in the semiconductor industry, focusing on CPU development. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -737,15 +761,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 1448.83
+          "close": 1456.6486
         }
       ],
+      "sentiment_direction": "Negative",
       "sentiment": {
-        "category": "Neutral",
+        "category": "Negative",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "ASML is a Dutch company specializing in lithography equipment used in semiconductor manufacturing. This is an educational summary, not financial advice."
+      "ai_explanation": "ASML Holding NV is a Dutch multinational company specializing in advanced lithography machines used in semiconductor manufacturing. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -888,15 +913,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 45.155
+          "close": 45.28
         }
       ],
+      "sentiment_direction": "Neutral",
       "sentiment": {
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "INTC represents Intel Corporation, a major player in the semiconductor industry. This is an educational summary, not financial advice."
+      "ai_explanation": "Intel Corporation is a leading manufacturer of microprocessors and other electronic components. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -1039,15 +1065,16 @@
         },
         {
           "date": "2026-02-26",
-          "close": 145.38
+          "close": 145.4201
         }
       ],
+      "sentiment_direction": "Neutral",
       "sentiment": {
         "category": "Neutral",
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "QCOM is Qualcomm Inc., a leading provider of mobile communication solutions. This is an educational summary, not financial advice."
+      "ai_explanation": "Qualcomm Incorporated develops and manufactures mobile communication devices. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

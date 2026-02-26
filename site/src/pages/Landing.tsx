@@ -8,7 +8,7 @@ export default function Landing() {
       <section className="mx-auto max-w-6xl px-6 pb-16">
         <h2 className="text-2xl font-semibold mb-3">Choose a theme</h2>
         <p className="text-[var(--muted-foreground)] mb-8">
-          Explore how macro news themes can influence related stocks. Educational only.
+          Explore how macro news themes can influence related stocks.
         </p>
         <ThemeCardGrid />
       </section>

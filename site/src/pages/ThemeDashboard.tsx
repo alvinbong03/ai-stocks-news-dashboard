@@ -5,6 +5,13 @@ import EventClustersAccordion from "@/components/EventClustersAccordion";
 import LearningGlossary from "@/components/LearningGlossary";
 import { loadThemeData, type ThemeData, type ThemeSlug } from "@/lib/loadThemeData";
 
+type SentimentDirection = "Positive" | "Neutral" | "Negative";
+
+type StockWithExtras = ThemeData["stocks"][number] & {
+  ai_explanation?: string;
+  sentiment_direction?: SentimentDirection;
+};
+
 function isThemeSlug(value: string): value is ThemeSlug {
   return value === "ai" || value === "semiconductors" || value === "energy" || value === "us-politics";
 }
@@ -19,6 +26,17 @@ function formatUtcLabel(iso: string) {
   const hh = String(d.getUTCHours()).padStart(2, "0");
   const mm = String(d.getUTCMinutes()).padStart(2, "0");
   return `${y}-${m}-${day} ${hh}:${mm} UTC`;
+}
+
+function normalizeSentimentDirection(value: unknown): SentimentDirection {
+  return value === "Positive" || value === "Neutral" || value === "Negative"
+    ? value
+    : "Neutral";
+}
+
+function sentimentBadgeClass(_direction: SentimentDirection) {
+  // Minimal styling, low-risk. Can enhance later.
+  return "border border-[var(--border)] text-[var(--foreground)]";
 }
 
 export default function ThemeDashboard() {
@@ -129,6 +147,81 @@ export default function ThemeDashboard() {
 
             {/* Clusters */}
             <EventClustersAccordion clusters={data.clusters} />
+
+            {/* Stocks list */}
+            <div className="rounded-lg border border-[var(--border)] bg-[var(--card)] p-6">
+              <div className="mb-4">
+                <h2 className="text-xl font-semibold">Stocks</h2>
+                <p className="text-sm text-[var(--muted-foreground)] mt-1">
+                  Top tickers for this theme with AI-generated sentiment direction.
+                </p>
+              </div>
+
+              <div className="space-y-3">
+                {data.stocks.slice(0, 5).map((s) => {
+                  const sWithExtras = s as StockWithExtras;
+                  const direction = normalizeSentimentDirection(sWithExtras.sentiment_direction ?? sWithExtras.sentiment?.category);
+
+                  const latest = s.price_history[s.price_history.length - 1];
+                  const prev =
+                    s.price_history.length >= 2
+                      ? s.price_history[s.price_history.length - 2]
+                      : null;
+
+                  const latestClose = typeof latest?.close === "number" ? latest.close : null;
+                  const prevClose = typeof prev?.close === "number" ? prev.close : null;
+
+                  let delta: number | null = null;
+                  let deltaPct: number | null = null;
+
+                  if (latestClose !== null && prevClose !== null) {
+                    delta = latestClose - prevClose;
+                    if (prevClose !== 0) {
+                      deltaPct = (delta / prevClose) * 100;
+                    }
+                  }
+
+                  return (
+                    <div
+                      key={s.ticker}
+                      className="flex items-start justify-between gap-4 rounded-md border border-[var(--border)] px-4 py-3"
+                    >
+                      <div>
+                        <div className="flex items-center gap-3">
+                          <p className="font-semibold tracking-wide">{s.ticker}</p>
+                          <span
+                            className={`text-xs px-2 py-1 rounded ${sentimentBadgeClass(direction)}`}
+                            title="AI-generated sentiment direction (educational only)"
+                          >
+                            {direction}
+                          </span>
+                        </div>
+
+                        <p className="mt-2 text-sm text-[var(--muted-foreground)]">
+                          {sWithExtras.ai_explanation ?? ""}
+                        </p>
+                      </div>
+
+                      <div className="text-right">
+                        <p className="text-sm text-[var(--muted-foreground)]">Latest close</p>
+                        <p className="text-lg font-semibold">
+                          {latestClose !== null ? latestClose.toFixed(2) : "—"}
+                        </p>
+                        <p className="text-xs text-[var(--muted-foreground)]">
+                          {delta !== null && deltaPct !== null
+                            ? `${delta >= 0 ? "+" : ""}${delta.toFixed(2)} (${deltaPct >= 0 ? "+" : ""}${deltaPct.toFixed(2)}%)`
+                            : ""}
+                        </p>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+
+              <p className="mt-4 text-xs text-[var(--muted-foreground)]">
+                Sentiment direction is AI-generated from the day’s news context and is for educational use only.
+              </p>
+            </div>
 
             {/* Chart */}
             <div className="rounded-lg border border-[var(--border)] bg-[var(--card)] p-6">
