@@ -1,8 +1,15 @@
 {
   "theme": "semiconductors",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:08:14.012Z",
+  "last_updated_utc": "2026-02-26T18:11:58.797Z",
   "news": [
+    {
+      "title": "Dickens Font Family by Fenotype",
+      "description": "The Dickens typeface family arrives with unusual timing and relevance. Released by the Finnish foundry Fenotype, it feels authentic and authoritative rather than artificially vintage. Designed by Emil...",
+      "url": "https://tumblr.weandthecolor.com/post/809545669239013376/dickens-font-family-by-fenotype",
+      "source": "Weandthecolor.com",
+      "publishedAt": "2026-02-25T18:08:32Z"
+    },
     {
       "title": "Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design",
       "description": "Featuring Intel’s Core Ultra Series 3 processors built on Intel 18A, long-lasting battery life and an ultra-slim profile, Samsung’s Galaxy Book6 series elevates what users can expect from a PC SAN FRANCISCO — Samsung Electronics Co., Ltd. today introduced Gal…",
@@ -233,77 +240,56 @@
       "url": "https://logisticsviewpoints.com/2026/02/25/how-avantor-and-aera-technology-are-operationalizing-decision-intelligence-insights-from-arc-advisory-groups-30th-leadership-forum",
       "source": "Logisticsviewpoints.com",
       "publishedAt": "2026-02-25T16:30:13Z"
-    },
-    {
-      "title": "Here’s a Look at One of the World’s Most Complex AI Systems, the NVIDIA Vera Rubin, Integrating a Million Components",
-      "description": "NVIDIA's next-gen Vera Rubin is currently under full production, and the company has provided us with an extensive overview of the rack architecture, diving into individual components. NVIDIA's Vera Rubin Features Six New Upgraded Chips, Enhanced Liquid Cooli…",
-      "url": "https://wccftech.com/heres-an-extensive-look-at-one-of-the-worlds-most-complex-ai-systems-the-nvidia-vera-rubin-integrating-a-million-components",
-      "source": "Wccftech",
-      "publishedAt": "2026-02-25T16:20:45Z"
-    },
-    {
-      "title": "Nvidia is hiring Linux gaming experts",
-      "description": "Linux gaming is kind of having a moment. Granted, that’s almost entirely on the back of Valve’s Steam Deck, and the Linux hippies probably don’t love having to thank a billionaire for their platform gains. But with the Steam Machine on the horizon (hopefully)…",
-      "url": "https://www.pcworld.com/article/3071101/nvidia-is-hiring-linux-gaming-experts.html",
-      "source": "PCWorld",
-      "publishedAt": "2026-02-25T16:14:00Z"
-    },
-    {
-      "title": "ACEMAGIC K1 Mini PC (Core i5-12600H)—Premium Performance Without the Premium Price",
-      "description": "ACEMAGIC's K1 Mini PC, powered by Intel's 12th Gen Core i5-12600H, is currently available at a substantial discount on Amazon US. Originally priced at $579.99, the system is now listed at $399.99, with an additional 10% off promo code bringing the final price…",
-      "url": "https://www.techpowerup.com/346734/acemagic-k1-mini-pc-core-i5-12600h-premium-performance-without-the-premium-price",
-      "source": "Techpowerup.com",
-      "publishedAt": "2026-02-25T16:11:44Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design",
-      "Samsung Launches Galaxy S26 Ultra With Built-In Privacy Display and New AI Features",
-      "Samsung Galaxy S26 Ultra arrives with Privacy Display, SD 8 Elite Gen 5 for Galaxy",
-      "Samsung launches S26 smartphone as sector braces for memory chip crunch",
-      "Snapdragon 8 Elite Gen 5 hands the Galaxy S26 the AI upgrade we've been waiting for"
+      "The Dickens Font Family by Fenotype",
+      "Engineered for Performance: Galaxy Book6",
+      "Samsung Galaxy S26 Ultra",
+      "Snapdragon 8 Elite Gen 5",
+      "Fuel Supply Gap"
     ],
     "insights": [
-      "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation can be added later."
+      "Typography and design trends",
+      "Performance-oriented technology",
+      "Advanced hardware specifications"
     ]
   },
   "clusters": [
     {
-      "title": "Latest",
-      "summary": "Grouped stories where \"latest\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Short Title",
+      "summary": "The Dickens Font Family by Fenotype is a unique typeface release that stands out for its authenticity and authority.",
       "article_urls": [
-        "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch",
-        "https://www.gsmarena.com/samsung_galaxy_s26_ultra_arrives_with_privacy_display_sd_8_elite_gen_5_for_galaxy_and_60w_charging_-news-71717.php",
-        "https://www.cnbc.com/2026/02/25/samsung-launches-s26-smartphone-memory-chip-crunch.html"
-      ]
-    },
-    {
-      "title": "Supply",
-      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html",
-        "https://www.businessinsider.com/pentagon-drones-chinese-dominated-market-list-2026-2",
-        "https://www.globenewswire.com/news-release/2026/02/25/3244871/0/en/BizClik-Returns-With-CPD-Accredited-Procurement-Supply-Chain-LIVE-and-Sustainability-LIVE-The-Net-Zero-Summit.html"
-      ]
-    },
-    {
-      "title": "Now",
-      "summary": "Grouped stories where \"now\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://wccftech.com/der8auer-says-he-loved-the-effort-of-user-who-got-his-wireview-connector-melted-and-is-sending-wireview-pro-2",
-        "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions",
-        "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions"
-      ]
-    },
-    {
-      "title": "Other",
-      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
-      "article_urls": [
-        "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
-        "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for",
         "https://weandthecolor.com/dickens-font-family-fenotype/208377"
+      ]
+    },
+    {
+      "title": "Engineered for Performance: Galaxy Book6",
+      "summary": "Samsung's Galaxy Book6 series offers advanced performance and productivity with Intel's Core Ultra Series 3 processors, long-lasting battery life, and an ultra-slim profile.",
+      "article_urls": [
+        "https://financialpost.com/pmn/business-wire-news-releases-pmn/engineered-for-performance-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra",
+      "summary": "The Samsung Galaxy S26 Ultra comes equipped with the latest Qualcomm flagship chip, a new privacy display, and fast charging.",
+      "article_urls": [
+        "https://www.macrumors.com/2026/02/25/samsung-galaxy-s26-launch"
+      ]
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5",
+      "summary": "The Snapdragon 8 Elite Gen 5 provides massive speed boosts and true AI capabilities for the Galaxy S26 Ultra.",
+      "article_urls": [
+        "https://www.androidcentral.com/phones/samsung-galaxy/snapdragon-8-elite-gen-5-hands-the-galaxy-s26-the-ai-upgrade-weve-been-waiting-for"
+      ]
+    },
+    {
+      "title": "Fuel Supply Gap",
+      "summary": "Soaring demand for power generation, the U.S. goal of quadrupling nuclear electricity generation by 2050, and a looming ban on Russian nuclear fuel imports could create a bottleneck in the nuclear fuel supply chain.",
+      "article_urls": [
+        "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html"
       ]
     }
   ],
@@ -449,7 +435,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 373.095
+          "close": 372.73
         }
       ],
       "sentiment": {
@@ -457,7 +443,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
+      "ai_explanation": "TSM is a semiconductor manufacturer known for producing high-quality chips. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -600,7 +586,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 202.2
+          "close": 201.84
         }
       ],
       "sentiment": {
@@ -608,7 +594,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
+      "ai_explanation": "AMD is another semiconductor company focusing on graphics processing units. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -751,7 +737,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 1449.7
+          "close": 1448.83
         }
       ],
       "sentiment": {
@@ -759,7 +745,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
+      "ai_explanation": "ASML is a Dutch company specializing in lithography equipment used in semiconductor manufacturing. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -902,7 +888,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 45.175
+          "close": 45.155
         }
       ],
       "sentiment": {
@@ -910,7 +896,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
+      "ai_explanation": "INTC represents Intel Corporation, a major player in the semiconductor industry. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -1053,7 +1039,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 145.285
+          "close": 145.38
         }
       ],
       "sentiment": {
@@ -1061,7 +1047,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Engineered for Performance: Galaxy Book6 Delivers Advanced Performance and Al-Powered Productivity in a Sleek New Design. Main topic cluster: Latest. This is an educational summary, not financial advice."
+      "ai_explanation": "QCOM is Qualcomm Inc., a leading provider of mobile communication solutions. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

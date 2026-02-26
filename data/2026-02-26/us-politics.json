@@ -1,8 +1,92 @@
 {
   "theme": "us-politics",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:08:37.102Z",
+  "last_updated_utc": "2026-02-26T18:12:54.177Z",
   "news": [
+    {
+      "title": "Bitcoin tops $68K after stock market rebound, strong earnings data boost risk appetite",
+      "description": "Bitcoin rallied above $68,500 after US stocks turned green on US policy clarity and strong earnings results. Will bulls target $70,000 next?",
+      "url": "https://cointelegraph.com/news/bitcoin-tops-dollar68k-after-stock-market-rebound-strong-earnings-data-boost-risk-appetite",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-25T18:11:55Z"
+    },
+    {
+      "title": "Witkoff: Iran deal must have no time limits",
+      "description": "Ahead of Geneva talks, Steve Witkoff reportedly told a private gathering the Trump administration will not accept time-limited nuclear restrictions on Iran.",
+      "url": "https://www.israelnationalnews.com/news/422985",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-02-25T18:11:42Z"
+    },
+    {
+      "title": "Olympic hockey gold medal winner breaks silence on missing White House visit",
+      "description": "Jake Guentzel was absent from the White House on Tuesday, when his teammates on the United States' Olympic gold-medal winning men's hockey team met with President Donald Trump. https://twitter.com/WhiteHouse/status/2026414217952219350 Speaking to reporters on…",
+      "url": "https://www.thebiglead.com/olympic-hockey-gold-medal-winner-breaks-silence-on-missing-white-house-visit",
+      "source": "The Big Lead",
+      "publishedAt": "2026-02-25T18:10:42Z"
+    },
+    {
+      "title": "Joy Reid Hits Back at Heckler Shouting ‘You Suck! You’re a Loser!’ at Anti-Trump SOTU Rally",
+      "description": "Independent media host Joy Reid shot back at a heckler who shouted \"you suck!\" during the anti-Trump alternative SOTU \"People’s State of the Union\" rally.\nThe post Joy Reid Hits Back at Heckler Shouting ‘You Suck! You’re a Loser!’ at Anti-Trump SOTU Rally fir…",
+      "url": "https://www.mediaite.com/media/news/joy-reid-hits-back-at-heckler-shouting-you-suck-youre-a-loser-at-anti-trump-sotu-rally",
+      "source": "Mediaite",
+      "publishedAt": "2026-02-25T18:09:17Z"
+    },
+    {
+      "title": "CNN’s Abby Phillip Attempts To Diminish Trump Awarding War Heroes During State Of The Union",
+      "description": "CNN host Abby Phillip attempted to downplay the Medal of Honor awards during President Donald Trump's State of the Union address on Tuesday.",
+      "url": "https://dailycaller.com/2026/02/25/cnn-abby-phillip-trump-medal-of-honor-state-of-the-union",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-02-25T18:08:57Z"
+    },
+    {
+      "title": "Keeler: Avalanche’s Brock Nelson put family, Stanley Cup before Donald Trump? Good for him.",
+      "description": "Show of hands if your wife has looked at you the way Nathan MacKinnon looked at that stuffed stoat. Heck, yeah, Brock Nelson put family ahead of Donald Trump this week. And good for him.",
+      "url": "https://www.denverpost.com/2026/02/25/brock-nelson-donald-trump-usa-avalanche-usa-hockey",
+      "source": "The Denver Post",
+      "publishedAt": "2026-02-25T18:07:49Z"
+    },
+    {
+      "title": "The state of the Democratic Party is ... split",
+      "description": "Democratic leadership's choice to have Virginia Gov. Abigail Spanberger deliver the State of the Union rebuttal was a strategic move to keep the party's focus on affordability. But she was just one Democrat jockeying to pave the way forward for the party. Var…",
+      "url": "https://freerepublic.com/focus/f-news/4368266/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-25T18:07:07Z"
+    },
+    {
+      "title": "Why isn’t Kylian Mbappe playing for Real Madrid in key Champions League game against Benfica?",
+      "description": "With Real Madrid having a key UEFA Champions League clash against Benfica, Kylian Mbappe will be one of the most notable absences.\n Kylian Mbappé has arguably been Real Madrid‘s most important player in a 2025-26 campaign in which the team has struggled to me…",
+      "url": "https://worldsoccertalk.com/news/why-isnt-kylian-mbappe-playing-for-real-madrid-in-key-champions-league-game-against-benfica",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-02-25T18:06:29Z"
+    },
+    {
+      "title": "RTP Network Marks Record 2 Million Transactions in a Day",
+      "description": "The Clearing House (TCH) says its instant payment system has achieved two new records. The organization’s RTP® Network recently marked single-day records for both payment volume and value, The Clearing House announced Wednesday (Feb. 25). The records come as …",
+      "url": "https://www.pymnts.com/real-time-payments/2026/rtp-network-marks-record-2-million-transactions-in-a-day",
+      "source": "pymnts.com",
+      "publishedAt": "2026-02-25T18:06:24Z"
+    },
+    {
+      "title": "Busted: Fact checker tells Ann Coulter she just said Trump cannot be president",
+      "description": "MAGA columnist Ann Coulter found out the hard way that President Donald Trump is a second-generation immigrant.Following the president's State of the Union address on Tuesday, Coulter sought to slam the immigrant community and their families.\"That beautiful e…",
+      "url": "https://www.rawstory.com/ann-coulter-trump-immigrant",
+      "source": "Raw Story",
+      "publishedAt": "2026-02-25T18:05:33Z"
+    },
+    {
+      "title": "Robert De Niro Leads ‘State of the Swamp’ Rally in Call to ‘Take to the Streets’ Against Trump: ‘I Feel Betrayed By My Country’",
+      "description": "Robert De Niro led a \"State of the Swamp\" rally on Tuesday evening in a call to \"take to the streets\" against President Donald Trump. \"I feel betrayed by my country,\" the \"Raging Bull\" star said.\nThe post Robert De Niro Leads ‘State of the Swamp’ Rally in Cal…",
+      "url": "https://www.breitbart.com/entertainment/2026/02/25/robert-de-niro-leads-state-of-the-swamp-rally-in-call-to-take-to-the-streets-against-trump-i-feel-betrayed-by-my-country",
+      "source": "Breitbart News",
+      "publishedAt": "2026-02-25T18:05:00Z"
+    },
+    {
+      "title": "Fabio Capello reveals why Juventus must win their next Serie A game",
+      "description": "Fabio Capello has closely followed Juventus this season and understands the frustration felt by supporters, as their campaign appears in danger of unravelling. The pressure surrounding the club has in...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f2ab4135-c3fc-48d7-b000-b6f1c4a34658",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-25T18:05:00Z"
+    },
     {
       "title": "Hughes brothers wore Trump hats in Team USA's visit to the White House",
       "description": "After claiming they weren't being political, the Team USA stars became political.",
@@ -233,146 +317,42 @@
       "url": "https://www.thewrap.com/creative-content/tv-shows/the-view-trump-heated-rivalry-fan-olympic-hockey-team",
       "source": "TheWrap",
       "publishedAt": "2026-02-25T17:50:06Z"
-    },
-    {
-      "title": "Studiocanal Takes Majority Stake In Italian ‘Sentimental Value’ & ‘Yellow Letters’ Distributor Lucky Red",
-      "description": "Vivendi-owned pan-European production and distribution house Studiocanal has acquired a 51% stake in top indie Italian distributor Lucky Red. Italian cinema trade Cinematografo.it reported that company CEO Andrea Occhipinti had sold 40% of his 89% controlling…",
-      "url": "http://deadline.com/2026/02/studiocanal-majority-stake-distributor-lucky-red-1236735853",
-      "source": "Deadline",
-      "publishedAt": "2026-02-25T17:49:43Z"
-    },
-    {
-      "title": "Trump administration hits Iran with new sanctions as nuclear talks near",
-      "description": "The Trump administration is expanding its pressure on Iran by imposing new sanctions aimed at the country's missile, drone and oil networks",
-      "url": "https://abcnews.com/US/wireStory/trump-administration-hits-iran-new-sanctions-nuclear-talks-130496272",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-02-25T17:49:38Z"
-    },
-    {
-      "title": "'You have killed Americans!': Democrats and Trump clash at the State of the Union (Very high on the pukometer scale)",
-      "description": "WASHINGTON — Tensions between President Donald Trump and Democrats reached a peak during his State of the Union speech Tuesday night, with the two sides clashing over his remarks about immigration and allegations of fraud.Democratic lawmakers shouted at Trump…",
-      "url": "https://freerepublic.com/focus/f-news/4368263/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-02-25T17:49:28Z"
-    },
-    {
-      "title": "Trump calls for ‘mentally deranged’ Ilhan Omar and Rashida Tlaib to ‘be institutionalized’ for SOTU antics",
-      "description": "\"They had the bulging, bloodshot eyes of crazy people, LUNATICS,\" the president said of the two far-left \"Squad\" Dem reps.",
-      "url": "https://nypost.com/2026/02/25/us-news/mentally-deranged-ilhan-omar-rashida-tlaib-should-be-institutionalized-for-sotu-antics-trump",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T17:47:34Z"
-    },
-    {
-      "title": "Trump administration hits Iran with new sanctions as nuclear talks near",
-      "description": "They were imposed ahead of another round of talks in Geneva on Thursday.",
-      "url": "https://www.bostonherald.com/2026/02/25/iran-us-sanctions",
-      "source": "Boston Herald",
-      "publishedAt": "2026-02-25T17:47:02Z"
-    },
-    {
-      "title": "Meet Therthal Veeran, Coimbatore district’s election mascot",
-      "description": "COIMBATORE: The hornbill bird has been chosen as the election mascot of Coimbatore district. Collector and district election officer Pavankumar G Giri.",
-      "url": "https://timesofindia.indiatimes.com/city/coimbatore/meet-therthal-veeran-coimbatore-districts-election-mascot/articleshow/128790908.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-02-25T17:46:53Z"
-    },
-    {
-      "title": "VIDEO: Watch Elizabeth Warren Hilariously WINCE During Trump SOTU",
-      "description": "VIDEOJames Rickards on Bannon's War Room observed that Senator Elizabeth Warren visibly WINCED when President Trump, during his State Of The Union speech, stated that Venezuelan dictator Nicolas Maduro has been plucked out of Caracas and brought to justice in…",
-      "url": "https://freerepublic.com/focus/f-bloggers/4368261/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-02-25T17:46:48Z"
-    },
-    {
-      "title": "White House gloats about ‘out-played’ Dems falling into Trump’s State of Union traps",
-      "description": "Trump tore into seated Democrats at his State of the Union address, saying: \"You should be ashamed of yourself not standing up!\"",
-      "url": "https://nypost.com/2026/02/25/us-news/white-house-gloats-trump-out-played-dems-in-viral-moments-from-state-of-the-union-as-they-refused-to-stand",
-      "source": "New York Post",
-      "publishedAt": "2026-02-25T17:46:34Z"
-    },
-    {
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "description": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.\n\"This prolific, elusive actor ha…",
-      "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "source": "Internet",
-      "publishedAt": "2026-02-25T17:46:00Z"
-    },
-    {
-      "title": "Wall of Carnage: Gazans, Olive Trees, and Mosques",
-      "description": "In the small town of Berkeley Springs, West Virginia where I live, during Israel’s destruction of the Gaza Strip, a Democratic Party activist hung a flag of the state of Israel across the way from the only grocery town in town—so that almost every member of t…",
-      "url": "https://www.commondreams.org/opinion/wall-of-carnage-gaza",
-      "source": "Common Dreams",
-      "publishedAt": "2026-02-25T17:44:48Z"
-    },
-    {
-      "title": "House votes down Senate air safety legislation",
-      "description": "The aviation safety bill would have required aircraft to carry advanced location tracking technology, which could have prevented last year’s deadly midair collision",
-      "url": "https://theweek.com/politics/house-rejects-aviation-safety-bill",
-      "source": "The Week Magazine",
-      "publishedAt": "2026-02-25T17:44:40Z"
-    },
-    {
-      "title": "Jewish student sues UC Santa Barbara over months of antisemitic abuse",
-      "description": "A former student body leader is suing her university for refusing to act in the face of a months-long campaign of antisemitic harassment against her following the October 7 massacre.",
-      "url": "https://www.israelnationalnews.com/news/422983",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-02-25T17:42:46Z"
-    },
-    {
-      "title": "Las Vegas Steakhouse Bob Taylor’s Ranch House Just Won the 2026 James Beard America’s Classics Award",
-      "description": "On the morning of Wednesday, February 25, the James Beard Foundation Awards named Las Vegas’s classic steakhouse, Bob Taylor’s Ranch House, as one of the recipients for its 2026 America’s Classics awards.  The award recognizes “locally owned restaurants with …",
-      "url": "https://vegas.eater.com/restaurant-news/130732/bob-taylors-ranch-house-las-vegas-james-beard-americas-classics-winner-2026",
-      "source": "Eater",
-      "publishedAt": "2026-02-25T17:42:07Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Hughes brothers wore Trump hats in Team USA's visit to the White House",
-      "Slog AM: Trump Played Game Show Host During the State of the Union, Nurses Are Fleeing the Country, and the Heated Rivalry Cottage Is on Airbnb",
-      "Collection Of House Styles 29 (Compiled by tokarilo) (2025 - 2026)",
-      "Why 5 U.S. Men’s Hockey Team Members Skipped Visit to Meet Donald Trump at the White House After Olympic Victory",
-      "Steady Signal (2026)"
+      "Bitcoin rallies above $68,500",
+      "Witkoff warns against time-limited nuclear restrictions",
+      "Jake Guentzel misses White House meeting",
+      "Joy Reid defends herself against hecklers",
+      "CNN attempts to diminish Medal of Honor award"
     ],
     "insights": [
-      "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation can be added later."
+      "Stock market rebounds",
+      "Strong earnings boost risk appetite",
+      "Iran deal must have no time limits"
     ]
   },
   "clusters": [
     {
-      "title": "Trump",
-      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Financial Market Trends",
+      "summary": "The cryptocurrency market continues to rise, driven by positive economic indicators and investor sentiment.",
       "article_urls": [
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9bd35ff5-7e34-45d8-8469-a1341ff27c0d",
-        "https://www.thestranger.com/slog-am/2026/02/25/80494349/slog-am-trump-played-game-show-host-during-the-state-of-the-union-nurses-are-fleeing-the-country-and-the-heated-rivalry-cottage-is-on-airbn",
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77207da9-67fa-4477-974b-568e76e6e17e"
+        "https://cointelegraph.com/news/bitcoin-tops-dollar68k-after-stock-market-rebound-strong-earnings-data-boost-risk-appetite"
       ]
     },
     {
-      "title": "House",
-      "summary": "Grouped stories where \"house\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "International Relations",
+      "summary": "Steve Witkoff expresses concerns about the potential for nuclear restrictions on Iran, suggesting that the Trump administration may reject them.",
       "article_urls": [
-        "https://post.rlsbb.to/collection-of-house-styles-29-compiled-by-tokarilo-2025-2026",
-        "https://post.rlsbb.to/steady-signal-2026",
-        "https://post.rlsbb.to/kontor-future-sounds-2026-vol-25-jubilee-special-2026"
+        "https://www.israelnationalnews.com/news/422985"
       ]
     },
     {
-      "title": "State",
-      "summary": "Grouped stories where \"state\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Sports",
+      "summary": "Olympic hockey gold medalist Jake Guentzel missed the White House meeting due to scheduling conflicts.",
       "article_urls": [
-        "https://www.globenewswire.com/news-release/2026/02/25/3244879/0/en/Javier-Palomarez-USHBC-President-Warns-State-of-the-Union-Is-Disconnected-from-Small-Business-Reality.html",
-        "https://www.commondreams.org/opinion/wall-of-carnage-gaza"
-      ]
-    },
-    {
-      "title": "Other",
-      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
-      "article_urls": [
-        "https://post.rlsbb.to/welcome-to-fmm-vol-6-2026",
-        "https://www.notebookcheck.net/Samsung-Galaxy-S26-launches-with-Exynos-2600-chipset-One-UI-8-and-more.1234642.0.html",
-        "https://wattsupwiththat.com/2026/02/25/cuba-becomes-the-first-country-to-reach-net-zero-shouldnt-we-be-celebrating"
+        "https://www.thebiglead.com/olympic-hockey-gold-medal-winner-breaks-silence-on-missing-white-house-visit"
       ]
     }
   ],
@@ -518,7 +498,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 685.75
+          "close": 685.455
         }
       ],
       "sentiment": {
@@ -526,7 +506,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Hughes brothers wore Trump hats in Team USA's visit to the White House. Main topic cluster: Trump. This is an educational summary, not financial advice."
+      "ai_explanation": "Investors are optimistic about the stock market, indicated by the rise in cryptocurrencies like Bitcoin. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QQQ",
@@ -669,7 +649,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 605.95
+          "close": 605.71
         }
       ],
       "sentiment": {
@@ -677,7 +657,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Hughes brothers wore Trump hats in Team USA's visit to the White House. Main topic cluster: Trump. This is an educational summary, not financial advice."
+      "ai_explanation": "The QQQ index reflects the performance of large-cap technology companies, showing strength in the tech sector. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLF",
@@ -820,7 +800,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 52.135
+          "close": 52.105
         }
       ],
       "sentiment": {
@@ -828,7 +808,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Hughes brothers wore Trump hats in Team USA's visit to the White House. Main topic cluster: Trump. This is an educational summary, not financial advice."
+      "ai_explanation": "The XLF index tracks energy stocks, indicating growth in the oil and gas industry. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLE",
@@ -971,7 +951,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 55.3399
+          "close": 55.32
         }
       ],
       "sentiment": {
@@ -979,7 +959,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Hughes brothers wore Trump hats in Team USA's visit to the White House. Main topic cluster: Trump. This is an educational summary, not financial advice."
+      "ai_explanation": "The XLE index shows the performance of industrial commodities, such as metals and mining stocks. This is an educational summary, not financial advice."
     },
     {
       "ticker": "XLK",
@@ -1122,7 +1102,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 140.055
+          "close": 139.94
         }
       ],
       "sentiment": {
@@ -1130,7 +1110,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Hughes brothers wore Trump hats in Team USA's visit to the White House. Main topic cluster: Trump. This is an educational summary, not financial advice."
+      "ai_explanation": "The XLK index represents consumer discretionary stocks, reflecting consumer spending trends. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

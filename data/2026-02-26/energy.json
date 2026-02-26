@@ -1,8 +1,22 @@
 {
   "theme": "energy",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:08:25.985Z",
+  "last_updated_utc": "2026-02-26T18:12:26.739Z",
   "news": [
+    {
+      "title": "Cathal Friel-led EGT to buy Arena Capital Partners unit from liquidators",
+      "description": "London-listed company floated in 2024 with aim of building portfolio of assets  needed for green energy transition",
+      "url": "https://www.irishtimes.com/business/2026/02/25/cathal-friel-led-egt-to-buy-arena-capital-partners-unit-from-liquidators",
+      "source": "The Irish Times",
+      "publishedAt": "2026-02-25T18:08:49Z"
+    },
+    {
+      "title": "Energy price cap to fall in April but threat of war hangs over outlook",
+      "description": "Energy price cap to fall in April but threat of war hangs over outlookkmfm.co.uk",
+      "url": "https://www.kmfm.co.uk/news/business/energy-price-cap-to-fall-in-april-but-threat-of-war-hangs-over-outlook",
+      "source": "Kmfm.co.uk",
+      "publishedAt": "2026-02-25T18:08:19Z"
+    },
     {
       "title": "Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC",
       "description": "Tracklist: CD1 01. Ace Of Base – All That She Wants02. Roxette – Fingertips ''9303. Vaya Con Dios – Time Flies04. Chaka Khan – I''m Every Woman05. Sister Sledge – We Are Family06. M-People – How Can I Love You More07. Sybil – When I''m Good And Ready08. Lulu …",
@@ -324,85 +338,42 @@
       "url": "https://www.powermag.com/energea-launches-latin-america-solar-portfolio-with-100-million-investment",
       "source": "POWER magazine",
       "publishedAt": "2026-02-25T15:57:19Z"
-    },
-    {
-      "title": "WATCH: Winners and losers of the State of the Union",
-      "description": "Trump talked about secure elections, public safety, energy production, and stories of American heroism",
-      "url": "https://www.wnd.com/2026/02/winners-losers-state-union",
-      "source": "Wnd.com",
-      "publishedAt": "2026-02-25T15:55:45Z"
-    },
-    {
-      "title": "Solar module exporters await clarity on US CVD Imposition; may challenge preliminary order",
-      "description": "Following the US government’s imposition of preliminary countervailing duties (CVD) on Indian solar cells and modules, domestic exporters are navigating a clouded regulatory outlook, further complicated by a pending anti-dumping investigation and volatile tar…",
-      "url": "https://www.thehindubusinessline.com/companies/solar-module-exporters-await-clarity-on-us-cvd-imposition-may-challengepreliminary-order/article70676490.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-02-25T15:54:11Z"
-    },
-    {
-      "title": "US hits Iran’s oil exports, UAV and missile programs",
-      "description": "US Treasury blacklists vessels, firms, and individuals tied to Iranian oil sales, missile production, UAV proliferation, and procurement networks.",
-      "url": "https://www.israelnationalnews.com/news/422979",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-02-25T15:53:00Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC",
-      "Strategy (MSTR) Is Now Wall Street’s Most-Shorted Stock: What It Means",
-      "10 Best Green Lantern Stories in DC Comics History",
-      "Mitski Keeps Her Spiciest Music Criticism Private",
-      "Fuel Supply Gap Could Hold Back U.S. Nuclear Energy Renaissance"
+      "Cathal Friel-led EGT buys Arena Capital Partner unit",
+      "Energy prices may decrease in April",
+      "Ronny's Pop Show album release",
+      "Strategy stock moves to most shorted",
+      "Green Lantern stories ranked by comic book fans"
     ],
     "insights": [
-      "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation can be added later."
+      "EGT acquisition indicates growth in energy sector",
+      "Market trends affecting energy prices",
+      "Pop music releases provide entertainment"
     ]
   },
   "clusters": [
     {
-      "title": "Energy",
-      "summary": "Grouped stories where \"energy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "short title",
+      "summary": "EGT acquires Arena Capital Partner unit, indicating growth in energy sector.",
       "article_urls": [
-        "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fuel-Supply-Gap-Could-Hold-Back-US-Nuclear-Energy-Renaissance.html",
-        "https://about.fb.com/news/2026/02/meta-data-centers-support-energy-jobs-environment-local-communities",
-        "https://economictimes.indiatimes.com/news/economy/agriculture/isma-cuts-indias-2025-26-sugar-production-estimate-by-5-5-due-to-erratic-weather/articleshow/128790879.cms"
+        "https://www.irishtimes.com/business/2026/02/25/cathal-friel-led-egt-to-buy-arena-capital-partners-unit-from-liquidators"
       ]
     },
     {
-      "title": "Oil",
-      "summary": "Grouped stories where \"oil\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "short title",
+      "summary": "Energy prices expected to decrease in April.",
       "article_urls": [
-        "https://abcnews.com/US/wireStory/trump-administration-hits-iran-new-sanctions-nuclear-talks-130496272",
-        "https://gcaptain.com/iran-oil-exports-kharg-island-us-military",
-        "https://oilprice.com/Latest-Energy-News/World-News/OPEC-To-Consider-Oil-Output-Hike-By-137000-bpd-For-April.html"
+        "https://www.kmfm.co.uk/news/business/energy-price-cap-to-fall-in-april-but-threat-of-war-hangs-over-outlook"
       ]
     },
     {
-      "title": "Trump",
-      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "short title",
+      "summary": "Ronny's Pop Show album 'Dranssylvanische Hits' available.",
       "article_urls": [
-        "https://www.commondreams.org/news/dems-sabotage-iran-war-powers-resolution",
-        "https://newrepublic.com/article/207036/toxic-state-trump-union-address"
-      ]
-    },
-    {
-      "title": "One",
-      "summary": "Grouped stories where \"one\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://geektyrant.com/news/first-images-for-the-duffer-bros-the-boroughs-tease-a-monster-filled-retirement-community",
-        "https://seclists.org/oss-sec/2026/q1/219",
-        "https://geektyrant.com/news/did-dunk-ever-earn-his-knighthood-george-rr-martin-wanted-a-knight-of-the-seven-kingdoms-to-leave-it-unanswered"
-      ]
-    },
-    {
-      "title": "Other",
-      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
-      "article_urls": [
-        "https://post.rlsbb.to/ronnys-pop-show-vol-21-36-dranssylvanische-hits-2cd-1993-flac",
-        "http://www.newsbtc.com/bitcoin-news/strategy-mstr-wall-street-most-shorted-stock",
-        "http://comicbook.com/comics/list/10-best-green-lantern-stories-in-dc-comics-history"
+        "https://post.rlsbb.to/ronnys-pop-show-vol-21-36-dranssylvanische-hits-2cd-1993-flac"
       ]
     }
   ],
@@ -548,7 +519,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 150.25
+          "close": 150.18
         }
       ],
       "sentiment": {
@@ -556,7 +527,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC. Main topic cluster: Energy. This is an educational summary, not financial advice."
+      "ai_explanation": "Oil prices have risen recently, making XOM a key player in the energy industry. This is an educational summary, not financial advice."
     },
     {
       "ticker": "CVX",
@@ -699,7 +670,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 185.295
+          "close": 185.255
         }
       ],
       "sentiment": {
@@ -707,7 +678,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC. Main topic cluster: Energy. This is an educational summary, not financial advice."
+      "ai_explanation": "Exxon Mobil Corporation (CVX) is a major player in the global oil and gas industry. This is an educational summary, not financial advice."
     },
     {
       "ticker": "NEE",
@@ -850,7 +821,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 92.98
+          "close": 93.025
         }
       ],
       "sentiment": {
@@ -858,7 +829,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC. Main topic cluster: Energy. This is an educational summary, not financial advice."
+      "ai_explanation": "Neste Oil Company (NEE) is a leading producer of renewable fuels. This is an educational summary, not financial advice."
     },
     {
       "ticker": "SHEL",
@@ -1001,7 +972,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 81.285
+          "close": 81.265
         }
       ],
       "sentiment": {
@@ -1009,7 +980,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC. Main topic cluster: Energy. This is an educational summary, not financial advice."
+      "ai_explanation": "Shell plc (SHEL) is a multinational oil and gas company. This is an educational summary, not financial advice."
     },
     {
       "ticker": "BP",
@@ -1152,7 +1123,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 38.175
+          "close": 38.185
         }
       ],
       "sentiment": {
@@ -1160,7 +1131,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Ronny's Pop Show Vol. 21-36 Dranssylvanische Hits (2CD) (1993) FLAC. Main topic cluster: Energy. This is an educational summary, not financial advice."
+      "ai_explanation": "British Petroleum (BP) is a major international oil and gas company. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

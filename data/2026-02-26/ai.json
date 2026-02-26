@@ -1,7 +1,7 @@
 {
   "theme": "ai",
   "date": "2026-02-26",
-  "last_updated_utc": "2026-02-26T18:08:01.039Z",
+  "last_updated_utc": "2026-02-26T18:11:23.049Z",
   "news": [
     {
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
@@ -195,58 +195,36 @@
   ],
   "digest": {
     "bullets": [
-      "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-      "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
-      "The next step in Artificial Intelligence: Can an AI model be conscious, “feel,” “live”? Even experts admit they don’t know",
-      "Anthropic just dropped its core AI safety promise, and that should worry you",
-      "Show HN: GPU multi-agent war simulation"
+      "Anthrropic drops its core safety promise",
+      "Pentagon threatens punishment for not allowing AI use",
+      "Google's Gemini AI gets agentic capabilities"
     ],
     "insights": [
-      "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation can be added later."
+      "AI safety is crucial for ethical development",
+      "Government regulation impacts AI usage"
     ]
   },
   "clusters": [
     {
-      "title": "Anthropic",
-      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "AI Safety Concerns",
+      "summary": "As AI technology advances, there are growing concerns about how these technologies are deployed and their impact on society.",
       "article_urls": [
-        "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-        "https://en.protothema.gr/2026/02/25/the-next-step-in-artificial-intelligence-can-an-ai-model-be-conscious-feel-live-even-experts-admit-they-dont-know",
-        "https://www.xda-developers.com/anthropic-just-dropped-its-core-ai-safety-promise"
+        "https://www.nbcnews.com/tech/security/anthropic-pentagon-us-military-can-use-ai-missile-defense-hegseth-rcna260534",
+        "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber"
       ]
     },
     {
-      "title": "Claude",
-      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "AI Agentic Capabilities",
+      "summary": "Google's Gemini AI is gaining more autonomy, enabling it to handle tasks independently.",
       "article_urls": [
-        "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context",
-        "https://github.com/nikhaldi/drywall",
-        "https://github.com/superamped/ai-marketing-skills"
+        "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber"
       ]
     },
     {
-      "title": "Code",
-      "summary": "Grouped stories where \"code\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Government Regulation",
+      "summary": "Governments are increasingly regulating AI to protect citizens and prevent misuse.",
       "article_urls": [
-        "https://www.droid-life.com/2026/02/25/gemini-starts-ordering-your-groceries-and-booking-rideshares"
-      ]
-    },
-    {
-      "title": "Artificial",
-      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs",
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60325bd7-592d-49ea-bd03-4926aa1de9bb"
-      ]
-    },
-    {
-      "title": "Other",
-      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
-      "article_urls": [
-        "https://github.com/ayushdnb/Neural-Siege/tree/combat_first_tick",
-        "https://www.bgr.com/2109898/samsung-galaxy-s26-gemini-circle-to-search-scam-detection",
-        "https://me.pcmag.com/en/android/35539/android-update-puts-gemini-ai-in-the-drivers-seat-for-ride-hail-food-orders"
+        "https://www.nbcnews.com/tech/security/anthropic-pentagon-us-military-can-use-ai-missile-defense-hegseth-rcna260534"
       ]
     }
   ],
@@ -392,7 +370,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 186.5397
+          "close": 186.545
         }
       ],
       "sentiment": {
@@ -400,7 +378,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Artificial Intelligence This is an educational summary, not financial advice."
     },
     {
       "ticker": "MSFT",
@@ -543,7 +521,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 400.71
+          "close": 400.3
         }
       ],
       "sentiment": {
@@ -551,7 +529,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Microsoft This is an educational summary, not financial advice."
     },
     {
       "ticker": "GOOGL",
@@ -694,7 +672,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 305.52
+          "close": 305.61
         }
       ],
       "sentiment": {
@@ -702,7 +680,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Alphabet Inc. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMZN",
@@ -845,7 +823,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 206.175
+          "close": 205.9
         }
       ],
       "sentiment": {
@@ -853,7 +831,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Amazon This is an educational summary, not financial advice."
     },
     {
       "ticker": "META",
@@ -996,7 +974,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 655.2544
+          "close": 654.595
         }
       ],
       "sentiment": {
@@ -1004,7 +982,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+      "ai_explanation": "Meta Platforms This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
