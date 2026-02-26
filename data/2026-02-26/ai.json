@@ -3,57 +3,206 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "jellyfin-mcp 0.2.16",
-      "adeptiv-ai-observability added to PyPI",
-      "adeptiv-ai-observability 0.1.0",
-      "obra 2.21.23",
-      "worldbook 0.1.10"
+      "Highly condemnable, shameful: Priyanka slams arrest of IYC leaders",
+      "Samsung Receives 77 Accolades at iF Design Awards 2026",
+      "salmalm 0.24.0",
+      "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry",
+      "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation will be added later."
+      "Digest is rule-based for MVP; AI summarisation can be added later."
     ]
   },
   "clusters": [
     {
-      "title": "Agent",
-      "summary": "Grouped stories where \"agent\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://pypi.org/project/agentkit-sdk-python/0.5.4/",
-        "https://pypi.org/project/agent-bom/0.32.0/",
-        "https://pypi.org/project/antaris-forge/1.0.2/"
+        "https://economictimes.indiatimes.com/markets/stocks/news/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128773004.cms",
+        "https://economictimes.indiatimes.com/tech/information-tech/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128774419.cms",
+        "https://pypi.org/project/claude-self-improve/0.1.0/"
       ]
     },
     {
-      "title": "Safety",
-      "summary": "Grouped stories where \"safety\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://alltoc.com/world/why-is-the-us-threatening-anthropic"
+        "https://github.com/sopho-tech/sopho",
+        "https://economictimes.indiatimes.com/tech/funding/wyser-logs-first-close-of-rs-200-crore-fund/articleshow/128772828.cms"
       ]
     },
     {
-      "title": "Mcp",
-      "summary": "Grouped stories where \"mcp\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Powered",
+      "summary": "Grouped stories where \"powered\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://pypi.org/project/jellyfin-mcp/0.2.16/",
-        "https://pypi.org/project/arr-mcp/0.2.16/",
-        "https://pypi.org/project/arr-mcp/0.2.15/"
+        "https://pypi.org/project/lecture-forge/0.4.3/",
+        "https://pypi.org/project/doit-fm/2.1.1/",
+        "https://pypi.org/project/doit-fm/2.1.0/"
+      ]
+    },
+    {
+      "title": "India",
+      "summary": "Grouped stories where \"india\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/politics-and-nation/highly-condemnable-shameful-priyanka-slams-arrest-of-iyc-leaders/articleshow/128773044.cms"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://pypi.org/project/adeptiv-ai-observability/",
-        "https://pypi.org/project/adeptiv-ai-observability/0.1.0/",
-        "https://pypi.org/project/obra/2.21.23/"
+        "https://news.samsung.com/in/samsung-receives-77-accolades-at-if-design-awards-2026",
+        "https://pypi.org/project/salmalm/0.24.0/",
+        "https://pypi.org/project/watchclaw/0.1.1/"
       ]
     }
   ],
   "stocks": [
     {
       "ticker": "NVDA",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 187.24
+        },
+        {
+          "date": "2026-01-07",
+          "close": 189.11
+        },
+        {
+          "date": "2026-01-08",
+          "close": 185.04
+        },
+        {
+          "date": "2026-01-09",
+          "close": 184.86
+        },
+        {
+          "date": "2026-01-12",
+          "close": 184.94
+        },
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -62,7 +211,148 @@
     },
     {
       "ticker": "MSFT",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 478.51
+        },
+        {
+          "date": "2026-01-07",
+          "close": 483.47
+        },
+        {
+          "date": "2026-01-08",
+          "close": 478.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 479.28
+        },
+        {
+          "date": "2026-01-12",
+          "close": 477.18
+        },
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -71,7 +361,148 @@
     },
     {
       "ticker": "GOOGL",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 314.34
+        },
+        {
+          "date": "2026-01-07",
+          "close": 321.98
+        },
+        {
+          "date": "2026-01-08",
+          "close": 325.44
+        },
+        {
+          "date": "2026-01-09",
+          "close": 328.57
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.86
+        },
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -80,7 +511,148 @@
     },
     {
       "ticker": "AMZN",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 240.93
+        },
+        {
+          "date": "2026-01-07",
+          "close": 241.56
+        },
+        {
+          "date": "2026-01-08",
+          "close": 246.29
+        },
+        {
+          "date": "2026-01-09",
+          "close": 247.38
+        },
+        {
+          "date": "2026-01-12",
+          "close": 246.47
+        },
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -89,7 +661,148 @@
     },
     {
       "ticker": "META",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 660.62
+        },
+        {
+          "date": "2026-01-07",
+          "close": 648.69
+        },
+        {
+          "date": "2026-01-08",
+          "close": 646.06
+        },
+        {
+          "date": "2026-01-09",
+          "close": 653.06
+        },
+        {
+          "date": "2026-01-12",
+          "close": 641.97
+        },
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,

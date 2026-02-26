@@ -3,65 +3,208 @@
   "date": "2026-02-26",
   "digest": {
     "bullets": [
-      "Trump says US has received 80m barrels of Venezuelan oil; 3rd tanker seized",
-      "Yuhang Economic Development Zone: \"Qihang Road\" Connects to a New Industrial Future",
-      "EON Lifts Spending Plan by €5 Billion in Boost for Europe’s Grid",
-      "Riviera Tower: The tallest green residential skyscraper in the Mediterranean nears completion – 200 meters high and 170 apartments",
-      "Can raccoons fall in love?"
+      "How do birds stay warm in extreme cold?",
+      "Türkiye promotes rooftop solar at homes to expand sustainable energy use",
+      "Vikram Solar gets 378.75 MW solar module order from Indian Oil-NTPC Green Energy Private JV",
+      "Why do birds suddenly change direction?",
+      "UK Hits Russian Oil Fleet with Biggest Sanctions in Years"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
-      "Digest is rule-based for MVP; AI summarisation will be added later."
+      "Digest is rule-based for MVP; AI summarisation can be added later."
     ]
   },
   "clusters": [
     {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.freepressjournal.in/business/larsen-toubro-wins-major-epc-orders-for-power-transmission-projects-in-india-middle-east",
+        "https://punchng.com/10-best-online-pokies-in-australia-youll-want-to-play-in-2026/",
+        "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html"
+      ]
+    },
+    {
+      "title": "Guide",
+      "summary": "Grouped stories where \"guide\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.lifesciencesworld.com/how-do-birds-stay-warm-in-extreme-cold/",
+        "https://www.lifesciencesworld.com/can-catfish-eat-egg/",
+        "https://www.lifesciencesworld.com/what-do-you-feed-a-baby-ferret/"
+      ]
+    },
+    {
       "title": "Energy",
       "summary": "Grouped stories where \"energy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://financialpost.com/pmn/business-pmn/eon-lifts-spending-plan-by-e5-billion-in-boost-for-europes-grid",
-        "https://alltoc.com/science/why-did-solar-generation-surpass-hydro-in-the-us",
-        "https://www.naftemporiki.gr/english/2076848/the-transformation-of-the-aktor-group-and-the-lng-bet/"
+        "https://www.hurriyetdailynews.com/turkiye-promotes-rooftop-solar-at-homes-to-expand-sustainable-energy-use-219305",
+        "https://economictimes.indiatimes.com/industry/renewables/vikram-solar-gets-378-75-mw-solar-module-order-from-indian-oil-ntpc-green-energy-private-jv/articleshow/128772858.cms",
+        "https://www.digitimes.com/news/a20260225PD209/nvidia-cybersecurity-data-infrastructure.html"
       ]
     },
     {
-      "title": "Known",
-      "summary": "Grouped stories where \"known\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Oil",
+      "summary": "Grouped stories where \"oil\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.lifesciencesworld.com/can-raccoons-fall-in-love/",
-        "https://yle.fi/a/74-20212069"
-      ]
-    },
-    {
-      "title": "Trump",
-      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.aljazeera.com/news/2026/2/25/trump-says-us-has-received-80m-barrels-of-venezuelan-oil-3rd-tanker-seized",
-        "https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read"
-      ]
-    },
-    {
-      "title": "Development",
-      "summary": "Grouped stories where \"development\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.globenewswire.com/news-release/2026/02/25/3244252/0/en/Yuhang-Economic-Development-Zone-Qihang-Road-Connects-to-a-New-Industrial-Future.html",
-        "https://www.naftemporiki.gr/english/2076846/terna-ukrhydroenergo-cooperation-on-track-for-1-5-billion-euro-projects/"
+        "https://www.rigzone.com/news/wire/uk_hits_russian_oil_fleet_with_biggest_sanctions_in_years-25-feb-2026-183063-article/",
+        "https://sputnikglobe.com/20260225/us-state-department-urged-ukraine-to-cease-attacks-on-us-interests-1123685789.html"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.naftemporiki.gr/english/2076853/riviera-tower-the-tallest-green-residential-skyscraper-in-the-mediterranean-nears-completion-200-meters-high-and-170-apartments/",
-        "https://www.irishtimes.com/business/2026/02/25/denis-obriens-new-zealand-move-and-the-corporation-tax-riddle/",
-        "https://www.lifesciencesworld.com/why-is-a-bat-a-mammal-and-not-a-bird/"
+        "https://www.lifesciencesworld.com/why-do-birds-suddenly-change-direction/",
+        "https://www.cnbc.com/2026/02/25/rolls-royce-fy-earnings-due-for-aerospace-giant.html",
+        "https://www.lifesciencesworld.com/can-bears-have-quadruplets/"
       ]
     }
   ],
   "stocks": [
     {
       "ticker": "XOM",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 121.05
+        },
+        {
+          "date": "2026-01-07",
+          "close": 118.49
+        },
+        {
+          "date": "2026-01-08",
+          "close": 122.91
+        },
+        {
+          "date": "2026-01-09",
+          "close": 124.61
+        },
+        {
+          "date": "2026-01-12",
+          "close": 124.03
+        },
+        {
+          "date": "2026-01-13",
+          "close": 126.54
+        },
+        {
+          "date": "2026-01-14",
+          "close": 130.2
+        },
+        {
+          "date": "2026-01-15",
+          "close": 129.13
+        },
+        {
+          "date": "2026-01-16",
+          "close": 129.89
+        },
+        {
+          "date": "2026-01-20",
+          "close": 130.46
+        },
+        {
+          "date": "2026-01-21",
+          "close": 133.61
+        },
+        {
+          "date": "2026-01-22",
+          "close": 133.64
+        },
+        {
+          "date": "2026-01-23",
+          "close": 134.97
+        },
+        {
+          "date": "2026-01-26",
+          "close": 134.84
+        },
+        {
+          "date": "2026-01-27",
+          "close": 136.83
+        },
+        {
+          "date": "2026-01-28",
+          "close": 137.58
+        },
+        {
+          "date": "2026-01-29",
+          "close": 140.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 141.4
+        },
+        {
+          "date": "2026-02-02",
+          "close": 138.4
+        },
+        {
+          "date": "2026-02-03",
+          "close": 143.73
+        },
+        {
+          "date": "2026-02-04",
+          "close": 147.59
+        },
+        {
+          "date": "2026-02-05",
+          "close": 146.08
+        },
+        {
+          "date": "2026-02-06",
+          "close": 149.05
+        },
+        {
+          "date": "2026-02-09",
+          "close": 151.21
+        },
+        {
+          "date": "2026-02-10",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-11",
+          "close": 155.56
+        },
+        {
+          "date": "2026-02-12",
+          "close": 149.93
+        },
+        {
+          "date": "2026-02-13",
+          "close": 148.45
+        },
+        {
+          "date": "2026-02-17",
+          "close": 146.19
+        },
+        {
+          "date": "2026-02-18",
+          "close": 150.68
+        },
+        {
+          "date": "2026-02-19",
+          "close": 150.97
+        },
+        {
+          "date": "2026-02-20",
+          "close": 147.28
+        },
+        {
+          "date": "2026-02-23",
+          "close": 150.76
+        },
+        {
+          "date": "2026-02-24",
+          "close": 149.26
+        },
+        {
+          "date": "2026-02-25",
+          "close": 149.06
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -70,7 +213,148 @@
     },
     {
       "ticker": "CVX",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 156.54
+        },
+        {
+          "date": "2026-01-07",
+          "close": 155.2
+        },
+        {
+          "date": "2026-01-08",
+          "close": 159.25
+        },
+        {
+          "date": "2026-01-09",
+          "close": 162.11
+        },
+        {
+          "date": "2026-01-12",
+          "close": 162.34
+        },
+        {
+          "date": "2026-01-13",
+          "close": 163.87
+        },
+        {
+          "date": "2026-01-14",
+          "close": 167.24
+        },
+        {
+          "date": "2026-01-15",
+          "close": 166.16
+        },
+        {
+          "date": "2026-01-16",
+          "close": 166.26
+        },
+        {
+          "date": "2026-01-20",
+          "close": 165.3
+        },
+        {
+          "date": "2026-01-21",
+          "close": 166.73
+        },
+        {
+          "date": "2026-01-22",
+          "close": 166.66
+        },
+        {
+          "date": "2026-01-23",
+          "close": 166.72
+        },
+        {
+          "date": "2026-01-26",
+          "close": 167.5
+        },
+        {
+          "date": "2026-01-27",
+          "close": 169.05
+        },
+        {
+          "date": "2026-01-28",
+          "close": 169.93
+        },
+        {
+          "date": "2026-01-29",
+          "close": 171.19
+        },
+        {
+          "date": "2026-01-30",
+          "close": 176.9
+        },
+        {
+          "date": "2026-02-02",
+          "close": 174.03
+        },
+        {
+          "date": "2026-02-03",
+          "close": 178.04
+        },
+        {
+          "date": "2026-02-04",
+          "close": 181.23
+        },
+        {
+          "date": "2026-02-05",
+          "close": 179.23
+        },
+        {
+          "date": "2026-02-06",
+          "close": 180.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 182.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 182.26
+        },
+        {
+          "date": "2026-02-11",
+          "close": 185.82
+        },
+        {
+          "date": "2026-02-12",
+          "close": 182.4
+        },
+        {
+          "date": "2026-02-13",
+          "close": 183.74
+        },
+        {
+          "date": "2026-02-17",
+          "close": 180.55
+        },
+        {
+          "date": "2026-02-18",
+          "close": 183.87
+        },
+        {
+          "date": "2026-02-19",
+          "close": 184.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 183.93
+        },
+        {
+          "date": "2026-02-23",
+          "close": 184.91
+        },
+        {
+          "date": "2026-02-24",
+          "close": 185.34
+        },
+        {
+          "date": "2026-02-25",
+          "close": 184.22
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -79,7 +363,148 @@
     },
     {
       "ticker": "NEE",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 81.05
+        },
+        {
+          "date": "2026-01-07",
+          "close": 78.37
+        },
+        {
+          "date": "2026-01-08",
+          "close": 79.49
+        },
+        {
+          "date": "2026-01-09",
+          "close": 79.89
+        },
+        {
+          "date": "2026-01-12",
+          "close": 81.12
+        },
+        {
+          "date": "2026-01-13",
+          "close": 81.64
+        },
+        {
+          "date": "2026-01-14",
+          "close": 81.98
+        },
+        {
+          "date": "2026-01-15",
+          "close": 82.19
+        },
+        {
+          "date": "2026-01-16",
+          "close": 83.63
+        },
+        {
+          "date": "2026-01-20",
+          "close": 83.51
+        },
+        {
+          "date": "2026-01-21",
+          "close": 83.85
+        },
+        {
+          "date": "2026-01-22",
+          "close": 85.07
+        },
+        {
+          "date": "2026-01-23",
+          "close": 84.81
+        },
+        {
+          "date": "2026-01-26",
+          "close": 85.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 87.15
+        },
+        {
+          "date": "2026-01-28",
+          "close": 87.57
+        },
+        {
+          "date": "2026-01-29",
+          "close": 88.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 87.9
+        },
+        {
+          "date": "2026-02-02",
+          "close": 86.33
+        },
+        {
+          "date": "2026-02-03",
+          "close": 88.82
+        },
+        {
+          "date": "2026-02-04",
+          "close": 89.97
+        },
+        {
+          "date": "2026-02-05",
+          "close": 89.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 89.47
+        },
+        {
+          "date": "2026-02-09",
+          "close": 89.48
+        },
+        {
+          "date": "2026-02-10",
+          "close": 90.83
+        },
+        {
+          "date": "2026-02-11",
+          "close": 91.36
+        },
+        {
+          "date": "2026-02-12",
+          "close": 91.93
+        },
+        {
+          "date": "2026-02-13",
+          "close": 93.8
+        },
+        {
+          "date": "2026-02-17",
+          "close": 92.71
+        },
+        {
+          "date": "2026-02-18",
+          "close": 91.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 91.64
+        },
+        {
+          "date": "2026-02-20",
+          "close": 92.18
+        },
+        {
+          "date": "2026-02-23",
+          "close": 94.06
+        },
+        {
+          "date": "2026-02-24",
+          "close": 95.68
+        },
+        {
+          "date": "2026-02-25",
+          "close": 95.11
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -88,7 +513,148 @@
     },
     {
       "ticker": "SHEL",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 72.9
+        },
+        {
+          "date": "2026-01-07",
+          "close": 71.54
+        },
+        {
+          "date": "2026-01-08",
+          "close": 70.31
+        },
+        {
+          "date": "2026-01-09",
+          "close": 70.83
+        },
+        {
+          "date": "2026-01-12",
+          "close": 71.66
+        },
+        {
+          "date": "2026-01-13",
+          "close": 73.18
+        },
+        {
+          "date": "2026-01-14",
+          "close": 74.35
+        },
+        {
+          "date": "2026-01-15",
+          "close": 73.42
+        },
+        {
+          "date": "2026-01-16",
+          "close": 74.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 73.11
+        },
+        {
+          "date": "2026-01-21",
+          "close": 73.81
+        },
+        {
+          "date": "2026-01-22",
+          "close": 72.42
+        },
+        {
+          "date": "2026-01-23",
+          "close": 73.75
+        },
+        {
+          "date": "2026-01-26",
+          "close": 73.25
+        },
+        {
+          "date": "2026-01-27",
+          "close": 75.45
+        },
+        {
+          "date": "2026-01-28",
+          "close": 75.79
+        },
+        {
+          "date": "2026-01-29",
+          "close": 77.47
+        },
+        {
+          "date": "2026-01-30",
+          "close": 77.03
+        },
+        {
+          "date": "2026-02-02",
+          "close": 75.73
+        },
+        {
+          "date": "2026-02-03",
+          "close": 77.63
+        },
+        {
+          "date": "2026-02-04",
+          "close": 78.79
+        },
+        {
+          "date": "2026-02-05",
+          "close": 74.63
+        },
+        {
+          "date": "2026-02-06",
+          "close": 75.29
+        },
+        {
+          "date": "2026-02-09",
+          "close": 77.8
+        },
+        {
+          "date": "2026-02-10",
+          "close": 77.9
+        },
+        {
+          "date": "2026-02-11",
+          "close": 80.23
+        },
+        {
+          "date": "2026-02-12",
+          "close": 78.22
+        },
+        {
+          "date": "2026-02-13",
+          "close": 78.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 77.94
+        },
+        {
+          "date": "2026-02-18",
+          "close": 79.87
+        },
+        {
+          "date": "2026-02-19",
+          "close": 80.38
+        },
+        {
+          "date": "2026-02-20",
+          "close": 79.78
+        },
+        {
+          "date": "2026-02-23",
+          "close": 79.97
+        },
+        {
+          "date": "2026-02-24",
+          "close": 80.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 82.28
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
@@ -97,7 +663,148 @@
     },
     {
       "ticker": "BP",
-      "price_history": [],
+      "price_history": [
+        {
+          "date": "2026-01-06",
+          "close": 34.36
+        },
+        {
+          "date": "2026-01-07",
+          "close": 33.67
+        },
+        {
+          "date": "2026-01-08",
+          "close": 34.13
+        },
+        {
+          "date": "2026-01-09",
+          "close": 34.29
+        },
+        {
+          "date": "2026-01-12",
+          "close": 34.41
+        },
+        {
+          "date": "2026-01-13",
+          "close": 35.36
+        },
+        {
+          "date": "2026-01-14",
+          "close": 35.82
+        },
+        {
+          "date": "2026-01-15",
+          "close": 35.15
+        },
+        {
+          "date": "2026-01-16",
+          "close": 35.38
+        },
+        {
+          "date": "2026-01-20",
+          "close": 35.15
+        },
+        {
+          "date": "2026-01-21",
+          "close": 35.92
+        },
+        {
+          "date": "2026-01-22",
+          "close": 35.43
+        },
+        {
+          "date": "2026-01-23",
+          "close": 36.53
+        },
+        {
+          "date": "2026-01-26",
+          "close": 36.76
+        },
+        {
+          "date": "2026-01-27",
+          "close": 37.62
+        },
+        {
+          "date": "2026-01-28",
+          "close": 37.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 38.04
+        },
+        {
+          "date": "2026-01-30",
+          "close": 37.88
+        },
+        {
+          "date": "2026-02-02",
+          "close": 37.7
+        },
+        {
+          "date": "2026-02-03",
+          "close": 38.82
+        },
+        {
+          "date": "2026-02-04",
+          "close": 39.2
+        },
+        {
+          "date": "2026-02-05",
+          "close": 38.17
+        },
+        {
+          "date": "2026-02-06",
+          "close": 39.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 39.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 36.97
+        },
+        {
+          "date": "2026-02-11",
+          "close": 38.55
+        },
+        {
+          "date": "2026-02-12",
+          "close": 37.19
+        },
+        {
+          "date": "2026-02-13",
+          "close": 37.66
+        },
+        {
+          "date": "2026-02-17",
+          "close": 37.56
+        },
+        {
+          "date": "2026-02-18",
+          "close": 38.53
+        },
+        {
+          "date": "2026-02-19",
+          "close": 39.01
+        },
+        {
+          "date": "2026-02-20",
+          "close": 38.18
+        },
+        {
+          "date": "2026-02-23",
+          "close": 38.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 38.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 38.09
+        }
+      ],
       "sentiment": {
         "category": "Neutral",
         "score": 0,
