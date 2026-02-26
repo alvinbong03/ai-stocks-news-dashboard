@@ -2,9 +2,13 @@
   "name": "ai-stocks-news-dashboard",
   "private": true,
   "scripts": {
+    "generate:data": "node scripts/generate-data.mjs",
     "sync:data": "node scripts/sync-data-to-site.mjs",
     "dev": "npm run sync:data && npm --prefix site run dev",
     "build": "npm run sync:data && npm --prefix site run build",
     "preview": "npm --prefix site run preview"
+  },
+  "devDependencies": {
+    "dotenv": "^17.3.1"
   }
 }

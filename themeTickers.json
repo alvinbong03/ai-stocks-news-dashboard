@@ -1,0 +1,6 @@
+{
+  "ai": ["NVDA", "MSFT", "GOOGL", "AMZN", "META"],
+  "semiconductors": ["TSM", "AMD", "ASML", "INTC", "QCOM"],
+  "energy": ["XOM", "CVX", "NEE", "SHEL", "BP"],
+  "us-politics": ["SPY", "QQQ", "XLF", "XLE", "XLK"]
+}
