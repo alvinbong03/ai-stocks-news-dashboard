@@ -34,9 +34,20 @@ function normalizeSentimentDirection(value: unknown): SentimentDirection {
     : "Neutral";
 }
 
-function sentimentBadgeClass(_direction: SentimentDirection) {
-  // Minimal styling, low-risk. Can enhance later.
-  return "border border-[var(--border)] text-[var(--foreground)]";
+function sentimentBadgeClass(direction: SentimentDirection) {
+  if (direction === "Positive") {
+    return "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300";
+  }
+  if (direction === "Negative") {
+    return "border border-red-500/40 bg-red-500/10 text-red-300";
+  }
+  return "border border-[var(--border)] bg-transparent text-[var(--muted-foreground)]";
+}
+
+function sentimentPriceClass(direction: SentimentDirection) {
+  if (direction === "Positive") return "text-emerald-300";
+  if (direction === "Negative") return "text-red-300";
+  return "text-[var(--foreground)]";
 }
 
 export default function ThemeDashboard() {
@@ -204,10 +215,10 @@ export default function ThemeDashboard() {
 
                       <div className="text-right">
                         <p className="text-sm text-[var(--muted-foreground)]">Latest close</p>
-                        <p className="text-lg font-semibold">
-                          {latestClose !== null ? latestClose.toFixed(2) : "—"}
+                        <p className={`text-lg font-semibold ${sentimentPriceClass(direction)}`}>
+                            {latestClose !== null ? latestClose.toFixed(2) : "—"}
                         </p>
-                        <p className="text-xs text-[var(--muted-foreground)]">
+                        <p className={`text-xs ${sentimentPriceClass(direction)}`}>
                           {delta !== null && deltaPct !== null
                             ? `${delta >= 0 ? "+" : ""}${delta.toFixed(2)} (${deltaPct >= 0 ? "+" : ""}${deltaPct.toFixed(2)}%)`
                             : ""}
