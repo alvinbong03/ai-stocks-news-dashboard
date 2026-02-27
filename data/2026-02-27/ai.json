@@ -1,0 +1,953 @@
+{
+  "theme": "ai",
+  "date": "2026-02-27",
+  "last_updated_utc": "2026-02-27T06:46:27.303Z",
+  "news": [
+    {
+      "title": "GPT-5.2＆Claude Sonnet 4＆Gemini 3 Flashは戦争ゲームをプレイすると一切降伏せず95％のケースで核兵器を使用",
+      "description": "主要なAIモデルに戦争ゲーム形式をプレイさせるとどのような戦略を採用するかというシミュレーション実験をイギリスの研究チームが実施しました。結果として、OpenAI、Google、AnthropicのAIモデルが核攻撃を選択する割合は95％に達したことが報告されています。Shall we play a game? | Feature from King's College Londonhttps://www.kcl.ac.uk/shall-we-play-a-game[2602.14740v1] AI Arms a…",
+      "url": "https://news.livedoor.com/article/detail/30656174",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-02-26T04:15:00Z"
+    },
+    {
+      "title": "Nvidia defies AI bubble fears with stellar earnings, fueling market optimism",
+      "description": "Nvidia retains 94% GPU market share, reporting a 56% revenue increase driven by AI demand, with analysts forecasting 30-50% earnings growth. Hyperscalers (Google, Amazon, Meta, Microsoft) fuel $700B in AI investments, propelling Nvidia’s data center revenue t…",
+      "url": "https://www.naturalnews.com/2026-02-26-nvidia-defies-ai-bubble-fears-stellar-earnings.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-02-26T06:00:00Z"
+    },
+    {
+      "title": "New method could increase LLM training efficiency",
+      "description": "A new technique leverages computing downtime to accelerate the training process for reasoning large language models (LLMs) without any additional computational overhead.",
+      "url": "https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
+      "source": "Mit.edu",
+      "publishedAt": "2026-02-26T05:00:00Z"
+    },
+    {
+      "title": "Nvidia constrained in China as local AI players strengthen market position",
+      "description": "Nvidia's ability to sell high-performance AI chips in China has been sharply limited by US export licensing rules, which have restricted shipments of its H20 and H200 products. The controls have already forced Nvidia to take a US$4.5 billion inventory charge …",
+      "url": "https://www.digitimes.com/news/a20260226VL212/nvidia-chips-china-market-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T05:56:32Z"
+    },
+    {
+      "title": "Chinese law enforcement tried to use ChatGPT to plan influence op against Japan PM: OpenAI",
+      "description": "The AI firm says a Chinese official’s activity on the chatbot pointed to wider “cyber special operations” to intimidate both domestic and foreign critics.",
+      "url": "https://www.channelnewsasia.com/world/china-chatgpt-japan-openai-sanae-takaichi-influence-operation-5954356",
+      "source": "CNA",
+      "publishedAt": "2026-02-26T05:50:53Z"
+    },
+    {
+      "title": "Exclusive: Startup aiming to break Nvidia’s strangehold on AI data center workloads raises $10.25 million",
+      "description": "Callosum, founded by two Cambridge-trained neuroscientists and inspired in part by the brain, has a system for optimizing workloads across different types of chips",
+      "url": "https://fortune.com/2026/02/26/startup-callosum-cambridge-trained-neuroscientists-raises-10-million-venture-funding-orchestrate-ai-workloads-different-chips",
+      "source": "Fortune",
+      "publishedAt": "2026-02-26T05:01:00Z"
+    },
+    {
+      "title": "OpenAI hires ex-Apple models head from Meta: Reports",
+      "description": "The employee also oversaw artificial intelligence infrastructure for Meta's Superintelligence Labs, ‌which is developing the company's next generation of AI model",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-hires-ex-apple-models-head-from-meta-reports-10552908",
+      "source": "The Indian Express",
+      "publishedAt": "2026-02-26T03:51:27Z"
+    },
+    {
+      "title": "Infosys, TCS, other IT stocks to remain in focus after tech rally following strong Nvidia earnings",
+      "description": "Indian IT stocks are poised for focus following Nvidia's robust quarterly earnings, which spurred a Wall Street rally. This positive sentiment emerges amidst recent volatility in the IT sector, triggered by AI startup Anthropic's new tools. Analysts suggest t…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-other-it-stocks-to-remain-in-focus-after-tech-rally-following-strong-nvidia-earnings/articleshow/128801158.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T03:34:34Z"
+    },
+    {
+      "title": "Nvidia Posts Record Q4 as Jensen Declares ‘Compute Equals Revenues’ in AI Era",
+      "description": "Nvidia reported $68 billion in fourth-quarter revenue, up 73% from a year earlier, as demand for accelerated computing continued to expand across cloud providers, model builders, enterprises and sovereign customers. Data center revenue rose 75% to $62 billion…",
+      "url": "https://www.pymnts.com/earnings/2026/nvidia-posts-record-q4-as-jensen-declares-compute-equals-revenues-in-ai-era",
+      "source": "pymnts.com",
+      "publishedAt": "2026-02-26T03:16:29Z"
+    },
+    {
+      "title": "Check Point researchers flag critical flaws in Anthropic’s Claude Code",
+      "description": "Cybersecurity solutions company Check Point has found critical flaws in Anthropic’s Claude Code. They cautioned that attackers could steal API keys and run malicious code by simply opening an untrusted project, exposing shared enterprise data.",
+      "url": "https://www.thehindubusinessline.com/info-tech/check-point-researchers-flag-critical-flaws-in-anthropics-claude-code/article70678472.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T06:29:02Z"
+    },
+    {
+      "title": "Show HN: Sleeping LLM – A language model that remembers by sleeping",
+      "description": "I built a system that gives LLMs persistent memory from conversations — not through RAG or databases, but by editing the model's actual weights. The knowledge lives in the parameters. The context window is empty.During wake, facts from conversation are inject…",
+      "url": "https://github.com/vbario/sleeping-llm",
+      "source": "Github.com",
+      "publishedAt": "2026-02-26T06:09:07Z"
+    },
+    {
+      "title": "US Data Center Construction Fell Amid Permit and Power Delays - Bloomberg",
+      "description": "US Data Center Construction Fell Amid Permit and Power DelaysBloomberg Opinion | AI is coming. Is there enough power to run it?The Washington Post US AI boom faces electric shockReuters Is America’s data center boom slowing down?Baton Rouge Business Report Lo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T05:52:31Z"
+    },
+    {
+      "title": "Asian shares mostly rise after Nvidia earnings beat expectations",
+      "description": "Asian stock markets have mostly advanced following stronger-than-expected earnings from chipmaker Nvidia, which helped ease some investor fears over the boom in artificial intelligence",
+      "url": "https://abcnews.com/Business/wireStory/asian-shares-rise-after-nvidia-earnings-beat-expectations-130517298",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-02-26T05:33:30Z"
+    },
+    {
+      "title": "DeepSeek hides upcoming flagship AI model from US chipmakers like Nvidia, shows preview to Chinese Huawei: Report",
+      "description": "For its forthcoming model, which was expected to be released around the Lunar New Year holiday, DeepSeek did not provide access to Nvidia and AMD and gave Chinese chipmakers, including Huawei, a head start of several weeks to optimize the software for their p…",
+      "url": "https://www.livemint.com/companies/news/deepseek-hides-upcoming-flagship-ai-model-from-us-chipmakers-like-nvidia-shows-preview-to-chinese-huawei-report-11772082672048.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-26T05:17:58Z"
+    },
+    {
+      "title": "Show HN: AI-assert – Constraint verification for LLM outputs (278 lines, Python)",
+      "description": "I built a tiny library that verifies LLM outputs against constraints and retries on failure.The core insight: LLMs don't reliably follow instructions, but you can catch failures cheaply and retry with targeted feedback. This is essentially a lightweight \"proc…",
+      "url": "https://github.com/kaantahti/ai-assert",
+      "source": "Github.com",
+      "publishedAt": "2026-02-26T04:53:34Z"
+    },
+    {
+      "title": "US artificial intelligence developers accuse Chinese firms of stealing their data",
+      "description": "Artificial intelligence developers are accusing Chinese firms of stealing their intellectual property following a spate of ‘distillation attacks’, despite their own alleged theft of training data",
+      "url": "https://www.computerweekly.com/news/366639367/US-artificial-intelligence-developers-accuse-Chinese-firms-of-stealing-their-data",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-02-26T04:45:00Z"
+    },
+    {
+      "title": "How to Use Claude AI for Free in 2026",
+      "description": "How to use Claude AI for free in 2026 — what you actually get, the real usage limits explained in plain English, 7 smart tips to stretch your free quota, and exactly when it's worth upgrading.",
+      "url": "https://www.smashingapps.com/how-to-use-claude-ai-for-free-in-2026",
+      "source": "Smashingapps.com",
+      "publishedAt": "2026-02-26T04:42:20Z"
+    },
+    {
+      "title": "Amazon's potential US$50 billion OpenAI investment highlights escalating AI arms race and financial pressure",
+      "description": "OpenAI is reportedly negotiating one of the largest private financing rounds in tech history, with Amazon considering a US$50 billion investment. The potential deal underscores the escalating AI compute arms race and OpenAI's need to diversify beyond Microsof…",
+      "url": "https://www.digitimes.com/news/a20260226VL213/openai-amazon-investment-financing-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T04:37:37Z"
+    },
+    {
+      "title": "DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
+      "description": "Instead, the lab, which is expected to launch its next major\nupdate, V4, granted early access to domestic suppliers,\nincluding Huawei Technologies",
+      "url": "https://www.thehindubusinessline.com/info-tech/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-sources-say/article70678223.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T04:10:38Z"
+    },
+    {
+      "title": "Moody’s flags $662 billion risk at the heart of the data center build-out by just 5 companies - Fortune",
+      "description": "Moody’s flags $662 billion risk at the heart of the data center build-out by just 5 companiesFortune Moody’s alert cites gap in data centre accounting for Big Tech companiesFinancial Times Moody’s: Hyperscalers understating risks of short-term AI DC lease agr…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861592",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T03:53:00Z"
+    },
+    {
+      "title": "DeepSeek shuts out Nvidia, AMD in V4 move tied to US chip tensions",
+      "description": "DeepSeek, the Chinese AI lab that unsettled global markets with its low-cost models last year, has withheld early access to its upcoming V4 flagship from US chipmakers, breaking with long-standing industry practice, according to two sources familiar with the …",
+      "url": "https://www.digitimes.com/news/a20260226VL210/deepseek-nvidia-amd-hardware-huawei.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T03:22:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI arms races continue",
+      "Tech stocks gain momentum",
+      "Chinese AI startups thrive"
+    ],
+    "insights": [
+      "Nvidia's dominance wanes due to competition",
+      "AI arms race intensifies",
+      "Market optimism fuels AI investments"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI Arms Races Continue",
+      "summary": "As AI arms races intensify, tech stocks such as Nvidia face challenges from competitors like Meta and Google.",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-02-26-nvidia-defies-ai-bubble-fears-stellar-earnings.html",
+        "https://www.digitimes.com/news/a20260226VL212/nvidia-chips-china-market-2026.html"
+      ]
+    },
+    {
+      "title": "Market Optimism Fuels AI Investments",
+      "summary": "Hyperscalers like Google, Amazon, Meta, and Microsoft drive significant AI investments, boosting Nvidia's data center revenue significantly.",
+      "article_urls": [
+        "https://www.kcl.ac.uk/shall-we-play-a-game[2602.14740v1] AI Arms a…"
+      ]
+    },
+    {
+      "title": "Chinese AI Startups Thrive",
+      "summary": "Chinese AI startups are thriving, especially those working closely with domestic suppliers like Huawei Technologies.",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-sources-say/article70678223.ece"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 189.11
+        },
+        {
+          "date": "2026-01-08",
+          "close": 185.04
+        },
+        {
+          "date": "2026-01-09",
+          "close": 184.86
+        },
+        {
+          "date": "2026-01-12",
+          "close": 184.94
+        },
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA continues to dominate the GPU market, but its dominance may be threatened by competitors like Meta and Google. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 483.47
+        },
+        {
+          "date": "2026-01-08",
+          "close": 478.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 479.28
+        },
+        {
+          "date": "2026-01-12",
+          "close": 477.18
+        },
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft remains a key player in the AI ecosystem, driving significant AI investments and contributing to Nvidia's revenue growth. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 321.98
+        },
+        {
+          "date": "2026-01-08",
+          "close": 325.44
+        },
+        {
+          "date": "2026-01-09",
+          "close": 328.57
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.86
+        },
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Alphabet Inc., parent company of Google, drives substantial AI investments and contributes to Nvidia's revenue growth. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 241.56
+        },
+        {
+          "date": "2026-01-08",
+          "close": 246.29
+        },
+        {
+          "date": "2026-01-09",
+          "close": 247.38
+        },
+        {
+          "date": "2026-01-12",
+          "close": 246.47
+        },
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon plays a crucial role in the AI landscape, particularly in cloud services and AI research. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 648.69
+        },
+        {
+          "date": "2026-01-08",
+          "close": 646.06
+        },
+        {
+          "date": "2026-01-09",
+          "close": 653.06
+        },
+        {
+          "date": "2026-01-12",
+          "close": 641.97
+        },
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms drives significant AI investments and contributes to Nvidia's revenue growth. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

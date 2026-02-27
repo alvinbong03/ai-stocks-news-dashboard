@@ -1,0 +1,1089 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-02-27",
+  "last_updated_utc": "2026-02-27T06:46:57.362Z",
+  "news": [
+    {
+      "title": "Show HN: Context Harness – Local first context engine for AI tools",
+      "description": "Context Harness is a single Rust binary that gives AI tools like Cursor and Claude project-specific memory. It ingests docs, code, Jira tickets, Slack threads, and anything else into a local SQLite database, indexes them with FTS5 and optional vector embeddin…",
+      "url": "https://github.com/parallax-labs/context-harness",
+      "source": "Github.com",
+      "publishedAt": "2026-02-26T06:26:01Z"
+    },
+    {
+      "title": "Lexlegis.ai launches local On-Desk AI legal intelligence system",
+      "description": "Lexlegis On-Desk uses an NVIDIA Grace Blackwell–class AI supercomputer directly on the user’s desk to deliver high-performance legal AI without reliance on cloud infrastructure or internet connectivity",
+      "url": "https://www.thehindubusinessline.com/info-tech/lexlegisai-launches-local-on-desk-ai-legal-intelligence-system/article70678416.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T06:08:12Z"
+    },
+    {
+      "title": "iPad Pro 13-inch, 2TB Wi-Fi (M4 chip) with Nano-Texture Glass, Built For Apple Intelligence $1299",
+      "description": "Cheaper than other retailers. \n \nhttps://www.costco.com/p/-/ipad-p...?langId=-1",
+      "url": "https://slickdeals.net/f/19250338-ipad-pro-13-inch-2tb-wi-fi-m4-chip-with-nano-texture-glass-built-for-apple-intelligence-1299",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-26T06:05:36Z"
+    },
+    {
+      "title": "Future Forward Retail | How Lowe’s India is reimagining retail at scale",
+      "description": "In this episode of Future Forward Retail’s Tech Leadership Playbook, we spotlight how Lowe’s is using AI, data, and design thinking to transform home improvement retail. Featuring Amit Kapur, Vice President – Applied AI, Data and Analytics, and Reena Sofiya, …",
+      "url": "https://timesofindia.indiatimes.com/videos/spotlight/future-forward-retail-how-lowes-india-is-reimagining-retail-at-scale/videoshow/128803782.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T06:05:05Z"
+    },
+    {
+      "title": "Ireland signs agreement with France for joint military training and intel sharing",
+      "description": "Up to €2 billion of military equipment to be purchased from France in coming years",
+      "url": "https://www.irishtimes.com/ireland/2026/02/26/ireland-signs-agreement-with-france-for-joint-military-training-and-intel-sharing",
+      "source": "The Irish Times",
+      "publishedAt": "2026-02-26T06:00:00Z"
+    },
+    {
+      "title": "Nvidia defies AI bubble fears with stellar earnings, fueling market optimism",
+      "description": "Nvidia retains 94% GPU market share, reporting a 56% revenue increase driven by AI demand, with analysts forecasting 30-50% earnings growth. Hyperscalers (Google, Amazon, Meta, Microsoft) fuel $700B in AI investments, propelling Nvidia’s data center revenue t…",
+      "url": "https://www.naturalnews.com/2026-02-26-nvidia-defies-ai-bubble-fears-stellar-earnings.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-02-26T06:00:00Z"
+    },
+    {
+      "title": "Goji berries show promise in preventing age-related vision loss, study finds",
+      "description": "AMD is a leading cause of vision loss, affecting over 170 million people globally, typically starting in adults aged 50 to 60 and damaging central vision. Goji berries boost protective eye pigments – A UC Davis study found that consuming 28g of dried goji ber…",
+      "url": "https://www.naturalnews.com/2026-02-26-goji-berries-preventing-age-related-vision-loss.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-02-26T06:00:00Z"
+    },
+    {
+      "title": "Nvidia constrained in China as local AI players strengthen market position",
+      "description": "Nvidia's ability to sell high-performance AI chips in China has been sharply limited by US export licensing rules, which have restricted shipments of its H20 and H200 products. The controls have already forced Nvidia to take a US$4.5 billion inventory charge …",
+      "url": "https://www.digitimes.com/news/a20260226VL212/nvidia-chips-china-market-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T05:56:32Z"
+    },
+    {
+      "title": "AMD puts $250 million into Nutanix to get it building an AI stack for its GPUs",
+      "description": "The VMware refugees have started to arrive, but so have supply chain woes\nAMD has struck another chips’n’stock deal, this time with software-defined datacenter player Nutanix.…",
+      "url": "https://www.theregister.com/2026/02/26/nutanix_q2_2026",
+      "source": "Theregister.com",
+      "publishedAt": "2026-02-26T05:55:54Z"
+    },
+    {
+      "title": "Show HN: CVJ-1 VJ Deck / VISUALZ audio-reactive VJ software",
+      "description": "Hey HN —I’ve been building real-time audio-reactive graphics software for the past 7 years. It started as a side project while working full-time as a software engineer, and slowly evolved into VISUALZ — a GPU-accelerated VJ engine focused on low-latency audio…",
+      "url": "https://www.visualzstudio.com/vj-deck",
+      "source": "Visualzstudio.com",
+      "publishedAt": "2026-02-26T05:38:56Z"
+    },
+    {
+      "title": "Asian shares mostly rise after Nvidia earnings beat expectations",
+      "description": "Asian stock markets have mostly advanced following stronger-than-expected earnings from chipmaker Nvidia, which helped ease some investor fears over the boom in artificial intelligence",
+      "url": "https://abcnews.com/Business/wireStory/asian-shares-rise-after-nvidia-earnings-beat-expectations-130517298",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-02-26T05:33:30Z"
+    },
+    {
+      "title": "AMD \"Gorgon Point\" Desktop APUs Tipped for Early 2026 Launch",
+      "description": "AMD announced its Ryzen AI 400 series \"Gorgon Point\" mobile APUs based on Zen 5 and Zen 5c cores at CES 2026 earlier this year, simultaneously showing off the AM5-based Ryzen AI 400-branded desktop APUs at the same show. Now, according to a new leak by Moore'…",
+      "url": "https://www.techpowerup.com/346779/amd-gorgon-point-desktop-apus-tipped-for-early-2026-launch",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-02-26T05:25:08Z"
+    },
+    {
+      "title": "DeepSeek hides upcoming flagship AI model from US chipmakers like Nvidia, shows preview to Chinese Huawei: Report",
+      "description": "For its forthcoming model, which was expected to be released around the Lunar New Year holiday, DeepSeek did not provide access to Nvidia and AMD and gave Chinese chipmakers, including Huawei, a head start of several weeks to optimize the software for their p…",
+      "url": "https://www.livemint.com/companies/news/deepseek-hides-upcoming-flagship-ai-model-from-us-chipmakers-like-nvidia-shows-preview-to-chinese-huawei-report-11772082672048.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-26T05:17:58Z"
+    },
+    {
+      "title": "Balancing act: Top general tries to avoid conflict with Trump while preparing for possible war with Iran - CNN",
+      "description": "Balancing act: Top general tries to avoid conflict with Trump while preparing for possible war with IranCNN For Trump, Military Strike in Iran Could Serve Symbolic PurposeThe New York Times Over 150 U.S. aircraft sweep into Europe, Middle East as Trump mulls …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861810",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T05:12:57Z"
+    },
+    {
+      "title": "Bank of America resets AMD stock price target on deal with Meta - thestreet.com",
+      "description": "Bank of America resets AMD stock price target on deal with Metathestreet.com Meta and AMD Agree to AI Chips Deal Worth More Than $100 BillionWSJ Racing to Catch Up With Nvidia, AMD Signs Chips-for-Stock Deal With Meta - The New York TimesThe New York Times Th…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861802",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T05:12:26Z"
+    },
+    {
+      "title": "Sensex, Nifty open higher on Nvidia boost; IT leads gains, power stocks drag",
+      "description": "The positive opening follows Nvidia reporting fourth-quarter revenue of $68.13 billion, beating analyst forecasts, and guiding for $78 billion in the current quarter against expectations of $72.6 billion",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-open-higher-on-nvidia-boost-it-leads-gains-power-stocks-drag/article70678356.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T05:09:47Z"
+    },
+    {
+      "title": "Sovereign silicon, patient capital key to India’s AI ambition",
+      "description": "India's AI ambitions hinge on controlling its compute stack, not just chatbots, industry leaders emphasized. Experts at the IESA Vision Summit highlighted the critical need for sovereign silicon and long-term investment to build world-class AI infrastructure.…",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/sovereign-silicon-patient-capital-key-to-indias-ai-ambition/articleshow/128802813.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T05:08:44Z"
+    },
+    {
+      "title": "Nvidia Shield TV is getting a new update following promise of continued support",
+      "description": "Nvidia revealed recently that the company has no plans to end support for the Shield TV and, as if to put a cherry on top, a new update is now rolling out.\n\n\n\n more…",
+      "url": "http://9to5google.com/2026/02/25/nvidia-shield-tv-is-getting-a-new-update-following-promise-of-continued-support",
+      "source": "9to5google.com",
+      "publishedAt": "2026-02-26T05:05:00Z"
+    },
+    {
+      "title": "Semiconductor design GCC hiring slumps in 2025, Q4 sees uptick: Report",
+      "description": "Tech News News: Bengaluru: India’s semiconductor design global capability centres (GCCs) saw a prolonged hiring slowdown through mid-year, followed by a cautious reco.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/semiconductor-design-gcc-hiring-slumps-in-2025-q4-sees-uptick-report/articleshow/128802674.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T05:01:46Z"
+    },
+    {
+      "title": "Exclusive: Startup aiming to break Nvidia’s strangehold on AI data center workloads raises $10.25 million",
+      "description": "Callosum, founded by two Cambridge-trained neuroscientists and inspired in part by the brain, has a system for optimizing workloads across different types of chips",
+      "url": "https://fortune.com/2026/02/26/startup-callosum-cambridge-trained-neuroscientists-raises-10-million-venture-funding-orchestrate-ai-workloads-different-chips",
+      "source": "Fortune",
+      "publishedAt": "2026-02-26T05:01:00Z"
+    },
+    {
+      "title": "Analysis:Nvidia's CEO prepares investors for a renewed battle with Intel, AMD",
+      "description": "SAN FRANCISCO, Feb 25 : Nvidia may have made its immense fortune on the back of specialized graphics processing units (GPUs) used to power artificial intelligence servers, but CEO Jensen Huang is increasingly professing his love for the more generalist CPU.Th…",
+      "url": "https://www.channelnewsasia.com/business/analysisnvidias-ceo-prepares-investors-renewed-battle-intel-amd-5954381",
+      "source": "CNA",
+      "publishedAt": "2026-02-26T04:47:59Z"
+    },
+    {
+      "title": "Rare earth shortages worsen in US aerospace, chips despite trade truce",
+      "description": "Suppliers to U.S. aerospace and semiconductor firms face worsening rare earth shortages, with two turning away some clients, industry insiders said, weeks before U.S. ‌President Donald Trump is expected to meet his Chinese counterpart Xi Jinping for a summit …",
+      "url": "https://www.thehindubusinessline.com/news/world/rare-earth-shortages-worsen-in-us-aerospace-chips-despite-trade-truce/article70678270.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T04:44:45Z"
+    },
+    {
+      "title": "Truce or not, rare earth crisis roils US industry",
+      "description": "Suppliers to US aerospace and semiconductor companies are facing critical shortages of rare earth elements like yttrium and scandium. This is impacting production for defence technology, aerospace, and semiconductors. China's export controls are a key factor.…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/rare-earth-shortage-us-truce-or-not-crisis-roils-united-states-industries/articleshow/128802202.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T04:44:04Z"
+    },
+    {
+      "title": "Nvidia's CEO says agentic AI is driving chip demand - MarketWatch",
+      "description": "Nvidia's CEO says agentic AI is driving chip demandMarketWatch Nvidia’s Jensen Huang says markets ‘got it wrong’ on AI threat to software companiesCNBC ‘Compute Equals Revenues’: Nvidia Needs Jensen Huang’s New Catchphrase to Be TrueGizmodo Nvidia's Jensen Hu…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861680",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T04:33:17Z"
+    },
+    {
+      "title": "Nvidia and other tech stocks lead Wall Street higher - AP News",
+      "description": "Nvidia and other tech stocks lead Wall Street higherAP News Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loomYahoo Finance Futures Rise After Trump Speech; All Eyes Turn To NvidiaInvestor's Business Daily Trading Day: Another…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180861678",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-26T04:33:06Z"
+    },
+    {
+      "title": "Smaller, faster, smarter: Chinese transistor ready for future AI chips",
+      "description": "Breakthrough said to overcome long-standing limitations of traditional ferroelectric transistors, 'paving way for large-scale application'. Read full story",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/smaller-faster-smarter-chinese-transistor-ready-for-future-ai-chips",
+      "source": "The Star Online",
+      "publishedAt": "2026-02-26T04:30:00Z"
+    },
+    {
+      "title": "US rushing to reshore semiconductor production",
+      "description": "The US is quietly rebuilding its domestic semiconductor industry by reducing dependence on Taiwan, which produces roughly 90% of the world's most advanced computer chips. Experts warn that any disruption to Taiwan's chip supply, whether from geopolitical tens…",
+      "url": "https://www.digitimes.com/news/a20260226VL209/usa-semiconductor-industry-chips-production-relocation.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T04:23:12Z"
+    },
+    {
+      "title": "Space is the AI Endgame for AI Scaling",
+      "description": "NVIDIA CEO Jensen revealed that not only does Space AI solve the AI energy scaling problem and the compute scaling problem, it also solves the data scaling problem. AI scaling is the core principle driving modern AI progress: bigger is reliably better. When y…",
+      "url": "https://www.nextbigfuture.com/2026/02/space-is-the-ai-endgame-for-ai-scaling.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-02-26T04:21:54Z"
+    },
+    {
+      "title": "The Chain How the World Works S01 720p AMZN WEB-DL H264-BTN",
+      "description": "This series reveals the hidden engine of our modern world – the global supply chain. From everyday essentials to extraordinary events, it uncovers the pivotal items and unseen systems that make life as we know it possible. The Chain is the story of how the wo…",
+      "url": "https://post.rlsbb.to/the-chain-how-the-world-works-s01-720p-amzn-web-dl-h264-btn",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-26T04:11:48Z"
+    },
+    {
+      "title": "DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
+      "description": "Instead, the lab, which is expected to launch its next major\nupdate, V4, granted early access to domestic suppliers,\nincluding Huawei Technologies",
+      "url": "https://www.thehindubusinessline.com/info-tech/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-sources-say/article70678223.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-26T04:10:38Z"
+    },
+    {
+      "title": "The looming Taiwan chip disaster that Silicon Valley has long ignored",
+      "description": "In secret briefings held in Washington and Silicon Valley, national security officials warned executives from companies like Apple, Advanced Micro Devices and Qualcomm that China was making plans to retake Taiwan, which Beijing has long considered a breakaway…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/the-looming-taiwan-chip-disaster-that-silicon-valley-has-long-ignored/articleshow/128800403.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T03:35:08Z"
+    },
+    {
+      "title": "Infosys, TCS, other IT stocks to remain in focus after tech rally following strong Nvidia earnings",
+      "description": "Indian IT stocks are poised for focus following Nvidia's robust quarterly earnings, which spurred a Wall Street rally. This positive sentiment emerges amidst recent volatility in the IT sector, triggered by AI startup Anthropic's new tools. Analysts suggest t…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-other-it-stocks-to-remain-in-focus-after-tech-rally-following-strong-nvidia-earnings/articleshow/128801158.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T03:34:34Z"
+    },
+    {
+      "title": "Trump said Iran will 'soon' have missiles able to hit the U.S. A 2025 intel report said it will take 10 years.",
+      "description": "President Trump said Iran is working to build missiles that could \"soon\" strike America. U.S. intelligence reports have offered a more cautious view.",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-said-iran-will-soon-missiles-able-hit-us-2025-intel-report-said-rcna260702",
+      "source": "NBC News",
+      "publishedAt": "2026-02-26T03:33:49Z"
+    },
+    {
+      "title": "Rising memory chip costs may prompt Chinese smartphone makers to lift prices in March",
+      "description": "Soaring memory and storage chip prices are likely to push major Chinese smartphone brands to raise handset prices in early March, according to supply chain sources. After bottoming out in the second half of 2024, prices for mobile memory and storage chips hav…",
+      "url": "http://technode.com/2026/02/26/rising-memory-chip-costs-may-prompt-chinese-smartphone-makers-to-lift-prices-in-march",
+      "source": "TechNode",
+      "publishedAt": "2026-02-26T03:32:40Z"
+    },
+    {
+      "title": "TSMC crosses US$2 trillion mark, undeterred by geopolitical and AI risks",
+      "description": "On February 24, 2026, Taiwan Semiconductor Manufacturing Company (TSMC) crossed the US$2 trillion market capitalization mark, becoming the eighth company in US stock market history to reach the milestone and the first from Taiwan. The achievement places TSMC …",
+      "url": "https://www.digitimes.com/news/a20260225PD231/market-tsmc-taiwan-technology-market-capitalization.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T03:29:18Z"
+    },
+    {
+      "title": "Nvidia’s solid Q4, upbeat guidance, quashes fears of AI slowdown but China overhang remains",
+      "description": "Nvidia posted a strong fourth quarter, with data centre revenue surging 75% and guidance beating Street estimates, easing concerns of an AI spending slowdown. However, China-related restrictions remain a key overhang, even as the company secures licences for …",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nvidias-solid-q4-upbeat-guidance-quashes-fears-of-ai-slowdown-but-china-overhang-remains/articleshow/128801117.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T03:29:02Z"
+    },
+    {
+      "title": "DeepSeek shuts out Nvidia, AMD in V4 move tied to US chip tensions",
+      "description": "DeepSeek, the Chinese AI lab that unsettled global markets with its low-cost models last year, has withheld early access to its upcoming V4 flagship from US chipmakers, breaking with long-standing industry practice, according to two sources familiar with the …",
+      "url": "https://www.digitimes.com/news/a20260226VL210/deepseek-nvidia-amd-hardware-huawei.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T03:22:17Z"
+    },
+    {
+      "title": "Nvidia Posts Record Q4 as Jensen Declares ‘Compute Equals Revenues’ in AI Era",
+      "description": "Nvidia reported $68 billion in fourth-quarter revenue, up 73% from a year earlier, as demand for accelerated computing continued to expand across cloud providers, model builders, enterprises and sovereign customers. Data center revenue rose 75% to $62 billion…",
+      "url": "https://www.pymnts.com/earnings/2026/nvidia-posts-record-q4-as-jensen-declares-compute-equals-revenues-in-ai-era",
+      "source": "pymnts.com",
+      "publishedAt": "2026-02-26T03:16:29Z"
+    },
+    {
+      "title": "US Stock Market | Nvidia's results beat estimates, but Wall Street wants more cash return",
+      "description": "Nvidia reported strong January quarter results and forecast revenue above estimates, driven by AI chip demand. Despite solid performance, the stock remained flat as investors anticipated more significant returns. The company plans to reinvest in AI infrastruc…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nvidias-results-beat-estimates-but-wall-street-wants-more-cash-return/articleshow/128800599.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T02:59:44Z"
+    },
+    {
+      "title": "Nikkei breaches 59,000 after early rate hike prospect wanes, Nvidia results",
+      "description": "Tokyo's Nikkei index soared past 59,000 for the first time on Thursday, shattering its previous record. This surge was fueled by diminishing hopes of an immediate Bank of Japan interest rate hike and impressive performance from chip giant Nvidia. The benchmar…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-breaches-59000-after-early-rate-hike-prospect-wanes-nvidia-results/articleshow/128800534.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T02:55:43Z"
+    },
+    {
+      "title": "Intel strikes deal with a chip startup its CEO invested in",
+      "description": "Intel, which has lagged in making chips for artificial intelligence, is turning for help to a startup that its CEO helps lead as an investor and chair.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/intel-strikes-deal-with-a-chip-startup-its-ceo-invested-in/articleshow/128800416.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-26T02:52:07Z"
+    },
+    {
+      "title": "Is Nvidia's GTC mystery chip a 3D IC with memory stacked on the GPU?",
+      "description": "All eyes are on Jensen Huang ahead of the March 16–19 GTC conference. Nvidia's chief executive has promised to unveil a chip unlike anything the world has seen before —and speculation is now mounting over what that chip might actually be.",
+      "url": "https://www.digitimes.com/news/a20260226PD210/nvidia-gpu-gtc-3d-ic-sk-hynix.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-26T02:42:20Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Context Harness",
+      "Lexlegis.ai",
+      "iPad Pro",
+      "Future Forward Retail",
+      "Ireland sign agreement with France for joint military training and intel sharing"
+    ],
+    "insights": [
+      "AI tools",
+      "Legal AI",
+      "Retail technology"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Innovations",
+      "summary": "These articles highlight advancements in AI tools, legal AI systems, retail technologies, and military cooperation.",
+      "article_urls": [
+        "https://github.com/parallax-labs/context-harness",
+        "https://www.thehindubusinessline.com/info-tech/lexlegisai-launches-local-on-desk-ai-legal-intelligence-system/article70678416.ece",
+        "https://slickdeals.net/f/19250338-ipad-pro-13-inch-2tb-wi-fi-m4-chip-with-nano-texture-glass-built-for-apple-intelligence-1299"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 318.68
+        },
+        {
+          "date": "2026-01-08",
+          "close": 318.01
+        },
+        {
+          "date": "2026-01-09",
+          "close": 323.63
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.77
+        },
+        {
+          "date": "2026-01-13",
+          "close": 331.21
+        },
+        {
+          "date": "2026-01-14",
+          "close": 327.11
+        },
+        {
+          "date": "2026-01-15",
+          "close": 341.64
+        },
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "TSM is a semiconductor manufacturer known for its server-grade processors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 210.02
+        },
+        {
+          "date": "2026-01-08",
+          "close": 204.68
+        },
+        {
+          "date": "2026-01-09",
+          "close": 203.17
+        },
+        {
+          "date": "2026-01-12",
+          "close": 207.69
+        },
+        {
+          "date": "2026-01-13",
+          "close": 220.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 223.6
+        },
+        {
+          "date": "2026-01-15",
+          "close": 227.92
+        },
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AMD is a semiconductor manufacturer focusing on CPUs and GPUs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 1228.47
+        },
+        {
+          "date": "2026-01-08",
+          "close": 1194.32
+        },
+        {
+          "date": "2026-01-09",
+          "close": 1273.88
+        },
+        {
+          "date": "2026-01-12",
+          "close": 1281.23
+        },
+        {
+          "date": "2026-01-13",
+          "close": 1270.16
+        },
+        {
+          "date": "2026-01-14",
+          "close": 1263.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 1331.6
+        },
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML is a Dutch multinational corporation specializing in lithography machines used in semiconductor manufacturing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 42.63
+        },
+        {
+          "date": "2026-01-08",
+          "close": 41.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 45.55
+        },
+        {
+          "date": "2026-01-12",
+          "close": 44.06
+        },
+        {
+          "date": "2026-01-13",
+          "close": 47.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 48.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 48.32
+        },
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "INTC is Intel Corporation, a major semiconductor manufacturer. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-07",
+          "close": 180.19
+        },
+        {
+          "date": "2026-01-08",
+          "close": 181.87
+        },
+        {
+          "date": "2026-01-09",
+          "close": 177.78
+        },
+        {
+          "date": "2026-01-12",
+          "close": 169.27
+        },
+        {
+          "date": "2026-01-13",
+          "close": 165.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 164.54
+        },
+        {
+          "date": "2026-01-15",
+          "close": 161.39
+        },
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "QCOM is Qualcomm Incorporated, a semiconductor company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
