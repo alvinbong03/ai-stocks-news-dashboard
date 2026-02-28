@@ -1,0 +1,1022 @@
+{
+  "theme": "ai",
+  "date": "2026-02-28",
+  "last_updated_utc": "2026-02-28T06:32:17.251Z",
+  "news": [
+    {
+      "title": "Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies",
+      "description": "Claude maker and Anthropic CEO Dario Amodei advised students and young professionals to focus on human-centered skills, as software engineering and math are rapidly being taken over by AI. His remarks came after he warned that white-collar jobs could disappea…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/claude-maker-and-anthropic-ceo-dario-amodei-whose-ai-shook-tech-stocks-and-wiped-out-billions-warns-about-white-collar-jobs-shares-advice-for-young-techies/articleshow/128838897.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T06:26:08Z"
+    },
+    {
+      "title": "Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works",
+      "description": "Burger King is testing an AI chatbot named Patty in 500 restaurants to assist employees with tasks and improve customer interactions. Powered by OpenAI, it connects various operations and updates inventory in real-time.",
+      "url": "https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-27T06:21:19Z"
+    },
+    {
+      "title": "Hacker Used Anthropic’s Claude to Steal Mexican Data Trove",
+      "description": "A hacker exploited Anthropic PBC’s artificial intelligence chatbot to carry out a series of attacks against Mexican government agencies, resulting in the theft of a huge trove of sensitive tax and voter information, according to cybersecurity researchers. The…",
+      "url": "https://www.insurancejournal.com/news/international/2026/02/27/859786.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-02-27T06:05:09Z"
+    },
+    {
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support - Frikallo/parakeet.cpp",
+      "url": "https://github.com/Frikallo/parakeet.cpp",
+      "source": "Github.com",
+      "publishedAt": "2026-02-27T03:48:05Z"
+    },
+    {
+      "title": "Anthropic CEO Says AI Company 'Cannot In Good Conscience Accede' To Pentagon",
+      "description": "An anonymous reader quotes a report from the Associated Press: Anthropic CEO Dario Amodei said Thursday the artificial intelligence company \"cannot in good conscience accede\" to the Pentagon's demands to allow wider use of its technology. The maker of the AI …",
+      "url": "https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-27T03:30:00Z"
+    },
+    {
+      "title": "OpenAI outlines steps to boost safety measures in response to Canada school shooting",
+      "description": "The ChatGPT maker detailed the ​steps in a letter to Canada's minister in charge of artificial intelligence, Evan Solomon.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-outlines-steps-to-boost-safety-measures-in-response-to-canada-school-shooting/articleshow/128835494.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T03:03:20Z"
+    },
+    {
+      "title": "Anthropic to Pentagon: Autonomous weapons could hurt US troops and civilians",
+      "description": "AI upstart won’t remove Claude’s guardrails to stay onside with Dept. of War Anthropic has fired back at the US Department of War, arguing that it can’t agree to Uncle Sam’s contract demand to remove guardrails on its AI in part because the tech can’t be trus…",
+      "url": "https://www.theregister.com/2026/02/27/anthropic_pentagon_response",
+      "source": "Theregister.com",
+      "publishedAt": "2026-02-27T02:33:48Z"
+    },
+    {
+      "title": "Deadline looms as Anthropic rejects Pentagon demands it remove AI safeguards",
+      "description": "The Defense Department has been feuding with Anthropic over military uses of its artificial intelligence tools. At stake are hundreds of millions of dollars in contracts and access to some of the most advanced AI on the planet.",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance",
+      "source": "NPR",
+      "publishedAt": "2026-02-27T02:19:45Z"
+    },
+    {
+      "title": "Google and Meta reportedly strike new, multibillion-dollar AI chip deal",
+      "description": "Meta Platforms Inc. has reportedly agreed a multibillion-dollar deal to rent Google Cloud’s custom artificial intelligence chips, according to a report in The Information today. The report cited anonymous sources as saying that the chips, known as tensor proc…",
+      "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-02-27T02:08:48Z"
+    },
+    {
+      "title": "Anthropic CEO says AI company 'cannot in good conscience accede' to Pentagon's demands",
+      "description": "Anthropic CEO Dario Amodei said Thursday the artificial intelligence company “cannot in good conscience accede” to the Pentagon’s demands to allow unrestricted use of its technology, deepening the unusually public clash with the Trump administration that is t…",
+      "url": "https://japantoday.com/category/tech/us-military-would-only-use-anthropic%27s-ai-technology-in-legal-ways-pentagon-says",
+      "source": "Japan Today",
+      "publishedAt": "2026-02-27T01:43:08Z"
+    },
+    {
+      "title": "Anthropic CEO 'Cannot in Good Conscience Accede' to Pentagon's AI Demand",
+      "description": "Defense Secretary Pete Hegseth gave Anthropic until Friday evening to agree to let the Pentagon use the company's artificial intelligence technology however it wants, or else. Roughly 24 hours ahead of the deadline, CEO Dario Amodei announced that \"we cannot …",
+      "url": "https://www.commondreams.org/news/anthropic-ceo-cannot-in-good-conscience-accede-to-pentagon-s-ai-demand",
+      "source": "Common Dreams",
+      "publishedAt": "2026-02-27T01:32:52Z"
+    },
+    {
+      "title": "Pentagon locked in standoff with Anthropic over AI guardrails",
+      "description": "With less than 24 hours left, Anthropic and the Pentagon are locked in a standoff over access to the company's powerful artificial intelligence. Jo Ling Kenton reports.",
+      "url": "https://www.cbsnews.com/video/pentagon-locked-in-standoff-with-anthropic-over-ai-guardrails",
+      "source": "CBS News",
+      "publishedAt": "2026-02-27T00:53:00Z"
+    },
+    {
+      "title": "Anthropic CEO says it ‘cannot in good conscience accede’ to Pentagon’s demands for AI use - AP News",
+      "description": "Anthropic CEO says it ‘cannot in good conscience accede’ to Pentagon’s demands for AI useAP News Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’CNN ‘Incoherent’: Hegseth’s Anthropic ultimatum confounds AI policy…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180866506",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-27T06:12:53Z"
+    },
+    {
+      "title": "OpenAI and Google employees have signed a petition opposing the military's AI use",
+      "description": "OpenAI and Google employees are pushing back against Pentagon pressure for broader military access to AI models.",
+      "url": "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2",
+      "source": "Business Insider",
+      "publishedAt": "2026-02-27T06:04:56Z"
+    },
+    {
+      "title": "Anthropic CEO Stands Up to Pentagon",
+      "description": "Anthropic CEO Dario Amodei said Thursday that the artificial intelligence company \"cannot in good conscience accede\" to the Pentagon's demands to allow unrestricted use of its technology, deepening a public clash with the Trump administration that is threaten…",
+      "url": "https://www.newser.com/story/384488/anthropic-ceo-stands-up-to-pentagon.html",
+      "source": "Newser",
+      "publishedAt": "2026-02-27T06:00:00Z"
+    },
+    {
+      "title": "Show HN: Nano Banana 2 – Sub-second AI image gen via Gemini 3.1 Flash",
+      "description": "Hi HN,I wanted to see how far I could push the \"Flash\" in Gemini 3.1. Most AI interfaces feel bloated and slow, so I built Nano Banana 2 to focus on raw speed.Technical Highlights:Stack: Next.js + Edge Runtime to minimize TTFB.Optimization: Custom streaming p…",
+      "url": "https://nano-banana2.me/",
+      "source": "Nano-banana2.me",
+      "publishedAt": "2026-02-27T05:50:34Z"
+    },
+    {
+      "title": "The clock is ticking down on a critical Pentagon deadline for Anthropic | CNN Business",
+      "description": "American AI company Anthropic has until 5:01 pm ET to give in to the Pentagon’s demands or face being labeled a “supply chain risk,” a type of designation usually reserved for companies thought to be extensions of foreign adversaries.",
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "source": "CNN",
+      "publishedAt": "2026-02-27T05:21:38Z"
+    },
+    {
+      "title": "Dell expects AI server revenue to double in fiscal 2027 on data center boom",
+      "description": "The company ⁠announced a ⁠20% hike in its cash dividend and an additional $10 billion for its share repurchase program. Big tech firms, such as Alphabet, Microsoft, Amazon, and Meta, ​are expected to spend at least $630 billion to build AI infrastructure this…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/dell-expects-ai-server-revenue-to-double-in-fiscal-2027-on-data-center-boom/articleshow/128835704.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T03:49:22Z"
+    },
+    {
+      "title": "ASML says next-gen EUV tools ready to mass-produce chips, marking key shift for AI chip production",
+      "description": "The Dutch company produces the world's only commercial extreme ultraviolet lithography (EUV) tools, which are a critical ‌piece of equipment ⁠for ⁠chipmakers. This new tool will help chipmakers such as Taiwan Semiconductor Manufacturing and Intel produce more…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/asml-says-next-gen-euv-tools-ready-to-mass-produce-chips-marking-key-shift-for-ai-chip-production/articleshow/128835524.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T03:04:01Z"
+    },
+    {
+      "title": "MARA Shares Rise After Bitcoin Miner Strikes AI Data Center Deal",
+      "description": "The Bitcoin miner moved to convert U.S. sites into AI-ready campuses, though analysts say confirmed tenants will be key.",
+      "url": "https://decrypt.co/359361/mara-shares-rise-bitcoin-miner-strikes-ai-data-center-deal",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-27T03:00:57Z"
+    },
+    {
+      "title": "Anthropic rejects Pentagon's requests in AI safeguards dispute, CEO says",
+      "description": "The Pentagon's dispute with Anthropic stems from the AI startup's refusal to remove safeguards that would prevent its technology ‌from being used ⁠to ⁠target weapons autonomously and conduct surveillance in the United States.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-rejects-pentagons-requests-in-ai-safeguards-dispute-ceo-says/articleshow/128835359.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T02:54:38Z"
+    },
+    {
+      "title": "The Pentagon's Anthropic problem is every enterprise's AI problem",
+      "description": "Learn why the Pentagon’s standoff with Anthropic highlights the risks of AI model lock-in and how orchestration layers offer a path to model independence.\n Enviado por admin en Tecnología el",
+      "url": "https://www.linksdv.com/25008",
+      "source": "Linksdv.com",
+      "publishedAt": "2026-02-27T02:44:33Z"
+    },
+    {
+      "title": "AI firm Anthropic rejects unrestricted US military use",
+      "description": "Anthropic fears the unrestricted military use of its AI systems by the US government may harm democracy. Military officials have threatened to invoke Cold War-era legislation to force Anthropic to comply.",
+      "url": "https://www.dw.com/en/ai-firm-anthropic-rejects-unrestricted-us-military-use/a-76143608",
+      "source": "DW (English)",
+      "publishedAt": "2026-02-27T02:18:00Z"
+    },
+    {
+      "title": "US Stock Market | Wall Street ends lower as tech rally stalls, AI fervor wanes after Nvidia results",
+      "description": "U.S. stocks declined sharply on Thursday, with the tech-heavy Nasdaq leading the losses after Nvidia's earnings failed to impress investors.  While the Dow held steady, the Philadelphia SE Semiconductor index's drop threatened a record winning streak for the …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-ends-lower-as-tech-rally-stalls-ai-fervor-wanes-after-nvidia-results/articleshow/128834743.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-27T02:09:39Z"
+    },
+    {
+      "title": "Anthropicのダリオ・アモデイCEOがAI安全保障問題で国防総省の要求を拒否",
+      "description": "by Fortune Brainstorm TechAIの軍事利用でAI企業のAnthropicと契約している国防総省が、Anthropicの設けた安全措置を撤廃するよう圧力をかけている問題で、同社CEOのダリオ・アモデイ氏が「脅しには屈しない」とする声明を出したことが分かりました。Statement from Dario Amodei on our discussions with the Department of War \\ Anthropichttps://www.anthropic.com/news/s…",
+      "url": "https://news.livedoor.com/article/detail/30661753",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-02-27T02:09:00Z"
+    },
+    {
+      "title": "OpenAI says Canada mass shooter evaded ban with second ChatGPT account",
+      "description": "ChatGPT-maker OpenAI says the shooter in one of the worst school shootings in Canada’s history got around a ban on her problematic use of the service by having a second account",
+      "url": "https://abcnews.com/International/wireStory/openai-canada-mass-shooter-evaded-ban-chatgpt-account-130548840",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-02-27T02:05:33Z"
+    },
+    {
+      "title": "Dario Amodei says Anthropic cannot \"in good conscience\" accede to DOD's request to remove safeguards and will work to ensure a smooth transition if offboarded (Anthropic)",
+      "description": "Anthropic:\nDario Amodei says Anthropic cannot “in good conscience” accede to DOD's request to remove safeguards and will work to ensure a smooth transition if offboarded  —  I believe deeply in the existential importance of using AI to defend the United State…",
+      "url": "https://www.techmeme.com/260226/p60",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-27T01:25:01Z"
+    },
+    {
+      "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
+      "description": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.",
+      "url": "https://www.bbc.com/news/articles/cvg3vlzzkqeo",
+      "source": "BBC News",
+      "publishedAt": "2026-02-27T01:16:07Z"
+    },
+    {
+      "title": "Acer - Refurbished Excellent - Predator Helios Neo 16S AI Gaming Laptop - 16\" OLED 240Hz - Intel Core Ultra 9 - NVIDIA GeForce RTX 5070Ti â 32GB â 1TB - Obsidian Black $1371.99 (2 replies)",
+      "description": "Acer - Refurbished Excellent - Predator Helios Neo 16S AI Gaming Laptop - 16\" OLED 240Hz - Intel Core Ultra 9 - NVIDIA GeForce RTX 5070Ti – 32GB – 1TB - Obsidian Black \n\nhttps://www.bestbuy.c",
+      "url": "https://slickdeals.net/f/19253617-acer-refurbished-excellent-predator-helios-neo-16s-ai-gaming-laptop-16-oled-240hz-intel-core-ultra-9-nvidia-geforce-rtx-5070ti-32gb-1tb-obsidian-black-1371-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-27T01:05:33Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies",
+      "Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works",
+      "Hacker Used Anthropic’s Claude to Steal Mexican Data Trove",
+      "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "Anthropic CEO Says AI Company 'Cannot In Good Conscience Accede' To Pentagon"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/new-updates/claude-maker-and-anthropic-ceo-dario-amodei-whose-ai-shook-tech-stocks-and-wiped-out-billions-warns-about-white-collar-jobs-shares-advice-for-young-techies/articleshow/128838897.cms",
+        "https://www.insurancejournal.com/news/international/2026/02/27/859786.htm",
+        "https://tech.slashdot.org/story/26/02/26/2352217/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagon"
+      ]
+    },
+    {
+      "title": "Pentagon",
+      "summary": "Grouped stories where \"pentagon\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/openai-google-employee-petition-military-ai-use-anthropic-pentagon-defense-2026-2"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html",
+        "https://economictimes.indiatimes.com/tech/technology/openai-outlines-steps-to-boost-safety-measures-in-response-to-canada-school-shooting/articleshow/128835494.cms",
+        "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/Frikallo/parakeet.cpp",
+        "https://nano-banana2.me/",
+        "https://economictimes.indiatimes.com/tech/technology/dell-expects-ai-server-revenue-to-double-in-fiscal-2027-on-data-center-boom/articleshow/128835704.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 185.04
+        },
+        {
+          "date": "2026-01-09",
+          "close": 184.86
+        },
+        {
+          "date": "2026-01-12",
+          "close": 184.94
+        },
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 478.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 479.28
+        },
+        {
+          "date": "2026-01-12",
+          "close": 477.18
+        },
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 325.44
+        },
+        {
+          "date": "2026-01-09",
+          "close": 328.57
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.86
+        },
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 246.29
+        },
+        {
+          "date": "2026-01-09",
+          "close": 247.38
+        },
+        {
+          "date": "2026-01-12",
+          "close": 246.47
+        },
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 646.06
+        },
+        {
+          "date": "2026-01-09",
+          "close": 653.06
+        },
+        {
+          "date": "2026-01-12",
+          "close": 641.97
+        },
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
