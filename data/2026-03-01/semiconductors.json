@@ -1,0 +1,1073 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-01",
+  "last_updated_utc": "2026-03-01T06:40:56.008Z",
+  "news": [
+    {
+      "title": "Sources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years (Tim Culpan/Culpium)",
+      "description": "Tim Culpan / Culpium:\nSources: TSMC urges clients to apply for N2 production allocation as far out as Q2 2027, with large capacity allotments nearly sold out for the next two years  —  [Exclusive] Clients are being asked to finalize their requirements into mi…",
+      "url": "https://www.techmeme.com/260228/p3",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T06:30:01Z"
+    },
+    {
+      "title": "Anthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic (Wired)",
+      "description": "Wired:\nAnthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic  —  Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technolo…",
+      "url": "https://www.techmeme.com/260228/p2",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T06:15:01Z"
+    },
+    {
+      "title": "India’s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence",
+      "description": "India’s semiconductor market is set to nearly double to $103bn by 2030, driven by AI, electric mobility and defence modernisation. Data centre capacity will jump from 1.5 GW to 9 GW, while the IndiaAI Mission exceeds GPU targets. Despite growth, the ecosystem…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/indias-semiconductor-market-to-hit-103-billlion-by-2030-fuelled-by-ai-evs-and-defence/articleshow/128875710.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T06:11:16Z"
+    },
+    {
+      "title": "HP OmniBook X Flip: 16\" 3K 120Hz OLED Touch, Intel Ultra 9 288V, 32GB LPDDR5, 2TB SSD $1099.99 (5 replies)",
+      "description": "HP OmniBook X Flip Copilot+ PC 16\" 3K OLED Touch Screen Laptop Intel Core Ultra 9 288V 2024 32GB Memory 2TB SSD Eclipse Gray 16-AS0043dx/BZ0N2UA#ABA - Best Buy\n\nhttps://www.bestbuy.com/product/h.",
+      "url": "https://slickdeals.net/f/19257745-hp-omnibook-x-flip-16-3k-120hz-oled-touch-intel-ultra-9-288v-32gb-lpddr5-2tb-ssd-1099-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-28T06:05:44Z"
+    },
+    {
+      "title": "U.S. defense and tech sectors face crippling shortages of key minerals controlled by China",
+      "description": "China’s rare earth export controls are crippling U.S. aerospace and semiconductor production. The price of critical yttrium has soared 69-fold in a year, halting some production lines. U.S. chipmakers face dangerous shortages of scandium, threatening 5G techn…",
+      "url": "https://www.naturalnews.com/2026-02-28-defense-tech-face-shortages-key-minerals-china.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-02-28T06:00:00Z"
+    },
+    {
+      "title": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+      "description": "OpenAI has reached an agreement with the Defense Department to deploy its models in the agency’s network, company chief Sam Altman has revealed on X. In his post, he said two of OpenAI’s most important safety principles are “prohibitions on domestic mass surv…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180872350",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-28T05:52:31Z"
+    },
+    {
+      "title": "Chip Away",
+      "description": "Chip, badge, pill, tag, lozenge, how about none?",
+      "url": "https://blog.damato.design/posts/chip-away",
+      "source": "Damato.design",
+      "publishedAt": "2026-02-28T05:47:01Z"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei calls White House's actions \"retaliatory and punitive\"",
+      "description": "Hours before Anthropic CEO Dario Amodei's interview, Defense Secretary Pete Hegseth deemed the AI company a \"supply chain risk to national security,\" which restricts military contractors from doing business with Anthropic.",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-white-house-actions-retaliatory-and-punitive",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:46:46Z"
+    },
+    {
+      "title": "Anthropic CEO on \"retaliatory and punitive\" Pentagon action",
+      "description": "In an exclusive interview with CBS News, Anthropic CEO Dario Amodei said that the Pentagon's decision to designate the AI company a supply chain risk is \"retaliatory and punitive.\" The Pentagon made the designation, which restricts military contractors from d…",
+      "url": "https://www.cbsnews.com/video/anthropic-ceo-retaliatory-punitive-pentagon-action",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:35:00Z"
+    },
+    {
+      "title": "Full interview: Anthropic CEO Dario Amodei on Pentagon feud",
+      "description": "Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant.…",
+      "url": "https://www.cbsnews.com/video/full-interview-anthropic-ceo-dario-amodei-pentagon-feud",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:22:00Z"
+    },
+    {
+      "title": "Nvidia set to launch new chip that could reset the AI race, says report — Key things to know",
+      "description": "Nvidia is in the process of designing a new system for “inference” computing. This will allow the company's customers and their AI models to respond to queries, as per WSJ. This will make the work of companies like OpenAI easier.",
+      "url": "https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-28T05:12:33Z"
+    },
+    {
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "description": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two except…",
+      "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "source": "Internet",
+      "publishedAt": "2026-02-28T04:57:00Z"
+    },
+    {
+      "title": "Bitcoin slides to $65,000 in weekend sell-off, with solana, XRP, dogecoin down 6%",
+      "description": "The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.",
+      "url": "https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6",
+      "source": "CoinDesk",
+      "publishedAt": "2026-02-28T04:24:51Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing: WSJ",
+      "description": "Nvidia plans to launch a new processor to help OpenAI and other clients run AI systems faster and more efficiently. The chip is for “inference” computing and will debut at Nvidia’s GTC conference. It incorporates a design by startup Groq.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-plans-new-chip-to-speed-ai-processing-wsj/articleshow/128873790.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T04:20:02Z"
+    },
+    {
+      "title": "OpenAI gets $110 billion in funding from a trio of tech powerhouses, led by Amazon",
+      "description": "OpenAI secures $110 billion in funding from Amazon, Nvidia, and SoftBank, enhancing its AI capabilities and global reach.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-gets-110-billion-in-funding-from-a-trio-of-tech-powerhouses-led-by-amazon/article70686947.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-28T03:51:05Z"
+    },
+    {
+      "title": "ESP32-C5 bug advisory identifies and fixes PSRAM and sleep coexistence issues",
+      "description": "Espressif  Systems has just published a bug advisory for ESP32-C5 chips that identifies and fixes three bugs related to PSRAM and sleep coexistence stability. New microcontrollers often have issues when they are first released, leading companies to issue erra…",
+      "url": "https://www.cnx-software.com/2026/02/28/esp32-c5-bug-advisory-identifies-and-fixes-psram-and-sleep-coexistence-issues",
+      "source": "CNX Software",
+      "publishedAt": "2026-02-28T03:33:52Z"
+    },
+    {
+      "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+      "description": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley",
+      "source": "Wired",
+      "publishedAt": "2026-02-28T03:30:41Z"
+    },
+    {
+      "title": "Sources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer (Wall Street Journal)",
+      "description": "Wall Street Journal:\nSources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer  —  Under pressure from rivals, the chip giant is set to offer a new product focuse…",
+      "url": "https://www.techmeme.com/260227/p43",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T03:25:02Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+      "description": "Feb 27 : Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, more efficient AI systems, the Wall Street Journal reported on Friday, citing people familiar with the matter. Reuters could not immediately verify the r…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
+      "source": "CNA",
+      "publishedAt": "2026-02-28T03:22:46Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_511b0dd4-5b0a-4671-9b57-b48be8954a2a",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-28T03:22:46Z"
+    },
+    {
+      "title": "Anthropic calls Pentagon's supply chain risk tag 'unprecedented', vows to challenge in court",
+      "description": "The company argued that current frontier AI models are &quot;not reliable enough&quot; for fully autonomous weapons and warned that such use could endanger US troops and civilians.",
+      "url": "https://www.moneycontrol.com/news/business/anthropic-calls-pentagon-s-supply-chain-risk-tag-unprecedented-vows-to-challenge-in-court-13846464.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-02-28T03:16:32Z"
+    },
+    {
+      "title": "Stock Market News Today, 2/27/26 – U.S. Stock Futures Slide as Nvidia Drops 5.6% - TipRanks",
+      "description": "Stock Market News Today, 2/27/26 – U.S. Stock Futures Slide as Nvidia Drops 5.6%TipRanks Nvidia Stock Keeps Dropping After EarningsBarron's Jim Cramer Calls Nvidia's After-Hours Dip Is A 'Mistake,' Analyst Says Investors Now Expect Outsized Results Each Quart…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180871882",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-28T03:13:00Z"
+    },
+    {
+      "title": "Pentagon casts cloud of doubt over Anthropic’s AI business",
+      "description": "Anthropic PBC, one of the fastest-growing AI startups, faces a major setback after the Trump administration ordered federal agencies to stop using its software and the Pentagon labelled it a supply-chain risk.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/pentagon-casts-cloud-of-doubt-over-anthropics-ai-business/articleshow/128872591.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T03:05:47Z"
+    },
+    {
+      "title": "'Unprecedented': Anthropic responds to Hegseth's directive calling company a 'supply chain risk'",
+      "description": "US President Donald Trump has ordered all government agencies to immediately stop using Anthropic AI after the company’s CEO, Dario Amodei, refused to accede to the Pentagon’s demands to use its tech for mass surveillance",
+      "url": "https://www.firstpost.com/tech/unprecedented-anthropic-responds-to-hegseths-directive-calling-company-a-supply-chain-risk-13984550.html",
+      "source": "Firstpost",
+      "publishedAt": "2026-02-28T02:50:26Z"
+    },
+    {
+      "title": "Statement on the comments from Secretary of War Pete Hegseth (Anthropic)",
+      "description": "Anthropic:\nStatement on the comments from Secretary of War Pete Hegseth  —  Earlier today, Secretary of War Pete Hegseth shared on X that he is directing the Department of War to designate Anthropic a supply chain risk.  This action follows months of negotiat…",
+      "url": "https://www.memeorandum.com/260227/p116",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-28T02:45:01Z"
+    },
+    {
+      "title": "CyberPowerPC - Gaming Desktop - AMD Ryzen 7 7800X3D - AMD Radeon RX 9070 XT 16GB - 32GB DDR5 - 2TB PCIe 4.0 SSD - Black $1749.99",
+      "description": "CyberPowerPC - Gaming Desktop - AMD Ryzen 7 7800X3D - AMD Radeon RX 9070 XT 16GB - 32GB DDR5 - 2TB PCIe 4.0 SSD - Black \n \nhttps://www.bestbuy.com/product/c...J3L7GQWG89",
+      "url": "https://slickdeals.net/f/19257247-cyberpowerpc-gaming-desktop-amd-ryzen-7-7800x3d-amd-radeon-rx-9070-xt-16gb-32gb-ddr5-2tb-pcie-4-0-ssd-black-1749-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-28T02:41:26Z"
+    },
+    {
+      "title": "Pentagon declares Anthropic a threat to national security (Washington Post)",
+      "description": "Washington Post:\nPentagon declares Anthropic a threat to national security  —  Defense Secretary Pete Hegseth declared Anthropic a “supply-chain risk,” blocking all federal agencies and contractors from doing business with the company.  —  The Trump administr…",
+      "url": "https://www.memeorandum.com/260227/p114",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-28T02:25:01Z"
+    },
+    {
+      "title": "GIGABYTE AERO X16 (Open-Boxes): 16\" WQXGA 165Hz IPS, Ryzen Al 7 350, RTX 5070, 32GB DDR5, 1TB SSD $1092.99",
+      "description": "Open-Boxes [bestbuy.com] available: \n* Excellent - *$1177.99* \n* Good - *$1135.99* \n* Fair - *$1092.99* \n \n \n*SPECS:*[list][*]16\" 2560 x 1600 400-nits 165Hz IPS panel, 100% sRGB[*]AMD Ryzen AI 7 350...",
+      "url": "https://slickdeals.net/f/19257211-gigabyte-aero-x16-open-boxes-16-wqxga-165hz-ips-ryzen-al-7-350-rtx-5070-32gb-ddr5-1tb-ssd-1092-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-28T02:23:27Z"
+    },
+    {
+      "title": "Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)",
+      "description": "Financial Times:\nSources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products  —  Chinese AI group has worked with Huawei to cut reliance on Nvidia chips  —  E…",
+      "url": "https://www.techmeme.com/260227/p40",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T02:05:03Z"
+    },
+    {
+      "title": "Human Brain Cells On a Chip Learned To Play Doom In a Week",
+      "description": "Researchers at Cortical Labs used living human neurons grown on a chip to learn how to play Doom in about a week. \"While its performance is not up to par with humans, experts say it brings biological computers a step closer to useful real-world applications, …",
+      "url": "https://games.slashdot.org/story/26/02/27/2332219/human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-28T02:02:00Z"
+    },
+    {
+      "title": "Anthropic faces 6-month federal phaseout after Trump orders agencies to halt its AI use",
+      "description": "Trump ordered federal agencies to halt use of Anthropic after the Pentagon labelled the AI firm a supply-chain risk amid a dispute over military guardrails.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-faces-6-month-federal-phaseout-after-donald-trump-orders-agencies-to-halt-its-ai-use-10556648",
+      "source": "The Indian Express",
+      "publishedAt": "2026-02-28T02:00:00Z"
+    },
+    {
+      "title": "Anthropic says it'll challenge \"any supply chain risk designation in court\" and that the designation would only affect contractors' use of Claude on DOD work (Anthropic)",
+      "description": "Anthropic:\nAnthropic says it'll challenge “any supply chain risk designation in court” and that the designation would only affect contractors' use of Claude on DOD work  —  Earlier today, Secretary of War Pete Hegseth shared on X that he is directing the Depa…",
+      "url": "https://www.techmeme.com/260227/p39",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T01:55:01Z"
+    },
+    {
+      "title": "Anthropic vs Pentagon: Dario Amodei-led AI firm vows legal action against Pentagon after ‘supply chain risk’ designation",
+      "description": "This came hours after Defense Secretary Pete Hegseth issued the order in a statement on X following a directive from President Donald Trump who asked every federal agency to drop Anthropic and Claude from its workflow.",
+      "url": "https://www.livemint.com/companies/news/anthropic-vs-pentagon-dario-amodei-led-ai-firm-vows-legal-action-against-pentagon-after-supply-chain-risk-designation-11772243384253.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-28T01:54:58Z"
+    },
+    {
+      "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
+      "description": "Anthropic ​said on ​Friday it will challenge ‌in ⁠court the ⁠Pentagon's ​decision to ​declare the AI firm ​a ⁠supply-chain risk, ‌hours ​after ​U.S. ⁠President Donald Trump also ​directed every ​federal agency to stop ‌work with ​the company.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court/articleshow/128871369.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T01:52:02Z"
+    },
+    {
+      "title": "Pete Hegseth punishes company for trying to protect the privacy of its customers",
+      "description": "It’s a real turducken of authoritarianism here: The federal government will stop working with Anthropic and designate the artificial intelligence company a supply-chain risk, a dramatic escalation of the government’s clash with the company over how its techno…",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/02/pete-hegseth-punishes-company-for-trying-to-protect-the-privacy-of-its-customers",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-02-28T01:49:16Z"
+    },
+    {
+      "title": "Anthropic says it will challenge Pentagon's supply chain risk designation in court",
+      "description": "Feb 27 : Anthropic said on Friday it will challenge in court the Pentagon's decision to declare the AI firm a supply-chain risk, hours after U.S. President Donald Trump also directed every federal agency to stop work with the company.",
+      "url": "https://www.channelnewsasia.com/business/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-in-court-5959916",
+      "source": "CNA",
+      "publishedAt": "2026-02-28T01:35:59Z"
+    },
+    {
+      "title": "Top 2027 high school football recruits in Louisiana",
+      "description": "Louisiana continues to punch above its weight when it comes to producing blue-chip high school football prospects. The 2027 cycle is no different. On Monday, the Rivals300 rankings were updated. Of the 300 prospects featured, 11 are in The Boot. Of those 11, …",
+      "url": "https://www.on3.com/rivals/news/top-2027-high-school-football-recruits-in-louisiana",
+      "source": "On3.com",
+      "publishedAt": "2026-02-28T01:18:32Z"
+    },
+    {
+      "title": "Linux-based Orange Pi Neo gaming handheld delayed due to rising RAM and storage costs",
+      "description": "The Orange Pi Neo gaming handheld has been delayed, blaming supply chain issues. The gaming handheld was first announced back in 2024, boasting a 7-inch FHD+ 120 Hz display, AMD Zen 4 APUs, and up to 2 TB storage.",
+      "url": "https://www.notebookcheck.net/Linux-based-Orange-Pi-Neo-gaming-handheld-delayed-due-to-rising-RAM-and-storage-costs.1236882.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-02-28T01:17:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "TSMC urges clients to apply for N2 production allocation",
+      "Anthropic faces legal challenges due to Pentagon's designation",
+      "India's semiconductor market projected to grow significantly",
+      "U.S. defense sector faces mineral shortages",
+      "OpenAI signs deal with Pentagon for AI deployment"
+    ],
+    "insights": [
+      "Semiconductors are crucial for various industries including AI, automotive, and defense.",
+      "The Pentagon's designation of Anthropic as a supply chain risk may impact its partnerships and operations.",
+      "India aims to boost its semiconductor industry through AI, EVs, and defense initiatives."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Short-term Market Trends",
+      "summary": "India's semiconductor market is expected to grow significantly, fueled by AI, electric mobility, and defense modernization.",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/indias-semiconductor-market-to-hit-103-billlion-by-2030-fuelled-by-ai-evs-and-defence/articleshow/128875710.cms"
+      ]
+    },
+    {
+      "title": "Legal and Regulatory Challenges",
+      "summary": "Anthropic faces legal challenges due to the Pentagon's designation as a supply chain risk.",
+      "article_urls": [
+        "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley"
+      ]
+    },
+    {
+      "title": "Global Industry Dynamics",
+      "summary": "U.S. defense sector faces mineral shortages, impacting aerospace and semiconductor production.",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-02-28-defense-tech-face-shortages-key-minerals-china.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 318.01
+        },
+        {
+          "date": "2026-01-09",
+          "close": 323.63
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.77
+        },
+        {
+          "date": "2026-01-13",
+          "close": 331.21
+        },
+        {
+          "date": "2026-01-14",
+          "close": 327.11
+        },
+        {
+          "date": "2026-01-15",
+          "close": 341.64
+        },
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "TSMC is a major semiconductor manufacturer known for its advanced manufacturing processes. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 204.68
+        },
+        {
+          "date": "2026-01-09",
+          "close": 203.17
+        },
+        {
+          "date": "2026-01-12",
+          "close": 207.69
+        },
+        {
+          "date": "2026-01-13",
+          "close": 220.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 223.6
+        },
+        {
+          "date": "2026-01-15",
+          "close": 227.92
+        },
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AMD is a prominent player in the graphics card and CPU markets. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 1194.32
+        },
+        {
+          "date": "2026-01-09",
+          "close": 1273.88
+        },
+        {
+          "date": "2026-01-12",
+          "close": 1281.23
+        },
+        {
+          "date": "2026-01-13",
+          "close": 1270.16
+        },
+        {
+          "date": "2026-01-14",
+          "close": 1263.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 1331.6
+        },
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML is a Dutch equipment supplier specializing in lithography machines used in semiconductor manufacturing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 41.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 45.55
+        },
+        {
+          "date": "2026-01-12",
+          "close": 44.06
+        },
+        {
+          "date": "2026-01-13",
+          "close": 47.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 48.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 48.32
+        },
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation is a leader in computer hardware and software development. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 181.87
+        },
+        {
+          "date": "2026-01-09",
+          "close": 177.78
+        },
+        {
+          "date": "2026-01-12",
+          "close": 169.27
+        },
+        {
+          "date": "2026-01-13",
+          "close": 165.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 164.54
+        },
+        {
+          "date": "2026-01-15",
+          "close": 161.39
+        },
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Inc., a mobile communications technology company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

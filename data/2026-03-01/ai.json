@@ -1,0 +1,1010 @@
+{
+  "theme": "ai",
+  "date": "2026-03-01",
+  "last_updated_utc": "2026-03-01T06:40:23.444Z",
+  "news": [
+    {
+      "title": "Nvidia set to launch new chip that could reset the AI race, says report — Key things to know",
+      "description": "Nvidia is in the process of designing a new system for “inference” computing. This will allow the company's customers and their AI models to respond to queries, as per WSJ. This will make the work of companies like OpenAI easier.",
+      "url": "https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-28T05:12:33Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing: WSJ",
+      "description": "Nvidia plans to launch a new processor to help OpenAI and other clients run AI systems faster and more efficiently. The chip is for “inference” computing and will debut at Nvidia’s GTC conference. It incorporates a design by startup Groq.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-plans-new-chip-to-speed-ai-processing-wsj/articleshow/128873790.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T04:20:02Z"
+    },
+    {
+      "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios",
+      "description": "Pentagon approves OpenAI safety red lines after dumping AnthropicAxios OpenAI reaches deal to deploy AI models on U.S. Department of War classified networkReuters Exclusive | Government Agencies Raise Alarm About Use of Elon Musk’s Grok ChatbotWSJ OpenAI Reac…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180872076",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-28T04:12:27Z"
+    },
+    {
+      "title": "Sources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer (Wall Street Journal)",
+      "description": "Wall Street Journal:\nSources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer  —  Under pressure from rivals, the chip giant is set to offer a new product focuse…",
+      "url": "https://www.techmeme.com/260227/p43",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T03:25:02Z"
+    },
+    {
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "description": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two except…",
+      "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "source": "Internet",
+      "publishedAt": "2026-02-28T04:57:00Z"
+    },
+    {
+      "title": "OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic | CNN Business",
+      "description": "OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.",
+      "url": "https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems",
+      "source": "CNN",
+      "publishedAt": "2026-02-28T04:41:49Z"
+    },
+    {
+      "title": "Trump orders US govt to stop using Anthropic AI tech",
+      "description": "US President Donald Trump told the US government to \"immediately\" stop using Anthropic's technology after the AI start-up rejected the Pentagon's demand that it agree to unconditional military use of its Claude models.",
+      "url": "https://www.rte.ie/news/us/2026/0228/1560898-us-anthropic-ai",
+      "source": "RTE",
+      "publishedAt": "2026-02-28T04:29:38Z"
+    },
+    {
+      "title": "OpenAI gets $110 billion in funding from a trio of tech powerhouses, led by Amazon",
+      "description": "OpenAI secures $110 billion in funding from Amazon, Nvidia, and SoftBank, enhancing its AI capabilities and global reach.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-gets-110-billion-in-funding-from-a-trio-of-tech-powerhouses-led-by-amazon/article70686947.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-02-28T03:51:05Z"
+    },
+    {
+      "title": "Altman says agreement reached with Pentagon to deploy OpenAI models for classified work—Did Anthropic refusal clear way?",
+      "description": "OpenAI CEO Sam Altman today announced the company has reached an agreement with the Pentagon to deploy its models in classified networks. This comes amid the department's spat with Anthropic over “full military use” of its AI models.",
+      "url": "https://www.livemint.com/companies/news/sam-altman-openai-reach-agreement-deploy-models-chatgpt-us-pentagon-classified-networks-anthropic-claude-refusal-safety-11772249154934.html",
+      "source": "Livemint",
+      "publishedAt": "2026-02-28T03:36:53Z"
+    },
+    {
+      "title": "Former Trump AI Adviser Torches President’s War on Anthropic: ‘Attempted Corporate Murder’",
+      "description": "A former senior artificial intelligence adviser to President Donald Trump lambasted the president's treatment of Anthropic for failing to cave to the president's demands.\nThe post Former Trump AI Adviser Torches President’s War on Anthropic: ‘Attempted Corpor…",
+      "url": "https://www.mediaite.com/media/tech/former-trump-ai-adviser-torches-presidents-war-on-anthropic-attempted-corporate-murder",
+      "source": "Mediaite",
+      "publishedAt": "2026-02-28T03:24:04Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+      "description": "Feb 27 : Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, more efficient AI systems, the Wall Street Journal reported on Friday, citing people familiar with the matter. Reuters could not immediately verify the r…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-5959981",
+      "source": "CNA",
+      "publishedAt": "2026-02-28T03:22:46Z"
+    },
+    {
+      "title": "'Disastrous Mistake': Trump Calls Out Anthropic, Orders All Federal Agencies to Cut Ties",
+      "description": "Well, that escalated quickly...As Ben Smith reported earlier on Friday, the Pentagon and AI giant Anthropic were in the midst of a showdown regarding the deployment terms of its Claude AI model in defense systems. The Pentagon wanted to authorize \"all lawful …",
+      "url": "https://freerepublic.com/focus/f-news/4368631/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-02-28T03:17:34Z"
+    },
+    {
+      "title": "ChatGPT crosses 900 million weekly users, 50 million paying subscribers",
+      "description": "Per Turley, for many users, ChatGPT is their entry point into AI. They start with writing, building, doing research, planning trips, shopping, or getting tasks done. Turley added that as the number of people using ChatGPT rises, the system learns faster, resu…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-crosses-900-million-weekly-users-50-million-paying-subscribers/articleshow/128876297.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T06:29:38Z"
+    },
+    {
+      "title": "Anthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic (Wired)",
+      "description": "Wired:\nAnthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic  —  Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technolo…",
+      "url": "https://www.techmeme.com/260228/p2",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T06:15:01Z"
+    },
+    {
+      "title": "A pledge for power, but a thirst unquenched: Tech’s data center dilemma",
+      "description": "Major tech companies will meet with President Trump at the White House next week to sign a “Rate Payer Protection Pledge.” The pledge commits companies to providing their own power for new AI data centers to prevent rising electricity bills for nearby consume…",
+      "url": "https://www.naturalnews.com/2026-02-28-a-pledge-for-power-but-a-thirst-unquenched.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-02-28T06:00:00Z"
+    },
+    {
+      "title": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+      "description": "OpenAI has reached an agreement with the Defense Department to deploy its models in the agency’s network, company chief Sam Altman has revealed on X. In his post, he said two of OpenAI’s most important safety principles are “prohibitions on domestic mass surv…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180872350",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-02-28T05:52:31Z"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei calls White House's actions \"retaliatory and punitive\"",
+      "description": "Hours before Anthropic CEO Dario Amodei's interview, Defense Secretary Pete Hegseth deemed the AI company a \"supply chain risk to national security,\" which restricts military contractors from doing business with Anthropic.",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-white-house-actions-retaliatory-and-punitive",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:46:46Z"
+    },
+    {
+      "title": "Trump orders immediate halt to government use of Anthropic: Six-month termination of contracts and threats of “criminal consequences”",
+      "description": "The U.S. president accuses the AI company of refusing unlimited access for the military – Support for Dario Amodei from Sam Altman, backlash across the tech sector\nThe post Trump orders immediate halt to government use of Anthropic: Six-month termination of c…",
+      "url": "https://en.protothema.gr/2026/02/28/trump-orders-immediate-halt-to-government-use-of-anthropic-six-month-termination-of-contracts-and-threats-of-criminal-consequences",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-02-28T05:45:19Z"
+    },
+    {
+      "title": "Anthropic CEO on \"retaliatory and punitive\" Pentagon action",
+      "description": "In an exclusive interview with CBS News, Anthropic CEO Dario Amodei said that the Pentagon's decision to designate the AI company a supply chain risk is \"retaliatory and punitive.\" The Pentagon made the designation, which restricts military contractors from d…",
+      "url": "https://www.cbsnews.com/video/anthropic-ceo-retaliatory-punitive-pentagon-action",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:35:00Z"
+    },
+    {
+      "title": "Full interview: Anthropic CEO Dario Amodei on Pentagon feud",
+      "description": "Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant.…",
+      "url": "https://www.cbsnews.com/video/full-interview-anthropic-ceo-dario-amodei-pentagon-feud",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:22:00Z"
+    },
+    {
+      "title": "Anthropic CEO on \"red lines\" for AI military use: \"We wanted to stand up for American values\"",
+      "description": "Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw \"red lines\" in the government's use of its technology because \"we believe that crossing those lines is contrary to American values, and we wanted to sta…",
+      "url": "https://www.cbsnews.com/video/anthropic-ceo-red-lines-ai-military-use-we-wanted-to-stand-up-for-american-values",
+      "source": "CBS News",
+      "publishedAt": "2026-02-28T05:21:00Z"
+    },
+    {
+      "title": "OpenAI gives Pentagon access to models after Anthropic dustup",
+      "description": "The startup also built safeguards to ensure its models behave as they should as part of the deployment, Altman said in a post on the social media platform X",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/openai-gives-pentagon-access-to-models-after-anthropic-dustup",
+      "source": "Bloomberg",
+      "publishedAt": "2026-02-28T04:48:30Z"
+    },
+    {
+      "title": "Anthropic hack puts IT stock pack on slide row in February; Nifty IT's 19% fall worst since 2008 crisis",
+      "description": "The Nifty IT index plunged 19.5% in February, its steepest monthly drop since 2008, as AI disruption fears and new tools from Anthropic triggered heavy selling. Tech stocks erased Rs 5.7 lakh crore in market value, with Coforge and LTIMindtree among the worst…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-hack-puts-it-stock-pack-on-slide-row-in-february-nifty-its-19-fall-worst-since-2008-crisis/articleshow/128874027.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-02-28T04:33:56Z"
+    },
+    {
+      "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+      "description": "OpenAI CEO Sam Altman said on X that his company has come to terms with the Defense Department for use of its models.",
+      "url": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
+      "source": "CNBC",
+      "publishedAt": "2026-02-28T04:06:32Z"
+    },
+    {
+      "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+      "description": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley",
+      "source": "Wired",
+      "publishedAt": "2026-02-28T03:30:41Z"
+    },
+    {
+      "title": "Nvidia plans new chip to speed AI processing, WSJ reports",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_511b0dd4-5b0a-4671-9b57-b48be8954a2a",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-28T03:22:46Z"
+    },
+    {
+      "title": "Sam Altman says OpenAI reached an agreement with the DOD to deploy its models in DOD's classified network and asks DOD to extend those terms to all AI companies (Sam Altman/@sama)",
+      "description": "Sam Altman / @sama:\nSam Altman says OpenAI reached an agreement with the DOD to deploy its models in DOD's classified network and asks DOD to extend those terms to all AI companies  —  Tonight, we reached an agreement with the Department of War to deploy our …",
+      "url": "https://www.techmeme.com/260227/p42",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-02-28T03:20:01Z"
+    },
+    {
+      "title": "OpenAI Reaches Deal To Deploy AI Models On U.S. Department Of Defense Classified Network",
+      "description": "\"In all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome,\" Altman said in a post on X.",
+      "url": "https://www.huffpost.com/entry/openai-reaches-deal-deploy-ai-models-on-us-department-defense-classified-network_n_69a25ccbe4b079071315618e",
+      "source": "HuffPost",
+      "publishedAt": "2026-02-28T03:18:12Z"
+    },
+    {
+      "title": "OpenAI reaches deal to deploy AI models on US Department of War classified network",
+      "description": "Feb 27 : OpenAI CEO Sam Altman said on Friday it has reached an agreement with the U.S. Department of War to deploy its AI models on classified cloud networks.\"In all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to …",
+      "url": "https://www.channelnewsasia.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-5959976",
+      "source": "CNA",
+      "publishedAt": "2026-02-28T03:17:55Z"
+    },
+    {
+      "title": "Anthropic calls Pentagon's supply chain risk tag 'unprecedented', vows to challenge in court",
+      "description": "The company argued that current frontier AI models are &quot;not reliable enough&quot; for fully autonomous weapons and warned that such use could endanger US troops and civilians.",
+      "url": "https://www.moneycontrol.com/news/business/anthropic-calls-pentagon-s-supply-chain-risk-tag-unprecedented-vows-to-challenge-in-court-13846464.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-02-28T03:16:32Z"
+    },
+    {
+      "title": "'Attempted corporate murder': Trump's threats against Anthropic chill AI industry (Brendan Bordelon/Politico)",
+      "description": "Brendan Bordelon / Politico:\n‘Attempted corporate murder’: Trump's threats against Anthropic chill AI industry … The dispute has opened up a wider debate on AI's potential for enabling mass surveillance of U.S. citizens and computer-directed killing, two beha…",
+      "url": "https://www.memeorandum.com/260227/p118",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-02-28T03:15:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "NVIDIA plans to launch a new AI inference chip",
+      "Pentagon approves OpenAI safety red lines",
+      "OpenAI signs deal with Pentagon for AI models"
+    ],
+    "insights": [
+      "NVIDIA aims to improve AI processing efficiency",
+      "Pentagon supports OpenAI's AI usage in military",
+      "OpenAI collaborates with Pentagon for AI deployment"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Industry Developments",
+      "summary": "The tech industry continues to evolve with advancements in AI processing and collaboration between major players.",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html",
+        "https://economictimes.indiatimes.com/tech/technology/nvidia-plans-new-chip-to-speed-ai-processing-wsj/articleshow/128873790.cms",
+        "https://slashdot.org/firehose.pl?op=view&id=180872076"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 185.04
+        },
+        {
+          "date": "2026-01-09",
+          "close": 184.86
+        },
+        {
+          "date": "2026-01-12",
+          "close": 184.94
+        },
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA is a leading provider of graphics processors and AI chips. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 478.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 479.28
+        },
+        {
+          "date": "2026-01-12",
+          "close": 477.18
+        },
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a multinational technology corporation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 325.44
+        },
+        {
+          "date": "2026-01-09",
+          "close": 328.57
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.86
+        },
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a search engine and cloud services company. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 246.29
+        },
+        {
+          "date": "2026-01-09",
+          "close": 247.38
+        },
+        {
+          "date": "2026-01-12",
+          "close": 246.47
+        },
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is a retail and e-commerce platform. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 646.06
+        },
+        {
+          "date": "2026-01-09",
+          "close": 653.06
+        },
+        {
+          "date": "2026-01-12",
+          "close": 641.97
+        },
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms Inc., formerly known as Facebook, Inc., is a social media and internet company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
