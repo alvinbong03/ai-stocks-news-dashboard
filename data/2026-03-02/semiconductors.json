@@ -1,0 +1,1045 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-02",
+  "last_updated_utc": "2026-03-02T06:52:50.876Z",
+  "news": [
+    {
+      "title": "After Micron, CG Semi nears OSAT launch & 7,000 workers build Tata Electronics’ Dholera Fab in Gujarat",
+      "description": "In Semicon 2.0, our priority will be the design ecosystem so that deep tech startups get the opportunity to develop the next Qualcomm, Nvidia, says Ashwini Vaishnaw",
+      "url": "https://www.thehindubusinessline.com/info-tech/after-micron-cg-semi-nears-osat-launch-7000-workers-build-tata-electronics-dholera-fab-in-gujarat/article70690876.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-01T06:46:17Z"
+    },
+    {
+      "title": "Show HN: Gpu.fund – GPU rental prices across Vast.ai, RunPod, AWS, GCP and more",
+      "description": "Article URL: https://gpu.fund/\nComments URL: https://news.ycombinator.com/item?id=47204214\nPoints: 1\n# Comments: 0",
+      "url": "https://gpu.fund/",
+      "source": "Gpu.fund",
+      "publishedAt": "2026-03-01T06:27:25Z"
+    },
+    {
+      "title": "Ambassador Sergio Gor praises Gujarat’s 'incredible potential'",
+      "description": "United States Ambassador Sergio Gor met with Gujarat Chief Minister Bhupendra Patel. They discussed boosting cooperation in trade, technology, and manufacturing. Gor praised India's entry into global semiconductor supply chains. He noted ten semiconductor pro…",
+      "url": "https://economictimes.indiatimes.com/news/india/ambassador-sergio-gor-praises-gujarats-incredible-potential/articleshow/128907755.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-01T06:25:51Z"
+    },
+    {
+      "title": "Show HN: Papercut – track ArXiv topics, get notified, skim with AI summaries",
+      "description": "Hey HN, I follow a few research areas on arXiv but I never had a good routine for keeping up. I'd check when I remembered, fall behind, then try to catch up on a week's worth of papers at once.I built Papercut so I don't have to think about it. You define the…",
+      "url": "https://github.com/rajatady/Papercut",
+      "source": "Github.com",
+      "publishedAt": "2026-03-01T06:17:36Z"
+    },
+    {
+      "title": "Show HN: I built a desktop app combining Claude, GPT, Gemini with local Ollama",
+      "description": "I built a desktop app (PyQt6, Windows) that orchestrates multiple AI models in a 3-phase pipeline:Phase 1 – A cloud LLM (Claude/GPT/Gemini) decomposes the prompt into structured sub-tasks\nPhase 2 – Local Ollama models process each sub-task (free, private, run…",
+      "url": "https://github.com/tsunamayo7/helix-ai-studio",
+      "source": "Github.com",
+      "publishedAt": "2026-03-01T05:29:57Z"
+    },
+    {
+      "title": "Veteran analyst sends shocking message on Nvidia after earnings - thestreet.com",
+      "description": "Veteran analyst sends shocking message on Nvidia after earningsthestreet.com NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026NVIDIA Newsroom Stock market today: S&P 500, Nasdaq retreat as Nvidia falls 5% despite stellar earningsYahoo Fina…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180876720",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-01T05:12:31Z"
+    },
+    {
+      "title": "'Any breach of contract could trigger a termination': OpenAI's layered protections in US defence department pact",
+      "description": "OpenAI has finalised a deal with the Pentagon for its technology on classified networks. This agreement includes significant safeguards for its use. Earlier, Anthropic was declared a supply-chain risk by the Pentagon. OpenAI stated its deal has more guardrail…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/any-breach-of-contract-could-trigger-a-termination-openais-layered-protections-in-us-defence-department-pact/articleshow/128905640.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-01T04:55:19Z"
+    },
+    {
+      "title": "‘India reliable’: PM woos global investors at chip plant launch",
+      "description": "India News: AHMEDABAD: Amid intensifying geopolitical conflicts and trade tensions, Prime Minister Narendra Modi made a strong pitch on Saturday for India as a pr.",
+      "url": "https://timesofindia.indiatimes.com/india/india-reliable-pm-woos-global-investors-at-chip-plant-launch/articleshow/128903959.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-01T03:02:36Z"
+    },
+    {
+      "title": "Sam Altman Answers Questions on X.com About Pentagon Deal, Threats to Anthropic",
+      "description": "Saturday afternoon Sam Altman announced he'd start answering questions on X.com about OpenAI's work with America's Department of War — and all the developments over the past few days. (After that department's negotions had failed with Anthropic, they announce…",
+      "url": "https://news.slashdot.org/story/26/03/01/0233230/sam-altman-answers-questions-on-xcom-about-pentagon-deal-threats-to-anthropic",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-01T02:39:00Z"
+    },
+    {
+      "title": "Will Apple’s upcoming low-cost MacBook actually be worthwhile?",
+      "description": "As soon as next week, Apple is set to unveil its cheapest MacBook to date. It’ll be powered by an A18 Pro chip, offer a 12.9-inch display, and come in a plethora of colors. It’ll also have a couple key compromises to bring it down to a lower starting price. T…",
+      "url": "https://9to5mac.com/2026/02/28/low-cost-macbook-comparison-to-macbook-air-good-value",
+      "source": "9to5Mac",
+      "publishedAt": "2026-03-01T01:43:37Z"
+    },
+    {
+      "title": "Top Illinois high school football recruits in the Class of 2027",
+      "description": "The state of Illinois is among the deepest in the country when it comes to high school football talent in the Class of 2027. Not traditionally known as a fertile recruiting ground, the Prairie State boasts 14 blue-chip prospects in the latest Rivals300 rankin…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dd9202f9-958d-46d1-bcd3-cdc97d5c9397",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-01T01:30:09Z"
+    },
+    {
+      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+      "description": "Step-by-step guide to clustering AMD Ryzen™ AI Max+ systems for local one trillion-parameter LLM inference using llama.cpp RPC and ROCm.",
+      "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+      "source": "Amd.com",
+      "publishedAt": "2026-03-01T01:24:54Z"
+    },
+    {
+      "title": "Amazon strikes $50B OpenAI deal to launch stateful AI services - Axios",
+      "description": "Amazon strikes $50B OpenAI deal to launch stateful AI servicesAxios Scaling AI for everyoneOpenAI OpenAI clinches $840 billion valuation with mega funding from Amazon, Nvidia, SoftBankYahoo Finance Nvidia: Firm Strikes a Levelheaded Deal With Its $30 Billion …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180875670",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-01T00:52:40Z"
+    },
+    {
+      "title": "South Korea Feb exports beat forecasts, rise for ninth month",
+      "description": "SEOUL, March 1 : South Korea's exports extended their growth streak to a ninth month in February as strong chip sales continued to underpin overall shipments even as uncertainties regarding U.S. tariffs cloud the outlook.Exports from Asia's fourth-largest eco…",
+      "url": "https://www.channelnewsasia.com/business/south-korea-feb-exports-beat-forecasts-rise-ninth-month-5961266",
+      "source": "CNA",
+      "publishedAt": "2026-03-01T00:35:09Z"
+    },
+    {
+      "title": "SemicON: Modi launches Micron facility in Gujarat",
+      "description": "The semiconductor assembly, testing, marking and packaging facility in the industrial hub of Sanand is the first of 10 projects under the India Semiconductor Mission (ISM) that has begun commercial production and shipment. It converts advanced DRAM (dynamic r…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/semicon-modi-launches-micron-facility-in-gujarat/articleshow/128893995.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-01T00:30:00Z"
+    },
+    {
+      "title": "Why the Pentagon blacklisted Anthropic and what it means for military AI",
+      "description": "The Pentagon designates Anthropic a supply chain risk, ending its AI contract. Here’s what the clash means for military AI, OpenAI and US tech policy.",
+      "url": "https://www.thehindubusinessline.com/info-tech/why-the-pentagon-blacklisted-anthropic-and-what-it-means-for-military-ai/article70689558.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-01T00:23:58Z"
+    },
+    {
+      "title": "Insulin Resistance — What It Is and How to Fight It",
+      "description": "Have you ever wondered why some people gain weight easily or struggle with high blood sugar? It could involve insulin resistance. This happens when your body's cells don't respond well to insulin, a hormone that controls your blood sugar. If left unchecked, i…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/03/01/insulin-resistance-what-it-is-how-to-fight-it.aspx",
+      "source": "Mercola.com",
+      "publishedAt": "2026-03-01T00:00:00Z"
+    },
+    {
+      "title": "Red Hat, NVIDIA, and Palo Alto Networks collaborate to deliver an integrated, security-first foundation for AI-native telecommunications",
+      "description": "AI-driven network operations are increasingly becoming central to how service providers manage network complexity, optimize performance, and deliver services faster and more efficiently. AI is no longer just an application-layer technology, it’s becoming foun…",
+      "url": "https://www.redhat.com/en/blog/red-hat-nvidia-and-palo-alto-networks-collaborate-deliver-integrated-security-first-foundation-ai-native-telecommunications",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-01T00:00:00Z"
+    },
+    {
+      "title": "Taiwan's Fitipower eyes stronger year as AI and edge chips gain traction",
+      "description": "Fitipower, a Taiwanese driver IC and semiconductor supplier, offered a cautiously optimistic outlook for 2026 during its February 25 investor briefing. Chairman Young Lin said the company expects full-year performance to surpass 2025, with growth increasingly…",
+      "url": "https://www.digitimes.com/news/a20260226PD225/fitipower-driver-ic-chips-revenue-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-28T23:30:46Z"
+    },
+    {
+      "title": "Chipmakers pivot to new growth areas as memory shortages weigh on smartphones",
+      "description": "Nearly all smartphone brands are facing pressure from severe memory supply constraints. Major Chinese smartphone brands have indicated that their procurement volumes this year will decline significantly, with some dropping by as much as 15–20%. For smartphone…",
+      "url": "https://www.digitimes.com/news/a20260226PD223/smartphone-growth-qualcomm-revenue-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-28T23:30:26Z"
+    },
+    {
+      "title": "Julian Champagnie tells The Post he has ‘that chip on my shoulder’ as he returns to Garden with Spurs",
+      "description": "Coming home is always special for Julian Champagnie because of the reminder it provides.",
+      "url": "https://nypost.com/2026/02/28/sports/spurs-julian-champagnie-tells-the-post-he-has-that-chip-on-my-shoulder",
+      "source": "New York Post",
+      "publishedAt": "2026-02-28T23:25:54Z"
+    },
+    {
+      "title": "Micron opens semiconductor assembly and test facility in India",
+      "description": "Micron Technology has inaugurated its first semiconductor assembly and test facility in Sanand, expanding its global manufacturing footprint while supporting India's efforts to strengthen its role in the semiconductor value chain.",
+      "url": "https://www.digitimes.com/news/a20260301VL200/micron-manufacturing-hardware-investment-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-02-28T22:45:22Z"
+    },
+    {
+      "title": "The Biggest Bottleneck in AI Isn't Chips Anymore; It's Power. These 2 Stocks Could Soar in 2026.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0d612f5c-6bdd-418c-87f3-17c378bf3ce4",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-02-28T22:35:00Z"
+    },
+    {
+      "title": "Qnity Electronics Q4 Earnings Call Highlights",
+      "description": "Qnity Electronics (NYSE:Q) executives pointed to continued momentum tied to artificial intelligence and advanced semiconductor manufacturing as the company...",
+      "url": "https://www.marketbeat.com/instant-alerts/qnity-electronics-q4-earnings-call-highlights-2026-02-28?amp%3Butm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "publishedAt": "2026-02-28T22:05:41Z"
+    },
+    {
+      "title": "Compresto 1.25",
+      "description": "Note:– You must allow app through firewall initially, then enter any license to activate– App may work on newer versions (with firewall) What’s New Version 1.25: Release notes were unavailable when this listing was updated.Compatibility macOS 13.0 or later Ap…",
+      "url": "https://post.rlsbb.to/compresto-1-25",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:59:45Z"
+    },
+    {
+      "title": "OmniFocus Pro 4.8.8",
+      "description": "OmniFocus is an organizer app. It uses projects to organize tasks naturally, and then add tags to organize across projects. Easily enter tasks when you’re on the go, and process them when you have time. Tap the Forecast view – which shows both tasks and calen…",
+      "url": "https://post.rlsbb.to/omnifocus-pro-4-8-8",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:58:46Z"
+    },
+    {
+      "title": "Squeezer 2.9.6",
+      "description": "Squeezer is the Web developer’s pal. It can compile your scripts, optimize your images, and shave unnecessary file bulk to speed site load times. Just drag-and-drop your files, and Squeezer will take care of the rest! Easy-to-use, intuitive UI Batteries-inclu…",
+      "url": "https://post.rlsbb.to/squeezer-2-9-6",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:57:13Z"
+    },
+    {
+      "title": "PhotoFoundry 1.3.0",
+      "description": "Professional batch photo-editing. Filters, photo effects, resizing, watermarks, …anything you’ve been looking for in a photo-editing app. Features Easy-to-use Just open or drag’n’drop your photos and PhotoFoundry will take care of the rest. Fast All the speed…",
+      "url": "https://post.rlsbb.to/photofoundry-1-3-0",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:56:47Z"
+    },
+    {
+      "title": "OmniPlan Pro 4.10.2",
+      "description": "With OmniPlan Pro, you can create logical, manageable project plans with Gantt charts, schedules, summaries, milestones, and critical paths. Break down the tasks needed to make your project a success, optimize resources, and streamline budgets. It’s project m…",
+      "url": "https://post.rlsbb.to/omniplan-pro-4-10-2",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:55:24Z"
+    },
+    {
+      "title": "Anthropic CEO responds to Pentagon order prohibiting military use",
+      "description": "The CEO of Anthropic provides an update following an announcement from US government officials designating the company as a \"supply chain risk.\"",
+      "url": "https://cointelegraph.com/news/anthropic-ceo-responds-pentagon-order-restrict-military",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-28T21:48:33Z"
+    },
+    {
+      "title": "MSI Cyborg 15.6 inch FHD 144Hz Gaming Laptop Intel Core 7 240H NVIDIA GeForce RTX 5060 - 16GB RAM 512GB SSD Black (2025) $899 @ Walmart",
+      "description": "MSI Cyborg 15.6 inch FHD 144Hz Gaming Laptop Intel Core 7 240H NVIDIA GeForce RTX 5060 - 16GB RAM 512GB SSD Black (2025) \n \nhttps://www.walmart.com/ip/MSI-Cy...6611706375",
+      "url": "https://slickdeals.net/f/19259314-msi-cyborg-15-6-inch-fhd-144hz-gaming-laptop-intel-core-7-240h-nvidia-geforce-rtx-5060-16gb-ram-512gb-ssd-black-2025-899-walmart",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-02-28T21:41:18Z"
+    },
+    {
+      "title": "Cockos REAPER 7.62",
+      "description": "Description: Cockos REAPER Full Crack Download: Cockos REAPER is an effective but realistic home windows application that helps you to file, arrange, edit, and render multi-music waveform audio. REAPER Latest Version offers an intensive set of features but is…",
+      "url": "https://post.rlsbb.to/cockos-reaper-7-62",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:41:12Z"
+    },
+    {
+      "title": "Easy System Utility Pro 1.1.54",
+      "description": "Description: Easy System Utility is a powerful, all-in-one program designed for Windows 10 and 11 users. This versatile tool will be your main choice for making your computer experience better! Home TabIdentify your computer’s hardware specifications with the…",
+      "url": "https://post.rlsbb.to/easy-system-utility-pro-1-1-54",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-02-28T21:37:42Z"
+    },
+    {
+      "title": "Lenovo Starts LPCAMM2 Rollout With Chinese ThinkBook 14+ and 16+ Launch",
+      "description": "Lenovo has officially launched the ThinkBook 16+ in China, officially kicking off its LPCAMM2 rollout to mainstream laptop after it launched the ThinkPad P1 Gen 7 with the new RAM standard as far back as 2024. LPCAMM2 is a new memory standard that allows all …",
+      "url": "https://www.techpowerup.com/346892/lenovo-starts-lpcamm2-rollout-with-chinese-thinkbook-14-and-16-launch",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-02-28T21:34:27Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "CG Semi nears OSAT launch",
+      "7,000 workers building Tata Electronics' Dholera Fab",
+      "Ambassador Sergio Gor praises Gujarat's potential",
+      "Papercut tracks ArXiv topics",
+      "Helix-ai-studio combines AI models locally"
+    ],
+    "insights": [
+      "Semiconductor industry",
+      "Gujarat's economic development",
+      "Research and development tools"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "CG Semi nears OSAT launch",
+      "summary": "In Semicon 2.0, our priority will be the design ecosystem so that deep tech startups get the opportunity to develop the next Qualcomm, Nvidia.",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/after-micron-cg-semi-nears-osat-launch-7000-workers-build-tata-electronics-dholera-fab-in-gujurat/article70690876.ece"
+      ]
+    },
+    {
+      "title": "Papercut tracks ArXiv topics",
+      "summary": "Hey HN, I follow a few research areas on arXiv but I never had a good routine for keeping up. I'd check when I remembered, fall behind, then try to catch up on a week's worth of papers at once. I built Papercut so I don't have to think about it. You define the topic area.",
+      "article_urls": [
+        "https://github.com/rajatady/Papercut"
+      ]
+    },
+    {
+      "title": "Helix-ai-studio combines AI models locally",
+      "summary": "I built a desktop app (PyQt6, Windows) that orchestrates multiple AI models in a 3-phase pipeline:Phase 1 – A cloud LLM (Claude/GPT/Gemini) decomposes the prompt into structured sub-tasks Phase 2 – Local Ollama models process each sub-task (free, private, run…",
+      "article_urls": [
+        "https://github.com/tsunamayo7/helix-ai-studio"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 318.01
+        },
+        {
+          "date": "2026-01-09",
+          "close": 323.63
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.77
+        },
+        {
+          "date": "2026-01-13",
+          "close": 331.21
+        },
+        {
+          "date": "2026-01-14",
+          "close": 327.11
+        },
+        {
+          "date": "2026-01-15",
+          "close": 341.64
+        },
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Taiwan Semiconductor Manufacturing Company Limited (TSM), a major semiconductor manufacturer, is expected to play a crucial role in the future of semiconductors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 204.68
+        },
+        {
+          "date": "2026-01-09",
+          "close": 203.17
+        },
+        {
+          "date": "2026-01-12",
+          "close": 207.69
+        },
+        {
+          "date": "2026-01-13",
+          "close": 220.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 223.6
+        },
+        {
+          "date": "2026-01-15",
+          "close": 227.92
+        },
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Advanced Micro Devices (AMD) is a leading processor maker and a key player in the semiconductor industry. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 1194.32
+        },
+        {
+          "date": "2026-01-09",
+          "close": 1273.88
+        },
+        {
+          "date": "2026-01-12",
+          "close": 1281.23
+        },
+        {
+          "date": "2026-01-13",
+          "close": 1270.16
+        },
+        {
+          "date": "2026-01-14",
+          "close": 1263.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 1331.6
+        },
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Applied Materials, Inc. (ASML) is a Dutch multinational equipment manufacturer specializing in semiconductor processing equipment. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 41.11
+        },
+        {
+          "date": "2026-01-09",
+          "close": 45.55
+        },
+        {
+          "date": "2026-01-12",
+          "close": 44.06
+        },
+        {
+          "date": "2026-01-13",
+          "close": 47.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 48.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 48.32
+        },
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation (INTC) is a leader in microprocessors and other computing components. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-08",
+          "close": 181.87
+        },
+        {
+          "date": "2026-01-09",
+          "close": 177.78
+        },
+        {
+          "date": "2026-01-12",
+          "close": 169.27
+        },
+        {
+          "date": "2026-01-13",
+          "close": 165.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 164.54
+        },
+        {
+          "date": "2026-01-15",
+          "close": 161.39
+        },
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Technologies, Inc. (QCOM) is a leading provider of mobile communication technologies. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
