@@ -1,0 +1,996 @@
+{
+  "theme": "ai",
+  "date": "2026-03-03",
+  "last_updated_utc": "2026-03-03T06:44:17.232Z",
+  "news": [
+    {
+      "title": "Report: Nvidia is working on a top secret AI inference chip that could debut next month",
+      "description": "Nvidia Corp. is reportedly working on a dedicated inference processor that will be used by OpenAI and other artificial intelligence companies to develop faster and more efficient models, according to a Friday report in the Wall Street Journal. The new inferen…",
+      "url": "https://siliconangle.com/2026/03/01/report-nvidia-working-top-secret-ai-inference-chip-debut-next-month",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-02T00:03:43Z"
+    },
+    {
+      "title": "I don't pay for ChatGPT, Perplexity, Gemini, or Claude – I stick to my self-hosted LLMs instead",
+      "description": "There's no point in relying on AI tools when my local LLMs can handle everything",
+      "url": "https://www.xda-developers.com/i-stick-to-my-self-hosted-llms-instead-of-chatgpt",
+      "source": "XDA Developers",
+      "publishedAt": "2026-03-02T05:47:02Z"
+    },
+    {
+      "title": "Anthropic’s Claude chatbot climbs to no.1 on Apple’s US App Store amid Pentagon contract row",
+      "description": "Anthropic’s chatbot Claude has reached number one in the free rankings on the US Apple App Store, overtaking OpenAI’s ChatGPT, with record registrations and rising subscriptions.  The milestone comes amid tensions with the Pentagon after Donald Trump halted f…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-chatbot-climbs-to-no-1-on-apples-us-app-store-amid-pentagon-contract-row/articleshow/128937320.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-02T05:06:16Z"
+    },
+    {
+      "title": "Meta reportedly scraps advanced in-house AI chip, deepens reliance on Nvidia and AMD",
+      "description": "Meta's push to design its own AI chips has reportedly hit major technical and strategic setbacks, forcing the company to scrap its most ambitious in-house training processor and lean more heavily on external suppliers, according to The Information.",
+      "url": "https://www.digitimes.com/news/a20260302VL206/meta-ai-chip-design-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-02T04:08:04Z"
+    },
+    {
+      "title": "Why Are Developers Talking About Open-Source LLM Alternatives to GPT?",
+      "description": "Explore why developers are turning to open-source LLMs as GPT alternatives. Gain cost control, data privacy, customization, and enterprise AI flexibility.",
+      "url": "https://www.c-sharpcorner.com/article/why-are-developers-talking-about-open-source-llm-alternatives-to-gpt",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-02T06:17:20Z"
+    },
+    {
+      "title": "OpenAI’s Altman says Pentagon set ‘scary precedent’ binning Anthropic",
+      "description": "Signs a deal with Washington anyway, says he’s kept control of killer robots by allowing only cloudy AI, with guardrails OpenAI has signed a deal with the United States Department of War (DoW) that allows use of its advanced AI systems in classified environme…",
+      "url": "https://www.theregister.com/2026/03/02/open_ai_dow_anthropic_ai_ethics",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-02T05:27:53Z"
+    },
+    {
+      "title": "OpenAIがアメリカ軍と契約を結んだ後「ChatGPTをキャンセルせよ」という動きがインターネット上で注目を集める",
+      "description": "Anthropicに代わってアメリカ国防総省(戦争省)との契約を締結したOpenAIに対し、キャンセル・カルチャーが興りました。\"Cancel ChatGPT\" movement goes big after OpenAI's latest move | Windows Centralhttps://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-d…",
+      "url": "https://news.livedoor.com/article/detail/30680070",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-02T05:00:00Z"
+    },
+    {
+      "title": "Claude Pro (Anthropic) AI Subscription $10/month for 3 Months (Regular $20/month)",
+      "description": "Get Claude Pro (Anthropic) AI Subscription $10/month for 3 Months (Regular $20/month)! \n \nValid for new users or users who have not previously had a paid subscription. \n \nhttps://claude.ai/acquired",
+      "url": "https://slickdeals.net/f/19262596-claude-pro-anthropic-ai-subscription-10-month-for-3-months-regular-20-month",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-02T02:25:49Z"
+    },
+    {
+      "title": "TWiT 1073: Broetry in Motion - Anthropic Stands Up to The Pentagon",
+      "description": "Anthropic's clash with the Pentagon pits tech ethics against government demands, raising explosive questions about AI's role in surveillance and weaponry. If you care about who controls the future of artificial intelligence, this episode is a must-listen.<ul>…",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1073",
+      "source": "Twit.tv",
+      "publishedAt": "2026-03-02T01:26:49Z"
+    },
+    {
+      "title": "Claudeが社内に広がるほど、.envが危ない。Cowork時代に必要なのは「便利さ」より秘密情報の置き場所 - Qiita",
+      "description": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? このポスト、かなり本質を突いている 正直、この投稿は「Claudeが社内で流行っている」という話より、AIエージェント時代のセキュリティの地雷をかなり端的に言い当てていると思う...",
+      "url": "https://qiita.com/taketsuyo/items/4e158dbe22bc4c8d4e0d",
+      "source": "Qiita.com",
+      "publishedAt": "2026-03-02T06:30:52Z"
+    },
+    {
+      "title": "How Are Companies Integrating Generative AI into Production Applications",
+      "description": "Explore how companies are integrating generative AI into production for customer support, software development, marketing, and more. Learn about AI architecture and governance.",
+      "url": "https://www.c-sharpcorner.com/article/how-are-companies-integrating-generative-ai-into-production-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-02T06:29:24Z"
+    },
+    {
+      "title": "Insight: Broadcom delivers 2nm 3.5D AI processor, expanding custom chip push against Nvidia",
+      "description": "Broadcom has begun shipping the industry's first 2nm custom compute SoC built on its 3.5D eXtreme Dimension System in Package (XDSiP) platform to Japan's Fujitsu, marking a concrete step from roadmap promise to commercial deployment in the AI infrastructure r…",
+      "url": "https://www.digitimes.com/news/a20260302VL212/broadcom-2nm-nvidia-processor-shipping.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-02T06:14:04Z"
+    },
+    {
+      "title": "Proposed 2,100-acre Texas AI data center sparks outrage over threat to Dinosaur Valley State Park",
+      "description": "NRG Energy plans a massive AI data center and optional natural gas power plant on 2,100 to 2,600 acres near Dinosaur Valley State Park, including 27 buildings totaling roughly eight million square feet. The site is home to preserved dinosaur footprints and cr…",
+      "url": "https://www.naturalnews.com/2026-03-02-proposed-texas-ai-data-center-sparks-outrage.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-02T06:00:00Z"
+    },
+    {
+      "title": "Rare Huawei-ByteDance alliance unveils RRAM AI chip delivering 66x CPU speed at ISSCC 2026",
+      "description": "Huawei and ByteDance have jointly unveiled a next-generation AI acceleration chip based on resistive random-access memory (RRAM), developed with Tsinghua University and other Beijing research institutions.",
+      "url": "https://www.digitimes.com/news/a20260302PD215/huawei-bytedance-rram-isscc-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-02T04:37:31Z"
+    },
+    {
+      "title": "Show HN: PrivacyShield – Mask your PII before it reaches ChatGPT/Claude",
+      "description": "Hi HN, I built this because I kept pasting sensitive info into ChatGPT without thinking client names, financial details, API keys.PrivacyShield detects 15+ types of PII as you type, masks them with placeholders like [PERSON_A] before sending, then unmasks the…",
+      "url": "https://www.piiblock.com/",
+      "source": "Piiblock.com",
+      "publishedAt": "2026-03-02T04:08:18Z"
+    },
+    {
+      "title": "Show HN: AluminatiAi – Per-job GPU energy cost tracking (open source)",
+      "description": "I built a lightweight GPU monitoring agent that streams power metrics to a dashboard and converts watts into actual dollar costs — per job, per GPU, per day.The problem: nvidia-smi shows you watts right now. Your cloud provider shows you a monthly total. But …",
+      "url": "https://news.ycombinator.com/item?id=47213628",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-02T03:43:45Z"
+    },
+    {
+      "title": "NVIDIA と世界の通信業界のリーダー企業がオープンで安全な AI ネイティブ プラットフォーム上に 6G 構築を推進",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/589/12662-589-b0ec31f56b5b7ede748a7ab197a0fd10-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000589.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-02T03:40:26Z"
+    },
+    {
+      "title": "Commentary: Nvidia sparks silicon photonics race, yet copper still anchors data centers?",
+      "description": "As data center computing demand expands, high-speed transmission architectures are under pressure to upgrade. Scaling high-performance computing platforms is exposing bandwidth and power consumption as core bottlenecks in data transmission and switching, elev…",
+      "url": "https://www.digitimes.com/news/a20260302PD210/data-center-cpo-siph-copper-transmission.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-02T03:34:06Z"
+    },
+    {
+      "title": "Show HN: Ralphex – autonomous GPT Codex agent loop for ChatGPT Pro users",
+      "description": "Article URL: https://github.com/SmolNero/ralphex\nComments URL: https://news.ycombinator.com/item?id=47213477\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/SmolNero/ralphex",
+      "source": "Github.com",
+      "publishedAt": "2026-03-02T03:23:05Z"
+    },
+    {
+      "title": "ClaudeがApp Storeのランキングで1位に浮上、ユーザーがAnthropicの政府との対立を支持か",
+      "description": "AnthropicのClaudeがアメリカのApp Storeのダウンロード数ランキングでトップに躍り出たと報じられています。Anthropicはアメリカ国防総省と対立したことが報じられており、ユーザーがAnthropicの姿勢を支持した結果ではないかと推測されています。Anthropic's Claude hits No. 1 on Apple's top free apps listhttps://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.htm…",
+      "url": "https://news.livedoor.com/article/detail/30679027",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-02T03:10:00Z"
+    },
+    {
+      "title": "SynaXG Proves the Art of the Possible with Fully Software-Defined AI-RAN on NVIDIA AI Aerial",
+      "description": "Achieves benchmark 5G vRAN performance on FR1 and FR2, with seamless orchestration between AI and RAN workloads BARCELONA, Spain and SINGAPORE, March 02, 2026 (GLOBE NEWSWIRE) — SynaXG today announced major technical breakthroughs in AI-native radio access ne…",
+      "url": "https://financialpost.com/globe-newswire/synaxg-proves-the-art-of-the-possible-with-fully-software-defined-ai-ran-on-nvidia-ai-aerial",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-02T03:04:21Z"
+    },
+    {
+      "title": "SynaXG Proves the Art of the Possible with Fully Software-Defined AI-RAN on NVIDIA AI Aerial",
+      "description": "SynaXG proves AI and 5G can run together on NVIDIA GPUs at carrier-grade scale, enabling software-defined, AI-native mobile networks....",
+      "url": "https://www.globenewswire.com/news-release/2026/03/02/3246996/0/en/SynaXG-Proves-the-Art-of-the-Possible-with-Fully-Software-Defined-AI-RAN-on-NVIDIA-AI-Aerial.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-02T03:00:00Z"
+    },
+    {
+      "title": "How talks between Anthropic and the Defence department fell apart",
+      "description": "Days before a Friday. deadline, Emil Michael pushed to finalise a $200 million AI contract between the Pentagon and Anthropic, but disputes over lawful surveillance and guardrails stalled negotiations. Defence Secretary Pete Hegseth labelled Anthropic a secur…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-talks-between-anthropic-and-the-defence-department-fell-apart/articleshow/128934197.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-02T02:42:59Z"
+    },
+    {
+      "title": "Nvidia and major telecom carriers pledge AI-native, open platforms to guide 6G infrastructure",
+      "description": "At Mobile World Congress (MWC), Nvidia said it and leading operators and infrastructure providers, including Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank, and T&#8209;Mobile will …",
+      "url": "https://www.digitimes.com/news/a20260302VL200/nvidia-6g-wireless-infrastructure-mwc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-02T01:35:50Z"
+    },
+    {
+      "title": "The Top Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f7b5b33-41c4-4266-a8ef-a497189b1312",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-02T01:20:00Z"
+    },
+    {
+      "title": "Enterprise Generative AI Reference Architecture: Intel® AI, Red Hat® OpenShift® AI, and SMC Partner Integration",
+      "description": "Explore a validated reference architecture combining Intel® Xeon® processors, Intel® Gaudi® accelerators, Red Hat OpenShift AI, and Supermicro AI platforms to help enterprises deploy high-performance, cost-efficient generative AI across hybrid environments.",
+      "url": "https://www.techtarget.com/hub/asset/1772490217_182",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-03-02T00:00:00Z"
+    },
+    {
+      "title": "Palantir Billionaire Peter Thiel Sells 2 Artificial Intelligence (AI) Stocks That Wall Street Says Are Undervalued - The Motley Fool",
+      "description": "Palantir Billionaire Peter Thiel Sells 2 Artificial Intelligence (AI) Stocks That Wall Street Says Are UndervaluedThe Motley Fool View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180880886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-01T23:52:56Z"
+    },
+    {
+      "title": "Claude Codeですべての日常業務を爆速化しよう！ - Qiita",
+      "description": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? Claude Code、まだ「コードを書くツール」だと思ってませんか？ 私は普段AIエージェントを「作る」側の仕事をしていますが、それとは別に日常業務のありとあらゆる雑務をClaude Cod...",
+      "url": "https://qiita.com/minorun365/items/114f53def8cb0db60f47",
+      "source": "Qiita.com",
+      "publishedAt": "2026-03-01T23:41:32Z"
+    },
+    {
+      "title": "OpenAI Inks Deal With Pentagon Amid Anthropic Clash",
+      "description": "OpenAI has reached an agreement with the Pentagon as the government clashes with rival Anthropic. This agreement will see OpenAI deploy its models on the U.S. Department of War’s (DoW) classified network, CEO Sam Altman wrote in a post Friday (Feb. 27) on X. …",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-inks-deal-with-pentagon-amid-anthropic-clash",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-01T23:16:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia is developing a new AI inference chip",
+      "Meta is reducing its focus on internal AI chips",
+      "Anthrropic's Claude chatbot gains popularity amidst Pentagon contract disputes"
+    ],
+    "insights": [
+      "Nvidia's chip could revolutionize AI processing",
+      "Meta's shift towards external suppliers highlights dependency issues",
+      "The rise of Anthropic underscores ethical concerns"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Trends",
+      "summary": "Nvidia is advancing AI technology, while Meta is diversifying its AI strategy. Anthropic's success raises questions about AI's role in national security.",
+      "article_urls": [
+        "https://siliconangle.com/2026/03/01/report-nvidia-working-top-secret-ai-inference-chip-debut-next-month",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-chatbot-climbs-to-no-1-on-apples-us-app-store-amid-pentagon-contract-row/articleshow/128937320.cms",
+        "https://www.theregister.com/2026/03/02/open_ai_dow_anthropic_ai_ethics"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-09",
+          "close": 184.86
+        },
+        {
+          "date": "2026-01-12",
+          "close": 184.94
+        },
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Nvidia is a leading manufacturer of graphics processors and AI hardware. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-09",
+          "close": 479.28
+        },
+        {
+          "date": "2026-01-12",
+          "close": 477.18
+        },
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a global technology giant known for its software products and services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-09",
+          "close": 328.57
+        },
+        {
+          "date": "2026-01-12",
+          "close": 331.86
+        },
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a multinational corporation operating in various sectors such as search engines, advertising, and cloud computing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-09",
+          "close": 247.38
+        },
+        {
+          "date": "2026-01-12",
+          "close": 246.47
+        },
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is a retail and e-commerce company that operates online marketplaces and provides cloud-based services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-09",
+          "close": 653.06
+        },
+        {
+          "date": "2026-01-12",
+          "close": 641.97
+        },
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms Inc., formerly Facebook, Inc., is a social media and internet company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
