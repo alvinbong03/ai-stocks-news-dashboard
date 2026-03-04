@@ -1,0 +1,928 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-04",
+  "last_updated_utc": "2026-03-04T06:42:01.982Z",
+  "news": [
+    {
+      "title": "MediaTek highlights 6G, Wi-Fi 8, and AI chip UCIe tech at MWC 2026",
+      "description": "At the 2026 Mobile World Congress (MWC), MediaTek showcased a series of breakthrough technologies under the theme \"AI for Life: From Edge to Cloud,\" emphasizing its leadership in chips and AI. The company focused on 6G communications, next-generation home bro…",
+      "url": "https://www.digitimes.com/news/a20260303PD213/2026-mediatek-mwc-6g-wi-fi.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T06:19:46Z"
+    },
+    {
+      "title": "Nasdaq-listed AI chipmaker Blaize bets on India for sovereign edge inference growth",
+      "description": "As much of the global semiconductor industry remains fixated on AI training accelerators and hyperscale GPUs, US-based AI processor company Blaize is making a different wager in India: large-scale inference embedded in sovereign public infrastructure.",
+      "url": "https://www.digitimes.com/news/a20260303VL207/india-ai-inference-training-processor-semiconductor-industry-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T06:11:48Z"
+    },
+    {
+      "title": "US moves to bar federal purchases of China-linked chips",
+      "description": "The US is moving to bar federal agencies from buying certain semiconductors tied to major China-based chipmakers, widening procurement restrictions even as memory shortages and rising prices strain electronics supply chains.",
+      "url": "https://www.digitimes.com/news/a20260303VL206/usa-china-semiconductors-commercial-ban.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T05:58:35Z"
+    },
+    {
+      "title": "Samsung's eventual goal is to use Exynos chips on all Galaxy devices",
+      "description": "A Samsung Mobile eXperience executive says that Samsung's goal is to power all Galaxy phones with its Exynos chips.",
+      "url": "https://www.phonearena.com/news/samsung-goal-to-use-exynos-only-future-galaxy-phones_id178631",
+      "source": "PhoneArena",
+      "publishedAt": "2026-03-03T05:55:48Z"
+    },
+    {
+      "title": "Alvin and the Chimpmunks 4 film collection (itunes) $4.99 (1 replies)",
+      "description": "Apple ITunes has Alvin and the Chipmunks : 4 film collection for $4.99\n\nIncludes \nAlvin and the Chipmunks (2007)\nThe squeakuel (2009)\nChip wrecked (2011)\nThe Road Chip (2015)\n\nThe Road Chip is in 4K,",
+      "url": "https://slickdeals.net/f/19266439-alvin-and-the-chimpmunks-4-film-collection-itunes-4-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-03T05:47:20Z"
+    },
+    {
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU | Hacker News",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=47211830",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-03T05:47:01Z"
+    },
+    {
+      "title": "Qualcomm's next mobile connectivity chip ushers in the Wi-Fi 8 and Bluetooth 7 era - Android Authority",
+      "description": "Qualcomm's next mobile connectivity chip ushers in the Wi-Fi 8 and Bluetooth 7 eraAndroid Authority I just saw Wi-Fi 8 in action, and it might be the first internet upgrade in years that actually makes senseTom's Guide Qualcomm joins the Wi-Fi 8 silliness era…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180897002",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-03T05:32:27Z"
+    },
+    {
+      "title": "OpenAI will amend Defense Department deal to prevent mass surveillance in the US",
+      "description": "OpenAI’s Sam Altman said the company will amend its deal with the Defense Department (or the Department of War) to explicitly prohibit the use of its AI system on mass surveillance against Americans. Altman has published an internal memo previously sent to em…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180896964",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-03T05:12:54Z"
+    },
+    {
+      "title": "ThinkPad X1 Carbon Gen 13 Aura Edition: 14\" TOUCH, Intel Ultra 7 255U, 32GB RAM , 1TB SSD $1581",
+      "description": "This new Gen 13 model is 5 oz. lighter than previous versions. See PC Magazine review: https://www.pcmag.com/reviews/len...ra-edition.\n\n** Also available in Non-Touch 2.8K (2880 x 1800) OLED / Wi-Fi 7",
+      "url": "https://slickdeals.net/f/19266403-thinkpad-x1-carbon-gen-13-aura-edition-14-touch-intel-ultra-7-255u-32gb-ram-1tb-ssd-1581",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-03T05:10:51Z"
+    },
+    {
+      "title": "OpenAI looked ‘opportunistic and sloppy’ in rushed deal with Pentagon, CEO Sam Altman admits",
+      "description": "Sam Altman said OpenAI rushed its Pentagon deal, which made the company appear “opportunistic and sloppy.” However, the CEO reassured that the contract has been amended and now forbids domestic surveillance and use by intelligence agencies without changes to …",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-looked-opportunistic-and-sloppy-in-rushed-deal-with-pentagon-ceo-sam-altman-admits/articleshow/128959368.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-03T05:08:29Z"
+    },
+    {
+      "title": "Why it’s not easy for car makers in the US to ditch electric cars",
+      "description": "Regulatory changes have led to car makers writing off the equivalent of almost $40 billion in EV investments\n\nCar makers in the US have written off the equivalent of almost $40 billion in EV investments following regulatory changes that ended mandatory sales …",
+      "url": "https://www.autocar.co.uk/car-news/business/why-it%E2%80%99s-not-easy-car-makers-us-ditch-electric-cars",
+      "source": "Autocar",
+      "publishedAt": "2026-03-03T05:00:00Z"
+    },
+    {
+      "title": "Bar of fuzzy distortion on monitor.",
+      "description": "Bar of fuzzy distortion on monitor. - posted in External Hardware: I bought a refurbished LCD-DF321XD a few months ago.\nThe driver I have been using is a NVIDIA GeForce GTX 960. \nIm running Windows 10 Home version 22H2\nIntel ® Core  i5-6500 CPU @ 3.20GHZ\n \nI…",
+      "url": "https://www.bleepingcomputer.com/forums/t/814160/bar-of-fuzzy-distortion-on-monitor",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-03-03T04:57:28Z"
+    },
+    {
+      "title": "USTR to seek more foreign tariff cuts, USMCA improvements, China balance in 2026",
+      "description": "Trump administration eyes new pacts with India, EU and others amid supply chain focus",
+      "url": "https://www.thehindubusinessline.com/news/world/ustr-to-seek-more-foreign-tariff-cuts-usmca-improvements-china-balance-in-2026/article70697910.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-03T04:56:58Z"
+    },
+    {
+      "title": "India achieves 10-year semiconductor training target in just 4 years: Ashwini Vaishnaw",
+      "description": "Programme to expand to 500 universities under Semicon 2.0 for building skilled talent pool",
+      "url": "https://www.thehindubusinessline.com/news/india-achieves-10-year-semiconductor-training-target-in-just-4-years-ashwini-vaishnaw/article70697907.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-03T04:51:05Z"
+    },
+    {
+      "title": "Rapidus to partner with Canon on 2nm image-processing chips, raising supply and investment implications",
+      "description": "Rapidus will co-develop 2nm image-processing semiconductors with Canon for cameras and surveillance devices, Nikkei reported, and will trial-produce chips at Rapidus's Chitose, Hokkaido, facility with Synopsys also participating.",
+      "url": "https://www.digitimes.com/news/a20260303VL208/rapidus-canon-2nm-chips-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T04:31:19Z"
+    },
+    {
+      "title": "Samsung, SK Hynix expand hiring as HBM, DRAM demand enters supercycle",
+      "description": "With the semiconductor industry entering a supercycle and reporting record earnings, Samsung Electronics and SK Hynix are preparing to launch large-scale semiconductor hiring.",
+      "url": "https://www.digitimes.com/news/a20260303PD227/samsung-sk-hynix-semiconductor-industry-talent-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T04:28:59Z"
+    },
+    {
+      "title": "AI data centers redraw the power map: Driving 800V DC and solid-state transformers into the next battleground",
+      "description": "As demand for computing power from AI large language models (LLMs) continues to surge, power density in data centers is rising in tandem, bringing the conversion losses of traditional power architectures to the forefront. The market expects 2026 to mark a cri…",
+      "url": "https://www.digitimes.com/news/a20260303PD229/demand-data-language-2026-data-center.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-03T04:13:01Z"
+    },
+    {
+      "title": "Nvidia bull drops shocking take on upside",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d147dc26-3337-4177-8f6e-388e769bd948",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-03T04:07:00Z"
+    },
+    {
+      "title": "Insurance companies are the main reason for flights to stop in and around the war zone",
+      "description": "Amidst the escalating series of air strikes launched by American and Israeli forces against Iran, the aviation industry has been severely impacted. With no end in sight, this conflict has disrupted flights for the third consecutive day, and experts and analys…",
+      "url": "https://english.gossiplankanews.com/2026/03/insurance-companies-are-main-reason-for.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-03-03T03:45:15Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "MediaTek showcases advanced technology",
+      "Blaise bets on Indian market",
+      "US bans Chinese semiconductor purchases",
+      "Samsung aims for Exynos usage",
+      "OpenAI amends defense department deal"
+    ],
+    "insights": [
+      "Semiconductors are advancing rapidly",
+      "India focuses on AI inference growth",
+      "US-China relations impact trade policies"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "semiconductors",
+      "summary": "The article discusses various advancements in semiconductors including MediaTek's AI chip UCIe, Blaise's AI inference growth in India, US ban on Chinese semiconductor purchases, Samsung aiming for Exynos usage, and OpenAI amending its deal with the Defense Department.",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260303PD213/2026-mediatek-mwc-6g-wi-fi.html",
+        "https://www.digitimes.com/news/a20260303VL207/india-ai-inference-training-processor-semiconductor-industry-infrastructure.html",
+        "https://www.digitimes.com/news/a20260303VL206/usa-china-semiconductors-commercial-ban.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-12",
+          "close": 331.77
+        },
+        {
+          "date": "2026-01-13",
+          "close": 331.21
+        },
+        {
+          "date": "2026-01-14",
+          "close": 327.11
+        },
+        {
+          "date": "2026-01-15",
+          "close": 341.64
+        },
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Taiwan Semiconductor Manufacturing Company Ltd., known for manufacturing high-performance semiconductors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-12",
+          "close": 207.69
+        },
+        {
+          "date": "2026-01-13",
+          "close": 220.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 223.6
+        },
+        {
+          "date": "2026-01-15",
+          "close": 227.92
+        },
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Advanced Micro Devices Inc., a leading manufacturer of microprocessors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-12",
+          "close": 1281.23
+        },
+        {
+          "date": "2026-01-13",
+          "close": 1270.16
+        },
+        {
+          "date": "2026-01-14",
+          "close": 1263.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 1331.6
+        },
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Applied Materials, Inc., a Dutch multinational corporation specializing in equipment for semiconductor fabrication. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-12",
+          "close": 44.06
+        },
+        {
+          "date": "2026-01-13",
+          "close": 47.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 48.72
+        },
+        {
+          "date": "2026-01-15",
+          "close": 48.32
+        },
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation, a leading provider of computer processors and other electronic components. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-12",
+          "close": 169.27
+        },
+        {
+          "date": "2026-01-13",
+          "close": 165.29
+        },
+        {
+          "date": "2026-01-14",
+          "close": 164.54
+        },
+        {
+          "date": "2026-01-15",
+          "close": 161.39
+        },
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, engaged in the design, development, manufacture, sale, and licensing of semiconductor products. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
