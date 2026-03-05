@@ -1,0 +1,1019 @@
+{
+  "theme": "ai",
+  "date": "2026-03-05",
+  "last_updated_utc": "2026-03-05T06:44:58.218Z",
+  "news": [
+    {
+      "title": "OpenAI eyes NATO deal following Pentagon agreement",
+      "description": "OpenAI is considering a contract ​to deploy its AI technology on North Atlantic Treaty Organization’s (NATO) “unclassified” networks, ‌a person familiar with the matter said on Tuesday, ​days after the ChatGPT-owner struck a deal with ⁠the Pentagon.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-eyes-nato-deal-following-pentagon-agreement/article70702274.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-04T06:23:48Z"
+    },
+    {
+      "title": "Claude AI helped bomb Iran. But how exactly?",
+      "description": "The US military has employed Anthropic's Claude AI for critical functions like intelligence assessments and target identification during strikes on Iran. Despite a presidential order to halt its use, the AI's deep integration means it will take months to remo…",
+      "url": "https://economictimes.indiatimes.com/news/defence/claude-ai-helped-bomb-iran-but-how-exactly/articleshow/129008632.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T05:50:28Z"
+    },
+    {
+      "title": "Why (and How) Teachers Should Use Generative AI in the Classroom",
+      "description": "Through tools like ChatGPT, AI has become a household buzzword. But its usage continues to lag among educators. There are various reasons for this: lack of awareness, resistance to change, and of course the lack of robust research.   It makes sense that some …",
+      "url": "https://www.facultyfocus.com/articles/teaching-with-technology-articles/why-and-how-teachers-should-use-generative-ai-in-the-classroom",
+      "source": "Facultyfocus.com",
+      "publishedAt": "2026-03-04T04:00:00Z"
+    },
+    {
+      "title": "OpenAI Debuts GPT-5.3 Instant to Bring Faster Responses, Avoid 'Cringe,' and More",
+      "description": "OpenAI delivers an update to its Instant models with GPT-5.3 Instant that brings massive improvements to ChatGPT.",
+      "url": "https://www.ibtimes.com.au/openai-debuts-gpt-53-instant-bring-faster-responses-avoid-cringe-more-1862583",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-04T03:46:11Z"
+    },
+    {
+      "title": "Anthropic nears $20 billion revenue run rate amid Pentagon feud",
+      "description": "Anthropic is nearing $20 billion in annual run-rate revenue, up sharply from late 2025, driven by strong adoption of its AI models and Claude Code. Valued at $380 billion, the company shows rapid growth, though its clash with the Pentagon now casts doubt over…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud/articleshow/129001605.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T02:19:35Z"
+    },
+    {
+      "title": "Holi 2026: Ten ChatGPT photo editing, Gemini AI, Nano banana prompts you can use to create AI images and share on Instagram, WhatsApp and Facebook",
+      "description": "Holi prompts for ChatGPT, Gemini: On this Holi, you can use ChatGPT and Google Gemini to make AI images of yourself, your friends, family and loved ones to share it on Instagram, WhatsApp, and Facebook. We have curated ten ChatGPT prompts, ChatGPT photo editi…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/holi-2026-ten-chatgpt-photo-editing-gemini-ai-nano-banana-prompts-you-can-use-to-create-ai-images-and-share-on-instagram-whatsapp-and-facebook/articleshow/129000862.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T02:02:06Z"
+    },
+    {
+      "title": "State Department switches to OpenAI as US agencies start phasing out Anthropic",
+      "description": "United States cabinet agencies and the military ordered staff to stop using Anthropic products, including Claude, after failed talks over military safeguards. Departments will switch to OpenAI and Google models. The move follows President Donald Trump’s direc…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/state-department-switches-to-openai-as-us-agencies-start-phasing-out-anthropic/articleshow/129000845.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T01:52:25Z"
+    },
+    {
+      "title": "Commentary: Nvidia, MediaTek bankroll optics shift that's reshaping AI data centers",
+      "description": "A new trend is emerging in the AI infrastructure race. After MediaTek invested in US silicon photonics start-up Ayar Labs, Nvidia followed with US$2 billion investments in optical communications suppliers Lumentum and Coherent, signalling stronger momentum be…",
+      "url": "https://www.digitimes.com/news/a20260304PD204/mediatek-nvidia-cpo-optics-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-04T01:42:44Z"
+    },
+    {
+      "title": "Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military",
+      "description": "Anthropic refused to let Claude be used for autonomous weapons, prompting the Trump administration to ban it from government use. Downloads rose as consumers backed its ethics. This has given rise to debates over whether AI is truly reliable enough for milita…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-dispute-bolsters-anthropic-reputation-but-raises-questions-about-ai-readiness-in-military/articleshow/128999811.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T01:17:32Z"
+    },
+    {
+      "title": "OpenAI says its latest model is less likely to beat around the bush",
+      "description": "The AI giant is also trying to walk back some terms of its deal with the Defense Department\nOpenAI says GPT‑5.3 Instant, the latest addition to its GPT-5.3 family of models, is less inclined to moralize.…",
+      "url": "https://www.theregister.com/2026/03/04/openai_dow_reset_gpt53_instant",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-04T00:17:28Z"
+    },
+    {
+      "title": "ChatGPT Gets GPT-5.3 Instant Update With Less 'Cringe,' Fewer Hallucinations",
+      "description": "OpenAI today updated its most popular ChatGPT model, debuting GPT-5.3 Instant. GPT-5.3 Instant is supposed to provide more accurate answers and better contextualized results when searching the web. The update also cuts down on unnecessary dead ends, caveats, …",
+      "url": "https://slashdot.org/submission/17345274/chatgpt-gets-gpt-53-instant-update-with-less-cringe-fewer-hallucinations",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-04T00:16:14Z"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.3 Instant to Improve Everyday ChatGPT Conversations",
+      "description": "OpenAI's GPT-5.3 Instant boosts ChatGPT's everyday usability with improved accuracy, fewer refusals, and enhanced writing. Aims for natural, helpful conversations.",
+      "url": "https://www.c-sharpcorner.com/news/openai-launches-gpt53-instant-to-improve-everyday-chatgpt-conversations",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-04T00:00:00Z"
+    },
+    {
+      "title": "Google Introduces Gemini 3.1 Flash-Lite",
+      "description": "Google introduces Gemini 3.1 Flash-Lite, a lightweight AI model for fast, cost-efficient large-scale inference in chatbots, automation, and real-time AI.",
+      "url": "https://www.c-sharpcorner.com/news/google-introduces-gemini-31-flashlite",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-04T00:00:00Z"
+    },
+    {
+      "title": "Samsung expands AI chip push with Pyeongtaek P5 and Texas foundry ramp",
+      "description": "Samsung Electronics is accelerating the expansion of its Pyeongtaek semiconductor campus in South Korea, aiming to establish the site as a core production base for next-generation AI memory. The company's fifth fabrication plant, P5, is scheduled to begin ope…",
+      "url": "https://www.digitimes.com/news/a20260304VL206/samsung-expansion-texas-ai-chip-production-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-04T06:38:11Z"
+    },
+    {
+      "title": "OpenAI strikes $200M defense pact amid ethical AI debate",
+      "description": "OpenAI has tentatively agreed to a $200 million contract with the Pentagon to provide AI tools for battlefield strategy, cybersecurity and military healthcare, marking a major shift in Silicon Valley’s engagement with defense agencies. OpenAI has imposed key …",
+      "url": "https://www.naturalnews.com/2026-03-04-openai-strikes-defense-pact-amid-ethical-ai-debate.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-04T06:00:00Z"
+    },
+    {
+      "title": "Transnational AI regulation needed to protect human rights in the UK",
+      "description": "Tech companies have told MPs and Lords they would welcome greater harmonisation in regulatory standards at a global level",
+      "url": "https://www.computerweekly.com/news/366639695/Transnational-AI-regulation-needed-to-protect-human-rights-in-the-UK",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-03-04T05:15:00Z"
+    },
+    {
+      "title": "Some contractors who worked on OpenAI projects say Handshake AI is withholding thousands of dollars in pay",
+      "description": "Handshake AI cut off access to the projects and told some workers they'd violated their contract.",
+      "url": "https://www.businessinsider.com/contractors-claim-unpaid-wages-handshake-ai-suspended-accounts-2026-2",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-04T05:01:01Z"
+    },
+    {
+      "title": "Pentagon dispute bolsters Anthropic reputation but raises questions of AI use in military",
+      "description": "This follows after Anthropic’s CEO refused to bend his company's ethical safeguards preventing the technology from being applied to autonomous weapons and domestic mass surveillance",
+      "url": "https://www.thehindubusinessline.com/info-tech/pentagon-dispute-bolsters-anthropic-reputation-but-raises-questions-of-ai-use-in-military/article70701934.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-04T03:53:22Z"
+    },
+    {
+      "title": "IIT Kharagpur announces launch of school of digital learning, applied AI, machine learning",
+      "description": "IIT Kharagpur has launched a new school dedicated to digital learning, applied AI, and machine learning. This research-centric initiative, supported by a significant philanthropic commitment, aims to accelerate AI innovation and deployment across various sect…",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T03:36:48Z"
+    },
+    {
+      "title": "Sam Altman tells staff OpenAI has no say over Pentagon decisions",
+      "description": "OpenAI chief executive Sam Altman told employees the company does not get to decide how the Department of Defense (DoD) uses its artificial intelligence software. He said the Pentagon will hear OpenAI’s expertise but will not allow it to make operational deci…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sam-altman-tells-staff-openai-has-no-say-over-pentagon-decisions/articleshow/129003768.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T03:30:20Z"
+    },
+    {
+      "title": "OpenAI Adds Guardrails to Pentagon Deal",
+      "description": "OpenAI's fast-tracked Pentagon deal just got a civil-liberties rewrite. After a weekend of blowback, the company said Monday that its agreement to supply AI for the Defense Department's classified systems now explicitly bars using its tools for \"intentional\" …",
+      "url": "https://www.newser.com/story/384702/openai-adds-guardrails-to-pentagon-deal.html",
+      "source": "Newser",
+      "publishedAt": "2026-03-04T03:19:25Z"
+    },
+    {
+      "title": "Altman Reportedly Tells Staff OpenAI Wants Another Classified Contract. This Time with NATO",
+      "description": "The AI giant is in the middle of a consumer backlash after it made a deal with the U.S. Department of Defense.",
+      "url": "https://gizmodo.com/altman-reportedly-tells-staff-openai-wants-another-classified-contract-this-time-with-nato-2000729253",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-03-04T03:17:50Z"
+    },
+    {
+      "title": "Samsung launches 'Doubao phone' rival as Apple embraces Gemini AI agents",
+      "description": "Samsung Electronics officially unveiled its Galaxy S26 flagship series at Galaxy Unpacked 2026 on February 25 in San Francisco. However, the real buzz in the tech community was not about the phone's hardware, but a new feature demonstrated by Google Android E…",
+      "url": "https://www.digitimes.com/news/a20260304PD208/samsung-gemini-galaxy-apple-google.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-04T02:56:51Z"
+    },
+    {
+      "title": "OpenAI is developing alternative to Microsoft's GitHub: The Information",
+      "description": "OpenAI is developing a new code-hosting platform to rival GitHub after service disruptions. The early-stage project could be sold to customers, marking competition with Microsoft. A recent funding round valued OpenAI at $840 billion, showing strong AI investm…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-developing-alternative-to-microsofts-github-the-information/articleshow/129000369.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-04T01:36:27Z"
+    },
+    {
+      "title": "Google launches speedy Gemini 3.1 Flash-Lite model in preview",
+      "description": "Google LLC today debuted Gemini 3.1 Flash-Lite, the latest addition to its Gemini series of multimodal artificial intelligence models. The company’s engineers developed the algorithm with cost-efficiency in mind. Gemini 3.1 Pro, Google’s most capable model, s…",
+      "url": "https://siliconangle.com/2026/03/03/google-launches-speedy-gemini-3-1-flash-lite-model-preview",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-04T01:15:06Z"
+    },
+    {
+      "title": "OpenAI Is Developing an Alternative To GitHub",
+      "description": "OpenAI is reportedly developing a code-hosting platform that could compete with GitHub, The Information reported on Tuesday. \"If OpenAI does sell the product, it would mark a bold move by the creator of ChatGPT to compete directly against Microsoft, which hol…",
+      "url": "https://developers.slashdot.org/story/26/03/04/0039214/openai-is-developing-an-alternative-to-github",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-04T01:00:00Z"
+    },
+    {
+      "title": "Don’t bet that the Pentagon – or Anthropic – is acting in the public interest",
+      "description": "Affiliates Nathan Sanders and Bruce Schneier remark on the Department of Defense's transition from Anthropic to OpenAI technologies.",
+      "url": "https://cyber.harvard.edu/story/2026-03/dont-bet-pentagon-or-anthropic-acting-public-interest",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "publishedAt": "2026-03-04T00:30:29Z"
+    },
+    {
+      "title": "Show HN: I built a LLM human rights evaluator for HN (content vs. site behavior)",
+      "description": "My health challenges limit how much I can work. I've come to think of Claude Code as an accommodation engine — not in the medical-paperwork sense, but in the literal one: it gives me the capacity to finish things that a normal work environment doesn't. Observ…",
+      "url": "https://observatory.unratified.org/",
+      "source": "Unratified.org",
+      "publishedAt": "2026-03-04T00:26:18Z"
+    },
+    {
+      "title": "Show HN: Dracula-AI – A lightweight, async SQLite-backed Gemini wrapper",
+      "description": "I'm an 18-year-old CS student from Turkey. I've been building Dracula, a Python wrapper for the Google Gemini API. I initially built it because I wanted a simpler Mini SDK that handled conversational memory, function calling, and streaming out of the box with…",
+      "url": "https://github.com/suleymanibis0/dracula",
+      "source": "Github.com",
+      "publishedAt": "2026-03-04T00:16:22Z"
+    },
+    {
+      "title": "Nvidia Expands Telecom Push With AI-Native 6G Initiative",
+      "description": "Nvidia and a coalition of global telecom operators and infrastructure vendors announced a strategic commitment at the Mobile World Congress to build the next generation of wireless networks, 6G, on platforms that are open, secure and AI-native, signaling a sh…",
+      "url": "https://www.pymnts.com/connectedeconomy/2026/nvidia-expands-telecom-push-with-ai-native-6g-initiative",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-04T00:12:43Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI considers deploying AI on NATO networks",
+      "Claude AI was used for critical functions during Iranian strikes",
+      "Teachers should integrate generative AI into classrooms",
+      "Anthropic nears $20 billion revenue",
+      "US agencies phase out Anthropic products due to Pentagon disputes"
+    ],
+    "insights": [
+      "OpenAI's AI deployments could impact international relations",
+      "Generative AI benefits education and teaching methods",
+      "Pentagon disputes raise concerns about AI use in military operations"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Giants",
+      "summary": "OpenAI, Microsoft, Alphabet, Amazon, Meta are all mentioned in the articles.",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/openai-eyes-nato-deal-following-pentagon-agreement/article70702274.ece",
+        "https://economictimes.indiatimes.com/news/defence/claude-ai-helped-bomb-iran-but-how-exactly/articleshow/129008632.cms",
+        "https://www.facultyfocus.com/articles/teaching-with-technology-articles/why-and-how-teachers-should-use-generative-ai-in-the-classroom"
+      ]
+    },
+    {
+      "title": "AI Usage in Military",
+      "summary": "The Pentagon disputes hinder Anthropic's reputation while raising questions about AI readiness in military.",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-dispute-bolsters-anthropic-reputation-but-raises-questions-about-ai-readiness-in-military/articleshow/128999811.cms"
+      ]
+    },
+    {
+      "title": "Educational Impact",
+      "summary": "Teachers should consider integrating generative AI into classrooms.",
+      "article_urls": [
+        "https://www.facultyfocus.com/articles/teaching-with-technology-articles/why-and-how-teachers-should-use-generative-ai-in-the-classroom"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-13",
+          "close": 185.81
+        },
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        }
+      ],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "OpenAI is a leading AI research firm focusing on language models. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-13",
+          "close": 470.67
+        },
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a multinational technology corporation known for its Windows operating system and Office suite. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-13",
+          "close": 335.97
+        },
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a multinational technology company providing search engine services and other internet-related products. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-13",
+          "close": 242.6
+        },
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is a multinational e-commerce platform and cloud computing provider. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-13",
+          "close": 631.09
+        },
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms Inc., formerly known as Facebook, is a social media and online advertising company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
