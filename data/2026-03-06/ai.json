@@ -1,0 +1,934 @@
+{
+  "theme": "ai",
+  "date": "2026-03-06",
+  "last_updated_utc": "2026-03-06T06:41:22.917Z",
+  "news": [
+    {
+      "title": "Anthropicのダリオ・アモデイCEOが「OpenAIのメッセージは真っ赤なうそ」だと指摘、国防総省との契約を巡り",
+      "description": "by Fortune Brainstorm TechチャットAIのClaudeを開発するAnthropicのダリオ・アモデイCEOが、アメリカ国防総省との契約についてOpenAIが発信したメッセージについて、「真っ赤なうそ」だと指摘するメールを従業員に宛てて送信していたことが報じられました。Read Anthropic CEO’s Memo Attacking OpenAI’s ‘Mendacious’ Pentagon Announcement - The Informationhttps://www.thei…",
+      "url": "https://news.livedoor.com/article/detail/30701326",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-05T04:05:00Z"
+    },
+    {
+      "title": "Jensen Huang says a $100 billion investment in OpenAI is 'probably not in the cards'",
+      "description": "Nvidia CEO Jensen Huang said a $100 billion investment in OpenAI is unlikely as the AI startup prepares for a potential IPO.",
+      "url": "https://www.businessinsider.com/jensen-huang-openai-investment-not-in-the-cards-100-billion-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-05T05:43:17Z"
+    },
+    {
+      "title": "Jensen Huang Says Nvidia Is Pulling Back From OpenAI and Anthropic",
+      "description": "At the Morgan Stanley Technology, Media and Telecom conference in downtown San Francisco Wednesday, Nvidia CEO Jensen Huang said his company’s recent investments in OpenAI and Anthropic are likely to be its last in both, saying that once they go public as ant…",
+      "url": "https://slashdot.org/submission/17345312/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-05T05:27:25Z"
+    },
+    {
+      "title": "‘Not a big part of the work’: Meta’s LLM bet has yet to touch its core ads business",
+      "description": "Using large language models for ranking is a future bet, not a current reality at Meta.",
+      "url": "http://digiday.com/media/not-a-big-part-of-the-work-metas-llm-bet-has-yet-to-touch-its-core-ads-business",
+      "source": "Digiday",
+      "publishedAt": "2026-03-05T05:01:00Z"
+    },
+    {
+      "title": "Anthropic's AI tool Claude central to U.S. campaign in Iran, amid a bitter feud (Washington Post)",
+      "description": "Washington Post:\nAnthropic's AI tool Claude central to U.S. campaign in Iran, amid a bitter feud  —  Advanced AI technology is identifying targets in Iran and quickly prioritizing them, supporting the massive military operations carried out by U.S. and Israel…",
+      "url": "https://www.memeorandum.com/260304/p159",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-03-05T04:40:01Z"
+    },
+    {
+      "title": "Nvidia's OpenAI bets likely capped, Huang says, with implications for other AI investors",
+      "description": "Nvidia CEO Jensen Huang said he does not expect the company's investment in OpenAI to reach US$100 billion and suggested the recent US$30 billion equity commitment may be the last such round before OpenAI's public listing.",
+      "url": "https://www.digitimes.com/news/a20260305VL213/nvidia-openai-investment-jensen-huang-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-05T04:01:55Z"
+    },
+    {
+      "title": "ミエルカSEO・ミエルカGEO、「LLMモニタリング」機能がGPT-5.2 / Gemini 3 に対応",
+      "description": "[株式会社Faber Company]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31263/305/31263-305-3e1d443fe5c12f036b3579875d2b02ae-1200x660.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000305.000031263.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-05T03:00:00Z"
+    },
+    {
+      "title": "Show HN: Open dataset of real-world LLM performance on Apple Silicon",
+      "description": "Why open source local AI benchmarking on Apple Silicon matters - and why your benchmark submission is more valuable than you think.The narrative around AI has been almost entirely cloud-centric. You send a prompt to a data center, tokens come back, and you tr…",
+      "url": "https://devpadapp.com/anubis-oss.html",
+      "source": "Devpadapp.com",
+      "publishedAt": "2026-03-05T02:44:11Z"
+    },
+    {
+      "title": "Big tech group supports Anthropic in Pentagon fight as investors push to de-escalate clash over AI safeguards",
+      "description": "A Big Tech industry group, including Amazon and Nvidia, raised concern over the United States Department of Defense considering labelling Anthropic a supply-chain risk. Investors are seeking a solution as tensions grow over military use of its AI. The dispute…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-group-supports-anthropic-in-pentagon-fight-as-investors-push-to-de-escalate-clash-over-ai-safeguards/articleshow/129063706.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-05T02:41:15Z"
+    },
+    {
+      "title": "Broadcom-TSMC 3.5D AI chips give ASIC leader an early edge over Nvidia",
+      "description": "In the AI era, technological competition among leading chip design companies continues to intensify. Broadcom announced in 2024 that it was working with TSMC to launch its 3.5D eXtreme Dimension System in Package (XDSiP) platform, with products scheduled to s…",
+      "url": "https://www.digitimes.com/news/a20260305PD207/broadcom-tsmc-asic-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-05T02:04:05Z"
+    },
+    {
+      "title": "Nvidia CEO hints at end of investments in OpenAI, Anthropic",
+      "description": "Jensen Huang said Nvidia may not invest again in OpenAI or Anthropic as both prepare possible IPOs this year. Nvidia finalised a $30 billion stake in OpenAI and earlier invested $10 billion in Anthropic. OpenAI could reach a $1 trillion valuation, while analy…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-hints-at-end-of-investments-in-openai-anthropic/articleshow/129062162.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-05T01:59:05Z"
+    },
+    {
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+      "description": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-05T01:08:28Z"
+    },
+    {
+      "title": "NVIDIA CEO ジェンスン フアンと世界のテクノロジ リーダーが GTC 2026 で AI の時代を披露",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/590/12662-590-51142603ac04ee96cdcfe9e906060abf-1200x675.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000590.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-05T04:51:22Z"
+    },
+    {
+      "title": "Anthropic chief seeks last-minute Pentagon deal to keep AI in military supply chain",
+      "description": "Anthropic's potential exclusion from defense contracts could hinder AI innovation and raise ethical concerns about military AI use.\nThe post Anthropic chief seeks last-minute Pentagon deal to keep AI in military supply chain appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-chief-seeks-last-minute-pentagon-deal-ai-military",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-03-05T04:18:18Z"
+    },
+    {
+      "title": "How to Stream Responses from an LLM API in Real-Time Applications",
+      "description": "Learn how to implement LLM response streaming for real-time AI applications. Improve user experience with faster, more interactive interfaces using SSE and WebSockets.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-stream-responses-from-an-llm-api-in-real-time-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-05T03:53:09Z"
+    },
+    {
+      "title": "How to Build an AI-Powered Chatbot Using an LLM API in a Web Application",
+      "description": "Build an AI chatbot for your web app using LLM APIs! This guide covers architecture, implementation, and real-world use cases. Automate conversations now!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-an-ai-powered-chatbot-using-an-llm-api-in-a-web-application",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-05T03:44:04Z"
+    },
+    {
+      "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
+      "description": "Big Tech firms such as Alphabet, Microsoft , Amazon and Meta are expected to spend at least $630 ‌billion to build ⁠AI infrastructure ⁠this year, boosting demand for chips, servers, storage and networking equipment from companies like Broadcom.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-sees-over-100-billion-in-ai-chip-sales-by-2027-on-robust-custom-chip-demand/articleshow/129066099.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-05T03:42:46Z"
+    },
+    {
+      "title": "OpenAI tops $25 billion in annualized revenue, The Information reports",
+      "description": "March 4 : Artificial intelligence startup OpenAI topped $25 billion in annualized revenue as of the end of last month, The Information reported on Wednesday, citing a person familiar with the figure.This is a 17 per cent increase from the $21.4 billion in ann…",
+      "url": "https://www.channelnewsasia.com/business/openai-tops-25-billion-in-annualized-revenue-information-reports-5972651",
+      "source": "CNA",
+      "publishedAt": "2026-03-05T03:38:36Z"
+    },
+    {
+      "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+      "description": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.",
+      "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-05T01:45:15Z"
+    },
+    {
+      "title": "Gemini Expands to Live Camera Feeds: What It Means for Your Privacy",
+      "description": "Gemini for Home's AI is getting a significant upgrade -- if you don't mind it peering through your security cam.",
+      "url": "https://www.cnet.com/home/security/googles-gemini-for-home-comes-to-your-camera-live-feeds-heres-what-that-means-for-privacy",
+      "source": "CNET",
+      "publishedAt": "2026-03-05T01:22:27Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic's AI tool Claude is central to U.S. campaign in Iran",
+      "Nvidia's OpenAI investments are likely capped",
+      "Jensen Huang suggests a $100 billion investment in OpenAI is 'probably not in the cards'",
+      "Broadcom sees over $100 billion in AI chip sales by 2027",
+      "Anthrropic's potential exclusion from defense contracts could hinder AI innovation"
+    ],
+    "insights": [
+      "The article discusses the impact of AI tools like Anthropic's Claude on military campaigns and the potential consequences of excluding certain AI startups from defense contracts.",
+      "The sentiment towards Nvidia's investments in OpenAI and Anthropic seems neutral, with some suggesting they might not continue investing further."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Industry Trends",
+      "summary": "The articles discuss various aspects of the tech industry, including Nvidia's investments in OpenAI and Anthropic, the potential impact of excluding certain AI startups from defense contracts, and the outlook for AI chip sales.",
+      "article_urls": [
+        "https://www.memeorandum.com/260304/p159",
+        "https://www.digitimes.com/news/a20260305VL213/nvidia-openai-investment-jensen-huang-anthropic.html",
+        "https://www.economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-sees-over-100-billion-in-ai-chip-sales-by-2027-on-robust-custom-chip-demand/articleshow/129066099.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-14",
+          "close": 183.14
+        },
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Nvidia is a major player in the semiconductor industry, particularly in GPU technology used in artificial intelligence applications. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-14",
+          "close": 459.38
+        },
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a global technology giant known for its software solutions and services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-14",
+          "close": 335.84
+        },
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a multinational corporation that operates under Google Inc., focusing on search engine technologies and digital advertising. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-14",
+          "close": 236.65
+        },
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is a retail and cloud computing company that offers a wide range of goods and services online. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-14",
+          "close": 615.52
+        },
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms, formerly Facebook, is a social media and internet company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
