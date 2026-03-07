@@ -1,0 +1,938 @@
+{
+  "theme": "ai",
+  "date": "2026-03-07",
+  "last_updated_utc": "2026-03-07T06:34:16.792Z",
+  "news": [
+    {
+      "title": "GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ",
+      "description": "Googleが各種AIの性能をランク付けする「Android Bench」を公開しました。初回のランキングではOpenAIやAnthropicのモデルを抑えてGemini 3.1 Pro Previewがトップの座を獲得しています。Android Bench | Android Developershttps://developer.android.com/benchAndroid Developers Blog: Elevating AI-assisted Android development and imp…",
+      "url": "https://news.livedoor.com/article/detail/30708210",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-06T04:15:00Z"
+    },
+    {
+      "title": "Oracle Layoffs 2026: Why Larry Ellison’s US tech giant is cutting thousands of jobs again after $300 billion OpenAI bet with Sam Altman",
+      "description": "Oracle layoffs 2026: US tech giant Oracle is again planning to cut around 30,000 jobs as the company faces a massive cash crunch from a massive ​AI data center expansion effort. Larry Ellison's $300 billion partnership with Sam Altman's OpenAI has reportedly …",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/oracle-layoffs-2026-why-larry-ellisons-us-tech-giant-is-cutting-thousands-of-jobs-again-after-300-billion-openai-bet-with-sam-altman/articleshow/129137156.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T06:33:23Z"
+    },
+    {
+      "title": "ChatGPT 5.4: All-new 'powerful' OpenAI update for Excel users; Availability, usage in daily life and more",
+      "description": "ChatGPT 5.4: OpenAI has launched ChatGPT for Excel in beta, a specialized add-in powered by the new GPT-5.4 Thinking model designed specifically for financial workflows. OpenAI introduced deep data integrations with trusted providers like FactSet, S&P Global,…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/chatgpt-5-4-all-new-powerful-openai-update-for-excel-users-availability-usage-in-daily-life-and-more/articleshow/129136480.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T06:29:55Z"
+    },
+    {
+      "title": "Microsoft to keep using Anthropic's Claude for many clients despite Pentagon's ‘supply chain risk’ label on AI firm",
+      "description": "Microsoft provides its tools to a number of US government agencies. The Department of War extensively uses Microsoft 365 productivity software. However, Microsoft will not use Claude AI in these contracts.",
+      "url": "https://www.livemint.com/companies/news/microsoft-to-keep-using-anthropics-claude-for-many-clients-despite-pentagons-supply-chain-risk-label-on-ai-firm-11772770347321.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-06T05:34:17Z"
+    },
+    {
+      "title": "US: Pentagon labels AI company Anthropic a supply chain risk",
+      "description": "The move follows months-long dispute with the Pentagon over Anthropic's AI chatbot Claude's safeguards.",
+      "url": "https://www.dw.com/en/us-pentagon-labels-ai-company-anthropic-a-supply-chain-risk/a-76239091",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-06T05:01:00Z"
+    },
+    {
+      "title": "SK Group chairman reportedly to meet Nvidia CEO at GTC",
+      "description": "SK Group chairman Chey Tae-Won is expected to attend Nvidia GTC 2026 in San Jose, California, on March 16, 2026, where he will likely hold high-level talks with Nvidia CEO Jensen Huang. The discussions are expected to center on the upcoming AI accelerator \"Ve…",
+      "url": "https://www.digitimes.com/news/a20260306PD220/sk-group-chairman-nvidia-gtc-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T06:18:18Z"
+    },
+    {
+      "title": "Pentagon labels AI company Anthropic a supply chain risk",
+      "description": "The Pentagon said in a statement Thursday that it has \"officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately.\"",
+      "url": "https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk",
+      "source": "NPR",
+      "publishedAt": "2026-03-06T06:08:43Z"
+    },
+    {
+      "title": "Pentagon labels Anthropic a supply-chain risk",
+      "description": "The US Department of War has issued the first such designation ever applied to an American company, demanding that defence contractors certify they do not use Claude. Anthropic says the action is unlawful and retaliatory. For months, the conversations between…",
+      "url": "https://thenextweb.com/news/pentagon-labels-anthropic-a-supply-chain-risk",
+      "source": "The Next Web",
+      "publishedAt": "2026-03-06T06:05:11Z"
+    },
+    {
+      "title": "$40 billion loan: SoftBank seeks record financing to fund OpenAI investment — Here's what we know",
+      "description": "SoftBank is in talks with lenders for a record $40 billion loan to finance its OpenAI stake purchase — its largest dollar-denominated borrowing yet. Here's what we know amid liquidity and AI concerns.",
+      "url": "https://www.livemint.com/companies/news/softbank-seeks-record-40-billion-loan-financing-banks-fund-openai-stake-invest-masayoshi-son-ai-bubble-concern-liquidity-11772773618772.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-06T05:44:22Z"
+    },
+    {
+      "title": "Anthropic to challenge Pentagon supply chain risk designation in court",
+      "description": "The dispute between Anthropic and the U.S. Department of Defense has escalated after the Pentagon labeled the AI company a supply chain risk, a decision…\nThe post Anthropic to challenge Pentagon supply chain risk designation in court appeared first on OnMSFT.",
+      "url": "https://onmsft.com/news/anthropic-to-challenge-pentagon-supply-chain-risk-designation-in-court",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-06T05:23:58Z"
+    },
+    {
+      "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports",
+      "description": "March 6 : SoftBank is seeking a loan of up to $40 billion, primarily to finance its investment in ChatGPT-maker OpenAI, a Bloomberg News reporter said in an X post on Friday.",
+      "url": "https://www.channelnewsasia.com/business/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-reports-5975931",
+      "source": "CNA",
+      "publishedAt": "2026-03-06T04:27:31Z"
+    },
+    {
+      "title": "SoftBank eyes up to $40 billion loan to fund OpenAI investment, Bloomberg News reports",
+      "description": "March 6 : Japanese conglomerate SoftBank is seeking a loan of up to $40 billion, primarily to finance its investment in ChatGPT-maker OpenAI, Bloomberg News reported on Friday, citing people familiar with the matter. The bridge loan would hold a roughly 12-mo…",
+      "url": "https://www.channelnewsasia.com/business/softbank-eyes-up-40-billion-loan-fund-openai-investment-bloomberg-news-reports-5975931",
+      "source": "CNA",
+      "publishedAt": "2026-03-06T04:27:31Z"
+    },
+    {
+      "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment: Bloomberg",
+      "description": "SoftBank is seeking up to $40 billion in loans, mainly to back its $30 billion investment in OpenAI. The Japanese firm has sold assets, increased debt, and made other AI-related acquisitions, raising concerns about liquidity, credit quality, and exposure amid…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/softbank-seeks-up-to-40-billion-loan-to-finance-openai-investment-bloomberg/articleshow/129132007.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T04:25:48Z"
+    },
+    {
+      "title": "How to Build an AI Coding Assistant Using an LLM API",
+      "description": "Build an AI coding assistant using LLM APIs! Learn prompt engineering, API integration, context management, and scaling for enhanced developer productivity.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-an-ai-coding-assistant-using-an-llm-api",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-06T04:20:01Z"
+    },
+    {
+      "title": "Africa emerges as new arena in US-China competition over artificial intelligence",
+      "description": "With a fast-growing digital economy and young population, the continent is becoming a critical front in the global race to shape AI's future. Read full story",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/06/africa-emerges-as-new-arena-in-us-china-competition-over-artificial-intelligence",
+      "source": "The Star Online",
+      "publishedAt": "2026-03-06T03:30:00Z"
+    },
+    {
+      "title": "Anthropic to challenge Pentagon's ‘supply chain risk’ label",
+      "description": "CEO Dario Amodei said that Anthropic has received a letter from the US Department of War stating the AI company is considered a supply chain risk to America’s national security. Amodei said the firm believes the action is not legally sound and plans to challe…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-to-challenge-pentagons-supply-chain-risk-label/articleshow/129129572.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T03:25:11Z"
+    },
+    {
+      "title": "Generative AI cuts software task time by up to 70 per cent, report finds",
+      "description": "Senior engineers see 48% faster task completion. Around 70 per cent of engineers reported improved engagement while working with these tools: Report",
+      "url": "https://www.thehindubusinessline.com/info-tech/generative-ai-cuts-software-task-time-by-up-to-70-per-cent-report-finds/article70710035.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-06T03:20:16Z"
+    },
+    {
+      "title": "Sam Altman takes swipe at Anthropic amid uproar over OpenAI-Pentagon deal — ‘Bad for society’",
+      "description": "The Pentagon and Anthtropic have been locked in a months-long dispute over the company's insistence on safeguards that the Defense Department, which the Trump administration calls the Department of War, said went too far.",
+      "url": "https://www.livemint.com/companies/news/sam-altman-takes-swipe-at-anthropic-amid-uproar-over-openai-pentagon-deal-bad-for-society-11772757032355.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-06T03:18:52Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ",
+      "Oracle Layoffs 2026: Why Larry Ellison’s US tech giant is cutting thousands of jobs again after $300 billion OpenAI bet with Sam Altman",
+      "ChatGPT 5.4: All-new 'powerful' OpenAI update for Excel users; Availability, usage in daily life and more",
+      "Microsoft to keep using Anthropic's Claude for many clients despite Pentagon's ‘supply chain risk’ label on AI firm",
+      "US: Pentagon labels AI company Anthropic a supply chain risk"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/30708210",
+        "https://economictimes.indiatimes.com/news/new-updates/oracle-layoffs-2026-why-larry-ellisons-us-tech-giant-is-cutting-thousands-of-jobs-again-after-300-billion-openai-bet-with-sam-altman/articleshow/129137156.cms",
+        "https://economictimes.indiatimes.com/news/new-updates/chatgpt-5-4-all-new-powerful-openai-update-for-excel-users-availability-usage-in-daily-life-and-more/articleshow/129136480.cms"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/microsoft-to-keep-using-anthropics-claude-for-many-clients-despite-pentagons-supply-chain-risk-label-on-ai-firm-11772770347321.html",
+        "https://www.dw.com/en/us-pentagon-labels-ai-company-anthropic-a-supply-chain-risk/a-76239091",
+        "https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260306PD220/sk-group-chairman-nvidia-gtc-hbm4.html",
+        "https://www.c-sharpcorner.com/article/how-to-build-an-ai-coding-assistant-using-an-llm-api",
+        "https://www.thestar.com.my/tech/tech-news/2026/03/06/africa-emerges-as-new-arena-in-us-china-competition-over-artificial-intelligence"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GoogleがAI性能比較サービス「Android Bench」を公開、AIの「Android開発への役立ち度」をランク付けし初回はGeminiがトップ. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

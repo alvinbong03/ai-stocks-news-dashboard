@@ -1,0 +1,1028 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-07",
+  "last_updated_utc": "2026-03-07T06:34:37.553Z",
+  "news": [
+    {
+      "title": "SK Group chairman reportedly to meet Nvidia CEO at GTC",
+      "description": "SK Group chairman Chey Tae-Won is expected to attend Nvidia GTC 2026 in San Jose, California, on March 16, 2026, where he will likely hold high-level talks with Nvidia CEO Jensen Huang. The discussions are expected to center on the upcoming AI accelerator \"Ve…",
+      "url": "https://www.digitimes.com/news/a20260306PD220/sk-group-chairman-nvidia-gtc-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T06:18:18Z"
+    },
+    {
+      "title": "Pentagon labels AI company Anthropic a supply chain risk",
+      "description": "The Pentagon said in a statement Thursday that it has \"officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately.\"",
+      "url": "https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk",
+      "source": "NPR",
+      "publishedAt": "2026-03-06T06:08:43Z"
+    },
+    {
+      "title": "Pentagon labels Anthropic a supply-chain risk",
+      "description": "The US Department of War has issued the first such designation ever applied to an American company, demanding that defence contractors certify they do not use Claude. Anthropic says the action is unlawful and retaliatory. For months, the conversations between…",
+      "url": "https://thenextweb.com/news/pentagon-labels-anthropic-a-supply-chain-risk",
+      "source": "The Next Web",
+      "publishedAt": "2026-03-06T06:05:11Z"
+    },
+    {
+      "title": "Middle East conflict sparks global supply chain chaos, threatens South African exports",
+      "description": "Rising tensions in Yemen and Iran’s control over the Strait of Hormuz (20% of global oil shipments) are forcing shipping reroutes, increasing fuel costs and threatening South Africa’s agricultural exports to the Middle East. Gold surged to $2,135/oz, likely d…",
+      "url": "https://www.naturalnews.com/2026-03-06-middle-east-conflict-sparks-supply-chain-chaos.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-06T06:00:00Z"
+    },
+    {
+      "title": "Anthropic says it will challenge Defense Department's supply chain risk designation in court",
+      "description": "In a new blog post, Anthropic CEO Dario Amodei has admitted that it received a letter from the Defense Department, officially labeling it a supply chain risk. He said he doesn’t “believe this action is legally sound,” and that his company sees “no choice” but…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180917316",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-06T05:53:42Z"
+    },
+    {
+      "title": "MK Sprite Shader by Michael Kremmel",
+      "description": "MK Sprite Shader: Jitter-free antialiased sprite rendering that eliminates shimmer at distance and steep angles. Crisp Pixel Art or smooth Hybrid rendering with fully lit physically based shading.Technical Details<ul><li>From scratch & hand-written shader…",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/mk-sprite-shader-365258",
+      "source": "Unity.com",
+      "publishedAt": "2026-03-06T05:50:17Z"
+    },
+    {
+      "title": "House of Lords urges UK government to protect IP against AI misuse",
+      "description": "Machine-readable indelible watermarking in content supply chain is among proposals that could protect copyrighted content",
+      "url": "https://www.computerweekly.com/news/366639666/House-of-Lords-urges-UK-government-to-protect-IP-against-AI-misuse",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-03-06T05:42:00Z"
+    },
+    {
+      "title": "Microsoft to keep using Anthropic's Claude for many clients despite Pentagon's ‘supply chain risk’ label on AI firm",
+      "description": "Microsoft provides its tools to a number of US government agencies. The Department of War extensively uses Microsoft 365 productivity software. However, Microsoft will not use Claude AI in these contracts.",
+      "url": "https://www.livemint.com/companies/news/microsoft-to-keep-using-anthropics-claude-for-many-clients-despite-pentagons-supply-chain-risk-label-on-ai-firm-11772770347321.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-06T05:34:17Z"
+    },
+    {
+      "title": "Anthropic to challenge Pentagon supply chain risk designation in court",
+      "description": "The dispute between Anthropic and the U.S. Department of Defense has escalated after the Pentagon labeled the AI company a supply chain risk, a decision…\nThe post Anthropic to challenge Pentagon supply chain risk designation in court appeared first on OnMSFT.",
+      "url": "https://onmsft.com/news/anthropic-to-challenge-pentagon-supply-chain-risk-designation-in-court",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-06T05:23:58Z"
+    },
+    {
+      "title": "FIIs will return to Indian stocks if any of these two conditions are met: Chris Wood of Jefferies",
+      "description": "According to Christopher Wood, foreign institutional investors (FIIs) may return strongly to India equities if the global semiconductor cycle peaks or if the domestic market sees a sharp correction. In his GREED & Fear note for Jefferies, he said investors cu…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-indian-stocks-if-any-of-these-two-conditions-are-met-chris-wood-of-jefferies/articleshow/129134370.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T05:21:32Z"
+    },
+    {
+      "title": "FIREBAT AM02 Mini PC AMD Ryzen5 6600H LPDDR5 16GB RAM M.2 PCIe 512GB SSD WiFi 6 BT 5.2 1000M LAN Windows 11 Desktop Computer $268",
+      "description": "FIREBAT AM02 Mini PC AMD Ryzen5 6600H LPDDR5 16GB RAM M.2 PCIe 512GB SSD WiFi 6 BT 5.2 1000M LAN Windows 11 Desktop Computer for $269 \n \nhttps://www.aliexpress.us/item/32...1824.html?",
+      "url": "https://slickdeals.net/f/19276608-firebat-am02-mini-pc-amd-ryzen5-6600h-lpddr5-16gb-ram-m-2-pcie-512gb-ssd-wifi-6-bt-5-2-1000m-lan-windows-11-desktop-computer-268",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-06T05:15:06Z"
+    },
+    {
+      "title": "Microsoft says Anthropic's products can stay on its platforms after lawyers 'studied' the Pentagon supply chain risk designation",
+      "description": "Microsoft says Anthropic's AI tools can remain on its platforms after lawyers reviewed the Pentagon's supply chain risk designation.",
+      "url": "https://www.businessinsider.com/microsoft-anthropic-claude-pentagon-designation-supply-chain-risk-lawyers-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-06T05:03:09Z"
+    },
+    {
+      "title": "US: Pentagon labels AI company Anthropic a supply chain risk",
+      "description": "The move follows months-long dispute with the Pentagon over Anthropic's AI chatbot Claude's safeguards.",
+      "url": "https://www.dw.com/en/us-pentagon-labels-ai-company-anthropic-a-supply-chain-risk/a-76239091",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-06T05:01:00Z"
+    },
+    {
+      "title": "Taiwan and US to jointly boost investments in five trusted industries",
+      "description": "Taiwan's government is actively promoting developments in the \"Five Trusted Industry Sectors\": semiconductors, AI, military, security and surveillance, and next-generation communications. As the Ministry of Economic Affairs (MOEA) points out, the strategic si…",
+      "url": "https://www.digitimes.com/news/a20260306PD215/taiwan-moea-semiconductors-security-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T04:48:59Z"
+    },
+    {
+      "title": "Asus Zenbook S16 review: The ultrabook, done right",
+      "description": "Asus crammed a 3K OLED display, six-speaker Dolby Atmos audio, a 28W AMD Ryzen AI 9 processor, and every port you'd need into a 16-inch laptop that weighs 1.5 kg and measures 1.1 cm thin. The Zenbook S16, priced at Rs 1,49,990, delivers premium build, all-day…",
+      "url": "https://timesofindia.indiatimes.com/technology/reviews/asus-zenbook-s16-review-the-ultrabook-done-right/articleshow/129131536.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T04:33:50Z"
+    },
+    {
+      "title": "The 15-inch M4 MacBook Air 16GB 512GB Is $300 Off",
+      "description": "The MacBook Air features a 15.3-inch Liquid Retina Display capable of supporting up to a billion colors. Videos, photos, game graphics, and movies will appear with sharp detail and rich contrast, making everything you see from the display look stunning. Get t…",
+      "url": "https://www.ilounge.com/news/daily-deals/the-15-inch-m4-macbook-air-16gb-512gb-is-300-off",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:21:23Z"
+    },
+    {
+      "title": "UK space sector warns of 'fatal' stalls as supply chain fractures, urges shift from grants to contracts",
+      "description": "At the 2026 UK Space-Comm Expo held March 4-5 in London, a forum on \"Strengthening Space Supply Chain Resilience\" unexpectedly turned into an industry venting session. Participants said the UK space sector is facing deep structural fractures, citing weak supp…",
+      "url": "https://www.digitimes.com/news/a20260306PD209/uk-space-tech-supply-chain-expo-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T04:18:48Z"
+    },
+    {
+      "title": "New Studio Displays To Be Equipped With Different Chips",
+      "description": "Marketing and press release materials have been given for Apple’s new Studio Display XDR and Studio Display. The firmware shows that the Studio Display XDR features an A19 Pro chip while the Studio Display has an A19 chip. The previous Studio Display that was…",
+      "url": "https://www.ilounge.com/news/apple/new-studio-displays-to-be-equipped-with-different-chips",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:18:21Z"
+    },
+    {
+      "title": "The 15-inch M4 MacBook Air 24GB RAM 512GB SSD  Is $150 Off",
+      "description": "The device features 24GB of RAM combined with the M4 chip. The M4 MacBook Air is equipped for faster and stronger performances and has Apple Intelligence, the personal AI system made by Apple to help in getting things done and organized in your device. The Ma…",
+      "url": "https://www.ilounge.com/news/daily-deals/the-15-inch-m4-macbook-air-24gb-ram-512gb-ssd-is-150-off",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:17:36Z"
+    },
+    {
+      "title": "iPad Air Line Refreshed With M4 iPad Air",
+      "description": "Apple has refreshed the iPad Air lineup with the M4 iPad Air, with improved 12GB unified memory from 8GB and 120GB of memory bandwidth. The company claims that the upgraded iPad Air is faster by 30% with a 9-core GPU in the device, with hardware-accelerated s…",
+      "url": "https://www.ilounge.com/news/ipad/ipad-air-line-refreshed-with-m4-ipad-air",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:16:41Z"
+    },
+    {
+      "title": "M5 Max and M5 Pro MacBook Pro Announced",
+      "description": "Apple has announced the release of the M5 Max and M5 Pro chips with higher configurations and specs compared to the base chip for the 14 and 16-inch MacBook Pro models. You get Thunderbolt 5 ports, Magsafe and faster chips. The M5 Max MacBook Pro features an …",
+      "url": "https://www.ilounge.com/news/mac/macbook-pro/m5-max-and-m5-pro-macbook-pro-announced",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:14:57Z"
+    },
+    {
+      "title": "The 15-inch M4 MacBook Air 16GB RAM 512GB SSD  Is $150 Off",
+      "description": "The MacBook Air is powered by the M4 chip to provide you with fast and strong performance when using the laptop, while allowing you to multitask and handle heavy tasks like editing. It is compatible with Apple Intelligence to help simplify and blitz through y…",
+      "url": "https://www.ilounge.com/news/daily-deals/the-15-inch-m4-macbook-air-16gb-ram-512gb-ssd-is-150-off",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:13:53Z"
+    },
+    {
+      "title": "Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked Memo - WSJ",
+      "description": "Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked MemoWSJ Anthropic says that the Pentagon has declared it a national security riskNBC News Microsoft says Anthropic’s products remain available to customers after Pentagon blacklistCNB…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180916942",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-06T04:13:21Z"
+    },
+    {
+      "title": "The iPad Mini 7 512GB Is $100 Off",
+      "description": "The iPad Mini is powered by the A17 Pro chip for fast and strong performance when using the device and supports Apple Intelligence, the personal AI system made to help you get through your workload and get things organized. It also has groundbreaking protecti…",
+      "url": "https://www.ilounge.com/news/daily-deals/the-ipad-mini-7-512gb-is-100-off-2",
+      "source": "iLounge",
+      "publishedAt": "2026-03-06T04:10:10Z"
+    },
+    {
+      "title": "Hormuz tensions test Taiwan's energy security as government scrambles to shield chip industry",
+      "description": "While the global economy pins its growth hopes on the rapid scaling of artificial intelligence (AI), the physical foundation of that technology is currently facing an existential threat in the narrow seaways of the Persian Gulf.",
+      "url": "https://www.digitimes.com/news/a20260306VL202/taiwan-gases-security-economy.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T03:47:35Z"
+    },
+    {
+      "title": "Denso, chipmaker Rohm hold talks on potential $8.3 billion acquisition",
+      "description": "TOKYO, March 6 : Toyota supplier Denso is in talks to acquire shares of chipmaker Rohm in a potential $8.3-billion deal that will expand the auto parts maker's control over power management chips used in EVs and data centres.Denso, a pillar of the Toyota grou…",
+      "url": "https://www.channelnewsasia.com/business/denso-chipmaker-rohm-hold-talks-potential-83-billion-acquisition-5975786",
+      "source": "CNA",
+      "publishedAt": "2026-03-06T03:30:49Z"
+    },
+    {
+      "title": "Microsoft Confirms 'Project Helix,' a Next-Gen Xbox That Can Run PC Games",
+      "description": "An anonymous reader quotes a report from 80 Level: Microsoft has officially confirmed development of its next-generation Xbox console, currently known internally as Project Helix. While concrete details remain limited, early information suggests the company i…",
+      "url": "https://hardware.slashdot.org/story/26/03/05/2240225/microsoft-confirms-project-helix-a-next-gen-xbox-that-can-run-pc-games",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-06T03:30:00Z"
+    },
+    {
+      "title": "Anthropic to challenge Pentagon's ‘supply chain risk’ label",
+      "description": "CEO Dario Amodei said that Anthropic has received a letter from the US Department of War stating the AI company is considered a supply chain risk to America’s national security. Amodei said the firm believes the action is not legally sound and plans to challe…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-to-challenge-pentagons-supply-chain-risk-label/articleshow/129129572.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-06T03:25:11Z"
+    },
+    {
+      "title": "Supply-chain firms become front-line partners as tech outpaces testing and standards",
+      "description": "Rapid iteration in AI and low-earth orbit satellite communications has pushed suppliers to assume design and validation roles, reshaping Taiwan's position in global manufacturing ecosystems.",
+      "url": "https://www.digitimes.com/news/a20260304PD201/testing-satellite-communications-design-manufacturing-certification.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T03:23:10Z"
+    },
+    {
+      "title": "Cheng Mei Materials launches semiconductor films with 1Q26 shipments",
+      "description": "Cheng Mei Materials' pivot to semiconductor materials could reshape Taiwan's advanced packaging supply chain, as the company begins shipments and commits new capital to scale production by 2028.",
+      "url": "https://www.digitimes.com/news/a20260304PD205/packaging-materials-shipments-production-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-06T03:22:49Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "SK Group chairman reportedly to meet Nvidia CEO at GTC",
+      "Pentagon labels AI company Anthropic a supply chain risk",
+      "Pentagon labels Anthropic a supply-chain risk",
+      "Middle East conflict sparks global supply chain chaos, threatens South African exports",
+      "Anthropic says it will challenge Defense Department's supply chain risk designation in court"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk",
+        "https://thenextweb.com/news/pentagon-labels-anthropic-a-supply-chain-risk",
+        "https://www.naturalnews.com/2026-03-06-middle-east-conflict-sparks-supply-chain-chaos.html"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ilounge.com/news/ipad/ipad-air-line-refreshed-with-m4-ipad-air",
+        "https://hardware.slashdot.org/story/26/03/05/2240225/microsoft-confirms-project-helix-a-next-gen-xbox-that-can-run-pc-games"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180916942"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260306PD220/sk-group-chairman-nvidia-gtc-hbm4.html",
+        "https://assetstore.unity.com/packages/vfx/shaders/mk-sprite-shader-365258",
+        "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-indian-stocks-if-any-of-these-two-conditions-are-met-chris-wood-of-jefferies/articleshow/129134370.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 341.64
+        },
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK Group chairman reportedly to meet Nvidia CEO at GTC. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 227.92
+        },
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK Group chairman reportedly to meet Nvidia CEO at GTC. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 1331.6
+        },
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK Group chairman reportedly to meet Nvidia CEO at GTC. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 48.32
+        },
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK Group chairman reportedly to meet Nvidia CEO at GTC. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 161.39
+        },
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK Group chairman reportedly to meet Nvidia CEO at GTC. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
