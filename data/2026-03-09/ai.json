@@ -1,0 +1,909 @@
+{
+  "theme": "ai",
+  "date": "2026-03-09",
+  "last_updated_utc": "2026-03-09T06:56:26.401Z",
+  "news": [
+    {
+      "title": "又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路",
+      "description": "OpenAI CEO Sam Altman speaks to media following a Q&A at the OpenAI data center in Abilene, Texas, U.S., September 23, 2025. REUTERS/Shelby Tauber/Pool Reuters / Reuters 較早前有人於 ChatGPT 網頁版程式碼中發現「Citron Mode Enabled」字串，暗示 OpenAI 打算開始測試成人模式，與競爭對手（如 xAI 的 Grok）睇…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c4d86454-932a-4783-90af-18523a2c648b",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-08T03:00:36Z"
+    },
+    {
+      "title": "Meet Amanda Askell: The philosopher hired by Anthropic to teach AI how to behave well",
+      "description": "A philosopher is at the forefront of shaping advanced AI like Anthropic's Claude, guiding its ethical behaviour. Amanda Askell's work focuses on instilling caution, honesty, and empathy, moving beyond mere programming. Her innovative \"Constitutional AI\" appro…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-amanda-askell-the-philosopher-hired-by-anthropic-to-teach-ai-how-to-behave-well/articleshow/129235882.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-07T21:22:21Z"
+    },
+    {
+      "title": "Explained: The jobs that AI could most certainly replace, as per an Anthropic study",
+      "description": "The data also shows how some demographics can be more at risk than others. Workers in the most AI-exposed professions differ significantly from those in unexposed roles.",
+      "url": "https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-08T06:39:47Z"
+    },
+    {
+      "title": "Show HN: Render Claude Code and Codex Transcripts as Browsable HTML",
+      "description": "Article URL: https://github.com/forhadahmed/ai-transcript\nComments URL: https://news.ycombinator.com/item?id=47294940\nPoints: 3\n# Comments: 0",
+      "url": "https://github.com/forhadahmed/ai-transcript",
+      "source": "Github.com",
+      "publishedAt": "2026-03-08T06:03:48Z"
+    },
+    {
+      "title": "OpenAI senior robotics exec resigns over Pentagon deal",
+      "description": "OpenAI's top robotics executive said Saturday she had resigned over the artificial intelligence giant's deal with the US government to allow its technology's deployment for war and domestic surveillance. OpenAI's CEO Sam Altman later posted to X saying the st…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-senior-robotics-exec-resigns-over-pentagon-deal/articleshow/129253673.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-08T05:32:23Z"
+    },
+    {
+      "title": "Show HN: Apc-CLI – sync AI memory across Claude Code, Cursor, Copilot",
+      "description": "I use 4-5 AI coding tools depending on the task. The thing that kept frustrating me: every tool stores its context in a different place, in a different format. Switch from Claude Code to Cursor mid-project and you start from scratch. Set up a new machine and …",
+      "url": "https://github.com/FZ2000/apc-cli",
+      "source": "Github.com",
+      "publishedAt": "2026-03-08T01:37:20Z"
+    },
+    {
+      "title": "OpenAI Robotics head resigns after deal with Pentagon",
+      "description": "Caitlin Kalinowski, head of robotics and consumer hardware at OpenAI, has resigned, citing concerns over the company’s agreement with the US Department of Defense. In a post on X, she said OpenAI did not take enough time before deciding to deploy its AI model…",
+      "url": "https://economictimes.indiatimes.com/news/international/business/openai-robotics-head-resigns-after-deal-with-pentagon/articleshow/129243731.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-08T00:39:08Z"
+    },
+    {
+      "title": "Paper.design: GPU Shaders, MCP and Vibe Coding for Designers",
+      "description": "Paper.design: GPU Shaders, MCP and Vibe Coding for Designers\n\n \n\n\n jeff\n March 07, 2026\n\n\n Paper.design blends GPU shaders, HTML/CSS canvas, and MCP agent integration to create a design tool built for the age of vibe coding and AI workflows.\nWhat is Paper.des…",
+      "url": "https://abduzeedo.com/node/89066",
+      "source": "Abduzeedo.com",
+      "publishedAt": "2026-03-08T00:37:37Z"
+    },
+    {
+      "title": "Top researcher leaves OpenAI due to Pentagon deal (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico:\nTop researcher leaves OpenAI due to Pentagon deal … Unable to breach the impasse, President Donald Trump in late February directed all federal agencies to cease using Anthropic technology.  The Pentagon then designated the star…",
+      "url": "https://www.memeorandum.com/260307/p59",
+      "source": "Memeorandum.com",
+      "publishedAt": "2026-03-08T00:05:01Z"
+    },
+    {
+      "title": "DynaPack plans triple BBU capacity expansion to meet AI data center demand",
+      "description": "With AI data centers now integrating battery backup units (BBU), battery module maker DynaPack plans to add an additional 200% to its production capacity at its Taiwan and Thailand facilities to capitalize on this clearly emerging trend, with room for further…",
+      "url": "https://www.digitimes.com/news/a20260305PD219/demand-data-2026-2025-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-07T22:59:18Z"
+    },
+    {
+      "title": "OpenAI is reportedly pushing back the launch of its 'adult mode' even further",
+      "description": "Here comes another disappointment for ChatGPT users. As first reported by Sources ' Alex Heath, OpenAI is yet again delaying its \"adult mode\" for ChatGPT. A company spokesperson told Heath that \"we're pushing out the launch of adult mode so we can focus on wo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180925556",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-07T21:33:41Z"
+    },
+    {
+      "title": "LLM Writing Tropes.md",
+      "description": "A single file containing all known AI writing tropes. I guess you could add it to your AI system prompt to avoid these patterns. Or you could embark on the joy of independent writing.",
+      "url": "https://tropes.fyi/tropes-md",
+      "source": "Tropes.fyi",
+      "publishedAt": "2026-03-07T21:08:40Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路",
+      "Meet Amanda Askell: The philosopher hired by Anthropic to teach AI how to behave well",
+      "Explained: The jobs that AI could most certainly replace, as per an Anthropic study",
+      "Show HN: Render Claude Code and Codex Transcripts as Browsable HTML",
+      "OpenAI senior robotics exec resigns over Pentagon deal"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c4d86454-932a-4783-90af-18523a2c648b",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-senior-robotics-exec-resigns-over-pentagon-deal/articleshow/129253673.cms",
+        "https://economictimes.indiatimes.com/news/international/business/openai-robotics-head-resigns-after-deal-with-pentagon/articleshow/129243731.cms"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054",
+        "https://www.digitimes.com/news/a20260305PD219/demand-data-2026-2025-capacity.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/etimes/trending/meet-amanda-askell-the-philosopher-hired-by-anthropic-to-teach-ai-how-to-behave-well/articleshow/129235882.cms"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/forhadahmed/ai-transcript",
+        "https://github.com/FZ2000/apc-cli"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://abduzeedo.com/node/89066",
+        "https://tropes.fyi/tropes-md"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 187.05
+        },
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 456.66
+        },
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 332.78
+        },
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 238.18
+        },
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-15",
+          "close": 620.8
+        },
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 又再 Delay，OpenAI 再次推遲 ChatGPT 解禁成人內容，為其他功能讓路. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
