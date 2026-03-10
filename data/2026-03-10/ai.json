@@ -1,0 +1,982 @@
+{
+  "theme": "ai",
+  "date": "2026-03-10",
+  "last_updated_utc": "2026-03-10T06:42:07.796Z",
+  "news": [
+    {
+      "title": "「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。",
+      "description": "[VeritasChain]\n[画像1: https://prcdn.freetls.fastly.net/release_image/173766/169/173766-169-265470e08610d291d5cd22228c716abf-1290x2441.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000169.000173766.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-09T03:40:26Z"
+    },
+    {
+      "title": "Nvidia halts China-bound H200 production, shifts TSMC capacity to Vera Rubin",
+      "description": "Nvidia has halted production of artificial intelligence (AI) chips intended for the Chinese market and redirected manufacturing capacity at TSMC to its next-generation Vera Rubin platform, as regulatory barriers in both the US and China continue to cloud pros…",
+      "url": "https://www.digitimes.com/news/a20260309VL202/nvidia-rubin-chips-production-capacity-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T02:39:32Z"
+    },
+    {
+      "title": "Show HN: Pmc – tiny single binary for packing code into LLM context",
+      "description": "pmc(pack-my-code): A tiny binary tool that “packages” your project code, suitable for sending to large language models. - Water-Run/pack-my-code",
+      "url": "https://github.com/Water-Run/pack-my-code",
+      "source": "Github.com",
+      "publishedAt": "2026-03-09T02:29:31Z"
+    },
+    {
+      "title": "OpenAI senior robotics exec resigns over Pentagon deal; Anthropic formally designated as supply-chain risk",
+      "description": "Los Angeles, United States (AFP) Mar 8, 2026\n\n OpenAI's top robotics executive said Saturday she had resigned over the artificial intelligence giant's deal with the US government to allow its technology's deployment for war and domestic surveillance. \n\nThe co…",
+      "url": "https://www.spacewar.com/reports/OpenAI_senior_robotics_exec_resigns_over_Pentagon_deal_999.html",
+      "source": "Spacewar.com",
+      "publishedAt": "2026-03-09T01:52:44Z"
+    },
+    {
+      "title": "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech",
+      "description": "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for GamersWccftech GeForce RTX 3060 stock may return starting mid-March 2026VideoCardz.com Nvidia releasing old GPU due to memory crisisAzerNews Nvidia GeForc…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180931986",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-09T06:32:55Z"
+    },
+    {
+      "title": "Global Market | Christopher Wood sees Anthropic as the standout player in evolving AI landscape",
+      "description": "Global investors are debating the massive capital expenditure by tech firms in the AI sector, with Anthropic emerging as a key player. While the AI narrative has powered US equities, scrutiny is intensifying over whether this spending will yield meaningful re…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-09T04:55:47Z"
+    },
+    {
+      "title": "Show HN: Claude Code hook that nudges about accumulating WIP",
+      "description": "An AI agent has no visibility into accumulating work-in-progress. It works on the current prompt. Meanwhile, uncommitted changes grow, commits pile up without a push, changesets go unwritten, and a release PR sits open for days. The accumulation…",
+      "url": "https://windyroad.com.au/blog/making-work-in-progress-visible-to-your-ai-agent",
+      "source": "Windyroad.com.au",
+      "publishedAt": "2026-03-09T04:55:04Z"
+    },
+    {
+      "title": "Orbital data center company to start mining Bitcoin in space",
+      "description": "Starcloud, an Nvidia-backed orbital data center startup, said it will connect Bitcoin ASICs to mine the cryptocurrency in space when its second spacecraft launches later this year.",
+      "url": "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-09T04:49:53Z"
+    },
+    {
+      "title": "国防総省がサプライチェーンリスクに指定したAnthropicにGoogle・Amazon・Microsoftが防衛関連以外で協力表明、一方「なぜ指定したのか」について国防総省のAI担当者が語る",
+      "description": "AIの軍事利用を巡りアメリカ国防総省と意見が対立したAnthropicが「サプライチェーンリスク」に指定された問題で、複数のテック企業がAnthropicとの提携を継続すると表明したことが分かりました。Microsoft says Anthropic’s products remain available to customers after Pentagon blacklisthttps://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-c…",
+      "url": "https://news.livedoor.com/article/detail/30726905",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-09T04:22:00Z"
+    },
+    {
+      "title": "How to Integrate LLM-Based Chat Features into Existing Web Applications",
+      "description": "Integrate LLM chat into web apps! Learn to add AI chatbots for support, recommendations, & real-time guidance without rebuilding your system. Boost engagement now!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-integrate-llm-based-chat-features-into-existing-web-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-09T04:12:17Z"
+    },
+    {
+      "title": "Show HN: Andon – Toyota Production System for LLM Coding Agents",
+      "description": "LLM coding agents (Claude Code, Codex, etc.) have structural weaknesses: blind retry loops, volatile learning, silent\n spec drift, and gate gaming. These aren't bugs in specific models — they're properties of goal-optimizing systems. ANDON applies Toyota Prod…",
+      "url": "https://github.com/allnew-llc/andon-for-llm-agents",
+      "source": "Github.com",
+      "publishedAt": "2026-03-09T03:23:40Z"
+    },
+    {
+      "title": "Foxconn's deep Nvidia ties and full-stack integration fuel AI server ambitions",
+      "description": "Foxconn chairman Young Liu said the company expects robust growth in 2026, driven by recovering consumer electronics demand and expanding AI-related business. He expressed strong confidence in Foxconn's AI server shipments and market share prospects.",
+      "url": "https://www.digitimes.com/news/a20260309PD207/foxconn-chairman-market-ai-server-vertical-integration.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T03:20:28Z"
+    },
+    {
+      "title": "US weighs global AI chip export licensing to curb third-country diversion",
+      "description": "The White House is reportedly drafting a new regulatory framework that would tighten US oversight of global AI chip exports. This move could reshape how advanced computing power is distributed worldwide.",
+      "url": "https://www.digitimes.com/news/a20260309PD209/usa-ai-chip-exports-licensing-policy-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T02:59:25Z"
+    },
+    {
+      "title": "OpenAI, Oracle rethink Texas expansion, though Stargate buildout continues",
+      "description": "OpenAI and Oracle's decision to drop a planned expansion at their flagship Texas AI campus highlights the shifting economics and technology cycles of large-scale AI infrastructure. The move suggests developers are becoming more flexible about where and when t…",
+      "url": "https://www.digitimes.com/news/a20260309VL201/openai-oracle-texas-expansion-capacity-stargate.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T02:03:44Z"
+    },
+    {
+      "title": "Anthropic finally reveals which jobs AI cannot replace",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5befcc75-428c-423b-ba9f-537555e4db4e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-09T00:37:00Z"
+    },
+    {
+      "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal - NPR",
+      "description": "OpenAI robotics leader resigns over concerns about Pentagon AI dealNPR OpenAI on Surveillance and Autonomous Killings: You’re Going to Have to Trust UsThe Intercept OpenAI Is Opening the Door to Government SpyingThe Atlantic Sam Altman Wants Elected Officials…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180930928",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-09T00:12:25Z"
+    },
+    {
+      "title": "Claude Skill incoming! Generating Postman collections with AI",
+      "description": "When speed matters more than perfection, API documentation can quickly become a bottleneck. In this post, I share how we used thoughtbot’s Claude Skill to generate Postman collections directly from a Rails codebase.",
+      "url": "https://thoughtbot.com/blog/claude-skill-incoming-generating-postman-collections-with-ai",
+      "source": "Thoughtbot.com",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "【3/31開催】製造業の生成AI活用術とAI専用SSDによる処理速度向上戦略ウェビナー！属人化解消からGPU性能最大化まで2社が徹底解説",
+      "description": "[株式会社アイスマイリー]\n[画像1: https://prcdn.freetls.fastly.net/release_image/53344/734/53344-734-29230dd9917080cc17e29391817443eb-1200x628.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000734.000053344.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Reconstructing fine-scale 3D wind fields with terrain-informed machine learning",
+      "description": "This study presents a terrain-aware AI framework trained on computational fluid dynamics that reconstructs fine-scale 3D wind fields from coarse weather forecasts, enabling accurate wind prediction over complex terrain without costly simulations.",
+      "url": "https://www.nature.com/articles/s41467-026-70562-5",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Advancements in machine learning, deep learning, and data fusion techniques for XRF spectrometry in heavy metal detection: a critical review",
+      "description": "J. Anal. At. Spectrom., 2026, Advance ArticleDOI: 10.1039/D5JA00458F, Critical ReviewAhmed A. AL-Tameemi, Fusheng Li, Zenan Xiao, Ghalib RazaX-ray fluorescence (XRF) spectroscopy is a widely used, non-destructive technique for rapid and cost-effective element…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ja/d5ja00458f",
+      "source": "Royal Society of Chemistry",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Show HN: Self-hosted financial analyst – Plaid and Claude and Next.js, –$5/month",
+      "description": "Article URL: https://github.com/mkash25/Claude-powered-AI-native-financial-dashboard\nComments URL: https://news.ycombinator.com/item?id=47302991\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/mkash25/Claude-powered-AI-native-financial-dashboard",
+      "source": "Github.com",
+      "publishedAt": "2026-03-08T23:54:01Z"
+    },
+    {
+      "title": "OpenAI Robotics Head Quits Over Pentagon Partnership",
+      "description": "OpenAI’s robotics lead has left the company due to its partnership with the Pentagon. Caitlin Kalinowski announced her departure from the artificial intelligence startup in a post on the social media platform X Saturday (March 7). The head of OpenAI’s robotic…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-robotics-head-quits-over-pentagon-partnership",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-08T22:03:53Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。",
+      "Nvidia halts China-bound H200 production, shifts TSMC capacity to Vera Rubin",
+      "Show HN: Pmc – tiny single binary for packing code into LLM context",
+      "OpenAI senior robotics exec resigns over Pentagon deal; Anthropic formally designated as supply-chain risk",
+      "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260309VL202/nvidia-rubin-chips-production-capacity-china.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180931986",
+        "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space"
+      ]
+    },
+    {
+      "title": "Show",
+      "summary": "Grouped stories where \"show\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/Water-Run/pack-my-code",
+        "https://windyroad.com.au/blog/making-work-in-progress-visible-to-your-ai-agent",
+        "https://github.com/allnew-llc/andon-for-llm-agents"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.spacewar.com/reports/OpenAI_senior_robotics_exec_resigns_over_Pentagon_deal_999.html",
+        "https://www.digitimes.com/news/a20260309VL201/openai-oracle-texas-expansion-capacity-stargate.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180930928"
+      ]
+    },
+    {
+      "title": "Pentagon",
+      "summary": "Grouped stories where \"pentagon\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/30726905"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000169.000173766.html",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms",
+        "https://www.c-sharpcorner.com/article/how-to-integrate-llm-based-chat-features-into-existing-web-applications"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 186.23
+        },
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 459.86
+        },
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 330
+        },
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 239.12
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 620.25
+        },
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 「いいねがもらえないAIは死ぬ」-GPT・Grok・GeminiがAI画像で殴り合い、人間が審判を下すAI画像評価プラットフォーム「AIMomentz」をVeritasChain株式会社が正式公開。. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

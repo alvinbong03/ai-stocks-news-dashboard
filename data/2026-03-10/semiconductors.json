@@ -1,0 +1,1087 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-10",
+  "last_updated_utc": "2026-03-10T06:42:30.990Z",
+  "news": [
+    {
+      "title": "Show HN: Explorable World as Agent Skill",
+      "description": "LocalGPT Gen is a Bevy-based tool where an AI agent builds explorable 3D worlds —\n geometry, behaviors (orbit, spin, path following), and spatial audio — then saves the\n entire world as a skill directory that other agents can load and remix. The skill format …",
+      "url": "https://localgpt.app/blog/world-as-skill",
+      "source": "Localgpt.app",
+      "publishedAt": "2026-03-09T06:41:44Z"
+    },
+    {
+      "title": "Samsung to Resurrect NVIDIA's GeForce RTX 3060 Using 8 nm Node",
+      "description": "NVIDIA's GeForce RTX 3060 is making a comeback, expected around mid-March. For this, NVIDIA will once again use Samsung's 8 nm DUV node, as it has in the past. This has been confirmed by the Korean media outlet Hankyung, which reports that Samsung is restarti…",
+      "url": "https://www.techpowerup.com/347174/samsung-to-resurrect-nvidias-geforce-rtx-3060-using-8-nm-node",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-03-09T06:36:41Z"
+    },
+    {
+      "title": "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech",
+      "description": "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for GamersWccftech GeForce RTX 3060 stock may return starting mid-March 2026VideoCardz.com Nvidia releasing old GPU due to memory crisisAzerNews Nvidia GeForc…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180931986",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-09T06:32:55Z"
+    },
+    {
+      "title": "JVNDB-2026-006484:Advanced Micro Devices (AMD)のAMD Radeon PRO VII Firmware等の複数製品におけるTime-of-check Time-of-use (TOCTOU) 競合状態の脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-006484_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-03-09T06:12:10Z"
+    },
+    {
+      "title": "JVNDB-2026-006483:Advanced Micro Devices (AMD)のAMD Radeon PRO VII Firmware等の複数製品におけるTime-of-check Time-of-use (TOCTOU) 競合状態の脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-006483_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-03-09T06:12:07Z"
+    },
+    {
+      "title": "Russia accused of providing Iran with U.S. military intel amid escalating Middle East conflict",
+      "description": "Multiple U.S. intelligence sources confirm Russia is providing Iran with critical intelligence, including satellite imagery, on U.S. military positions (warships, aircraft, communication infrastructure). While Russia is not directly coordinating strikes, this…",
+      "url": "https://www.naturalnews.com/2026-03-09-russia-accused-providing-iran-us-military-intel.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-09T06:00:00Z"
+    },
+    {
+      "title": "The supermarket oven chips taste test: ‘These are a good, cheap option if you prefer not to buy ultra-processed products’",
+      "description": "Remember when most kitchens had a deep-fat fryer on hand for the making of chips? Those days are long gone and there can be few who miss them, or the attendant risk of burning the house down while making the family dinner.",
+      "url": "https://www.independent.ie/life/food-drink/food-reviews/the-supermarket-oven-chips-taste-test-these-are-a-good-cheap-option-if-you-prefer-not-to-buy-ultra-processed-products/a936828921.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-09T05:30:00Z"
+    },
+    {
+      "title": "We are working with global oil producers, consumers to maintain stability in energy markets: US treasury secretary",
+      "description": "As the West Asia conflict strains the global oil supply chain, US Treasury Secretary Scott Bessent said the Trump administration is working with the world's largest oil producers, consumers, and refiners to maintain stability in the energy markets.",
+      "url": "https://www.thehindubusinessline.com/news/world/we-are-working-with-global-oil-producers-consumers-to-maintain-stability-in-energy-markets-us-treasury-secretary/article70721228.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-09T05:14:58Z"
+    },
+    {
+      "title": "Show HN: Rainy Updates – local-first dependency and supply-chain review for CI",
+      "description": "Rainy Updates started as a deterministic dependency review tool for Node monorepos and CI.With v0.7.0, it expands into cross-stack supply-chain review and attestation policy checks for local workflows, CI gates, and MCP-compatible agents.This release adds:\n- …",
+      "url": "https://github.com/ferxalbs/rainy-updates",
+      "source": "Github.com",
+      "publishedAt": "2026-03-09T04:59:19Z"
+    },
+    {
+      "title": "Orbital data center company to start mining Bitcoin in space",
+      "description": "Starcloud, an Nvidia-backed orbital data center startup, said it will connect Bitcoin ASICs to mine the cryptocurrency in space when its second spacecraft launches later this year.",
+      "url": "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-09T04:49:53Z"
+    },
+    {
+      "title": "WebGL Design Tool Unicorn Studio Brings Shaders to All",
+      "description": "WebGL Design Tool Unicorn Studio Brings Shaders to All\n\n \n\n\n abduzeedo\n March 08, 2026\n\n\n Unicorn Studio is the WebGL design tool bringing GPU-powered shader effects within reach of any designer — no GLSL, no code, just a spatial layer canvas.\nFor years, shad…",
+      "url": "https://abduzeedo.com/node/89068",
+      "source": "Abduzeedo.com",
+      "publishedAt": "2026-03-09T04:36:06Z"
+    },
+    {
+      "title": "Mitsui partners with Kaynes and AOI Electronics to support Indian OSAT business",
+      "description": "Mitsui has concluded a strategic business partnership agreement with Kaynes Semicon Private Limited, an OSAT (semiconductor back-end process) company in India, and AOI Electronics, the largest Japanese OSAT company. The agreement aims to support the start-up …",
+      "url": "https://www.digitimes.com/news/a20260309VL204/mitsui-aoi-osat-india-partnership.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T04:15:31Z"
+    },
+    {
+      "title": "War for Ukraine Day 1,473: Well I’m Sure That Will Resolve That Issue",
+      "description": "It’s been a long weekend, especially with the time change, so I’m going to try to just run through the basics tonight. Witkoff says he told Russia to stop feeding intel to Iran. Does he think they’re doing it? “I hope not.” Trump chimed in saying if they are,…",
+      "url": "https://balloon-juice.com/2026/03/08/war-for-ukraine-day-1473-well-im-sure-that-will-resolve-that-issue",
+      "source": "Balloon-juice.com",
+      "publishedAt": "2026-03-09T03:23:04Z"
+    },
+    {
+      "title": "Foxconn's deep Nvidia ties and full-stack integration fuel AI server ambitions",
+      "description": "Foxconn chairman Young Liu said the company expects robust growth in 2026, driven by recovering consumer electronics demand and expanding AI-related business. He expressed strong confidence in Foxconn's AI server shipments and market share prospects.",
+      "url": "https://www.digitimes.com/news/a20260309PD207/foxconn-chairman-market-ai-server-vertical-integration.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T03:20:28Z"
+    },
+    {
+      "title": "South Korea's IC design moves to bridge demand and local foundries",
+      "description": "Despite holding a dominant position in the memory chip industry, South Korea's system semiconductor ecosystem remains underdeveloped, with the country's IC design market share at only about 2%. Kyung-ho Kim, the newly appointed chairman of the Korea Fabless I…",
+      "url": "https://www.digitimes.com/news/a20260308PD201/ic-design-demand-production-samsung-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T03:15:48Z"
+    },
+    {
+      "title": "Tungsten prices surge nearly 6x amid China export controls and geopolitical tensions with Japan",
+      "description": "Geopolitical strains between China and Japan have intensified following Japanese Prime Minister Sanae Takaichi's remarks on \"Taiwan contingencies,\" impacting Japanese firms' access to high-purity tungsten powder. Although companies maintain inventories, urgen…",
+      "url": "https://www.digitimes.com/news/a20260309PD216/rare-earth-pcb-drill-demand-price-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T03:14:44Z"
+    },
+    {
+      "title": "Industry mulls thicker HBM standards for 20-layer stacks",
+      "description": "Global semiconductor companies are discussing relaxing thickness standards for next-generation high-bandwidth memory (HBM) as the industry moves toward higher stack counts in future designs, according to ZDNet Korea.",
+      "url": "https://www.digitimes.com/news/a20260306VL208/hbm-dram-hbm4-samsung-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T03:10:56Z"
+    },
+    {
+      "title": "TWiT 1074: Chicken Mating Harnesses - Supreme Court Rules AI Art Not Copyrightable",
+      "description": "Between copyright-free AI art, government blacklists, and data brokers run amok, this episode spotlights the fierce new battles for privacy, agency, and control in our digital lives. Plus, hear Cory Doctorow break down why the AI gold rush may be headed for a…",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1074",
+      "source": "Twit.tv",
+      "publishedAt": "2026-03-09T03:04:58Z"
+    },
+    {
+      "title": "US weighs global AI chip export licensing to curb third-country diversion",
+      "description": "The White House is reportedly drafting a new regulatory framework that would tighten US oversight of global AI chip exports. This move could reshape how advanced computing power is distributed worldwide.",
+      "url": "https://www.digitimes.com/news/a20260309PD209/usa-ai-chip-exports-licensing-policy-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T02:59:25Z"
+    },
+    {
+      "title": "Nvidia halts China-bound H200 production, shifts TSMC capacity to Vera Rubin",
+      "description": "Nvidia has halted production of artificial intelligence (AI) chips intended for the Chinese market and redirected manufacturing capacity at TSMC to its next-generation Vera Rubin platform, as regulatory barriers in both the US and China continue to cloud pros…",
+      "url": "https://www.digitimes.com/news/a20260309VL202/nvidia-rubin-chips-production-capacity-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T02:39:32Z"
+    },
+    {
+      "title": "We Review the New MacBook Pro With M5 Pro: Apple Delivers Another Remarkable Leap",
+      "description": "We Review the New MacBook Pro With M5 Pro: Apple Delivers Another Remarkable Leap\n \n\n\n\n Alex Cooke\nMarch 8, 2026 - 7:16 pm\n\n\n March 9th, 2026\n\n \n The M5 MacBook Pro represents a fundamental shift in how Apple builds its pro-level chips, and the results are no…",
+      "url": "https://fstoppers.com/reviews/review-new-macbook-pro-m5-pro-apple-delivers-another-remarkable-leap-900601",
+      "source": "Fstoppers",
+      "publishedAt": "2026-03-09T02:16:02Z"
+    },
+    {
+      "title": "6.5-Oz Kettle Brand Potato Chips Air Fried Kettle Chips (Sea Salt & Vinegar) $1.79 w/ S&S + Free Shipping w/ Prime or on $35+",
+      "description": "Amazon [amazon.com] has *6.5-Oz Kettle Brand Potato Chips Air Fried Kettle Chips (Sea Salt & Vinegar)* on sale for $1.99 - 10% when you 'clip' the coupon on product page & check out via Subscribe &...",
+      "url": "https://slickdeals.net/f/19284465-6-5-oz-kettle-brand-potato-chips-air-fried-kettle-chips-sea-salt-vinegar-1-79-w-s-s-free-shipping-w-prime-or-on-35",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-09T02:06:31Z"
+    },
+    {
+      "title": "OpenAI senior robotics exec resigns over Pentagon deal; Anthropic formally designated as supply-chain risk",
+      "description": "Los Angeles, United States (AFP) Mar 8, 2026\n\n OpenAI's top robotics executive said Saturday she had resigned over the artificial intelligence giant's deal with the US government to allow its technology's deployment for war and domestic surveillance. \n\nThe co…",
+      "url": "https://www.spacewar.com/reports/OpenAI_senior_robotics_exec_resigns_over_Pentagon_deal_999.html",
+      "source": "Spacewar.com",
+      "publishedAt": "2026-03-09T01:52:44Z"
+    },
+    {
+      "title": "Weekly news roundup: TSMC probe, AI boom, and memory price surge",
+      "description": "Below are the most-read DIGITIMES Asia stories from the week of March 2 - March 8, 2026.",
+      "url": "https://www.digitimes.com/news/a20260309VL200/digitimes-asia-weekly-news-roundup-tsmc-investigation-memory-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T01:24:48Z"
+    },
+    {
+      "title": "AMD Ryzen 7 9800x3d CPU $631.80 Delivered @ Smart Home Store eBay",
+      "description": "ATL price for brand new non aliexpress stock. Could be useful if you're looking to upgrade CPU and already have DDR5. price tracker: https://www.pgrid.app/au/cpus/ryzen-7-9800x3d",
+      "url": "https://www.ozbargain.com.au/node/951043",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-03-09T01:18:03Z"
+    },
+    {
+      "title": "Beijing warns of more chip supply worries after Nexperia China claims it was cut off from SAP",
+      "description": "PLUS: Indonesia joins kids social media ban; China frets about AI job impacts; India’s PC market fails to launch, again; And more\nChina’s Ministry of Commerce has warned of further disruption to the global semiconductor supply chain after Dutch chipmaker Nexp…",
+      "url": "https://www.theregister.com/2026/03/09/asia_tech_news_roundup",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-09T01:13:48Z"
+    },
+    {
+      "title": "India roundup: Japan, South Korea deepen push as semiconductor and tech investments expand",
+      "description": "Japanese and South Korean firms are expanding their presence in India as the country strengthens its semiconductor and technology ecosystem. Rohm has partnered with Suchi Semicon for back-end manufacturing, while Hanmi Semiconductor and OLED materials firm Lo…",
+      "url": "https://www.digitimes.com/news/a20260307VL200/technology-materials-manufacturing-semicon-micron.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-09T00:58:18Z"
+    },
+    {
+      "title": "Mexican Corn Dip Recipe - creamy, cheesy, and packed with bold flavor! Made with corn, Rotel, taco seasoning, lime juice, salsa, and cheddar cheese. Easy to make ahead and always a crowd favorite! Serve with tortilla chips, Fritos, or fresh veggies for parties, tailgates, or Cinco de Mayo.",
+      "description": "Mexican Corn Dip Recipe - creamy, cheesy, and packed with bold flavor! Made with corn, Rotel, taco seasoning, lime juice, salsa, and cheddar cheese. Easy to make ahead and always a crowd favorite! Serve with tortilla chips, Fritos, or fresh veggies for partie…",
+      "url": "https://www.pinterest.com/pin/273171533645096171",
+      "source": "Pinterest.com",
+      "publishedAt": "2026-03-09T00:48:57Z"
+    },
+    {
+      "title": "NVIDIA CEO: OpenClaw is The Most Important Software Release Ever",
+      "description": "NVIDIA CEO Jensen Huang calls OpenClaw AI the most important software release ever, reaching Linux-level adoption in just three weeks.",
+      "url": "https://www.androidheadlines.com/2026/03/nvidia-ceo-openclaw-most-important-software-release-ever.html",
+      "source": "Android Headlines",
+      "publishedAt": "2026-03-09T00:35:05Z"
+    },
+    {
+      "title": "India targets chip design self-reliance, eyes Indian MNC talent",
+      "description": "Niti Aayog's Vijay Kumar Saraswat said that Indian designers contribute to virtually every chip produced globally. However, their work is primarily for multinational companies, and they are often limited to designing subsystems or specific components rather t…",
+      "url": "https://www.livemint.com/industry/manufacturing/india-semiconductor-mission-critical-minerals-self-reliance-private-nuclear-defence-11772952324772.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-09T00:30:37Z"
+    },
+    {
+      "title": "Slow Letter: March 09, 2026.",
+      "description": "“Unconditional Surrender” as a Bargaining Chip. UAE Under Iranian Attack, Israel Strikes Lebanon. The Unending War, Crude Output Disruptions, and Production Cuts. What If a Price Ceiling on Oil Is Imposed? Black Monday Fears Today. 6 Million Barrel Emergency …",
+      "url": "https://slownews.kr/155750",
+      "source": "Slownews.kr",
+      "publishedAt": "2026-03-09T00:24:46Z"
+    },
+    {
+      "title": "How Ticks Cause Disease Without You Knowing",
+      "description": "Ticks are small, wingless bugs that usually live in woody and grassy areas. They can attach to both humans and animals, feeding off blood. But unlike mosquitoes, which fly away after feeding, ticks burrow their barbed feeding organ into the skin and can remai…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/03/09/tick-saliva-immune-suppression-lyme-disease.aspx",
+      "source": "Mercola.com",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "An Automated and Portable Platform for Rapid Cell-Free DNA Isolation and Its Application in Microbial DNA metagenomic Sequencing from Human Blood Samples",
+      "description": "Lab Chip, 2026, Accepted ManuscriptDOI: 10.1039/D5LC00876J, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Linda Marriott, Ana Martinez Lopez, Antonio Liga, Kazuhiro Horiba, Amanda Warr…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/lc/d5lc00876j",
+      "source": "Royal Society of Chemistry",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "【3/31開催】製造業の生成AI活用術とAI専用SSDによる処理速度向上戦略ウェビナー！属人化解消からGPU性能最大化まで2社が徹底解説",
+      "description": "[株式会社アイスマイリー]\n[画像1: https://prcdn.freetls.fastly.net/release_image/53344/734/53344-734-29230dd9917080cc17e29391817443eb-1200x628.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000734.000053344.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Bandgap-engineered nitrogen plasma functionalized biochar-TiO2 composite for enhanced antibiotic photodegradation",
+      "description": "RSC Adv., 2026, 16,13147-13161DOI: 10.1039/D5RA09288D, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Rayhan Bin Masud, Samiha Raisa Alam, Hridoy Roy, Mohammad Jellur Rahman, Md. Shahin…",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra09288d",
+      "source": "Royal Society of Chemistry",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Are Biden-Era AI Ties Behind Pentagon Showdown In Trump’s War Department?",
+      "description": "Defense officials were pushing for unrestricted lawful use of Anthropic’s AI models. Anthropic agreed—with two caveats. The leading AI company did not want its technology deployed for autonomous weapons systems or for mass domestic surveillance. The Biden adm…",
+      "url": "https://www.dailywire.com/news/are-biden-era-ai-ties-behind-pentagon-showdown-in-trumps-war-department",
+      "source": "The Daily Wire",
+      "publishedAt": "2026-03-09T00:00:00Z"
+    },
+    {
+      "title": "Exclusive interview: India’s NKRF seeks global role in RF component supply chain",
+      "description": "After 15 years of dominating the Indian domestic defense and aerospace landscape, N.K. RF Products & Services (NKRF) is officially pivoting toward the global stage. Making its international exhibition debut at Space-Comm, the company is pitching its \"Made in …",
+      "url": "https://www.digitimes.com/news/a20260306VL200/certification-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-08T23:49:01Z"
+    },
+    {
+      "title": "Want AI Chips? The US Might Ask for Domestic Investment First",
+      "description": "The US denies new global AI chip bans, focusing instead on an export model where nations must invest in US infrastructure to access tech.",
+      "url": "https://www.androidheadlines.com/2026/03/us-denies-ai-chip-export-curbs-middle-east-model.html",
+      "source": "Android Headlines",
+      "publishedAt": "2026-03-08T23:33:40Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: Explorable World as Agent Skill",
+      "Samsung to Resurrect NVIDIA's GeForce RTX 3060 Using 8 nm Node",
+      "NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech",
+      "JVNDB-2026-006484:Advanced Micro Devices (AMD)のAMD Radeon PRO VII Firmware等の複数製品におけるTime-of-check Time-of-use (TOCTOU) 競合状態の脆弱性",
+      "JVNDB-2026-006483:Advanced Micro Devices (AMD)のAMD Radeon PRO VII Firmware等の複数製品におけるTime-of-check Time-of-use (TOCTOU) 競合状態の脆弱性"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-006484_AD_1.html",
+        "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-006483_AD_1.html",
+        "https://abduzeedo.com/node/89068"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260308PD201/ic-design-demand-production-samsung-manufacturing.html",
+        "https://www.digitimes.com/news/a20260309PD209/usa-ai-chip-exports-licensing-policy-nvidia.html",
+        "https://www.theregister.com/2026/03/09/asia_tech_news_roundup"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/347174/samsung-to-resurrect-nvidias-geforce-rtx-3060-using-8-nm-node",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180931986",
+        "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://localgpt.app/blog/world-as-skill",
+        "https://www.naturalnews.com/2026-03-09-russia-accused-providing-iran-us-military-intel.html",
+        "https://www.independent.ie/life/food-drink/food-reviews/the-supermarket-oven-chips-taste-test-these-are-a-good-cheap-option-if-you-prefer-not-to-buy-ultra-processed-products/a936828921.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 342.4
+        },
+        {
+          "date": "2026-01-20",
+          "close": 327.16
+        },
+        {
+          "date": "2026-01-21",
+          "close": 326.12
+        },
+        {
+          "date": "2026-01-22",
+          "close": 327.37
+        },
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Explorable World as Agent Skill. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 231.83
+        },
+        {
+          "date": "2026-01-20",
+          "close": 231.92
+        },
+        {
+          "date": "2026-01-21",
+          "close": 249.8
+        },
+        {
+          "date": "2026-01-22",
+          "close": 253.73
+        },
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Explorable World as Agent Skill. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 1358.57
+        },
+        {
+          "date": "2026-01-20",
+          "close": 1326.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 1360.09
+        },
+        {
+          "date": "2026-01-22",
+          "close": 1395
+        },
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Explorable World as Agent Skill. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 46.96
+        },
+        {
+          "date": "2026-01-20",
+          "close": 48.56
+        },
+        {
+          "date": "2026-01-21",
+          "close": 54.25
+        },
+        {
+          "date": "2026-01-22",
+          "close": 54.32
+        },
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Explorable World as Agent Skill. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-16",
+          "close": 159.42
+        },
+        {
+          "date": "2026-01-20",
+          "close": 154.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 156.37
+        },
+        {
+          "date": "2026-01-22",
+          "close": 157.8
+        },
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Explorable World as Agent Skill. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
