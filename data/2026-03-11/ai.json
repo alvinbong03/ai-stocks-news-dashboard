@@ -1,0 +1,1044 @@
+{
+  "theme": "ai",
+  "date": "2026-03-11",
+  "last_updated_utc": "2026-03-11T06:45:31.506Z",
+  "news": [
+    {
+      "title": "How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?",
+      "description": "QoS-driven scheduling optimizes LLM infrastructure by prioritizing requests, improving latency, and maximizing GPU utilization for scalable AI applications.",
+      "url": "https://www.c-sharpcorner.com/article/how-does-qos-driven-scheduling-improve-large-language-model-infrastructure",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-10T05:03:59Z"
+    },
+    {
+      "title": "OpenAI Acquires Promptfoo to Boost AI Agent Security",
+      "description": "OpenAI has agreed to acquire Promptfoo, a startup that builds security tools for large language models, as it pushes deeper into enterprise AI agents and…\nThe post OpenAI Acquires Promptfoo to Boost AI Agent Security appeared first on OnMSFT.",
+      "url": "https://onmsft.com/news/openai-acquires-promptfoo-to-boost-ai-agent-security",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-10T06:19:43Z"
+    },
+    {
+      "title": "‘Unprecedented and unlawful’: OpenAI and Google staff rush to support Anthropic's lawsuit against Pentagon AI blacklist",
+      "description": "Over 30 OpenAI and Google DeepMind employees have filed an amicus brief in support of Anthropic's lawsuit against the US Defense Department. They argue that the supply chain risk label could harm US AI competitiveness.&nbsp;",
+      "url": "https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-10T05:22:02Z"
+    },
+    {
+      "title": "Tech industry rallies as OpenAI and Google staff support Anthropic in DOD lawsuit",
+      "description": "Over 30 employees from OpenAI and Google DeepMind have publicly backed Anthropic in its legal battle against the Defense Department, which has classified the AI company as a supply-chain risk. This collective statement highlights concerns within the tech indu…",
+      "url": "https://nextbigwhat.com/tech-industry-rallies-as-openai-and-google-staff-support-anthropic-in-dod-lawsuit",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-03-10T04:37:35Z"
+    },
+    {
+      "title": "Groq reportedly urges Samsung to expand wafer production as AI chip demand surges",
+      "description": "Groq has reportedly requested Samsung Electronics' foundry division to increase wafer production for its inference AI chips, reflecting the booming market demand. Industry sources expect Samsung's foundry business to boost profitability by deepening collabora…",
+      "url": "https://www.digitimes.com/news/a20260310PD236/groq-samsung-ai-chip-wafer-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-10T06:30:54Z"
+    },
+    {
+      "title": "The Big Tech Show: Who is Sam Altman? Inside his life and his ChatGPT empire",
+      "description": "Who is Sam Altman and why does he matter so much to artificial intelligence? What do we really know about his views on risk, control and power in the AI race?",
+      "url": "https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-who-is-sam-altman-inside-his-life-and-his-chatgpt-empire/a514008529.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-10T06:16:46Z"
+    },
+    {
+      "title": "Anthropic adds ‘Code Review’ tool to inspect Claude Code pull requests",
+      "description": "Anthropic has launched a new AI code review tool inside Claude Code, aiming to help companies handle the growing flood of pull requests created by…\nThe post Anthropic adds ‘Code Review’ tool to inspect Claude Code pull requests appeared first on OnMSFT.",
+      "url": "https://onmsft.com/uncategorized/anthropic-adds-code-review-tool-to-inspect-claude-code-pull-requests",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-10T06:12:13Z"
+    },
+    {
+      "title": "Anthropic adds ‘Code Review’ tool to inspect Claude Code pull requests",
+      "description": "Anthropic has launched a new AI code review tool inside Claude Code, aiming to help companies handle the growing flood of pull requests created by…\nThe post Anthropic adds ‘Code Review’ tool to inspect Claude Code pull requests appeared first on OnMSFT.",
+      "url": "https://onmsft.com/news/anthropic-adds-code-review-tool-to-inspect-claude-code-pull-requests",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-10T06:12:13Z"
+    },
+    {
+      "title": "OpenAI and Google Employees File Brief Supporting Anthropic in DOD Case",
+      "description": "OpenAI and Google employees have stepped in to support Anthropic after the U.S. Department of Defense labeled the AI company a supply chain risk. More…\nThe post OpenAI and Google Employees File Brief Supporting Anthropic in DOD Case appeared first on OnMSFT.",
+      "url": "https://onmsft.com/news/openai-and-google-employees-file-brief-supporting-anthropic-in-dod-case",
+      "source": "OnMSFT",
+      "publishedAt": "2026-03-10T06:03:37Z"
+    },
+    {
+      "title": "Anthropic Sues to Block Pentagon Blacklisting Over AI Use Restrictions",
+      "description": "Anthropic on March 9 filed a lawsuit to block the Pentagon from placing it on a national security blacklist, escalating the artificial intelligence lab’s high-stakes battle with the U.S. military over usage restrictions on its technology. Anthropic said in it…",
+      "url": "https://www.insurancejournal.com/news/national/2026/03/10/861190.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-03-10T05:11:53Z"
+    },
+    {
+      "title": "How Can Developers Scale LLM Inference Systems Without Violating SLO Requirements?",
+      "description": "Scale LLM inference without breaking SLOs! Discover horizontal scaling, GPU optimization, request batching, intelligent scheduling, and monitoring techniques.",
+      "url": "https://www.c-sharpcorner.com/article/how-can-developers-scale-llm-inference-systems-without-violating-slo-requirement",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-10T05:04:04Z"
+    },
+    {
+      "title": "Workers at OpenAI show support for Anthropic as the company says it could lose $5 billion in its feud with the Pentagon",
+      "description": "Leaders in AI are rallying in support of Anthropic as new court filings show that the company could face a $5 billion loss from its Pentagon feud.",
+      "url": "https://www.businessinsider.com/anthropic-face-loss-in-dispute-with-pentagon-openai-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-10T04:43:21Z"
+    },
+    {
+      "title": "Anthropic unveils AI tool to streamline code review process",
+      "description": "Anthropic has introduced Code Review, a new feature within its Claude Code system designed to automatically analyze and review AI-generated code. The tool identifies logic errors and assists enterprise developers in handling the increasing influx of code prod…",
+      "url": "https://nextbigwhat.com/anthropic-unveils-ai-tool-to-streamline-code-review-process",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-03-10T04:37:57Z"
+    },
+    {
+      "title": "MicrosoftがAIでPC上の業務を自動化するMicrosoft 365の新機能「Copilot Cowork」を発表、Anthropicの「Claude Cowork」技術を統合",
+      "description": "MicrosoftがサブスクリプションサービスMicrosoft 365の新機能として、AIでさまざまな業務を自動化できる「Copilot Cowork」を現地時間の2026年3月9日に発表しました。Copilot Cowork: A new way of getting work done | Microsoft 365 Bloghttps://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-ge…",
+      "url": "https://news.livedoor.com/article/detail/30734460",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-10T04:15:00Z"
+    },
+    {
+      "title": "Paralympics-Ukraine biathlete credits ChatGPT for silver win",
+      "description": "Maksym Murashkovskyi said ChatGPT helped shape his training after he won silver in biathlon at the Milano Cortina Winter Paralympics. The Ukrainian athlete used AI for tactics, motivation and planning, calling it revolutionary, while Dang Hesong of China secu…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paralympics-ukraine-biathlete-credits-chatgpt-for-silver-win/articleshow/129371253.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-10T03:36:18Z"
+    },
+    {
+      "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
+      "description": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.",
+      "url": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-10T05:52:16Z"
+    },
+    {
+      "title": "AI tokens rally after Nvidia open-source agent plan, beat CoinDesk 20",
+      "description": "The AI-linked cryptocurrencies moved higher after a report from Wired said Nvidia is planning an open-source platform for autonomous AI agents.",
+      "url": "https://www.coindesk.com/markets/2026/03/10/ai-tokens-rally-after-nvidia-open-source-agent-plan-beating-coindesk-20",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-10T05:29:44Z"
+    },
+    {
+      "title": "Claude AI Finds Bugs In Microsoft CTO's 40-Year-Old Apple II Code",
+      "description": "AI can reverse engineer machine code and find vulnerabilities in ancient legacy architectures, says Microsoft Azure CTO Mark Russinovich, who used his own Apple II code from 40 years ago as an example. Russinovich wrote: \"We are entering an era of automated, …",
+      "url": "https://slashdot.org/submission/17345454/claude-ai-finds-bugs-in-microsoft-ctos-40-year-old-apple-ii-code",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-10T05:21:02Z"
+    },
+    {
+      "title": "Claude Code, Claude Cowork and Codex #5",
+      "description": "It feels good to get back to some of the fun stuff. The comments here can double as a place for GPT-5.4 reactions, in addition to my Twitter thread. I hope to get that review out soon. Almost all o…",
+      "url": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5",
+      "source": "Wordpress.com",
+      "publishedAt": "2026-03-10T05:12:54Z"
+    },
+    {
+      "title": "OpenAIがAIセキュリティスタートアップの「Promptfoo」を買収",
+      "description": "OpenAIが2024年創業で、フォーチュン500企業の25％以上が使っているというAIセキュリティスタートアップ「Promptfoo」の買収を発表しました。買収条件は発表されていません。OpenAI to acquire Promptfoo | OpenAIhttps://openai.com/index/openai-to-acquire-promptfoo/Promptfoo is joining OpenAI | Promptfoohttps://www.promptfoo.dev/blog/prompt…",
+      "url": "https://news.livedoor.com/article/detail/30734877",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-10T05:10:00Z"
+    },
+    {
+      "title": "OpenAI bolsters AI security with Promptfoo acquisition",
+      "description": "OpenAI has acquired Promptfoo to enhance the safety and reliability of its AI agents in business applications. This strategic move highlights the urgency among leading AI labs to demonstrate that their technologies can be deployed securely in critical operati…",
+      "url": "https://nextbigwhat.com/openai-bolsters-ai-security-with-promptfoo-acquisition",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-03-10T04:38:22Z"
+    },
+    {
+      "title": "Nvidia set to debut open-source AI agent platform at developer conference",
+      "description": "Nvidia is gearing up to unveil a new open-source AI agent platform, drawing parallels to the existing OpenClaw framework. This initiative signals a significant shift in Nvidia's software strategy, aiming to foster collaboration and innovation within the AI co…",
+      "url": "https://nextbigwhat.com/nvidia-set-to-debut-open-source-ai-agent-platform-at-developer-conference",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-03-10T04:37:19Z"
+    },
+    {
+      "title": "OpenAI to acquire Promptfoo to strengthen security testing for enterprise AI agents",
+      "description": "OpenAI said it plans to acquire AI security startup Promptfoo to strengthen safety and evaluation capabilities for enterprise AI agents. The deal aims to integrate automated security testing into OpenAI's Frontier platform, helping businesses identify vulnera…",
+      "url": "https://www.digitimes.com/news/a20260310VL202/openai-startup-acquisition-ai-agent-security.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-10T04:36:46Z"
+    },
+    {
+      "title": "Anthropic vs Anthropic: AI giant appears before Karnataka court in brand dispute case filed by Belagavi startup",
+      "description": "An Indian IT startup, Anthropic Softwares Private Limited, is in a brand name dispute with US AI firm Anthropic PBC and its Indian subsidiary, Anthropic India Private Limited. The Belagavi court heard arguments from Anthropic India, which claimed to be a sepa…",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/anthropic-vs-anthropic-ai-giant-appears-before-karnataka-court-in-brand-dispute-case-filed-by-belagavi-startup/articleshow/129373165.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-10T04:30:06Z"
+    },
+    {
+      "title": "The Amazon Ads Spigot; Has Claude Earned Its Newfound Consumer Trust?",
+      "description": "Amazon’s Fire TV redesign is extra friendly for ads; Anthropic benefits from its newfound spine; and the children yearn for the malls. \nThe post The Amazon Ads Spigot; Has Claude Earned Its Newfound Consumer Trust? appeared first on AdExchanger.",
+      "url": "http://www.adexchanger.com/daily-news-roundup/tuesday-10032026",
+      "source": "AdExchanger",
+      "publishedAt": "2026-03-10T04:03:06Z"
+    },
+    {
+      "title": "OpenAI to buy AI security startup Promptfoo to safeguard AI agents",
+      "description": "OpenAI plans to acquire Promptfoo, a startup that helps businesses detect and fix security issues in AI models during development. Its technology will be added to OpenAI Frontier, a platform for managing AI agents. The deal supports safer enterprise deploymen…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-buy-ai-security-startup-promptfoo-to-safeguard-ai-agents/articleshow/129371671.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-10T03:48:45Z"
+    },
+    {
+      "title": "Paralympics-Ukraine biathlete credits ChatGPT for silver win",
+      "description": "Ukraine's Maksym Murashkovskyi credited artificial intelligence for helping him ‌win a silver medal at the ‌Milano Cortina Winter Paralympics, calling ChatGPT ...",
+      "url": "https://sports.yahoo.com/articles/paralympics-ukraine-biathlete-credits-chatgpt-033706420.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-10T03:37:06Z"
+    },
+    {
+      "title": "Nvidia to restart RTX 3060 with Samsung amid China curbs, Korean report says",
+      "description": "Nvidia is preparing to resume production of its GeForce RTX 3060 graphics processing unit (GPU) through Samsung Electronics' foundry business, according to reports from the Korea Economic Daily and Wccftech.",
+      "url": "https://www.digitimes.com/news/a20260310PD217/nvidia-geforce-gpu-production-samsung.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-10T03:25:21Z"
+    },
+    {
+      "title": "Google and OpenAI Just Filed a Legal Brief in Support of Anthropic",
+      "description": "Enemies can be friends when their interests align.",
+      "url": "https://gizmodo.com/google-and-openai-just-filed-a-legal-brief-in-support-of-anthropic-2000731754",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-03-10T03:19:49Z"
+    },
+    {
+      "title": "AI firm Anthropic sues Trump admin over ‘supply chain risk’ label",
+      "description": "Anthropic has sued the Trump administration over the Pentagon labeling the AI firm a supply chain risk, a designation typically reserved for companies tied to foreign adversaries.",
+      "url": "https://cointelegraph.com/news/ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-10T02:56:04Z"
+    },
+    {
+      "title": "Anthropic sues US over Pentagon supply-chain risk label",
+      "description": "Anthropic PBC has filed a lawsuit against the US government after the Pentagon designated the AI startup a national security supply-chain risk, escalating a dispute over the company's refusal to lift restrictions on the military use of its technology. In a co…",
+      "url": "https://www.digitimes.com/news/a20260310VL204/anthropic-claude-military-usa-government-lawsuit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-10T02:42:59Z"
+    },
+    {
+      "title": "NVIDIAがオープンソースAIエージェントプラットフォーム「NemoClaw」の提供を予定しているとの報道、OpenClaw風のツールか",
+      "description": "NVIDIAから、AIがユーザーのデバイス上で自律的にタスクを実行するためのプラットフォーム「NemoClaw」がリリースされる予定だと報じられました。Nvidia plans to launch the open-source AI agent platform NemoClaw | Bitget Newshttps://www.bitget.com/news/detail/12560605251045NVIDIA enters the arena! To launch an “OpenClaw-like” A…",
+      "url": "https://news.livedoor.com/article/detail/30733443",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-10T02:42:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?",
+      "OpenAI Acquires Promptfoo to Boost AI Agent Security",
+      "‘Unprecedented and unlawful’: OpenAI and Google staff rush to support Anthropic's lawsuit against Pentagon AI blacklist",
+      "Tech industry rallies as OpenAI and Google staff support Anthropic in DOD lawsuit",
+      "Groq reportedly urges Samsung to expand wafer production as AI chip demand surges"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html",
+        "https://nextbigwhat.com/tech-industry-rallies-as-openai-and-google-staff-support-anthropic-in-dod-lawsuit",
+        "https://onmsft.com/uncategorized/anthropic-adds-code-review-tool-to-inspect-claude-code-pull-requests"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://onmsft.com/news/openai-acquires-promptfoo-to-boost-ai-agent-security",
+        "https://news.livedoor.com/article/detail/30734877",
+        "https://nextbigwhat.com/openai-bolsters-ai-security-with-promptfoo-acquisition"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/submission/17345454/claude-ai-finds-bugs-in-microsoft-ctos-40-year-old-apple-ii-code",
+        "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/how-does-qos-driven-scheduling-improve-large-language-model-infrastructure",
+        "https://www.digitimes.com/news/a20260310PD236/groq-samsung-ai-chip-wafer-production.html",
+        "https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-who-is-sam-altman-inside-his-life-and-his-chatgpt-empire/a514008529.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-20",
+          "close": 178.07
+        },
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-20",
+          "close": 454.52
+        },
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-20",
+          "close": 322
+        },
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-20",
+          "close": 231
+        },
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-20",
+          "close": 604.12
+        },
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Does QoS-Driven Scheduling Improve Large Language Model Infrastructure?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
