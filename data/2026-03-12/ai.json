@@ -1,0 +1,1008 @@
+{
+  "theme": "ai",
+  "date": "2026-03-12",
+  "last_updated_utc": "2026-03-12T06:48:18.947Z",
+  "news": [
+    {
+      "title": "Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline",
+      "description": "Introduction Oracle Corp. and OpenAI have abandoned plans to expand a flagship artificial intelligence data center in Abilene, Texas, according to a Bloomberg News report published on March 6, 2026. Sources familiar with the matter said negotiations to scale …",
+      "url": "https://www.naturalnews.com/2026-03-11-oracle-openai-scrap-texas-data-center-expansion-plan.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-11T06:00:00Z"
+    },
+    {
+      "title": "llmock — Deterministic mock LLM server for testing",
+      "description": "{ \"fixtures\": [ { \"match\": { \"userMessage\": \"capital of France\" }, \"response\": { \"content\": \"The capital of France is Paris.\" } } ] } Why llmock Stop paying for flaky tests Tests that hit real LLM APIs — OpenAI, Gemini, Anthropic — cost money, time out, and p…",
+      "url": "https://llmock.copilotkit.dev/",
+      "source": "Copilotkit.dev",
+      "publishedAt": "2026-03-11T03:32:34Z"
+    },
+    {
+      "title": "ChatGPT, other AI chatbots approved for official use in US Senate: NYT",
+      "description": "A memo says ChatGPT, Google’s Gemini chat and Microsoft Copilot are approved for official use by aides in the US Senate. The tools are already integrated into Senate platforms. Microsoft said it was reviewing the approval, while Google and OpenAI gave no comm…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-other-ai-chatbots-approved-for-official-use-in-us-senate-nyt/articleshow/129433169.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-11T02:46:51Z"
+    },
+    {
+      "title": "Paralympian Says He Used ChatGPT for Training, Calls It ‘Revolutionary’",
+      "description": "Ukrainian Paralympian Maksym Murashkovskyi has credited ChatGPT for helping him succeed at the 2026 Winter Paralympics. The star athlete got candid about using the AI chatbot as part of his training routine, describing the technology as “revolutionary.” Maksy…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14efe3fe-eac0-49da-82f2-842360a5445c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-11T06:22:35Z"
+    },
+    {
+      "title": "Anthropic launched an AI code reviewer. Some developers say it's expensive and undermines senior engineers.",
+      "description": "Anthropic said Claude's Code Review \"is more expensive than lighter-weight solutions\" as it \"optimizes for depth.\"",
+      "url": "https://www.businessinsider.com/anthropic-claude-code-review-token-costs-developers-backlash-engineers-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-11T06:09:29Z"
+    },
+    {
+      "title": "GitHub - pbakaus/impeccable: Claude + Cursor plugins that make your LLM of choice great at UX / frontend design.",
+      "description": "The design language that makes your AI harness better at design. - pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "Github.com",
+      "publishedAt": "2026-03-11T05:47:02Z"
+    },
+    {
+      "title": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports",
+      "description": "Sora, which expanded OpenAI's ‌foray into multimodal AI\ntechnologies, competes with ‌text-to-video tools from ‌Meta\nand ⁠Alphabet's Google",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-launch-its-sora-video-tool-in-chatgpt-the-information-reports/article70729608.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-11T05:00:07Z"
+    },
+    {
+      "title": "Sources: OpenAI plans to launch Sora AI in ChatGPT soon to help boost weekly active users, now at 920M, short of the 1B goal the company targeted last year (The Information)",
+      "description": "The Information:\nSources: OpenAI plans to launch Sora AI in ChatGPT soon to help boost weekly active users, now at 920M, short of the 1B goal the company targeted last year  —  OpenAI plans to soon launch its Sora AI-generated video capabilities in ChatGPT, a…",
+      "url": "https://www.techmeme.com/260311/p1",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-03-11T04:45:13Z"
+    },
+    {
+      "title": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
+      "description": "A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market.",
+      "url": "https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-11T00:48:14Z"
+    },
+    {
+      "title": "Gemini in Chrome gets first international expansion - 9to5Google",
+      "description": "Gemini in Chrome gets first international expansion9to5Google Expanding Chrome’s AI experiences to India, New Zealand and Canadablog.google Google brings Gemini in Chrome to IndiaTechCrunch Google is bringing Gemini in Chrome to more countries.The Verge Googl…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180950376",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-11T06:12:22Z"
+    },
+    {
+      "title": "Google brings Gemini-powered AI features to Chrome users in India with support for 50-plus languages",
+      "description": "Google launches Gemini-powered AI features in Chrome for India users, enabling AI browsing, multitasking tools and support for over 50 languages including several Indic languages",
+      "url": "https://www.thehindubusinessline.com/info-tech/google-brings-gemini-powered-ai-features-to-chrome-users-in-india-with-support-for-50-plus-languages/article70729778.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-11T06:00:36Z"
+    },
+    {
+      "title": "Powering AI: Europe switches on its first microgrid-connected data center",
+      "description": "AVK and Pure Data Centers’ microgrid facility in Ireland could mark the region’s first step toward a privately powered ecosystem.",
+      "url": "https://www.cnbc.com/2026/03/11/data-center-microgrid-power-ireland-ai-boom-avk-pure-dc.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-11T06:00:01Z"
+    },
+    {
+      "title": "Show HN: Self-hosted DCF workspace using Damodaran datasets, LLM narratives",
+      "description": "I wanted a valuation tool I could actually audit. Every \"AI stock \nanalysis\" product I tried either hid the math or hallucinated the \ninputs. So I built my own.You type a ticker. You get:\n- Intrinsic value via DCF using Damodaran's industry datasets \n (betas,…",
+      "url": "https://news.ycombinator.com/item?id=47332015",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-11T05:32:24Z"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome to India, New Zealand, and Canada, and adds support for over 50 additional languages, including Hindi, French, and Spanish (Charmaine D'Silva/The Keyword)",
+      "description": "Charmaine D'Silva / The Keyword:\nGoogle rolls out Gemini in Chrome to India, New Zealand, and Canada, and adds support for over 50 additional languages, including Hindi, French, and Spanish  —  We're bringing Chrome's powerful AI features to more regions and …",
+      "url": "https://www.techmeme.com/260311/p2",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-03-11T04:55:01Z"
+    },
+    {
+      "title": "NVIDIA launches DLSS 4.5",
+      "description": "Updated: 6X Dynamic Multi Frame Generation due in beta this month in the AI tech used to boost frame rates in games and CG software.",
+      "url": "https://www.cgchannel.com/2026/03/nvidia-launches-dlss-4-5",
+      "source": "Cgchannel.com",
+      "publishedAt": "2026-03-11T04:30:07Z"
+    },
+    {
+      "title": "I work at Meta's Superintelligence Labs and used to be at OpenAI. Here's what the job is like — and what I've learned.",
+      "description": "A Meta Superintelligence Labs researcher who previously worked at OpenAI shares what life inside top AI labs is like and the lessons he's learned.",
+      "url": "https://www.businessinsider.com/openai-meta-superintelligence-lab-work-culture-lessons-applied-researcher-prakhar-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-11T04:00:01Z"
+    },
+    {
+      "title": "選べる自由でMetaに対抗！Rokid GlassesがGemini・ChatGPT対応",
+      "description": "A visitor tries out Rokid Glasses at the companys booth during CES 2026 in Las Vegas, Nevada. メガネ1つでAI4つを使い分け？中国のARグラスメーカーRokidが、スマートグラス「Ro...smhn.infoにアクセスすると、全文を読むことができます。",
+      "url": "https://smhn.info/202603-rokid-glasses-gemini-update",
+      "source": "Smhn.info",
+      "publishedAt": "2026-03-11T03:35:43Z"
+    },
+    {
+      "title": "Chrome’s Gemini AI assistant finally breaks out of the US",
+      "description": "Google is rolling out Gemini in Chrome to India, Canada, and New Zealand, with support for over 50 languages.",
+      "url": "https://www.androidcentral.com/apps-software/chromes-gemini-ai-assistant-finally-breaks-out-of-the-us",
+      "source": "Android Central",
+      "publishedAt": "2026-03-11T03:30:00Z"
+    },
+    {
+      "title": "Google launches ‘Gemini in Chrome’ in India: How it works and things to know",
+      "description": "Google is rolling out Gemini in Chrome to India, offering AI-powered browsing assistance across over 50 languages. This feature allows users to get information, summarize content, and perform tasks like product searches without leaving their current tab. Inte…",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-launches-gemini-in-chrome-in-india-how-it-works-and-things-to-know/articleshow/129419410.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-11T02:53:55Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5050 9 GB Specs Leak: GB206 GPU, 2560 Cores, GDDR7 & 130W TGP - Wccftech",
+      "description": "NVIDIA GeForce RTX 5050 9 GB Specs Leak: GB206 GPU, 2560 Cores, GDDR7 & 130W TGPWccftech NVIDIA GeForce RTX 5050 9 GB Variant Comes with 130 W TDPTechPowerUp Leak Tips Nvidia GeForce RTX 5050 Refresh With 9GB of VRAMPCMag GB206 chip issues: RTX 5060 version w…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180949804",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-11T02:52:52Z"
+    },
+    {
+      "title": "AVerMedia、『NVIDIA GTC 2026』において「NVIDIA Jetson Thor」搭載の3D認識ソリューションと次世代エッジAI技術を展示",
+      "description": "[アバーメディア]\n[画像: https://prcdn.freetls.fastly.net/release_image/16617/37/16617-37-e030c96aaaf914ec8534993e7c2c4af3-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000037.000016617.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-11T02:40:25Z"
+    },
+    {
+      "title": "GoogleがAI「Gemini」をGoogleドキュメント・スプレッドシート・スライド・ドライブに全面展開、「作成を手伝って」で文書の草案生成が可能に",
+      "description": "GeminiがGoogleドキュメントなどのGoogle Workspaceでの作業をサポートする共同作業パートナーとして統合されることが2026年3月10日に発表されました。Geminiを用いることで文書の草案を作成したり、データの統合と分析をしたりといったことが可能です。Google shares Gemini updates to Docs, Sheets, Slides and Drivehttps://blog.google/products-and-platforms/products/workspa…",
+      "url": "https://news.livedoor.com/article/detail/30741705",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-11T02:40:00Z"
+    },
+    {
+      "title": "Anthropic lawyer says the government is 'pressuring' companies to ditch the AI startup in favor of competitors",
+      "description": "A lawyer for Anthropic said the government is \"pressuring\" Anthropic customers to drop the provider amid its legal fight with the AI startup.",
+      "url": "https://www.businessinsider.com/anthropic-dod-dow-pressuring-companies-blacklist-supply-chain-risk-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-11T02:15:50Z"
+    },
+    {
+      "title": "OpenClaw downloads eclipse Linux's 30-year reach in three weeks, Nvidia CEO flags AI agent surge",
+      "description": "The open-source AI agent platform OpenClaw is rapidly emerging as a key milestone in AI, with Nvidia CEO Jensen Huang calling it one of the most important software breakthroughs of the current era.",
+      "url": "https://www.digitimes.com/news/a20260310VL209/openclaw-ai-agent-nvidia-software-data.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-11T01:51:03Z"
+    },
+    {
+      "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "description": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
+      "url": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic",
+      "source": "Wired",
+      "publishedAt": "2026-03-11T01:41:42Z"
+    },
+    {
+      "title": "Show HN: Assemble – Claude Code skill for parallel AI team execution",
+      "description": "A Claude Code skill that assembles cross-functional AI teams around a problem statement and executes work in dependency-based waves - LakshmiSravyaVedantham/assemble",
+      "url": "https://github.com/LakshmiSravyaVedantham/assemble",
+      "source": "Github.com",
+      "publishedAt": "2026-03-11T01:21:21Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline",
+      "llmock — Deterministic mock LLM server for testing",
+      "ChatGPT, other AI chatbots approved for official use in US Senate: NYT",
+      "Paralympian Says He Used ChatGPT for Training, Calls It ‘Revolutionary’",
+      "Anthropic launched an AI code reviewer. Some developers say it's expensive and undermines senior engineers."
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://llmock.copilotkit.dev/",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-other-ai-chatbots-approved-for-official-use-in-us-senate-nyt/articleshow/129433169.cms",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180950376"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/openai-plans-to-launch-its-sora-video-tool-in-chatgpt-the-information-reports/article70729608.ece"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-03-11-oracle-openai-scrap-texas-data-center-expansion-plan.html",
+        "https://www.techmeme.com/260311/p1",
+        "https://www.businessinsider.com/openai-meta-superintelligence-lab-work-culture-lessons-applied-researcher-prakhar-2026-3"
+      ]
+    },
+    {
+      "title": "Out",
+      "summary": "Grouped stories where \"out\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14efe3fe-eac0-49da-82f2-842360a5445c",
+        "https://www.businessinsider.com/anthropic-claude-code-review-token-costs-developers-backlash-engineers-2026-3",
+        "https://github.com/pbakaus/impeccable"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-21",
+          "close": 183.32
+        },
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline. Main topic cluster: Gemini. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-21",
+          "close": 444.11
+        },
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline. Main topic cluster: Gemini. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-21",
+          "close": 328.38
+        },
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline. Main topic cluster: Gemini. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-21",
+          "close": 231.31
+        },
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline. Main topic cluster: Gemini. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-21",
+          "close": 612.96
+        },
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Oracle, OpenAI Scrap Texas Data Center Expansion Plan, AI Stocks Decline. Main topic cluster: Gemini. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
