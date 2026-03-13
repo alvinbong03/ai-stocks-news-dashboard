@@ -1,0 +1,859 @@
+{
+  "theme": "ai",
+  "date": "2026-03-13",
+  "last_updated_utc": "2026-03-13T06:45:51.773Z",
+  "news": [
+    {
+      "title": "How the Anthropic-Pentagon dispute over AI safeguards escalated",
+      "description": "A dispute erupted after Anthropic refused to loosen AI safety safeguards for the Pentagon. The U.S. Defense Department labelled the Claude maker a “supply-chain risk”, threatening government contracts. Anthropic plans a court challenge, warning the move could…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-the-anthropic-pentagon-dispute-over-ai-safeguards-escalated/articleshow/129490706.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-12T03:54:17Z"
+    },
+    {
+      "title": "Razorpay taps Anthropic's Claude to build AI agents for payments",
+      "description": "Razorpay is building AI-powered payment agents using Anthropic’s Claude chatbot to handle tasks like recovering abandoned carts, retrying failed subscriptions, resolving disputes, and forecasting cash flow. The fintech also launched an AI-native platform for …",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/razorpay-taps-anthropics-claude-to-build-ai-agents-for-payments/articleshow/129493693.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-12T06:00:00Z"
+    },
+    {
+      "title": "Pentagon labels Anthropic a “supply-chain risk” after dispute over military use of AI",
+      "description": "The U.S. Department of War (DoW) designated AI startup Anthropic a “supply-chain risk” after the company attempted to limit how the Pentagon could use its Claude AI system. The dispute centers on the military’s demand to use AI for “any lawful purpose,” inclu…",
+      "url": "https://www.naturalnews.com/2026-03-12-pentagon-labels-anthropic-a-supply-chain-risk.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-12T06:00:00Z"
+    },
+    {
+      "title": "Anthropic in talks with Blackstone, other PE firms to set up AI joint venture: Report",
+      "description": "Anthropic, maker of Claude AI, is in talks with Blackstone and Hellman &amp; Friedman to form a Palantir‑style joint venture, despite tensions with the US Defense Department, which labelled the firm a supply chain risk.",
+      "url": "https://www.livemint.com/companies/news/anthropic-in-talks-with-blackstone-other-pe-firms-to-set-up-ai-joint-venture-report-11773287347357.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-12T05:04:52Z"
+    },
+    {
+      "title": "Comments - ChatGPT Health and what AI can do for a broken system",
+      "description": "In some ways, these tools nudge us to be our own health data custodians - like a personal health record, with actionable insights.",
+      "url": "https://fidjisimo.substack.com/p/chatgpt-health/comment/200497539",
+      "source": "Substack.com",
+      "publishedAt": "2026-03-12T06:06:51Z"
+    },
+    {
+      "title": "Gemini 3 Turns \"Whistleblower\" on Google's Antigravity Limits",
+      "description": "After Google quietly scrubbed the \"5-hour refresh\" quota guarantee from its AI Pro tier for the Antigravity dev platform, Google's own Gemini 3 Pro model has begun advising affected users that the change may constitute a material breach of contract. In a seri…",
+      "url": "https://slashdot.org/submission/17345520/gemini-3-turns-whistleblower-on-googles-antigravity-limits",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-12T05:56:53Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su reportedly plans South Korea trip for Samsung, Naver talks during Nvidia GTC",
+      "description": "Reports indicate AMD CEO Lisa Su will visit South Korea in the coming days to discuss cooperation with Samsung Electronics and Naver. Some observers view the trip as an effort to challenge Nvidia's dominance in the AI market by strengthening AMD's partnership…",
+      "url": "https://www.digitimes.com/news/a20260312PD220/amd-lisa-su-naver-samsung.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-12T04:49:48Z"
+    },
+    {
+      "title": "Anthropic launches 'Anthropic Institute', expands public policy team",
+      "description": "Anthropic launched the Anthropic Institute to study AI’s societal impact, led by cofounder Jack Clark. The institute will research economic, social, security and governance challenges, including job displacement and cybersecurity risks. It aims to share insig…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-anthropic-institute-expands-public-policy-team/articleshow/129492041.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-12T04:48:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How the Anthropic-Pentagon dispute over AI safeguards escalated",
+      "Razorpay taps Anthropic's Claude to build AI agents for payments",
+      "Pentagon labels Anthropic a “supply-chain risk” after dispute over military use of AI",
+      "Anthropic in talks with Blackstone, other PE firms to set up AI joint venture: Report",
+      "Comments - ChatGPT Health and what AI can do for a broken system"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-the-anthropic-pentagon-dispute-over-ai-safeguards-escalated/articleshow/129490706.cms",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/razorpay-taps-anthropics-claude-to-build-ai-agents-for-payments/articleshow/129493693.cms",
+        "https://www.naturalnews.com/2026-03-12-pentagon-labels-anthropic-a-supply-chain-risk.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fidjisimo.substack.com/p/chatgpt-health/comment/200497539",
+        "https://slashdot.org/submission/17345520/gemini-3-turns-whistleblower-on-googles-antigravity-limits",
+        "https://www.digitimes.com/news/a20260312PD220/amd-lisa-su-naver-samsung.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-22",
+          "close": 184.84
+        },
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How the Anthropic-Pentagon dispute over AI safeguards escalated. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-22",
+          "close": 451.14
+        },
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How the Anthropic-Pentagon dispute over AI safeguards escalated. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-22",
+          "close": 330.54
+        },
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How the Anthropic-Pentagon dispute over AI safeguards escalated. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-22",
+          "close": 234.34
+        },
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How the Anthropic-Pentagon dispute over AI safeguards escalated. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-22",
+          "close": 647.63
+        },
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How the Anthropic-Pentagon dispute over AI safeguards escalated. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
