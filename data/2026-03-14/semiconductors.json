@@ -1,0 +1,1066 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-14",
+  "last_updated_utc": "2026-03-14T06:40:52.418Z",
+  "news": [
+    {
+      "title": "ByteDance's overseas chip play puts Washington in a bind",
+      "description": "ByteDance, the Chinese technology company best known as the owner of TikTok, is seeking to secure large amounts of advanced artificial intelligence computing power outside China, underscoring the growing geopolitical tensions surrounding the global AI chip su…",
+      "url": "https://www.digitimes.com/news/a20260313VL218/bytedance-ai-chip-technology-chips-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T06:36:48Z"
+    },
+    {
+      "title": "Maharashtra sets up district panels to ensure LPG supply amid Iran–Israel tensions",
+      "description": "The Food, Civil Supplies and Consumer Protection Department said there is currently no shortage of domestic cooking gas but authorities have been asked to closely monitor the supply chain.",
+      "url": "https://www.thehindubusinessline.com/news/national/maharashtra-sets-up-district-panels-to-ensure-lpg-supply-amid-iranisrael-tensions/article70738282.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-13T06:33:34Z"
+    },
+    {
+      "title": "GMKtec Launches EVO-T2 Mini PC: Powered By Intel Panther Lake, 64 GB Memory, Phison SSDs, Priced at $1450",
+      "description": "GMKtec has officially launched its EVO-T2 Mini PCs powered by Intel Panther Lake CPUs, bringing lots of AI performance in a compact design. GMKTec's EVO-T2 Mini PC Is A Powerful Intel Panther Lake-Powered Mini PC With Lots of Memory & Phison's aiDAPTIV+ SSD G…",
+      "url": "https://wccftech.com/gmktec-evo-t2-mini-pc-intel-panther-lake-64-gb-memory-phison-ssds-1450-usd-price",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-13T06:30:06Z"
+    },
+    {
+      "title": "AI Burning Man happens next week – here's what The Register expects at GTC 2026",
+      "description": "From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of to…",
+      "url": "https://www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-13T06:30:06Z"
+    },
+    {
+      "title": "India promises not to let Sri Lanka's oil run out due to the war.",
+      "description": "The Ministry of Foreign Affairs states that a positive response has been received from India regarding Sri Lanka's request for a continuous supply of fuel amidst the crisis in the Middle East region. Sri Lanka made this request against the backdrop of disrupt…",
+      "url": "https://english.gossiplankanews.com/2026/03/india-promises-not-to-let-sri-lankas.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-03-13T06:20:16Z"
+    },
+    {
+      "title": "AI server tracker: February revenue highlights across testing, design services, and rail kits",
+      "description": "The global AI server supply chain continues to demonstrate steady growth, according to February 2026 revenue reports from key companies in the testing, design services, and mechanical infrastructure sectors. While seasonal factors such as the Lunar New Year h…",
+      "url": "https://www.digitimes.com/news/a20260313VL209/ai-server-supply-chain-revenue-testing-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T06:16:34Z"
+    },
+    {
+      "title": "Show HN: SiMM – Distributed KV Cache for the Long-Context and Agent Era",
+      "description": "We built SiMM because LLM context lengths are growing much faster than GPU memory.With long Chain-of-Thought reasoning and multi-turn agents, prompts are getting much longer. According to OpenRouter’s State of AI 2025, average context length has grown about 4…",
+      "url": "https://github.com/scitix/SiMM",
+      "source": "Github.com",
+      "publishedAt": "2026-03-13T06:09:45Z"
+    },
+    {
+      "title": "Lenovo ThinkPad X9 14 Aura: 14\" 2.8K OLED 120Hz Touch, Intel Ultra 7 268V vPro, 32GB LPDDR5, 1TB SSD, Win 11 Pro $1329 $1329.05",
+      "description": "https://www.lenovo.com/us/vipmemb...21qa0036us \n \nLowest Price \nWith Coupon EXTRASALE \n \nPerformance \nProcessor \nIntel® Core™ Ultra 7 268V vPro® Processor (LPE-cores up to 3.70 GHz P-cores up to 5.00...",
+      "url": "https://slickdeals.net/f/19301070-lenovo-thinkpad-x9-14-aura-14-2-8k-oled-120hz-touch-intel-ultra-7-268v-vpro-32gb-lpddr5-1tb-ssd-win-11-pro-1329-1329-05",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-13T05:27:18Z"
+    },
+    {
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it | TechCrunch",
+      "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-13T05:03:16Z"
+    },
+    {
+      "title": "Barclays Sounds the Alarm on Renewable Energy",
+      "description": "Yet, as the Barclays analysts point out, the real risks now lurk in the renewable sector. “Stranded-asset risk is becoming system wide,” the paper warns. “Historically, stranding meant coal plants. Today, renewables facing multi-year interconnection queues, c…",
+      "url": "https://wattsupwiththat.com/2026/03/12/barclays-sounds-the-alarm-on-renewable-energy",
+      "source": "Wattsupwiththat.com",
+      "publishedAt": "2026-03-13T05:00:00Z"
+    },
+    {
+      "title": "MicroIP eyes European expansion, spotlights unmanned vehicles at Embedded World 2026",
+      "description": "ASIC vendor MicroIP showcased its AIVO visual algorithm technology, CATS chip solutions, and numerous EDA tools from affiliate Arculus at Embedded World 2026. The company highlighted a drone controller enhanced by AIVO to improve flight control efficiency, no…",
+      "url": "https://www.digitimes.com/news/a20260313PD221/microip-asic-europe-taiwan-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T04:46:10Z"
+    },
+    {
+      "title": "(VIDEO) Apple's Foldable iPhone Edges Closer to Reality: 2026 Launch Rumors Intensify with Crease-Free Display",
+      "description": "Apple's long-rumored foldable iPhone, often dubbed the iPhone Fold, appears on track for a late 2026 debut, with fresh supply-chain reports and analyst predictions pointing to mass production ramp-up this summer and a September unveiling alongside premium iPh…",
+      "url": "https://www.ibtimes.com.au/video-apples-foldable-iphone-edges-closer-reality-2026-launch-rumors-intensify-crease-free-1863216",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-13T04:41:52Z"
+    },
+    {
+      "title": "Meta delays rollout of new AI model code-named 'Avocado'",
+      "description": "The delayed timeline comes even ‌as the company invests\nheavily to expand its AI ambitions, including ‌a roadmap for\nbuilding its own chips",
+      "url": "https://www.thehindubusinessline.com/info-tech/meta-delays-rollout-of-new-ai-model-code-named-avocado/article70737952.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-13T04:39:41Z"
+    },
+    {
+      "title": "Chip material prices double, compound semiconductor supply chain on alert",
+      "description": "The Middle East conflict is raising concerns over global energy supply and driving sharp increases in semiconductor material costs. Compound semiconductor manufacturers say prices for high-temperature metals, including tungsten, tantalum, and molybdenum, have…",
+      "url": "https://www.digitimes.com/news/a20260313PD229/compound-semiconductor-chemical-materials-gallium-logistics-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T04:32:42Z"
+    },
+    {
+      "title": "China's NDRC warns memory price surge spreading across electronics supply chain",
+      "description": "China's National Development and Reform Commission (NDRC) has issued a rare monitoring report warning that rising memory prices are spreading across the electronics supply chain as tight supply and strong demand push up DRAM and NAND flash prices.",
+      "url": "https://www.digitimes.com/news/a20260310PD237/price-electronics-supply-chain-dram-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T04:16:31Z"
+    },
+    {
+      "title": "USITC Section 337 investigation could reshape Taiwan's auto parts industry",
+      "description": "On March 10, 2026, the US International Trade Commission (USITC) announced the launch of a Section 337 investigation targeting 20 automotive parts manufacturers across Taiwan, China, and the US. The probe follows a lawsuit filed by General Motors (GM) and inc…",
+      "url": "https://www.digitimes.com/news/a20260313PD230/auto-components-aftermarket-patent-investigation-taiwan-usa-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T04:12:02Z"
+    },
+    {
+      "title": "Apple’s foldable iPhone will reportedly use Samsung’s memory chips",
+      "description": "Apple is expected to launch its first foldable iPhone later this year, and it will compete with the Galaxy Z Fold 8 and the Pixel 11 Pro Fold. It has long been rumored that the foldable iPhone will exclusively use foldable OLED panels from Samsung Display. No…",
+      "url": "https://www.sammobile.com/news/apple-foldable-iphone-samsung-memory-chips",
+      "source": "SamMobile",
+      "publishedAt": "2026-03-13T03:58:47Z"
+    },
+    {
+      "title": "Middle East turmoil disrupts South Korean SME exports, stokes chip supply concerns",
+      "description": "Escalating instability in the Middle East stemming from the Iran crisis is disrupting South Korean exporters and raising concerns about potential supply chain risks for the country's semiconductor industry, according to South Korean media reports.",
+      "url": "https://www.digitimes.com/news/a20260313PD218/sme-exports-production-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T03:49:28Z"
+    },
+    {
+      "title": "Net Attack Code or Die-TENOKE",
+      "description": "Release Description:Collect DarkBits# with each chip extraction and exchange them on the DarkMarket for new operatives and permanent power upgrades across runs. Uncover additional regions as you progress and gather bonus currency by completing missions like t…",
+      "url": "https://post.rlsbb.to/net-attack-code-or-die-tenoke",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-13T03:38:56Z"
+    },
+    {
+      "title": "China's ByteDance gets access to top Nvidia AI chips, WSJ reports",
+      "description": "ByteDance ​is ⁠working with ‌Southeast ​Asian ​firm ⁠Aolani Cloud to deploy about ​500 Nvidia Blackwell ​computing systems in Malaysia, totalling roughly ‌36,000 B200 chips, the ​report ​said.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports/articleshow/129535315.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T03:30:38Z"
+    },
+    {
+      "title": "Microsoft Backs Anthropic To Halt US DOD's 'Supply-Chain Risk' Designation",
+      "description": "joshuark shares a report from Reuters: Microsoft has filed an amicus brief on Tuesday in support of Anthropic's lawsuit asking the court to temporarily block the U.S. Department of Defense designation of the AI startup as a supply-chain risk. In an amicus bri…",
+      "url": "https://slashdot.org/story/26/03/12/2049252/microsoft-backs-anthropic-to-halt-us-dods-supply-chain-risk-designation",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-13T03:30:00Z"
+    },
+    {
+      "title": "BESI attracts takeover interest as advanced chip packaging demand surges",
+      "description": "BE Semiconductor Industries has been ​fielding takeover interest. The chip equipment maker which has a market value of 14 billion euros ($16.20 billion), has been working with investment bank Morgan Stanley to evaluate the approaches.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/besi-attracts-takeover-interest-as-advanced-chip-packaging-demand-surges-sources-say/articleshow/129534542.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T03:16:45Z"
+    },
+    {
+      "title": "Exclusive: Middle East conflict and AI demand drive cost pressures; supply chain shifts procurement risks to clients",
+      "description": "The Middle East conflict and rising AI data center demand have intensified raw material shortages and price hikes across the supply chain. Manufacturers increasingly adopt a \"shift-to-client procurement\" strategy, transferring volatile material purchasing ris…",
+      "url": "https://www.digitimes.com/news/a20260313PD219/supply-chain-cost-price-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T03:14:33Z"
+    },
+    {
+      "title": "Largest Bitcoin Mining Pool Enters Zcash With Institutional-Grade Service",
+      "description": "Foundry, the operator of the largest Bitcoin mining pool in the world, has announced plans for a Zcash mining pool geared at institutions. Foundry Aims To Launch Zcash Mining Pool In April 2026 As revealed in a press release, Foundry is expanding into Zcash w…",
+      "url": "https://bitcoinist.com/bitcoin-mining-zcash-institutional-grade-service",
+      "source": "Bitcoinist",
+      "publishedAt": "2026-03-13T03:00:42Z"
+    },
+    {
+      "title": "AMD Ryzen 7 9800X3D AM5 8-Core Processor + Crimson Desert (PC Digital) $430 + Free S&H",
+      "description": "Amazon [amazon.com] has *AMD Ryzen 7 9800X3D 8-Core 16-Thread AM5 Desktop Processor + Crimson Desert code* for *$429.95*. \n*Shipping is free*. \n \n*Price* \n*$49.05* lower (10% savings) than the list...",
+      "url": "https://slickdeals.net/f/19299123-amd-ryzen-7-9800x3d-am5-8-core-processor-crimson-desert-pc-digital-430-free-s-h",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-13T02:45:27Z"
+    },
+    {
+      "title": "Anthropic invests $100 million into Claude AI program",
+      "description": "Anthropic launched the Claude Partner Network to help enterprises adopt its Claude model. The AI lab plans an initial $100 million investment in 2026 for training, technical support and market development. Meanwhile, the firm faces a dispute with the United S…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-invests-100-million-into-claude-ai-program/articleshow/129533940.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T02:40:50Z"
+    },
+    {
+      "title": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports",
+      "description": "Meta has delayed the release of its AI model “Avocado” until at least May or June. The model’s performance sits between Gemini 2.5 and Gemini 3 from Google. The company continues heavy investment in AI and chips while aiming toward “superintelligence” develop…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-pushes-ai-model-avocado-rollout-to-may-or-later-nyt-reports/articleshow/129533656.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T02:31:03Z"
+    },
+    {
+      "title": "India weighs new smartphone export incentives and US$11 billion chip fund",
+      "description": "According to Bloomberg and Reuters, India is considering two new incentive programs—one tied to smartphone exports and another worth more than US$11 billion to support semiconductor development—as New Delhi seeks to deepen electronics manufacturing and streng…",
+      "url": "https://www.digitimes.com/news/a20260313VL202/smartphone-incentives-bloomberg-manufacturing-electronics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T02:22:43Z"
+    },
+    {
+      "title": "Firefox Application Security Team: Bug Bounty Program Updates 2026",
+      "description": "The Firefox bug bounty program is the longest-running security bug bounty program. Born out of Netscape’s bug bounty program, we’ve been awarding ingenious security research for over two decades, helping keep our hundreds of millions of users safe.\n\nWith the …",
+      "url": "https://attackanddefense.dev/2026/03/13/bug-bounty-program-updates-2026.html",
+      "source": "Attackanddefense.dev",
+      "publishedAt": "2026-03-13T02:13:37Z"
+    },
+    {
+      "title": "Exclusive: Inside GlobalFoundries CEO's stealth Taiwan blitz: wafer deals, not a UMC takeover",
+      "description": "Tim Breen, who became GlobalFoundries' CEO in 2025, reportedly led a senior delegation to Taiwan this week for a five-day visit. The group held intensive meetings with supply chain partners across Hsinchu and Kaohsiung. The scale of the visit — described as t…",
+      "url": "https://www.digitimes.com/news/a20260313PD211/globalfoundries-ceo-taiwan-acquisition-umc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T02:10:04Z"
+    },
+    {
+      "title": "Middle East conflicts threaten affordable cars as automakers shift focus to flagship models",
+      "description": "As renewed Middle East conflicts compound post-pandemic chip shortages and tariff barriers, multiple overlapping risks are disrupting global vehicle supply chains and making them increasingly difficult to resolve.",
+      "url": "https://www.digitimes.com/news/a20260313PD204/automakers-affordable-flagship-aluminum-vehicle.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T02:07:22Z"
+    },
+    {
+      "title": "KYEC reports strong February revenue of NT$3.22 billion",
+      "description": "King Yuan Electronics Co. (KYEC), a global leader in semiconductor testing, announced a robust financial performance for February 2026. The company reported monthly revenue of NT$3.22 billion (approx. US$100.9 million), marking a significant year-over-year in…",
+      "url": "https://www.digitimes.com/news/a20260313VL204/king-yuan-revenue-testing-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T01:51:31Z"
+    },
+    {
+      "title": "ASUS Vivobook 14″ 16GB RAM, 512GB SSD, AMD Ryzen AI 7 350 Laptop For $649.99 Shipped From Amazon",
+      "description": "ASUS Vivobook 14″ 16GB RAM, 512GB SSD, AMD Ryzen AI 7 350 Laptop For $649.99 Shipped From Amazon This was selling for $849.99 yesterday and is now the lowest price ever from Amazon. [Faster than fast.] Gaming and productivity is in our DNA. Plus, get stuff do…",
+      "url": "https://www.dansdeals.com/shopping-deals/amazon/asus-vivobook-14-16gb-ram-512gb-ssd-amd-ryzen-ai-7-350-laptop-for-649-99-shipped-from-amazon",
+      "source": "Dansdeals.com",
+      "publishedAt": "2026-03-13T01:50:03Z"
+    },
+    {
+      "title": "Skytech Azure 3 Gaming Desktop: i7-14700F, RTX 5070, 32GB DDR5, 1TB SSD w/ Free MSI Force GC30 wireless controller + Resident Evil Game $1401.99",
+      "description": "eCoupons at chekcout:MARCH100\nSWARM\nSMS50\n\nSPECS:Operating System: Windows 11 Home\nCPU: Intel i7 14700F\nGraphics: Nvidia RTX 5070 12GB\nRAM: 32GB DDR5 6000MHZ RGB\nCase: Azure 3 Black\nPrimary Hard Drive",
+      "url": "https://slickdeals.net/f/19300521-skytech-azure-3-gaming-desktop-i7-14700f-rtx-5070-32gb-ddr5-1tb-ssd-w-free-msi-force-gc30-wireless-controller-resident-evil-game-1401-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-13T01:37:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ByteDance's overseas chip play puts Washington in a bind",
+      "Maharashtra sets up district panels to ensure LPG supply amid Iran–Israel tensions",
+      "GMKtec Launches EVO-T2 Mini PC: Powered By Intel Panther Lake, 64 GB Memory, Phison SSDs, Priced at $1450",
+      "AI Burning Man happens next week – here's what The Register expects at GTC 2026",
+      "India promises not to let Sri Lanka's oil run out due to the war."
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/news/national/maharashtra-sets-up-district-panels-to-ensure-lpg-supply-amid-iranisrael-tensions/article70738282.ece",
+        "https://english.gossiplankanews.com/2026/03/india-promises-not-to-let-sri-lankas.html",
+        "https://www.digitimes.com/news/a20260313VL209/ai-server-supply-chain-revenue-testing-design.html"
+      ]
+    },
+    {
+      "title": "Chain",
+      "summary": "Grouped stories where \"chain\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/scitix/SiMM"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register",
+        "https://www.digitimes.com/news/a20260313PD221/microip-asic-europe-taiwan-2026.html",
+        "https://www.digitimes.com/news/a20260313PD230/auto-components-aftermarket-patent-investigation-taiwan-usa-2026.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260313VL218/bytedance-ai-chip-technology-chips-nvidia.html",
+        "https://post.rlsbb.to/net-attack-code-or-die-tenoke",
+        "https://economictimes.indiatimes.com/tech/technology/besi-attracts-takeover-interest-as-advanced-chip-packaging-demand-surges-sources-say/articleshow/129534542.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/gmktec-evo-t2-mini-pc-intel-panther-lake-64-gb-memory-phison-ssds-1450-usd-price",
+        "https://slickdeals.net/f/19301070-lenovo-thinkpad-x9-14-aura-14-2-8k-oled-120hz-touch-intel-ultra-7-268v-vpro-32gb-lpddr5-1tb-ssd-win-11-pro-1329-1329-05",
+        "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 334.87
+        },
+        {
+          "date": "2026-01-26",
+          "close": 332.71
+        },
+        {
+          "date": "2026-01-27",
+          "close": 338.34
+        },
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        },
+        {
+          "date": "2026-03-10",
+          "close": 347.09
+        },
+        {
+          "date": "2026-03-11",
+          "close": 354.56
+        },
+        {
+          "date": "2026-03-12",
+          "close": 336.71
+        },
+        {
+          "date": "2026-03-13",
+          "close": 338.31
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ByteDance's overseas chip play puts Washington in a bind. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 259.68
+        },
+        {
+          "date": "2026-01-26",
+          "close": 251.31
+        },
+        {
+          "date": "2026-01-27",
+          "close": 252.03
+        },
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        },
+        {
+          "date": "2026-03-10",
+          "close": 203.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 204.83
+        },
+        {
+          "date": "2026-03-12",
+          "close": 197.74
+        },
+        {
+          "date": "2026-03-13",
+          "close": 193.39
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ByteDance's overseas chip play puts Washington in a bind. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 1389.04
+        },
+        {
+          "date": "2026-01-26",
+          "close": 1413.35
+        },
+        {
+          "date": "2026-01-27",
+          "close": 1454.59
+        },
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 1383.87
+        },
+        {
+          "date": "2026-03-11",
+          "close": 1386.68
+        },
+        {
+          "date": "2026-03-12",
+          "close": 1351.58
+        },
+        {
+          "date": "2026-03-13",
+          "close": 1345.69
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ByteDance's overseas chip play puts Washington in a bind. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 45.07
+        },
+        {
+          "date": "2026-01-26",
+          "close": 42.49
+        },
+        {
+          "date": "2026-01-27",
+          "close": 43.93
+        },
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        },
+        {
+          "date": "2026-03-10",
+          "close": 46.79
+        },
+        {
+          "date": "2026-03-11",
+          "close": 47.98
+        },
+        {
+          "date": "2026-03-12",
+          "close": 45.25
+        },
+        {
+          "date": "2026-03-13",
+          "close": 45.77
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ByteDance's overseas chip play puts Washington in a bind. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 155.82
+        },
+        {
+          "date": "2026-01-26",
+          "close": 154.52
+        },
+        {
+          "date": "2026-01-27",
+          "close": 153.04
+        },
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        },
+        {
+          "date": "2026-03-10",
+          "close": 135.21
+        },
+        {
+          "date": "2026-03-11",
+          "close": 134.12
+        },
+        {
+          "date": "2026-03-12",
+          "close": 131.15
+        },
+        {
+          "date": "2026-03-13",
+          "close": 129.82
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ByteDance's overseas chip play puts Washington in a bind. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

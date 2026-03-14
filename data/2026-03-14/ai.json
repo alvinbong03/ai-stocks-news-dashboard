@@ -1,0 +1,989 @@
+{
+  "theme": "ai",
+  "date": "2026-03-14",
+  "last_updated_utc": "2026-03-14T06:40:29.764Z",
+  "news": [
+    {
+      "title": "Anthropic invests $100 million into Claude AI program",
+      "description": "Anthropic launched the Claude Partner Network to help enterprises adopt its Claude model. The AI lab plans an initial $100 million investment in 2026 for training, technical support and market development. Meanwhile, the firm faces a dispute with the United S…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-invests-100-million-into-claude-ai-program/articleshow/129533940.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T02:40:50Z"
+    },
+    {
+      "title": "Anthropic, Google and OpenAI Bet Big on India",
+      "description": "Silicon Valley’s leading artificial intelligence companies are rapidly expanding their presence in India as they compete for access to what may be the world’s most important growth market for AI outside China. The shift reflects a broader realization within t…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-google-and-openai-bet-big-on-india",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-12T22:59:06Z"
+    },
+    {
+      "title": "China's ByteDance gets access to top Nvidia AI chips, WSJ reports",
+      "description": "ByteDance ​is ⁠working with ‌Southeast ​Asian ​firm ⁠Aolani Cloud to deploy about ​500 Nvidia Blackwell ​computing systems in Malaysia, totalling roughly ‌36,000 B200 chips, the ​report ​said.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports/articleshow/129535315.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T03:30:38Z"
+    },
+    {
+      "title": "AI company Anthropic announces 200 new jobs in Ireland",
+      "description": "US artificial intelligence company Anthropic has announced plans to create an additional 200 jobs in Ireland.",
+      "url": "https://www.rte.ie/news/business/2026/0313/1563159-anthropic-jobs",
+      "source": "RTE",
+      "publishedAt": "2026-03-13T00:01:02Z"
+    },
+    {
+      "title": "Show HN: Tokemon, a terminal dashboard to track LLM token usage",
+      "description": "Hey HN,Recently I found myself using a bunch of different AI coding tools at the same time (Claude Code, Cursor, and some custom API scripts). By the end of the week, I had absolutely no idea how many tokens I was burning or what my real API costs were unless…",
+      "url": "https://news.ycombinator.com/item?id=47358174",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-12T22:30:44Z"
+    },
+    {
+      "title": "Show HN: From Claude Code to OpenCode – My Evolution in Vibe AI Engineering",
+      "description": "I’ve spent the last few months iterating on my \"Vibe Coding\" workflow, moving away from closed-box solutions toward a more transparent, multi-provider stack. I documented the transition from Codex and Claude Code to an open-source setup using OpenCode and ope…",
+      "url": "https://news.ycombinator.com/item?id=47361303",
+      "source": "Hacker News",
+      "publishedAt": "2026-03-13T06:27:53Z"
+    },
+    {
+      "title": "Chenbro Micom revenue tops NT$20 billion on data center boom",
+      "description": "Server chassis manufacturer Chenbro Micom said demand from artificial intelligence applications continues to accelerate data center construction in the first half of 2026, supporting a recovery in the general-purpose server market and sustaining steady operat…",
+      "url": "https://www.digitimes.com/news/a20260311PD234/chenbro-revenue-chassis-data-center-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T04:10:46Z"
+    },
+    {
+      "title": "A Third-Party Promo Gone Awry; OpenAI Has An App For That",
+      "description": "Heluva Good! gets heluva weird; OpenAI isn't so sure about operating checkouts; and who AI fact checks the AI fact checker? \nThe post A Third-Party Promo Gone Awry; OpenAI Has An App For That appeared first on AdExchanger.",
+      "url": "http://www.adexchanger.com/daily-news-roundup/friday-13032026",
+      "source": "AdExchanger",
+      "publishedAt": "2026-03-13T04:03:47Z"
+    },
+    {
+      "title": "Microsoft Backs Anthropic To Halt US DOD's 'Supply-Chain Risk' Designation",
+      "description": "joshuark shares a report from Reuters: Microsoft has filed an amicus brief on Tuesday in support of Anthropic's lawsuit asking the court to temporarily block the U.S. Department of Defense designation of the AI startup as a supply-chain risk. In an amicus bri…",
+      "url": "https://slashdot.org/story/26/03/12/2049252/microsoft-backs-anthropic-to-halt-us-dods-supply-chain-risk-designation",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-13T03:30:00Z"
+    },
+    {
+      "title": "Google Maps Adds Gemini AI-Powered 'Ask Maps' Feature and 3D Immersive Navigation - MacRumors",
+      "description": "Google Maps Adds Gemini AI-Powered 'Ask Maps' Feature and 3D Immersive NavigationMacRumors How we’re reimagining Maps with Geminiblog.google Google Maps rolls out major AI upgrade with new search and navigation features6abc Philadelphia Google brings more AI …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180964732",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-13T02:32:53Z"
+    },
+    {
+      "title": "Googleが都市型洪水の予測マップを公開、GoogleマップとGeminiを用いた災害予測データセット構築手法「Groundsource」を活用",
+      "description": "Googleが災害予測AIを開発するためのデータセット構築手法「Groundsource」を開発しました。既にGroundsourceを用いた洪水予測AIが開発されており、洪水予測マップ「Flood Hub」も公開されています。Boosting disaster resilience with Google's Groundsourcehttps://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-…",
+      "url": "https://news.livedoor.com/article/detail/30757170",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-13T01:57:00Z"
+    },
+    {
+      "title": "Quote of the day by ChatGPT founder Sam Altman: 'Regret is the worst thing. If you think you’re going to regret not doing something, you should probably do it'- OpenAI CEO on life's goal",
+      "description": "OpenAI CEO Sam Altman emphasises that the pain of missed opportunities often outweighs the risk of failure. He advises facing fears and acting on aspirations, as regret stems more from inaction than from trying and failing. Altman also links financial freedom…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-chatgpt-founder-sam-altman-regret-is-the-worst-thing-if-you-think-youre-going-to-regret-not-doing-something-you-should-probably-do-it-openai-ceo-on-lifes-goal/articleshow/129531955.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-13T01:40:25Z"
+    },
+    {
+      "title": "Anthropic's Claude Can Now Whip Up Charts, Interactive Visuals for Step-by-Step Tutorials",
+      "description": "Anthropic's latest Claude update now delivers an interactive way to teach users different kinds of step-by-step tutorials.",
+      "url": "https://www.ibtimes.com.au/anthropics-claude-can-now-whip-charts-interactive-visuals-step-step-tutorials-1863209",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-13T01:16:11Z"
+    },
+    {
+      "title": "Anthropic’s Claude gets interactive visuals to enhance learning",
+      "description": "Last year, Anthropic PBC released a temporary experience called “Imagine with Claude” that enabled its chatbot to create interactive visuals in real-time without any code, and now the same capability is coming to Claude’s chat conversations. In a blog post to…",
+      "url": "https://siliconangle.com/2026/03/12/anthropics-claude-gets-interactive-visuals-enhance-learning",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-13T00:23:32Z"
+    },
+    {
+      "title": "Samsung targets 2nm process for HBM4E base die to boost AI chip edge",
+      "description": "Samsung Electronics is reportedly planning to adopt a 2-nanometer (nm) process for the base die of its next-generation high-bandwidth memory (HBM), HBM4E, aiming to enhance its technological competitiveness. Industry experts see this as part of Samsung's broa…",
+      "url": "https://www.digitimes.com/news/a20260312PD230/samsung-2nm-hbm4-nm-sk-hynix.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-13T00:04:15Z"
+    },
+    {
+      "title": "Anthropic to create 200 jobs in Dublin by 2027",
+      "description": "AI company recruiting for roles in sales, engineering, finance, legal and compliance, and operations",
+      "url": "https://www.irishtimes.com/business/2026/03/13/anthropic-to-create-200-jobs-in-dublin-by-2027",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-13T00:01:00Z"
+    },
+    {
+      "title": "AI giant Anthropic to expand Dublin headquarters with 200 new jobs",
+      "description": "The AI company Anthropic is announcing 200 new jobs in Ireland across sales, engineering and finance by 2027. It also plans to increase its office space to 21,000 sq ft in central Dublin, a sixfold increase on its current office capacity here.",
+      "url": "https://www.independent.ie/business/technology/ai-giant-anthropic-to-expand-dublin-headquarters-with-200-new-jobs/a1125248803.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-13T00:01:00Z"
+    },
+    {
+      "title": "A machine learning framework for personalized exercise prescription based on BMI and physical fitness assessment",
+      "description": "This study proposes a hybrid machine learning framework that integrates one-dimensional convolutional neural networks (1D-CNN) with multi-head attention and Light Gradient Boosting Machines (LightGBM) to model the relationship between physical fitness and bod…",
+      "url": "https://www.nature.com/articles/s41598-026-42405-2",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-13T00:00:00Z"
+    },
+    {
+      "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface - WIRED",
+      "description": "Google Maps Gets Chatty With a New Gemini-Powered InterfaceWIRED How we’re reimagining Maps with Geminiblog.google Google brings more AI to navigation with 'Ask Maps' feature that lets users ask complex questionsCNBC Google overhauls its Maps app, adding in m…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180962022",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-12T23:32:06Z"
+    },
+    {
+      "title": "Canadian Tech Entrepreneur Yanik Guillemette Publishes Analysis on the Future of Artificial Intelligence in the Workplace",
+      "description": "Canadian tech entrepreneur Yanik Guillemette publishes an analysis on how (AI) artificial intelligence will reshape workplace productivity & engagement....",
+      "url": "https://www.globenewswire.com/news-release/2026/03/12/3255214/0/en/Canadian-Tech-Entrepreneur-Yanik-Guillemette-Publishes-Analysis-on-the-Future-of-Artificial-Intelligence-in-the-Workplace.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-12T22:47:00Z"
+    },
+    {
+      "title": "Anthropic's Claude Can Now Create Interactive Visuals Directly in Conversations",
+      "description": "Anthropic's Claude chatbot has been updated with support for inline visual content that will help it provide clearer answers.\n\n\n\n\r\n\n\nClaude can now create custom visuals like charts, graphs, and diagrams. Visual content will be used when it better conveys an …",
+      "url": "https://www.macrumors.com/2026/03/12/claude-visuals-conversations",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-12T22:41:39Z"
+    },
+    {
+      "title": "Google Maps Is Getting Gemini AI And 3D Immersive Navigation",
+      "description": "Google today announced that it is upgrading the popular Maps app and service by adding Gemini AI-powered features and \"fundamentally changing what a map can do.\"\nThe post Google Maps Is Getting Gemini AI And 3D Immersive Navigation first appeared on Redmond P…",
+      "url": "https://www.redmondpie.com/google-maps-is-getting-gemini-ai-and-3d-immersive-navigation",
+      "source": "redmondpie.com",
+      "publishedAt": "2026-03-12T22:04:45Z"
+    },
+    {
+      "title": "How Pentagon-Anthropic AI dispute escalated",
+      "description": "The Trump administration has blacklisted AI giant Anthropic, labeling it a supply chain risk. The company has sued in response. New York Times tech reporter Sheera Frenkel joins CBS News to break down the feud.",
+      "url": "https://www.cbsnews.com/video/how-pentagon-anthropic-ai-dispute-escalated",
+      "source": "CBS News",
+      "publishedAt": "2026-03-12T21:54:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic invests $100 million into Claude AI program",
+      "Anthropic, Google and OpenAI Bet Big on India",
+      "China's ByteDance gets access to top Nvidia AI chips, WSJ reports",
+      "AI company Anthropic announces 200 new jobs in Ireland",
+      "Show HN: Tokemon, a terminal dashboard to track LLM token usage"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-invests-100-million-into-claude-ai-program/articleshow/129533940.cms",
+        "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-google-and-openai-bet-big-on-india",
+        "https://www.rte.ie/news/business/2026/0313/1563159-anthropic-jobs"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.ycombinator.com/item?id=47358174",
+        "https://news.ycombinator.com/item?id=47361303"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180964732",
+        "https://news.livedoor.com/article/detail/30757170",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=180962022"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260311PD234/chenbro-revenue-chassis-data-center-demand.html",
+        "https://www.globenewswire.com/news-release/2026/03/12/3255214/0/en/Canadian-Tech-Entrepreneur-Yanik-Guillemette-Publishes-Analysis-on-the-Future-of-Artificial-Intelligence-in-the-Workplace.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/chinas-bytedance-gets-access-to-top-nvidia-ai-chips-wsj-reports/articleshow/129535315.cms",
+        "http://www.adexchanger.com/daily-news-roundup/friday-13032026",
+        "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-chatgpt-founder-sam-altman-regret-is-the-worst-thing-if-you-think-youre-going-to-regret-not-doing-something-you-should-probably-do-it-openai-ceo-on-lifes-goal/articleshow/129531955.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic invests $100 million into Claude AI program. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic invests $100 million into Claude AI program. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic invests $100 million into Claude AI program. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic invests $100 million into Claude AI program. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic invests $100 million into Claude AI program. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
