@@ -1,0 +1,866 @@
+{
+  "theme": "ai",
+  "date": "2026-03-15",
+  "last_updated_utc": "2026-03-15T06:51:12.600Z",
+  "news": [
+    {
+      "title": "OpenAI to bring Sora video generation to ChatGPT",
+      "description": "OpenAI is reportedly planning to integrate its AI video generation model Sora directly into ChatGPT. According to a report from...\nThe post OpenAI to bring Sora video generation to ChatGPT appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-to-bring-sora-video-generation-to-chatgpt",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-03-14T02:05:16Z"
+    },
+    {
+      "title": "Show HN: Chat Daddy – all your LLM chats in a super light terminal",
+      "description": "Claude kept crashing, stupid electron apps. So I made a super light terminal program in rust. As a plus, it syncs across all your local machines too.feel free to clone it and make it your own: https://github.com/ELI7VH/chat-daddy\n\nComments URL: https://news.y…",
+      "url": "https://lucianlabs.ca/blog/chat-daddy.html",
+      "source": "Lucianlabs.ca",
+      "publishedAt": "2026-03-14T05:02:47Z"
+    },
+    {
+      "title": "ChatGPT, Other Chatbots Approved For Official Use In the Senate",
+      "description": "An anonymous reader quotes a report from the New York Times: A top Senate administrator on Monday gave aides the green light to use three artificial intelligence chatbots for official work, a reflection of how widespread the use of the products has become in …",
+      "url": "https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-14T03:30:00Z"
+    },
+    {
+      "title": "US Commerce Department withdraws planned rule on AI chip exports",
+      "description": "The department had sent a draft rule, to replace a January 2025 Biden-era regulation on global access to AI chips, to other agencies for feedback late last ‌month.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-commerce-department-withdraws-planned-rule-on-ai-chip-exports/articleshow/129568215.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-14T03:28:57Z"
+    },
+    {
+      "title": "US Commerce Department withdraws planned rule on AI chip exports, government website shows",
+      "description": "The U.S. Department of Commerce has withdrawn a proposed rule on AI chip exports that had been sent for inter-agency review in late February, without giving a reason. The plan, titled “AI Action Plan Implementation,” aimed to regulate global access to AI chip…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-commerce-department-withdraws-planned-rule-on-ai-chip-exports-government-website-shows/articleshow/129567398.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-14T01:14:38Z"
+    },
+    {
+      "title": "Show HN: A Claude Skill that teaches Rails conventions for LLM calls",
+      "description": "Article URL: https://github.com/rubyonai/rails-llm-integration\nComments URL: https://news.ycombinator.com/item?id=47372077\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/rubyonai/rails-llm-integration",
+      "source": "Github.com",
+      "publishedAt": "2026-03-14T00:51:11Z"
+    },
+    {
+      "title": "Palantir CEO Alex Karp says there was ‘never a sense’ AI products would be used for domestic surveillance in Anthropic-DoD feud",
+      "description": "In an exclusive interview with Fortune, the CEO of the software platform used by the Defense Department weighs in on which U.S. agencies should have restrictions around how they use AI.",
+      "url": "https://fortune.com/2026/03/13/palantir-ceo-alex-karp-interview-anthropic-pentagon-never-a-sense-ai-used-for-domestic-surveillance",
+      "source": "Fortune",
+      "publishedAt": "2026-03-13T23:47:07Z"
+    },
+    {
+      "title": "Gemini screen automation for Android apps has free, AI Pro usage limits",
+      "description": "Google has started rolling out Gemini screen automation on the Galaxy S26, and this capability has usage limits like other Gemini app features.\n\n\n\n more…",
+      "url": "http://9to5google.com/2026/03/13/gemini-screen-automation-limits",
+      "source": "9to5google.com",
+      "publishedAt": "2026-03-13T23:31:08Z"
+    },
+    {
+      "title": "Show HN: Simple plugin to get Claude Code to listen to you",
+      "description": "Article URL: https://www.gopeek.ai\nComments URL: https://news.ycombinator.com/item?id=47371284\nPoints: 6\n# Comments: 1",
+      "url": "https://www.gopeek.ai/",
+      "source": "Gopeek.ai",
+      "publishedAt": "2026-03-13T23:15:22Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI to bring Sora video generation to ChatGPT",
+      "Show HN: Chat Daddy – all your LLM chats in a super light terminal",
+      "ChatGPT, Other Chatbots Approved For Official Use In the Senate",
+      "US Commerce Department withdraws planned rule on AI chip exports",
+      "US Commerce Department withdraws planned rule on AI chip exports, government website shows"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "News",
+      "summary": "Grouped stories where \"news\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.yugatech.com/news/openai-to-bring-sora-video-generation-to-chatgpt",
+        "https://lucianlabs.ca/blog/chat-daddy.html",
+        "https://github.com/rubyonai/rails-llm-integration"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://yro.slashdot.org/story/26/03/13/2111234/chatgpt-other-chatbots-approved-for-official-use-in-the-senate",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-commerce-department-withdraws-planned-rule-on-ai-chip-exports/articleshow/129568215.cms",
+        "https://economictimes.indiatimes.com/news/international/global-trends/us-commerce-department-withdraws-planned-rule-on-ai-chip-exports-government-website-shows/articleshow/129567398.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to bring Sora video generation to ChatGPT. Main topic cluster: News. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to bring Sora video generation to ChatGPT. Main topic cluster: News. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to bring Sora video generation to ChatGPT. Main topic cluster: News. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to bring Sora video generation to ChatGPT. Main topic cluster: News. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to bring Sora video generation to ChatGPT. Main topic cluster: News. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
