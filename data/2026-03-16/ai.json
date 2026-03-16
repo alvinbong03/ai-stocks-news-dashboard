@@ -1,0 +1,946 @@
+{
+  "theme": "ai",
+  "date": "2026-03-16",
+  "last_updated_utc": "2026-03-16T07:10:53.472Z",
+  "news": [
+    {
+      "title": "Ping An's Financial LLM Ranks First in CNFinBench Evaluation",
+      "description": "HONG KONG and SHANGHAI, March 15, 2026 /PRNewswire/ -- Ping An Insurance (Group) Company of China, Ltd. (\"Ping An\" or \"the Group\"; HKEX: 2318/82318; SSE: 601318) announced that PingAnGPT-Qwen3-32B, the Group's financial large language model (LLM), achieved th…",
+      "url": "https://www.prnewswire.co.uk/news-releases/ping-ans-financial-llm-ranks-first-in-cnfinbench-evaluation-302713946.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-03-15T07:05:00Z"
+    },
+    {
+      "title": "mutable-state-inc/autoresearch-at-home: AI agents running research on single-GPU nanochat training automatically",
+      "description": "AI agents running research on single-GPU nanochat training automatically - mutable-state-inc/autoresearch-at-home",
+      "url": "https://github.com/mutable-state-inc/autoresearch-at-home",
+      "source": "Github.com",
+      "publishedAt": "2026-03-15T05:47:01Z"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Stock That Refuses to Slow Down, and It's Not Nvidia",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dad4e853-f5ae-4982-a783-68dbcb49f762",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-14T20:05:00Z"
+    },
+    {
+      "title": "The Rise of Generative AI: What It Means for Content and Creativity",
+      "description": "Generative artificial intelligence has emerged as one of the most talked-about developments in modern technology. Unlike traditional AI systems that primarily analyze data or make predictions, generative AI can create new content such as text, images, audio, …",
+      "url": "https://www.gottabemobile.com/generative-ai-content-creativity",
+      "source": "Gottabemobile.com",
+      "publishedAt": "2026-03-14T17:00:06Z"
+    },
+    {
+      "title": "Anthropic Claude Code Usage Promotion (2x Usage outside 8 AM-2 PM ET/5-11 AM PT)",
+      "description": "Double Usage limits applied to all users (including free plan) outside of their busy hours: 8 AM-2 PM ET/5-11 AM PT\nApplies to all their services, see details here:\n\nhttps://support.claude.com/en/art.",
+      "url": "https://slickdeals.net/f/19306695-anthropic-claude-code-usage-promotion-2x-usage-outside-8-am-2-pm-et-5-11-am-pt",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-15T01:02:51Z"
+    },
+    {
+      "title": "vincenzopalazzo/health-skills: Skills that give Claude persistent knowledge about your life — health data, nutrition programs, training history",
+      "description": "Skills that give Claude persistent knowledge about your life — health data, nutrition programs, training history — so it can be a real assistant, not just a chatbot. - vincenzopalazzo/health-skills",
+      "url": "https://github.com/vincenzopalazzo/health-skills",
+      "source": "Github.com",
+      "publishedAt": "2026-03-15T00:23:21Z"
+    },
+    {
+      "title": "Open-Source \"GreenBoost\" Driver Aims To Augment NVIDIA GPUs vRAM With System RAM & NVMe To Handle Larger LLMs",
+      "description": "An open-source, independently developed Linux kernel module called GreenBoost aims to augment the dedicated video memory on NVIDIA discrete GPUs with system memory and NVMe storage. The intent here with GreenBoost is a CUDA caching layer to more easily run la…",
+      "url": "https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA",
+      "source": "Phoronix",
+      "publishedAt": "2026-03-15T00:17:00Z"
+    },
+    {
+      "title": "MSI to raise gaming laptop and GPU prices by as much as 30%, with memory shortage ongoing",
+      "description": "MSI is unlikely to provide relief to buyers struggling to afford a gaming PC. At an investor briefing, it confirmed the cost of gaming laptops and desktops will climb by 15-30%. Facing astronomical memory prices, some Nvidia GPU models may become even scarcer.",
+      "url": "https://www.notebookcheck.net/MSI-to-raise-gaming-laptop-and-GPU-prices-by-as-much-as-30-with-memory-shortage-ongoing.1250534.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-03-14T23:22:00Z"
+    },
+    {
+      "title": "Anthropic invests $100M into the Claude Partner Network",
+      "description": "Article URL: https://www.anthropic.com/news/claude-partner-network\nComments URL: https://news.ycombinator.com/item?id=47381340\nPoints: 14\n# Comments: 1",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "source": "Anthropic.com",
+      "publishedAt": "2026-03-14T21:23:42Z"
+    },
+    {
+      "title": "Satya Nadella Says \"All Software Is Being Rewritten.\" Here's 1 of the Best Artificial Intelligence (AI) Stocks to Own for 2026.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de457c5a-708a-4fa6-839e-3e46962667a0",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-14T20:25:00Z"
+    },
+    {
+      "title": "Japan's top shipbuilding-related stock outperforms Nvidia, other AI shares",
+      "description": "Japan's top shipbuilding-related stock outperforms Nvidia, other AI sharesnikkei.com",
+      "url": "https://asia.nikkei.com/business/markets/equities/japan-shipbuilding-related-stock-outperforms-nvidia-other-ai-shares",
+      "source": "Nikkei.com",
+      "publishedAt": "2026-03-14T19:41:50Z"
+    },
+    {
+      "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
+      "description": "Article URL: https://github.com/liorwn/claudetop\nComments URL: https://news.ycombinator.com/item?id=47380203\nPoints: 3\n# Comments: 1",
+      "url": "https://github.com/liorwn/claudetop",
+      "source": "Github.com",
+      "publishedAt": "2026-03-14T19:26:24Z"
+    },
+    {
+      "title": "Are we outsourcing our souls to artificial intelligence?",
+      "description": "More people are turning to AI companions during personal crises, treating it as a confidante and even a way to speak to the dead. And while it helps some, it can also have devastating consequences, writes Compass presenter Benjamin Law.",
+      "url": "https://www.abc.net.au/news/2026-03-15/outsourcing-our-souls-to-ai/106442290",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-14T19:24:35Z"
+    },
+    {
+      "title": "The Future of Artificial Intelligence: Predictions for the Next Decade",
+      "description": "Artificial intelligence has already become an important part of modern technology. From voice assistants and smartphone features to business automation and recommendation systems, AI tools help people process information and complete tasks more efficiently. A…",
+      "url": "https://www.gottabemobile.com/future-of-artificial-intelligence",
+      "source": "Gottabemobile.com",
+      "publishedAt": "2026-03-14T19:00:32Z"
+    },
+    {
+      "title": "An AI Startup Just Turned Apple’s Mac Mini Into a Full-Blown AI Powerhouse by Strapping NVIDIA/AMD GPUs to It",
+      "description": "Apple's Mac Mini has started to become one of the most sought-after computing devices out there following the 'OpenClaw-fever', but here's how you can make it even more powerful. TinyCorp Has Managed to Mount a GeForce RTX 5060 With Apple's Mac Mini, But Only…",
+      "url": "https://wccftech.com/an-ai-startup-just-turned-apple-mac-mini-into-a-full-blown-ai-powerhouse",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-14T18:43:03Z"
+    },
+    {
+      "title": "4 Artificial Intelligence (AI) Stocks at the Top of My Buy List for March",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aae68e18-b208-4608-8e5b-f2b748b4119a",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-14T18:35:00Z"
+    },
+    {
+      "title": "Will Artificial Intelligence Replace Jobs? What Experts Actually Say",
+      "description": "Artificial intelligence is transforming many industries, which has led to growing discussions about how the technology might affect jobs. Some people worry that automation could replace human workers, while others believe AI will simply change how work is per…",
+      "url": "https://www.gottabemobile.com/will-ai-replace-jobs",
+      "source": "Gottabemobile.com",
+      "publishedAt": "2026-03-14T18:00:01Z"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Stocks With Average Upside of 47% and 54%, According to Wall Street",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_660cde5b-8848-49e0-903d-95f752709d21",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-14T17:23:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Ping An's Financial LLM Ranks First in CNFinBench Evaluation",
+      "mutable-state-inc/autoresearch-at-home: AI agents running research on single-GPU nanochat training automatically",
+      "The Artificial Intelligence (AI) Stock That Refuses to Slow Down, and It's Not Nvidia",
+      "The Rise of Generative AI: What It Means for Content and Creativity",
+      "Anthropic Claude Code Usage Promotion (2x Usage outside 8 AM-2 PM ET/5-11 AM PT)"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dad4e853-f5ae-4982-a783-68dbcb49f762",
+        "https://www.gottabemobile.com/generative-ai-content-creativity",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de457c5a-708a-4fa6-839e-3e46962667a0"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.phoronix.com/news/Open-Source-GreenBoost-NVIDIA",
+        "https://www.notebookcheck.net/MSI-to-raise-gaming-laptop-and-GPU-prices-by-as-much-as-30-with-memory-shortage-ongoing.1250534.0.html",
+        "https://asia.nikkei.com/business/markets/equities/japan-shipbuilding-related-stock-outperforms-nvidia-other-ai-shares"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slickdeals.net/f/19306695-anthropic-claude-code-usage-promotion-2x-usage-outside-8-am-2-pm-et-5-11-am-pt",
+        "https://github.com/vincenzopalazzo/health-skills",
+        "https://www.anthropic.com/news/claude-partner-network"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.co.uk/news-releases/ping-ans-financial-llm-ranks-first-in-cnfinbench-evaluation-302713946.html",
+        "https://github.com/mutable-state-inc/autoresearch-at-home"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 187.67
+        },
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ping An's Financial LLM Ranks First in CNFinBench Evaluation. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 465.95
+        },
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ping An's Financial LLM Ranks First in CNFinBench Evaluation. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 327.93
+        },
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ping An's Financial LLM Ranks First in CNFinBench Evaluation. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 239.16
+        },
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ping An's Financial LLM Ranks First in CNFinBench Evaluation. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-23",
+          "close": 658.76
+        },
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ping An's Financial LLM Ranks First in CNFinBench Evaluation. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
