@@ -1,0 +1,994 @@
+{
+  "theme": "ai",
+  "date": "2026-03-17",
+  "last_updated_utc": "2026-03-17T06:58:55.629Z",
+  "news": [
+    {
+      "title": "OpenAI rolls Sora into ChatGPT, seeing more in store for engagement",
+      "description": "The Information reports that OpenAI is preparing to integrate its AI video generator Sora directly into ChatGPT — a move aimed at reigniting user engagement as competition in the generative AI market heats up.",
+      "url": "https://www.digitimes.com/news/a20260312VL209/openai-sora-chatgpt-competition.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-15T23:35:44Z"
+    },
+    {
+      "title": "Nvidia, Wistron lead charge in Taiwan's intensifying AI talent race",
+      "description": "Wistron chairman Simon Lin highlighted that the critical gap for Taiwan's artificial intelligence (AI) development in 2025 and 2026 is talent. Not only are Taiwanese companies urgently seeking skilled workers, but major international companies — including Nvi…",
+      "url": "https://www.digitimes.com/news/a20260315PD200/wistron-talent-taiwan-nvidia-chairman.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T06:54:31Z"
+    },
+    {
+      "title": "Tesla's Terafab project launches in five days in bold push into AI chip manufacturing: 200bn AI chips annually?",
+      "description": "Tesla CEO Elon Musk said the company's Terafab Project, aimed at producing artificial intelligence (AI) chips, will launch in five days, signaling an expansion beyond Tesla's core electric vehicle (EV) business into semiconductor manufacturing.",
+      "url": "https://www.digitimes.com/news/a20260316PD220/tesla-ai-chip-wafer-fab-manufacturing-elon-musk.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T06:19:40Z"
+    },
+    {
+      "title": "Show HN: Run the popular LLM-Course tutorials on HyperAI",
+      "description": "LLM-Course is one of the most popular open learning resources for Large Language Models, with over 75k on GitHub. It provides a structured curriculum that walks through the full LLM stack — from fundamentals to building production-ready applications.HyperAI r…",
+      "url": "https://hyper.ai/cn/notebooks/49873",
+      "source": "Hyper.ai",
+      "publishedAt": "2026-03-16T03:52:54Z"
+    },
+    {
+      "title": "Foxconn's investor briefing could signal major shifts in AI server supply, capacity and data center infrastructure",
+      "description": "Foxconn will hold an online investor conference on March 16, with market attention focused on the progress of AI server orders, capacity adjustments, and new business developments. The company links rising demand to the new generation of GPU platforms enterin…",
+      "url": "https://www.digitimes.com/news/a20260316PD204/foxconn-capacity-ai-server-data-center-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T00:30:03Z"
+    },
+    {
+      "title": "Tech\nPalantir is still using Anthropic’s Claude as Pentagon blacklist plays out, CEO Karp says",
+      "description": "Palantir is still using Anthropic’s Claude as the artificial intelligence startup’s clash with the Pentagon plays out, CEO Alex Karp told CNBC Thursday. “The Department of War is planning to phase out Anthropic; currently, it’s not phased out,” Karp told CNBC…",
+      "url": "https://freerepublic.com/focus/f-chat/4370800/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-03-16T00:03:55Z"
+    },
+    {
+      "title": "Elastic and Red Hat: Scaling the sovereign AI factory with NVIDIA GPU acceleration",
+      "description": "Power your sovereign AI factory using Elastic accelerated with the speed of NVIDIA GPUs on cuVS and the flexibility of Red Hat AI to enable enterprise-scale RAG and agentic AI workflows across any environment.",
+      "url": "https://www.elastic.co/blog/elastic-red-hat-openshift-ai-nvidia",
+      "source": "Elastic.co",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    },
+    {
+      "title": "Powering enterprise AI at scale: The Elastic and NVIDIA cuVS integration",
+      "description": "Elastic vector indexing with NVIDIA cuVS GPU acceleration eliminates a critical barrier to successful enterprise-scale AI deployments, enabling organizations to vectorize massive volumes of unstructured data for modern AI solutions at scale.",
+      "url": "https://www.elastic.co/blog/elastic-nvidia-cuvs-integration",
+      "source": "Elastic.co",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    },
+    {
+      "title": "AI data center gold rush sparks debate over impact on Bitcoin",
+      "description": "Bitcoin miners are fleeing to AI as hashrates fall and profitability collapses, but Bitcoiners argue that it isn't a problem for Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitcoin-miner-pivot-ai-threat-or-opportunity-bitcoin",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-16T06:46:17Z"
+    },
+    {
+      "title": "Watch The NVIDIA GTC 2026, CEO Jensen Huang, Keynote Live Here: Vera Rubin & Big Surprises",
+      "description": "NVIDIA will be hosting its premier AI event today, GTC 2026, where CEO Jensen Huang, will unveil the latest technologies & talk about what comes next. NVIDIA GTC 2026 Keynote Featuring CEO Jensen Huang's Keynote Today, Watch It Live Here! It's time for GTC on…",
+      "url": "https://wccftech.com/watch-nvidia-gtc-2026-ceo-jensen-huang-keynote-live",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-16T06:30:40Z"
+    },
+    {
+      "title": "Daring Fireball: Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today",
+      "description": "\"In that near future, human programmers are likely still to be writing — or at least line-by-line reviewing and approving — code. But as a percentage of all code being generated, that will only be a sliver.\"",
+      "url": "https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder",
+      "source": "Daringfireball.net",
+      "publishedAt": "2026-03-16T05:47:01Z"
+    },
+    {
+      "title": "FSF Threatens Anthropic Over Infringed Copyright: Share Your LLMs Freely",
+      "description": "In 2024 Anthropic was sued over claims it infringed copyrights when training LLMs. \nBut as they try to settle, they may have a problem. The Free Software Foundation announced Friday that Anthropic's training data apparently even included the book \"Free as in …",
+      "url": "https://news.slashdot.org/story/26/03/16/0539240/fsf-threatens-anthropic-over-infringed-copyright-share-your-llms-freely",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-16T05:43:00Z"
+    },
+    {
+      "title": "Investor Says It’s “Sad & Shocking” Game Developers Reject Generative AI",
+      "description": "A debate over generative AI in game development has resurfaced following comments from an investor at GDC 2026, who said he finds it “shocking and sad” that many developers in the industry are resistant to the technology. The remarks came during the GDC Festi…",
+      "url": "https://news.sankakucomplex.com/n/hr6Y-0_aBkw4tbmw-s5sDA",
+      "source": "Sankakucomplex.com",
+      "publishedAt": "2026-03-16T05:00:10Z"
+    },
+    {
+      "title": "US withdraws draft for rule requiring approval for AI chip exports anywhere in the world",
+      "description": "The US revoked a draft rule on March 13 that would have required the country's approval to export US-made AI chips anywhere in the world. The withdrawal marks a reversal of one of the Trump administration's most significant chip export strategies after ending…",
+      "url": "https://www.digitimes.com/news/a20260316VL205/usa-ai-chip-exports-policy-regulation.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T04:23:31Z"
+    },
+    {
+      "title": "Intel宣布參與NVIDIA 2026年GTC大會，預告雙方要幹大事",
+      "description": "Intel於2026年NVIDIA GTC大會舉辦前夕預告將在此次盛會登台，並將結合雙方優勢為大規模建造AI的夥伴提供創新潛能、提升效率與創造新機會；這也是Intel、甚至是整個x86處理器陣營首次宣布將在GTC曝光。Intel at @NVIDIAGTC? Yep!This is just the next step in our partnership as we combine strengths to unlock new innovations, efficiencies, and opportunit…",
+      "url": "https://www.cool3c.com/article/247049",
+      "source": "Cool3c.com",
+      "publishedAt": "2026-03-16T04:22:00Z"
+    },
+    {
+      "title": "Lovable exec says 'big boys and girls' like OpenAI and Anthropic worry her more than other vibe coding startups",
+      "description": "Other vibe coding players are not the biggest competition, says Elena Verna, Lovable's head of growth.",
+      "url": "https://www.businessinsider.com/lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-16T04:08:49Z"
+    },
+    {
+      "title": "Shopify says purchases are coming ‘inside ChatGPT’ through agentic storefronts as OpenAI retreats on Instant Checkout",
+      "description": "Under the updated approach, Shopify merchants’ products will still appear inside ChatGPT conversations, but buyers will typically complete purchases on the merchant’s own online storefront.",
+      "url": "http://digiday.com/marketing/shopify-says-purchases-are-coming-inside-chatgpt-through-agentic-storefronts-as-openai-retreats-on-instant-checkout",
+      "source": "Digiday",
+      "publishedAt": "2026-03-16T04:01:00Z"
+    },
+    {
+      "title": "Nvidia GTC 2026: Jensen Huang targets AI bubble fears, unveils next-generation chips",
+      "description": "Nvidia's annual GTC conference opens March 16 (Pacific Time), with CEO Jensen Huang returning to the nearly 20,000-seat SAP Center in San Jose for a keynote outlining the company's latest advances across the full AI stack. The presentation will cover accelera…",
+      "url": "https://www.digitimes.com/news/a20260316PD222/nvidia-gtc-jensen-huang-ai-agent-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T03:46:58Z"
+    },
+    {
+      "title": "What Is Prompt Engineering and How Can Developers Improve LLM Responses?",
+      "description": "Master prompt engineering to unlock the full potential of LLMs! Learn how to craft effective prompts for accurate, relevant, and useful AI responses. Boost productivity!",
+      "url": "https://www.c-sharpcorner.com/article/what-is-prompt-engineering-and-how-can-developers-improve-llm-responses",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-16T03:39:44Z"
+    },
+    {
+      "title": "Commentary: Nvidia CEO outlines new AI infrastructure vision ahead of GTC 2026",
+      "description": "On March 10, 2026, Nvidia CEO Jensen Huang published an in-depth personal article systematically explaining the development logic behind the AI industry. He argued that AI should not be seen as a single model or application but rather as an emerging infrastru…",
+      "url": "https://www.digitimes.com/news/a20260316PD212/nvidia-jensen-huang-ai-infrastructure-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-16T02:45:21Z"
+    },
+    {
+      "title": "NVIDIA May Finally Abandon Its “One GPU Does Everything” Mantra at GTC 2026, and Here’s What to Expect - Wccftech",
+      "description": "NVIDIA May Finally Abandon Its “One GPU Does Everything” Mantra at GTC 2026, and Here’s What to ExpectWccftech Nvidia GTC 2026: What to expect from Nvidia's biggest event of the yearYahoo Finance What to Expect From GTC: Nvidia’s Groq ChipThe Information NVID…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=180999382",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-16T02:32:40Z"
+    },
+    {
+      "title": "Red Hat and NVIDIA collaborate for a more secure foundation for the agent-ready workforce",
+      "description": "In already a few short years, AI technology has evolved from basic chat completions to autonomous, long-running agents. This poses a challenge for IT teams who need to enable their builders to innovate while also providing guardrails and controls to reduce en…",
+      "url": "https://www.redhat.com/en/blog/red-hat-and-nvidia-collaborate-more-secure-foundation-agent-ready-workforce",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    },
+    {
+      "title": "Accelerate enterprise software development with NVIDIA and Model-as-a-Service (MaaS) on Red Hat AI",
+      "description": "Developing software as efficiently and swiftly as possible is a competitive necessity. The faster and sooner you can get new products to market, the greater advantage you have with your customers. In recent years, AI coding has become a compelling way to help…",
+      "url": "https://www.redhat.com/en/blog/accelerate-enterprise-software-development-nvidia-and-model-service-maas-red-hat-ai",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    },
+    {
+      "title": "Bringing Nemotron models to the Red Hat AI Factory with NVIDIA",
+      "description": "Following the successful launch of the Red Hat AI Factory with NVIDIA, Red Hat is pleased to announce the latest update in our collaboration with NVIDIA – delivering Day 0 support for the NVIDIA Nemotron open model family on the Red Hat AI Factory with NVIDIA…",
+      "url": "https://www.redhat.com/en/blog/bringing-nemotron-models-red-hat-ai-factory-nvidia",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    },
+    {
+      "title": "Building the hybrid AI factory of the future: Red Hat achieves AI Cloud Ready status for the NVIDIA Cloud Partner (NCP) program",
+      "description": "Navigating the complexities of AI infrastructure shouldn’t be a barrier to innovation. Red Hat has completed the first phase of AI Cloud Ready status for the NVIDIA Cloud Partner (NCP) program to help address the increasing complexities of AI. NCPs build and …",
+      "url": "https://www.redhat.com/en/blog/building-hybrid-ai-factory-future-red-hat-achieves-ai-cloud-ready-status-nvidia-cloud-partner-ncp-program",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-16T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI rolls Sora into ChatGPT, seeing more in store for engagement",
+      "Nvidia, Wistron lead charge in Taiwan's intensifying AI talent race",
+      "Tesla's Terafab project launches in five days in bold push into AI chip manufacturing: 200bn AI chips annually?",
+      "Show HN: Run the popular LLM-Course tutorials on HyperAI",
+      "Foxconn's investor briefing could signal major shifts in AI server supply, capacity and data center infrastructure"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260315PD200/wistron-talent-taiwan-nvidia-chairman.html",
+        "https://www.elastic.co/blog/elastic-red-hat-openshift-ai-nvidia",
+        "https://www.elastic.co/blog/elastic-nvidia-cuvs-integration"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.sankakucomplex.com/n/hr6Y-0_aBkw4tbmw-s5sDA"
+      ]
+    },
+    {
+      "title": "Ceo",
+      "summary": "Grouped stories where \"ceo\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260316PD220/tesla-ai-chip-wafer-fab-manufacturing-elon-musk.html",
+        "https://freerepublic.com/focus/f-chat/4370800/posts",
+        "https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260312VL209/openai-sora-chatgpt-competition.html",
+        "https://hyper.ai/cn/notebooks/49873",
+        "https://www.digitimes.com/news/a20260316PD204/foxconn-capacity-ai-server-data-center-infrastructure.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-26",
+          "close": 186.47
+        },
+        {
+          "date": "2026-01-27",
+          "close": 188.52
+        },
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI rolls Sora into ChatGPT, seeing more in store for engagement. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-26",
+          "close": 470.28
+        },
+        {
+          "date": "2026-01-27",
+          "close": 480.58
+        },
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI rolls Sora into ChatGPT, seeing more in store for engagement. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-26",
+          "close": 333.26
+        },
+        {
+          "date": "2026-01-27",
+          "close": 334.55
+        },
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI rolls Sora into ChatGPT, seeing more in store for engagement. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-26",
+          "close": 238.42
+        },
+        {
+          "date": "2026-01-27",
+          "close": 244.68
+        },
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI rolls Sora into ChatGPT, seeing more in store for engagement. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-26",
+          "close": 672.36
+        },
+        {
+          "date": "2026-01-27",
+          "close": 672.97
+        },
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI rolls Sora into ChatGPT, seeing more in store for engagement. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
