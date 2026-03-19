@@ -1,0 +1,995 @@
+{
+  "theme": "ai",
+  "date": "2026-03-19",
+  "last_updated_utc": "2026-03-19T06:53:08.023Z",
+  "news": [
+    {
+      "title": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut",
+      "description": "The flurry of model releases comes as the generative AI space becomes more competitive. The company had been fielding tough competition from Google's Gemini models last year. The beginning of this year propelled Anthropic's models to the top of the charts, af…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut/articleshow/129649030.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T06:25:42Z"
+    },
+    {
+      "title": "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
+      "description": "New enterprise workbench helps organizations design, build, evaluate, and operate domain-specific language models using open-source models and NVIDIA AI infrastructure.",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices/article70753746.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-18T05:44:10Z"
+    },
+    {
+      "title": "The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference",
+      "description": "The most telling moment of Nvidia's GTC 2026 did not unfold on the main stage of the SAP Center, but inside a glass display case at Booth 1207.",
+      "url": "https://www.digitimes.com/news/a20260318VL214/samsung-groq-wafer-nvidia-gtc-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T06:51:00Z"
+    },
+    {
+      "title": "Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’",
+      "description": "That's one way to respond to the DLSS 5 backlash",
+      "url": "https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764",
+      "source": "Kotaku",
+      "publishedAt": "2026-03-18T06:40:35Z"
+    },
+    {
+      "title": "Anthropic shut out of US defence deals? Pentagon says it is developing alternatives to the Claude-maker",
+      "description": "The Pentagon is developing alternatives to Anthropic's technology following a fallout over military AI safeguards, according to a senior US defense official. Details here.",
+      "url": "https://www.livemint.com/companies/news/anthropic-shut-out-of-us-defence-deals-pentagon-says-it-is-developing-alternatives-to-the-claudemaker-11773806554631.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-18T06:35:51Z"
+    },
+    {
+      "title": "Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance",
+      "description": "Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/supermicro-among-first-to-unveil-nvidia-bluefield-4-stx-storage-server-to-improve-ai-inference-performance/article70756795.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-18T06:24:13Z"
+    },
+    {
+      "title": "Show HN: N0x – LLM inference, agents, RAG, Python exec in browser, no back end",
+      "description": "Built this because I was tired of every AI tool shipping my data to someone else server n0x runs the full stack LLM inference via WebGPU, autonomous ReAct agents, RAG over your own docs, sandboxed Python execution via Pyodide all inside a single browser tab.\n…",
+      "url": "https://n0xth.vercel.app/",
+      "source": "Vercel.app",
+      "publishedAt": "2026-03-18T05:44:47Z"
+    },
+    {
+      "title": "NVIDIA DLSS 5 arrives this fall: Which games and gaming studios will receive this 'Hollywood' level VFX update?",
+      "description": "DLSS 5: NVIDIA has officially announced DLSS 5, a breakthrough real-time neural rendering model moving beyond simple upscaling and frame generation by using AI to \"infuse pixels with photoreal lighting and materials,\" aiming to bridge the gap between real-tim…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/nvidia-dlss-5-arrives-this-fall-which-games-and-gaming-studios-will-receive-this-hollywood-level-vfx-update/articleshow/129648002.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T05:42:06Z"
+    },
+    {
+      "title": "Show HN: Llmtop – Htop for LLM Inference Clusters (vLLM, SGLang, Ollama, llama)",
+      "description": "I work on inference scheduling — KV cache-aware routing, load balancing across GPU workers, that kind of thing. I wanted something like k9s but for my inference stack. Nothing existed, so I built it.llmtop is a real-time terminal dashboard for LLM inference w…",
+      "url": "https://github.com/InfraWhisperer/llmtop",
+      "source": "Github.com",
+      "publishedAt": "2026-03-18T04:58:49Z"
+    },
+    {
+      "title": "Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "description": "Nvidia plans China-ready AI chips using Groq technology amid rising competition.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/nvidia-preparing-groq-chips-that-can-be-sold-in-chinese-market-sources-say-10587914",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-18T04:33:50Z"
+    },
+    {
+      "title": "OpenAI teams with AWS to target US govt AI contracts",
+      "description": "OpenAI has signed an agreement with Amazon Web Services (AWS) to provide its artificial intelligence tools to US government agencies for both classified and unclassified work, according to The Information and Reuters, as the company steps up efforts to secure…",
+      "url": "https://www.digitimes.com/news/a20260318VL210/openai-aws-government-amazon-microsoft.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T04:23:57Z"
+    },
+    {
+      "title": "GTC 2026: Nvidia charts optical-copper path",
+      "description": "At GTC 2026, Nvidia outlined a dual-track approach combining copper cables and silicon photonics (SiPh) to meet surging AI-driven demand for data center interconnects. CEO Jensen Huang emphasized that as AI compute needs escalate, future data centers will req…",
+      "url": "https://www.digitimes.com/news/a20260318PD218/cpo-gtc-nvidia-2026-copper.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T04:15:52Z"
+    },
+    {
+      "title": "Jensen Huang's survival playbook: Nvidia navigates the next AI frontier",
+      "description": "At GTC 2026, Nvidia CEO Jensen Huang delivered a blunt message to an industry fixated on raw compute: the next bottleneck in AI is not the chip — it is everything around it. From packaging and interconnects to geopolitics and supply chains, Huang mapped a fut…",
+      "url": "https://www.digitimes.com/news/a20260318PD227/nvidia-gtc-jensen-huang-2026-ceo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T06:48:58Z"
+    },
+    {
+      "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal: Report",
+      "description": "Last month, Amazon and OpenAI signed several agreements, including one that makes Amazon Web Services (AWS) the exclusive third-party cloud provider for ‌Frontier, OpenAI's enterprise platform ⁠for ⁠building and running AI agents.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-report/articleshow/129649363.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T06:43:45Z"
+    },
+    {
+      "title": "NVIDIA/OpenShell: OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Github.com",
+      "publishedAt": "2026-03-18T05:47:01Z"
+    },
+    {
+      "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+      "description": "March 18 : Microsoft is considering legal action against its partner OpenAI and Amazon over a $50 billion deal that could violate its exclusive cloud agreement with the ChatGPT maker, the Financial Times reported on Wednesday.Last month, Amazon and OpenAI sig…",
+      "url": "https://www.channelnewsasia.com/business/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-reports-6000861",
+      "source": "CNA",
+      "publishedAt": "2026-03-18T05:06:54Z"
+    },
+    {
+      "title": "Microsoft weighs legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+      "description": "March 18 : Microsoft is weighing legal action against Amazon and OpenAI over a $50 billion deal that could breach Microsoft's exclusive cloud partnership with the ChatGPT maker, the Financial Times reported on Wednesday.The issue centres on whether Amazon Web…",
+      "url": "https://www.channelnewsasia.com/business/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-reports-6000861",
+      "source": "CNA",
+      "publishedAt": "2026-03-18T05:06:54Z"
+    },
+    {
+      "title": "Now everyone in the US is getting Google’s personalized Gemini AI - The Verge",
+      "description": "Now everyone in the US is getting Google’s personalized Gemini AIThe Verge Bringing the power of Personal Intelligence to more peopleblog.google Google rolling out Personal Intelligence to free Gemini, Chrome, & AI Mode users9to5Google Google makes Gemini per…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181028184",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T04:52:30Z"
+    },
+    {
+      "title": "Show HN: Vibe Remote – Code from your bed or the park with Claude Code/Codex",
+      "description": "I built Vibe Remote because I wanted to code from my bed or the park without lugging a laptop around.With tools like Claude Code, Codex, and Gemini-cli, we don't need a full IDE for every task anymore. Vibe Remote turns your phone into a powerful remote conso…",
+      "url": "https://vibe-remote.com/",
+      "source": "Vibe-remote.com",
+      "publishedAt": "2026-03-18T04:24:48Z"
+    },
+    {
+      "title": "NVIDIA CEO Says Gamers Are “Completely Wrong” About DLSS 5 Being ‘AI Slop’, Insisting Developers Have Full Artistic Control - Wccftech",
+      "description": "NVIDIA CEO Says Gamers Are “Completely Wrong” About DLSS 5 Being ‘AI Slop’, Insisting Developers Have Full Artistic ControlWccftech NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA Nvidia's new DLSS 5 Brings Photo-Realistic Li…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181028008",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T04:13:21Z"
+    },
+    {
+      "title": "High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform",
+      "description": "Leopard Imaging LI-IMX530-10GigE-NL is a high-end 25MP global shutter camera designed specifically for the NVIDIA Holoscan edge AI platform. The camera utilizes a 10GbE interface for high-bandwidth, low-latency data transmission, making it suitable for gestur…",
+      "url": "https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-18T04:03:22Z"
+    },
+    {
+      "title": "デル・テクノロジーズ、「Dell AI Factory with NVIDIA」を拡充し、エンタープライズAIの投資効果の実現を加速",
+      "description": "[デル・テクノロジーズ株式会社]\n当資料は、2026年3月16日に米国で発表されたプレスリリースの抄訳版です。\n米国リリース原文：https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~03~dell-ai-...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000393.000025237.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-18T04:00:00Z"
+    },
+    {
+      "title": "What Is OpenAI Assistants API and How to Use It in Real Applications?",
+      "description": "Discover OpenAI Assistants API: build intelligent AI assistants with memory, tool integration, and automation for customer support, education, and more.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-openai-assistants-api-and-how-to-use-it-in-real-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-18T03:57:05Z"
+    },
+    {
+      "title": "Innodisk at NVIDIA GTC 2026: Accelerating Real-World AI for Healthcare and Mobility with Full-Stack Edge Solutions",
+      "description": "SAN JOSE, Calif., March 18, 2026 /PRNewswire/ -- Innodisk, a leading global AI solution provider, today announced its participation in NVIDIA GTC 2026. Alongside subsidiary Aetina, Innodisk Group is showcasing the seamless integration of NVIDIA AI architectur…",
+      "url": "https://www.prnewswire.co.uk/news-releases/innodisk-at-nvidia-gtc-2026-accelerating-real-world-ai-for-healthcare-and-mobility-with-full-stack-edge-solutions-302716827.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-03-18T03:30:00Z"
+    },
+    {
+      "title": "OpenAI shifts from building data centers to leasing cloud capacity",
+      "description": "OpenAI has appointed new leadership to oversee its Stargate computing initiative as the company pivots its infrastructure strategy away from building its own data centers and toward leasing capacity from cloud providers, according to people familiar with the …",
+      "url": "https://www.digitimes.com/news/a20260317VL220/openai-data-capacity-infrastructure-data-center.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T03:17:55Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut",
+      "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
+      "The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference",
+      "Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’",
+      "Anthropic shut out of US defence deals? Pentagon says it is developing alternatives to the Claude-maker"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/brandhub/pr-release/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices/article70753746.ece",
+        "https://www.digitimes.com/news/a20260318VL214/samsung-groq-wafer-nvidia-gtc-2026.html",
+        "https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut/articleshow/129649030.cms",
+        "https://www.digitimes.com/news/a20260318VL210/openai-aws-government-amazon-microsoft.html",
+        "https://economictimes.indiatimes.com/tech/technology/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-report/articleshow/129649363.cms"
+      ]
+    },
+    {
+      "title": "Inference",
+      "summary": "Grouped stories where \"inference\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://n0xth.vercel.app/",
+        "https://github.com/InfraWhisperer/llmtop"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/anthropic-shut-out-of-us-defence-deals-pentagon-says-it-is-developing-alternatives-to-the-claudemaker-11773806554631.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181028184",
+        "https://vibe-remote.com/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 191.52
+        },
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 481.63
+        },
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 336.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 243.01
+        },
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 668.73
+        },
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

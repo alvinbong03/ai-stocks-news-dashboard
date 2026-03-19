@@ -1,0 +1,1150 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-19",
+  "last_updated_utc": "2026-03-19T06:53:29.704Z",
+  "news": [
+    {
+      "title": "The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference",
+      "description": "The most telling moment of Nvidia's GTC 2026 did not unfold on the main stage of the SAP Center, but inside a glass display case at Booth 1207.",
+      "url": "https://www.digitimes.com/news/a20260318VL214/samsung-groq-wafer-nvidia-gtc-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T06:51:00Z"
+    },
+    {
+      "title": "Jensen Huang's survival playbook: Nvidia navigates the next AI frontier",
+      "description": "At GTC 2026, Nvidia CEO Jensen Huang delivered a blunt message to an industry fixated on raw compute: the next bottleneck in AI is not the chip — it is everything around it. From packaging and interconnects to geopolitics and supply chains, Huang mapped a fut…",
+      "url": "https://www.digitimes.com/news/a20260318PD227/nvidia-gtc-jensen-huang-2026-ceo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T06:48:58Z"
+    },
+    {
+      "title": "Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’",
+      "description": "That's one way to respond to the DLSS 5 backlash",
+      "url": "https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764",
+      "source": "Kotaku",
+      "publishedAt": "2026-03-18T06:40:35Z"
+    },
+    {
+      "title": "Japan's key tech workers are now cheaper than Malaysia's",
+      "description": "Report shows Malaysian chip and data center boom has lifted salaries past Japanese counterparts",
+      "url": "https://asia.nikkei.com/business/technology/japan-s-key-tech-workers-are-now-cheaper-than-malaysia-s",
+      "source": "Nikkei.com",
+      "publishedAt": "2026-03-18T06:40:15Z"
+    },
+    {
+      "title": "AMD Medusa Point Leak Shows 10 “Zen 6” Cores At 2 GHz Faster Than 10 “Zen 5” Cores at 5 GHz",
+      "description": "AMD's Medusa Point \"Zen 6\" APUs have leaked out once again at Geekbench, showcasing even higher performance than earlier. AMD Medusa Point \"Zen 6\" APU Leak Shows Doubling In Performance, Comes With FP16 Support A few days ago, we reported the first sighting o…",
+      "url": "https://wccftech.com/amd-medusa-point-leak-10-zen-6-cores-2-ghz-faster-than-10-zen-5-cores-5-ghz",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-18T06:25:15Z"
+    },
+    {
+      "title": "Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance",
+      "description": "Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/supermicro-among-first-to-unveil-nvidia-bluefield-4-stx-storage-server-to-improve-ai-inference-performance/article70756795.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-18T06:24:13Z"
+    },
+    {
+      "title": "Trump blasts global allies over their refusal to deploy warships to the Strait of Hormuz",
+      "description": "U.S. President Donald Trump condemned NATO nations for refusing to assist in reopening the Strait of Hormuz, accusing them of benefiting from U.S. military protection without reciprocating. Iran’s closure of the Strait of Hormuz – a critical oil transit route…",
+      "url": "https://www.naturalnews.com/2026-03-18-trump-blasts-allies-refusal-deploy-warships-hormuz.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-18T06:00:00Z"
+    },
+    {
+      "title": "Nvidia Shares Experience Volatility Following CEO’s Projection of $1 Trillion Revenue by 2027",
+      "description": "Key Presentation Details and Market Reaction Nvidia Corporation’s stock experienced sharp volatility on March 16, 2026, following CEO Jensen Huang’s keynote address at the company’s GTC conference in San Jose, California. During the presentation, Huang projec…",
+      "url": "https://www.naturalnews.com/2026-03-18-nvidia-volatility-following-ceo-projection-of-revenue.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-18T06:00:00Z"
+    },
+    {
+      "title": "Alibaba Cloud raises AI computing and storage prices by up to 34% amid surging demand",
+      "description": "Alibaba Cloud said it has raised prices for its AI computing and storage products by up to 34%, citing surging global demand for AI and higher supply chain costs, according to a notice on its website. The price increases affect a range of offerings, including…",
+      "url": "http://technode.com/2026/03/18/alibaba-cloud-raises-ai-computing-and-storage-prices-by-up-to-34-amid-surging-demand",
+      "source": "TechNode",
+      "publishedAt": "2026-03-18T05:50:21Z"
+    },
+    {
+      "title": "NVIDIA/OpenShell: OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Github.com",
+      "publishedAt": "2026-03-18T05:47:01Z"
+    },
+    {
+      "title": "ByteDance Reportedly Delays Doubao AI Glasses Launch Plan",
+      "description": "ByteDance has reportedly delayed the production plan for its Doubao AI glasses project, and the first-generation product is now unlikely to reach the market, according to supply chain sources cited by Blue Whale Tech. One person familiar with the matter said …",
+      "url": "http://technode.com/2026/03/18/bytedance-reportedly-delays-doubao-ai-glasses-launch-plan",
+      "source": "TechNode",
+      "publishedAt": "2026-03-18T05:46:16Z"
+    },
+    {
+      "title": "Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices",
+      "description": "New enterprise workbench helps organizations design, build, evaluate, and operate domain-specific language models using open-source models and NVIDIA AI infrastructure.",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices/article70753746.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-18T05:44:10Z"
+    },
+    {
+      "title": "NVIDIA DLSS 5 arrives this fall: Which games and gaming studios will receive this 'Hollywood' level VFX update?",
+      "description": "DLSS 5: NVIDIA has officially announced DLSS 5, a breakthrough real-time neural rendering model moving beyond simple upscaling and frame generation by using AI to \"infuse pixels with photoreal lighting and materials,\" aiming to bridge the gap between real-tim…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/nvidia-dlss-5-arrives-this-fall-which-games-and-gaming-studios-will-receive-this-hollywood-level-vfx-update/articleshow/129648002.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T05:42:06Z"
+    },
+    {
+      "title": "Prozo expands Hyderabad footprint with 1.04 lakh sq. ft. fulfilment centre in Medchal",
+      "description": "Prozo, a leading supply chain company, has opened a new fulfillment center in Medchal, Hyderabad. This expansion strengthens Prozo's presence in South India. The new facility enhances their capacity to serve brands across various sectors. Prozo's network now …",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/prozo-expands-hyderabad-footprint-with-1-04-lakh-sq-ft-fulfilment-centre-in-medchal/articleshow/129648093.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T05:39:41Z"
+    },
+    {
+      "title": "Granny P",
+      "description": "Contributed by Amanda DeVriesSource: www.eyecandydesign.co License: All Rights Reserved. As a mother, community leader, and founder of a Black-led health charity in London, Ontario, Granny P’s founder Mystery Furtado came to us with more than a product, she c…",
+      "url": "https://fontsinuse.com/uses/75779/granny-p",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-03-18T05:06:00Z"
+    },
+    {
+      "title": "Alienware 16 Area-51: 16\" WQXGA 240Hz, Intel Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5 RAM, 1TB SSD $1949.99 @Woot! (1 replies)",
+      "description": "Alienware 16 Area-51 Gaming Laptop AA16250-16\" WQXGA 240Hz Display, Intel Core Ultra 9-275HX, 32GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5070Ti\n\n\nhttps://computers.woot.com/offers..._dly_image",
+      "url": "https://slickdeals.net/f/19318374-alienware-16-area-51-16-wqxga-240hz-intel-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-ram-1tb-ssd-1949-99-woot",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-18T05:01:30Z"
+    },
+    {
+      "title": "Samsung sees AI driving strong chip demand in 2026, executive says",
+      "description": "Samsung bets on AI chips growth while warning of impact on smartphones and PCs",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-10587916",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-18T05:01:15Z"
+    },
+    {
+      "title": "“To Sunderland Women, From Supporters Who Travel, Care and Believe”",
+      "description": "“When supporters feel ignored or overlooked — even unintentionally — it chips away at that foundation.”",
+      "url": "https://rokerreport.sbnation.com/features/131297/to-sunderland-women-from-supporters-who-travel-care-and-believe",
+      "source": "SB Nation",
+      "publishedAt": "2026-03-18T05:00:00Z"
+    },
+    {
+      "title": "China takes the lead in all Industry 4.0 technologies, ahead of U.S. and Europe",
+      "description": "New MHP Industry 4.0 Barometer 2026 shows: China is taking the lead in terms of supply chain transparency, digital twin technology, automation, and AI....",
+      "url": "https://www.globenewswire.com/news-release/2026/03/18/3257877/0/en/China-takes-the-lead-in-all-Industry-4-0-technologies-ahead-of-U-S-and-Europe.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-18T05:00:00Z"
+    },
+    {
+      "title": "Show HN: Llmtop – Htop for LLM Inference Clusters (vLLM, SGLang, Ollama, llama)",
+      "description": "I work on inference scheduling — KV cache-aware routing, load balancing across GPU workers, that kind of thing. I wanted something like k9s but for my inference stack. Nothing existed, so I built it.llmtop is a real-time terminal dashboard for LLM inference w…",
+      "url": "https://github.com/InfraWhisperer/llmtop",
+      "source": "Github.com",
+      "publishedAt": "2026-03-18T04:58:49Z"
+    },
+    {
+      "title": "Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "description": "Nvidia plans China-ready AI chips using Groq technology amid rising competition.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/nvidia-preparing-groq-chips-that-can-be-sold-in-chinese-market-sources-say-10587914",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-18T04:33:50Z"
+    },
+    {
+      "title": "India’s semiconductor push to drive $300 billion market by 2035: Report",
+      "description": "India's semiconductor market is set for massive growth, projected to hit USD 300 billion by 2035. Local production will soon meet over 60% of domestic demand. This expansion is fueled by AI, automotive, and data center growth. The sector is attracting signifi…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-semiconductor-push-to-drive-300-billion-market-by-2035-report/articleshow/129647171.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T04:32:43Z"
+    },
+    {
+      "title": "IT stocks face fresh AI worries; is more correction ahead?",
+      "description": "Indian IT stocks are experiencing a significant correction, driven by fears of AI automation impacting outsourcing demand, amplified by Nvidia's AI chip announcements. Analysts, however, see current valuations as reflecting pessimism, creating selective buyin…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-face-fresh-ai-worries-is-more-correction-ahead/articleshow/129647022.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T04:18:47Z"
+    },
+    {
+      "title": "Trump administration defends Anthropic blacklisting in US court",
+      "description": "US defence secretary designated Anthropic a 'supply chain risk' after it refused to remove guardrails on its technology.",
+      "url": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-18T04:15:54Z"
+    },
+    {
+      "title": "GTC 2026: Nvidia charts optical-copper path",
+      "description": "At GTC 2026, Nvidia outlined a dual-track approach combining copper cables and silicon photonics (SiPh) to meet surging AI-driven demand for data center interconnects. CEO Jensen Huang emphasized that as AI compute needs escalate, future data centers will req…",
+      "url": "https://www.digitimes.com/news/a20260318PD218/cpo-gtc-nvidia-2026-copper.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T04:15:52Z"
+    },
+    {
+      "title": "Foxconn and SAP forge strategic alliance to drive enterprise AI in APAC",
+      "description": "On March 18, Foxconn (Hon Hai) announced a strategic partnership with SAP to accelerate the adoption of next-generation enterprise artificial intelligence across the Asia-Pacific region. The collaboration is built on the AI Factory initiative, which Foxconn s…",
+      "url": "https://www.digitimes.com/news/a20260318PD223/partnership-adoption-apac-supply-chain-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T04:14:25Z"
+    },
+    {
+      "title": "NVIDIA CEO Says Gamers Are “Completely Wrong” About DLSS 5 Being ‘AI Slop’, Insisting Developers Have Full Artistic Control - Wccftech",
+      "description": "NVIDIA CEO Says Gamers Are “Completely Wrong” About DLSS 5 Being ‘AI Slop’, Insisting Developers Have Full Artistic ControlWccftech NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA Nvidia's new DLSS 5 Brings Photo-Realistic Li…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181028008",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T04:13:21Z"
+    },
+    {
+      "title": "CSB364: GROOMERANG RAID",
+      "description": "Download for Mobile | Podcast Preview | Full Timestamps Older Twitch VODs are now being uploaded to the new channel: https://www.youtube.com/@CastleSuperBeastArchive DLSS-ification How I Swaddled your Mother It's Impossible To Exaggerate The Insane Greed of A…",
+      "url": "https://superbestfriendcast.libsyn.com/csb364-groomerang-raid",
+      "source": "Libsyn.com",
+      "publishedAt": "2026-03-18T04:11:24Z"
+    },
+    {
+      "title": "High-end 25MP global shutter camera with 10GbE interface is designed for NVIDIA Holoscan platform",
+      "description": "Leopard Imaging LI-IMX530-10GigE-NL is a high-end 25MP global shutter camera designed specifically for the NVIDIA Holoscan edge AI platform. The camera utilizes a 10GbE interface for high-bandwidth, low-latency data transmission, making it suitable for gestur…",
+      "url": "https://www.cnx-software.com/2026/03/18/high-end-25mp-global-shutter-camera-with-10gbe-interface-is-designed-for-nvidia-holoscan-platform",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-18T04:03:22Z"
+    },
+    {
+      "title": "デル・テクノロジーズ、「Dell AI Factory with NVIDIA」を拡充し、エンタープライズAIの投資効果の実現を加速",
+      "description": "[デル・テクノロジーズ株式会社]\n当資料は、2026年3月16日に米国で発表されたプレスリリースの抄訳版です。\n米国リリース原文：https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~03~dell-ai-...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000393.000025237.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-18T04:00:00Z"
+    },
+    {
+      "title": "Nebius Plans to Raise $3.75 Billion in Debt After Meta Deal - Bloomberg.com",
+      "description": "Nebius Plans to Raise $3.75 Billion in Debt After Meta DealBloomberg.com Nebius Stock Falls 12% on Bond Offering. Citi Calls It a ‘High Risk’ Buy.Barron's Nebius jumps 14% after company inks $27 billion infrastructure deal with MetaCNBC Nebius’s stock falls a…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181027856",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T03:52:08Z"
+    },
+    {
+      "title": "Samsung Electronics plans to produce Tesla chips starting late 2027",
+      "description": "The comments ​were made by ​Han Jin-man, Samsung Electronics President ‌and Head of ​Foundry ​Business, ⁠at a shareholders' meeting.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-plans-to-produce-tesla-chips-starting-late-2027/articleshow/129646227.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T03:46:49Z"
+    },
+    {
+      "title": "Scientists used 7,000 GPUs to simulate a tiny quantum chip in extreme detail",
+      "description": "Researchers have pushed quantum chip design into a new era by simulating every physical detail before fabrication. Using a supercomputer with nearly 7,000 GPUs, they modeled how signals travel and interact inside an ultra-tiny chip. Unlike earlier “black box”…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064504.htm",
+      "source": "Science Daily",
+      "publishedAt": "2026-03-18T03:35:04Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says gamers ‘completely wrong’ about DLSS 5",
+      "description": "Nvidia CEO Jensen Huang has dismissed gamers’ criticism that DLSS 5 homogenizes game visuals and “yassifies” character faces, calling detractors “completely wrong” after backlash to examples cited from titles like Resident Evil Requiem and Hogwarts Legacy. Hu…",
+      "url": "https://www.notebookcheck.net/Nvidia-CEO-Jensen-Huang-says-gamers-completely-wrong-about-DLSS-5.1252892.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-03-18T03:31:00Z"
+    },
+    {
+      "title": "Innodisk at NVIDIA GTC 2026: Accelerating Real-World AI for Healthcare and Mobility with Full-Stack Edge Solutions",
+      "description": "SAN JOSE, Calif., March 18, 2026 /PRNewswire/ -- Innodisk, a leading global AI solution provider, today announced its participation in NVIDIA GTC 2026. Alongside subsidiary Aetina, Innodisk Group is showcasing the seamless integration of NVIDIA AI architectur…",
+      "url": "https://www.prnewswire.co.uk/news-releases/innodisk-at-nvidia-gtc-2026-accelerating-real-world-ai-for-healthcare-and-mobility-with-full-stack-edge-solutions-302716827.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-03-18T03:30:00Z"
+    },
+    {
+      "title": "Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ - Forbes",
+      "description": "Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’Forbes NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA Nvidia's new DLSS 5 Brings Photo-Realistic Lighting To RTX 50-SeriesDigital Foundry Jensen Huang …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181027540",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T03:12:26Z"
+    },
+    {
+      "title": "In-depth: China's AI 'five-layer cake'— impressive on the outside, underbaked in the middle",
+      "description": "Jensen Huang's \"five-layer cake\" model for AI is a tidy recipe: energy, chips, infrastructure, models, applications — stacked in order. Applied to China, the cake looks polished on top. Pull it apart, though, and the middle layers are still underbaked.",
+      "url": "https://www.digitimes.com/news/a20260318PD210/jensen-huang-infrastructure-chips-demand-cost.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T03:11:43Z"
+    },
+    {
+      "title": "GMK NucBox K13 prioritizes faster CPU performance over GPU performance",
+      "description": "When set to Performance mode, the integrated GPU actually underperforms by quite the margin while the CPU may perform slightly faster than expected when compared to other PCs with an identical processor.",
+      "url": "https://www.notebookcheck.net/GMK-NucBox-K13-prioritizes-faster-CPU-performance-over-GPU-performance.1251149.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-03-18T03:03:00Z"
+    },
+    {
+      "title": "Tata Semiconductor head reportedly steps down amid fab build-out",
+      "description": "Industry veteran KC Ang has stepped down as president and head of Tata Semiconductor Manufacturing, marking a leadership transition as the company advances its chipmaking projects in India, according to reports by The Economic Times, Electronics For You, and …",
+      "url": "https://www.digitimes.com/news/a20260318VL200/fab-president-2025-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T02:59:49Z"
+    },
+    {
+      "title": "China tightens Hong Kong IPO rules, curbs red-chip listings to stem capital outflows",
+      "description": "China is tightening scrutiny over domestic companies seeking to list in Hong Kong, signaling a shift in how one of the market's most entrenched offshore listing structures is treated. The move targets the long-standing \"red-chip\" model, widely used by Chinese…",
+      "url": "https://www.digitimes.com/news/a20260318VL206/ipo-beijing-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T02:56:50Z"
+    },
+    {
+      "title": "Apple's low-cost MacBook Neo pressures consumer electronics amid rising memory costs",
+      "description": "Apple launched the MacBook Neo in March 2026, featuring an Arm-based A18 Pro processor, with pricing starting at US$599 and US$499 for students. Supply chain sources warn that surging memory costs driven by AI demand are squeezing consumer electronics margins…",
+      "url": "https://www.digitimes.com/news/a20260318PD201/apple-macbook-electronics-processor-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T02:53:37Z"
+    },
+    {
+      "title": "Nebius’s stock falls as investors get a wake-up call on the cost of competing in AI - MarketWatch",
+      "description": "Nebius’s stock falls as investors get a wake-up call on the cost of competing in AIMarketWatch Nebius Stock Falls 12% on Bond Offering. Citi Calls It a ‘High Risk’ Buy.Barron's Nebius, Meta Agree to $27 Billion AI Infrastructure PactWSJ Nebius intends to rais…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181027394",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-18T02:53:05Z"
+    },
+    {
+      "title": "売れるネット広告社グループ、子会社（BCDC.Ai.GPU Data Center株式会社）設立及び高性能GPUサーバーセンター事業参入に関するお知らせ",
+      "description": "[売れるネット広告社グループ株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/73846/413/73846-413-69f39aab344d315a4366b428f9ec02e9-929x416.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000413.000073846.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-18T02:51:18Z"
+    },
+    {
+      "title": "Global Market | Nikkei jumps nearly 2% as AI, chip stocks rally",
+      "description": "Japan's Nikkei index surged on Wednesday, driven by technology stocks. Investors eased worries about rising oil prices, boosting market sentiment. Advantest and SoftBank Group saw significant gains. Shipping firm Mitsui OSK Lines and Mitsubishi Materials also…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-jumps-nearly-2-as-ai-chip-stocks-rally/articleshow/129645867.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-18T02:48:36Z"
+    },
+    {
+      "title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain",
+      "description": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
+      "url": "https://developer.nvidia.com/blog/how-to-build-deep-agents-for-enterprise-search-with-nvidia-ai-q-and-langchain",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-03-18T02:46:16Z"
+    },
+    {
+      "title": "Nvidia secures approvals and orders for H200 in China, restarts supply chain production",
+      "description": "During the GTC 2026 conference, Nvidia CEO Jensen Huang told global media that the company has made new progress in the China market.",
+      "url": "https://www.digitimes.com/news/a20260318PD213/nvidia-2026-gtc-supply-chain-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T02:43:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference",
+      "Jensen Huang's survival playbook: Nvidia navigates the next AI frontier",
+      "Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’",
+      "Japan's key tech workers are now cheaper than Malaysia's",
+      "AMD Medusa Point Leak Shows 10 “Zen 6” Cores At 2 GHz Faster Than 10 “Zen 5” Cores at 5 GHz"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260318VL214/samsung-groq-wafer-nvidia-gtc-2026.html",
+        "https://www.digitimes.com/news/a20260318PD227/nvidia-gtc-jensen-huang-2026-ceo.html",
+        "https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://indianexpress.com/article/technology/tech-news-technology/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-10587916",
+        "https://www.globenewswire.com/news-release/2026/03/18/3257877/0/en/China-takes-the-lead-in-all-Industry-4-0-technologies-ahead-of-U-S-and-Europe.html",
+        "https://www.digitimes.com/news/a20260318PD201/apple-macbook-electronics-processor-2026.html"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://technode.com/2026/03/18/alibaba-cloud-raises-ai-computing-and-storage-prices-by-up-to-34-amid-surging-demand",
+        "http://technode.com/2026/03/18/bytedance-reportedly-delays-doubao-ai-glasses-launch-plan",
+        "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/prozo-expands-hyderabad-footprint-with-1-04-lakh-sq-ft-fulfilment-centre-in-medchal/articleshow/129648093.cms"
+      ]
+    },
+    {
+      "title": "Jensen",
+      "summary": "Grouped stories where \"jensen\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260318PD210/jensen-huang-infrastructure-chips-demand-cost.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://asia.nikkei.com/business/technology/japan-s-key-tech-workers-are-now-cheaper-than-malaysia-s",
+        "https://wccftech.com/amd-medusa-point-leak-10-zen-6-cores-2-ghz-faster-than-10-zen-5-cores-5-ghz",
+        "https://www.naturalnews.com/2026-03-18-trump-blasts-allies-refusal-deploy-warships-hormuz.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 342.3
+        },
+        {
+          "date": "2026-01-29",
+          "close": 339.55
+        },
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        },
+        {
+          "date": "2026-03-10",
+          "close": 347.09
+        },
+        {
+          "date": "2026-03-11",
+          "close": 354.56
+        },
+        {
+          "date": "2026-03-12",
+          "close": 336.71
+        },
+        {
+          "date": "2026-03-13",
+          "close": 338.31
+        },
+        {
+          "date": "2026-03-16",
+          "close": 340.23
+        },
+        {
+          "date": "2026-03-17",
+          "close": 345.98
+        },
+        {
+          "date": "2026-03-18",
+          "close": 339.57
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 252.74
+        },
+        {
+          "date": "2026-01-29",
+          "close": 252.18
+        },
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        },
+        {
+          "date": "2026-03-10",
+          "close": 203.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 204.83
+        },
+        {
+          "date": "2026-03-12",
+          "close": 197.74
+        },
+        {
+          "date": "2026-03-13",
+          "close": 193.39
+        },
+        {
+          "date": "2026-03-16",
+          "close": 196.58
+        },
+        {
+          "date": "2026-03-17",
+          "close": 196.31
+        },
+        {
+          "date": "2026-03-18",
+          "close": 199.46
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 1422.92
+        },
+        {
+          "date": "2026-01-29",
+          "close": 1455.16
+        },
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 1383.87
+        },
+        {
+          "date": "2026-03-11",
+          "close": 1386.68
+        },
+        {
+          "date": "2026-03-12",
+          "close": 1351.58
+        },
+        {
+          "date": "2026-03-13",
+          "close": 1345.69
+        },
+        {
+          "date": "2026-03-16",
+          "close": 1375.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 1389.16
+        },
+        {
+          "date": "2026-03-18",
+          "close": 1355.17
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 48.78
+        },
+        {
+          "date": "2026-01-29",
+          "close": 48.66
+        },
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        },
+        {
+          "date": "2026-03-10",
+          "close": 46.79
+        },
+        {
+          "date": "2026-03-11",
+          "close": 47.98
+        },
+        {
+          "date": "2026-03-12",
+          "close": 45.25
+        },
+        {
+          "date": "2026-03-13",
+          "close": 45.77
+        },
+        {
+          "date": "2026-03-16",
+          "close": 45.76
+        },
+        {
+          "date": "2026-03-17",
+          "close": 44.06
+        },
+        {
+          "date": "2026-03-18",
+          "close": 45.03
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-28",
+          "close": 152.7
+        },
+        {
+          "date": "2026-01-29",
+          "close": 152.22
+        },
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        },
+        {
+          "date": "2026-03-10",
+          "close": 135.21
+        },
+        {
+          "date": "2026-03-11",
+          "close": 134.12
+        },
+        {
+          "date": "2026-03-12",
+          "close": 131.15
+        },
+        {
+          "date": "2026-03-13",
+          "close": 129.82
+        },
+        {
+          "date": "2026-03-16",
+          "close": 129.39
+        },
+        {
+          "date": "2026-03-17",
+          "close": 131.59
+        },
+        {
+          "date": "2026-03-18",
+          "close": 130.47
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The signature on the wafer: Samsung, Nvidia, and Groq close loop on AI inference. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
