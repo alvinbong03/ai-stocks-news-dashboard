@@ -1,0 +1,1031 @@
+{
+  "theme": "ai",
+  "date": "2026-03-20",
+  "last_updated_utc": "2026-03-20T06:48:46.053Z",
+  "news": [
+    {
+      "title": "Nvidia adopts Groq to tackle AI inference and expand global reach",
+      "description": "At its annual GTC conference in San Jose, Nvidia unveiled a major shift in its AI hardware strategy: integrating technology from AI chip startup Groq to address growing demand in AI inference, while simultaneously preparing new products for global markets, in…",
+      "url": "https://www.digitimes.com/news/a20260318VL202/nvidia-groq-gtc-ai-inference-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-18T23:39:29Z"
+    },
+    {
+      "title": "Nvidia elevates AI storage, putting NVMe SSD makers at the center",
+      "description": "Nvidia is recasting storage as a core pillar of AI infrastructure, shifting it from a passive repository to an active extension of memory — a realignment now reshaping data center design and the broader supply chain.",
+      "url": "https://www.digitimes.com/news/a20260318PD242/nvidia-data-ssd-infrastructure-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T05:53:04Z"
+    },
+    {
+      "title": "Intel Xeon 6 wins CPU slot in Nvidia DGX Rubin, stakes claim in AI inference stack",
+      "description": "Intel's Xeon 6 processors have been selected as the host CPU for Nvidia's DGX Rubin NVL8 system — a move announced at GTC 2026 that gives concrete form to the two companies' strategic alliance. The partnership's significance can be gauged through its product …",
+      "url": "https://www.digitimes.com/news/a20260318PD244/intel-xeon-rubin-nvidia-cpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T05:52:46Z"
+    },
+    {
+      "title": "Taiwan's AI supply chain scales at GTC 2026: Foxconn, Wiwynn, Advantech, BizLink deepen Nvidia ties",
+      "description": "Taiwanese hardware vendors expanded their presence at Nvidia GTC 2026, underscoring a coordinated push into AI servers, edge computing, robotics, and data center infrastructure. Foxconn, Wiwynn, Wistron, Advantech, and BizLink showcased capabilities spanning …",
+      "url": "https://www.digitimes.com/news/a20260317PD230/nvidia-gtc-2026-advantech-bizlink-wistron-wiwynn.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T05:51:49Z"
+    },
+    {
+      "title": "Nvidia’s DLSS 5 generative AI graphics reveal has not gone well - Top Gear",
+      "description": "Nvidia’s DLSS 5 generative AI graphics reveal has not gone wellTop Gear NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlashTom'…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181039922",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-19T03:33:11Z"
+    },
+    {
+      "title": "2026 NCAA Tournament bracket projections: Comparing March Madness AI picks by ChatGPT, Copilot, and Gemini",
+      "description": "When does the March Madness 2026 schedule start, and when are 2026 NCAA Tournament brackets due? The 2026 March Madness bracket begins on Thursday, March 19",
+      "url": "https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-by-chatgpt-copilot-and-gemini",
+      "source": "CBS Sports",
+      "publishedAt": "2026-03-19T03:01:38Z"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX: Everything we know",
+      "description": "The LPU, or Language Processing Unit, is a custom AI inference accelerator designed and built by Groq, Inc. Founded in 2016 by Jonathan Ross, a former Google engineer credited as one of the original inventors of the TPU, Groq spent years developing a determin…",
+      "url": "https://www.storagereview.com/news/nvidia-groq-3-lpx-everything-we-know",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-03-19T01:57:40Z"
+    },
+    {
+      "title": "Nvidia signals optical future, but materials shortages stand in the way",
+      "description": "Riding a surge in demand for optical communications driven by artificial intelligence (AI), Taiwan's compound semiconductor makers—including Visual Photonics Epitaxy, IntelliEPI, WIN Semiconductors, GCS Holdings, and Advanced Wireless Semiconductor Company—ar…",
+      "url": "https://www.digitimes.com/news/a20260319PD206/nvidia-optical-communications-cpo-intelliepi.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T01:41:24Z"
+    },
+    {
+      "title": "On-demand GPU startup Andromeda raises funding at $1.5B valuation",
+      "description": "Andromeda AI Inc., a startup that helps companies rent artificial intelligence infrastructure, has closed a new funding round at a $1.5 billion valuation. Upstarts Media reported today that the capital was provided by Paradigm, a venture capital firm focused …",
+      "url": "https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-19T01:39:24Z"
+    },
+    {
+      "title": "Anthropic's Claude claws its way towards the top of the AI market",
+      "description": "Who knew questioning authority and signaling virtue would lead to growth?\nAnthropic has been killing it in the business market, success that appears to be at least partially attributable to pushback against the Pentagon.…",
+      "url": "https://www.theregister.com/2026/03/19/anthropic_claude_market_share",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-19T00:28:08Z"
+    },
+    {
+      "title": "Artificial intelligence technology for music teaching reform mode under DCNN algorithm",
+      "description": "The purpose of this paper is to explore the reform and innovation mode of music teaching driven by artificial intelligence (AI). By introducing the Dilated Convolutional Neural Network (DCNN) algorithm and further integrating the attention mechanism, an audio…",
+      "url": "https://www.nature.com/articles/s41598-026-45027-w",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-19T00:00:00Z"
+    },
+    {
+      "title": "BMG Sues Anthropic for Alleged Training of Chatbot With Justin Bieber, Bruno Mars, Rolling Stones Lyrics",
+      "description": "BMG claims Anthropic used lyrics from artists including Justin Bieber, Bruno Mars, Ariana Grande, and the Rolling Stones to train its Claude chatbot.",
+      "url": "http://www.rollingstone.com/music/music-news/bmg-anthropic-copyright-lawsuit-justin-bieber-bruno-mars-1235533474",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-03-18T23:08:39Z"
+    },
+    {
+      "title": "Navratri 2026: 10 Google Gemini prompts to turn your selfies into viral Navratri portraits",
+      "description": "Navratri enthusiasts are transforming everyday selfies into stunning festival portraits using Google Gemini's AI. Users are employing specific prompts to generate realistic images of themselves in traditional attire, complete with intricate details and festiv…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/navratri-2026-10-google-gemini-prompts-to-turn-your-selfies-into-viral-navratri-portraits/articleshow/129672166.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-19T06:22:16Z"
+    },
+    {
+      "title": "Nvidia standardizes Vera Rubin liquid cooling, names four cold plate suppliers",
+      "description": "Nvidia plans to launch its next-generation AI server architecture, Vera Rubin, in the second half of 2026, with liquid cooling set to become standard. The company will centralize procurement of cold plates and, at GTC, named four suppliers: Asia Vital Compone…",
+      "url": "https://www.digitimes.com/news/a20260318PD231/nvidia-rubin-liquid-cooling-ai-server-launch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T05:52:41Z"
+    },
+    {
+      "title": "Nvidia GTC 2026: Techman Robot showcases motion training tech",
+      "description": "Techman Robot demonstrated its humanoid robot TM Xplore I, and advanced motion training technology at Nvidia GTC 2026. The company announced a partnership with motion capture specialist J-Mex to integrate J-Mex's MOXI wearable motion capture system, enabling …",
+      "url": "https://www.digitimes.com/news/a20260318PD239/techman-nvidia-training-2026-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T05:52:02Z"
+    },
+    {
+      "title": "Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
+      "description": "The Tesla CEO also said that the company expects a wide release of an update to its Full Self-Driving (Supervised) software in a few weeks",
+      "url": "https://www.thehindubusinessline.com/info-tech/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale/article70760541.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-19T05:22:57Z"
+    },
+    {
+      "title": "Show HN: UI-stack – Claude skill that enforces design system on AI-generated UI",
+      "description": "The problem with AI-generated frontend code is that without constraints, every generation picks different spacing, colors, and patterns. The 50th component looks nothing like the first.\nui-stack is a Claude Code skill — a set of structured reference files tha…",
+      "url": "https://ui-stack.dev/",
+      "source": "Ui-stack.dev",
+      "publishedAt": "2026-03-19T04:46:57Z"
+    },
+    {
+      "title": "Val Kilmer to appear posthumously in new film using generative AI",
+      "description": "The actor’s daughter says the role resonated with her father",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/val-kilmer-ai-posthumous-movie-b2941507.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-03-19T04:41:15Z"
+    },
+    {
+      "title": "What Is OpenAI Sora and How Can Developers Use It for Video Generation?",
+      "description": "Discover OpenAI Sora: the AI video generator transforming content creation. Learn how developers can use it to automate video production and build innovative applications.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-openai-sora-and-how-can-developers-use-it-for-video-generation",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-19T04:00:41Z"
+    },
+    {
+      "title": "Generative AI improves a wireless vision system that sees through obstructions",
+      "description": "Wave-Former is a new system that can complete the shape of a hidden 3D object or reconstruct the scene of an entire interior room using reflected wireless signals.",
+      "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+      "source": "Mit.edu",
+      "publishedAt": "2026-03-19T04:00:00Z"
+    },
+    {
+      "title": "Elon Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
+      "description": "Tesla is designing ‌its ⁠fifth-generation AI ⁠chip to power its autonomous ambitions. The ​chips power Tesla's autonomous driving systems, including the Full ​Self-Driving software.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-at-scale/articleshow/129670021.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-19T03:44:39Z"
+    },
+    {
+      "title": "AMD, Samsung deepen AI chip ties with HBM4 supply and foundry talks",
+      "description": "AMD CEO Lisa Su met Samsung Chairman Lee Jae-yong on March 18, the same day the two companies signed a memorandum of understanding (MOU) to expand semiconductor cooperation, signalling a broader push into AI chips, memory, and foundry services.",
+      "url": "https://www.digitimes.com/news/a20260319PD218/samsung-amd-hbm4-ai-chip.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-19T03:29:02Z"
+    },
+    {
+      "title": "Intelligent Machines 862: Ménage à Claude",
+      "description": "Who gets to define what intelligence means in the age of AI, and why are tech companies so keen to shift blame onto their creations? This episode digs into moral outsourcing, agency, and the urgent need for independent oversight in the world of artificial int…",
+      "url": "https://twit.tv/shows/intelligent-machines/episodes/862",
+      "source": "Twit.tv",
+      "publishedAt": "2026-03-19T02:19:03Z"
+    },
+    {
+      "title": "Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit",
+      "description": "Sekhon, who served as chief scientist and head of AI, will join Bridgewater's board of directors after leaving his current roles there, according to a post by ‌Hassabis on LinkedIn.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/bridgewaters-chief-scientist-sekhon-to-join-googles-deepmind-ai-unit/articleshow/129668851.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-19T01:53:54Z"
+    },
+    {
+      "title": "Musk says SpaceX AI, Tesla will keep ordering Nvidia chips at scale",
+      "description": "March 18 : Billionaire Elon Musk said late on Thursday that his companies SpaceX AI and Tesla expect to continue ordering Nvidia chips at scale.",
+      "url": "https://www.channelnewsasia.com/business/musk-says-spacex-ai-tesla-will-keep-ordering-nvidia-chips-scale-6003076",
+      "source": "CNA",
+      "publishedAt": "2026-03-19T01:32:27Z"
+    },
+    {
+      "title": "Nvidia CEO says the gamers rejecting the company's controversial AI are 'completely wrong' - Polygon.com",
+      "description": "Nvidia CEO says the gamers rejecting the company's controversial AI are 'completely wrong'Polygon.com NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO r…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181039108",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-19T00:52:38Z"
+    },
+    {
+      "title": "Microsoft Considers Legal Action Over $50 Billion Amazon-OpenAI Cloud Deal",
+      "description": "Microsoft is considering legal action against its partner OpenAI and Amazon over a $50 billion deal that could violate its exclusive cloud agreement with the ChatGPT maker, the Financial Times reported on Wednesday. Last month, Amazon and OpenAI signed severa…",
+      "url": "https://slashdot.org/submission/17345716/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-19T00:11:58Z"
+    },
+    {
+      "title": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns",
+      "description": "Advocacy groups say the OpenAI-backed measure would limit legal accountability and lock in narrow protections for children.",
+      "url": "https://decrypt.co/361638/coalition-openai-scrap-ai-ballot-measure-child-safety",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-18T23:32:31Z"
+    },
+    {
+      "title": "日本語特化LLM「Rakuten AI 3.0」提供開始",
+      "description": "1 名前：名無しさん＠おーぷん[] 投稿日：26/03/18(水) 13:12:43 ID:PuIB\n日本語特化LLM「Rakuten AI 3.0」提供開始 https://t.co/e9tO1CXRXZ pic.twitter.com/ucmiyH4gR4— Impress Watch (@impress_watch) March 17, 2026 \n\n\n\n2 名前：名無しさん＠おーぷん[] 投稿日：2...",
+      "url": "http://blog.livedoor.jp/news23vip/archives/6235707.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-03-18T23:30:54Z"
+    },
+    {
+      "title": "Show HN: A Genetic algorithm that red-teams your copy with 100 LLM personas",
+      "description": "Hey everyone,I know a product like this will get banned on HN, but I think the technical part is interesting, so I’m taking my shot here.problem: \nYou try to get ChatGPT to write your landing page copy or email and it comes back... cringe. It's generic. It's …",
+      "url": "https://crashtestcopy.com/",
+      "source": "Crashtestcopy.com",
+      "publishedAt": "2026-03-18T23:09:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia adopts Groq to tackle AI inference and expand global reach",
+      "Nvidia elevates AI storage, putting NVMe SSD makers at the center",
+      "Intel Xeon 6 wins CPU slot in Nvidia DGX Rubin, stakes claim in AI inference stack",
+      "Taiwan's AI supply chain scales at GTC 2026: Foxconn, Wiwynn, Advantech, BizLink deepen Nvidia ties",
+      "Nvidia’s DLSS 5 generative AI graphics reveal has not gone well - Top Gear"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260318VL202/nvidia-groq-gtc-ai-inference-chips.html",
+        "https://www.digitimes.com/news/a20260318PD242/nvidia-data-ssd-infrastructure-gtc.html",
+        "https://www.digitimes.com/news/a20260318PD244/intel-xeon-rubin-nvidia-cpu.html"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cbssports.com/general/news/2026-ncaa-tournament-bracket-projections-comparing-march-madness-ai-picks-by-chatgpt-copilot-and-gemini",
+        "https://timesofindia.indiatimes.com/etimes/trending/navratri-2026-10-google-gemini-prompts-to-turn-your-selfies-into-viral-navratri-portraits/articleshow/129672166.cms",
+        "http://blog.livedoor.jp/news23vip/archives/6235707.html"
+      ]
+    },
+    {
+      "title": "Companies",
+      "summary": "Grouped stories where \"companies\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation",
+        "https://www.digitimes.com/news/a20260319PD218/samsung-amd-hbm4-ai-chip.html",
+        "https://twit.tv/shows/intelligent-machines/episodes/862"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.theregister.com/2026/03/19/anthropic_claude_market_share",
+        "https://www.nature.com/articles/s41598-026-45027-w",
+        "http://www.rollingstone.com/music/music-news/bmg-anthropic-copyright-lawsuit-justin-bieber-bruno-mars-1235533474"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-29",
+          "close": 192.51
+        },
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia adopts Groq to tackle AI inference and expand global reach. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-29",
+          "close": 433.5
+        },
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia adopts Groq to tackle AI inference and expand global reach. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-29",
+          "close": 338.25
+        },
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia adopts Groq to tackle AI inference and expand global reach. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-29",
+          "close": 241.73
+        },
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia adopts Groq to tackle AI inference and expand global reach. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-29",
+          "close": 738.31
+        },
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia adopts Groq to tackle AI inference and expand global reach. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
