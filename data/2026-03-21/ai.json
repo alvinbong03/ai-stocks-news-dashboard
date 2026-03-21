@@ -1,0 +1,974 @@
+{
+  "theme": "ai",
+  "date": "2026-03-21",
+  "last_updated_utc": "2026-03-21T06:37:21.222Z",
+  "news": [
+    {
+      "title": "Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core",
+      "description": "Running a large language model on a single machine without cloud access or a container runtime remains a priority for practitioners working in air-gapped or resource-constrained environments. Llamafile, Mozilla-AI’s project for packaging and running LLMs as s…",
+      "url": "https://www.helpnetsecurity.com/2026/03/20/llamafile-0-10-0-released",
+      "source": "Help Net Security",
+      "publishedAt": "2026-03-20T05:00:53Z"
+    },
+    {
+      "title": "Cosmote Telekom: New Business Cloud Services featuring GPU-as-a-Service for AI Applications",
+      "description": "Cosmote Telekom has announced new Business Cloud services powered by its Data Center infrastructure, with a strategic focus on GPU-as-a-Service capabilities. These services are designed for Artificial Intelligence (AI) applications,…\nCosmote Telekom: New Busi…",
+      "url": "https://www.naftemporiki.gr/english/2088046/cosmote-telekom-new-business-cloud-services-featuring-gpu-as-a-service-for-ai-applications",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-03-20T05:12:40Z"
+    },
+    {
+      "title": "Nvidia strategy at GTC 2026 blocks ASIC rivals with Groq deal",
+      "description": "At GTC 2026, Nvidia unveiled a strategic US$20 billion partnership with AI chip startup Groq, licensing its LPU technology and hiring key team members to integrate advanced inference capabilities into the Vera Rubin server stack. This move positions Nvidia to…",
+      "url": "https://www.digitimes.com/news/a20260320PD212/nvidia-gtc-groq-asic-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T04:00:31Z"
+    },
+    {
+      "title": "Three charged with sneaking Nvidia AI chips from US into China",
+      "description": "Employees of a US computer company raked in billions of dollars diverting Nvidia artificial intelligence chips to China in violation of export controls, according to an indictment unsealed Thursday. Yih-Shyan “Wally” Liaw, 71, of Silicon Valley conspired with…",
+      "url": "https://www.digitaljournal.com/world/three-charged-with-sneaking-nvidia-ai-chips-from-us-into-china/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-03-20T01:42:34Z"
+    },
+    {
+      "title": "OpenAI plans new 'super app' merging ChatGPT, Codex, and Atlas as competition with Anthropic for enterprise customers heats up",
+      "description": "OpenAI is planning to launch a \"super app\" combining its ChatGPT app, browser Atlas, and coding platform Codex, according to the Wall Street Journal. The strategic shift comes as the company faces competition from rival Anthropic in capturing the enterprise a…",
+      "url": "https://www.digitimes.com/news/a20260320VL211/openai-chatgpt-ai-applications-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T04:28:15Z"
+    },
+    {
+      "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
+      "description": "After a dispute between Anthropic and the ​Pentagon over guardrails for how the military could use its artificial intelligence tools, Defense Secretary Pete Hegseth designated the company a supply-chain risk ​on March 3, barring its use by the Pentagon and it…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T02:36:46Z"
+    },
+    {
+      "title": "Nvidia to supply 1 million GPUs to Amazon through 2027 in landmark AI cloud deal",
+      "description": "Nvidia will supply 1 million graphics processing units (GPUs) to Amazon.com's cloud computing division by 2027 in one of the largest artificial intelligence infrastructure agreements to date, a company executive told Reuters.",
+      "url": "https://www.digitimes.com/news/a20260320VL207/nvidia-2027-amazon-infrastructure-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T02:29:54Z"
+    },
+    {
+      "title": "Super Micro Dives As U.S. Accuses Execs Of Smuggling Nvidia Chips To China - Investor's Business Daily",
+      "description": "Super Micro Dives As U.S. Accuses Execs Of Smuggling Nvidia Chips To ChinaInvestor's Business Daily Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors chargeCNBC Three charged with sneaking Nvidia AI chips from US…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181052606",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T02:12:36Z"
+    },
+    {
+      "title": "Super Micro co-founder arrested over alleged $2.5B AI chip smuggling scheme",
+      "description": "US authorities say they have charged and arrested Supermicro co-founder Yih-Shyan “Wally” Liaw for allegedly funnelling $2.5 billion in AI servers to China through shell companies.",
+      "url": "https://cointelegraph.com/news/super-micro-co-founder-arrested-in-2-5b-ai-chip-smuggling-scheme-to-china",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-20T06:03:01Z"
+    },
+    {
+      "title": "OpenAI may launch desktop app for ChatGPT and coding tools",
+      "description": "OpenAI is reportedly developing a unified desktop app that will combine ChatGPT, its browser and the Codex coding tool into...\nThe post OpenAI may launch desktop app for ChatGPT and coding tools appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-may-launch-desktop-app-for-chatgpt-and-coding-tools",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-03-20T05:34:31Z"
+    },
+    {
+      "title": "Google preps a Gemini Mac app with smarter features",
+      "description": "Google is testing a dedicated Gemini app for macOS internally. This could unlock deeper, system-level Gemini-powered AI features on the Mac.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+      "url": "https://www.cultofmac.com/news/google-preps-a-gemini-mac-app-with-smarter-features",
+      "source": "Cult of Mac",
+      "publishedAt": "2026-03-20T05:08:31Z"
+    },
+    {
+      "title": "What Are Subagents in ChatGPT and How Do They Work for Faster AI Task Completion?",
+      "description": "Learn what subagents in ChatGPT are, how they work, where they appear today, and how to use them for coding, research, reviews, and team workflows.",
+      "url": "https://www.c-sharpcorner.com/article/what-are-subagents-in-chatgpt-and-how-do-they-work-for-faster-ai-task-completion",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-20T04:59:31Z"
+    },
+    {
+      "title": "OpenClaw is the next ChatGPT: Nvidia CEO Jensen Huang",
+      "description": "In an interview with CNBC on Tuesday, Huang emphasised that OpenClaw enables users to perform complex tasks and automation with minimal effort.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openclaw-is-the-next-chatgpt-nvidia-ceo-jensen-huang/articleshow/129692368.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T04:44:27Z"
+    },
+    {
+      "title": "Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal",
+      "description": "The deal would help scale capacity as AWS builds its own chips, revealing deeper reliance on Nvidia’s stack as usage keeps growing.",
+      "url": "https://decrypt.co/361867/nvidia-deepens-grip-cloud-ai-major-aws-chip-deal",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-20T04:29:21Z"
+    },
+    {
+      "title": "OpenAI is putting ChatGPT, its browser and code generator into one desktop app",
+      "description": "OpenAI is developing a “super app” for desktop that unifies ChatGPT, its browser and its Codex app, according to the Wall Street Journal and CNBC . A company spokesperson told the publications that OpenAI Chief of Applications Fidji Simo will lead the applica…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181052870",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T03:12:07Z"
+    },
+    {
+      "title": "Supermicro co-founder charged in US$2.5 billion AI chip smuggling scheme to China",
+      "description": "US Federal prosecutors have charged a co-founder of Super Micro Computer Inc. (Supermicro) and two associates in a massive conspiracy to illegally divert billions of dollars worth of restricted AI technology to China.",
+      "url": "https://www.digitimes.com/news/a20260320VL208/supermicro-legal-us-chip-restrictions-ai-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T01:45:28Z"
+    },
+    {
+      "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
+      "description": "A senior vice president of Super Micro Computer Inc. and two others affiliated with the company have been charged with conspiring to smuggle billions of dollars of computer servers containing advanced Nvidia chips to China",
+      "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-20T01:41:51Z"
+    },
+    {
+      "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
+      "description": "A senior vice president of Super Micro Computer Inc. and two others affiliated with the company have been charged with conspiring to smuggle billions of dollars of computer servers containing advanced Nvidia chips to China",
+      "url": "https://abcnews.com/Business/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237824",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-20T01:41:45Z"
+    },
+    {
+      "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
+      "description": "A senior vice president of Super Micro Computer Inc. and two others affiliated with the company have been charged with conspiring to smuggle billions of dollars of computer servers containing advanced Nvidia chips to China",
+      "url": "https://abcnews.com/Technology/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237825",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-20T01:41:37Z"
+    },
+    {
+      "title": "Jeremy O. Harris Drunkenly Called OpenAI Boss Sam Altman a Nazi at Post-Oscars Party",
+      "description": "Jeremy O. Harris had a drunken confrontation with AI mogul Sam Altman at the Vanity Fair Oscar party. The famous playwright reportedly approached the OpenAI boss and called him a Nazi amid his firm’s new dealing with the Department of War, shares Page Six. So…",
+      "url": "https://www.justjared.com/2026/03/19/jeremy-o-harris-drunkenly-called-openai-boss-sam-altman-a-nazi-at-post-oscars-party",
+      "source": "Just Jared",
+      "publishedAt": "2026-03-20T01:41:33Z"
+    },
+    {
+      "title": "Ubuntu 配置 Claude Code + MiniMax - wangfeng1995",
+      "description": "安装Claude Code Claude Code 安装文档的官网为：https://code.claude.com/docs/en/setup Native 安装命令为： curl -fsSL https://claude.ai/install.sh | bash 但是一般国内 Native In",
+      "url": "https://www.cnblogs.com/wangfengpku/p/19742070",
+      "source": "Cnblogs.com",
+      "publishedAt": "2026-03-20T01:37:00Z"
+    },
+    {
+      "title": "Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors charge - CNBC",
+      "description": "Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors chargeCNBC Three Charged With Conspiring To Unlawfully Divert U.S. Artificial Intelligence Technology To ChinaDepartment of Justice (.gov) US charges 3 people tie…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181052358",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T01:32:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core",
+      "Cosmote Telekom: New Business Cloud Services featuring GPU-as-a-Service for AI Applications",
+      "Nvidia strategy at GTC 2026 blocks ASIC rivals with Groq deal",
+      "Three charged with sneaking Nvidia AI chips from US into China",
+      "OpenAI plans new 'super app' merging ChatGPT, Codex, and Atlas as competition with Anthropic for enterprise customers heats up"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260320PD212/nvidia-gtc-groq-asic-2026.html",
+        "https://www.digitaljournal.com/world/three-charged-with-sneaking-nvidia-ai-chips-from-us-into-china/article",
+        "https://www.digitimes.com/news/a20260320VL207/nvidia-2027-amazon-infrastructure-chips.html"
+      ]
+    },
+    {
+      "title": "Super",
+      "summary": "Grouped stories where \"super\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260320VL211/openai-chatgpt-ai-applications-anthropic.html",
+        "https://cointelegraph.com/news/super-micro-co-founder-arrested-in-2-5b-ai-chip-smuggling-scheme-to-china",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181052870"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naftemporiki.gr/english/2088046/cosmote-telekom-new-business-cloud-services-featuring-gpu-as-a-service-for-ai-applications",
+        "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/03/20/llamafile-0-10-0-released",
+        "https://www.yugatech.com/news/openai-may-launch-desktop-app-for-chatgpt-and-coding-tools",
+        "https://www.cultofmac.com/news/google-preps-a-gemini-mac-app-with-smarter-features"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

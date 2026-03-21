@@ -1,0 +1,1096 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-21",
+  "last_updated_utc": "2026-03-21T06:37:43.245Z",
+  "news": [
+    {
+      "title": "HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain",
+      "description": "The global CMOS image sensor (CIS) supply chain faces a major disruption as HiSilicon, Huawei's core semiconductor subsidiary, officially enters the high-end CIS market with its first self-developed sensor chip. Partnering with strategic collaborator Gkuvisio…",
+      "url": "https://www.digitimes.com/news/a20260320PD209/cis-hisilicon-sensor-supply-chain-cmos.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T06:33:11Z"
+    },
+    {
+      "title": "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China - Fortune",
+      "description": "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to ChinaFortune Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export lawsCNN U.S. prosecutors charge Super Micr…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181053830",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T06:33:03Z"
+    },
+    {
+      "title": "India’s auto boom at risk as Iran-Israel war chokes gas supplies, straining supply chains",
+      "description": "Some parts suppliers to leading carmakers like Maruti Suzuki, Tata Motors and Mahindra are already reporting a shortage of gas to power operations, an early sign that supply chain issues are developing, sources said",
+      "url": "https://www.thehindubusinessline.com/economy/indias-auto-boom-at-risk-as-iran-israel-war-chokes-gas-supplies-straining-supply-chains/article70764189.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-20T06:14:50Z"
+    },
+    {
+      "title": "Super Micro co-founder arrested over alleged $2.5B AI chip smuggling scheme",
+      "description": "US authorities say they have charged and arrested Supermicro co-founder Yih-Shyan “Wally” Liaw for allegedly funnelling $2.5 billion in AI servers to China through shell companies.",
+      "url": "https://cointelegraph.com/news/super-micro-co-founder-arrested-in-2-5b-ai-chip-smuggling-scheme-to-china",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-20T06:03:01Z"
+    },
+    {
+      "title": "Leaked order shows why the Pentagon is really seizing control of Anthropic’s AI",
+      "description": "Anthropic sued the U.S. Department of War to block a “supply-chain risk” designation after refusing the Pentagon broad access to its Claude AI. The company cited ethical concerns, like preventing use for mass domestic surveillance or autonomous weapons. Micro…",
+      "url": "https://www.naturalnews.com/2026-03-20-pentagon-is-seizing-control-of-anthropics-ai.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-20T06:00:00Z"
+    },
+    {
+      "title": "Dematic Redefines Warehouse Intelligence with Launch of Command Center",
+      "description": "Advanced analytics solution will be unveiled at LogiMAT 2026 and showcased at MODEX 2026. ATLANTA, March 20, 2026 /PRNewswire/ -- Dematic, a global leader in supply chain automation announces Command Center, a vendor-agnostic, centralized intelligence platfor…",
+      "url": "https://www.prnewswire.co.uk/news-releases/dematic-redefines-warehouse-intelligence-with-launch-of-command-center-302719300.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-03-20T06:00:00Z"
+    },
+    {
+      "title": "Lynas's samarium oxide debut in Malaysia strengthens supply chain alternative to China",
+      "description": "Lynas Rare Earths has achieved first production of samarium oxide at Lynas Malaysia, expanding its range of separated heavy rare earth oxides to three and reinforcing its status as the only commercial producer of separated HRE oxides outside China, developmen…",
+      "url": "https://www.digitimes.com/news/a20260320VL200/rare-earth-commercial-production-malaysia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T05:58:17Z"
+    },
+    {
+      "title": "New infosec products of the week: March 20, 2026",
+      "description": "Here’s a look at the most interesting products from the past week, featuring releases from Intel 471, Kore.ai, NinjaOne, Pindrop, Secure Code Warrior, Token Security, and Xona Systems. NinjaOne Vulnerability Management enables real-time detection and autonomo…",
+      "url": "https://www.helpnetsecurity.com/2026/03/20/new-infosec-products-of-the-week-march-20-2026",
+      "source": "Help Net Security",
+      "publishedAt": "2026-03-20T05:30:40Z"
+    },
+    {
+      "title": "Cosmote Telekom: New Business Cloud Services featuring GPU-as-a-Service for AI Applications",
+      "description": "Cosmote Telekom has announced new Business Cloud services powered by its Data Center infrastructure, with a strategic focus on GPU-as-a-Service capabilities. These services are designed for Artificial Intelligence (AI) applications,…\nCosmote Telekom: New Busi…",
+      "url": "https://www.naftemporiki.gr/english/2088046/cosmote-telekom-new-business-cloud-services-featuring-gpu-as-a-service-for-ai-applications",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-03-20T05:12:40Z"
+    },
+    {
+      "title": "Instant, real-time video AI is now upon us, for better and worse",
+      "description": "A new real-time video AI model was demonstrated yesterday, capable of generating its first frame in less than a tenth of a second. If you feel like the world's out of control right now and full of AI bullshit, just wait for what's coming.Continue ReadingCateg…",
+      "url": "https://newatlas.com/ai-humanoids/runway-real-time-ai-video",
+      "source": "New Atlas",
+      "publishedAt": "2026-03-20T05:03:00Z"
+    },
+    {
+      "title": "Llamafile, Mozilla’s portable LLM runner, gets GPU support and a rebuilt core",
+      "description": "Running a large language model on a single machine without cloud access or a container runtime remains a priority for practitioners working in air-gapped or resource-constrained environments. Llamafile, Mozilla-AI’s project for packaging and running LLMs as s…",
+      "url": "https://www.helpnetsecurity.com/2026/03/20/llamafile-0-10-0-released",
+      "source": "Help Net Security",
+      "publishedAt": "2026-03-20T05:00:53Z"
+    },
+    {
+      "title": "Trump’s Mideast muddle could play into Xi’s hands at planned summit",
+      "description": "Analysts say Trump’s Middle East conflict weakens his position, giving Xi Jinping leverage in an upcoming summit to discuss tariffs and global supply chain\n\nRead More: https://punchng.com/trumps-mideast-muddle-could-play-into-xis-hands-at-planned-summit/",
+      "url": "https://punchng.com/trumps-mideast-muddle-could-play-into-xis-hands-at-planned-summit",
+      "source": "The Punch",
+      "publishedAt": "2026-03-20T04:48:40Z"
+    },
+    {
+      "title": "OpenClaw is the next ChatGPT: Nvidia CEO Jensen Huang",
+      "description": "In an interview with CNBC on Tuesday, Huang emphasised that OpenClaw enables users to perform complex tasks and automation with minimal effort.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openclaw-is-the-next-chatgpt-nvidia-ceo-jensen-huang/articleshow/129692368.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T04:44:27Z"
+    },
+    {
+      "title": "Analysis: From handshakes to handcuffs — How Supermicro co-founder's GTC appearance ends in federal indictment",
+      "description": "At NVIDIA GTC 2026, Super Micro Computer (Supermicro) appeared firmly at the center of the AI infrastructure boom. The company showcased its deepening collaboration with Nvidia and welcomed CEO Jensen Huang to its booth in a highly public display of partnersh…",
+      "url": "https://www.digitimes.com/news/a20260320VL212/gtc-supermicro-2026-nvidia-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T04:42:38Z"
+    },
+    {
+      "title": "Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal",
+      "description": "The deal would help scale capacity as AWS builds its own chips, revealing deeper reliance on Nvidia’s stack as usage keeps growing.",
+      "url": "https://decrypt.co/361867/nvidia-deepens-grip-cloud-ai-major-aws-chip-deal",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-20T04:29:21Z"
+    },
+    {
+      "title": "Trio charged over alleged plot to smuggle Nvidia chips from US to China",
+      "description": "They allegedly used fake papers and dummy gear as part of a plan to sell billions in tech to China.",
+      "url": "https://www.bbc.com/news/articles/cy41ly2d9wko",
+      "source": "BBC News",
+      "publishedAt": "2026-03-20T04:26:14Z"
+    },
+    {
+      "title": "GPU fans 0rpm constantly and for a few seconds jumps to 1900rpm then back to 0",
+      "description": "GPU fans  0rpm constantly and for a few seconds jumps to 1900rpm then back to 0 - posted in Internal Hardware: So the thing is that i notice i have high temps in a few minutes when gaming (87°) i change thermal paste, cooling, etc. then i notice that even whe…",
+      "url": "https://www.bleepingcomputer.com/forums/t/815057/gpu-fans-0rpm-constantly-and-for-a-few-seconds-jumps-to-1900rpm-then-back-to-0",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-03-20T04:10:02Z"
+    },
+    {
+      "title": "Jensen Huang says he will be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens",
+      "description": "\"If that $500,000 engineer did not consume at least $250,000 worth of tokens, I am going to be deeply alarmed,\" says Nvidia CEO Jensen Huang.",
+      "url": "https://www.businessinsider.com/jensen-huang-500k-engineers-250k-ai-tokens-nvidia-compute-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-20T04:03:14Z"
+    },
+    {
+      "title": "Nvidia strategy at GTC 2026 blocks ASIC rivals with Groq deal",
+      "description": "At GTC 2026, Nvidia unveiled a strategic US$20 billion partnership with AI chip startup Groq, licensing its LPU technology and hiring key team members to integrate advanced inference capabilities into the Vera Rubin server stack. This move positions Nvidia to…",
+      "url": "https://www.digitimes.com/news/a20260320PD212/nvidia-gtc-groq-asic-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T04:00:31Z"
+    },
+    {
+      "title": "When secrets walk out the door: TSMC's cross-border IP battle tests Taiwan's legal reach",
+      "description": "TSMC built its dominance not just on cutting-edge fabs, but on closely guarded know-how that rivals cannot easily replicate. Now, that edge is at the center of a high-stakes legal fight. Former senior vice president Wei-jen Lo stands accused of walking out wi…",
+      "url": "https://www.digitimes.com/news/a20260320PD217/tsmc-taiwan-legal-president-investigation.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T03:59:43Z"
+    },
+    {
+      "title": "Commentary: Nvidia sees Groq as its next Mellanox",
+      "description": "Since the start of 2026, Jensen Huang has twice drawn a striking parallel: likening a potential deal involving Groq to Nvidia's 2020 acquisition of Mellanox Technologies. He first made the comparison during a late-February earnings call, and again in an inter…",
+      "url": "https://www.digitimes.com/news/a20260320PD214/groq-nvidia-2026-jensen-huang-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T03:54:19Z"
+    },
+    {
+      "title": "The European Commission decides to reduce taxes in its member countries due to the increased oil cost.",
+      "description": "The European Commission has requested its member states to cut taxes and charges imposed on electricity bills, with the aim of providing relief to consumers and businesses suffering from continuously rising energy prices due to global conflicts. This new prop…",
+      "url": "https://english.gossiplankanews.com/2026/03/the-european-commission-decides-to.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-03-20T03:35:18Z"
+    },
+    {
+      "title": "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China",
+      "description": "The arrest of board member Yih-Shyan “Wally” Liaw—who previously resigned following an accounting scandal in 2018—led an after-hours trading drop of 12% in the Nvidia-linked server manufacturer's stock.",
+      "url": "https://fortune.com/2026/03/19/supermicro-arrested-founder-smuggling-gpu-china",
+      "source": "Fortune",
+      "publishedAt": "2026-03-20T03:32:46Z"
+    },
+    {
+      "title": "Super Micro Computer Employees Arrested for Alleged Sales to China - WSJ",
+      "description": "Super Micro Computer Employees Arrested for Alleged Sales to ChinaWSJ U.S. prosecutors charge Super Micro Computer employees with smuggling Nvidia chips to ChinaCNBC Three Charged With Conspiring To Unlawfully Divert U.S. Artificial Intelligence Technology To…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181053004",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T03:32:45Z"
+    },
+    {
+      "title": "Review: XPPen Artist Pro 27 (gen 2) 4K touchscreen pen display",
+      "description": "Review: XPPen Artist Pro 27 (gen 2) 4K touchscreen pen display\n\r\n\nReview unit provided by XPPen\r\n\nXPPen has just released the Artist Pro 27 (gen 2), a 27-inch 4K touchscreen pen display, on 20 March 2026. Price at the time of review is USD 1899 (Euro 1999, £1…",
+      "url": "http://www.parkablogs.com/content/xppen-artist-pro-27-gen-2-4k-touchscreen-pen-display",
+      "source": "Parkablogs.com",
+      "publishedAt": "2026-03-20T03:25:56Z"
+    },
+    {
+      "title": "MediaTek on cruise control as chipmakers scramble for next-gen silicon photonics standards",
+      "description": "Nvidia GTC 2026 and the Optical Fiber Communication Conference (OFC) have underscored the growing importance of optical communication in cloud AI, with chipmakers playing an increasingly critical role in the ecosystem.",
+      "url": "https://www.digitimes.com/news/a20260320PD207/silicon-photonics-mediatek-chipmakers-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T03:23:47Z"
+    },
+    {
+      "title": "Scaling the final frontier: Supply chain strategies from Paris Space Week 2026",
+      "description": "With a sharp focus on \"New Space\" industrialization, Paris Space Week 2026 (PSW) highlights a critical shift: the space industry is moving away from bespoke, low-volume \"lab work\" toward high-volume, standardized manufacturing. For the tech supply chain — par…",
+      "url": "https://www.digitimes.com/news/a20260320VL210.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T03:12:58Z"
+    },
+    {
+      "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
+      "description": "After a dispute between Anthropic and the ​Pentagon over guardrails for how the military could use its artificial intelligence tools, Defense Secretary Pete Hegseth designated the company a supply-chain risk ​on March 3, barring its use by the Pentagon and it…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T02:36:46Z"
+    },
+    {
+      "title": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal",
+      "description": "Nvidia and Amazon Web Services said this week that AWS had reached a deal to buy ‌its 1 ⁠million GPUs ⁠but had not disclosed the precise timing of the deal. Ian Buck, vice president ​of hyperscale and high-performance computing at Nvidia, told Reuters on Thur…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal/articleshow/129690789.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T02:33:34Z"
+    },
+    {
+      "title": "Samsung signals AI memory shift with HBM showcase at 2026 shareholders meeting",
+      "description": "Samsung Electronics held its 57th annual shareholders meeting on March 18 in Suwon, South Korea, where it unveiled advanced memory products, including high-bandwidth memory (HBM), signaling a strategic push to strengthen its semiconductor competitiveness.",
+      "url": "https://www.digitimes.com/news/a20260318PD232/samsung-hbm-2026-2025-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T02:31:02Z"
+    },
+    {
+      "title": "EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why",
+      "description": "EndeavorOS Titan is the newest release in this Arch-based distribution, and it is well worth the update, especially if you depend on proper GPU drivers.",
+      "url": "https://www.zdnet.com/article/endeavoros-titan-hands-on",
+      "source": "ZDNet",
+      "publishedAt": "2026-03-20T02:30:39Z"
+    },
+    {
+      "title": "Nvidia to supply 1 million GPUs to Amazon through 2027 in landmark AI cloud deal",
+      "description": "Nvidia will supply 1 million graphics processing units (GPUs) to Amazon.com's cloud computing division by 2027 in one of the largest artificial intelligence infrastructure agreements to date, a company executive told Reuters.",
+      "url": "https://www.digitimes.com/news/a20260320VL207/nvidia-2027-amazon-infrastructure-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T02:29:54Z"
+    },
+    {
+      "title": "US charges 3 tied to Super Micro Computer with helping smuggle billions of dollars of AI chips to China",
+      "description": "US prosecutors did not name Super Micro in the complaint, referring only to a \"US manufacturer.\" San Jose, California-based Super Micro said it was informed by federal prosecutors of the indictment on Thursday. It noted that the company itself was not named a…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-charges-3-tied-to-super-micro-computer-with-helping-smuggle-billions-of-dollars-of-ai-chips-to-china/articleshow/129690649.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-20T02:25:39Z"
+    },
+    {
+      "title": "Super Micro Dives As U.S. Accuses Execs Of Smuggling Nvidia Chips To China - Investor's Business Daily",
+      "description": "Super Micro Dives As U.S. Accuses Execs Of Smuggling Nvidia Chips To ChinaInvestor's Business Daily Super Micro co-founder, employee and contractor smuggled Nvidia chips to China, U.S. prosecutors chargeCNBC Three charged with sneaking Nvidia AI chips from US…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181052606",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-20T02:12:36Z"
+    },
+    {
+      "title": "Nvidia Vera Rubin servers to drive liquid cooling demand",
+      "description": "Nvidia has revealed more details about its next-generation Vera Rubin (VR) servers at Nvidia GTC 2026, confirming a full transition to liquid cooling architecture. Thermal module makers estimate that compared with the GB-series design, where each compute tray…",
+      "url": "https://www.digitimes.com/news/a20260320PD206/nvidia-rubin-liquid-cooling-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T02:00:41Z"
+    },
+    {
+      "title": "Supermicro co-founder charged in US$2.5 billion AI chip smuggling scheme to China",
+      "description": "US Federal prosecutors have charged a co-founder of Super Micro Computer Inc. (Supermicro) and two associates in a massive conspiracy to illegally divert billions of dollars worth of restricted AI technology to China.",
+      "url": "https://www.digitimes.com/news/a20260320VL208/supermicro-legal-us-chip-restrictions-ai-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-20T01:45:28Z"
+    },
+    {
+      "title": "Three charged with sneaking Nvidia AI chips from US into China",
+      "description": "Employees of a US computer company raked in billions of dollars diverting Nvidia artificial intelligence chips to China in violation of export controls, according to an indictment unsealed Thursday. Yih-Shyan “Wally” Liaw, 71, of Silicon Valley conspired with…",
+      "url": "https://www.digitaljournal.com/world/three-charged-with-sneaking-nvidia-ai-chips-from-us-into-china/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-03-20T01:42:34Z"
+    },
+    {
+      "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
+      "description": "A senior vice president of Super Micro Computer Inc. and two others affiliated with the company have been charged with conspiring to smuggle billions of dollars of computer servers containing advanced Nvidia chips to China",
+      "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-20T01:41:51Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain",
+      "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China - Fortune",
+      "India’s auto boom at risk as Iran-Israel war chokes gas supplies, straining supply chains",
+      "Super Micro co-founder arrested over alleged $2.5B AI chip smuggling scheme",
+      "Leaked order shows why the Pentagon is really seizing control of Anthropic’s AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181053830",
+        "https://economictimes.indiatimes.com/tech/technology/openclaw-is-the-next-chatgpt-nvidia-ceo-jensen-huang/articleshow/129692368.cms",
+        "https://www.digitimes.com/news/a20260320VL212/gtc-supermicro-2026-nvidia-infrastructure.html"
+      ]
+    },
+    {
+      "title": "China",
+      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cointelegraph.com/news/super-micro-co-founder-arrested-in-2-5b-ai-chip-smuggling-scheme-to-china",
+        "https://www.digitimes.com/news/a20260320VL200/rare-earth-commercial-production-malaysia.html",
+        "https://economictimes.indiatimes.com/tech/technology/us-charges-3-tied-to-super-micro-computer-with-helping-smuggle-billions-of-dollars-of-ai-chips-to-china/articleshow/129690649.cms"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.co.uk/news-releases/dematic-redefines-warehouse-intelligence-with-launch-of-command-center-302719300.html",
+        "https://www.helpnetsecurity.com/2026/03/20/new-infosec-products-of-the-week-march-20-2026",
+        "http://www.parkablogs.com/content/xppen-artist-pro-27-gen-2-4k-touchscreen-pen-display"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260320PD209/cis-hisilicon-sensor-supply-chain-cmos.html",
+        "https://www.thehindubusinessline.com/economy/indias-auto-boom-at-risk-as-iran-israel-war-chokes-gas-supplies-straining-supply-chains/article70764189.ece",
+        "https://www.naturalnews.com/2026-03-20-pentagon-is-seizing-control-of-anthropics-ai.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naftemporiki.gr/english/2088046/cosmote-telekom-new-business-cloud-services-featuring-gpu-as-a-service-for-ai-applications",
+        "https://newatlas.com/ai-humanoids/runway-real-time-ai-video",
+        "https://www.helpnetsecurity.com/2026/03/20/llamafile-0-10-0-released"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 330.56
+        },
+        {
+          "date": "2026-02-02",
+          "close": 341.36
+        },
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        },
+        {
+          "date": "2026-03-10",
+          "close": 347.09
+        },
+        {
+          "date": "2026-03-11",
+          "close": 354.56
+        },
+        {
+          "date": "2026-03-12",
+          "close": 336.71
+        },
+        {
+          "date": "2026-03-13",
+          "close": 338.31
+        },
+        {
+          "date": "2026-03-16",
+          "close": 340.23
+        },
+        {
+          "date": "2026-03-17",
+          "close": 345.98
+        },
+        {
+          "date": "2026-03-18",
+          "close": 339.57
+        },
+        {
+          "date": "2026-03-19",
+          "close": 338.79
+        },
+        {
+          "date": "2026-03-20",
+          "close": 329.24
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 236.73
+        },
+        {
+          "date": "2026-02-02",
+          "close": 246.27
+        },
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        },
+        {
+          "date": "2026-03-10",
+          "close": 203.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 204.83
+        },
+        {
+          "date": "2026-03-12",
+          "close": 197.74
+        },
+        {
+          "date": "2026-03-13",
+          "close": 193.39
+        },
+        {
+          "date": "2026-03-16",
+          "close": 196.58
+        },
+        {
+          "date": "2026-03-17",
+          "close": 196.31
+        },
+        {
+          "date": "2026-03-18",
+          "close": 199.46
+        },
+        {
+          "date": "2026-03-19",
+          "close": 205.27
+        },
+        {
+          "date": "2026-03-20",
+          "close": 201.33
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 1423
+        },
+        {
+          "date": "2026-02-02",
+          "close": 1441.39
+        },
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 1383.87
+        },
+        {
+          "date": "2026-03-11",
+          "close": 1386.68
+        },
+        {
+          "date": "2026-03-12",
+          "close": 1351.58
+        },
+        {
+          "date": "2026-03-13",
+          "close": 1345.69
+        },
+        {
+          "date": "2026-03-16",
+          "close": 1375.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 1389.16
+        },
+        {
+          "date": "2026-03-18",
+          "close": 1355.17
+        },
+        {
+          "date": "2026-03-19",
+          "close": 1366.39
+        },
+        {
+          "date": "2026-03-20",
+          "close": 1317.25
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 46.47
+        },
+        {
+          "date": "2026-02-02",
+          "close": 48.81
+        },
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        },
+        {
+          "date": "2026-03-10",
+          "close": 46.79
+        },
+        {
+          "date": "2026-03-11",
+          "close": 47.98
+        },
+        {
+          "date": "2026-03-12",
+          "close": 45.25
+        },
+        {
+          "date": "2026-03-13",
+          "close": 45.77
+        },
+        {
+          "date": "2026-03-16",
+          "close": 45.76
+        },
+        {
+          "date": "2026-03-17",
+          "close": 44.06
+        },
+        {
+          "date": "2026-03-18",
+          "close": 45.03
+        },
+        {
+          "date": "2026-03-19",
+          "close": 46.18
+        },
+        {
+          "date": "2026-03-20",
+          "close": 43.87
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 151.59
+        },
+        {
+          "date": "2026-02-02",
+          "close": 152.62
+        },
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        },
+        {
+          "date": "2026-03-10",
+          "close": 135.21
+        },
+        {
+          "date": "2026-03-11",
+          "close": 134.12
+        },
+        {
+          "date": "2026-03-12",
+          "close": 131.15
+        },
+        {
+          "date": "2026-03-13",
+          "close": 129.82
+        },
+        {
+          "date": "2026-03-16",
+          "close": 129.39
+        },
+        {
+          "date": "2026-03-17",
+          "close": 131.59
+        },
+        {
+          "date": "2026-03-18",
+          "close": 130.47
+        },
+        {
+          "date": "2026-03-19",
+          "close": 131.28
+        },
+        {
+          "date": "2026-03-20",
+          "close": 129.9
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: HiSilicon unveils self-developed CIS chip, shaking global sensor supply chain. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
