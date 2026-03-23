@@ -1,0 +1,894 @@
+{
+  "theme": "ai",
+  "date": "2026-03-23",
+  "last_updated_utc": "2026-03-23T07:04:17.231Z",
+  "news": [
+    {
+      "title": "Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval",
+      "description": "So I've been building ClawMem, an open-source context engine that gives AI coding agents persistent memory across sessions. It works with Claude Code (hooks + MCP) and OpenClaw (ContextEngine plugin + REST API), and both can share the same SQLite vault, so yo…",
+      "url": "https://github.com/yoloshii/ClawMem",
+      "source": "Github.com",
+      "publishedAt": "2026-03-22T00:13:15Z"
+    },
+    {
+      "title": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else.",
+      "description": "Alistair Barr's AI-assisted Oscars ballot, powered by Anthropic's Claude, outperformed despite missing some categories.",
+      "url": "https://www.businessinsider.com/anthropic-claude-ai-pick-oscars-ballot-won-jagged-edge-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-21T23:26:36Z"
+    },
+    {
+      "title": "OpenAI plans to almost double its headcount this year, FT says",
+      "description": "The maker of AI assistant ChatGPT will look to increase headcount to about 8,000 from about 4,500, according to the Financial Times.",
+      "url": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google",
+      "source": "Fortune",
+      "publishedAt": "2026-03-21T23:21:47Z"
+    },
+    {
+      "title": "SoftBank Announces Massive $500 Billion AI Data Center Plan in U.S.",
+      "description": "SoftBank is making a massive bet on AI infrastructure, as CEO Masayoshi Son unveils a plan to pour up to $500 billion into a U.S. data center project—an amount so large it’s being described as potentially the biggest single-site investment ever. SoftBank Grou…",
+      "url": "https://news.sankakucomplex.com/n/TkdxuHWAPkGBhBOIxgcwyg",
+      "source": "Sankakucomplex.com",
+      "publishedAt": "2026-03-22T07:00:10Z"
+    },
+    {
+      "title": "Samsung union votes to strike, risking Nvidia HBM4 supply disruption",
+      "description": "Samsung Electronics' labor union has voted overwhelmingly to initiate dispute proceedings following a breakdown in wage negotiations, raising concerns over potential disruptions to the supply of HBM4 memory for Nvidia's next-generation AI accelerators.",
+      "url": "https://www.digitimes.com/news/a20260319PD230/samsung-labor-strike-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-22T06:57:08Z"
+    },
+    {
+      "title": "Show HN: Helios – 3 Claude agents (Red vs. Blue) hack and patch your codebase",
+      "description": "AI-powered security agent that autonomously finds, exploits, and fixes vulnerabilities. Features adversarial AI agents (Red vs Blue) and supply chain attack surface analysis.",
+      "url": "https://gitlab.com/nakaiwilliams20/helios",
+      "source": "Gitlab.com",
+      "publishedAt": "2026-03-22T06:08:15Z"
+    },
+    {
+      "title": "Everything Claude Codeを眺めてみる | oikon48",
+      "description": "*:first-child]:mt-0\"> Everything Claude Code はAnthropicのハッカソンの優勝者が公開したリポジトリとして2026年1月に話題になりました。 GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development fo…",
+      "url": "https://oikon48.dev/ja/blog/everything-claude-code",
+      "source": "Oikon48.dev",
+      "publishedAt": "2026-03-22T03:35:42Z"
+    },
+    {
+      "title": "Chunghwa Precision Test breaks ground on new Taiwan plant to meet AI chip demand",
+      "description": "Chunghwa Telecom-owned probe card manufacturer Chunghwa Precision Test (CHPT) broke ground on a new plant on March 20 at the Pingzhen Industrial Park in Taoyuan, signaling an aggressive expansion strategy aimed at capturing rising semiconductor testing demand…",
+      "url": "https://www.digitimes.com/news/a20260320PD221/probe-card-plant-demand-chpt-expansion.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-21T23:53:53Z"
+    },
+    {
+      "title": "Qualcomm Stockholders Back Board, Equity Plan; CEO Amon Highlights AI, Robotics and Data Center Push",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cb654e89-c90f-44dc-8dec-e2259f0691e4",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-21T23:03:05Z"
+    },
+    {
+      "title": "MSI (re)launches $85,000 Nvidia DGX Station workstation with the Nvidia GB300 Ultra, a pair of 400GbE LAN ports, and 768GB of RAM",
+      "description": "MSI XpertStation WS300 delivers deskside AI with Nvidia GB300 Ultra, unified memory, high-speed networking, and always-on autonomous agent support.",
+      "url": "https://www.techradar.com/pro/msi-re-launches-usd85-000-nvidia-dgx-station-workstation-with-the-nvidia-gb300-ultra-a-pair-of-400gbe-lan-ports-and-768gb-of-ram",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-21T21:20:00Z"
+    },
+    {
+      "title": "Artificial Intelligence is Taking Over Political Campaigns",
+      "description": "Artificial intelligence is dominating the 2026 midterms—and not just as a political issue. Major congressional campaigns are increasingly using “deepfake” AI technology in videos that... Read More\nThe post Artificial Intelligence is Taking Over Political Camp…",
+      "url": "https://www.dailysignal.com/2026/03/21/artificial-intelligence-is-taking-over-political-campaigns",
+      "source": "Daily Signal",
+      "publishedAt": "2026-03-21T19:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval",
+      "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else.",
+      "OpenAI plans to almost double its headcount this year, FT says",
+      "SoftBank Announces Massive $500 Billion AI Data Center Plan in U.S.",
+      "Samsung union votes to strike, risking Nvidia HBM4 supply disruption"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Agent",
+      "summary": "Grouped stories where \"agent\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/yoloshii/ClawMem",
+        "https://gitlab.com/nakaiwilliams20/helios",
+        "https://oikon48.dev/ja/blog/everything-claude-code"
+      ]
+    },
+    {
+      "title": "Memory",
+      "summary": "Grouped stories where \"memory\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260319PD230/samsung-labor-strike-hbm4.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/anthropic-claude-ai-pick-oscars-ballot-won-jagged-edge-2026-3"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google",
+        "https://news.sankakucomplex.com/n/TkdxuHWAPkGBhBOIxgcwyg",
+        "https://www.digitimes.com/news/a20260320PD221/probe-card-plant-demand-chpt-expansion.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 191.13
+        },
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval. Main topic cluster: Agent. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 430.29
+        },
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval. Main topic cluster: Agent. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 338
+        },
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval. Main topic cluster: Agent. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 239.3
+        },
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval. Main topic cluster: Agent. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-01-30",
+          "close": 716.5
+        },
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval. Main topic cluster: Agent. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
