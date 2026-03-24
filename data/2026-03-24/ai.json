@@ -1,0 +1,975 @@
+{
+  "theme": "ai",
+  "date": "2026-03-24",
+  "last_updated_utc": "2026-03-24T06:58:58.245Z",
+  "news": [
+    {
+      "title": "Nvidia pushes deeper into AI inference to counter custom chip rivals",
+      "description": "At its GTC 2026 conference, Nvidia showcased a slate of technologies and new products squarely aimed at the next wave of artificial intelligence inference. With the integration of Groq's LPU technology, Nvidia's portfolio appears markedly more competitive on …",
+      "url": "https://www.digitimes.com/news/a20260323PD207/nvidia-gtc-2026-asic-cost.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-23T03:42:26Z"
+    },
+    {
+      "title": "Deploying Disaggregated LLM Inference Workloads on Kubernetes",
+      "description": "As large language model (LLM) inference workloads grow in complexity, a single monolithic serving process starts to hit its limits. Prefill and decode stages...",
+      "url": "https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-03-22T21:33:34Z"
+    },
+    {
+      "title": "How to Build AI Chatbot Using OpenAI API and Node.js Step by Step",
+      "description": "Build your own AI chatbot using OpenAI API and Node.js! This step-by-step guide simplifies the process, letting you create a mini ChatGPT for your projects.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-ai-chatbot-using-openai-api-and-node-js-step-by-step",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-23T04:14:01Z"
+    },
+    {
+      "title": "Square Enix Adds Google Gemini AI to Dragon Quest X & Introduces “Talking Buddy” Slime",
+      "description": "Square Enix is bringing generative AI into one of its long-running online games, as Dragon Quest X gets a new AI-powered companion designed to chat with players and guide them through the game. Square Enix announced on March 21 that it will integrate Google’s…",
+      "url": "https://news.sankakucomplex.com/n/0AoSN_rsyboDQsxaYUuAuQ",
+      "source": "Sankakucomplex.com",
+      "publishedAt": "2026-03-23T03:00:07Z"
+    },
+    {
+      "title": "OpenAIはデスクトップ版「スーパーアプリ」を計画している",
+      "description": "OpenAIが、ChatGPT、コーディングアプリのCodex AI、AI搭載ブラウザのAtlasを1つのアプリに統合したデスクトップ版「スーパーアプリ」の開発に取り組んでいると報じられました。Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience - WSJhttps://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-t…",
+      "url": "https://news.livedoor.com/article/detail/30822713",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-23T02:16:00Z"
+    },
+    {
+      "title": "OpenAI Beefs Up Staff to Take on Claude",
+      "description": "OpenAI is reportedly planning to nearly double its staffing levels before the year’s end. That’s according to a report Saturday (March 21) from the Financial Times (FT), which noted that this effort is happening as the artificial intelligence startup is stepp…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-beefs-up-staff-to-take-on-claude",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-22T23:14:27Z"
+    },
+    {
+      "title": "Show HN: Claudebox – Your Claude Subscription as Personal API",
+      "description": "Hi HN!I built Claudebox to get more out of my Claude subscription. It runs Claude Code in a sandboxed Docker container and exposes an OpenAI-compatible API; so any tool can use Claude as a backend.No API key needed, no extra billing; it authenticates with you…",
+      "url": "https://github.com/ArmanJR/claudebox",
+      "source": "Github.com",
+      "publishedAt": "2026-03-23T05:51:25Z"
+    },
+    {
+      "title": "Designing delightful frontends with GPT-5.4 | OpenAI Developers",
+      "description": "Practical techniques for steering GPT-5.4 toward polished, production-ready frontend designs.",
+      "url": "https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4",
+      "source": "Openai.com",
+      "publishedAt": "2026-03-23T05:47:02Z"
+    },
+    {
+      "title": "An Open Letter to Georgetown Students, In Response to Recent Announcements about \"Generative AI\"",
+      "description": "Image source: BibliothÃ¨que nationale de France An Open Letter to Georgetown Students, In Response to Recent Announcements by the University about âGenerative AIâ Dear students, As you know, in â¦",
+      "url": "https://medium.com/center-on-privacy-technology/an-open-letter-to-georgetown-students-in-response-to-recent-announcements-about-generative-ai-8869dcd523ef",
+      "source": "Medium",
+      "publishedAt": "2026-03-23T05:47:02Z"
+    },
+    {
+      "title": "Nvidia sees self-driving cars as a long-term growth engine",
+      "description": "Beyond its GTC conference, autonomous vehicles have long stood out as a key application in Nvidia's AI ecosystem. For the company, revenue from self-driving systems represented only about 1% of total sales in 2025. Yet Chief Executive Jensen Huang views the s…",
+      "url": "https://www.digitimes.com/news/a20260323PD215/nvidia-gtc-growth-automotive-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-23T05:21:29Z"
+    },
+    {
+      "title": "How to Use LangChain with OpenAI for Custom AI Applications?",
+      "description": "Learn how to use LangChain with OpenAI to build custom AI applications. Integrate memory, data, and logic for smarter, scalable AI solutions. Step-by-step guide.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-use-langchain-with-openai-for-custom-ai-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-23T04:19:13Z"
+    },
+    {
+      "title": "NVIDIA、オープン フロンティア モデルを推進するために、世界有数の AI ラボと共に Nemotron Coalition を発足",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/607/12662-607-ad2fca231d85b5014dba8e209ce24c3b-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000607.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-23T03:40:41Z"
+    },
+    {
+      "title": "The ThundeRobot Radiant 16 Is A Powerhouse Of A Gaming Laptop With Its RTX 5080 GPU With 16GB VRAM, Twice The Standard RAM & Storage At $300 Off On Amazon",
+      "description": "NVIDIA’s mobile version of the GeForce RTX 5080 has sufficient horsepower and VRAM to push framerates of AAA titles at that ‘eye candy’ 4K resolution, but the gaming laptops featuring this monster of a graphics chip aren’t exactly priced for the faint of hear…",
+      "url": "https://wccftech.com/thunderobot-radiant-16-rtx-5080-gaming-laptop-twice-the-ram-storage-at-300-off-on-amazon",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-23T02:06:15Z"
+    },
+    {
+      "title": "Konica Minolta to expand AI chip inspection optics capacity 2.6x by 2027",
+      "description": "Japanese optical component and office equipment maker Konica Minolta said on March 18 it will scale up its optical components business for semiconductor inspection systems, targeting revenue of JPY15 billion (approx. US$94.1 million) in the fiscal year ending…",
+      "url": "https://www.digitimes.com/news/a20260319PD231/konica-minolta-optical-components-equipment-inspection-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-23T00:11:12Z"
+    },
+    {
+      "title": "Tai-Saw enters AI server and GPU module supply chains, eyes 800G by late 2026",
+      "description": "Tai-Saw Technology's differential oscillators are entering GPU module and AI server supply chains, potentially reshaping global networking hardware availability. With 400G shipments already underway and 800G mass production targeted for late 2026, the move ca…",
+      "url": "https://www.digitimes.com/news/a20260320PD202/gpu-ai-server-2026-tai-saw-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-23T00:08:19Z"
+    },
+    {
+      "title": "Tesla and SpaceX Unveil ‘Terafab’: Building the World’s Largest AI Chip Factory",
+      "description": "Elon Musk took the stage last night in Austin, Texas, to announce a massive joint venture between his companies Tesla, SpaceX, and xAI known as the Terafab Project. Musk described the initiative as the “most epic chip building exercise in history by far” with…",
+      "url": "https://www.iphoneincanada.ca/2026/03/22/tesla-spacex-unveil-terafab-building-the-worlds-largest-ai-chip-factory",
+      "source": "iPhone in Canada",
+      "publishedAt": "2026-03-23T00:07:00Z"
+    },
+    {
+      "title": "Nvidia Confirms DLSS 5 Is Re-Drawing Games, and That Sucks - IGN",
+      "description": "Nvidia Confirms DLSS 5 Is Re-Drawing Games, and That SucksIGN NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For GamesNVIDIA NVIDIA CEO Says Gamers Are ‘Completely Wrong’ About DLSS 5Insider Gaming The DLSS 5 backlash is not going away | Op…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181079046",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-22T22:52:24Z"
+    },
+    {
+      "title": "The Market's Fear Gauge Just Spiked to 24. History Says This Is What Happens Next for Artificial Intelligence (AI) Stocks.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4289cfbc-24ff-4296-a6e9-49ce295262ba",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-22T22:50:00Z"
+    },
+    {
+      "title": "Oil Is Above $100 a Barrel for the First Time Since 2022. Here's Why Artificial Intelligence (AI) Investors Should Care.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ca12abc-5577-49c6-9b23-36c233c9d0d8",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-22T21:35:00Z"
+    },
+    {
+      "title": "Crimson Desert developers apologize for the use of generative AI",
+      "description": "Player counts continue to rise as Pearl Abyss apologizes for reported AI use.",
+      "url": "https://www.windowscentral.com/gaming/crimson-desert-developers-apologize-for-the-use-of-generative-ai",
+      "source": "Windows Central",
+      "publishedAt": "2026-03-22T21:07:04Z"
+    },
+    {
+      "title": "Did Kioxia just unveil the fastest SSD ever? GP series uses Storage Class Memory to feed the HBM GPU with millions of IOPS",
+      "description": "Kioxia launches GP Series SSD using Storage Class Memory to expand GPU-accessible memory, targeting high-performance AI workloads and millions of IOPS.",
+      "url": "https://www.techradar.com/pro/did-kioxia-just-unveil-the-fastest-ssd-ever-gp-series-uses-storage-class-memory-to-feed-the-hbm-gpu-with-millions-of-iops",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-22T20:25:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia pushes deeper into AI inference to counter custom chip rivals",
+      "Deploying Disaggregated LLM Inference Workloads on Kubernetes",
+      "How to Build AI Chatbot Using OpenAI API and Node.js Step by Step",
+      "Square Enix Adds Google Gemini AI to Dragon Quest X & Introduces “Talking Buddy” Slime",
+      "OpenAIはデスクトップ版「スーパーアプリ」を計画している"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/how-to-build-ai-chatbot-using-openai-api-and-node-js-step-by-step",
+        "https://news.livedoor.com/article/detail/30822713",
+        "https://www.pymnts.com/artificial-intelligence-2/2026/openai-beefs-up-staff-to-take-on-claude"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260323PD207/nvidia-gtc-2026-asic-cost.html",
+        "https://www.digitimes.com/news/a20260323PD215/nvidia-gtc-growth-automotive-revenue.html",
+        "https://prtimes.jp/main/html/rd/p/000000607.000012662.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260319PD231/konica-minolta-optical-components-equipment-inspection-capacity.html",
+        "https://www.iphoneincanada.ca/2026/03/22/tesla-spacex-unveil-terafab-building-the-worlds-largest-ai-chip-factory"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4289cfbc-24ff-4296-a6e9-49ce295262ba",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4ca12abc-5577-49c6-9b23-36c233c9d0d8"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes",
+        "https://news.sankakucomplex.com/n/0AoSN_rsyboDQsxaYUuAuQ",
+        "https://medium.com/center-on-privacy-technology/an-open-letter-to-georgetown-students-in-response-to-recent-announcements-about-generative-ai-8869dcd523ef"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-02-02",
+          "close": 185.61
+        },
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        },
+        {
+          "date": "2026-03-23",
+          "close": 175.64
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia pushes deeper into AI inference to counter custom chip rivals. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-02-02",
+          "close": 423.37
+        },
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 383
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia pushes deeper into AI inference to counter custom chip rivals. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-02-02",
+          "close": 343.69
+        },
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        },
+        {
+          "date": "2026-03-23",
+          "close": 302.06
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia pushes deeper into AI inference to counter custom chip rivals. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-02-02",
+          "close": 242.96
+        },
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-23",
+          "close": 210.14
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia pushes deeper into AI inference to counter custom chip rivals. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-02-02",
+          "close": 706.41
+        },
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        },
+        {
+          "date": "2026-03-23",
+          "close": 604.06
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia pushes deeper into AI inference to counter custom chip rivals. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
