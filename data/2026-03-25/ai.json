@@ -1,0 +1,1010 @@
+{
+  "theme": "ai",
+  "date": "2026-03-25",
+  "last_updated_utc": "2026-03-25T06:57:32.272Z",
+  "news": [
+    {
+      "title": "Commentary: Trump's Middle East AI data center push under threat from Iran conflict",
+      "description": "In May 2025, US President Donald Trump led a major investment delegation to the Middle East targeting key allies Saudi Arabia, Qatar, and the United Arab Emirates (UAE). The delegation included Silicon Valley leaders from OpenAI, Nvidia, Oracle, Cisco, SoftBa…",
+      "url": "https://www.digitimes.com/news/a20260323PD213/data-center-donald-trump-investment-saudi-arabia-uae.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T00:01:34Z"
+    },
+    {
+      "title": "Claude Code and Cowork can now use your computer",
+      "description": "Anthropic announced today that its Claude Code and Claude Cowork tools are being updated to accomplish tasks using your computer. The latest update will see these AI resources become capable of opening files, using the browser and running dev tools. https://w…",
+      "url": "https://www.madshrimps.be/news/claude-code-and-cowork-can-now-use-your-computer",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:46:39Z"
+    },
+    {
+      "title": "Analysis: How Nvidia is reshuffling partners for the inference era",
+      "description": "On August 15, 2023, a routine press release landed in the inboxes of semiconductor analysts and tech journalists worldwide. Titled \"Groq Selects Samsung Foundry to Bring Next-gen LPU to the AI Acceleration Market,\" it presented a classic David-versus-Goliath …",
+      "url": "https://www.digitimes.com/news/a20260324VL213/2023-groq-tsmc-samsung-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T06:38:56Z"
+    },
+    {
+      "title": "Square Enix Reveals Google Gemini-Powered In-Game Chatbot for Dragon Quest X",
+      "description": "Square Enix previously revealed that it would be leaning into generative AI tech for coding and bug fixing, aiming to rely on the tech for as much as 70% of its QA and debugging by the end of 2027. It seems as though the game publisher is experimenting with A…",
+      "url": "https://www.madshrimps.be/news/square-enix-reveals-google-gemini-powered-in-game-chatbot-for-dragon-quest-x",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:36:33Z"
+    },
+    {
+      "title": "Pool spare GPU capacity to run LLMs at larger scale",
+      "description": "reference impl with llama.cpp compiled to distributed inference across machines, with real end to end demo - michaelneale/mesh-llm",
+      "url": "https://github.com/michaelneale/mesh-llm",
+      "source": "Github.com",
+      "publishedAt": "2026-03-24T05:57:00Z"
+    },
+    {
+      "title": "Claudeで自分のPCを操作できる新機能やスマホからPC上のClaudeに指示できる新機能が登場",
+      "description": "近年、AIは単なるチャットボットとしてだけではなく、OpenClawなどに代表されるPC上でタスクを自動でこなすエージェントとしての利用が注目されています。Anthropicの「Claude」でも、PC上でタスクを完了できる「computer use(PC操作)」の機能が発表されました。Put Claude to work on your computer | Claudehttps://claude.com/blog/dispatch-and-computer-useYou can now enable Cla…",
+      "url": "https://news.livedoor.com/article/detail/30831513",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-24T04:05:00Z"
+    },
+    {
+      "title": "Nvidia opens server racks to rival chips, expanding cloud infrastructure role",
+      "description": "Nvidia is expanding its role in artificial intelligence (AI) infrastructure by designing server racks that can accommodate processors from its competitors, according to a report by The Information, citing people familiar with the matter.",
+      "url": "https://www.digitimes.com/news/a20260324VL208/nvidia-server-rack-chips-design-cloud-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T02:50:51Z"
+    },
+    {
+      "title": "Anthropic、Claude に「Mac を操作させる」新機能を発表",
+      "description": "Anthropicが、AIアシスタント「Claude」にMacを実際に操作させることができる新機能を発表しました(9to5Mac)。 You can now enable Claude to use your computer to com",
+      "url": "https://softantenna.com/blog/claude-use-mac",
+      "source": "Softantenna.com",
+      "publishedAt": "2026-03-24T02:20:50Z"
+    },
+    {
+      "title": "Anthropic’s Claude gets computer use capabilities in preview",
+      "description": "Anthropic PBC wants users to give Claude the keys to their computer. It has just announced new “computer use” functionality for its artificial intelligence assistant, which can now click, scroll and navigate through web pages and applications to complete task…",
+      "url": "https://siliconangle.com/2026/03/23/anthropics-claude-gets-computer-use-capabilities-preview",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-24T00:49:03Z"
+    },
+    {
+      "title": "Govt to rejig PLI 2.0 sops on high GPU prices, AI server tech",
+      "description": "The terms of the production-linked incentive (PLI) scheme for IT hardware need to be re-evaluated due to the rising cost of graphics processing units (GPUs) and the emergence of artificial intelligence (AI) servers, a senior government official said on Monday.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-rejig-pli-2-0-sops-on-high-gpu-prices-ai-server-tech/articleshow/129758743.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-24T00:30:00Z"
+    },
+    {
+      "title": "Claude Cowork: How Anthropic’s New AI Agent Automates Your Mac or PC",
+      "description": "Anthropic has introduced a new research preview called Claude Cowork, a tool designed to handle complex, recurring tasks across both desktop and mobile platforms. The new system allows the AI to interact directly with your Mac to open apps, fill spreadsheets,…",
+      "url": "https://www.iphoneincanada.ca/2026/03/23/claude-cowork-how-anthropics-new-ai-agent-automates-your-mac-or-pc",
+      "source": "iPhone in Canada",
+      "publishedAt": "2026-03-24T00:19:16Z"
+    },
+    {
+      "title": "Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns",
+      "description": "Protesters marched between the San Francisco offices of major AI developers, calling for a pause in the development of more powerful AI systems.",
+      "url": "https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-23T23:28:30Z"
+    },
+    {
+      "title": "Phonak AI-Powered Hearing Aids Recognized with 2026 Artificial Intelligence Excellence Awards",
+      "description": "Phonak AI-Powered Hearing Aids Recognized with 2026 Artificial Intelligence Excellence Awards...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3260943/0/en/Phonak-AI-Powered-Hearing-Aids-Recognized-with-2026-Artificial-Intelligence-Excellence-Awards.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-24T05:05:00Z"
+    },
+    {
+      "title": "How to Build a Local AI Chatbot Using Open Source LLMs Without OpenAI API",
+      "description": "Build your own local AI chatbot using open-source LLMs! This guide provides a step-by-step approach, covering setup with Ollama, LangChain, and Streamlit. Enjoy privacy and cost savings!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-a-local-ai-chatbot-using-open-source-llms-without-openai-api",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-24T04:04:48Z"
+    },
+    {
+      "title": "OpenAI warns Microsoft could be a ‘risk factor’ in its business ahead of potential IPO: Report",
+      "description": "OpenAI said that the operating results of the AI company will depend on whether it can successfully establish relationships with additional partners other than Microsoft. However, a glitch in the Microsoft ties could jeopardise its business.",
+      "url": "https://www.livemint.com/companies/news/openai-warns-microsoft-could-be-a-risk-factor-in-its-business-ahead-of-potential-ipo-report-11774320777322.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-24T03:58:52Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman exits Helion Energy's board as firms explore partnership",
+      "description": "Altman, who is also on the OpenAI board, said the dual roles had become untenable ‌as the ⁠ChatGPT maker ⁠eyes future partnerships with Helion. In a post on social media platform X, Altman ​added that he will have a financial interest in Helion and will recus…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-exits-helion-energys-board-as-firms-explore-partnership/articleshow/129766281.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-24T03:18:54Z"
+    },
+    {
+      "title": "Kentucky Woman Rejects $26 Million To Turn Her Family’s Farm Into AI Data Center",
+      "description": "One woman and her mother are taking a stand against AI. According to Local 12 Kentucky News, Delsia Bare and her mother, Ida Huddleston, turned down $26 million to convert their farm into an AI data center. A Northern Kentucky woman and her mother have declin…",
+      "url": "https://brobible.com/culture/article/kentucky-woman-rejects-26-million-ai-farm",
+      "source": "BroBible",
+      "publishedAt": "2026-03-24T02:27:49Z"
+    },
+    {
+      "title": "Walmart Shuts Down Agentic Commerce With OpenAI",
+      "description": "Walmart is pulling back from OpenAI’s Instant Checkout feature inside ChatGPT after internal data showed conversion rates were roughly three times lower than transactions completed on its own website, as reported by Wired. The shift marks an early stress test…",
+      "url": "https://www.pymnts.com/walmart/2026/walmart-shuts-down-agentic-commerce-with-openai",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-24T01:10:51Z"
+    },
+    {
+      "title": "最先端AI開発スキルを学ぶ「Claude Code研修」が初登場 ― SAMURAI、「AI博覧会 Spring 2026」に出展",
+      "description": "[株式会社SAMURAI]\n[画像1: https://prcdn.freetls.fastly.net/release_image/47683/237/47683-237-6ad9ccf47123e3172b12cd5bc98d1134-1920x1280.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000237.000047683.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-24T01:00:00Z"
+    },
+    {
+      "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop” - Ars Technica",
+      "description": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”Ars Technica Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlashTom's Hardware The DLSS 5 backlash is not going away | OpinionGamesIndustry.biz Nvidia…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181090630",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-24T00:52:31Z"
+    },
+    {
+      "title": "Use AI to Find Your Next Rental Car With Turo's ChatGPT App",
+      "description": "Turo's ChatGPT app is the latest example of AI's rapid advance into every aspect of the automotive industry.",
+      "url": "https://www.cnet.com/tech/services-and-software/turo-chatgpt-launch-ai-powered-rental-car-search",
+      "source": "CNET",
+      "publishedAt": "2026-03-24T00:45:13Z"
+    },
+    {
+      "title": "Co-director and producer of \"The AI Doc\" on the peril and promise of artificial intelligence",
+      "description": "A new documentary examines the artificial intelligence boom and its potential risks to humanity, featuring interviews with top AI company CEOs and other experts. Co-director Charlie Tyrell and producer Ted Tremper join CBS News to discuss the making of the fi…",
+      "url": "https://www.cbsnews.com/video/co-director-producer-ai-doc-peril-promise-artificial-intelligence",
+      "source": "CBS News",
+      "publishedAt": "2026-03-24T00:09:00Z"
+    },
+    {
+      "title": "Why we’re contributing llm-d to the CNCF: Standardizing the future of AI",
+      "description": "Today, we are contributing llm-d to the Cloud Native Computing Foundation (CNCF) as a Sandbox project.This isn't just a hand-off of code. It’s a commitment to making high-performance AI serving a core, portable capability of the cloud-native stack. When we la…",
+      "url": "https://www.redhat.com/en/blog/why-were-contributing-llm-d-cncf-standardizing-future-ai",
+      "source": "Redhat.com",
+      "publishedAt": "2026-03-24T00:00:00Z"
+    },
+    {
+      "title": "More Magic Math from OpenAI?",
+      "description": "When it comes to OpenAI, smart money is starting to do the math out loud. And something doesn’t add up. On surface, today’s news that OpenAI is offering 17.5% guaranteed returns to private equity firms looks like a shot at the Anthropic threat. Scratch the su…",
+      "url": "https://om.co/2026/03/23/more-magic-math-from-openai",
+      "source": "Om.co",
+      "publishedAt": "2026-03-23T23:50:10Z"
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
+      "description": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-03-23T23:47:14Z"
+    },
+    {
+      "title": "Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’ - Kotaku",
+      "description": "Nvidia CEO Says He Gets Where The DLSS 5 Outrage Is Coming From: ‘I Don’t Love AI Slop Myself’Kotaku NVIDIA CEO Says Gamers Are ‘Completely Wrong’ About DLSS 5Insider Gaming The DLSS 5 backlash is not going away | OpinionGamesIndustry.biz Nvidia's DLSS 5 Uses…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181089418",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-23T23:33:10Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Commentary: Trump's Middle East AI data center push under threat from Iran conflict",
+      "Claude Code and Cowork can now use your computer",
+      "Analysis: How Nvidia is reshuffling partners for the inference era",
+      "Square Enix Reveals Google Gemini-Powered In-Game Chatbot for Dragon Quest X",
+      "Pool spare GPU capacity to run LLMs at larger scale"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260323PD213/data-center-donald-trump-investment-saudi-arabia-uae.html",
+        "https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices",
+        "https://www.c-sharpcorner.com/article/how-to-build-a-local-ai-chatbot-using-open-source-llms-without-openai-api"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/claude-code-and-cowork-can-now-use-your-computer",
+        "https://news.livedoor.com/article/detail/30831513",
+        "https://softantenna.com/blog/claude-use-mac"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000237.000047683.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260324VL213/2023-groq-tsmc-samsung-gtc.html",
+        "https://www.digitimes.com/news/a20260324VL208/nvidia-server-rack-chips-design-cloud-infrastructure.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181090630"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/square-enix-reveals-google-gemini-powered-in-game-chatbot-for-dragon-quest-x",
+        "https://github.com/michaelneale/mesh-llm",
+        "https://economictimes.indiatimes.com/tech/technology/govt-to-rejig-pli-2-0-sops-on-high-gpu-prices-ai-server-tech/articleshow/129758743.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 180.34
+        },
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        },
+        {
+          "date": "2026-03-23",
+          "close": 175.64
+        },
+        {
+          "date": "2026-03-24",
+          "close": 175.2
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: Trump's Middle East AI data center push under threat from Iran conflict. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 411.21
+        },
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 383
+        },
+        {
+          "date": "2026-03-24",
+          "close": 372.74
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: Trump's Middle East AI data center push under threat from Iran conflict. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 339.71
+        },
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        },
+        {
+          "date": "2026-03-23",
+          "close": 302.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 290.44
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: Trump's Middle East AI data center push under threat from Iran conflict. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 238.62
+        },
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-23",
+          "close": 210.14
+        },
+        {
+          "date": "2026-03-24",
+          "close": 207.24
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: Trump's Middle East AI data center push under threat from Iran conflict. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 691.7
+        },
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        },
+        {
+          "date": "2026-03-23",
+          "close": 604.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 592.92
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: Trump's Middle East AI data center push under threat from Iran conflict. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

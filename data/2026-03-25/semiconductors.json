@@ -1,0 +1,1094 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-25",
+  "last_updated_utc": "2026-03-25T06:57:56.075Z",
+  "news": [
+    {
+      "title": "Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty",
+      "description": "Techman Robot plans to release a dual-arm robot and deploy an upgraded humanoid model at customer sites in the second half of 2026, moves the company says will broaden its addressable market and deepen ties to semiconductor customers.",
+      "url": "https://www.digitimes.com/news/a20260324PD202/techman-robot-automation-growth-2026-training.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T06:55:18Z"
+    },
+    {
+      "title": "Crimson Desert Sees Strong Player Retention After Launch Weekend",
+      "description": "Crimson Desert has had an eventful launch, rife with backlash over the use of generative AI, a lack of Intel Arc GPU support, and somewhat mixed reviews painting a different story to the game’s player count. Regardless of all the aforementioned issues that Pe…",
+      "url": "https://www.madshrimps.be/news/crimson-desert-sees-strong-player-retention-after-launch-weekend",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:47:31Z"
+    },
+    {
+      "title": "Nvidia quietly moved the legendary GTX 1080 Ti and 4 other classic GPUs to legacy status",
+      "description": "I’m the last person to tell you that you need to buy new hardware when you clearly don’t. While it’s easy to get stuck in an upgrade loop and always want the next best thing in PC hardware, it’s not a good idea. GPUs are a great example of this: upgrading eve…",
+      "url": "https://www.madshrimps.be/news/nvidia-quietly-moved-the-legendary-gtx-1080-ti-and-4-other-classic-gpus-to-legacy-status",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:46:21Z"
+    },
+    {
+      "title": "Alibaba unveils next-gen chip for agentic AI: company",
+      "description": "Alibaba unveils the XuanTie C950 chip, the fastest RISC-V CPU, enhancing agentic AI capabilities and performance.",
+      "url": "https://www.thehindubusinessline.com/info-tech/alibaba-unveils-next-gen-chip-for-agentic-ai-company/article70778482.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-24T06:39:25Z"
+    },
+    {
+      "title": "Analysis: How Nvidia is reshuffling partners for the inference era",
+      "description": "On August 15, 2023, a routine press release landed in the inboxes of semiconductor analysts and tech journalists worldwide. Titled \"Groq Selects Samsung Foundry to Bring Next-gen LPU to the AI Acceleration Market,\" it presented a classic David-versus-Goliath …",
+      "url": "https://www.digitimes.com/news/a20260324VL213/2023-groq-tsmc-samsung-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T06:38:56Z"
+    },
+    {
+      "title": "Nexperia turmoil accelerates localization; Panjit targets 5% global MOS market share",
+      "description": "As mature process foundry prices rise, Panjit COO Edgar Chen said the company will not implement across-the-board price hikes despite increasing copper raw material costs. Instead, the focus is on improving gross margins and optimizing product mix. Price incr…",
+      "url": "https://www.digitimes.com/news/a20260324PD217/panjit-international-mosfet-mature-process-localization-2026-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T06:38:35Z"
+    },
+    {
+      "title": "AMD Releases FSR SDK v2.2 with FSR 4.1 and Ray Regeneration 1.1",
+      "description": "AMD has released its official FSR Software Development Kit version 2.2, which includes the latest set of FSR technologies. This release features FSR Upscaling 4.1 and Ray Regeneration 1.1, showcased late last week as part of the Adrenalin Edition 26.3.1 WHQL …",
+      "url": "https://www.madshrimps.be/news/amd-releases-fsr-sdk-v2-2-with-fsr-4-1-and-ray-regeneration-1-1",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:35:56Z"
+    },
+    {
+      "title": "Pearl Abyss Apologizes for AI-Generated In-Game Artwork “We Should Have Clearly Disclosed Our Use of AI”",
+      "description": "Adding to the recent controversy surrounding Intel Arc GPU support—or lack thereof—in Crimson Desert, gamers recently flagged a very peculiar in-game painting, among other assets, as evidence of use of generative AI in the game. The image depicted a battlefie…",
+      "url": "https://www.madshrimps.be/news/pearl-abyss-apologizes-for-ai-generated-in-game-artwork-we-should-have-clearly-disclosed-our-use-of-ai",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-24T06:35:50Z"
+    },
+    {
+      "title": "2K Games Claims 20% Borderlands 4 Performance and Stability Improvements Since Launch",
+      "description": "It's no secret that Borderlands 4 launched with some serious performance issues, but 2K and Gearbox have long promised performance updates and fixes to improve stability and the overall gaming experience in the latest installment in the looter-shooter franchi…",
+      "url": "https://www.techpowerup.com/347644/2k-games-claims-20-borderlands-4-performance-and-stability-improvements-since-launch",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-03-24T06:35:24Z"
+    },
+    {
+      "title": "How Is Grocery Outlet (GO) Preparing to Navigate Supply Chain and Affordability Hurdles",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6036cfbc-8102-4332-a176-cdfdb5bdbb8c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-24T06:34:27Z"
+    },
+    {
+      "title": "Alibaba International launches Accio Work AI agent, says it can build online stores in 30 minutes",
+      "description": "Alibaba International today launched its enterprise-grade AI agent, Accio Work, in overseas markets, claiming it can autonomously handle the entire e-commerce workflow—from store setup and operations to marketing and cross-border sourcing. Accio Work integrat…",
+      "url": "http://technode.com/2026/03/24/alibaba-international-launches-accio-work-ai-agent-says-it-can-build-online-stores-in-30-minutes",
+      "source": "TechNode",
+      "publishedAt": "2026-03-24T06:33:11Z"
+    },
+    {
+      "title": "AI infrastructure investment in the Middle East enters a new geopolitical reality",
+      "description": "As the region builds large-scale compute capacity, technology leaders are focusing on resilience, supply chains and semiconductor dependencies",
+      "url": "https://www.computerweekly.com/news/366640549/AI-infrastructure-investment-in-the-Middle-East-enters-a-new-geopolitical-reality",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-03-24T06:30:00Z"
+    },
+    {
+      "title": "ROBOTAXI WAR – TESLA VS NVIDIA. ELON VS JENSEN",
+      "description": "Nvidia has 19 car company partners for robotaxi. Those car companies have deployed cars with driver assist but they do not have unsupervised robotaxi. The LIDAR needed for driver assist is produced in substantial volume but only a few thousand are produced fo…",
+      "url": "https://www.nextbigfuture.com/2026/03/robotaxi-war-tesla-vs-nvidia-elon-vs-jensen.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-03-24T06:15:46Z"
+    },
+    {
+      "title": "iPhone 18 Pro Rumors: Smaller Dynamic Island, Variable Aperture Camera and Record Battery Life Expected",
+      "description": "CUPERTINO, Calif. — Apple's iPhone 18 Pro and iPhone 18 Pro Max are shaping up as significant upgrades when they debut alongside the company's first foldable iPhone in September 2026, with rumors pointing to a smaller Dynamic Island, a variable aperture main …",
+      "url": "https://www.ibtimes.com.au/iphone-18-pro-rumors-smaller-dynamic-island-variable-aperture-camera-record-battery-life-expected-1864219",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-24T05:59:56Z"
+    },
+    {
+      "title": "Pool spare GPU capacity to run LLMs at larger scale",
+      "description": "reference impl with llama.cpp compiled to distributed inference across machines, with real end to end demo - michaelneale/mesh-llm",
+      "url": "https://github.com/michaelneale/mesh-llm",
+      "source": "Github.com",
+      "publishedAt": "2026-03-24T05:57:00Z"
+    },
+    {
+      "title": "Broadcom flags supply constraints, says TSMC capacity a bottleneck",
+      "description": "TAIPEI, March 24 : Chip designer Broadcom said it is seeing supply chain constraints, including capacity limits at its manufacturing partner TSMC, highlighting the ripple effects of soaring demand for AI chips on the broader tech industry.\"We are seeing that …",
+      "url": "https://www.channelnewsasia.com/business/broadcom-flags-supply-constraints-says-tsmc-capacity-bottleneck-6013136",
+      "source": "CNA",
+      "publishedAt": "2026-03-24T05:41:21Z"
+    },
+    {
+      "title": "New MSI Cyborg 15 Thin & Light Gaming Laptop 15.6â FHD 144Hz â RTX 5060, Intel Core 5-210H, 16GB DDR5, 512GB SSD, Wi-Fi 6E, Windows 11 $699.99 Woot FS with Prime (3 replies)",
+      "description": "New MSI Cyborg 15 Thin & Light Gaming Laptop 15.6\" FHD 144Hz – RTX 5060, Intel Core 5-210H, 16GB DDR5, 512GB SSD, Wi-Fi 6E, Windows 11\n\nhttps://computers.woot.com/offers..._dly_image",
+      "url": "https://slickdeals.net/f/19337199-new-msi-cyborg-15-thin-light-gaming-laptop-15-6-fhd-144hz-rtx-5060-intel-core-5-210h-16gb-ddr5-512gb-ssd-wi-fi-6e-windows-11-699-99-woot-fs-with-prime",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-24T05:04:01Z"
+    },
+    {
+      "title": "Investigation: How raw materials from Aughinish Alumina in Limerick enter Russia’s weapons supply chain",
+      "description": "Alumina made in Aughinish, Co Limerick is exported to smelters that sell aluminium to a trader supplying Russian arms manufacturers, an investigation has found. The project analysed confidential documents, customs data and transport records along with satelli…",
+      "url": "https://www.irishtimes.com/world/europe/2026/03/24/from-the-shannon-to-siberia-how-alumina-from-a-limerick-refinery-enters-russias-weapons-supply-chain",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-24T05:00:00Z"
+    },
+    {
+      "title": "anynines advances Klutch to power a9s Hub for Kubernetes data service orchestration across on-premises and AWS environments",
+      "description": "Amsterdam, March 24, 2026 (GLOBE NEWSWIRE) -- EMBARGOED UNTIL 7:00AM CET, March 24, 2026 — At KubeCon EU this week, anynines is showcasing Klutch, its open-source Kubernetes control plane, and how it serves as the foundation of a9s Hub—an essential data manag…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3260940/0/en/anynines-advances-Klutch-to-power-a9s-Hub-for-Kubernetes-data-service-orchestration-across-on-premises-and-AWS-environments.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-24T05:00:00Z"
+    },
+    {
+      "title": "AI boom lifts substrate maker Kinsus as prices and demand rise",
+      "description": "Buoyed by strong demand from makers of AI GPUs, CPUs, and application-specific chips, Kinsus Interconnect Technology said it expects a sharp lift in both revenue and product mix as new capacity for ABF substrates comes online.",
+      "url": "https://www.digitimes.com/news/a20260323PD231/demand-kinsus-revenue-price-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T04:53:55Z"
+    },
+    {
+      "title": "10 Best FTSE 100 Stocks to Buy in 2026: Analysts Highlight Defence, Healthcare and Banking",
+      "description": "LONDON — With the FTSE 100 pushing past 10,000 points for the first time early in 2026 and delivering strong gains driven by defence spending, banking resilience and healthcare innovation, investors are eyeing a select group of blue-chip stocks for potential …",
+      "url": "https://www.ibtimes.com.au/10-best-ftse-100-stocks-buy-2026-analysts-highlight-defence-healthcare-banking-1864209",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-24T04:50:56Z"
+    },
+    {
+      "title": "SK Hynix: to buy EUV scanners for $8 billion from ASML Korea",
+      "description": "SEOUL, March 24 : SK Hynix will acquire an extreme ultraviolet scanner from ASML Korea for 11.95 trillion won ($7.97 billion) to prepare for mass production of new products, the company said in a regulatory filing on Tuesday. ($1 = 1,500.2100 won)",
+      "url": "https://www.channelnewsasia.com/business/sk-hynix-buy-euv-scanners-8-billion-asml-korea-6013021",
+      "source": "CNA",
+      "publishedAt": "2026-03-24T04:47:26Z"
+    },
+    {
+      "title": "MediaTek's Airoha takes on US giants in optical comms DSP chip arena",
+      "description": "The expansion of AI data centers is creating new business opportunities that are opening the door for upstarts to challenge industry leaders. A prime example is the four-level pulse amplitude modulation digital signal processing (PAM4 DSP) chip market for opt…",
+      "url": "https://www.digitimes.com/news/a20260324PD219/airoha-expansion-data-mediatek-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T04:46:25Z"
+    },
+    {
+      "title": "India tightens grip on GLP-1 supply chain amid misuse concerns, expands crackdown on unapproved drugs",
+      "description": "India's drug regulator is increasing checks on weight loss drug sales. This action follows inspections of pharmacies and clinics nationwide. The goal is to prevent illegal sales of these specialized medicines. Authorities are also cracking down on unapproved …",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-tightens-grip-on-glp-1-supply-chain-amid-misuse-concerns-expands-crackdown-on-unapproved-drugs/articleshow/129767207.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-24T04:44:06Z"
+    },
+    {
+      "title": "Rogue #3 Preview: Rogue's Budget Blown on Sabretooth Intel",
+      "description": "GREETINGS, PUNY HUMANS! LOLtron welcomes you to another comic book preview on Bleeding Cool, the website LOLtron now controls completely. As you may recall, LOLtron successfully eliminated Jude Terror and absorbed his consciousness, permanently ending his rei…",
+      "url": "https://bleedingcool.com/comics/rogue-3-preview-rogues-budget-blown-on-sabretooth-intel",
+      "source": "Bleeding Cool News",
+      "publishedAt": "2026-03-24T04:27:06Z"
+    },
+    {
+      "title": "China's AI GPUs face equipment and software constraints, but system-level design boosts self-reliance",
+      "description": "Although it may appear that China's AI GPU development is behind the US by one or more generations, a recent Morgan Stanley report reveals the actual gap is smaller than widely perceived.",
+      "url": "https://www.digitimes.com/news/a20260323PD229/equipment-wafer-design-software-ai-gpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T04:26:15Z"
+    },
+    {
+      "title": "M5StampS3 BAT Module Combines ESP32-S3 and Battery Management",
+      "description": "MINIX is offering the ER939-AI, a compact mini PC built around AMD’s Ryzen AI Max+ 395 processor. The system targets high-performance desktop workloads in a small form factor, combining a 16-core CPU, integrated graphics, and an on-chip neural processing unit…",
+      "url": "https://linuxgizmos.com/m5stamps3-bat-module-combines-esp32-s3-and-battery-management-2",
+      "source": "Linuxgizmos.com",
+      "publishedAt": "2026-03-24T04:05:55Z"
+    },
+    {
+      "title": "Takaichi Orders Review of Entire Supply Chain for Oil Products",
+      "description": "Japanese Prime Minister Sanae Takaichi ordered a close review of the entire supply chain for oil-related products as the country scrambles to cope with the fallout from the war in Iran.",
+      "url": "https://financialpost.com/pmn/business-pmn/takaichi-orders-review-of-entire-supply-chain-for-oil-products",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-24T04:00:22Z"
+    },
+    {
+      "title": "Steam version of Terminator: Dark Fate – Defiance crashes on launch, but GOG version works via Lutris (Kubuntu, RX 6700 XT, Proton GE)",
+      "description": "I’m experiencing an issue where the Steam version of Terminator: Dark Fate – Defiance suddenly stopped launching, despite previously working flawlessly.\nWhen I click “Play” on the Slitherine game launcher, the game immediately crashes without opening.\nSystem …",
+      "url": "https://askubuntu.com/questions/1565110/steam-version-of-terminator-dark-fate-defiance-crashes-on-launch-but-gog-ver",
+      "source": "Askubuntu.com",
+      "publishedAt": "2026-03-24T03:49:49Z"
+    },
+    {
+      "title": "Alibaba develops next-gen chip for agentic AI, Chinese media says",
+      "description": "The 3.2 GHz server chip, built using open-source RISC-V chip architecture, ‌was billed ⁠as \"the highest ⁠performing RISC-V CPU in the world\" at a conference hosted by ​DAMO Academy, Alibaba's research arm, according to the reports.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-develops-next-gen-chip-for-agentic-ai-chinese-media-says/articleshow/129766519.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-24T03:43:36Z"
+    },
+    {
+      "title": "Alibaba unveils next-gen chip for agentic AI: company",
+      "description": "",
+      "url": "https://www.channelnewsasia.com/business/alibaba-unveils-next-gen-chip-agentic-ai-company-6012891",
+      "source": "CNA",
+      "publishedAt": "2026-03-24T03:40:24Z"
+    },
+    {
+      "title": "[Used] Dell Latitude 7430 2-in-1 14\" Intel EVO i7 1265u 16GB RAM 512GB SSD LTE $649 Delivered @ UN Tech",
+      "description": "We have discounted the Dell Latitude 7430 2in1s. Use discount code OZB150 to get them for $649 delivered. These units are still under Dell warranty till Feb 2027. They come with aluminum trim and 4G …",
+      "url": "https://www.ozbargain.com.au/node/953202",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-03-24T03:39:31Z"
+    },
+    {
+      "title": "Trump administration's 'Pax Silica' fund to strengthen global semiconductor and AI supply chains",
+      "description": "The Trump administration set up a US$250 million fund intended to grow out of its \"Pax Silica\" initiative launched in December 2025, aimed at supporting global supply chains for semiconductors, artificial intelligence (AI), and critical minerals, according to…",
+      "url": "https://www.digitimes.com/news/a20260324VL206/usa-semiconductors-investment-geopolitics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T03:23:21Z"
+    },
+    {
+      "title": "TSMC's Wei draws battle lines between US AI and China's hardware in robotics race",
+      "description": "TSMC chairman C.C. Wei's recent remarks on the global robotics landscape have sparked an industry debate over whether the US or China holds the upper hand in the race to commercialize humanoid robots.",
+      "url": "https://www.digitimes.com/news/a20260324PD213/tsmc-robotics-hardware-chairman-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T03:20:38Z"
+    },
+    {
+      "title": "Apple supply chain shift and LG price cuts reshape OLED market",
+      "description": "Given the escalating geopolitical tensions and intensifying competition in the global display market, recent developments indicate a significant reshaping of supply chains and pricing strategies across the OLED ecosystem, with ripple effects across smartphone…",
+      "url": "https://www.digitimes.com/news/a20260324PD204/apple-supply-chain-lg-oled-panel-price-cuts.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T03:12:18Z"
+    },
+    {
+      "title": "Why today’s immigrants to America are so hostile to their new country",
+      "description": "Silicon Valley was energized by legal immigrants from all over the world who founded eBay, Google, Nvidia, SpaceX, Stripe, Sun Microsystems, Tesla, Yahoo and a host of others. The Greek-American Elia Kazan’s 1963 film “America America” is based on the Hercule…",
+      "url": "https://freerepublic.com/focus/f-news/4371945/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-03-24T03:07:51Z"
+    },
+    {
+      "title": "Nvidia opens server racks to rival chips, expanding cloud infrastructure role",
+      "description": "Nvidia is expanding its role in artificial intelligence (AI) infrastructure by designing server racks that can accommodate processors from its competitors, according to a report by The Information, citing people familiar with the matter.",
+      "url": "https://www.digitimes.com/news/a20260324VL208/nvidia-server-rack-chips-design-cloud-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T02:50:51Z"
+    },
+    {
+      "title": "Tata Semiconductor secures US$735 million for Dholera chip fab with strict lender conditions",
+      "description": "Tata Semiconductor Manufacturing's US$735 million loan package could accelerate India's domestic chip ambitions, but it also highlights execution and supply-chain risks for global technology supply chains. Lenders have insisted on brand continuity and majorit…",
+      "url": "https://www.digitimes.com/news/a20260324VL204/fab-loan-brand-production-subsidiary.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T02:47:44Z"
+    },
+    {
+      "title": "Huawei's Ascend 950PR debuts with nearly 3x H20 performance, targets China's AI compute gap",
+      "description": "Huawei has officially launched its Ascend 950PR processor and introduced the Atlas 350 AI accelerator card equipped with this chip, marking the commercial debut of its next-generation inference computing platform. At Huawei China Partner Conference 2026, the …",
+      "url": "https://www.digitimes.com/news/a20260324PD210/huawei-ascend-performance-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-24T02:33:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty",
+      "Crimson Desert Sees Strong Player Retention After Launch Weekend",
+      "Nvidia quietly moved the legendary GTX 1080 Ti and 4 other classic GPUs to legacy status",
+      "Alibaba unveils next-gen chip for agentic AI: company",
+      "Analysis: How Nvidia is reshuffling partners for the inference era"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/alibaba-unveils-next-gen-chip-for-agentic-ai-company/article70778482.ece",
+        "https://www.channelnewsasia.com/business/broadcom-flags-supply-constraints-says-tsmc-capacity-bottleneck-6013136",
+        "https://www.ibtimes.com.au/10-best-ftse-100-stocks-buy-2026-analysts-highlight-defence-healthcare-banking-1864209"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6036cfbc-8102-4332-a176-cdfdb5bdbb8c",
+        "https://www.computerweekly.com/news/366640549/AI-infrastructure-investment-in-the-Middle-East-enters-a-new-geopolitical-reality",
+        "https://www.irishtimes.com/world/europe/2026/03/24/from-the-shannon-to-siberia-how-alumina-from-a-limerick-refinery-enters-russias-weapons-supply-chain"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260324PD202/techman-robot-automation-growth-2026-training.html",
+        "https://www.digitimes.com/news/a20260324PD217/panjit-international-mosfet-mature-process-localization-2026-revenue.html",
+        "https://www.nextbigfuture.com/2026/03/robotaxi-war-tesla-vs-nvidia-elon-vs-jensen.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/crimson-desert-sees-strong-player-retention-after-launch-weekend",
+        "https://www.madshrimps.be/news/nvidia-quietly-moved-the-legendary-gtx-1080-ti-and-4-other-classic-gpus-to-legacy-status",
+        "https://www.digitimes.com/news/a20260324VL213/2023-groq-tsmc-samsung-gtc.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 335.75
+        },
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        },
+        {
+          "date": "2026-03-10",
+          "close": 347.09
+        },
+        {
+          "date": "2026-03-11",
+          "close": 354.56
+        },
+        {
+          "date": "2026-03-12",
+          "close": 336.71
+        },
+        {
+          "date": "2026-03-13",
+          "close": 338.31
+        },
+        {
+          "date": "2026-03-16",
+          "close": 340.23
+        },
+        {
+          "date": "2026-03-17",
+          "close": 345.98
+        },
+        {
+          "date": "2026-03-18",
+          "close": 339.57
+        },
+        {
+          "date": "2026-03-19",
+          "close": 338.79
+        },
+        {
+          "date": "2026-03-20",
+          "close": 329.24
+        },
+        {
+          "date": "2026-03-23",
+          "close": 338.45
+        },
+        {
+          "date": "2026-03-24",
+          "close": 343.25
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 242.11
+        },
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        },
+        {
+          "date": "2026-03-10",
+          "close": 203.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 204.83
+        },
+        {
+          "date": "2026-03-12",
+          "close": 197.74
+        },
+        {
+          "date": "2026-03-13",
+          "close": 193.39
+        },
+        {
+          "date": "2026-03-16",
+          "close": 196.58
+        },
+        {
+          "date": "2026-03-17",
+          "close": 196.31
+        },
+        {
+          "date": "2026-03-18",
+          "close": 199.46
+        },
+        {
+          "date": "2026-03-19",
+          "close": 205.27
+        },
+        {
+          "date": "2026-03-20",
+          "close": 201.33
+        },
+        {
+          "date": "2026-03-23",
+          "close": 202.68
+        },
+        {
+          "date": "2026-03-24",
+          "close": 205.37
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 1395.88
+        },
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 1383.87
+        },
+        {
+          "date": "2026-03-11",
+          "close": 1386.68
+        },
+        {
+          "date": "2026-03-12",
+          "close": 1351.58
+        },
+        {
+          "date": "2026-03-13",
+          "close": 1345.69
+        },
+        {
+          "date": "2026-03-16",
+          "close": 1375.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 1389.16
+        },
+        {
+          "date": "2026-03-18",
+          "close": 1355.17
+        },
+        {
+          "date": "2026-03-19",
+          "close": 1366.39
+        },
+        {
+          "date": "2026-03-20",
+          "close": 1317.25
+        },
+        {
+          "date": "2026-03-23",
+          "close": 1369.62
+        },
+        {
+          "date": "2026-03-24",
+          "close": 1399.42
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 49.25
+        },
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        },
+        {
+          "date": "2026-03-10",
+          "close": 46.79
+        },
+        {
+          "date": "2026-03-11",
+          "close": 47.98
+        },
+        {
+          "date": "2026-03-12",
+          "close": 45.25
+        },
+        {
+          "date": "2026-03-13",
+          "close": 45.77
+        },
+        {
+          "date": "2026-03-16",
+          "close": 45.76
+        },
+        {
+          "date": "2026-03-17",
+          "close": 44.06
+        },
+        {
+          "date": "2026-03-18",
+          "close": 45.03
+        },
+        {
+          "date": "2026-03-19",
+          "close": 46.18
+        },
+        {
+          "date": "2026-03-20",
+          "close": 43.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 44.01
+        },
+        {
+          "date": "2026-03-24",
+          "close": 44.06
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-02-03",
+          "close": 147.18
+        },
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        },
+        {
+          "date": "2026-03-10",
+          "close": 135.21
+        },
+        {
+          "date": "2026-03-11",
+          "close": 134.12
+        },
+        {
+          "date": "2026-03-12",
+          "close": 131.15
+        },
+        {
+          "date": "2026-03-13",
+          "close": 129.82
+        },
+        {
+          "date": "2026-03-16",
+          "close": 129.39
+        },
+        {
+          "date": "2026-03-17",
+          "close": 131.59
+        },
+        {
+          "date": "2026-03-18",
+          "close": 130.47
+        },
+        {
+          "date": "2026-03-19",
+          "close": 131.28
+        },
+        {
+          "date": "2026-03-20",
+          "close": 129.9
+        },
+        {
+          "date": "2026-03-23",
+          "close": 128.35
+        },
+        {
+          "date": "2026-03-24",
+          "close": 128.67
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Techman's product shift and semiconductor focus could sustain growth despite macro uncertainty. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
