@@ -1,0 +1,896 @@
+{
+  "theme": "ai",
+  "date": "2026-03-26",
+  "last_updated_utc": "2026-03-26T07:02:35.152Z",
+  "news": [
+    {
+      "title": "Training an AI agent to attack LLM applications like a real adversary",
+      "description": "Most enterprise software development teams now ship AI-powered applications faster than traditional penetration testing can keep up with. A security team with 500 applications may test each one once a year, or less. In the time between tests, the underlying m…",
+      "url": "https://www.helpnetsecurity.com/2026/03/25/novee-ai-pentesting-agent",
+      "source": "Help Net Security",
+      "publishedAt": "2026-03-25T06:30:31Z"
+    },
+    {
+      "title": "OpenAI drops AI video tool Sora, startling Disney: Sources",
+      "description": "On Monday evening, Walt Disney and OpenAI teams were working together on a project linked to Sora, OpenAI's artificial intelligence video tool. Just 30 minutes after that meeting, the Disney team was blindsided with word that OpenAI was dropping the tool alto…",
+      "url": "https://www.channelnewsasia.com/world/openai-drops-sora-video-artificial-intelligence-sora-6015576",
+      "source": "CNA",
+      "publishedAt": "2026-03-25T06:18:40Z"
+    },
+    {
+      "title": "ChatGPT Flags Republican Fundraising Links with Safety Warnings, Leaves Democratic Counterparts Unmarked",
+      "description": "AI Tool Shows Uneven Warnings for Political Donation Platforms OpenAI’s ChatGPT has been observed displaying safety warnings for links to WinRed, the primary online fundraising platform for Republican candidates, while providing links to its Democratic counte…",
+      "url": "https://www.naturalnews.com/2026-03-25-chatgpt-flags-republican-fundraising-with-safety-warnings.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-25T06:00:00Z"
+    },
+    {
+      "title": "OVHcloud announces the acquisition of Dragon LLM, a developer of specialized generative AI models, and is launching its AI lab to offer new services to its customers based on LLMs",
+      "description": "Roubaix – March 25th, 2026 – OVHcloud, a sovereign, global player and European leader in cloud, announces that it has signed a binding agreement to acquire Dragon LLM, an AI model fine-tuning platform designed for regulated industries. This transaction aims t…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/25/3261920/0/en/OVHcloud-announces-the-acquisition-of-Dragon-LLM-a-developer-of-specialized-generative-AI-models-and-is-launching-its-AI-lab-to-offer-new-services-to-its-customers-based-on-LLMs.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-25T06:00:00Z"
+    },
+    {
+      "title": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
+      "description": "This is first big step by ChatGPT maker to focus its business on potentially more lucrative areas, such as coding tools.",
+      "url": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-25T04:59:56Z"
+    },
+    {
+      "title": "Artificial intelligence deployed at war: What happened to finding a cure for cancer?",
+      "description": "AI’s champions promise cures for cancer and other wonders for a better world, but this technology is already veering elsewhere—into warfare under the cover of secrecy. Avowals of AI restraints and safety seem to have vaporized.",
+      "url": "https://www.livemint.com/opinion/online-views/artificial-intelligence-war-cure-for-cancer-anthropic-ai-iran-israel-pentagon-openai-11774360839078.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-25T07:01:28Z"
+    },
+    {
+      "title": "OpenAI to shutdown Sora video app in pivot toward business tools",
+      "description": "OpenAI announced it will shut down its Sora video generation app just six months after launch, shifting its focus toward business and agentic AI tools.\n\nRead More: https://punchng.com/openai-to-shutdown-sora-video-app-in-pivot-toward-business-tools/",
+      "url": "https://punchng.com/openai-to-shutdown-sora-video-app-in-pivot-toward-business-tools",
+      "source": "The Punch",
+      "publishedAt": "2026-03-25T06:00:28Z"
+    },
+    {
+      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+      "description": "OpenAI said Tuesday that it was \"saying goodbye to the Sora app\" and that it would share more soon about how to preserve what users already created on the app.",
+      "url": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
+      "source": "NPR",
+      "publishedAt": "2026-03-25T05:34:01Z"
+    },
+    {
+      "title": "Judge: Pentagon May Be Illegally Retaliating Against Anthropic",
+      "description": "A federal judge suggested the Pentagon may have crossed a constitutional line in its fight with Anthropic, the Washington Post reports. At a Tuesday hearing in San Francisco, US district judge Rita Lin said the Defense Department's move to label the AI compan…",
+      "url": "https://www.newser.com/story/386051/judge-pentagon-may-be-illegally-retaliating-against-anthropic.html",
+      "source": "Newser",
+      "publishedAt": "2026-03-25T05:30:00Z"
+    },
+    {
+      "title": "Commentary: Foxconn advances liquid cooling subsystems with brand partnerships at Nvidia GTC",
+      "description": "The demand for liquid cooling technology in AI servers continues to rise, and Foxconn is increasingly showcasing its components and subsystems in this space. At Nvidia's recently concluded GTC 2026, Foxconn's parts appeared not only on the back panels of ecos…",
+      "url": "https://www.digitimes.com/news/a20260325PD225/foxconn-liquid-cooling-demand-brand-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T05:00:54Z"
+    },
+    {
+      "title": "ミエルカSEO・ミエルカGEO、「LLMモニタリング」機能が「Google AIモード」に対応",
+      "description": "[株式会社Faber Company]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31263/310/31263-310-77ebbed7c67ff448193795523c50205e-1200x660.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000031263.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-25T04:40:42Z"
+    },
+    {
+      "title": "John Goerzen: Artificial Intelligence: Shades of Gray",
+      "description": "AI sure is a hot topic right now, and I see a lot of people arguing about it. To a lot of people around here, I’m the “computer person” they know and I get asked a lot about AI.\nI’m going to suggest a lot of things can be true at once. For instance:\n<ul>\n<li>…",
+      "url": "https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray",
+      "source": "Complete.org",
+      "publishedAt": "2026-03-25T04:12:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Training an AI agent to attack LLM applications like a real adversary",
+      "OpenAI drops AI video tool Sora, startling Disney: Sources",
+      "ChatGPT Flags Republican Fundraising Links with Safety Warnings, Leaves Democratic Counterparts Unmarked",
+      "OVHcloud announces the acquisition of Dragon LLM, a developer of specialized generative AI models, and is launching its AI lab to offer new services to its customers based on LLMs",
+      "OpenAI pulls AI video app Sora as concerns grow on deepfake videos"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/world/openai-drops-sora-video-artificial-intelligence-sora-6015576",
+        "https://www.naturalnews.com/2026-03-25-chatgpt-flags-republican-fundraising-with-safety-warnings.html",
+        "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos"
+      ]
+    },
+    {
+      "title": "Llm",
+      "summary": "Grouped stories where \"llm\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/03/25/novee-ai-pentesting-agent",
+        "https://www.globenewswire.com/news-release/2026/03/25/3261920/0/en/OVHcloud-announces-the-acquisition-of-Dragon-LLM-a-developer-of-specialized-generative-AI-models-and-is-launching-its-AI-lab-to-offer-new-services-to-its-customers-based-on-LLMs.html",
+        "https://prtimes.jp/main/html/rd/p/000000310.000031263.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/opinion/online-views/artificial-intelligence-war-cure-for-cancer-anthropic-ai-iran-israel-pentagon-openai-11774360839078.html",
+        "https://www.newser.com/story/386051/judge-pentagon-may-be-illegally-retaliating-against-anthropic.html",
+        "https://www.digitimes.com/news/a20260325PD225/foxconn-liquid-cooling-demand-brand-gtc.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 174.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        },
+        {
+          "date": "2026-03-23",
+          "close": 175.64
+        },
+        {
+          "date": "2026-03-24",
+          "close": 175.2
+        },
+        {
+          "date": "2026-03-25",
+          "close": 178.68
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Training an AI agent to attack LLM applications like a real adversary. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 414.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 383
+        },
+        {
+          "date": "2026-03-24",
+          "close": 372.74
+        },
+        {
+          "date": "2026-03-25",
+          "close": 371.04
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Training an AI agent to attack LLM applications like a real adversary. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 333.04
+        },
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        },
+        {
+          "date": "2026-03-23",
+          "close": 302.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 290.44
+        },
+        {
+          "date": "2026-03-25",
+          "close": 290.93
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Training an AI agent to attack LLM applications like a real adversary. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 232.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-23",
+          "close": 210.14
+        },
+        {
+          "date": "2026-03-24",
+          "close": 207.24
+        },
+        {
+          "date": "2026-03-25",
+          "close": 211.71
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Training an AI agent to attack LLM applications like a real adversary. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 668.99
+        },
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        },
+        {
+          "date": "2026-03-23",
+          "close": 604.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 592.92
+        },
+        {
+          "date": "2026-03-25",
+          "close": 594.89
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Training an AI agent to attack LLM applications like a real adversary. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,961 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-26",
+  "last_updated_utc": "2026-03-26T07:02:56.556Z",
+  "news": [
+    {
+      "title": "the meaning of life AND/OR math",
+      "description": "<table><tr><td><tr><td>archive - contact - sexy exciting merchandise - search - about</td></tr></td></tr></table><table><tr><td>← previous</td><td>March 25th, 2026</td><td>next</td></tr><tr><td>March 25th, 2026: Last night I went to go see NIRVANNA THE BAND T…",
+      "url": "https://qwantz.com/index.php?comic=4451",
+      "source": "Qwantz.com",
+      "publishedAt": "2026-03-25T07:00:00Z"
+    },
+    {
+      "title": "Next-gen Snapdragon 8 Elite Gen 6 lineup detailed in new leak",
+      "description": "A reputable tipster has shared details on Qualcomm's next flagship chip lineup. The leak reveals the major differences between two upcoming chipsets, the SM8950 and SM8975, which are expected to be the Snapdragon 8 Elite Gen 6 and the 8 Elite Gen 6 Pro.",
+      "url": "https://www.notebookcheck.net/Next-gen-Snapdragon-8-Elite-Gen-6-lineup-detailed-in-new-leak.1258526.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-03-25T06:51:00Z"
+    },
+    {
+      "title": "Muthoot Exim opens 100th gold point centre in Mumbai, eyes expansion",
+      "description": "Muthoot Exim opens its 100th gold point centre in Mumbai, expanding gold recycling network to reduce import dependence and strengthen India’s gold supply chain.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/muthoot-exim-opens-100th-gold-point-centre-in-mumbai-eyes-expansion/article70782947.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-25T06:49:31Z"
+    },
+    {
+      "title": "(VIDEO) iPhone 18 Pro Max Rumors Point to Record Battery Life, Under-Display Face ID and Powerful 2nm A20 Chip",
+      "description": "Apple's iPhone 18 Pro Max is shaping up as one of the most significant upgrades in years, with rumors swirling around a massive battery capable of up to 40 hours of use, a smaller Dynamic Island edging toward under-display Face ID, and the debut of the compan…",
+      "url": "https://www.ibtimes.com.au/video-iphone-18-pro-max-rumors-point-record-battery-life-under-display-face-id-powerful-2nm-1864379",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-25T06:15:34Z"
+    },
+    {
+      "title": "Agileo Automation Launches Agil’EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs",
+      "description": "High-performance connectivity software delivers structured, high-volume equipment data required by tier-one fabs and advanced packaging facilities ahead of expected mid-2026 SEMI standards update POITIERS, France — Agileo Automation, a leading global provider…",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-25T06:04:52Z"
+    },
+    {
+      "title": "Judge: Pentagon May Be Illegally Retaliating Against Anthropic",
+      "description": "A federal judge suggested the Pentagon may have crossed a constitutional line in its fight with Anthropic, the Washington Post reports. At a Tuesday hearing in San Francisco, US district judge Rita Lin said the Defense Department's move to label the AI compan…",
+      "url": "https://www.newser.com/story/386051/judge-pentagon-may-be-illegally-retaliating-against-anthropic.html",
+      "source": "Newser",
+      "publishedAt": "2026-03-25T05:30:00Z"
+    },
+    {
+      "title": "Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD",
+      "description": "The pilot with supply chain firm Unloq under MAS's BLOOM initiative would trigger cross-border payments automatically when shipment conditions are verified, a use case that connects Ripple's stablecoin ambitions to a concrete commercial application.",
+      "url": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-25T05:13:24Z"
+    },
+    {
+      "title": "Commentary: Foxconn advances liquid cooling subsystems with brand partnerships at Nvidia GTC",
+      "description": "The demand for liquid cooling technology in AI servers continues to rise, and Foxconn is increasingly showcasing its components and subsystems in this space. At Nvidia's recently concluded GTC 2026, Foxconn's parts appeared not only on the back panels of ecos…",
+      "url": "https://www.digitimes.com/news/a20260325PD225/foxconn-liquid-cooling-demand-brand-gtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T05:00:54Z"
+    },
+    {
+      "title": "Arizona baseball holds off GCU for first midweek win of season",
+      "description": "A week ago, after another poor Tuesday performance in a home loss to New Mexico, Chip Hale floated the idea of cancelling some upcoming midweek games in order to keep his pitching fresh for the weekend. Whether that plan is still under consideration is unknow…",
+      "url": "https://www.azdesertswarm.com/arizona-baseball/77691/arizona-wildcats-gcu-lopes-recap-final-score-stats-highlights-chip-hale-jack-lafflam",
+      "source": "Arizona Desert Swarm",
+      "publishedAt": "2026-03-25T04:44:54Z"
+    },
+    {
+      "title": "TVS Supply Chain on track for $2 billion goal as disruptions reshape growth path",
+      "description": "TVS Supply Chain targets $2 billion revenue by 2029, driven by global supply chain shifts, China+1 trend and strong pipeline, amid geopolitical and currency risks.",
+      "url": "https://www.thehindubusinessline.com/companies/tvs-supply-chain-on-track-for-2-billion-goal-as-disruptions-reshape-growth-path/article70781166.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-25T04:44:20Z"
+    },
+    {
+      "title": "Taiwan plans national security law revisions after TSMC data breach involving former SVP",
+      "description": "Following the case of former TSMC senior vice president Wei-Jen Lo taking sensitive company data, Taiwan's Ministry of Justice has proposed amendments to strengthen the National Security Act and close legal loopholes. The incident, involving alleged theft of …",
+      "url": "https://www.digitimes.com/news/a20260325PD221/tsmc-data-security-legal-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T04:32:32Z"
+    },
+    {
+      "title": "Middle East conflict threatens petrochemical and semiconductor supply chains",
+      "description": "The widening Middle East conflict has disrupted shipping through the Strait of Hormuz and prompted Formosa Chemicals & Fibre Corporation to declare force majeure, threatening cuts to styrene monomer and other petrochemical supplies from April 2026—risks that …",
+      "url": "https://www.digitimes.com/news/a20260325PD220/shipping-materials-taiwan-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T04:21:45Z"
+    },
+    {
+      "title": "Intel Stock Edges Higher Amid Foundry Progress and AI PC Momentum as Chipmaker Navigates Competitive Landscape",
+      "description": "Intel Corp. shares closed modestly higher Tuesday, trading around $44.06 after a session that saw the stock fluctuate between $43.20 and $44.31, as investors weighed ongoing foundry advancements, strong demand for AI-related products and persistent challenges…",
+      "url": "https://www.ibtimes.com.au/intel-stock-edges-higher-amid-foundry-progress-ai-pc-momentum-chipmaker-navigates-competitive-1864357",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-25T04:21:13Z"
+    },
+    {
+      "title": "US-Iran conflict to hit Q4FY26 earnings, supply chain restoration may take 1-2 months: Report",
+      "description": "The US-Iran conflict will affect Indian corporate earnings in FY2026 and FY2027. Supply chains will take time to recover even after the Strait of Hormuz reopens. Small and mid-cap companies may see higher downgrades. Market estimates have not yet factored in …",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/us-iran-conflict-impact-on-corporate-earnings-and-supply-chain-disruptions-in-q4fy26/articleshow/129791009.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-25T04:20:30Z"
+    },
+    {
+      "title": "This startup built a photonic chip fit for AI",
+      "description": "Times Techies News: The AI boom has exposed a problem: moving data, not processing it, is fast becoming the biggest constraint for our unquenchable AI needs. As models gr.",
+      "url": "https://timesofindia.indiatimes.com/technology/times-techies/this-startup-built-a-photonic-chip-fit-for-ai/articleshow/129791155.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-25T04:20:29Z"
+    },
+    {
+      "title": "Risky Business #830 -- LiteLLM and security scanner supply chains compromised",
+      "description": "On this week’s show, Patrick Gray, Adam Boileau and James WIlson discuss the week’s cybersecurity news. They talk through:\n\n<ul>\n <li>TeamPCP’s supply chain attack on Github, and they threw in an anti-Iran wiper, because why not?!</li>\n <li>Anthropic hooks up…",
+      "url": "https://risky.biz/RB830",
+      "source": "Risky.biz",
+      "publishedAt": "2026-03-25T04:13:36Z"
+    },
+    {
+      "title": "John Goerzen: Artificial Intelligence: Shades of Gray",
+      "description": "AI sure is a hot topic right now, and I see a lot of people arguing about it. To a lot of people around here, I’m the “computer person” they know and I get asked a lot about AI.\nI’m going to suggest a lot of things can be true at once. For instance:\n<ul>\n<li>…",
+      "url": "https://changelog.complete.org/archives/42503-artificial-intelligence-shades-of-gray",
+      "source": "Complete.org",
+      "publishedAt": "2026-03-25T04:12:18Z"
+    },
+    {
+      "title": "With Hua Hong partnership, STMicro builds 'China for China' supply chain",
+      "description": "STMicroelectronics said this week that its STM32 microcontrollers, produced in partnership with Hua Hong Semiconductor, have entered volume production in China and are now being shipped to local customers, marking a significant step in the company's \"China fo…",
+      "url": "https://www.digitimes.com/news/a20260325PD210/stmicroelectronics-controller-ic-manufacturing-partnership-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T04:11:59Z"
+    },
+    {
+      "title": "Tescan targets Taiwan and South Korea for semiconductor investment",
+      "description": "Czech microscopy equipment supplier Tescan is continuing to deepen its presence in the Asia-Pacific market, targeting growing opportunities in semiconductor failure analysis (FA). In an interview in Seoul, CFO Pavel Sustek and Asia-Pacific president Sean Lee …",
+      "url": "https://www.digitimes.com/news/a20260324PD208/equipment-investment-taiwan-supplier-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T04:04:19Z"
+    },
+    {
+      "title": "MR new products drive near-eye display market to grow over 200% in 2026",
+      "description": "The near-eye display market is rapidly recovering from a low point in 2025, driven by an influx of next-generation mixed reality (MR) and smart glasses launches. Industry forecasts point to significant growth in 2026, fueled by major international brands rele…",
+      "url": "https://www.digitimes.com/news/a20260324PD218/display-market-mr-2026-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-25T04:04:10Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "the meaning of life AND/OR math",
+      "Next-gen Snapdragon 8 Elite Gen 6 lineup detailed in new leak",
+      "Muthoot Exim opens 100th gold point centre in Mumbai, eyes expansion",
+      "(VIDEO) iPhone 18 Pro Max Rumors Point to Record Battery Life, Under-Display Face ID and Powerful 2nm A20 Chip",
+      "Agileo Automation Launches Agil’EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/money-and-banking/muthoot-exim-opens-100th-gold-point-centre-in-mumbai-eyes-expansion/article70782947.ece",
+        "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+        "https://www.thehindubusinessline.com/companies/tvs-supply-chain-on-track-for-2-billion-goal-as-disruptions-reshape-growth-path/article70781166.ece"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://qwantz.com/index.php?comic=4451",
+        "https://financialpost.com/pmn/business-wire-news-releases-pmn/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems",
+        "https://www.digitimes.com/news/a20260325PD225/foxconn-liquid-cooling-demand-brand-gtc.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Next-gen-Snapdragon-8-Elite-Gen-6-lineup-detailed-in-new-leak.1258526.0.html",
+        "https://www.ibtimes.com.au/video-iphone-18-pro-max-rumors-point-record-battery-life-under-display-face-id-powerful-2nm-1864379",
+        "https://www.azdesertswarm.com/arizona-baseball/77691/arizona-wildcats-gcu-lopes-recap-final-score-stats-highlights-chip-hale-jack-lafflam"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.newser.com/story/386051/judge-pentagon-may-be-illegally-retaliating-against-anthropic.html",
+        "https://www.digitimes.com/news/a20260325PD221/tsmc-data-security-legal-taiwan.html",
+        "https://www.ibtimes.com.au/intel-stock-edges-higher-amid-foundry-progress-ai-pc-momentum-chipmaker-navigates-competitive-1864357"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 325.74
+        },
+        {
+          "date": "2026-02-05",
+          "close": 330.73
+        },
+        {
+          "date": "2026-02-06",
+          "close": 348.85
+        },
+        {
+          "date": "2026-02-09",
+          "close": 355.41
+        },
+        {
+          "date": "2026-02-10",
+          "close": 361.91
+        },
+        {
+          "date": "2026-02-11",
+          "close": 374.09
+        },
+        {
+          "date": "2026-02-12",
+          "close": 368.1
+        },
+        {
+          "date": "2026-02-13",
+          "close": 366.36
+        },
+        {
+          "date": "2026-02-17",
+          "close": 364.2
+        },
+        {
+          "date": "2026-02-18",
+          "close": 362.26
+        },
+        {
+          "date": "2026-02-19",
+          "close": 360.39
+        },
+        {
+          "date": "2026-02-20",
+          "close": 370.54
+        },
+        {
+          "date": "2026-02-23",
+          "close": 370.04
+        },
+        {
+          "date": "2026-02-24",
+          "close": 385.75
+        },
+        {
+          "date": "2026-02-25",
+          "close": 387.73
+        },
+        {
+          "date": "2026-02-26",
+          "close": 376.81
+        },
+        {
+          "date": "2026-02-27",
+          "close": 374.58
+        },
+        {
+          "date": "2026-03-02",
+          "close": 369.11
+        },
+        {
+          "date": "2026-03-03",
+          "close": 353.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 357.44
+        },
+        {
+          "date": "2026-03-05",
+          "close": 353.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 338.89
+        },
+        {
+          "date": "2026-03-09",
+          "close": 348.7
+        },
+        {
+          "date": "2026-03-10",
+          "close": 347.09
+        },
+        {
+          "date": "2026-03-11",
+          "close": 354.56
+        },
+        {
+          "date": "2026-03-12",
+          "close": 336.71
+        },
+        {
+          "date": "2026-03-13",
+          "close": 338.31
+        },
+        {
+          "date": "2026-03-16",
+          "close": 340.23
+        },
+        {
+          "date": "2026-03-17",
+          "close": 345.98
+        },
+        {
+          "date": "2026-03-18",
+          "close": 339.57
+        },
+        {
+          "date": "2026-03-19",
+          "close": 338.79
+        },
+        {
+          "date": "2026-03-20",
+          "close": 329.24
+        },
+        {
+          "date": "2026-03-23",
+          "close": 338.45
+        },
+        {
+          "date": "2026-03-24",
+          "close": 343.25
+        },
+        {
+          "date": "2026-03-25",
+          "close": 347.75
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: the meaning of life AND/OR math. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 200.19
+        },
+        {
+          "date": "2026-02-05",
+          "close": 192.5
+        },
+        {
+          "date": "2026-02-06",
+          "close": 208.44
+        },
+        {
+          "date": "2026-02-09",
+          "close": 216
+        },
+        {
+          "date": "2026-02-10",
+          "close": 213.57
+        },
+        {
+          "date": "2026-02-11",
+          "close": 213.58
+        },
+        {
+          "date": "2026-02-12",
+          "close": 205.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 207.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 203.08
+        },
+        {
+          "date": "2026-02-18",
+          "close": 200.12
+        },
+        {
+          "date": "2026-02-19",
+          "close": 203.37
+        },
+        {
+          "date": "2026-02-20",
+          "close": 200.15
+        },
+        {
+          "date": "2026-02-23",
+          "close": 196.6
+        },
+        {
+          "date": "2026-02-24",
+          "close": 213.84
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.86
+        },
+        {
+          "date": "2026-02-26",
+          "close": 203.68
+        },
+        {
+          "date": "2026-02-27",
+          "close": 200.21
+        },
+        {
+          "date": "2026-03-02",
+          "close": 198.62
+        },
+        {
+          "date": "2026-03-03",
+          "close": 190.99
+        },
+        {
+          "date": "2026-03-04",
+          "close": 202.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 199.45
+        },
+        {
+          "date": "2026-03-06",
+          "close": 192.44
+        },
+        {
+          "date": "2026-03-09",
+          "close": 202.73
+        },
+        {
+          "date": "2026-03-10",
+          "close": 203.24
+        },
+        {
+          "date": "2026-03-11",
+          "close": 204.83
+        },
+        {
+          "date": "2026-03-12",
+          "close": 197.74
+        },
+        {
+          "date": "2026-03-13",
+          "close": 193.39
+        },
+        {
+          "date": "2026-03-16",
+          "close": 196.58
+        },
+        {
+          "date": "2026-03-17",
+          "close": 196.31
+        },
+        {
+          "date": "2026-03-18",
+          "close": 199.46
+        },
+        {
+          "date": "2026-03-19",
+          "close": 205.27
+        },
+        {
+          "date": "2026-03-20",
+          "close": 201.33
+        },
+        {
+          "date": "2026-03-23",
+          "close": 202.68
+        },
+        {
+          "date": "2026-03-24",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-25",
+          "close": 220.27
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: the meaning of life AND/OR math. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 1339.13
+        },
+        {
+          "date": "2026-02-05",
+          "close": 1350.16
+        },
+        {
+          "date": "2026-02-06",
+          "close": 1413.01
+        },
+        {
+          "date": "2026-02-09",
+          "close": 1429.49
+        },
+        {
+          "date": "2026-02-10",
+          "close": 1413.62
+        },
+        {
+          "date": "2026-02-11",
+          "close": 1435.63
+        },
+        {
+          "date": "2026-02-12",
+          "close": 1406.87
+        },
+        {
+          "date": "2026-02-13",
+          "close": 1406.61
+        },
+        {
+          "date": "2026-02-17",
+          "close": 1419.78
+        },
+        {
+          "date": "2026-02-18",
+          "close": 1468.72
+        },
+        {
+          "date": "2026-02-19",
+          "close": 1458.93
+        },
+        {
+          "date": "2026-02-20",
+          "close": 1469.59
+        },
+        {
+          "date": "2026-02-23",
+          "close": 1485.99
+        },
+        {
+          "date": "2026-02-24",
+          "close": 1497.8
+        },
+        {
+          "date": "2026-02-25",
+          "close": 1526.51
+        },
+        {
+          "date": "2026-02-26",
+          "close": 1463.8
+        },
+        {
+          "date": "2026-02-27",
+          "close": 1450.56
+        },
+        {
+          "date": "2026-03-02",
+          "close": 1423.54
+        },
+        {
+          "date": "2026-03-03",
+          "close": 1360.94
+        },
+        {
+          "date": "2026-03-04",
+          "close": 1399.49
+        },
+        {
+          "date": "2026-03-05",
+          "close": 1368.36
+        },
+        {
+          "date": "2026-03-06",
+          "close": 1292.8
+        },
+        {
+          "date": "2026-03-09",
+          "close": 1357.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 1383.87
+        },
+        {
+          "date": "2026-03-11",
+          "close": 1386.68
+        },
+        {
+          "date": "2026-03-12",
+          "close": 1351.58
+        },
+        {
+          "date": "2026-03-13",
+          "close": 1345.69
+        },
+        {
+          "date": "2026-03-16",
+          "close": 1375.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 1389.16
+        },
+        {
+          "date": "2026-03-18",
+          "close": 1355.17
+        },
+        {
+          "date": "2026-03-19",
+          "close": 1366.39
+        },
+        {
+          "date": "2026-03-20",
+          "close": 1317.25
+        },
+        {
+          "date": "2026-03-23",
+          "close": 1369.62
+        },
+        {
+          "date": "2026-03-24",
+          "close": 1399.42
+        },
+        {
+          "date": "2026-03-25",
+          "close": 1393.89
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: the meaning of life AND/OR math. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 48.6
+        },
+        {
+          "date": "2026-02-05",
+          "close": 48.24
+        },
+        {
+          "date": "2026-02-06",
+          "close": 50.59
+        },
+        {
+          "date": "2026-02-09",
+          "close": 50.24
+        },
+        {
+          "date": "2026-02-10",
+          "close": 47.13
+        },
+        {
+          "date": "2026-02-11",
+          "close": 48.29
+        },
+        {
+          "date": "2026-02-12",
+          "close": 46.48
+        },
+        {
+          "date": "2026-02-13",
+          "close": 46.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 46.18
+        },
+        {
+          "date": "2026-02-18",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-19",
+          "close": 44.62
+        },
+        {
+          "date": "2026-02-20",
+          "close": 44.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 43.63
+        },
+        {
+          "date": "2026-02-24",
+          "close": 46.12
+        },
+        {
+          "date": "2026-02-25",
+          "close": 46.88
+        },
+        {
+          "date": "2026-02-26",
+          "close": 45.46
+        },
+        {
+          "date": "2026-02-27",
+          "close": 45.61
+        },
+        {
+          "date": "2026-03-02",
+          "close": 45.5
+        },
+        {
+          "date": "2026-03-03",
+          "close": 43.12
+        },
+        {
+          "date": "2026-03-04",
+          "close": 45.56
+        },
+        {
+          "date": "2026-03-05",
+          "close": 45.91
+        },
+        {
+          "date": "2026-03-06",
+          "close": 43.42
+        },
+        {
+          "date": "2026-03-09",
+          "close": 45.58
+        },
+        {
+          "date": "2026-03-10",
+          "close": 46.79
+        },
+        {
+          "date": "2026-03-11",
+          "close": 47.98
+        },
+        {
+          "date": "2026-03-12",
+          "close": 45.25
+        },
+        {
+          "date": "2026-03-13",
+          "close": 45.77
+        },
+        {
+          "date": "2026-03-16",
+          "close": 45.76
+        },
+        {
+          "date": "2026-03-17",
+          "close": 44.06
+        },
+        {
+          "date": "2026-03-18",
+          "close": 45.03
+        },
+        {
+          "date": "2026-03-19",
+          "close": 46.18
+        },
+        {
+          "date": "2026-03-20",
+          "close": 43.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 44.01
+        },
+        {
+          "date": "2026-03-24",
+          "close": 44.06
+        },
+        {
+          "date": "2026-03-25",
+          "close": 47.18
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: the meaning of life AND/OR math. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [
+        {
+          "date": "2026-02-04",
+          "close": 148.89
+        },
+        {
+          "date": "2026-02-05",
+          "close": 136.3
+        },
+        {
+          "date": "2026-02-06",
+          "close": 137.34
+        },
+        {
+          "date": "2026-02-09",
+          "close": 138.93
+        },
+        {
+          "date": "2026-02-10",
+          "close": 140.09
+        },
+        {
+          "date": "2026-02-11",
+          "close": 141.04
+        },
+        {
+          "date": "2026-02-12",
+          "close": 138.47
+        },
+        {
+          "date": "2026-02-13",
+          "close": 140.7
+        },
+        {
+          "date": "2026-02-17",
+          "close": 142.63
+        },
+        {
+          "date": "2026-02-18",
+          "close": 143.24
+        },
+        {
+          "date": "2026-02-19",
+          "close": 141.27
+        },
+        {
+          "date": "2026-02-20",
+          "close": 142.88
+        },
+        {
+          "date": "2026-02-23",
+          "close": 140.41
+        },
+        {
+          "date": "2026-02-24",
+          "close": 144.78
+        },
+        {
+          "date": "2026-02-25",
+          "close": 145.82
+        },
+        {
+          "date": "2026-02-26",
+          "close": 145.59
+        },
+        {
+          "date": "2026-02-27",
+          "close": 142.36
+        },
+        {
+          "date": "2026-03-02",
+          "close": 141.03
+        },
+        {
+          "date": "2026-03-03",
+          "close": 138.13
+        },
+        {
+          "date": "2026-03-04",
+          "close": 139.51
+        },
+        {
+          "date": "2026-03-05",
+          "close": 137.01
+        },
+        {
+          "date": "2026-03-06",
+          "close": 135.655
+        },
+        {
+          "date": "2026-03-09",
+          "close": 138.111
+        },
+        {
+          "date": "2026-03-10",
+          "close": 135.21
+        },
+        {
+          "date": "2026-03-11",
+          "close": 134.12
+        },
+        {
+          "date": "2026-03-12",
+          "close": 131.15
+        },
+        {
+          "date": "2026-03-13",
+          "close": 129.82
+        },
+        {
+          "date": "2026-03-16",
+          "close": 129.39
+        },
+        {
+          "date": "2026-03-17",
+          "close": 131.59
+        },
+        {
+          "date": "2026-03-18",
+          "close": 130.47
+        },
+        {
+          "date": "2026-03-19",
+          "close": 131.28
+        },
+        {
+          "date": "2026-03-20",
+          "close": 129.9
+        },
+        {
+          "date": "2026-03-23",
+          "close": 128.35
+        },
+        {
+          "date": "2026-03-24",
+          "close": 128.67
+        },
+        {
+          "date": "2026-03-25",
+          "close": 130.35
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: the meaning of life AND/OR math. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
