@@ -1,0 +1,947 @@
+{
+  "theme": "ai",
+  "date": "2026-03-27",
+  "last_updated_utc": "2026-03-27T07:01:20.908Z",
+  "news": [
+    {
+      "title": "A nearly undetectable LLM attack needs only a handful of poisoned samples",
+      "description": "Prompt engineering has become a standard part of how large language models are deployed in production, and it introduces an attack surface most organizations have not yet addressed. Researchers have developed and tested a prompt-based backdoor attack method, …",
+      "url": "https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research",
+      "source": "Help Net Security",
+      "publishedAt": "2026-03-26T06:00:00Z"
+    },
+    {
+      "title": "Nvidia and Emerald AI partner with utilities to build grid-responsive AI data centers",
+      "description": "Nvidia and Emerald AI said on Tuesday that they are joining forces with a group of major US power producers — including AES Corporation, Constellation Energy, Invenergy, NextEra Energy, Nscale Energy & Power, and Vistra — to develop a new generation of \"AI fa…",
+      "url": "https://www.digitimes.com/news/a20260324VL215/nvidia-electricity-infrastructure-data-center-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-26T00:36:12Z"
+    },
+    {
+      "title": "US senators accuse Nvidia CEO of misleading claims, urge halt to AI chip exports",
+      "description": "US Senators Jim Banks and Elizabeth Warren, in a joint letter dated March 23, called on US Commerce Secretary Howard Lutnick to suspend Nvidia's export licenses for advanced AI chips destined for China and intermediary Southeast Asian countries, including Sin…",
+      "url": "https://www.digitimes.com/news/a20260325PD237/nvidia-ai-chip-ceo-chips-asia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-26T00:35:59Z"
+    },
+    {
+      "title": "'AI is becoming THE line item': OpenAI and Anthropic are big winners in the doubling of AI spend as legacy SaaS face an existential crisis",
+      "description": "Enterprise AI spend is booming, with OpenAI, Anthropic, and Cursor dominating budgets while legacy SaaS loses relevance and influence.",
+      "url": "https://www.techradar.com/pro/security/ai-is-becoming-the-line-item-openai-and-anthropic-are-big-winners-in-the-doubling-of-ai-spend-as-legacy-saas-face-an-existential-crisis",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-25T23:20:00Z"
+    },
+    {
+      "title": "Claude Code AI tool getting auto mode",
+      "description": "Anthropic is adding the function to handle permissions for users and reduce risks in running tasks.",
+      "url": "https://www.infoworld.com/article/4150226/claude-code-ai-tool-getting-auto-mode.html",
+      "source": "InfoWorld",
+      "publishedAt": "2026-03-25T22:34:29Z"
+    },
+    {
+      "title": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana",
+      "description": "In an era of globalization and corporate consolidation, the “pick-and-shovel” ripple spreads very differently. It’s testing assumptions about who actually benefits when a mega-project arrives in town.",
+      "url": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana",
+      "source": "Fortune",
+      "publishedAt": "2026-03-26T07:00:00Z"
+    },
+    {
+      "title": "Kentucky Family Declines Data Center Offer, Citing Farmland Preservation",
+      "description": "Family Turns Down Multimillion-Dollar Data Center Deal A Kentucky family has rejected a $26 million offer to sell a portion of their farmland for development into an artificial intelligence data center, choosing instead to retain land that has been in their f…",
+      "url": "https://www.naturalnews.com/2026-03-26-kentucky-family-declines-data-center-offer-farmland-preservation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-26T06:00:00Z"
+    },
+    {
+      "title": "Agentic AI vs. Generative AI: What is the Difference for Enterprise Software?",
+      "description": "Understand Agentic AI vs. Generative AI for enterprise software. Learn the key differences, use cases, and how to combine them for intelligent automation.",
+      "url": "https://www.c-sharpcorner.com/article/agentic-ai-vs-generative-ai-what-is-the-difference-for-enterprise-software",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-26T05:19:07Z"
+    },
+    {
+      "title": "Chief Telecom to invest over NT$3 billion in fourth AI data center at Central Taiwan Science Park",
+      "description": "Chief Telecom announced on March 24 that its board of directors has approved an investment exceeding NT$3 billion (US$93.5 million) to build a fourth AI data center in the Central Taiwan Science Park. The move is a response to the global surge in demand for A…",
+      "url": "https://www.digitimes.com/news/a20260325PD228/chief-telecom-data-center-ctsp-investment-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-26T04:57:00Z"
+    },
+    {
+      "title": "OpenAI shuts down Sora AI generation program",
+      "description": "OpenAI’s Sora will be shut down. OpenAI is officially shutting down its Sora platform.Advertisement In a statement posted on X,...\nThe post OpenAI shuts down Sora AI generation program appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-shuts-down-sora-ai-generation-program",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-03-26T04:33:37Z"
+    },
+    {
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "description": "Using LLMs and AI browser automation to robustly extract web data - lightfeed/extractor",
+      "url": "https://github.com/lightfeed/extractor",
+      "source": "Github.com",
+      "publishedAt": "2026-03-26T03:55:52Z"
+    },
+    {
+      "title": "Nvidia and SLB expand AI infrastructure collaboration with global implications",
+      "description": "SLB and Nvidia expanded a technology collaboration to design and deploy modular AI infrastructure and domain-specific models for the energy industry, promising faster deployment, lower costs, and scalable AI tools that could accelerate decision-making across …",
+      "url": "https://www.digitimes.com/news/a20260326VL200/nvidia-data-center-energy-management-ai-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-26T03:53:46Z"
+    },
+    {
+      "title": "OpenAI drops AI video tool Sora, startling Disney, sources say - KSL.com",
+      "description": "OpenAI drops AI video tool Sora, startling Disney, sources sayKSL.com View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181104834",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-26T03:52:30Z"
+    },
+    {
+      "title": "Nvidia and Google predict 'Q-Day' at first AI Expo quantum forum",
+      "description": "Academic and industry experts from Nvidia and Google predicted an upcoming \"Q-Day\", the day when quantum computing is advanced enough to break current levels of encryption and crack passwords. While this day may be years ahead, governments and companies are a…",
+      "url": "https://www.digitimes.com/news/a20260326PD221/google-nvidia-quantum-computing-quantum-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-26T02:36:27Z"
+    },
+    {
+      "title": "The Disney/OpenAI slop flop",
+      "description": "How Sora, the Disney/Open AI collaboration started. At the time of Disney’s announcement with OpenAI, it was hard to imagine why Disney would infect its flagship paid streaming service with content from a service whose viral videos consisted of users turning …",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/03/the-disney-openai-slop-flop",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-03-26T00:44:18Z"
+    },
+    {
+      "title": "OpenAI Gives Users a Long-Term Storage Option With ChatGPT Library",
+      "description": "Right now, you need a Plus plan or better to access the library feature.",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-gives-users-long-term-storage-option-with-chatgpt-library",
+      "source": "CNET",
+      "publishedAt": "2026-03-25T22:12:35Z"
+    },
+    {
+      "title": "Feds Arrest Trio for Nvidia GPU Smuggling Scheme Involving Supermicro Servers",
+      "description": "A Chinese national and two Americans allegedly tried to smuggle export-controlled Nvidia chips to China. But Nvidia and Supermicro noticed something was off about the orders and canceled them.\nThe US has disclosed a new Nvidia chip-smuggling case that also se…",
+      "url": "https://me.pcmag.com/en/ai/36182/feds-arrest-trio-for-nvidia-gpu-smuggling-scheme-involving-supermicro-servers",
+      "source": "PCMag.com",
+      "publishedAt": "2026-03-25T22:06:39Z"
+    },
+    {
+      "title": "Feds Arrest Trio for Nvidia GPU Smuggling Scheme Involving Supermicro Servers",
+      "description": "A Chinese national and two Americans allegedly tried to smuggle export-controlled Nvidia chips to China. But Nvidia and Supermicro noticed something was off about the orders and canceled them.\nThe US has disclosed a new Nvidia chip-smuggling case that also se…",
+      "url": "https://uk.pcmag.com/ai/164014/feds-arrest-trio-for-nvidia-gpu-smuggling-scheme-involving-supermicro-servers",
+      "source": "PCMag.com",
+      "publishedAt": "2026-03-25T22:06:39Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "A nearly undetectable LLM attack needs only a handful of poisoned samples",
+      "Nvidia and Emerald AI partner with utilities to build grid-responsive AI data centers",
+      "US senators accuse Nvidia CEO of misleading claims, urge halt to AI chip exports",
+      "'AI is becoming THE line item': OpenAI and Anthropic are big winners in the doubling of AI spend as legacy SaaS face an existential crisis",
+      "Claude Code AI tool getting auto mode"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260324VL215/nvidia-electricity-infrastructure-data-center-demand.html",
+        "https://www.digitimes.com/news/a20260325PD237/nvidia-ai-chip-ceo-chips-asia.html",
+        "https://www.digitimes.com/news/a20260326VL200/nvidia-data-center-energy-management-ai-infrastructure.html"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana",
+        "https://www.naturalnews.com/2026-03-26-kentucky-family-declines-data-center-offer-farmland-preservation.html",
+        "https://www.digitimes.com/news/a20260325PD228/chief-telecom-data-center-ctsp-investment-2025.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/security/ai-is-becoming-the-line-item-openai-and-anthropic-are-big-winners-in-the-doubling-of-ai-spend-as-legacy-saas-face-an-existential-crisis",
+        "https://www.yugatech.com/news/openai-shuts-down-sora-ai-generation-program",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181104834"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/03/26/llm-backdoor-attack-research",
+        "https://www.infoworld.com/article/4150226/claude-code-ai-tool-getting-auto-mode.html",
+        "https://www.c-sharpcorner.com/article/agentic-ai-vs-generative-ai-what-is-the-difference-for-enterprise-software"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-02-05",
+          "close": 171.88
+        },
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        },
+        {
+          "date": "2026-03-23",
+          "close": 175.64
+        },
+        {
+          "date": "2026-03-24",
+          "close": 175.2
+        },
+        {
+          "date": "2026-03-25",
+          "close": 178.68
+        },
+        {
+          "date": "2026-03-26",
+          "close": 171.24
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: A nearly undetectable LLM attack needs only a handful of poisoned samples. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-02-05",
+          "close": 393.67
+        },
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 383
+        },
+        {
+          "date": "2026-03-24",
+          "close": 372.74
+        },
+        {
+          "date": "2026-03-25",
+          "close": 371.04
+        },
+        {
+          "date": "2026-03-26",
+          "close": 365.97
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: A nearly undetectable LLM attack needs only a handful of poisoned samples. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-02-05",
+          "close": 331.25
+        },
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        },
+        {
+          "date": "2026-03-23",
+          "close": 302.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 290.44
+        },
+        {
+          "date": "2026-03-25",
+          "close": 290.93
+        },
+        {
+          "date": "2026-03-26",
+          "close": 280.92
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: A nearly undetectable LLM attack needs only a handful of poisoned samples. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-02-05",
+          "close": 222.69
+        },
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-23",
+          "close": 210.14
+        },
+        {
+          "date": "2026-03-24",
+          "close": 207.24
+        },
+        {
+          "date": "2026-03-25",
+          "close": 211.71
+        },
+        {
+          "date": "2026-03-26",
+          "close": 207.54
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: A nearly undetectable LLM attack needs only a handful of poisoned samples. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-02-05",
+          "close": 670.21
+        },
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        },
+        {
+          "date": "2026-03-23",
+          "close": 604.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 592.92
+        },
+        {
+          "date": "2026-03-25",
+          "close": 594.89
+        },
+        {
+          "date": "2026-03-26",
+          "close": 547.54
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: A nearly undetectable LLM attack needs only a handful of poisoned samples. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
