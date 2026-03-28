@@ -1,0 +1,1022 @@
+{
+  "theme": "ai",
+  "date": "2026-03-28",
+  "last_updated_utc": "2026-03-28T06:53:35.721Z",
+  "news": [
+    {
+      "title": "In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve",
+      "description": "Google has introduced TurboQuant, a compression algorithm that reduces large language model (LLM) memory usage by at least 6x while boosting performance, targeting one of AI's most persistent bottlenecks: memory. The breakthrough lowers inference costs and ex…",
+      "url": "https://www.digitimes.com/news/a20260327VL207/google-llm-ai-inference-cost-algorithm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-27T06:33:29Z"
+    },
+    {
+      "title": "Claude AI maker Anthropic considers IPO as soon as October",
+      "description": "Anthropic PBC is considering going public as soon as in October, according to people familiar with the matter, as the artificial intelligence company races with rival OpenAI Inc. to hold an initial public offering.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/claude-ai-maker-anthropic-considers-ipo-as-soon-as-october/articleshow/129837524.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-27T02:52:21Z"
+    },
+    {
+      "title": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI",
+      "description": "By late 2025, most enterprises adopting AI chose OpenAI. In 2026, that trend is reversing. Enterprise users now increasingly favor Anthropic over OpenAI, marking a shift in competitive positioning within enterprise AI.",
+      "url": "https://www.digitimes.com/news/a20260327PD204/openai-anthropic-google-gemini-apple-ai-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-27T02:48:40Z"
+    },
+    {
+      "title": "US judge blocks Pentagon's Anthropic blacklisting for now",
+      "description": "March 26 : A U.S. judge on Thursday temporarily blocked the Pentagon's blacklisting of Anthropic, the latest turn in the Claude maker's high-stakes fight with the military over AI safety on the battlefield. Anthropic's lawsuit in California federal court alle…",
+      "url": "https://www.channelnewsasia.com/business/us-judge-blocks-pentagons-anthropic-blacklisting-now-6020261",
+      "source": "CNA",
+      "publishedAt": "2026-03-27T01:39:53Z"
+    },
+    {
+      "title": "Gemini takes on ChatGPT and Claude with a major switching upgrade",
+      "description": "Easily import your memories and preferences",
+      "url": "https://www.androidpolice.com/gemini-takes-on-chatgpt-claude-major-switching-upgrade",
+      "source": "Android Police",
+      "publishedAt": "2026-03-27T05:43:28Z"
+    },
+    {
+      "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk",
+      "description": "A federal judge has ruled in favor of artificial intelligence company Anthropic in temporarily blocking the Pentagon from labeling the company as a supply chain risk. U.S. District Judge Rita Lin on...",
+      "url": "https://www.thehour.com/business/article/federal-judge-temporarily-blocks-the-pentagon-22154481.php",
+      "source": "Thehour.com",
+      "publishedAt": "2026-03-27T05:28:41Z"
+    },
+    {
+      "title": "Google Gemini now lets users import memories and chats from rival chatbots",
+      "description": "Google launched “switching tools” in Gemini, letting users import “memories” and full chat histories from other AI apps. The feature quickly transfers preferences and context, making adoption easier. The move targets to attract users of rivals like OpenAI and…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-gemini-now-lets-users-import-memories-and-chats-from-rival-chatbots/articleshow/129839190.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-27T05:13:42Z"
+    },
+    {
+      "title": "Plany – Calendar-first trip planner with ChatGPT and Claude AI integration",
+      "description": "Calendar-first trip planner with ChatGPT and Claude AI integration",
+      "url": "https://betalist.com/startups/plany",
+      "source": "Betalist.com",
+      "publishedAt": "2026-03-27T02:05:00Z"
+    },
+    {
+      "title": "Show HN: Pentesting Tool Using Claude",
+      "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,         autonomous hunting, and report generation. All inside Claude Code. - shuvonsec/claude-bug-bounty",
+      "url": "https://github.com/shuvonsec/claude-bug-bounty",
+      "source": "Github.com",
+      "publishedAt": "2026-03-27T06:08:11Z"
+    },
+    {
+      "title": "Show HN: I got tired of biased (all) news so I made Claude cosplay each side",
+      "description": "Got tired of reading news with a single bias so I built a thing.\nSMLZ spins up multiple AI agents via Claude SDK, each locked into a different analytical worldview, sends them off to do their own research from their own sources, then synthesizes everything in…",
+      "url": "https://iran.smlz.io/",
+      "source": "Smlz.io",
+      "publishedAt": "2026-03-27T06:03:42Z"
+    },
+    {
+      "title": "Judge Blocks Pentagon's Move Labeling Anthropic a Risk",
+      "description": "A federal judge just told the Pentagon it went too far in trying to sideline one of Silicon Valley's biggest AI players, the Washington Post reports. On Thursday, US District Judge Rita F. Lin temporarily blocked a Defense Department order that had branded An…",
+      "url": "https://www.newser.com/story/386218/judge-blocks-pentagons-move-labeling-anthropic-a-risk.html",
+      "source": "Newser",
+      "publishedAt": "2026-03-27T06:00:00Z"
+    },
+    {
+      "title": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation - MacRumors",
+      "description": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone TranslationMacRumors Google Translate’s live headphone translation feature lands on iOS9to5Mac Google Translate’s real-time headphone translations feature expands to iOS and more…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181113786",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-27T05:32:24Z"
+    },
+    {
+      "title": "Top 5 Open-Source Alternatives to OpenAI Operator for Task Automation",
+      "description": "Explore top open-source alternatives to OpenAI Operator for task automation. Discover LangChain, Auto-GPT, CrewAI, Flowise, and Hugging Face for efficient workflows.",
+      "url": "https://www.c-sharpcorner.com/article/top-5-open-source-alternatives-to-openai-operator-for-task-automation",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-27T04:40:48Z"
+    },
+    {
+      "title": "Claude Code vs. GitHub Copilot: Which is Better for Large-Scale Refactoring?",
+      "description": "Compare Claude Code & GitHub Copilot for refactoring! Discover which AI tool excels at large-scale architecture changes vs. quick code improvements. Boost productivity!",
+      "url": "https://www.c-sharpcorner.com/article/claude-code-vs-github-copilot-which-is-better-for-large-scale-refactoring",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-27T04:35:42Z"
+    },
+    {
+      "title": "Half-Life 2 writer: Valve devs quietly testing generative AI for game writing",
+      "description": "Half-Life 2 and Portal writer Erik Wolpaw says a small group at Valve is quietly experimenting with generative AI tools, though he argues the technology remains “pretty bad” at creative writing and isn’t a near-term threat to human authors. He suggests AI may…",
+      "url": "https://www.notebookcheck.net/Half-Life-2-writer-Valve-devs-quietly-testing-generative-AI-for-game-writing.1260378.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-03-27T04:32:00Z"
+    },
+    {
+      "title": "Why China’s humanoid robots are still waiting for their ‘ChatGPT moment’",
+      "description": "Limited training data and unresolved hardware challenges continue to hold back humanoid robots from mass adoption, say experts. Read full story",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/03/27/why-chinas-humanoid-robots-are-still-waiting-for-their-chatgpt-moment",
+      "source": "The Star Online",
+      "publishedAt": "2026-03-27T04:15:00Z"
+    },
+    {
+      "title": "US judge blocks Pentagon’s Anthropic blacklisting for now",
+      "description": "Anthropic wins temporary relief as U.S. judge halts Pentagon blacklist in escalating AI battlefield dispute",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/us-judge-blocks-pentagons-anthropic-blacklisting-for-now-10603801",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-27T04:12:27Z"
+    },
+    {
+      "title": "Netflix’s First MLB Broadcast Wasn’t A Home Run; The AI Data Center Backlash Arrives",
+      "description": "Netflix's MLB streaming is heavy on the ads; the anti-AI movement gains traction; the court dismissed X's antitrust allegations. \nThe post Netflix’s First MLB Broadcast Wasn’t A Home Run; The AI Data Center Backlash Arrives appeared first on AdExchanger.",
+      "url": "http://www.adexchanger.com/daily-news-roundup/friday-27032026",
+      "source": "AdExchanger",
+      "publishedAt": "2026-03-27T04:03:12Z"
+    },
+    {
+      "title": "U.S. judge suspends govt sanctions on AI company Anthropic",
+      "description": "A U.S. federal judge on Thursday suspended sanctions imposed by President Donald Trump's administration on Anthropic, saying the measures likely violated the law in blacklisting the AI powerhouse for expressing unease about the Pentagon's use of its technolog…",
+      "url": "https://japantoday.com/category/tech/us-judge-suspends-govt-sanctions-on-ai-company-anthropic",
+      "source": "Japan Today",
+      "publishedAt": "2026-03-27T03:31:57Z"
+    },
+    {
+      "title": "AppleはiOS 27でSiriをApp Store経由で提供されるあらゆるAIと連携可能にする方針、Apple IntelligenceやSiriでのChatGPTの独占状態は終了",
+      "description": "Appleは2026年秋頃提供予定の「iOS 27」で、ユーザーがSiriと連携できるAIチャットボットを自由に選べるようにすることを計画していると、Bloombergのマーク・ガーマン記者が報じています。Apple Plans to Open Up Siri to Rival AI Assistants Beyond ChatGPT in iOS 27 - Bloomberghttps://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-ope…",
+      "url": "https://news.livedoor.com/article/detail/30854605",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-27T03:08:00Z"
+    },
+    {
+      "title": "US AI startup Anthropic battles government ban, eyeing US$60b IPO in high-stakes AI showdown",
+      "description": "US-based AI startup Anthropic is navigating a pivotal moment that blends legal confrontation with financial ambition, as the firm both fends off a US government ban and explores a potential initial public offering (IPO), according to Bloomberg.",
+      "url": "https://www.digitimes.com/news/a20260327VL201/anthropic-ipo-ban-legal-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-27T02:51:22Z"
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini - The Verge",
+      "description": "Google is making it easier to import another AI’s memory into GeminiThe Verge Make the switch: Bring your AI memories and chat history to Geminiblog.google Google Gemini Adds Tool to Make It Easier to Switch From ChatGPTBloomberg.com You can now transfer your…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181111880",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-27T02:32:38Z"
+    },
+    {
+      "title": "Exclusive: Anthropic acknowledges testing new AI model representing ‘step change’ in capabilities, after accidental data leak reveals its existence",
+      "description": "AI company Anthropic is testing a previously undisclosed AI model called 'Mythos' that is significantly more capable than anything it has previously built, according to a draft blog post left publicly accessible.",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities",
+      "source": "Fortune",
+      "publishedAt": "2026-03-27T02:27:48Z"
+    },
+    {
+      "title": "Wikipedia Does Not Want Generative AI Write-ups in Latest Policy Update",
+      "description": "Wikipedia is not accepting AI-generated write-ups on its website and will only accept human-made content.",
+      "url": "https://www.ibtimes.com.au/wikipedia-does-not-want-generative-ai-write-ups-latest-policy-update-1864601",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-27T02:22:10Z"
+    },
+    {
+      "title": "Judge issues block on Pentagon to label Anthropic as supply chain risk",
+      "description": "A U.S. judge ​today temporarily blocked the Pentagon’s blacklisting of Anthropic PBC after the Department of Defense last month designated the company a “supply chain risk” over disagreements over how it intends to use its chatbot tool, Claude. The spat origi…",
+      "url": "https://siliconangle.com/2026/03/26/judge-issues-block-pentagon-label-anthropic-supply-chain-risk",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-27T02:15:42Z"
+    },
+    {
+      "title": "ChatGPTのアダルトモードが「無期限延期」に",
+      "description": "以前からリリースが噂されながらもスケジュールが複数回延期されていたChatGPTのアダルトモードについて、OpenAIが「無期限延期」して計画を棚上げしたことがわかりました。OpenAI puts erotic chatbot plans on hold ‘indefinitely’https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93dOpenAI indefinitely pauses plans to release erotic cha…",
+      "url": "https://news.livedoor.com/article/detail/30853988",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-27T02:08:00Z"
+    },
+    {
+      "title": "Google adds memory and chat import tools to Gemini",
+      "description": "Google has announced new tools for its Gemini AI that allow users to import memories and chat history from other...\nThe post Google adds memory and chat import tools to Gemini appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/google-adds-memory-and-chat-import-tools-to-gemini",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-03-27T01:58:31Z"
+    },
+    {
+      "title": "Judge Blocks Pentagon's Attempt to Blacklist Anthropic",
+      "description": "Federal judge finds Pentagon's effort to cut off the AI firm's access to federal contracts \"likely unlawful.\"",
+      "url": "https://www.cnet.com/news/judge-blocks-pentagons-attempt-to-blacklist-anthropic",
+      "source": "CNET",
+      "publishedAt": "2026-03-27T01:45:00Z"
+    },
+    {
+      "title": "US judge suspends government sanctions on Anthropic",
+      "description": "A US federal judge yesterday suspended sanctions imposed by President Donald Trump's administration on Anthropic, saying the measures likely violated the law in blacklisting the AI company for expressing unease about the Pentagon's use of its technology.",
+      "url": "https://www.rte.ie/news/world/2026/0327/1565438-anthropic-court-ruling",
+      "source": "RTE",
+      "publishedAt": "2026-03-27T01:43:44Z"
+    },
+    {
+      "title": "OpenAI Reportedly Delays ChatGPT 'Adult Mode' Indefinitely—But Why?",
+      "description": "OpenAI is pausing the development of ChatGPT's Adult Mode, which is meant to be the naughty version of the chatbot.",
+      "url": "https://www.ibtimes.com.au/openai-reportedly-delays-chatgpt-adult-mode-indefinitely-why-1864597",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-27T01:42:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve",
+      "Claude AI maker Anthropic considers IPO as soon as October",
+      "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI",
+      "US judge blocks Pentagon's Anthropic blacklisting for now",
+      "Gemini takes on ChatGPT and Claude with a major switching upgrade"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/claude-ai-maker-anthropic-considers-ipo-as-soon-as-october/articleshow/129837524.cms",
+        "https://www.digitimes.com/news/a20260327PD204/openai-anthropic-google-gemini-apple-ai-2025.html",
+        "https://www.channelnewsasia.com/business/us-judge-blocks-pentagons-anthropic-blacklisting-now-6020261"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidpolice.com/gemini-takes-on-chatgpt-claude-major-switching-upgrade",
+        "https://betalist.com/startups/plany",
+        "https://github.com/shuvonsec/claude-bug-bounty"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260327VL207/google-llm-ai-inference-cost-algorithm.html",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-gemini-now-lets-users-import-memories-and-chats-from-rival-chatbots/articleshow/129839190.cms",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181113786"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [
+        {
+          "date": "2026-02-06",
+          "close": 185.41
+        },
+        {
+          "date": "2026-02-09",
+          "close": 190.04
+        },
+        {
+          "date": "2026-02-10",
+          "close": 188.54
+        },
+        {
+          "date": "2026-02-11",
+          "close": 190.05
+        },
+        {
+          "date": "2026-02-12",
+          "close": 186.94
+        },
+        {
+          "date": "2026-02-13",
+          "close": 182.81
+        },
+        {
+          "date": "2026-02-17",
+          "close": 184.97
+        },
+        {
+          "date": "2026-02-18",
+          "close": 187.98
+        },
+        {
+          "date": "2026-02-19",
+          "close": 187.9
+        },
+        {
+          "date": "2026-02-20",
+          "close": 189.82
+        },
+        {
+          "date": "2026-02-23",
+          "close": 191.55
+        },
+        {
+          "date": "2026-02-24",
+          "close": 192.85
+        },
+        {
+          "date": "2026-02-25",
+          "close": 195.56
+        },
+        {
+          "date": "2026-02-26",
+          "close": 184.89
+        },
+        {
+          "date": "2026-02-27",
+          "close": 177.19
+        },
+        {
+          "date": "2026-03-02",
+          "close": 182.48
+        },
+        {
+          "date": "2026-03-03",
+          "close": 180.05
+        },
+        {
+          "date": "2026-03-04",
+          "close": 183.04
+        },
+        {
+          "date": "2026-03-05",
+          "close": 183.33
+        },
+        {
+          "date": "2026-03-06",
+          "close": 177.69
+        },
+        {
+          "date": "2026-03-09",
+          "close": 182.64
+        },
+        {
+          "date": "2026-03-10",
+          "close": 184.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 186.03
+        },
+        {
+          "date": "2026-03-12",
+          "close": 183.14
+        },
+        {
+          "date": "2026-03-13",
+          "close": 180.25
+        },
+        {
+          "date": "2026-03-16",
+          "close": 183.22
+        },
+        {
+          "date": "2026-03-17",
+          "close": 181.93
+        },
+        {
+          "date": "2026-03-18",
+          "close": 180.4
+        },
+        {
+          "date": "2026-03-19",
+          "close": 178.56
+        },
+        {
+          "date": "2026-03-20",
+          "close": 172.7
+        },
+        {
+          "date": "2026-03-23",
+          "close": 175.64
+        },
+        {
+          "date": "2026-03-24",
+          "close": 175.2
+        },
+        {
+          "date": "2026-03-25",
+          "close": 178.68
+        },
+        {
+          "date": "2026-03-26",
+          "close": 171.24
+        },
+        {
+          "date": "2026-03-27",
+          "close": 167.52
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [
+        {
+          "date": "2026-02-06",
+          "close": 401.14
+        },
+        {
+          "date": "2026-02-09",
+          "close": 413.6
+        },
+        {
+          "date": "2026-02-10",
+          "close": 413.27
+        },
+        {
+          "date": "2026-02-11",
+          "close": 404.37
+        },
+        {
+          "date": "2026-02-12",
+          "close": 401.84
+        },
+        {
+          "date": "2026-02-13",
+          "close": 401.32
+        },
+        {
+          "date": "2026-02-17",
+          "close": 396.86
+        },
+        {
+          "date": "2026-02-18",
+          "close": 399.6
+        },
+        {
+          "date": "2026-02-19",
+          "close": 398.46
+        },
+        {
+          "date": "2026-02-20",
+          "close": 397.23
+        },
+        {
+          "date": "2026-02-23",
+          "close": 384.47
+        },
+        {
+          "date": "2026-02-24",
+          "close": 389
+        },
+        {
+          "date": "2026-02-25",
+          "close": 400.6
+        },
+        {
+          "date": "2026-02-26",
+          "close": 401.72
+        },
+        {
+          "date": "2026-02-27",
+          "close": 392.74
+        },
+        {
+          "date": "2026-03-02",
+          "close": 398.55
+        },
+        {
+          "date": "2026-03-03",
+          "close": 403.79
+        },
+        {
+          "date": "2026-03-04",
+          "close": 405
+        },
+        {
+          "date": "2026-03-05",
+          "close": 410.68
+        },
+        {
+          "date": "2026-03-06",
+          "close": 408.63
+        },
+        {
+          "date": "2026-03-09",
+          "close": 409.35
+        },
+        {
+          "date": "2026-03-10",
+          "close": 405.76
+        },
+        {
+          "date": "2026-03-11",
+          "close": 404.88
+        },
+        {
+          "date": "2026-03-12",
+          "close": 401.86
+        },
+        {
+          "date": "2026-03-13",
+          "close": 395.55
+        },
+        {
+          "date": "2026-03-16",
+          "close": 399.95
+        },
+        {
+          "date": "2026-03-17",
+          "close": 399.41
+        },
+        {
+          "date": "2026-03-18",
+          "close": 391.79
+        },
+        {
+          "date": "2026-03-19",
+          "close": 389.02
+        },
+        {
+          "date": "2026-03-20",
+          "close": 381.87
+        },
+        {
+          "date": "2026-03-23",
+          "close": 383
+        },
+        {
+          "date": "2026-03-24",
+          "close": 372.74
+        },
+        {
+          "date": "2026-03-25",
+          "close": 371.04
+        },
+        {
+          "date": "2026-03-26",
+          "close": 365.97
+        },
+        {
+          "date": "2026-03-27",
+          "close": 356.77
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [
+        {
+          "date": "2026-02-06",
+          "close": 322.86
+        },
+        {
+          "date": "2026-02-09",
+          "close": 324.32
+        },
+        {
+          "date": "2026-02-10",
+          "close": 318.58
+        },
+        {
+          "date": "2026-02-11",
+          "close": 310.96
+        },
+        {
+          "date": "2026-02-12",
+          "close": 309
+        },
+        {
+          "date": "2026-02-13",
+          "close": 305.72
+        },
+        {
+          "date": "2026-02-17",
+          "close": 302.02
+        },
+        {
+          "date": "2026-02-18",
+          "close": 303.33
+        },
+        {
+          "date": "2026-02-19",
+          "close": 302.85
+        },
+        {
+          "date": "2026-02-20",
+          "close": 314.98
+        },
+        {
+          "date": "2026-02-23",
+          "close": 311.49
+        },
+        {
+          "date": "2026-02-24",
+          "close": 310.9
+        },
+        {
+          "date": "2026-02-25",
+          "close": 312.9
+        },
+        {
+          "date": "2026-02-26",
+          "close": 307.38
+        },
+        {
+          "date": "2026-02-27",
+          "close": 311.76
+        },
+        {
+          "date": "2026-03-02",
+          "close": 306.52
+        },
+        {
+          "date": "2026-03-03",
+          "close": 303.53
+        },
+        {
+          "date": "2026-03-04",
+          "close": 303.03
+        },
+        {
+          "date": "2026-03-05",
+          "close": 300.845
+        },
+        {
+          "date": "2026-03-06",
+          "close": 298.48
+        },
+        {
+          "date": "2026-03-09",
+          "close": 306.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 307.04
+        },
+        {
+          "date": "2026-03-11",
+          "close": 308.7
+        },
+        {
+          "date": "2026-03-12",
+          "close": 303.55
+        },
+        {
+          "date": "2026-03-13",
+          "close": 302.28
+        },
+        {
+          "date": "2026-03-16",
+          "close": 305.56
+        },
+        {
+          "date": "2026-03-17",
+          "close": 310.92
+        },
+        {
+          "date": "2026-03-18",
+          "close": 307.69
+        },
+        {
+          "date": "2026-03-19",
+          "close": 307.13
+        },
+        {
+          "date": "2026-03-20",
+          "close": 301
+        },
+        {
+          "date": "2026-03-23",
+          "close": 302.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 290.44
+        },
+        {
+          "date": "2026-03-25",
+          "close": 290.93
+        },
+        {
+          "date": "2026-03-26",
+          "close": 280.92
+        },
+        {
+          "date": "2026-03-27",
+          "close": 274.34
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [
+        {
+          "date": "2026-02-06",
+          "close": 210.32
+        },
+        {
+          "date": "2026-02-09",
+          "close": 208.72
+        },
+        {
+          "date": "2026-02-10",
+          "close": 206.96
+        },
+        {
+          "date": "2026-02-11",
+          "close": 204.08
+        },
+        {
+          "date": "2026-02-12",
+          "close": 199.6
+        },
+        {
+          "date": "2026-02-13",
+          "close": 198.79
+        },
+        {
+          "date": "2026-02-17",
+          "close": 201.15
+        },
+        {
+          "date": "2026-02-18",
+          "close": 204.79
+        },
+        {
+          "date": "2026-02-19",
+          "close": 204.86
+        },
+        {
+          "date": "2026-02-20",
+          "close": 210.11
+        },
+        {
+          "date": "2026-02-23",
+          "close": 205.27
+        },
+        {
+          "date": "2026-02-24",
+          "close": 208.56
+        },
+        {
+          "date": "2026-02-25",
+          "close": 210.64
+        },
+        {
+          "date": "2026-02-26",
+          "close": 207.92
+        },
+        {
+          "date": "2026-02-27",
+          "close": 210
+        },
+        {
+          "date": "2026-03-02",
+          "close": 208.39
+        },
+        {
+          "date": "2026-03-03",
+          "close": 208.63
+        },
+        {
+          "date": "2026-03-04",
+          "close": 216.82
+        },
+        {
+          "date": "2026-03-05",
+          "close": 218.86
+        },
+        {
+          "date": "2026-03-06",
+          "close": 213.12
+        },
+        {
+          "date": "2026-03-09",
+          "close": 213.42
+        },
+        {
+          "date": "2026-03-10",
+          "close": 214.34
+        },
+        {
+          "date": "2026-03-11",
+          "close": 212.65
+        },
+        {
+          "date": "2026-03-12",
+          "close": 209.53
+        },
+        {
+          "date": "2026-03-13",
+          "close": 207.67
+        },
+        {
+          "date": "2026-03-16",
+          "close": 211.74
+        },
+        {
+          "date": "2026-03-17",
+          "close": 215.2
+        },
+        {
+          "date": "2026-03-18",
+          "close": 209.87
+        },
+        {
+          "date": "2026-03-19",
+          "close": 208.76
+        },
+        {
+          "date": "2026-03-20",
+          "close": 205.37
+        },
+        {
+          "date": "2026-03-23",
+          "close": 210.14
+        },
+        {
+          "date": "2026-03-24",
+          "close": 207.24
+        },
+        {
+          "date": "2026-03-25",
+          "close": 211.71
+        },
+        {
+          "date": "2026-03-26",
+          "close": 207.54
+        },
+        {
+          "date": "2026-03-27",
+          "close": 199.34
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [
+        {
+          "date": "2026-02-06",
+          "close": 661.46
+        },
+        {
+          "date": "2026-02-09",
+          "close": 677.22
+        },
+        {
+          "date": "2026-02-10",
+          "close": 670.72
+        },
+        {
+          "date": "2026-02-11",
+          "close": 668.69
+        },
+        {
+          "date": "2026-02-12",
+          "close": 649.81
+        },
+        {
+          "date": "2026-02-13",
+          "close": 639.77
+        },
+        {
+          "date": "2026-02-17",
+          "close": 639.29
+        },
+        {
+          "date": "2026-02-18",
+          "close": 643.22
+        },
+        {
+          "date": "2026-02-19",
+          "close": 644.78
+        },
+        {
+          "date": "2026-02-20",
+          "close": 655.66
+        },
+        {
+          "date": "2026-02-23",
+          "close": 637.25
+        },
+        {
+          "date": "2026-02-24",
+          "close": 639.3
+        },
+        {
+          "date": "2026-02-25",
+          "close": 653.69
+        },
+        {
+          "date": "2026-02-26",
+          "close": 657.01
+        },
+        {
+          "date": "2026-02-27",
+          "close": 648.18
+        },
+        {
+          "date": "2026-03-02",
+          "close": 653.56
+        },
+        {
+          "date": "2026-03-03",
+          "close": 654.991
+        },
+        {
+          "date": "2026-03-04",
+          "close": 667.52
+        },
+        {
+          "date": "2026-03-05",
+          "close": 660.205
+        },
+        {
+          "date": "2026-03-06",
+          "close": 644.86
+        },
+        {
+          "date": "2026-03-09",
+          "close": 647.34
+        },
+        {
+          "date": "2026-03-10",
+          "close": 653.91
+        },
+        {
+          "date": "2026-03-11",
+          "close": 654.86
+        },
+        {
+          "date": "2026-03-12",
+          "close": 638.18
+        },
+        {
+          "date": "2026-03-13",
+          "close": 613.71
+        },
+        {
+          "date": "2026-03-16",
+          "close": 627.45
+        },
+        {
+          "date": "2026-03-17",
+          "close": 622.66
+        },
+        {
+          "date": "2026-03-18",
+          "close": 615.68
+        },
+        {
+          "date": "2026-03-19",
+          "close": 606.7
+        },
+        {
+          "date": "2026-03-20",
+          "close": 593.66
+        },
+        {
+          "date": "2026-03-23",
+          "close": 604.06
+        },
+        {
+          "date": "2026-03-24",
+          "close": 592.92
+        },
+        {
+          "date": "2026-03-25",
+          "close": 594.89
+        },
+        {
+          "date": "2026-03-26",
+          "close": 547.54
+        },
+        {
+          "date": "2026-03-27",
+          "close": 525.72
+        }
+      ],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: In-depth: Google TurboQuant cuts LLM memory 6x, resets AI inference cost curve. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
