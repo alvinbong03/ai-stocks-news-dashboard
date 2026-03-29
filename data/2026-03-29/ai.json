@@ -1,0 +1,212 @@
+{
+  "theme": "ai",
+  "date": "2026-03-29",
+  "last_updated_utc": "2026-03-29T06:57:38.941Z",
+  "news": [
+    {
+      "title": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away",
+      "description": "Microsoft is taking over a data center construction project in Texas after OpenAI declined to pursue it, in a move that will make the two companies neighbors at one of the nation’s largest complexes for running artificial intelligence",
+      "url": "https://www.wftv.com/news/business/microsoft-takes-over/FNHO2B4UQI7YJP2CGRO57EFKJU",
+      "source": "WFTV Orlando",
+      "publishedAt": "2026-03-28T02:40:28Z"
+    },
+    {
+      "title": "Huawei’s Ascend 950PR AI Chip Just Won Over Chinese Customers By Mimicking CUDA Through CANN Next, Threatening NVIDIA’s Moat",
+      "description": "Huawei's newest AI chip, the Ascend 950PR, might not deliver strong compute performance relative to NVIDIA for domestic hyperscalers, but it offers a major upgrade with CUDA compatibility. Huawei's Ascend 950PR Sees Massive Interest, Mainly With CUDA-Like Pro…",
+      "url": "https://wccftech.com/huawei-ascend-950pr-just-won-over-chinese-customers-by-mimicking-cuda",
+      "source": "Wccftech",
+      "publishedAt": "2026-03-27T23:32:07Z"
+    },
+    {
+      "title": "Anthropic to launch new ‘Claude Mythos’ model with advanced reasoning features",
+      "description": "A configuration error in Anthropic PBC’s content management system has revealed that it’s testing a new large language model called Claude Mythos. The company confirmed the project in a Thursday statement to Fortune. According to the company, its engineers ha…",
+      "url": "https://siliconangle.com/2026/03/27/anthropic-launch-new-claude-mythos-model-advanced-reasoning-features",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-27T21:19:34Z"
+    },
+    {
+      "title": "Federal judge halts Trump administration’s designation of Anthropic as supply chain risk",
+      "description": "Judge Alsup ruled Anthropic’s use of lawfully acquired books for AI training qualifies as fair use, but its pirated book usage may face “criminal-level” copyright penalties in a December trial. Judge Lin paused Trump’s designation of Anthropic as a supply cha…",
+      "url": "https://www.naturalnews.com/2026-03-28-federal-judge-halts-trump-administration-anthropic-risk.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-28T06:00:00Z"
+    },
+    {
+      "title": "I used Gemini’s new AI memory importing feature, and now it knows as much about me as ChatGPT",
+      "description": "Gemini’s new memory import feature makes switching from another AI assistant feel much less like starting over",
+      "url": "https://www.techradar.com/ai-platforms-assistants/gemini/i-used-geminis-new-ai-memory-importing-feature-and-now-it-knows-as-much-about-me-as-chatgpt",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-28T00:00:00Z"
+    },
+    {
+      "title": "OpenAI introduces plugins for its Codex programming assistant",
+      "description": "OpenAI Group PBC today quietly updated its Codex programming assistant with a feature that enables users to create custom plug-ins. The launch comes about 5 months after rival Anthropic PBC released a similar feature for Claude Code. Plugins enable users to e…",
+      "url": "https://siliconangle.com/2026/03/27/openai-introduces-plugins-codex-programming-assistant",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-27T23:47:14Z"
+    },
+    {
+      "title": "'The next evolution of the Arm compute platform': AGI CPU is Arm's first in-house AI chip, Meta and OpenAI sign up as early clients — and it might have picked the perfect time to launch",
+      "description": "Arm introduces its first in-house AGI CPU, offering high-density performance and gaining early backing from major companies, including Meta and OpenAI.",
+      "url": "https://www.techradar.com/pro/the-next-evolution-of-the-arm-compute-platform-agi-cpu-is-its-first-in-house-ai-chip-signs-up-meta-and-openai-as-early-clients",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-27T21:35:00Z"
+    },
+    {
+      "title": "RoboSense Driving Ecosystem Deployment with Global Partners at NVIDIA GTC 2026",
+      "description": "RoboSense (HKEX: 2498), an AI-driven robotics technology company, today demonstrated the extensive commercial footprint of its collaboration with NVIDIA at ...",
+      "url": "https://en.antaranews.com/news/410142/robosense-driving-ecosystem-deployment-with-global-partners-at-nvidia-gtc-2026",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-03-28T06:14:28Z"
+    },
+    {
+      "title": "Google nears massive financing agreement for Anthropic's 500-megawatt data center project: Report",
+      "description": "Google is nearing a multibillion-dollar deal to support Anthropic's Texas data center, according to a new report. The dal expected to finalize soon and the financing could exceed $5 billion",
+      "url": "https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html",
+      "source": "Livemint",
+      "publishedAt": "2026-03-28T05:42:07Z"
+    },
+    {
+      "title": "Bodega One – Local-first AI IDE with your own LLM and no subscription",
+      "description": "Local-first AI IDE with your own LLM and no subscription",
+      "url": "https://betalist.com/startups/bodega-one",
+      "source": "Betalist.com",
+      "publishedAt": "2026-03-28T01:05:00Z"
+    },
+    {
+      "title": "AIセキュリティのCoWorker、AIコーディングエージェントの“見えないリスク”に対応。Claude Codeの実行をリアルタイム監視する「CoWorker AIDR」を無料提供開始",
+      "description": "[CoWorker株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/156001/26/156001-26-5c32cae97ccd0e57b78da2ff6648c94b-3900x2183.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000156001.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-27T23:00:00Z"
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "source": "The Verge",
+      "publishedAt": "2026-03-27T21:47:06Z"
+    },
+    {
+      "title": "The contradiction at the heart of OpenAI",
+      "description": "Big changes are happening at OpenAI. On Wednesday, the company announced that it would be shutting down their AI video creation app Sora only a couple months after its launch. In October, OpenAI completed a massive restructure of its organization that shakes …",
+      "url": "https://www.vox.com/podcasts/484173/openai-restructure-for-profit-mission-legal",
+      "source": "Vox",
+      "publishedAt": "2026-03-27T21:08:48Z"
+    },
+    {
+      "title": "DLSS is quietly saving Nvidia from a problem no GPU manufacturer can brute-force anymore",
+      "description": "DLSS is quietly saving Nvidia from a problem no GPU manufacturer can brute-force anymorexda-developers.com",
+      "url": "https://www.xda-developers.com/dlss-quietly-saving-nvidia-from-problem-no-gpu-manufacturer-can-force",
+      "source": "XDA Developers",
+      "publishedAt": "2026-03-27T21:07:21Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Microsoft takes over a Texas AI data center expansion after OpenAI backs away",
+      "Huawei’s Ascend 950PR AI Chip Just Won Over Chinese Customers By Mimicking CUDA Through CANN Next, Threatening NVIDIA’s Moat",
+      "Anthropic to launch new ‘Claude Mythos’ model with advanced reasoning features",
+      "Federal judge halts Trump administration’s designation of Anthropic as supply chain risk",
+      "I used Gemini’s new AI memory importing feature, and now it knows as much about me as ChatGPT"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.wftv.com/news/business/microsoft-takes-over/FNHO2B4UQI7YJP2CGRO57EFKJU",
+        "https://siliconangle.com/2026/03/27/openai-introduces-plugins-codex-programming-assistant",
+        "https://www.techradar.com/pro/the-next-evolution-of-the-arm-compute-platform-agi-cpu-is-its-first-in-house-ai-chip-signs-up-meta-and-openai-as-early-clients"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/03/27/anthropic-launch-new-claude-mythos-model-advanced-reasoning-features",
+        "https://www.naturalnews.com/2026-03-28-federal-judge-halts-trump-administration-anthropic-risk.html",
+        "https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://en.antaranews.com/news/410142/robosense-driving-ecosystem-deployment-with-global-partners-at-nvidia-gtc-2026"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/huawei-ascend-950pr-just-won-over-chinese-customers-by-mimicking-cuda",
+        "https://www.techradar.com/ai-platforms-assistants/gemini/i-used-geminis-new-ai-memory-importing-feature-and-now-it-knows-as-much-about-me-as-chatgpt",
+        "https://betalist.com/startups/bodega-one"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft takes over a Texas AI data center expansion after OpenAI backs away. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft takes over a Texas AI data center expansion after OpenAI backs away. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft takes over a Texas AI data center expansion after OpenAI backs away. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft takes over a Texas AI data center expansion after OpenAI backs away. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft takes over a Texas AI data center expansion after OpenAI backs away. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
