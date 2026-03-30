@@ -1,0 +1,226 @@
+{
+  "theme": "ai",
+  "date": "2026-03-30",
+  "last_updated_utc": "2026-03-30T07:22:27.131Z",
+  "news": [
+    {
+      "title": "Musk pushes Terafab as AI chip crunch intensifies",
+      "description": "The surge in artificial intelligence demand is pushing the semiconductor industry toward a supply crunch, as Elon Musk outlined a plan to build what he described as the largest chip manufacturing effort in history.",
+      "url": "https://www.digitimes.com/news/a20260326PD223/demand-capacity-semiconductor-industry-manufacturing-elon-musk.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-29T00:54:49Z"
+    },
+    {
+      "title": "Articles On: Artificial Intelligence, Super Mirco, Nvidia, ByteDance, Wi-Fi, New High-Tech City, and AI Labs",
+      "description": "The Chinese Communist Party seeks to control information technology as a means to shape and censor the communications and opinions of its own people, as well as the communications of individuals beyond China's borders.",
+      "url": "https://www.hoover.org/research/articles-artificial-intelligence-super-mirco-nvidia-bytedance-wi-fi-new-high-tech-city-and",
+      "source": "Hoover.org",
+      "publishedAt": "2026-03-29T00:00:00Z"
+    },
+    {
+      "title": "OpenAI Also Killed This Little-Used Shopping Feature This Week",
+      "description": "Instant Checkout, introduced in late 2025, allowed users to make purchases from Shopify, Etsy and Walmart sellers without leaving ChatGPT.\nOpenAI's decision to axe its AI video generator Sora, and stop work on a potentially controversial adult mode for ChatGP…",
+      "url": "https://me.pcmag.com/en/news/36253/openai-also-killed-this-little-used-shopping-feature-this-week",
+      "source": "PCMag.com",
+      "publishedAt": "2026-03-28T17:36:22Z"
+    },
+    {
+      "title": "OpenAI Also Killed This Little-Used Shopping Feature This Week",
+      "description": "Instant Checkout, introduced in late 2025, allowed users to make purchases from Shopify, Etsy and Walmart sellers without leaving ChatGPT.\nOpenAI's decision to axe its AI video generator Sora, and stop work on a potentially controversial adult mode for ChatGP…",
+      "url": "https://uk.pcmag.com/news/164094/openai-also-killed-this-little-used-shopping-feature-this-week",
+      "source": "PCMag.com",
+      "publishedAt": "2026-03-28T17:36:22Z"
+    },
+    {
+      "title": "Show HN: Shoofly – pre-execution security for Claude Code Cowork and OpenClaw",
+      "description": "Anthropic says on their safety page: \"these filters are not a security boundary.\" Snyk found 36% of ClawHub skills contain security flaws. Trend Micro documented malware being distributed through ClawHub.These agents have shell access, file access, and connec…",
+      "url": "https://shoofly.dev/",
+      "source": "Shoofly.dev",
+      "publishedAt": "2026-03-29T06:20:34Z"
+    },
+    {
+      "title": "GitHub - axeldelafosse/loop: Dead-simple Bun CLI that runs Codex and Claude Code in a loop. · GitHub",
+      "description": "axeldelafosse/loop: Dead-simple Bun CLI that runs Codex and Claude Code in a loop. https://ift.tt/KJUYeRg ai, codex, claude.code, programming",
+      "url": "https://github.com/axeldelafosse/loop",
+      "source": "Github.com",
+      "publishedAt": "2026-03-29T05:47:02Z"
+    },
+    {
+      "title": "SA Asks: What's the best data center infrastructure stock right now? - Seeking Alpha",
+      "description": "SA Asks: What's the best data center infrastructure stock right now?Seeking Alpha Time to Buy These Top AI Data Center Stocks: CRDO, VRTZacks Investment Research Is It Too Late To Consider Equinix (EQIX) After Its Strong Year To Date Runsimplywall.st The Ulti…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181168752",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-29T03:52:46Z"
+    },
+    {
+      "title": "Samuel Henrique: Latest NVIDIA Drivers for Debian (Packaged with AI)",
+      "description": "tl;dr\nThis is not an official package, it's good enough for me and it might be good\nenough for you, confirmed as working in Debian Testing but I don't have a\nStable machine to test there.\nYou can use my custom repo to install the latest NVIDIA drivers on Debi…",
+      "url": "https://samueloph.dev/blog/latest-nvidia-drivers-for-debian-packaged-with-ai",
+      "source": "Samueloph.dev",
+      "publishedAt": "2026-03-29T00:00:00Z"
+    },
+    {
+      "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
+      "description": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory9to5Google Make the switch: Bring your AI memories and chat history to Geminiblog.google Google Gemini Adds Tool to Make It Easier to Switch From ChatGPTBloomberg You can now tra…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181164874",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-28T22:32:25Z"
+    },
+    {
+      "title": "ChatGPT for macOS 1.2026.049",
+      "description": "This is the official OpenAI ChatGPT app for macOS. Whether you’re writing emails, exploring ideas, learning something new, or just curious about the world, ChatGPT is here to help. Designed with a clean, native experience for Mac users, the app makes it easie…",
+      "url": "https://post.rlsbb.to/chatgpt-for-macos-1-2026-049",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:22:26Z"
+    },
+    {
+      "title": "'Nuclear energy is the essential backbone for this future, but the industry remains trapped in a delivery bottleneck': Microsoft and Nvidia team up to tackle 'historic surge in power demand' by using AI to help the nuclear power industry",
+      "description": "Microsoft and Nvidia deploy AI and Digital Twins to reduce bottlenecks, streamline permitting, and improve operational efficiency for nuclear projects.",
+      "url": "https://www.techradar.com/pro/nuclear-energy-is-the-essential-backbone-for-this-future-but-the-industry-remains-trapped-in-a-delivery-bottleneck-microsoft-and-nvidia-team-up-to-tackle-historic-surge-in-power-demand-by-using-ai-to-help-the-nuclear-power-industry",
+      "source": "TechRadar",
+      "publishedAt": "2026-03-28T21:05:00Z"
+    },
+    {
+      "title": "Show HN: AI Cost Firewall – OpenAI-compatible gateway with semantic caching",
+      "description": "Article URL: https://github.com/vcal-project/ai-firewall\nComments URL: https://news.ycombinator.com/item?id=47558028\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/vcal-project/ai-firewall",
+      "source": "Github.com",
+      "publishedAt": "2026-03-28T20:53:07Z"
+    },
+    {
+      "title": "Report analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year (Julie Bort/TechCrunch)",
+      "description": "Julie Bort / TechCrunch:\nReport analyzing payments of 28M US consumers shows Claude adding paid subs at a steadily increasing pace; Anthropic: paid subs have more than doubled this year  —  Whatever the final outcome for Anthropic from its feud with the Depar…",
+      "url": "https://www.techmeme.com/260328/p11",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-03-28T18:50:01Z"
+    },
+    {
+      "title": "Family says ‘no’ to $26 million offer to build AI data center on their ‘priceless’ generational farm",
+      "description": "A northern Kentucky family has rejected a $26 million offer for their generational farm, calling it “priceless.” The Huddlestons prioritize heritage and agricultural continuity over economic gain. While a proposed AI-linked data centre promises jobs and infra…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/family-says-no-to-26-million-offer-to-build-ai-data-center-on-their-priceless-generational-farm/articleshow/129869813.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T18:24:33Z"
+    },
+    {
+      "title": "Did Investors Get Too Far Ahead of the Artificial Intelligence (AI) Revolution? The Market Is Starting to Say Yes.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d3b1781a-701b-4298-81ff-1add4882132d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-28T17:35:00Z"
+    },
+    {
+      "title": "Stock markets and AI: How to use artificial intelligence tools to up your investing game",
+      "description": "Here’s how investors can use artificial intelligence to quickly build a perspective and do basic analyses, but also be alert to the pitfalls",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/prompt-engineering-your-way-to-investing-success/article70796104.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-28T17:29:10Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Musk pushes Terafab as AI chip crunch intensifies",
+      "Articles On: Artificial Intelligence, Super Mirco, Nvidia, ByteDance, Wi-Fi, New High-Tech City, and AI Labs",
+      "OpenAI Also Killed This Little-Used Shopping Feature This Week",
+      "Show HN: Shoofly – pre-execution security for Claude Code Cowork and OpenClaw",
+      "GitHub - axeldelafosse/loop: Dead-simple Bun CLI that runs Codex and Claude Code in a loop. · GitHub"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260326PD223/demand-capacity-semiconductor-industry-manufacturing-elon-musk.html",
+        "https://www.hoover.org/research/articles-artificial-intelligence-super-mirco-nvidia-bytedance-wi-fi-new-high-tech-city-and",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181164874"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://me.pcmag.com/en/news/36253/openai-also-killed-this-little-used-shopping-feature-this-week",
+        "https://uk.pcmag.com/news/164094/openai-also-killed-this-little-used-shopping-feature-this-week",
+        "https://post.rlsbb.to/chatgpt-for-macos-1-2026-049"
+      ]
+    },
+    {
+      "title": "Build",
+      "summary": "Grouped stories where \"build\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/etimes/trending/family-says-no-to-26-million-offer-to-build-ai-data-center-on-their-priceless-generational-farm/articleshow/129869813.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://shoofly.dev/",
+        "https://github.com/axeldelafosse/loop",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181168752"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Musk pushes Terafab as AI chip crunch intensifies. Main topic cluster: Intelligence. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Musk pushes Terafab as AI chip crunch intensifies. Main topic cluster: Intelligence. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Musk pushes Terafab as AI chip crunch intensifies. Main topic cluster: Intelligence. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Musk pushes Terafab as AI chip crunch intensifies. Main topic cluster: Intelligence. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Musk pushes Terafab as AI chip crunch intensifies. Main topic cluster: Intelligence. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

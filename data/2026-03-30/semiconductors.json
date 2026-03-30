@@ -1,0 +1,391 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-30",
+  "last_updated_utc": "2026-03-30T07:22:46.494Z",
+  "news": [
+    {
+      "title": "Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor",
+      "description": "Jetway has shared early details of the F35-ARU1, a 3.5-inch subcompact board based on Intel Core Ultra processors from the Arrow Lake-U series. The board integrates CPU, GPU, and NPU resources within a low-power platform intended for embedded and industrial s…",
+      "url": "https://linuxgizmos.com/jetway-f35-aru1-combines-core-ultra-soc-in-3-5-inch-form-factor",
+      "source": "Linuxgizmos.com",
+      "publishedAt": "2026-03-29T06:06:45Z"
+    },
+    {
+      "title": "Modi to inaugurate Kaynes Semicon OSAT facility at Sanand on March 31",
+      "description": "Prime Minister Narendra Modi will inaugurate Kaynes Semicon’s outsourced semiconductor assembly and test (OSAT) facility at Sanand on March 31, marking the third semiconductor-related inauguration in the fast-emerging industrial cluster near Ahmedabad in Guja…",
+      "url": "https://www.thehindubusinessline.com/news/modi-to-inaugurate-kaynes-semicon-osat-facility-at-sanand-on-march-31/article70798857.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-29T05:58:01Z"
+    },
+    {
+      "title": "Advancing to the next frontier of AI",
+      "description": "As AI agents start to move faster than software made for human users, both digital tooling and silicon architecture need to be redesigned to reduce latency and power bottlenecks, according to the chief scientists of Nvidia and Google",
+      "url": "https://www.computerweekly.com/news/366640859/Advancing-to-the-next-frontier-of-AI",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-03-29T04:50:00Z"
+    },
+    {
+      "title": "JAMES CARTER And SEVASTIAN HORTON: The Critical Minerals Tax Fix Congress Can’t Afford To Ignore",
+      "description": "In April 2025, Beijing imposed export controls on seven heavy rare earth elements. As a new licensing system took effect, exports to the U.S. and other key mark",
+      "url": "https://dailycaller.com/2026/03/29/opinion-the-critical-minerals-tax-fix-congress-cant-afford-to-ignore-james-carter-and-sevastian-horton",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-03-29T04:37:01Z"
+    },
+    {
+      "title": "Strand PWA Runtime (Part 2.5)",
+      "description": "Strand is a PWA runtime for running web applications in a more integrated manner for KDE Plasma.\nRight now Strand has two parallel development tracks; an AI-driven prototyping track to test the feasibility of features, and a second human-driven track where I’…",
+      "url": "https://kver.ca/2026/03/strand-pwa-runtime-part-2-5",
+      "source": "Kver.ca",
+      "publishedAt": "2026-03-29T04:13:54Z"
+    },
+    {
+      "title": "M5Stack Stamp-P4 – A tiny ESP32-P4 USB-C board with optional Wi-Fi 6 and Bluetooth 5.4",
+      "description": "M5Stack has just introduced the Stamp-P4, a tiny USB-C development board built around the ESP32-P4 high-performance RISC-V MCU chip, featuring 16MB of Flash and 32MB of PSRAM, and optional Wi-Fi 6 and Bluetooth 5.4 support through the ESP32-C6-MINI-1-based St…",
+      "url": "https://www.cnx-software.com/2026/03/29/m5stack-stamp-p4-a-tiny-esp32-p4-usb-c-board-with-optional-wi-fi-6-and-bluetooth-5-4",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-29T04:00:02Z"
+    },
+    {
+      "title": "How We Wage War in Space",
+      "description": "Operation Epic Fury marks a turning point in the art of war. The key to 20th-century battles was air power. In the past, space and cyber activities have traditionally played supporting roles as so-called force multipliers. But this is no longer the case. In t…",
+      "url": "https://freerepublic.com/focus/f-news/4372682/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-03-29T03:47:45Z"
+    },
+    {
+      "title": "Samsung's 2026 strike poses bigger challenges despite economic shift and tripled scale",
+      "description": "Samsung Electronics is facing a looming labor strike in May as its memory and foundry businesses take off, marking a more complex challenge than the initial 2024 walkout. The upcoming strike reflects significant changes in industry conditions and union size, …",
+      "url": "https://www.digitimes.com/news/a20260325PD224/samsung-strike-2026-2024-labor-strike.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-29T01:21:56Z"
+    },
+    {
+      "title": "Roommate tells mutual friends he pays for everything in apartment, despite splitting rent and bills 50/50: 'He's telling people I chip in when I can'",
+      "description": "How do you deal with somebody who wants to take all the credit for the most mundane things?\r\nIn most roommate scenarios, it is taken for granted that everyone living there is expected to make a contribution both practically and financially. Nobody wants to de…",
+      "url": "https://cheezburger.com/44832261/roommate-tells-mutual-friends-he-pays-for-everything-in-apartment-despite-splitting-rent-and-bills",
+      "source": "Cheezburger.com",
+      "publishedAt": "2026-03-29T01:00:00Z"
+    },
+    {
+      "title": "USC Trojans flip blue-chip OT Drew Fielder from Oregon Ducks",
+      "description": "Lincoln Riley and the USC Trojans have flipped four-star offensive tackle Drew Fielder from the Oregon Ducks",
+      "url": "https://trojanswire.usatoday.com/story/sports/college/trojans/recruiting/2026/03/28/usc-football-oregon-drew-fielder-flip/89372647007",
+      "source": "USA Today",
+      "publishedAt": "2026-03-29T00:59:56Z"
+    },
+    {
+      "title": "Semicon China 2026: AI spending nears US$800 billion, IBS flags 2028 chip cycle risk",
+      "description": "SEMICON China 2026 spotlighted the scale of the AI investment boom, with Handel Jones, CEO of International Business Strategies (IBS), estimating that global AI and data center capital expenditure has surged from about US$110 billion in 2020 to roughly US$600…",
+      "url": "https://www.digitimes.com/news/a20260327VL211/semicon-china-ai-demand-investment-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-29T00:55:38Z"
+    },
+    {
+      "title": "Musk pushes Terafab as AI chip crunch intensifies",
+      "description": "The surge in artificial intelligence demand is pushing the semiconductor industry toward a supply crunch, as Elon Musk outlined a plan to build what he described as the largest chip manufacturing effort in history.",
+      "url": "https://www.digitimes.com/news/a20260326PD223/demand-capacity-semiconductor-industry-manufacturing-elon-musk.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-29T00:54:49Z"
+    },
+    {
+      "title": "AMD, Meta reportedly audit Samsung HBM4 lines as supply shifts from pledges to validation",
+      "description": "Samsung Electronics' next-generation high-bandwidth memory (HBM4) program is entering a customer validation phase, according to NewDaily, as major technology firms reportedly begin on-site audits of its production lines.",
+      "url": "https://www.digitimes.com/news/a20260327VL217/samsung-hbm4-amd-meta.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-29T00:54:13Z"
+    },
+    {
+      "title": "Win $500 Towards Your Dream Wardrobe from Calexico",
+      "description": "Join the Calexico Family and be in the draw to win $500 towards your dream wardrobe.\n\nYou will also become the first to discover new arrivals, curated edits, private events, and insider styling intel.\n\nBy submitting this form and signing up for texts, you con…",
+      "url": "https://www.ozbargain.com.au/node/953796",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-03-29T00:46:38Z"
+    },
+    {
+      "title": "Warcraft Orcs & Humans Remastered Ошибка OpenGL",
+      "description": "При попытке запуска выдает\n\n\nFailed to initialize OpenGL 4.6. Please check that you are using the latest graphics drivers. (Wrong version. Found: 4.3, expected: 4.6)\r\n\n\r\n\n\nПри том, что glxinfo | grep «OpenGL version» выдает\n\n\nOpenGL version string: 4.6 (Compa…",
+      "url": "https://www.linux.org.ru/forum/games/18252264",
+      "source": "Linux.org.ru",
+      "publishedAt": "2026-03-29T00:37:45Z"
+    },
+    {
+      "title": "Razer Blade 16 2026 Gaming Laptop",
+      "description": "Meet the 2026 Razer Blade 16 2026, a slim 16-inch gaming laptop built for fast play, creative work, and daily use away from a desk. Desktop-level speed: The Intel Core Ultra 9 386H packs 16 cores and boosts up to..\nThe post Razer Blade 16 2026 Gaming Laptop a…",
+      "url": "https://thegadgetflow.com/product/razer-blade-16-2026-gaming-laptop",
+      "source": "Gadget Flow",
+      "publishedAt": "2026-03-29T00:00:28Z"
+    },
+    {
+      "title": "South Korean chip giants step up China investments to combat global AI memory shortage",
+      "description": "Samsung Electronics and SK Hynix are stepping up investments in their China wafer fabs as they race to boost supply amid a tightening memory chip market driven by demand for artificial intelligence computing, underscoring China’s continued role in semiconduct…",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3348159/south-korean-chip-giants-step-china-investments-combat-global-ai-memory-shortage",
+      "source": "Post Magazine",
+      "publishedAt": "2026-03-29T00:00:08Z"
+    },
+    {
+      "title": "Articles On: Super Micro, Nvidia, Xiaomi, Donroe Doctrine, US Money Managers, SpaceX, Rare Earth, Mircochips, Sinopec, Chinese IPOs, Metals, and India Trade",
+      "description": "This section highlights articles and reports on the harmful impacts of the commercial and economic policies employed by the Chinese Communist Party.",
+      "url": "https://www.hoover.org/research/articles-super-micro-nvidia-xiaomi-donroe-doctrine-us-money-managers-spacex-rare-earth",
+      "source": "Hoover.org",
+      "publishedAt": "2026-03-29T00:00:00Z"
+    },
+    {
+      "title": "Samuel Henrique: Latest NVIDIA Drivers for Debian (Packaged with AI)",
+      "description": "tl;dr\nThis is not an official package, it's good enough for me and it might be good\nenough for you, confirmed as working in Debian Testing but I don't have a\nStable machine to test there.\nYou can use my custom repo to install the latest NVIDIA drivers on Debi…",
+      "url": "https://samueloph.dev/blog/latest-nvidia-drivers-for-debian-packaged-with-ai",
+      "source": "Samueloph.dev",
+      "publishedAt": "2026-03-29T00:00:00Z"
+    },
+    {
+      "title": "Articles On: Artificial Intelligence, Super Mirco, Nvidia, ByteDance, Wi-Fi, New High-Tech City, and AI Labs",
+      "description": "The Chinese Communist Party seeks to control information technology as a means to shape and censor the communications and opinions of its own people, as well as the communications of individuals beyond China's borders.",
+      "url": "https://www.hoover.org/research/articles-artificial-intelligence-super-mirco-nvidia-bytedance-wi-fi-new-high-tech-city-and",
+      "source": "Hoover.org",
+      "publishedAt": "2026-03-29T00:00:00Z"
+    },
+    {
+      "title": "Russia provided detailed intel that helped Iran wound US troops at airbase: Zelenskyy",
+      "description": "Russia has been helping Iran take out U.S. air power in the Middle East, and Ukrainian President Volodymyr Zelenskyy said he has proof.Zelenskyy said he was \"100 percent” confident Russia was sharing satellite images of U.S. air bases in the Middle East and o…",
+      "url": "https://www.rawstory.com/russia-helping-iran",
+      "source": "Raw Story",
+      "publishedAt": "2026-03-28T22:47:58Z"
+    },
+    {
+      "title": "SK Hynix and Kioxia targeted in US ITC memory chip probe",
+      "description": "On March 27, the US International Trade Commission (ITC) launched an investigation into memory chip imports by SK Hynix Inc. and KIOXIA Holdings Corporation following a patent complaint filed by MonolithIC 3D Inc., according to a notice published by the agenc…",
+      "url": "https://www.digitimes.com/news/a20260329VL200/itc-sk-hynix-kioxia-probe-investigation.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-28T22:47:51Z"
+    },
+    {
+      "title": "India stands alone against China-backed WTO investment pact",
+      "description": "While India is keen to find a solution, for almost 30 years, it has used this as a bargaining chip at every meeting, realising that an imposition of duty on streaming and downloads is set to generate revenue for it and others and put those such as the US at a…",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-stands-alone-against-china-backed-wto-investment-pact/articleshow/129872700.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T22:10:48Z"
+    },
+    {
+      "title": "Intel leak blows up Trump's war boasts...",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3fe6d581-1542-4d9c-a6d1-4ae07a7e21d2",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-28T22:00:14Z"
+    },
+    {
+      "title": "Intel leak blows up Trump's war boasts...",
+      "description": "Intel leak blows up Trump's war boasts...\r\n\n \n \n \n (First column, 5th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Embellishments, exaggerations, falsehoods...\r\nWild Ultimatums and 'Bombing Our Little Hearts Out'...\r\nDOWD: He Does Anything He Wants -- and More...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_10f01ccc-10d7-4f74-b52a-66b438165199",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-28T21:55:40Z"
+    },
+    {
+      "title": "Topaz Photo Pro 1.4.0",
+      "description": "Description: Each tool gets it closer to perfect. The ultimate finishing step for every image. Fix issues. Restore focus. Remove noise. Enhance details. Crop in. Prepare for print. Topaz Photo is the magical last step before \"done.\" All using AI trained on mi…",
+      "url": "https://post.rlsbb.to/topaz-photo-pro-1-4-0",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:55:01Z"
+    },
+    {
+      "title": "Coder Technologies Coder 2.30.5",
+      "description": "Description: Deploy development environments on your infrastructure. Onboard developers to fully configured cloud development environments with Coder, the only open-source platform you can self-host and manage for complete security and control. The #1 Self-Ho…",
+      "url": "https://post.rlsbb.to/coder-technologies-coder-2-30-5",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:51:12Z"
+    },
+    {
+      "title": "InPixio Photo Focus Pro 4.3.8627.22540",
+      "description": "Description: It’s not always possible to prevent blurred photos — especially when taking quick snapshots. Photo Focus provides all the tools you need to create clear, crisp and high-resolution photos. Enhance the depth of focus of your images by adding sharpn…",
+      "url": "https://post.rlsbb.to/inpixio-photo-focus-pro-4-3-8627-22540",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:50:40Z"
+    },
+    {
+      "title": "InPixio Photo Maximizer Pro 5.3.8627.22540",
+      "description": "Description: Ultra powerful zoom function which can enlarge images by up to 1000%. With 7 zoom algorithms, Photo Maximizer can tell you the target size of the image in pixels or centimeters. The required resolution can also be adjusted to give you flawless re…",
+      "url": "https://post.rlsbb.to/inpixio-photo-maximizer-pro-5-3-8627-22540",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:47:02Z"
+    },
+    {
+      "title": "NHV BOOT 2026 v2100 EXTREME",
+      "description": "Description: NHV BOOT Computer rescue toolkit with modern, professional design, fast speed, support from old to newest computers. NHV BOOT offers many advanced features for everyone to be able to handle errors and computer problems. NHV BOOT with a modern, in…",
+      "url": "https://post.rlsbb.to/nhv-boot-2026-v2100-extreme",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:37:49Z"
+    },
+    {
+      "title": "Tennessee Volunteers land blue-chip WR Kesean Bowman in 2027 class",
+      "description": "The Tennessee Volunteers have landed a commitment from 4-star wide receiver Kesean Bowman in the 2027 class.",
+      "url": "https://collegesportswire.usatoday.com/story/sports/college/college-football/2026/03/28/volunteers-football-kesean-bowman-commitment/89368648007",
+      "source": "USA Today",
+      "publishedAt": "2026-03-28T21:36:02Z"
+    },
+    {
+      "title": "PhotoCHAT AI 0.7.0.0",
+      "description": "Description: PhotoCHAT AI: Your Entire Photo Library, Instantly Searchable. Turn years of photos into a searchable memory. Type what you remember—“golden retriever at the beach,” “Bella standing next to a tall building from Mar 21,” or “hiking at sunrise”—and…",
+      "url": "https://post.rlsbb.to/photochat-ai-0-7-0-0",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:27:04Z"
+    },
+    {
+      "title": "ON1 Effects 2026.3 v20.3.1.18535",
+      "description": "ON1 Effects includes hundreds of stackable filters, presets, borders, and textures to help create your style. Whether you’re looking to add an HDR look, convert to B&W, bring out more detail, reduce noise, or enhance a portrait, don’t use five different plug-…",
+      "url": "https://post.rlsbb.to/on1-effects-2026-3-v20-3-1-18535-2",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:23:55Z"
+    },
+    {
+      "title": "Typinator 10.0",
+      "description": "Type a little. Typinator does the rest.We’ve all faced projects that require repetitive typing tasks. With Typinator, you can store commonly used text and images in quick keywords and abbreviations. From email templates to code snippets to website URLs, there…",
+      "url": "https://post.rlsbb.to/typinator-10-0",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:23:00Z"
+    },
+    {
+      "title": "YMMV (In-store) AMD Ryzen 5 7600X 6-Core/12-Thread Unlocked Desktop Processor $130 (0 replies)",
+      "description": "I was browsing at a local walmart and saw a roll back price of $130. I scanned the qr code using walmart app and it also showed the store price. The link is for a reference only.\n\nhttps://imgur.com/a/",
+      "url": "https://slickdeals.net/f/19358373-ymmv-in-store-amd-ryzen-5-7600x-6-core-12-thread-unlocked-desktop-processor-130",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-28T21:22:00Z"
+    },
+    {
+      "title": "ON1 Resize AI 2026.3 v20.3.1.18535",
+      "description": "ON1 Resize (was Perfect Resize) is the industry standard for photo enlargements. Use Genuine Fractals powered algorithms for optimizing clarity and detail for different image types. Get the best quality enlargements for your photos, whether taken with a DSLR …",
+      "url": "https://post.rlsbb.to/on1-resize-ai-2026-3-v20-3-1-18535-2",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:20:11Z"
+    },
+    {
+      "title": "Wing Pro 11.1.0",
+      "description": "Wing Pro is a full-featured Python IDE designed for professional developers. It includes powerful editing, code intelligence, refactoring, debugging, search, unit testing, project management, revision control, and remote development features. What’s New Versi…",
+      "url": "https://post.rlsbb.to/wing-pro-11-1-0-2",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-03-28T21:17:06Z"
+    },
+    {
+      "title": "Jim Cramer on Tower Semiconductor (TSEM): “I Would Take a Little Off Just Because It’s Had, It’s Had a Parabolic Move in the Last Few Weeks”",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d01fd5b0-9998-435e-b819-dcb2ea94cc77",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-28T21:10:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor",
+      "Modi to inaugurate Kaynes Semicon OSAT facility at Sanand on March 31",
+      "Advancing to the next frontier of AI",
+      "JAMES CARTER And SEVASTIAN HORTON: The Critical Minerals Tax Fix Congress Can’t Afford To Ignore",
+      "Strand PWA Runtime (Part 2.5)"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnx-software.com/2026/03/29/m5stack-stamp-p4-a-tiny-esp32-p4-usb-c-board-with-optional-wi-fi-6-and-bluetooth-5-4",
+        "https://cheezburger.com/44832261/roommate-tells-mutual-friends-he-pays-for-everything-in-apartment-despite-splitting-rent-and-bills",
+        "https://trojanswire.usatoday.com/story/sports/college/trojans/recruiting/2026/03/28/usc-football-oregon-drew-fielder-flip/89372647007"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://linuxgizmos.com/jetway-f35-aru1-combines-core-ultra-soc-in-3-5-inch-form-factor",
+        "https://www.ozbargain.com.au/node/953796",
+        "https://thegadgetflow.com/product/razer-blade-16-2026-gaming-laptop"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260325PD224/samsung-strike-2026-2024-labor-strike.html",
+        "https://post.rlsbb.to/nhv-boot-2026-v2100-extreme",
+        "https://post.rlsbb.to/on1-effects-2026-3-v20-3-1-18535-2"
+      ]
+    },
+    {
+      "title": "Description",
+      "summary": "Grouped stories where \"description\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://post.rlsbb.to/topaz-photo-pro-1-4-0",
+        "https://post.rlsbb.to/coder-technologies-coder-2-30-5",
+        "https://post.rlsbb.to/inpixio-photo-focus-pro-4-3-8627-22540"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/news/modi-to-inaugurate-kaynes-semicon-osat-facility-at-sanand-on-march-31/article70798857.ece",
+        "https://www.computerweekly.com/news/366640859/Advancing-to-the-next-frontier-of-AI",
+        "https://dailycaller.com/2026/03/29/opinion-the-critical-minerals-tax-fix-congress-cant-afford-to-ignore-james-carter-and-sevastian-horton"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Jetway F35-ARU1 Combines Core Ultra SoC in 3.5-inch Form Factor. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
