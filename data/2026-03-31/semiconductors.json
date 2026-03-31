@@ -1,0 +1,390 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-03-31",
+  "last_updated_utc": "2026-03-31T07:07:30.481Z",
+  "news": [
+    {
+      "title": "RAMageddon is ravashing the tech industry",
+      "description": "Random access memory chips are hard to come by these days",
+      "url": "https://theweek.com/tech/ramageddon-tech-industry-ram-shortage-memory",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-03-30T06:00:00Z"
+    },
+    {
+      "title": "ByteDance secures $2.5 billion in Nvidia AI chips amid U.S.-China tech tensions",
+      "description": "Trump signals flexibility, proposing tariff reductions on Chinese goods to facilitate a TikTok deal, prioritizing economic stability over abrupt bans while keeping national security in focus. Originally set for January 19, the TikTok divestment deadline was e…",
+      "url": "https://www.naturalnews.com/2026-03-30-bytedance-secures-nvidia-ai-chips-tech-tensions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-30T06:00:00Z"
+    },
+    {
+      "title": "Show HN: NVSonar – tells why your GPU is slow, not just utilization percentage",
+      "description": "Active GPU diagnostic tool that identifies performance bottlenecks, detects anomalous   patterns, and gives actionable recommendations - btursunbayev/nvsonar",
+      "url": "https://github.com/btursunbayev/nvsonar",
+      "source": "Github.com",
+      "publishedAt": "2026-03-30T05:56:57Z"
+    },
+    {
+      "title": "TSMC faces broad 3nm capacity shortage, fueling supply chain battle",
+      "description": "According to DigiTimes, TSMC’s 3nm process capacity has entered an extremely rare state of “overload,” as a fierce battle for capacity sweeps across the entire semiconductor supply chain. The report notes that from leading GPU and CPU designers to hyperscale …",
+      "url": "http://technode.com/2026/03/30/tsmc-faces-broad-3nm-capacity-shortage-fueling-supply-chain-battle",
+      "source": "TechNode",
+      "publishedAt": "2026-03-30T05:47:27Z"
+    },
+    {
+      "title": "Kosovo, one of Europe's poorest countries, struggles as Iran war drives up fuel prices",
+      "description": "Kosovo is one of the Europe's poorest countries and struggles with a steep rise in fuel prices caused by the Iran war. A company that produces potato chips and other snacks for domestic consumption and export says a price hike affects both planting and distri…",
+      "url": "https://www.seattlepi.com/news/world/article/kosovo-one-of-europe-s-poorest-countries-22158935.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-03-30T05:38:49Z"
+    },
+    {
+      "title": "How to Fix Dependency Confusion Attacks in Private Feeds",
+      "description": "Protect your software supply chain! Learn how to fix dependency confusion attacks in private feeds. Secure your CI/CD pipelines and prevent malicious package installs.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-fix-dependency-confusion-attacks-in-private-feeds",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-30T05:38:14Z"
+    },
+    {
+      "title": "BlackRock funds provide about $57 million to IQM Quantum Computers ahead of US IPO",
+      "description": "In a social media post on Thursday, BlackRock said quantum computing represented \"the next era of computing\". The ​additional funding, which is being announced ⁠on Monday, ‌will help the Finnish company scale operations, accelerate its ​chip and ​technology d…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/blackrock-funds-provide-about-57-million-to-iqm-quantum-computers-ahead-of-us-ipo/articleshow/129892285.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-30T05:33:34Z"
+    },
+    {
+      "title": "Samsung reportedly aims to begin silicon photonics mass production in 2028",
+      "description": "Samsung Electronics plans to mass-produce silicon photonics starting from 2028, a move that could reshape global data-center networking, AI hardware integration, and foundry competition. The company is offering clients an integrated platform spanning photonic…",
+      "url": "https://www.digitimes.com/news/a20260330PD228/silicon-photonics-samsung-tsmc-2028.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T05:13:25Z"
+    },
+    {
+      "title": "The Pinnacle of China's Automotive Relay Innovation Powering Global Mobility",
+      "description": "In the fast-evolving global automotive industry, electrification and intelligence have become irreversible trends, and the [automotive relay](https://www.msrelay.com/) stands as a core component that underpins the safe and stable operation of all vehicle type…",
+      "url": "https://slashdot.org/submission/17346036/the-pinnacle-of-chinas-automotive-relay-innovation-powering-global-mobility",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-30T05:08:16Z"
+    },
+    {
+      "title": "Select the right hardware for your local LLM deployment with this online guide",
+      "description": "When it comes to deploying local LLMs, many people may think that spending more money will deliver more performance, but it's far from reality.  That's why Sipeed created the \"AI Agent Local LLM Inference Device Deployment Guide\" hosted on the llmdev.guide we…",
+      "url": "https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-30T04:47:48Z"
+    },
+    {
+      "title": "Commentary: US chip security act ends China's special AI chip supply",
+      "description": "The US House Committee on Foreign Affairs passed the Chip Security Act, signaling a decisive move to restrict high-performance computing exports amid rising tech tensions with China. Meanwhile, reports from within China indicate a growing consensus to halt im…",
+      "url": "https://www.digitimes.com/news/a20260330PD222/ai-chip-exports-policy-security-usa-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T04:36:52Z"
+    },
+    {
+      "title": "China builds open RISC-V chip platform with Xiangshan, Ruyi OS",
+      "description": "China's Chinese Academy of Sciences (CAS) launched next-generation chip and operating system co-development alongside the debut of the Xiangshan open-source processor and Ruyi native OS at the 2026 Zhongguancun Forum.",
+      "url": "https://www.digitimes.com/news/a20260330VL206/risc-v-development-ip-processor.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T04:23:11Z"
+    },
+    {
+      "title": "Phison and Intel go hybrid to keep China's AI lobster craze from burning out",
+      "description": "The recent craze for OpenClaw \"lobster raising\" in China has sparked massive token consumption, with Yangtze Memory Technologies (YMTC) calling it the first killer app of AI agents. In response, Phison teamed up with Intel to introduce a \"hybrid lobster solut…",
+      "url": "https://www.digitimes.com/news/a20260330PD209/phison-intel-ssd-ymtc-dram.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T04:01:35Z"
+    },
+    {
+      "title": "Toshiba, Rohm, Mitsubishi Electric, and partners begin talks on integrating Japanese power device and semiconductor businesses",
+      "description": "Toshiba, Rohm, Mitsubishi Electric, and partners begin talks on integrating Japanese power device and semiconductor businesses",
+      "url": "https://www.digitimes.com/news/a20260330VL209/toshiba-mitsubishi-electric-rohm-mou-power-semiconductors.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:56:50Z"
+    },
+    {
+      "title": "China's semiconductor capacity share to reach 32% by 2030",
+      "description": "The global semiconductor industry is undergoing a structural transformation. SEMI estimates that in 2025, capital expenditures (CapEx) by the four largest US cloud service providers (CSPs) will reach US$400 billion, more than twice the total semiconductor ind…",
+      "url": "https://www.digitimes.com/news/a20260330PD213/capacity-2030-semiconductor-industry-semi-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:55:16Z"
+    },
+    {
+      "title": "AI-driven memory market set to top US$600 billion on rising storage demand",
+      "description": "The global semiconductor memory market is expected to surpass US$600 billion by 2026, as artificial intelligence accelerates a shift toward high-performance storage, according to industry executives.",
+      "url": "https://www.digitimes.com/news/a20260330PD211/market-demand-2026-data-samsung.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:47:54Z"
+    },
+    {
+      "title": "Sumco shifts wafer strategy to equipment upgrades over new plant",
+      "description": "Sumco has revised its semiconductor wafer supply plan to prioritize upgrading existing fabrication equipment over building new capacity, following approval from Japan's Ministry of Economy, Trade and Industry (METI).",
+      "url": "https://www.digitimes.com/news/a20260330VL210/sumco-equipment-plant-wafer-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:42:29Z"
+    },
+    {
+      "title": "Analysis: Terafab's scale raises market doubts; is Elon Musk aiming to dominate chip supply chain?",
+      "description": "Elon Musk recently announced the launch of the \"Terafab\" project, aiming to expand compute production capacity to 1 TW per year, which is about 50 times the current global compute supply of around 20 GW. He plans to build advanced wafer fabs first in Austin, …",
+      "url": "https://www.digitimes.com/news/a20260330PD217/elon-musk-wafer-fab-ic-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:38:03Z"
+    },
+    {
+      "title": "メモリ関連の市場価値が約1000億ドル減少しマイクロン株は15％下落、GoogleによるTurboQuant圧縮アルゴリズムの発表でAIのメモリ使用量が激減するとの報道から",
+      "description": "2026年3月27日週、アメリカのメモリチップ関連株が大幅に下落し、市場価値が約1000億ドル(約15兆9800億円)近く失われたことが分かりました。直前にGoogleが発表した、メモリ使用量を既存の6分の1に削減する技術の影響が大きいとみられています。Micron Stock Slumps After Google Unveils New Technologyhttps://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-26-2…",
+      "url": "https://news.livedoor.com/article/detail/30871186",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-30T03:15:00Z"
+    },
+    {
+      "title": "Samsung invests in AI chip design startup to speed silicon and cut power use",
+      "description": "Samsung Electronics has backed AI chip design startup Normal Computing in a US$50 million funding round, expanding its push into AI-driven electronic design automation and next-generation semiconductor architectures. The move targets faster chip development c…",
+      "url": "https://www.digitimes.com/news/a20260330VL204/samsung-funding-ai-chip-design-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:52:33Z"
+    },
+    {
+      "title": "Trump says intel chief Tulsi Gabbard 'softer' than him on Iran nuclear issue",
+      "description": "President Trump indicated internal differences on Iran policy, suggesting his intelligence chief, Tulsi Gabbard, holds a  softer  stance on curbing Tehran's nuclear ambitions. While expressing confidence in Gabbard, Trump emphasized his own firm opposition to…",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-intel-chief-tulsi-gabbard-softer-than-him-on-iran-nuclear-issue/articleshow/129890238.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-30T02:47:48Z"
+    },
+    {
+      "title": "Weekly news roundup: AI, supply chains, new entrants intensify global chip race",
+      "description": "Below are the most-read DIGITIMES Asia stories from the week of March 23-27, 2026:",
+      "url": "https://www.digitimes.com/news/a20260330VL203/digitimes-weekly-news-roundup-hbm4-fab-funding.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:36:50Z"
+    },
+    {
+      "title": "Measure Agent Quality and Safety with Azure AI Evaluation SDK and Azure AI Foundry",
+      "description": "Ensure agent reliability with Azure AI Evaluation SDK & Foundry. Measure quality, safety, & traceability for production GraphRAG agents. Detect regressions early!",
+      "url": "https://www.c-sharpcorner.com/article/measure-agent-quality-and-safety-with-azure-ai-evaluation-sdk-and-azure-ai-found",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-30T02:30:16Z"
+    },
+    {
+      "title": "Taiwan’s AI pivot: from chip factory to “silicon innovation island”",
+      "description": "Taiwan is moving to cement its status as the \"beating heart\" of the global technology industry by transitioning from a hardware manufacturing powerhouse into what Acer founder Stan Shih calls a \"silicon innovation island\". The Taiwanese government plans to do…",
+      "url": "https://www.digitimes.com/news/a20260327VL209/taiwan-hardware-silicon-government-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:19:03Z"
+    },
+    {
+      "title": "LS Eco Energy and Lynas aim to build a non-Chinese rare-earth supply chain",
+      "description": "LS Eco Energy and Australia's Lynas Rare Earths have entered a strategic partnership to create an independent rare earths supply chain. This move could help global manufacturers seeking alternatives to China's dominant position. The tie-up aims to link mining…",
+      "url": "https://www.digitimes.com/news/a20260330VL200/australia-partnership-rare-earth-materials-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:05:51Z"
+    },
+    {
+      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+      "description": "A regression in external display support on Apple Silicon M4/M5 generation chips prevents full HiDPI modes on 4K monitors, limiting users to either blurry non-HiDPI or reduced workspace HiDPI.",
+      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays",
+      "source": "Smcleod.net",
+      "publishedAt": "2026-03-30T01:43:20Z"
+    },
+    {
+      "title": "Senao International eyes AI and used phone demand to drive 2026 growth",
+      "description": "Senao International's cautious 2026 outlook, outlined at a March 27 investor briefing, signals global repercussions for device makers as inflation, chip shortages, and high smartphone penetration reshape demand. The Taiwanese distributor plans to pivot toward…",
+      "url": "https://www.digitimes.com/news/a20260330PD205/senao-international-smartphone-demand-outlook-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T01:42:11Z"
+    },
+    {
+      "title": "DXC staff to strike in Australia after some go without pay rise for five years",
+      "description": "PLUS: Iran war may slow APAC IT spend; Toshiba, Mitsubishi, may combine chip businesses; Fusion plasma control networks; And more!\nAsia In Brief Staff at services giant DXC’s Australian outpost will go on strike this week after 14 months of negotiations over …",
+      "url": "https://www.theregister.com/2026/03/30/asia_tech_news_roundup",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-30T00:55:52Z"
+    },
+    {
+      "title": "This Week in Tech 1077: I Would Download a Car",
+      "description": "Big Tech just faced a courtroom reckoning, with Meta and Google found liable for platform \"addictiveness\" in a social media trial that could unleash a tidal wave of lawsuits. Find out why attorneys, entrepreneurs, and everyday users are suddenly on edge. \n• S…",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1077",
+      "source": "Twit.tv",
+      "publishedAt": "2026-03-30T00:19:33Z"
+    },
+    {
+      "title": "India roundup: India resets FDI policy as rising GPU costs reshape AI strategy",
+      "description": "India is recalibrating FDI rules, semiconductor incentives and AI policy while expanding power capacity and attracting global players like Tesla, Keysight and DNP. Data center ambitions are rising amid talks with Meta and Google. However, challenges persist, …",
+      "url": "https://www.digitimes.com/news/a20260330VL201/fdi-policy-gpu-incentives-industrial.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T00:12:16Z"
+    },
+    {
+      "title": "1991 Audi 200 20V Turbo Quattro Avant",
+      "description": "This 1991 Audi 200 20V Turbo Quattro Avant is one of approximately 150 built for its sole model year in the US market, all of which were assembled with a 20-valve turbocharged 2.2L inline-five paired with a five-speed manual transaxle. The vehicle had a previ…",
+      "url": "https://bringatrailer.com/listing/1991-audi-200-27",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-03-30T00:02:04Z"
+    },
+    {
+      "title": "DIY ESP32-S3 Internet radio features Winamp-styled user interface",
+      "description": "Volos Projects recently showcased an easy-to-reproduce, inexpensive DIY ESP32-S3 Internet radio based on a Waveshare ESP32-S3-LCD-1.54 development board and an Arduino sketch with a Winamp-styled user interface. As its name implies, the hardware is based on t…",
+      "url": "https://www.cnx-software.com/2026/03/30/diy-esp32-s3-internet-radio-features-winamp-styled-user-interface",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-30T00:00:47Z"
+    },
+    {
+      "title": "Nordic Semiconductor、よりスマートで長寿命なIoT機器を実現する高精度・適応型バッテリー健康モニタリングを発表",
+      "description": "[ノルディック・セミコンダクター株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/140089/55/140089-55-0fb6af46a99e5ea74f19a15c90d7db5c-750x626.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000055.000140089.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "A photochargeable semiconductor for highly efficient dehydrogenative coupling of amines",
+      "description": "Photochargeable semiconductors offer a promising route to overcoming efficiency limits in photocatalytic transformations. Now it has been shown that zinc indium sulfide nanocrystals with a high charge storage capacity, combined with a nickel cocatalyst, enabl…",
+      "url": "https://www.nature.com/articles/s41557-026-02109-6",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "Michael Bernstam Discusses How Rising Oil Prices Bolster Russia's Budget.",
+      "description": "10. SEG 10: Michael Bernstam discusses how rising oil prices bolster Russia&#39;s budget. However, the Russian economy faces contraction and &quot;military Keynesianism,&quot; while the United Statesremains a resilient net energy exporter despite global suppl…",
+      "url": "https://audioboom.com/posts/8872868-10-seg-10-michael-bernstam-discusses-how-rising-oil-prices-bolster-russia-s-budget-however-th",
+      "source": "Audioboom.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "DMSO — The Forgotten Remedy Revolutionizing Eye Healing",
+      "description": "A New Series of Health Insights Is on the Way\r\n\n\r\n\n\nIMPORTANT\r\n\n\nA New Series of Health Insights Is on the Way\r\n\n\n Our team has been working behind the scenes to prepare new research and practical health\n strategies for our readers. While we finish preparing …",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/03/30/dmso-for-eye-health.aspx",
+      "source": "Mercola.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "A megawatt ultra-wide bandgap semiconductor module for pulsed power electronics",
+      "description": "Achieving high power scaling in ultrawide bandgap electronics remains challenging. Here, the authors present a Ga₂O₃ module using a high permittivity interface that enables fast megawatt pulsed switching with improved thermal performance.",
+      "url": "https://www.nature.com/articles/s41467-026-71274-6",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "A tunable topological photonic interferometer",
+      "description": "Robust interference between photonic topological edge states, without compromising unidirectional transmission, is achieved. Optical gain enables fast, reconfigurable control of mode coupling, thus realizing a tunable on-chip topological interferometer.",
+      "url": "https://www.nature.com/articles/s41567-026-03227-1",
+      "source": "Nature.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "RAMageddon is ravashing the tech industry",
+      "ByteDance secures $2.5 billion in Nvidia AI chips amid U.S.-China tech tensions",
+      "Show HN: NVSonar – tells why your GPU is slow, not just utilization percentage",
+      "TSMC faces broad 3nm capacity shortage, fueling supply chain battle",
+      "Kosovo, one of Europe's poorest countries, struggles as Iran war drives up fuel prices"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Global",
+      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260330PD228/silicon-photonics-samsung-tsmc-2028.html",
+        "https://slashdot.org/submission/17346036/the-pinnacle-of-chinas-automotive-relay-innovation-powering-global-mobility",
+        "https://www.digitimes.com/news/a20260330PD213/capacity-2030-semiconductor-industry-semi-2025.html"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://technode.com/2026/03/30/tsmc-faces-broad-3nm-capacity-shortage-fueling-supply-chain-battle",
+        "https://www.digitimes.com/news/a20260330VL209/toshiba-mitsubishi-electric-rohm-mou-power-semiconductors.html",
+        "https://www.digitimes.com/news/a20260330VL210/sumco-equipment-plant-wafer-demand.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/blackrock-funds-provide-about-57-million-to-iqm-quantum-computers-ahead-of-us-ipo/articleshow/129892285.cms",
+        "https://www.digitimes.com/news/a20260330PD222/ai-chip-exports-policy-security-usa-china.html",
+        "https://www.digitimes.com/news/a20260330VL206/risc-v-development-ip-processor.html"
+      ]
+    },
+    {
+      "title": "China",
+      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-03-30-bytedance-secures-nvidia-ai-chips-tech-tensions.html",
+        "https://www.digitimes.com/news/a20260330PD209/phison-intel-ssd-ymtc-dram.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://theweek.com/tech/ramageddon-tech-industry-ram-shortage-memory",
+        "https://github.com/btursunbayev/nvsonar",
+        "https://www.seattlepi.com/news/world/article/kosovo-one-of-europe-s-poorest-countries-22158935.php"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: RAMageddon is ravashing the tech industry. Main topic cluster: Global. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: RAMageddon is ravashing the tech industry. Main topic cluster: Global. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: RAMageddon is ravashing the tech industry. Main topic cluster: Global. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: RAMageddon is ravashing the tech industry. Main topic cluster: Global. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: RAMageddon is ravashing the tech industry. Main topic cluster: Global. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

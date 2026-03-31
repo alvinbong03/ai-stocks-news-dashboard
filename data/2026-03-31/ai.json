@@ -1,0 +1,269 @@
+{
+  "theme": "ai",
+  "date": "2026-03-31",
+  "last_updated_utc": "2026-03-31T07:07:12.422Z",
+  "news": [
+    {
+      "title": "AI compute shifts to inference, reshaping data center bottlenecks",
+      "description": "The focus of artificial intelligence computing is set to shift from training to inference beyond 2025, a transition that will also redefine system bottlenecks across data centers, according to DIGITIMES Research.",
+      "url": "https://www.digitimes.com/news/a20260327PD209/training-growth-digitimes-shipments-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T00:21:34Z"
+    },
+    {
+      "title": "Apple to open Siri to rival AI services beyond ChatGPT",
+      "description": "Apple plans to open its Siri voice assistant to rival artificial intelligence (AI) services, moving beyond its partnership with OpenAI, according to Bloomberg and Reuters.",
+      "url": "https://www.digitimes.com/news/a20260330VL205/apple-siri-voice-assistant-chatgpt-app-store.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:20:05Z"
+    },
+    {
+      "title": "Bitdeer Engages DCI to Finalise Development of Norway’s Largest AI Data Center",
+      "description": "Expected to be completed as early as December 2026, the 180 MW Tydal Data Center (TDC) will primarily be used for co-location services of Nvidia’s latest Vera Rubin AI technology Expected to be completed as early as December 2026, the 180 MW Tydal Data Center…",
+      "url": "https://www.globenewswire.com/news-release/2026/03/30/3264318/0/en/Bitdeer-Engages-DCI-to-Finalise-Development-of-Norway-s-Largest-AI-Data-Center.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-30T07:00:00Z"
+    },
+    {
+      "title": "ByteDance secures $2.5 billion in Nvidia AI chips amid U.S.-China tech tensions",
+      "description": "Trump signals flexibility, proposing tariff reductions on Chinese goods to facilitate a TikTok deal, prioritizing economic stability over abrupt bans while keeping national security in focus. Originally set for January 19, the TikTok divestment deadline was e…",
+      "url": "https://www.naturalnews.com/2026-03-30-bytedance-secures-nvidia-ai-chips-tech-tensions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-30T06:00:00Z"
+    },
+    {
+      "title": "One man, his dog, and ChatGPT: Australia's AI vaccine saga",
+      "description": "An Australian man used artificial intelligence to design a personalised experimental treatment for his dog who was sick with terminal cancer.",
+      "url": "https://www.channelnewsasia.com/world/chatgpt-ai-dog-cancer-treatment-6025186",
+      "source": "CNA",
+      "publishedAt": "2026-03-30T05:53:00Z"
+    },
+    {
+      "title": "Select the right hardware for your local LLM deployment with this online guide",
+      "description": "When it comes to deploying local LLMs, many people may think that spending more money will deliver more performance, but it's far from reality.  That's why Sipeed created the \"AI Agent Local LLM Inference Device Deployment Guide\" hosted on the llmdev.guide we…",
+      "url": "https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-30T04:47:48Z"
+    },
+    {
+      "title": "India roundup: India resets FDI policy as rising GPU costs reshape AI strategy",
+      "description": "India is recalibrating FDI rules, semiconductor incentives and AI policy while expanding power capacity and attracting global players like Tesla, Keysight and DNP. Data center ambitions are rising amid talks with Meta and Google. However, challenges persist, …",
+      "url": "https://www.digitimes.com/news/a20260330VL201/fdi-policy-gpu-incentives-industrial.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T00:12:16Z"
+    },
+    {
+      "title": "Anthropic’s Claude Draws in Record Number of Consumers",
+      "description": "Anthropic’s artificial intelligence tool is reportedly enjoying record levels of popularity among consumers. That’s according to a report Saturday (March 28) from TechCrunch, based on an examination of credit card transactions from about 28 million U.S. consu…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-29T22:10:42Z"
+    },
+    {
+      "title": "OpenAIがコーディング支援AIツール「Codex」用プラグインを発表、Gmail・Googleドライブ・GitHub・Figma・Notion・Slack・Cloudflare・Boxなど20以上のサービスとの連携を実現",
+      "description": "OpenAIが2021年から展開しているコーディング支援用のAIツール「Codex」向けに多数のプラグインを発表しました。これにより、Gmailをはじめとした20以上のサービスとデフォルトで連携させることが可能となります。Plugins - Codex | OpenAI Developershttps://developers.openai.com/codex/pluginsWe're rolling out plugins in Codex.Codex now works seamlessly out of t…",
+      "url": "https://news.livedoor.com/article/detail/30872414",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-03-30T07:00:00Z"
+    },
+    {
+      "title": "Google Gemini Sends More Traffic To Sites Than Perplexity: Report via @sejournal, @MattGSouthern",
+      "description": "Google Gemini more than doubled its referral traffic to websites in two months while ChatGPT declined from its peak, SE Ranking data shows. \nThe post Google Gemini Sends More Traffic To Sites Than Perplexity: Report appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-03-30T05:00:13Z"
+    },
+    {
+      "title": "Commentary: US chip security act ends China's special AI chip supply",
+      "description": "The US House Committee on Foreign Affairs passed the Chip Security Act, signaling a decisive move to restrict high-performance computing exports amid rising tech tensions with China. Meanwhile, reports from within China indicate a growing consensus to halt im…",
+      "url": "https://www.digitimes.com/news/a20260330PD222/ai-chip-exports-policy-security-usa-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T04:36:52Z"
+    },
+    {
+      "title": "SoftBank secures US$40 billion loan to fund OpenAI investment",
+      "description": "SoftBank Group Corp. has secured a US$40 billion bridge loan to support its ongoing investment in US artificial intelligence developer OpenAI, marking one of the largest dollar-denominated borrowings in the Japanese conglomerate's history. The unsecured loan,…",
+      "url": "https://www.digitimes.com/news/a20260330VL212/loan-openai-investment-financing-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T03:54:23Z"
+    },
+    {
+      "title": "Why OpenAI really shut down Sora | TechCrunch",
+      "description": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-30T03:11:10Z"
+    },
+    {
+      "title": "Samsung invests in AI chip design startup to speed silicon and cut power use",
+      "description": "Samsung Electronics has backed AI chip design startup Normal Computing in a US$50 million funding round, expanding its push into AI-driven electronic design automation and next-generation semiconductor architectures. The move targets faster chip development c…",
+      "url": "https://www.digitimes.com/news/a20260330VL204/samsung-funding-ai-chip-design-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T02:52:33Z"
+    },
+    {
+      "title": "Sources: some Disney execs learned about Sora's shutdown less than an hour before the announcement; Disney was in talks with OpenAI for company-wide ChatGPT use (Wall Street Journal)",
+      "description": "Wall Street Journal:\nSources: some Disney execs learned about Sora's shutdown less than an hour before the announcement; Disney was in talks with OpenAI for company-wide ChatGPT use  —  When Sam Altman arrived in Los Angeles to attend Vanity Fair's Oscar afte…",
+      "url": "https://mediagazer.com/260329/p6",
+      "source": "Mediagazer.com",
+      "publishedAt": "2026-03-30T02:35:01Z"
+    },
+    {
+      "title": "【吉積情報株式会社】吉積情報が、医療機器大手の日本ライフライン株式会社における生成 AI「Gemini」の全社展開をご支援",
+      "description": "[吉積情報株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/69271/140/69271-140-814fb34157b1275b17f764236a19c00e-3900x2601.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000140.000069271.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-30T01:40:53Z"
+    },
+    {
+      "title": "Machine Learning Scientist – Natural Language Processing (NLP) – Vice President – Machine Learnin…",
+      "description": "Job Description At JPMorgan Chase, AI and technology promote our global operations with unmatched scale and speed. We invest over $18 billion annually in innovation, data leverage, and security to shape the future for our clients, communities, and employees. …",
+      "url": "https://nlppeople.com/job/machine-learning-scientist-natural-language-processing-nlp-vice-president-machine-learnin-2",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-03-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion",
+      "description": "We recently published an article with the title 9 Good Stocks to Buy Now and NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks made the list. On March 25...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-29T23:16:39Z"
+    },
+    {
+      "title": "Microsoft、「Generative AI for Beginners .NET」のバージョン2リリース",
+      "description": "",
+      "url": "https://codezine.jp/news/detail/23793",
+      "source": "Codezine.jp",
+      "publishedAt": "2026-03-29T23:00:00Z"
+    },
+    {
+      "title": "I Built a Plugin Because Anthropic Won't Stop Shipping",
+      "description": "Claude Code ships updates daily. My config breaks weekly. So I wrote a plugin that cross-references release notes against my setup.",
+      "url": "https://feld.com/archives/2026/03/i-built-a-plugin-because-anthropic-wont-stop-shipping",
+      "source": "Feld.com",
+      "publishedAt": "2026-03-29T20:36:00Z"
+    },
+    {
+      "title": "Lattice Semiconductor (LSCC) Partners With Nvidia to Join Halos AI Systems Inspection Lab Ecosystem",
+      "description": "Lattice Semiconductor Corporation (NASDAQ:LSCC) is one of the High Growth Semiconductor Stocks to Buy. On March 16, Lattice Semiconductor Corporation...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-03-29T20:35:26Z"
+    },
+    {
+      "title": "Sora isn’t the only thing OpenAI shut down this month",
+      "description": "On Tuesday, OpenAI announced that the company is shutting down Sora, its AI-generated video app. The iPhone app only arrived in September, making its six-month existence brief and fun, much like using the app itself. It turns out Sora isn’t the only thing the…",
+      "url": "https://9to5mac.com/2026/03/29/sora-isnt-the-only-thing-openai-shut-down-this-month",
+      "source": "9to5Mac",
+      "publishedAt": "2026-03-29T19:40:42Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI compute shifts to inference, reshaping data center bottlenecks",
+      "Apple to open Siri to rival AI services beyond ChatGPT",
+      "Bitdeer Engages DCI to Finalise Development of Norway’s Largest AI Data Center",
+      "ByteDance secures $2.5 billion in Nvidia AI chips amid U.S.-China tech tensions",
+      "One man, his dog, and ChatGPT: Australia's AI vaccine saga"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260327PD209/training-growth-digitimes-shipments-2025.html",
+        "https://www.globenewswire.com/news-release/2026/03/30/3264318/0/en/Bitdeer-Engages-DCI-to-Finalise-Development-of-Norway-s-Largest-AI-Data-Center.html",
+        "https://www.digitimes.com/news/a20260330VL201/fdi-policy-gpu-incentives-industrial.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260330VL205/apple-siri-voice-assistant-chatgpt-app-store.html",
+        "https://news.livedoor.com/article/detail/30872414",
+        "https://www.digitimes.com/news/a20260330VL212/loan-openai-investment-financing-infrastructure.html"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/world/chatgpt-ai-dog-cancer-treatment-6025186",
+        "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-claude-draws-in-record-number-of-consumers"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-03-30-bytedance-secures-nvidia-ai-chips-tech-tensions.html",
+        "https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide",
+        "https://www.digitimes.com/news/a20260330PD222/ai-chip-exports-policy-security-usa-china.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI compute shifts to inference, reshaping data center bottlenecks. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI compute shifts to inference, reshaping data center bottlenecks. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI compute shifts to inference, reshaping data center bottlenecks. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI compute shifts to inference, reshaping data center bottlenecks. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI compute shifts to inference, reshaping data center bottlenecks. Main topic cluster: Data. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
