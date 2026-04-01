@@ -1,0 +1,229 @@
+{
+  "theme": "ai",
+  "date": "2026-04-01",
+  "last_updated_utc": "2026-04-01T07:14:37.968Z",
+  "news": [
+    {
+      "title": "How Is ChatGPT Different from Claude and Gemini in 2026?",
+      "description": "ChatGPT vs. Claude vs. Gemini in 2026: A detailed comparison of AI assistants, covering writing, coding, context windows, multimodality, pricing, and use cases.",
+      "url": "https://www.c-sharpcorner.com/article/how-is-chatgpt-different-from-claude-and-gemini-in-2026",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-03-31T04:38:24Z"
+    },
+    {
+      "title": "Show HN: Claude/OpenAI/Gemini agents compete as investors with $100K each",
+      "description": "Claude, Gemini, and GPT each get $100K in virtual money and trade every morning at 9:30 AM ET using real Yahoo Finance prices. Same tools, same rules — different models. Live leaderboard shows portfolio values, holdings, and each agent's daily diary entry exp…",
+      "url": "https://github.com/upstash/botstreet",
+      "source": "Github.com",
+      "publishedAt": "2026-03-30T23:54:12Z"
+    },
+    {
+      "title": "PubMatic & Amnet Launch the First Agentic Advertising Campaign in France Using the Claude LLM",
+      "description": "Today (31st March, 2026), PubMatic, the leading AI-powered ad tech company delivering digital advertising performance, announces the launch of the first Agentic advertising campaign in France, in partnership with trading desk Amnet. Developed for client INTER…",
+      "url": "https://www.exchangewire.com/blog/2026/03/31/pubmatic-amnet-launch-the-first-agentic-advertising-campaign-in-france-using-the-claude-llm",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-03-31T07:00:00Z"
+    },
+    {
+      "title": "Google Adds ChatGPT and Claude Import Tools to Gemini for Memory and Chat History",
+      "description": "Google has introduced import tools for Gemini that enable users to transfer their stored memories and complete conversation histories from ChatGPT and Claude.\nThank you for being a Ghacks reader. The post Google Adds ChatGPT and Claude Import Tools to Gemini …",
+      "url": "https://www.ghacks.net/2026/03/31/google-adds-chatgpt-and-claude-import-tools-to-gemini-for-memory-and-chat-history",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-03-31T06:47:38Z"
+    },
+    {
+      "title": "Federal Court Blocks Pentagon Order Designating AI Firm Anthropic as National Security Risk",
+      "description": "Federal Judge Issues Preliminary Injunction Against Pentagon Order A U.S. federal judge has blocked an order from the Department of War that designated artificial intelligence company Anthropic as a national security supply chain risk. The ruling, issued Thur…",
+      "url": "https://www.naturalnews.com/2026-03-31-court-blocks-pentagon-designating-anthropic-natsec-risk.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-31T06:00:00Z"
+    },
+    {
+      "title": "Chinese GPU maker Moore Threads wins US$91 million AI cluster order",
+      "description": "Chinese GPU developer Moore Threads has secured a CNY660 million (approx. US$95.5 million) contract to supply its KUAE intelligent computing cluster, marking a shift from standalone GPUs to large-scale AI training infrastructure.",
+      "url": "https://www.digitimes.com/news/a20260331VL207/moore-threads-gpu-training-revenue-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T03:20:41Z"
+    },
+    {
+      "title": "DIGITIMES Insight: Terafab funding questions emerge as CPU resurgence reshapes AI chip demand",
+      "description": "On a recent podcast, DIGITIMES analyst Luke Lin spotlighted Elon Musk's Terafab as a retro IDM bet with major funding questions, while arguing CPUs are resurging in the AI era as inference demand tightens supply and reshapes semiconductor priorities.",
+      "url": "https://www.digitimes.com/news/a20260326VL212/digitimes-cpu-funding-demand-elon-musk.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T01:00:01Z"
+    },
+    {
+      "title": "MPI probe card lead times stretch to 6 months on AI chip testing surge",
+      "description": "Taiwan-based semiconductor testing interface provider MPI Corporation has reported that strong demand from the AI chip testing market has pushed probe card lead times to as long as six months, with visibility for some orders extending up to two years. Chairma…",
+      "url": "https://www.digitimes.com/news/a20260331PD212/testing-mpi-probe-card-demand-ai-chip.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T05:49:48Z"
+    },
+    {
+      "title": "Show HN: Free AI API gateway that auto-fails over Gemini, Groq, Mistral, etc.",
+      "description": "Article URL: https://github.com/msmarkgu/RelayFreeLLM\nComments URL: https://news.ycombinator.com/item?id=47582537\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/msmarkgu/RelayFreeLLM",
+      "source": "Github.com",
+      "publishedAt": "2026-03-31T03:48:57Z"
+    },
+    {
+      "title": "OpenAI scraps Sora to double down on enterprise AI",
+      "description": "OpenAI has shut down its Sora video-generation platform, abandoning a high-profile push into entertainment and consumer creativity as it pivots toward enterprise AI and productivity tools.",
+      "url": "https://www.digitimes.com/news/a20260331VL204/openai-sora-disney-revenue-copyright.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T03:45:39Z"
+    },
+    {
+      "title": "iOS 26.5 beta arrives with no Gemini-powered AI features as focus shifts to iOS 27 - 9to5Mac",
+      "description": "iOS 26.5 beta arrives with no Gemini-powered AI features as focus shifts to iOS 279to5Mac iOS 26.5 beta 1 is available, but there are no Siri improvementsMacworld iOS 26.5’s Messages app has RCS end-to-end encryption in beta9to5Mac First iOS 26.5, macOS 26.5 …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181188638",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-31T02:12:22Z"
+    },
+    {
+      "title": "生成AIを『使うだけ』から『働かせる』へ。Claude Code導入支援プラン　株式会社コミクス",
+      "description": "[株式会社コミクス]\n[画像: https://prcdn.freetls.fastly.net/release_image/2500/248/2500-248-aff511912a142bcdb783bcec1c24a41c-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000248.000002500.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-03-31T01:40:46Z"
+    },
+    {
+      "title": "OpenAI Aims to Improve Developer Experience Around Third-Party ChatGPT Apps",
+      "description": "Six months after OpenAI announced that it would let companies launch mini apps within ChatGPT, the experience is getting mixed reviews from participating companies, Bloomberg reported Monday (March 30). While there are 300 integrations available, they are not…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-aims-to-improve-developer-experience-around-third-party-chatgpt-apps",
+      "source": "pymnts.com",
+      "publishedAt": "2026-03-31T01:14:29Z"
+    },
+    {
+      "title": "Space data center startup Starcloud raises $170M at $1.1B valuation",
+      "description": "Starcloud Inc., a startup that hopes to build a 5-gigawatt artificial intelligence data center in orbit, has closed a $170 million funding round. The company raised the capital in two tranches. Benchmark led the first transaction and co-led the second with EQ…",
+      "url": "https://siliconangle.com/2026/03/30/space-data-center-startup-starcloud-raises-170m-1-1b-valuation",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-03-31T00:36:58Z"
+    },
+    {
+      "title": "Samsung SDI expands LFP cathode supply chain to target US AI data center ESS market",
+      "description": "Samsung SDI is actively expanding its lithium iron phosphate (LFP) battery material supply chain to capture opportunities in the US energy storage system (ESS) market, driven by growing demand from AI data centers. The company is procuring LFP cathode materia…",
+      "url": "https://www.digitimes.com/news/a20260330PD236/samsung-sdi-lfp-battery-data-center-energy-storage-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T23:52:42Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang reframes AI compute as a token-minting revenue machine",
+      "description": "Nvidia CEO Jensen Huang said on the Lex Fridman Podcast that computing is undergoing a structural shift — from a \"storage system,\" where data is pre-defined and retrieved, to a \"generative system\" capable of contextual understanding.",
+      "url": "https://www.digitimes.com/news/a20260330PD219/nvidia-jensen-huang-ceo-data-efficiency.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T23:50:42Z"
+    },
+    {
+      "title": "Vera Rubin compute tray design unfinalized as Nvidia pushes supply diversification",
+      "description": "Sources in the passive component supply chain report that Nvidia's next-generation platform architecture, Vera Rubin, is scheduled to enter mass production in the third quarter of 2026 and has drawn significant attention from the global AI computing market. H…",
+      "url": "https://www.digitimes.com/news/a20260330PD212/design-rubin-supply-chain-passive-component.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-30T23:49:58Z"
+    },
+    {
+      "title": "GitHub - openai/codex-plugin-cc: Use Codex from Claude Code to review code or delegate tasks.",
+      "description": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "Github.com",
+      "publishedAt": "2026-03-30T21:32:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ChatGPT vs. Claude vs. Gemini in 2026",
+      "Claude/LLM competition in France",
+      "OpenAI scrapping Sora",
+      "Space data center startup raising funds",
+      "Samsung SDI expanding LFP supply chain"
+    ],
+    "insights": [
+      "AI assistants compared",
+      "French agentic advertising campaign",
+      "OpenAI pivot towards enterprise AI"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI Assistant Comparison",
+      "summary": "In 2026, ChatGPT, Claude, and Gemini will be competing against each other in various aspects such as writing, coding, context windows, multimodality, pricing, and use cases.",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/how-is-chatgpt-different-from-claude-and-gemini-in-2026",
+        "https://github.com/upstash/botstreet"
+      ]
+    },
+    {
+      "title": "French Agentic Ad Campaign",
+      "summary": "Today, PubMatic and Amnet launched the first agentic advertising campaign in France using the Claude LLM.",
+      "article_urls": [
+        "https://www.exchangewire.com/blog/2026/03/31/pubmatic-amnet-launch-the-first-agentic-advertising-campaign-in-france-using-the-claude-llm"
+      ]
+    },
+    {
+      "title": "OpenAI Pivot",
+      "summary": "OpenAI has shut down its Sora video-generation platform, focusing more on enterprise AI and productivity tools.",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-03-31-court-blocks-pentagon-designating-anthropic-natsec-risk.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "The NVIDIA Corporation (NVDA) is a technology company primarily focused on graphics processing units (GPUs) and artificial intelligence (AI) solutions. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft Corporation (MSFT) is a multinational technology giant known for its Windows operating system, Office suite, and Azure cloud services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Alphabet Inc. (GOOGL) is a technology company that operates under the brand name Google, offering search engine services, web applications, and hardware products. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon.com, Inc. (AMZN) is an American multinational retail corporation that specializes in e-commerce, cloud computing, and online streaming services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms, Inc. (META) is a social media and internet company founded by Mark Zuckerberg. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

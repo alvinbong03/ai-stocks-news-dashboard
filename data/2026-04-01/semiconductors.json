@@ -1,0 +1,354 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-01",
+  "last_updated_utc": "2026-04-01T07:15:05.696Z",
+  "news": [
+    {
+      "title": "$1549 | Apple 2025 MacBook Pro Laptop with M5 chip (16GB Memory, 1TB SSD, Silver) at Amazon",
+      "description": "Amazon [amazon.com] has Apple 2025 MacBook Pro Laptop with M5 chip (16GB Memory, 1TB SSD, Silver) for $1549.\r\nShipping is free.16GB Memory | 1TBSilver [amazon.com] - $1549\nSpace Black [amazon.com] - $",
+      "url": "https://slickdeals.net/f/19367463-1549-apple-2025-macbook-pro-laptop-with-m5-chip-16gb-memory-1tb-ssd-silver-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-31T07:04:29Z"
+    },
+    {
+      "title": "‘The Thinking Machine,’ AI and Higher Ed Professional Staff Work",
+      "description": "‘The Thinking Machine,’ AI and Higher Ed Professional Staff Work\n\n \n\n\n \njoshua.m.kim@d…\n\nTue, 03/31/2026 - 03:00 AM\n\nOur jobs and NVIDIA.\n \n Byline(s)\r\n\n \n Joshua Kim",
+      "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/03/31/thinking-machine-ai-higher-ed-professional-staff",
+      "source": "Inside Higher Ed",
+      "publishedAt": "2026-03-31T07:00:00Z"
+    },
+    {
+      "title": "Global Foundry 2.0 market climbs to record US$320 billion in 2025 revenue",
+      "description": "The semiconductor industry has formally entered the Foundry 2.0 era, a phase defined by the deep integration of manufacturing, assembly, and testing, profitably driven by the global AI boom. According to Counterpoint Research's latest Foundry Market Supply Tr…",
+      "url": "https://www.digitimes.com/news/a20260331VL208/semiconductor-foundry-fab-revenue-growth-market-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T06:59:47Z"
+    },
+    {
+      "title": "Stop calling Nvidia GPUs overpriced—you’re ignoring what makes them worth it",
+      "description": "Nearly all graphics cards are expensive right now, but the ongoing RAM shortage is at least partly to blame for the current state of things. But, all shortages aside, few people would call Nvidia’s graphics cards cheap, and neither would I. They’re not, and t…",
+      "url": "https://www.madshrimps.be/news/stop-calling-nvidia-gpus-overpriced-youre-ignoring-what-makes-them-worth-it",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-31T06:55:49Z"
+    },
+    {
+      "title": "The Hidden 48-Day Countdown Threatening the Future of AI Chips",
+      "description": "The global helium supply chain is under significant strain, with far-reaching consequences for the semiconductor industry and AI development. A missile strike has incapacitated Qatar’s Ras Laffan plant, which previously supplied nearly one-third of the world’…",
+      "url": "https://www.geeky-gadgets.com/qatar-helium-shutdown-ai-chips",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-03-31T06:41:00Z"
+    },
+    {
+      "title": "【速報】axios乗っ取り事件──あなたのMacが感染していないか確認する方法と防御手順｜藤井晃司",
+      "description": "はじめに：これは「エンジニアの話」ではない  2026年3月31日。世界中の開発者が使う「axios」というソフトウェア部品が乗っ取られた。     CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages.  The latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did not exist bef…",
+      "url": "https://note.com/fujikou/n/nfb53c90ee2d9",
+      "source": "Note.com",
+      "publishedAt": "2026-03-31T06:38:09Z"
+    },
+    {
+      "title": "Raspberry Pi earnings beat expectations on demand and higher prices",
+      "description": "LONDON, March 31 : Single-board computing company Raspberry Pi reported a better-than-expected 25 per cent rise in annual earnings, helped by strengthening demand and price increases linked to higher memory chip costs, sending its shares up 26 per cent on Tue…",
+      "url": "https://www.channelnewsasia.com/business/raspberry-pi-earnings-beat-expectations-demand-and-higher-prices-6027746",
+      "source": "CNA",
+      "publishedAt": "2026-03-31T06:20:16Z"
+    },
+    {
+      "title": "Nvidia: Helium Shortage Problems (NASDAQ:NVDA) - Seeking Alpha",
+      "description": "Nvidia: Helium Shortage Problems (NASDAQ:NVDA)Seeking Alpha The war in the Middle East is disrupting helium supplies. That's bad news for more than party balloons.marketplace.org The Tech Download: How Russia could profit from Iran war helium supply chain dis…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181190156",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-31T06:12:12Z"
+    },
+    {
+      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+      "description": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as…",
+      "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+      "source": "Internet",
+      "publishedAt": "2026-03-31T06:08:00Z"
+    },
+    {
+      "title": "Samsung targets 1nm production by 2030, challenges TSMC with new chiplet technology",
+      "description": "Samsung Electronics is aiming to launch its 1nm semiconductor process by 2030 as part of a direct technological competition with rival TSMC. The move seeks to secure leadership in the next-generation semiconductor market.",
+      "url": "https://www.digitimes.com/news/a20260331PD224/samsung-1nm-technology-2030-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T06:01:00Z"
+    },
+    {
+      "title": "China Dismisses U.S. Report Alleging Top Chipmaker Aided Iranian Forces",
+      "description": "Introduction Chinese authorities have dismissed as false a Reuters report alleging that the country’s largest semiconductor manufacturer supplied chipmaking technology to Iran. The report, citing two senior Trump administration officials, prompted a firm deni…",
+      "url": "https://www.naturalnews.com/2026-03-31-china-dismisses-top-chipmaker-aided-iranian-forces.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-31T06:00:00Z"
+    },
+    {
+      "title": "Federal Court Blocks Pentagon Order Designating AI Firm Anthropic as National Security Risk",
+      "description": "Federal Judge Issues Preliminary Injunction Against Pentagon Order A U.S. federal judge has blocked an order from the Department of War that designated artificial intelligence company Anthropic as a national security supply chain risk. The ruling, issued Thur…",
+      "url": "https://www.naturalnews.com/2026-03-31-court-blocks-pentagon-designating-anthropic-natsec-risk.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-31T06:00:00Z"
+    },
+    {
+      "title": "Preparing for the “energy lockdown”: A practical guide to readiness",
+      "description": "The power grid is susceptible to cyberattacks, EMPs and other failures, with a prolonged nationwide blackout posing a potentially catastrophic risk to society. Proactively stockpile non-perishable food, water, essential medications and hygiene products to cre…",
+      "url": "https://www.naturalnews.com/2026-03-31-preparing-for-energy-lockdown-practical-guide-readiness.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-31T06:00:00Z"
+    },
+    {
+      "title": "MPI probe card lead times stretch to 6 months on AI chip testing surge",
+      "description": "Taiwan-based semiconductor testing interface provider MPI Corporation has reported that strong demand from the AI chip testing market has pushed probe card lead times to as long as six months, with visibility for some orders extending up to two years. Chairma…",
+      "url": "https://www.digitimes.com/news/a20260331PD212/testing-mpi-probe-card-demand-ai-chip.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T05:49:48Z"
+    },
+    {
+      "title": "Treedix USB Cable Tester, 2.4-inch Color Display Screen USB C Cable Te – Treedix Official",
+      "description": "Features:【USB Cable Performance Testing】Test USB cable continuity, functionality (charging, data transfer, high-speed signal), and measure internal resistance for power efficiency. Verify ground wire connection to outer shell for cable integrity, safety, and …",
+      "url": "https://treedix.com/products/treedix-usb-cable-tester-usb-c-cable-tester-usb-tester-for-data-transmission-and-power-transmission-cable-testing-resistor-testing-type-c-emarker-for-usb-a-micro-b-micro-b-3-0-type-c-lighting-mini-b",
+      "source": "Treedix.com",
+      "publishedAt": "2026-03-31T05:47:01Z"
+    },
+    {
+      "title": "Memory-makers’ shares are down. Some RAM prices have eased. Blaming Google is not a good idea",
+      "description": "Chocolate Factory boffins have found a way to reduce AI’s memory use, but don’t assume that means less demand for DRAM The high cost of memory has sideswiped the technology industry, causing server vendors to admit their quotes are guesstimates and depressing…",
+      "url": "https://www.theregister.com/2026/03/31/google_turboquant_memory_market_impact",
+      "source": "Theregister.com",
+      "publishedAt": "2026-03-31T05:46:40Z"
+    },
+    {
+      "title": "High-Flying Chip Stocks Bear Brunt of Iran War Risk-Off Trade",
+      "description": "As investors brace for a protracted conflict in the Middle East, they’re electing to sell the technology stocks that have been among the market’s biggest winners in recent months.",
+      "url": "https://financialpost.com/pmn/business-pmn/high-flying-chip-stocks-bear-brunt-of-iran-war-risk-off-trade",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-31T05:32:36Z"
+    },
+    {
+      "title": "Slimbook Refreshes Its Creative Laptop Series with RTX 5070 and Ryzen AI 9",
+      "description": "Spanish tech company Slimbook has refreshed its Creative laptop series, pairing an AMD Ryzen AI 9 365 with an NVIDIA RTX 5070 in a noticeably smaller chassis that weighs just 1.9 kg. The display is a 15.3-inch IPS panel at 2560 x 1600, 16:10 aspect ratio, 180…",
+      "url": "https://www.madshrimps.be/news/slimbook-refreshes-its-creative-laptop-series-with-rtx-5070-and-ryzen-ai-9",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-03-31T05:19:22Z"
+    },
+    {
+      "title": "Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces",
+      "description": "Forlinx Technology has recently introduced the FCU1501, a rugged, fanless industrial embedded computer and IoT gateway built around the Rockchip RK3506J processor with a tri-core Cortex-A7 and a single Cortex-M0 core. The system is designed for high-reliabili…",
+      "url": "https://www.cnx-software.com/2026/03/31/rockchip-rk3506j-based-forlinx-fcu1501-fanless-industrial-iot-gateway-offers-dual-ethernet-plenty-of-i-os-and-serial-interfaces",
+      "source": "CNX Software",
+      "publishedAt": "2026-03-31T05:09:08Z"
+    },
+    {
+      "title": "Geely overhauls European R&D to accelerate car launches",
+      "description": "Geely, the world's eighth-largest carmaker, is restructuring its European research and development operations to narrow the lag between domestic launches in China and international rollouts to less than six months. Supply chain executives say the move is not …",
+      "url": "https://www.digitimes.com/news/a20260330PD231/geely-development-automakers-europe-vehicle.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T04:42:42Z"
+    },
+    {
+      "title": "40-Pack 1-Ounce Tostitos Bite Size Rounds Tortilla Chips $12.57 w/ S&S + Free Shipping",
+      "description": "Amazon [amazon.com] has *40-Pack 1-Ounce Tostitos Bite Size Rounds Tortilla Chips* on sale for $13.23 - 5% off when you checkout via Subscribe & Save = *$12.57*. *Shipping is free.* \n \nNote: You must...",
+      "url": "https://slickdeals.net/f/19366986-40-pack-1-ounce-tostitos-bite-size-rounds-tortilla-chips-12-57-w-s-s-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-03-31T04:39:27Z"
+    },
+    {
+      "title": "Memory chip shortage drives surge in China's used phone chip market",
+      "description": "The used mobile phone recycling market in China has recently heated up, with even non-functional old phones being collected at significantly higher prices than before. This surge is driven by a severe global shortage of consumer-grade memory chips.",
+      "url": "https://www.digitimes.com/news/a20260331PD221/china-mobile-phone-recycling-chip-shortage.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T04:25:13Z"
+    },
+    {
+      "title": "US Paves Way For Private Assets To Be Included In 401(k) Retirement Plans",
+      "description": "The Trump administration on Monday issued a long-awaited proposed rule to open up retirement plans to alternative assets, paving the way for private equity and cryptocurrencies to be added to 401(k) accounts. The measure, announced by the U.S. Department of L…",
+      "url": "https://slashdot.org/submission/17346072/us-paves-way-for-private-assets-to-be-included-in-401k-retirement-plans",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-31T04:11:22Z"
+    },
+    {
+      "title": "Exclusive – RX Border Defense’s Patsy Writesman on CCP’s Stranglehold on Skinny: FDA’s ‘Green List’ Surrendered GLP-1 Supply Chain to China",
+      "description": "The U.S. Food and Drug Administration (FDA) has enabled China to corner the market on GLP-1 obesity drugs to the detriment of the safety of Americans, RX Border Defense's Patsy Writesman told Breitbart News Washington Bureau Chief Matthew Boyle on Thursday du…",
+      "url": "https://www.breitbart.com/politics/2026/03/30/exclusive-rx-border-defense-green-list-surrendered-glp-1-supply-chain-china",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-31T04:07:25Z"
+    },
+    {
+      "title": "She’s So Anthro-popular; Junked Food",
+      "description": "Anthropularity Anthropic threw jabs at OpenAI with its Super Bowl ads; consumers guffawed. Anthropic refused Pentagon demands over use of its tech in programming autonomous weapons or in widespread surveillance of Americans, resulting in its being declared a …",
+      "url": "http://www.adexchanger.com/daily-news-roundup/2026-31-03",
+      "source": "AdExchanger",
+      "publishedAt": "2026-03-31T04:03:54Z"
+    },
+    {
+      "title": "MediaTek and Airoha deepen telecom open-source platform to challenge Broadcom, Qualcomm in edge AI",
+      "description": "Airoha announced on March 30, 2026, that it has expanded the adoption of open-source systems in networking communications, becoming the world's first fiber broadband chip platform vendor to integrate three major open-source systems—OpenWrt, RDK-B, and prplOS—…",
+      "url": "https://www.digitimes.com/news/a20260331PD219/airoha-mediatek-broadcom-edge-ai-telecom.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T04:03:00Z"
+    },
+    {
+      "title": "Microsoft Office Standard 2024 for Mac Lifetime License+ 10 Excel Templates for $13 + digital download",
+      "description": "DigitalKeysBox offers Microsoft Office Standard 2024 for Mac Lifetime License + 10 Excel Templates for $13.99 (reduced from $49.99) when applying coupon code \"DLNMAC\" at checkout. Buy Now at Digitalkeysbox\r\n Features\r\n <ul> <li>Includes Word 2024, Excel 2024,…",
+      "url": "https://www.dealnews.com/Microsoft-Office-Standard-2024-for-Mac-Lifetime-License-10-Excel-Templates-for-13-digital-download/21819312.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-03-31T04:01:14Z"
+    },
+    {
+      "title": "POWERBEATS PRO 2 NIKE EDITION",
+      "description": "Nike and Beats link up for the first time with the Powerbeats Pro 2 Nike Edition, and the result feels exactly like it should. Performance driven, bold, and impossible to ignore. The signature Volt colorway paired with matte black gives these a visual punch, …",
+      "url": "https://www.blessthisstuff.com/stuff/technology/headphones/powerbeats-pro-2-nike-edition",
+      "source": "Blessthisstuff.com",
+      "publishedAt": "2026-03-31T04:00:00Z"
+    },
+    {
+      "title": "Looking for top-performing fund of FY26? Nippon India Taiwan Equity Fund wins crown with 171%+ return",
+      "description": "Nippon India Taiwan Equity Fund emerged as the top-performing mutual fund of FY26, delivering over 171% returns, driven by a strong semiconductor and AI-led rally. Experts caution against chasing past performance, advising investors to treat it as a high-risk…",
+      "url": "https://m.economictimes.com/mf/analysis/looking-for-top-performing-fund-of-fy26-nippon-india-taiwan-equity-fund-wins-crown-with-171-return/articleshow/129915274.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-03-31T03:32:15Z"
+    },
+    {
+      "title": "Chinese GPU maker Moore Threads wins US$91 million AI cluster order",
+      "description": "Chinese GPU developer Moore Threads has secured a CNY660 million (approx. US$95.5 million) contract to supply its KUAE intelligent computing cluster, marking a shift from standalone GPUs to large-scale AI training infrastructure.",
+      "url": "https://www.digitimes.com/news/a20260331VL207/moore-threads-gpu-training-revenue-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T03:20:41Z"
+    },
+    {
+      "title": "Memory shortage persists as AI-era supply-demand imbalance deepens",
+      "description": "Global memory chip shortages have shifted industry focus from price competition to securing supply, driven by explosive demand for AI servers. Advanced production capacity is being prioritized for AI memory products, squeezing mature process output and pushin…",
+      "url": "https://www.digitimes.com/news/a20260331PD216/2026-demand-data-price-competition-ddr5.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T03:09:08Z"
+    },
+    {
+      "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from...",
+      "description": "A supply chain attack on Axios introduced a malicious dependency, plain-crypto-js@4.2.1, published minutes earlier and absent from the project’s GitHub releases. A supply chain attack targeting the widely used HTTP client Axios has introduced a malicious depe…",
+      "url": "https://socket.dev/blog/axios-npm-package-compromised",
+      "source": "Socket.dev",
+      "publishedAt": "2026-03-31T03:07:02Z"
+    },
+    {
+      "title": "Taiwan's auto industry goes digital as chips eclipse carmaking",
+      "description": "Taiwan's automotive industry is undergoing a profound transformation, shifting away from traditional mechanical assembly toward what analysts describe as a semiconductor- and ICT-driven \"digital core\" of smart mobility. The scale of that structural change is …",
+      "url": "https://www.digitimes.com/news/a20260331PD208/taiwan-automotive-industry-vehicle-manufacturing-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T02:54:42Z"
+    },
+    {
+      "title": "India approves new electronics component projects to deepen domestic supply chain",
+      "description": "India has approved 29 additional proposals under its Electronics Component Manufacturing Scheme (ECMS), as the government steps up efforts to localize the production of critical parts and reduce reliance on imports. The latest approvals represent a planned in…",
+      "url": "https://www.digitimes.com/news/a20260331VL201/india-government-electronics-manufacturing-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T02:51:56Z"
+    },
+    {
+      "title": "South Korea invests US$166 million in chip startup Rebellions",
+      "description": "South Korea has approved a KRW250 billion (approx. US$166 million) investment in local artificial intelligence (AI) chip startup Rebellions, as part of a government push to build a globally competitive AI chipmaker.",
+      "url": "https://www.digitimes.com/news/a20260330VL213/ai-chip-startup-investment-south-korea.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T02:44:18Z"
+    },
+    {
+      "title": "AI computing shifts from training to inference; heterogeneous architectures go mainstream",
+      "description": "As generative AI continues to advance, its capabilities and application scenarios are rapidly expanding, driving structural changes in computing infrastructure. At AI EXPO Taiwan 2026, HyperAccel Chief Strategy Officer Yongwoong Jung discussed the evolution o…",
+      "url": "https://www.digitimes.com/news/a20260330PD221/training-infrastructure-development-cost-data.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T02:43:48Z"
+    },
+    {
+      "title": "Butterfly Network gets FDA clearance for AI ultrasound pregnancy tool",
+      "description": "Unlike traditional ultrasound machines that rely on ‌expensive piezoelectric ⁠crystals, Butterfly's ⁠device uses a single silicon chip for whole-body imaging. The ​AI tool delivers an estimate in under two minutes without requiring ​users to capture or interp…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/butterfly-network-gets-fda-clearance-for-ai-ultrasound-pregnancy-tool/articleshow/129914735.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-31T02:43:07Z"
+    },
+    {
+      "title": "DDI price hikes mainly aim to pass on costs, not boost profits",
+      "description": "The recent surge in display driver IC (DDI) price hikes has spread from China to Taiwan, with reports indicating that Taiwanese DDI design firms will begin raising prices starting in the second quarter of 2026 to reflect escalating supply chain costs. Besides…",
+      "url": "https://www.digitimes.com/news/a20260331PD213/ddi-driver-ic-price-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-03-31T02:25:31Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Apple 2025 MacBook Pro Laptop with M5 chip",
+      "'The Thinking Machine,' AI and Higher Ed Professional Staff Work",
+      "Global Foundry 2.0 market climbs to record US$320 billion in 2025 revenue"
+    ],
+    "insights": [
+      "AI and Higher Ed Professional Staff Work",
+      "Foundry 2.0 era",
+      "Global Foundry 2.0 market climbs"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Semiconductors",
+      "summary": "This article discusses various aspects related to semiconductors including Apple's upcoming MacBook Pro with M5 chip, 'The Thinking Machine' work in higher education, and the growth of the global foundry market.",
+      "article_urls": [
+        "https://slickdeals.net/f/19367463-1549-apple-2025-macbook-pro-laptop-with-m5-chip-16gb-memory-1tb-ssd-silver-at-amazon",
+        "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/03/31/thinking-machine-ai-higher-ed-professional-staff",
+        "https://www.digitimes.com/news/a20260331VL208/semiconductor-foundry-fab-revenue-growth-market-2025.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "TSM is a leading supplier of semiconductors and components. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AMD is a major player in the semiconductor industry, particularly in CPU design. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML is a Dutch multinational corporation specializing in advanced lithography systems used in semiconductor manufacturing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation is a leader in microprocessors and integrated circuits. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Inc., a subsidiary of Intel, designs and manufactures mobile processors. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
