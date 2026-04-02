@@ -1,0 +1,267 @@
+{
+  "theme": "ai",
+  "date": "2026-04-02",
+  "last_updated_utc": "2026-04-02T07:07:06.473Z",
+  "news": [
+    {
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "description": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or credentials were involved or exposed,\" an Anthro…",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "source": "Internet",
+      "publishedAt": "2026-04-01T06:12:00Z"
+    },
+    {
+      "title": "Nvidia moves beyond GPUs with three-system push to own the AI stack",
+      "description": "At GTC 2026, Nvidia introduced three new systems simultaneously: the Groq LPX inference rack, the Vera ETL256 CPU rack, and the STX storage reference architecture. These launches extend Nvidia's portfolio beyond its traditional GPU compute core into low-laten…",
+      "url": "https://www.digitimes.com/news/a20260331PD205/nvidia-gtc-2026-groq-cpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-01T01:12:51Z"
+    },
+    {
+      "title": "Gemini Gems replaced Grammarly and my entire AI workflow—here’s why I’m never switching back",
+      "description": "If you have spent any time working with traditional generative AI, you know how annoying context rebuilding is. It feels a bit like being stuck in a productivity time loop, where you have the same introductory conversation over and over again. Every time you …",
+      "url": "https://www.madshrimps.be/news/gemini-gems-replaced-grammarly-and-my-entire-ai-workflow-heres-why-im-never-switching-back",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-01T06:48:04Z"
+    },
+    {
+      "title": "OpenAI secures $122 billion to boost AI development and global reach",
+      "description": "OpenAI has successfully raised $122 billion in funding aimed at advancing frontier AI technologies and scaling their global impact. The investment will focus on next-generation computing capabilities to cater to the rising demand for products like ChatGPT and…",
+      "url": "https://nextbigwhat.com/openai-secures-122-billion-to-boost-ai-development-and-global-reach",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-01T06:36:32Z"
+    },
+    {
+      "title": "Anthropic’s Claude AI source code leaked, sparking security concerns",
+      "description": "Anthropic PBC has mistakenly published the source code for its widely-used Claude AI agent, causing alarm over potential security vulnerabilities. The leak has prompted developers to investigate the implications for the startup's future plans and operational …",
+      "url": "https://nextbigwhat.com/anthropics-claude-ai-source-code-leaked-sparking-security-concerns",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-01T06:36:14Z"
+    },
+    {
+      "title": "Inside the OpenAI project where freelancers train ChatGPT on everything from farming to commercial flying",
+      "description": "Handshake AI contractors from niche industries were directed to create tasks that reflect real work, like animal husbandry.",
+      "url": "https://www.businessinsider.com/chatgpt-openai-training-niche-occupations-specialized-llm-handshake-data-labeling-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-01T04:00:01Z"
+    },
+    {
+      "title": "Anthropic accidentally releases source code for Claude AI agent",
+      "description": "Anthropic said a Claude Code release accidentally included internal source code due to human error, not a breach. No customer data was exposed. The slip-up, following another recent issue, sparked developer interest and security concerns, as people examined d…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accidentally-releases-source-code-for-claude-ai-agent/articleshow/129940277.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-01T03:09:00Z"
+    },
+    {
+      "title": "Anthropic signs deal with federal government",
+      "description": "On AI safety and economic data tracking.",
+      "url": "https://www.itnews.com.au/news/anthropic-signs-deal-with-federal-government-624725",
+      "source": "iTnews",
+      "publishedAt": "2026-04-01T02:36:45Z"
+    },
+    {
+      "title": "Anthropic Accidentally Exposes Source Code for Claude Code",
+      "description": "The AI company blames the leak on human error, but says no customer data was released.",
+      "url": "https://www.cnet.com/tech/anthropic-accidentally-exposes-source-code-for-claude-code",
+      "source": "CNET",
+      "publishedAt": "2026-04-01T02:10:06Z"
+    },
+    {
+      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking",
+      "description": "Australia currently has no specific AI legislation. The ‌centre-left Labour government has said it would rely on existing laws to manage emerging ​AI ​risks while introducing ⁠voluntary guidelines amid privacy and safety concerns. The deal mirrors similar agr…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-to-sign-deal-with-australia-on-ai-safety-and-economic-data-tracking/articleshow/129939176.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-01T01:43:46Z"
+    },
+    {
+      "title": "Anthropic seals new multi-billion dollar deal with Albanese government to track, advance use of AI",
+      "description": "AI giant Anthropic has sealed a multi-billion dollar deal with the Albanese government to track and advance the use of artificial intelligence in Australia.",
+      "url": "https://thenightly.com.au/business/anthropic-seals-new-multi-billion-dollar-deal-with-albanese-government-to-track-advance-use-of-ai--c-22078764",
+      "source": "Thenightly.com.au",
+      "publishedAt": "2026-04-01T01:34:41Z"
+    },
+    {
+      "title": "OpenAI: The Fix Is In",
+      "description": "An update to More Magic Math from OpenAI The final mad dash to IPO is on for the big AI companies. SpaceX, OpenAI, and Anthropic have all made their intentions clear. And nothing could be more obvious about OpenAI’s intent than today’s new funding announcemen…",
+      "url": "https://om.co/2026/03/31/openai-the-fix-is-in",
+      "source": "Om.co",
+      "publishedAt": "2026-04-01T01:18:06Z"
+    },
+    {
+      "title": "Anthropic confirms it leaked the source for Claude Code, blames human error",
+      "description": "Anthropic, the creators of Claude, have confirmed the company's most popular product had some of its internal source code leak due to human error.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110804/anthropic-confirms-it-leaked-the-source-for-claude-code-blames-human-error/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-01T07:01:02Z"
+    },
+    {
+      "title": "Claude Code source leak reveals how much info Anthropic can hoover up about you and your system",
+      "description": "If you loved the data retention of Microsoft Recall, you'll be thrilled with Claude Code\nAnthropic's Claude Code lacks the persistent kernel access of a rootkit. But an analysis of its code shows that the agent can exercise far more control over people's comp…",
+      "url": "https://www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-01T07:00:12Z"
+    },
+    {
+      "title": "Anthropic boss on copyright, job losses and inevitable tax in AI future",
+      "description": "The AI company's billionaire boss says he is not trying to convince Australia to change its mind on protecting the copyright of artists.",
+      "url": "https://www.abc.net.au/news/2026-04-01/anthropic-ceo-dario-amodei-on-copyright-job-losses-tax-ai-future/106522768",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-01T06:40:08Z"
+    },
+    {
+      "title": "ChatGPT parent OpenAI raises $122 billion in record funding round, valuation hits $852 billion",
+      "description": "OpenAI expects enterprise sales to increase to 50% of its revenue this year, supported by Amazon's $50 billion investment. The company generates $2 billion monthly, recently added advertising to ChatGPT, yielding $100 million in 6 weeks, and plans significant…",
+      "url": "https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-01T05:26:43Z"
+    },
+    {
+      "title": "Justice Alito: \"Just out of curiosity, do you think we should ask Claude to decide this case?\"",
+      "description": "I suspect many lawyers use AI, but now they will be even more hesitant to admit it.",
+      "url": "https://reason.com/volokh/2026/04/01/justice-alito-just-out-of-curiosity-do-you-think-we-should-ask-claude-to-decide-this-case",
+      "source": "Reason",
+      "publishedAt": "2026-04-01T05:25:08Z"
+    },
+    {
+      "title": "What is Function Calling in OpenAI API and How to Use It?",
+      "description": "Unlock the power of OpenAI's function calling! Learn how to integrate AI with external systems, automate tasks, and build smarter applications. Step-by-step guide included.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-function-calling-in-openai-api-and-how-to-use-it",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-01T05:13:08Z"
+    },
+    {
+      "title": "Anthropic accidentally exposed part of Claude Code's internal source code",
+      "description": "Anthropic leaked part of the internal source code for Claude Code, its popular coding assistant. The company said it was due to human error.",
+      "url": "https://www.businessinsider.com/anthropic-leak-reveals-claude-code-internal-source-code-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-01T03:22:06Z"
+    },
+    {
+      "title": "JVNDB-2026-009564:NVIDIAのtriton inference serverにおける競合状態に関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-009564_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-01T02:35:07Z"
+    },
+    {
+      "title": "JVNDB-2026-009563:NVIDIAのtriton inference serverにおける競合状態に関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-009563_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-01T02:35:04Z"
+    },
+    {
+      "title": "JVNDB-2026-009544:NVIDIAのtriton inference serverにおける過剰なサイズ値のメモリ割り当てに関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-009544_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-01T02:34:11Z"
+    },
+    {
+      "title": "OpenAI raises $122 billion in boosted funding round",
+      "description": "The funding round included a diverse set of partners, including Amazon, Microsoft, Nvidia, and Softbank, according to OpenAI. In an unusual move, some $3 billion was reportedly raised from individual investors. The company in February, began rolling out adver…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/openai-raises-122-billion-in-boosted-funding-round/articleshow/129939140.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-01T01:39:07Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic leaks internal code for Claude Code",
+      "NVIDIA introduces new AI systems",
+      "OpenAI raises funds for AI development",
+      "Claude Code source leak revealed",
+      "JPCERT vulnerability related to NVIDIA Triton inference server"
+    ],
+    "insights": [
+      "AI technology disclosure",
+      "Innovation in AI infrastructure",
+      "Funding for AI research"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI Technology Disclosure",
+      "summary": "The articles discuss various aspects of AI technology, including leaks, introductions of new systems, and funding for AI development.",
+      "article_urls": [
+        "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+        "https://www.digitimes.com/news/a20260331PD205/nvidia-gtc-2026-groq-cpu.html",
+        "https://www.madshrimps.be/news/gemini-gems-replaced-grammarly-and-my-entire-ai-workflow-heres-why-im-never-switching-back"
+      ]
+    },
+    {
+      "title": "Innovation in AI Infrastructure",
+      "summary": "The articles highlight advancements in AI infrastructure, such as NVIDIA's introduction of new systems and Triton inference server vulnerabilities.",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260331PD205/nvidia-gtc-2026-groq-cpu.html",
+        "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-009564_AD_1.html"
+      ]
+    },
+    {
+      "title": "Funding for AI Research",
+      "summary": "Several articles mention fundraising efforts for AI-related projects, including OpenAI's funding round and NVIDIA's investments.",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html",
+        "https://www.cnet.com/tech/anthropic-accidentally-exposes-source-code-for-claude-code"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "A leading semiconductor manufacturer known for its graphics processing units (GPUs). This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "A multinational technology corporation primarily focused on software and services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "A large-cap technology company engaged in internet search, cloud computing, and other digital services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "An e-commerce platform and cloud-based services provider. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "A social media platform and online advertising company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
