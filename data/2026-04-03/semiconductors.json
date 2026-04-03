@@ -1,0 +1,383 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-03",
+  "last_updated_utc": "2026-04-03T07:03:03.833Z",
+  "news": [
+    {
+      "title": "South Korea exports hit record US$86bn, chip demand drives breakout above US$80bn",
+      "description": "South Korea's exports climbed to a record US$86.1 billion in March 2026, marking the first time monthly shipments have exceeded the US$80 billion threshold, even as the Middle East conflict disrupted logistics and energy flows. According to the Ministry of Tr…",
+      "url": "https://www.digitimes.com/news/a20260402VL205/exports-demand-shipments-2026-logistics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T07:02:19Z"
+    },
+    {
+      "title": "$79.99 | ASUS Prime B550M-A AC AMD AM4 (3rd Gen Ryzenâ¢) Micro ATX Motherboard at Amazon (1 replies)",
+      "description": "Amazon [amazon.com] has ASUS Prime B550M-A AC AMD AM4 (3rd Gen Ryzen™) Micro ATX Motherboard for $79.99.\nShipping is free.\n\nPrice\n$30 lower (27% savings) than the list price of $109.99\n\nCustomer rev",
+      "url": "https://slickdeals.net/f/19375527-79-99-asus-prime-b550m-a-ac-amd-am4-3rd-gen-ryzen-micro-atx-motherboard-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-02T07:01:34Z"
+    },
+    {
+      "title": "Samsung adopts new strategy to tackle rising smartphone prices",
+      "description": "Due to the ongoing AI boom, memory chip prices have surged by multiple folds over the past year, significantly affecting the smartphone market. Prices of both existing and new smartphone models have increased, putting pressure on manufacturers as well as cons…",
+      "url": "https://www.sammobile.com/news/samsung-new-strategy-fight-smartphone-price-inflation",
+      "source": "SamMobile",
+      "publishedAt": "2026-04-02T07:01:20Z"
+    },
+    {
+      "title": "Google Pixel 11 Pro Fold Leaks: Google’s Thinnest Foldable Gets a Major Chip Upgrade",
+      "description": "The Google Pixel 11 Pro Fold is poised to make a significant impact in the foldable smartphone market. As Google’s flagship foldable device, it is designed to compete directly with industry leaders like Samsung’s Galaxy Z Fold series. With a focus on innovati…",
+      "url": "https://www.geeky-gadgets.com/pixel-fold-30000-nits",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-02T07:00:40Z"
+    },
+    {
+      "title": "Intel expands SambaNova stake, governance questions surface",
+      "description": "Intel plans to invest a further US$15 million in AI chip startup SambaNova Systems, lifting its stake to about 9% pending regulatory approval, according to Reuters. The move follows a US$35 million investment in February that raised Intel's ownership to 8.2% …",
+      "url": "https://www.digitimes.com/news/a20260402PD231/intel-ai-chip-startup-investment-governance.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T06:59:06Z"
+    },
+    {
+      "title": "AMD Instinct MI355X GPUs Surpass 1M Tokens/Sec in MLPerf 6.0",
+      "description": "In its MLPerf Inference 6.0 submission, AMD did not simply revisit familiar benchmarks with a faster GPU. It expanded into first-time workloads, crossed the 1-million-tokens-per-second threshold at multinode scale and showed that partners can reproduce the re…",
+      "url": "https://www.madshrimps.be/news/amd-instinct-mi355x-gpus-surpass-1m-tokens-sec-in-mlperf-6-0",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-02T06:54:19Z"
+    },
+    {
+      "title": "Intel Core Ultra 400HX \"Nova Lake\" Mobile Processor Core Configurations Surface",
+      "description": "Intel's next-generation mobile processor for gaming notebooks and portable workstations, the Core Ultra Series 4 \"Nova Lake-HX,\" will come in two distinct core configurations, according to a leak by Jaykihn, a reliable source for Intel leaks. \"Nova Lake-HX\" i…",
+      "url": "https://www.techpowerup.com/347947/intel-core-ultra-400hx-nova-lake-mobile-processor-core-configurations-surface",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-02T06:36:46Z"
+    },
+    {
+      "title": "Asahi Kasei enters AI chip fiberglass market to challenge Nittobo's dominance",
+      "description": "Japan's Asahi Kasei has announced its official entry into the AI chip supply chain with fiberglass cloth as an insulating substrate material, targeting the current global leader Nittobo, which holds a 90% market share. Meanwhile, Nippon Electric Glass (NEG) a…",
+      "url": "https://www.digitimes.com/news/a20260402PD227/asahi-kasei-ai-chip-fiberglass-cloth-materials-expansion-nittobo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T06:00:49Z"
+    },
+    {
+      "title": "Impact Analytics Announces Strategic Partnership with AllSaints",
+      "description": "Iconic London Fashion Brand to Modernize Buying and Merchandising with End-to-End AI-Native Supply Chain, Planning, Pricing and Business Intelligence Platform Iconic London Fashion Brand to Modernize Buying and Merchandising with End-to-End AI-Native Supply C…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/02/3267127/0/en/Impact-Analytics-Announces-Strategic-Partnership-with-AllSaints.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-02T06:00:00Z"
+    },
+    {
+      "title": "Samsung ramps Texas fab as engineers gather for 2nm push",
+      "description": "Samsung Electronics has reportedly moved into the equipment installation and testing phase at its foundry in Taylor, Texas, transitioning from construction to operational setup for 2nm production. More than 3,000 engineers from Samsung and global equipment su…",
+      "url": "https://www.digitimes.com/news/a20260402VL212/samsung-2nm-equipment-texas-fab-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T05:52:26Z"
+    },
+    {
+      "title": "Singapore charges one more individual with AI chip fraud",
+      "description": "Jenny Lim was charged with conspiring with Alan Wei Zhaolun and Aaron Woon Guo Jie in 2024 ‌to commit ⁠fraud ⁠by misleading Dell that Aperia International would be the end-user of the servers bought ​from Dell, police said in the charge sheets.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/singapore-charges-one-more-individual-with-ai-chip-fraud/articleshow/129968425.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:45:56Z"
+    },
+    {
+      "title": "What Is a Software Supply Chain Attack and How to Protect Your npm Packages?",
+      "description": "Learn about software supply chain attacks targeting npm packages and how to defend against them. Protect your JavaScript projects with these key security practices.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-a-software-supply-chain-attack-and-how-to-protect-your-npm-packages",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-02T05:27:14Z"
+    },
+    {
+      "title": "India’s condom industry crippled by Iran war – media",
+      "description": "The Iran war and Strait of Hormuz crisis have reportedly triggered a condom shortage in India, with rising prices and supply chain disruptions affecting production and pharmacies",
+      "url": "https://www.rt.com/news/637003-india-condom-industry-iran-oil",
+      "source": "RT",
+      "publishedAt": "2026-04-02T05:06:47Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3: 15.3\" FHD+ IPS Touch, Ryzen 7 170, 16GB DDR5, 512GB SSD $599.99",
+      "description": "*SPECS:*[list][*]15.3\" WUXGA (1920x1200), 16:10, 60Hz, 300-nits, 45% NTSC, Anti-glare, On-cell, 10-point Multi-touch, IPS Display[*]AMD Ryzen 7 170 (8C / 16T, 3.2 / 4.75GHz, 4MB L2 / 16MB L3)[*]16GB...",
+      "url": "https://slickdeals.net/f/19375212-lenovo-ideapad-slim-3-15-3-fhd-ips-touch-ryzen-7-170-16gb-ddr5-512gb-ssd-599-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-02T05:00:49Z"
+    },
+    {
+      "title": "College Roommate Refused To Chip In For The Beer Fund, So His Friends Bought Him Budget Brews And A Drinking Game Taught Him The Ultimate Lesson",
+      "description": "You can't expect premium on a cheapskate budget.",
+      "url": "http://twistedsifter.com/2026/04/college-roommate-refused-to-chip-in-for-the-beer-fund-so-his-friends-bought-him-budget-brews-and-a-drinking-game-taught-him-the-ultimate-lesson",
+      "source": "Twistedsifter.com",
+      "publishedAt": "2026-04-02T04:55:58Z"
+    },
+    {
+      "title": "Ajinomoto faces stakeholder pressure to raise ABF prices",
+      "description": "UK-based fund Palliser Capital announced on March 31 that it has become one of the top 25 shareholders of Ajinomoto and has requested a price increase of more than 30% for its semiconductor interlayer insulating material. This material is marketed under the n…",
+      "url": "https://www.digitimes.com/news/a20260401VL208/bloomberg-price-packaging-business-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T04:18:19Z"
+    },
+    {
+      "title": "Entry-level Intel Core 3 304 Wildcat Lake processor details and benchmarks surface",
+      "description": "Intel discreetly introduced the Wildcat Lake Core Series 3 CPUs at CES 2026 with some high-level specifications, but no part numbers or exact CPU, GPU, and NPU frequencies. Some leaks reveal more details about the Wildcat Lake parts, notably the Intel Core 3 …",
+      "url": "https://www.cnx-software.com/2026/04/02/entry-level-intel-core-3-304-wildcat-lake-processor-details-and-benchmarks-surface",
+      "source": "CNX Software",
+      "publishedAt": "2026-04-02T04:07:08Z"
+    },
+    {
+      "title": "Nvidia invests US$2 billion in Marvell to integrate NVLink Fusion with ASICs",
+      "description": "On March 31, Nvidia announced a US$2 billion investment in Marvell and plans to further integrate its NVLink Fusion technology with Marvell's XPU services for customer use. Although Nvidia revealed partnerships with several ASIC service providers around NVLin…",
+      "url": "https://www.digitimes.com/news/a20260402PD222/nvidia-marvell-investment-asic-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T04:02:14Z"
+    },
+    {
+      "title": "Toronto's abandoned planetarium is now being demolished",
+      "description": "The former McLaughlin Planetarium is finally about to bite the dust, its ongoing demolition ending a decades-long architectural and educational legacy that will live on in photographs and the fading school field trip memories of Gen-Xers and Millennials.The i…",
+      "url": "https://www.blogto.com/real-estate-toronto/2026/04/toronto-planetarium-demolition",
+      "source": "blogTO",
+      "publishedAt": "2026-04-02T04:00:00Z"
+    },
+    {
+      "title": "TSMC's US expansion held ransom as JASM takes flight",
+      "description": "TSMC is winning quietly in Japan and losing loudly in Washington — and the reason may have nothing to do with chips.",
+      "url": "https://www.digitimes.com/news/a20260401PD236/tsmc-investment-jasm-chairman-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:53:38Z"
+    },
+    {
+      "title": "Mobile chip inventory correction weighs on OSAT supply chain",
+      "description": "As the industry enters the stocking phase ahead of new smartphone launches, mobile chip customers are undergoing an inventory adjustment period. The supply chain indicates that this demand correction has cascaded from IC design down to foundry, packaging, and…",
+      "url": "https://www.digitimes.com/news/a20260402PD221/inventory-osat-supply-chain-smartphone-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:49:27Z"
+    },
+    {
+      "title": "Samsung raises prices on select 2025 flagship smartphones as chipflation and currency bite",
+      "description": "Samsung Electronics is planning to increase the prices of certain smartphone models released in 2025, marking a rare move amid rising global chip prices and fluctuating exchange rates, which are driving up key component costs.",
+      "url": "https://www.digitimes.com/news/a20260401PD237/samsung-2025-galaxy-price-component.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:48:23Z"
+    },
+    {
+      "title": "Attack from Iran on Amazon (AWS) data center in Dubai - Data destroyed, Digital services halted",
+      "description": "In direct response to the joint airstrikes launched by the United States and Israel against Iran, on April 1, Iran used Shahed-136 drones to attack two Amazon Web Services (AWS) data centers located in the United Arab Emirates. Additionally, another AWS cente…",
+      "url": "https://english.gossiplankanews.com/2026/04/attack-from-iran-on-amazon-aws-data.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-04-02T03:35:20Z"
+    },
+    {
+      "title": "Samsung upgrades Austin fab, signals dual-track US chip strategy",
+      "description": "Samsung Electronics is accelerating the introduction of next-generation manufacturing equipment at its semiconductor facility in Austin, Texas, as part of a broad upgrade program aimed at positioning the site for long-term operations. The move is seen as a ke…",
+      "url": "https://www.digitimes.com/news/a20260401PD216/samsung-austin-fab-equipment-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:23:04Z"
+    },
+    {
+      "title": "South Korea's market volatility hands Taiwan a rare edge in AI",
+      "description": "During a lecture hosted by the Chinese National Association of Industry and Commerce (CNAIC), DIGITIMES Chairman Colley Hwang analyzed the East Asian industrial landscape. While headlines often focus on the chip wars between the US and China, Hwang shed light…",
+      "url": "https://www.digitimes.com/news/a20260401VL211/taiwan-market-digitimes-industrial-data.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:17:14Z"
+    },
+    {
+      "title": "Chinese companies capture nearly 41% of domestic AI accelerator server market",
+      "description": "China's AI accelerator server market is gradually shifting away from using Nvidia chips to domestic GPU and AI chip makers, with Chinese companies capturing almost 41% of the market last year, according to an IDC report.",
+      "url": "https://www.digitimes.com/news/a20260402VL207/china-ai-server-accelerator-chips-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:15:57Z"
+    },
+    {
+      "title": "NVIDIA Ranks No. 6 on Fortune 100 Best Companies 2026 List as AI Giant Builds Elite Workplace Culture",
+      "description": "NVIDIA Corp. landed at No. 6 on Fortune's 2026 list of the 100 Best Companies to Work For, the chipmaker announced Wednesday, highlighting its ability to maintain a high-trust culture even as it powers the global AI revolution and navigates explosive growth.",
+      "url": "https://www.ibtimes.com.au/nvidia-ranks-no-6-fortune-100-best-companies-2026-list-ai-giant-builds-elite-workplace-culture-1865190",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-02T03:15:42Z"
+    },
+    {
+      "title": "ゲームのロード時間を短縮するための「自動シェーダーコンパイル」機能がNVIDIAアプリのベータ版に登場",
+      "description": "NVIDIA製のGPUに関する設定を行うツール「NVIDIAアプリ」のベータ版が更新され、PCがアイドル状態の時に新しいシェーダーを自動でコンパイルしておく設定が可能になりました。NVIDIA App Update Adds DLSS 4.5 Dynamic Multi Frame Generation, Intelligently Balancing Frame Rates, Image Quality & Responsivenesshttps://www.nvidia.com/en-us/geforce/n…",
+      "url": "https://news.livedoor.com/article/detail/30892007",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-02T03:15:00Z"
+    },
+    {
+      "title": "TerraMaster F2-425 2-Bay NAS (Intel N95, 4GB) – $254.99 (Reg. $299, 15% Off)",
+      "description": "TerraMaster F2-425 2-Bay NASIntel N95 Quad-Core CPU\n4GB RAM\nDual Bay (RAID support)\n2.5GbE LAN\nGreat for home media/backup\n$254.99 (Reg. $299, 15% Off)\n\nhttps://www.amazon.com/dp/B0FHVZ53RN",
+      "url": "https://slickdeals.net/f/19375011-terramaster-f2-425-2-bay-nas-intel-n95-4gb-254-99-reg-299-15-off",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-02T03:08:59Z"
+    },
+    {
+      "title": "Commentary: What's the real game behind Arm's chip venture?",
+      "description": "Amid AI-driven shifts, Arm launched its AGI CPU in March 2026 to address system-level optimization lacking in highly customized data center CPUs. Partnering with Meta and supported by OpenAI, Arm seeks to offer a standardized solution that enhances ecosystem …",
+      "url": "https://www.digitimes.com/news/a20260402PD212/arm-agi-cpu-meta-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T03:08:57Z"
+    },
+    {
+      "title": "Intel looks to put millions more into SambaNova startup chaired by CEO Tan",
+      "description": "The investment, subject to regulatory approval, would ​increase Intel's ownership of SambaNova to 9%, the review showed. The backing follows another $35 million that Intel put into SambaNova in ​February, which, along with other financing, had boosted Intel's…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/intel-looks-to-put-millions-more-into-sambanova-startup-chaired-by-ceo-tan/articleshow/129965911.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T02:52:21Z"
+    },
+    {
+      "title": "TSMC plans 12 fabs in Arizona as supply chain shifts from passive to active",
+      "description": "TSMC's expansion scale in the US has exceeded expectations, prompting Taiwanese suppliers with existing or planned local operations to take a more proactive approach. Reportedly, companies covering cleanroom, plant engineering, electromechanical integration, …",
+      "url": "https://www.digitimes.com/news/a20260402PD213/tsmc-arizona-fab-expansion-supply-chain-usa.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T02:33:07Z"
+    },
+    {
+      "title": "AMD announces Advancing AI 2026 event for July",
+      "description": "AMD Advancing AI 2026 is set to take place in July, after Computex 2026, where we should learn more about AMD's AI roadmap and next-gen plans.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110826/amd-announces-advancing-ai-2026-event-for-july/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-02T02:04:01Z"
+    },
+    {
+      "title": "America Produces The Most Oil. So Why Are Gas Prices Surging?",
+      "description": "If the United States is the world’s largest oil producer—in fact, if we are energy independent—then why are we still at the mercy of global events? And how can prices spike instantly when the gasoline in the tank was made from cheaper oil weeks ago? People li…",
+      "url": "https://freerepublic.com/focus/f-chat/4373264/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T01:59:57Z"
+    },
+    {
+      "title": "Notebook shortages persist despite rumors of easing memory prices",
+      "description": "Spot prices for memory have plunged by 35%, yet contract prices continue to rise. Notebook supply chain sources say there are no signs of supply easing, with shortages expected to persist through the end of 2026. Rising component costs are also being passed o…",
+      "url": "https://www.digitimes.com/news/a20260402PD204/notebooks-price-shipments-supply-chain-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T01:47:44Z"
+    },
+    {
+      "title": "IM 864: And Artemis Too - Journalism In The Age Of AI",
+      "description": "What happens when a thriving newsletter-turned-AI lab lets artificial intelligence shape writing, editing, and even entire products? Find out how Every is challenging the boundaries between tech and culture and why even seasoned journalists are wrestling with…",
+      "url": "https://twit.tv/shows/intelligent-machines/episodes/864",
+      "source": "Twit.tv",
+      "publishedAt": "2026-04-02T01:41:40Z"
+    },
+    {
+      "title": "Intel buyback signals shift beyond austerity as chipmaker regains confidence",
+      "description": "Intel's US$14.2 billion buyback of its Ireland fab stake signals a shift beyond austerity, reflecting improved finances, renewed confidence in AI-driven CPU demand, and a strategic move to regain full control of key manufacturing capacity amid persistent glob…",
+      "url": "https://www.digitimes.com/news/a20260402VL200/intel-ireland-fab-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T01:34:21Z"
+    },
+    {
+      "title": "PS6 Handheld Will Reportedly Beat the Xbox Series S In Both Raster and Ray Tracing; PSSR 3 Will Outperform NVIDIA DLSS 4.5 - Wccftech",
+      "description": "PS6 Handheld Will Reportedly Beat the Xbox Series S In Both Raster and Ray Tracing; PSSR 3 Will Outperform NVIDIA DLSS 4.5Wccftech Why the PS6 Handheld Will Matter More Than the PS6Gizmodo Sony PS6 Portable to beat Steam Deck 2 to market, leaker comments on p…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181204936",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-02T01:32:20Z"
+    },
+    {
+      "title": "Memory price surge impacts smartphone supply chain; Foxconn's structural shift key to resilience",
+      "description": "Rising demand for computing power from generative AI and the semiconductor industry's move toward high-performance computing are reshaping the smartphone supply chain, with global implications for device availability, pricing, and component sourcing as memory…",
+      "url": "https://www.digitimes.com/news/a20260402PD203/smartphone-supply-chain-memory-chips-price-foxconn.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T01:19:05Z"
+    },
+    {
+      "title": "Intel to repurchase Apollo’s stake in Ireland fab for $14.2B",
+      "description": "Two years after selling a stake in its Irish chip manufacturing facility, Intel Corp. today announced plans to buy back the shares for $14.2 billion. The company intends to finance the transaction with a combination of cash and stock. Intel operates a plant c…",
+      "url": "https://siliconangle.com/2026/04/01/intel-repurchase-apollos-stake-ireland-fab-14-2b",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-02T00:33:45Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "South Korea's exports reach record levels",
+      "Chip demand boosts global sales",
+      "Intel's AI investments expand",
+      "Samsung tackles smartphone pricing",
+      "AMD's GPU performance surpasses expectations"
+    ],
+    "insights": [
+      "AI advancements drive tech innovation",
+      "Global economic shifts affect industries"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Semiconductor Industry Trends",
+      "summary": "The semiconductor industry continues to see growth driven by technological advancements and increasing demand.",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260402VL205/exports-demand-shipments-2026-logistics.html",
+        "https://www.sammobile.com/news/samsung-new-strategy-fight-smartphone-price-inflation",
+        "https://www.geeky-gadgets.com/pixel-fold-30000-nits"
+      ]
+    },
+    {
+      "title": "Intel's AI Investments",
+      "summary": "Intel is expanding its AI investments, including a US$15 million investment in SambaNova Systems.",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260402PD231/intel-ai-chip-startup-investment-governance.html"
+      ]
+    },
+    {
+      "title": "AMD's Performance",
+      "summary": "AMD's Instinct MI355X GPUs exceed 1 million tokens per second in MLPerf 6.0 benchmark.",
+      "article_urls": [
+        "https://www.madshrimps.be/news/amd-instinct-mi355x-gpus-surpass-1m-tokens-sec-in-mlperf-6-0"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is a leading semiconductor manufacturer based in Taiwan. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Advanced Micro Devices Inc. (AMD) is a major player in the semiconductor industry, known for its AMD Ryzen processors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Applied Materials, Inc. (ASML) is a Dutch multinational company specializing in advanced manufacturing technologies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation (INTC) is a leading technology company focused on computing and data processing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Technologies, Inc. (QCOM) is a global leader in wireless communications. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

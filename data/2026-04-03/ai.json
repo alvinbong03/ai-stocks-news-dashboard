@@ -1,0 +1,225 @@
+{
+  "theme": "ai",
+  "date": "2026-04-03",
+  "last_updated_utc": "2026-04-03T07:02:34.098Z",
+  "news": [
+    {
+      "title": "Please stop giving ChatGPT your passwords, documents, and private photos",
+      "description": "AI chatbots such as ChatGPT, Claude, and Gemini allow you to upload files and photos or paste large chunks of text. You can then do things such as summarizing documents or turning your selfies into Studio Ghibli-style images. The danger is that you can end up…",
+      "url": "https://www.madshrimps.be/news/please-stop-giving-chatgpt-your-passwords-documents-and-private-photos",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-02T06:51:53Z"
+    },
+    {
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "description": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthro…",
+      "url": "https://freerepublic.com/focus/f-chat/4373278/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T04:24:00Z"
+    },
+    {
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "description": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthro…",
+      "url": "https://freerepublic.com/focus/f-news/4373278/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T04:24:00Z"
+    },
+    {
+      "title": "What Anthropic’s Massive 500,000-Line Source Code Leak Reveals About Claude",
+      "description": "Anthropic’s Claude Code source code has been leaked, revealing over 500,000 lines of code across more than 2,000 files. Among the key discoveries is the Kyros Project, an always-on AI designed to perform tasks like file sharing and pull request monitoring in …",
+      "url": "https://www.geeky-gadgets.com/claude-code-undercover-mode",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-02T06:49:00Z"
+    },
+    {
+      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism",
+      "description": "The initiative is ​the latest attempt to address safety concerns in the face of a growing number of lawsuits accusing AI ​companies of failing to stop, and even enabling, violence.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism/articleshow/129968371.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:30:36Z"
+    },
+    {
+      "title": "Opportunity in DeepSeek's turbulence: Z.ai sets sight on 'Chinese Anthropic' with API, token strategy",
+      "description": "In late March 2026, a series of developments converged to reshape sentiment in the large model sector. Anthropic faced a major source code leak of Claude Code due to an engineer error. At nearly the same time, Chinese large model firm Z.ai released its first …",
+      "url": "https://www.digitimes.com/news/a20260402PD219/z.ai-llm-api-anthropic-deepseek-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T02:52:54Z"
+    },
+    {
+      "title": "Claude vs ChatGPT for Marketing: Which AI Wins in 2026?",
+      "description": "Compare Claude and ChatGPT for marketing workflows. Writing, SEO, ads, analytics, pricing, and use-case verdicts to help your team pick the right AI.",
+      "url": "https://www.getpassionfruit.com/blog/claude-vs-chatgpt-for-marketing-which-ai-is-better-for-your-team",
+      "source": "Getpassionfruit.com",
+      "publishedAt": "2026-04-02T01:11:27Z"
+    },
+    {
+      "title": "Asahi Kasei enters AI chip fiberglass market to challenge Nittobo's dominance",
+      "description": "Japan's Asahi Kasei has announced its official entry into the AI chip supply chain with fiberglass cloth as an insulating substrate material, targeting the current global leader Nittobo, which holds a 90% market share. Meanwhile, Nippon Electric Glass (NEG) a…",
+      "url": "https://www.digitimes.com/news/a20260402PD227/asahi-kasei-ai-chip-fiberglass-cloth-materials-expansion-nittobo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-02T06:00:49Z"
+    },
+    {
+      "title": "ChatGPT users can now access Shutterstock images, videos and sound files directly",
+      "description": "This means Shutterstock now acts as a licensed content layer for ChatGPT, so that high-quality, licensable content gets directly embedded into AI-native workflows. Users can simply type in a prompt to retrieve specific images and directly discover content fro…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chatgpt-users-can-now-access-shutterstock-images-videos-and-sound-files-directly/articleshow/129967404.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:47:49Z"
+    },
+    {
+      "title": "Claude Code's source code appears to have leaked: here's what we know | VentureBeat",
+      "description": "The leak provides competitors—from established giants to nimble rivals like Cursor—a literal blueprint for how to build a high-agency, reliable, and commercially viable AI agent.",
+      "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
+      "source": "VentureBeat",
+      "publishedAt": "2026-04-02T05:47:01Z"
+    },
+    {
+      "title": "Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags",
+      "description": "A leaked source map exposed Claude Code's full architecture — revealing agent swarms, background daemons, and 44 feature flags Anthropic hadn't released yet.",
+      "url": "https://thenewstack.io/claude-code-source-leak",
+      "source": "Thenewstack.io",
+      "publishedAt": "2026-04-02T05:47:01Z"
+    },
+    {
+      "title": "Singapore charges one more individual with AI chip fraud",
+      "description": "Jenny Lim was charged with conspiring with Alan Wei Zhaolun and Aaron Woon Guo Jie in 2024 ‌to commit ⁠fraud ⁠by misleading Dell that Aperia International would be the end-user of the servers bought ​from Dell, police said in the charge sheets.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/singapore-charges-one-more-individual-with-ai-chip-fraud/articleshow/129968425.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:45:56Z"
+    },
+    {
+      "title": "Posidonia 2026 to focus on Artificial Intelligence in shipping",
+      "description": "All new Artificial Intelligence (AI) services and products for the shipping industry will be showcased at this year’s Posidonia exhibition, reflecting the sector’s gradual adoption of AI capabilities into daily…\nPosidonia 2026 to focus on Artificial Intellige…",
+      "url": "https://www.naftemporiki.gr/english/2093251/posidonia-2026-to-focus-on-artificial-intelligence-in-shipping",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-04-02T05:18:37Z"
+    },
+    {
+      "title": "How to Manage Long Context Windows in LLM Applications Without Losing Accuracy?",
+      "description": "Master LLM context windows for peak accuracy! Learn chunking, RAG, summarization, and more to build efficient AI chatbots and document analysis systems. Optimize now!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-manage-long-context-windows-in-llm-applications-without-losing-accuracy",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-02T05:17:11Z"
+    },
+    {
+      "title": "Cursor vs Windsurf vs Claude Code — Which AI Coding Tool Should You Use?",
+      "description": "Compare Cursor, Windsurf, and Claude Code to find the best AI coding tool for your needs. Boost productivity, automate workflows, or enhance understanding!",
+      "url": "https://www.c-sharpcorner.com/article/cursor-vs-windsurf-vs-claude-code-which-ai-coding-tool-should-you-use",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-02T05:08:11Z"
+    },
+    {
+      "title": "Group Pushing Age Verification Requirements for AI Sneakily Backed By OpenAI",
+      "description": "OpenAI hasn’t been shy about spending money lobbying for favorable laws and regulations. But when it comes to its involvement with child safety advocacy groups, the company has apparently decided it’s best to stay in the shadows—even if it means hiding from t…",
+      "url": "https://slashdot.org/submission/17346134/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-02T03:41:45Z"
+    },
+    {
+      "title": "NVIDIA Ranks No. 6 on Fortune 100 Best Companies 2026 List as AI Giant Builds Elite Workplace Culture",
+      "description": "NVIDIA Corp. landed at No. 6 on Fortune's 2026 list of the 100 Best Companies to Work For, the chipmaker announced Wednesday, highlighting its ability to maintain a high-trust culture even as it powers the global AI revolution and navigates explosive growth.",
+      "url": "https://www.ibtimes.com.au/nvidia-ranks-no-6-fortune-100-best-companies-2026-list-ai-giant-builds-elite-workplace-culture-1865190",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-02T03:15:42Z"
+    },
+    {
+      "title": "ゲームのロード時間を短縮するための「自動シェーダーコンパイル」機能がNVIDIAアプリのベータ版に登場",
+      "description": "NVIDIA製のGPUに関する設定を行うツール「NVIDIAアプリ」のベータ版が更新され、PCがアイドル状態の時に新しいシェーダーを自動でコンパイルしておく設定が可能になりました。NVIDIA App Update Adds DLSS 4.5 Dynamic Multi Frame Generation, Intelligently Balancing Frame Rates, Image Quality & Responsivenesshttps://www.nvidia.com/en-us/geforce/n…",
+      "url": "https://news.livedoor.com/article/detail/30892007",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-02T03:15:00Z"
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent - The Verge",
+      "description": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agentThe Verge Claude Code is scanning your messages for curse wordsPCWorld Leaked Claude Code Shows Anthropic Building Mysterious \"Tamagotchi\" Feature Into ItFuturism Claude's 18 Digital Pets…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181205454",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-02T03:12:15Z"
+    },
+    {
+      "title": "Anthropic took down thousands of Github repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch",
+      "description": "Anthropic took down thousands of Github repos trying to yank its leaked source code — a move the company says was an accidentTechCrunch Tech stocks today: Anthropic does damage control after Claude leak, Iran threatens Big Tech operationsYahoo Finance Anthrop…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181204610",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-02T00:32:36Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI chatbots like ChatGPT, Claude, and Gemini allow uploading files and photos.",
+      "These tools enable actions such as summarizing documents and creating image transformations.",
+      "There's a risk of exposing personal information through these functionalities."
+    ],
+    "insights": [
+      "Users should not provide their passwords, documents, or private photos to AI chatbots.",
+      "This practice could lead to unauthorized access and potential security breaches."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Security Risks",
+      "summary": "Using AI chatbots like ChatGPT, Claude, and Gemini allows users to upload files and photos, which poses risks of exposing personal information.",
+      "article_urls": [
+        "https://www.madshrimps.be/news/please-stop-giving-chatgpt-your-passwords-documents-and-private-photos"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA Corporation is a leading technology company known for its contributions to the field of artificial intelligence. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft Corporation is a multinational technology giant that develops software, hardware, and cloud computing solutions. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Alphabet Inc., formerly Google, is a multinational technology company that operates various businesses including search engine, advertising, and cloud computing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon.com, Inc. is a multinational retail corporation that offers e-commerce, cloud computing, and other digital services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms, Inc. is a multinational technology company that operates social media platforms. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
