@@ -1,0 +1,167 @@
+{
+  "theme": "ai",
+  "date": "2026-04-04",
+  "last_updated_utc": "2026-04-04T06:55:13.877Z",
+  "news": [
+    {
+      "title": "複数のPCからリソースをかき集めて巨大なAIモデルをローカル実行できる「mesh-llm」",
+      "description": "Mesh LLMは、複数のコンピューターの余剰GPU計算資源を持ち寄り、1台では動かしにくい大規模言語モデルを分散実行できるようにする仕組みです。OpenAI互換APIを備えており、既存のAIツールやエージェントからそのまま使いやすい点が特徴です。mesh-llm - Decentralised LLM Inferencehttps://docs.anarchai.org/michaelneale/mesh-llm: reference impl with llama.cpp compiled to distri…",
+      "url": "https://news.livedoor.com/article/detail/30899041",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-03T04:47:00Z"
+    },
+    {
+      "title": "PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI dominate AI deals",
+      "description": "U.S. venture capital activity surged to unprecedented levels in the first quarter of 2026, driven by a small number of outsized artificial intelligence deals that reshaped the overall market profile, according to a first look at the quarterly PitchBook-NVCA V…",
+      "url": "https://siliconangle.com/2026/04/03/pitchbook-us-venture-funding-surges-record-267b-openai-anthropic-xai-dominate-ai-deals",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-03T04:01:28Z"
+    },
+    {
+      "title": "Emotion concepts and their function in a large language model | Anthropic",
+      "description": "All modern language models sometimes act like they have emotions. They may say they’re happy to help you, or sorry when they make a mistake. Sometimes they even appear to become frustrated or anxious when struggling with tasks. What’s behind these behaviors? …",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "source": "Anthropic.com",
+      "publishedAt": "2026-04-03T05:47:02Z"
+    },
+    {
+      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism",
+      "description": "People who show violent extremist tendencies on ChatGPT will be directed to human and chatbot‑based deradicalisation support through a new tool in development ​in New Zealand, the people behind it said.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism/articleshow/129991939.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-03T00:50:40Z"
+    },
+    {
+      "title": "Using Claude AI APIs in ASP.NET Core Applications (2026 Guide)",
+      "description": "Integrate Claude AI with ASP.NET Core! This 2026 guide covers API integration, architecture, best practices, and code examples for building intelligent apps.",
+      "url": "https://www.c-sharpcorner.com/article/using-claude-ai-apis-in-asp-net-core-applications-2026-guide",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-03T06:31:14Z"
+    },
+    {
+      "title": "OpenAI brings ChatGPT’s Voice mode to CarPlay",
+      "description": "In a surprise release, OpenAI has made ChatGPT’s Voice mode available through Apple CarPlay. If you’re running the latest version of both iOS and the ChatGPT app, and own a CarPlay-compatible vehicle, you can check out the experience. To get started, download…",
+      "url": "https://www.madshrimps.be/news/openai-brings-chatgpts-voice-mode-to-carplay",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:21:52Z"
+    },
+    {
+      "title": "Google is pushing AI video into ordinary life — just as OpenAI pulls Sora back",
+      "description": "Google has launched its AI Plus subscription in 35 countries, including the U.S., bundling enhanced AI tools, cloud storage, and video generation features.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/google-is-pushing-ai-video-into-ordinary-life-just-as-openai-pulls-sora-back",
+      "source": "TechRadar",
+      "publishedAt": "2026-04-03T04:00:00Z"
+    },
+    {
+      "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex - WIRED",
+      "description": "Cursor Launches a New AI Agent Experience to Take On Claude Code and CodexWIRED Cursor’s New Tool Lets Users Delegate to a Team of Coding AgentsGizmodo What Is Cursor AI? AI Code Completion & Chat Debugging Development AssistantTech Times Cursor CEO warns vib…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181213000",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-03T02:12:19Z"
+    },
+    {
+      "title": "OpenAI partners with Smartly, an adtech company that helps clients optimize ads in real time, to design ad formats that match ChatGPT's conversational interface (Lucia Moses/Business Insider)",
+      "description": "Lucia Moses / Business Insider:\nOpenAI partners with Smartly, an adtech company that helps clients optimize ads in real time, to design ad formats that match ChatGPT's conversational interface  —  Follow Lucia Moses … - OpenAI has signed Smartly as its first …",
+      "url": "https://mediagazer.com/260402/p22",
+      "source": "Mediagazer.com",
+      "publishedAt": "2026-04-03T00:40:00Z"
+    },
+    {
+      "title": "Anthropic Brings Claude Computer Use to Windows",
+      "description": "One week after [it launched this feature on the Mac, Anthropic has brought computer use to Windows in Claude Cowork and and Claude Code.\nThe post Anthropic Brings Claude Computer Use to Windows appeared first on Thurrott.com.",
+      "url": "https://www.thurrott.com/a-i/anthropic/334498/anthropic-brings-claude-computer-use-to-windows",
+      "source": "Thurrott.com",
+      "publishedAt": "2026-04-03T00:33:02Z"
+    },
+    {
+      "title": "HP unveils its most powerful PC ever with up to four Nvidia Blackwell GPUs, and I love its bizarre user-inspired tool-free side panel",
+      "description": "HP Z8 Fury G6i delivers extreme GPU, CPU, and memory performance with massive storage, expandability, and hybrid compute options.",
+      "url": "https://www.techradar.com/pro/hp-unveils-its-most-powerful-pc-ever-with-up-to-four-nvidia-blackwell-gpus-and-i-love-its-bizarre-user-inspired-tool-free-side-panel",
+      "source": "TechRadar",
+      "publishedAt": "2026-04-03T00:10:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Mesh LLM allows distributed inference of large language models",
+      "PitchBook shows surge in AI-related VC funding",
+      "ChatGPT voice mode now available on CarPlay",
+      "Smartly partnership aims to optimize ads for ChatGPT-like interfaces",
+      "HP introduces powerful PC with multiple NVIDIA GPUs"
+    ],
+    "insights": [
+      "AI technology continues to advance",
+      "Venture capital investment in AI grows significantly",
+      "New applications emerge for existing AI platforms"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI Technology Advancements",
+      "summary": "The article discusses various advancements in AI technology, including decentralized inference of large language models using Mesh LLM, the availability of ChatGPT's voice mode on CarPlay, and partnerships aimed at optimizing ads for AI platforms.",
+      "article_urls": [
+        "https://www.anthropic.com/research/emotion-concepts-function",
+        "https://www.madshrimps.be/news/openai-brings-chatgpts-voice-mode-to-carplay",
+        "https://www.thurrott.com/a-i/anthropic/334498/anthropic-brings-claude-computer-use-to-windows"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA is a leading supplier of graphics processing units (GPUs) used in AI computing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a major player in AI technologies and software. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a global leader in AI research and development. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is involved in AI services and products. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms Inc. is a tech giant focusing on AI and digital media. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

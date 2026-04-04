@@ -1,0 +1,312 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-04",
+  "last_updated_utc": "2026-04-04T06:55:38.776Z",
+  "news": [
+    {
+      "title": "Trivy supply chain attack enabled European Commission cloud breach",
+      "description": "CERT-EU confirmed that ShinyHunters are behind the recent breach of the cloud infrastructure underpinning websites of the European Commission, and that they stole and subsequently leaked approximately 340 GB of data. “Analysis of the published dataset has so …",
+      "url": "https://www.helpnetsecurity.com/2026/04/03/european-commission-cloud-breach",
+      "source": "Help Net Security",
+      "publishedAt": "2026-04-03T06:34:00Z"
+    },
+    {
+      "title": "Aorus X870E Elite X3D Ice Motherboard Review @ Hardware Asylum",
+      "description": "Quote: In this review we will be looking at the Aorus X870E Elite X3D Ice motherboard. This board features an AMD X870E chipset supporting AM5 processors and comes with the X3D refresh features and the extremely swank ICE color combo. https://www.hardwareasyl…",
+      "url": "https://www.madshrimps.be/news/aorus-x870e-elite-x3d-ice-motherboard-review-hardware-asylum",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:25:59Z"
+    },
+    {
+      "title": "Intel Appoints Aparna Bawa as Executive Vice President and Chief Legal & People Officer",
+      "description": "Intel Corporation today announced the appointment of Aparna Bawa as EVP, chief legal & people officer. Bawa will report directly to CEO Lip-Bu Tan and will lead Intel's global legal, ethics, compliance, people, and culture organizations as the company acceler…",
+      "url": "https://www.madshrimps.be/news/intel-appoints-aparna-bawa-as-executive-vice-president-and-chief-legal-people-officer",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:22:03Z"
+    },
+    {
+      "title": "Steam Deck 2 Ditches Semi-Custom APU for Off-the-Shelf AMD Silicon, Eyes 2028 Launch",
+      "description": "Valve’s next-generation Steam Deck 2 handheld console is reportedly planned for release in 2028, with significant manufacturing changes expected for this sequel to the highly successful handheld gaming device. According to a well-known industry leaker, Kepler…",
+      "url": "https://www.madshrimps.be/news/steam-deck-2-ditches-semi-custom-apu-for-off-the-shelf-amd-silicon-eyes-2028-launch",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:20:44Z"
+    },
+    {
+      "title": "AMD Details Upcoming Zen 6 PQOS Extensions: Advanced Bandwidth and Privilege Controls",
+      "description": "Imagine you’re a web hosting vendor leasing out specific number of CPU cores of a large core-count processor. You’d want to specify QoS limits on the shared L3 cache performance for those cores, so they don’t hamper performance of other tenants. AMD this week…",
+      "url": "https://www.madshrimps.be/news/amd-details-upcoming-zen-6-pqos-extensions-advanced-bandwidth-and-privilege-controls",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:19:15Z"
+    },
+    {
+      "title": "AMD stopped being the underdog—now we need to stop treating it that way",
+      "description": "I'm getting tired of the narrative that paints AMD as this forever underdog. It used to be true, and in some ways, it still is true, but AMD isn't the weak non-entity some people keep treating it as, and it's important that we let go of that mindset completel…",
+      "url": "https://www.madshrimps.be/news/amd-stopped-being-the-underdog-now-we-need-to-stop-treating-it-that-way",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-03T06:17:58Z"
+    },
+    {
+      "title": "Tuna Prices Surge as Iran Crisis Ripples Through Japan’s Hotels",
+      "description": "Fresh tuna, glistening in vivid red, is served in unlimited portions, but resort hotels in Japan are beginning to feel the strain as escalating tensions involving Iran push up costs across the supply chain. (News On Japan)",
+      "url": "https://newsonjapan.com/article/148814.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-04-03T06:02:31Z"
+    },
+    {
+      "title": "New laser wireless tech hits record speeds with half the energy of Wi-Fi",
+      "description": "Scientists unveiled a chip smaller than a millimeter for optical wireless data. It uses a 25-laser array to transmit at 362.7 gigabits per second. The system consumes roughly half the energy of conventional Wi-Fi. It shapes light into a structured grid to pre…",
+      "url": "https://www.naturalnews.com/2026-04-03-new-laser-wireless-tech-hits-record-speeds.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-03T06:00:00Z"
+    },
+    {
+      "title": "elastic/supply-chain-monitor",
+      "description": "Contribute to elastic/supply-chain-monitor development by creating an account on GitHub.",
+      "url": "https://github.com/elastic/supply-chain-monitor",
+      "source": "Github.com",
+      "publishedAt": "2026-04-03T05:47:02Z"
+    },
+    {
+      "title": "Silverline Technologies to focus on solutions for cyber risk, supply chain management",
+      "description": "Silverline Technologies focuses on cyber risk solutions and supply chain management, leveraging AI for enhanced resilience and innovation.",
+      "url": "https://www.thehindubusinessline.com/info-tech/silverline-technologies-to-focus-on-solutions-for-cyber-risk-supply-chain-management/article70818773.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-03T05:44:52Z"
+    },
+    {
+      "title": "Microsoft releases open-source toolkit to govern autonomous AI agents",
+      "description": "AI agents can book travel, execute financial transactions, write and run code, and manage infrastructure without human intervention at each step. Frameworks like LangChain, AutoGen, CrewAI, and Azure AI Foundry Agent Service have made this kind of autonomy st…",
+      "url": "https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit",
+      "source": "Help Net Security",
+      "publishedAt": "2026-04-03T05:30:38Z"
+    },
+    {
+      "title": "Galaxy Z Fold 8 Release Date 2026: Samsung Set for July Unpacked with New Wide Variant and Major Upgrades",
+      "description": "Samsung's next-generation book-style foldable, the Galaxy Z Fold 8, is expected to launch in July 2026 during the company's traditional summer Galaxy Unpacked event, with pre-orders likely opening the same day and general availability following about two week…",
+      "url": "https://www.ibtimes.com.au/galaxy-z-fold-8-release-date-2026-samsung-set-july-unpacked-new-wide-variant-major-upgrades-1865281",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-03T05:22:19Z"
+    },
+    {
+      "title": "iPhone 18 Pro Rumors 2026: Variable Aperture Camera, 2nm A20 Chip and Slimmer Dynamic Island Detailed",
+      "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are shaping up as meaningful upgrades rather than revolutionary redesigns, with supply chain leaks and analyst reports pointing to a variable aperture camera system, a powerful 2nm A20 Pro chip, significantly larger…",
+      "url": "https://www.ibtimes.com.au/iphone-18-pro-rumors-2026-variable-aperture-camera-2nm-a20-chip-slimmer-dynamic-island-detailed-1865275",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-03T05:13:33Z"
+    },
+    {
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+      "description": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.",
+      "url": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-03T05:00:01Z"
+    },
+    {
+      "title": "複数のPCからリソースをかき集めて巨大なAIモデルをローカル実行できる「mesh-llm」",
+      "description": "Mesh LLMは、複数のコンピューターの余剰GPU計算資源を持ち寄り、1台では動かしにくい大規模言語モデルを分散実行できるようにする仕組みです。OpenAI互換APIを備えており、既存のAIツールやエージェントからそのまま使いやすい点が特徴です。mesh-llm - Decentralised LLM Inferencehttps://docs.anarchai.org/michaelneale/mesh-llm: reference impl with llama.cpp compiled to distri…",
+      "url": "https://news.livedoor.com/article/detail/30899041",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-03T04:47:00Z"
+    },
+    {
+      "title": "Samsung Electro-Mechanics lifts FC-BGA prices on AI-driven shortage",
+      "description": "Samsung Electro-Mechanics has raised prices for its high-end flip-chip ball grid array (FC-BGA) substrates as demand from artificial intelligence (AI) servers and high-performance computing (HPC) applications continues to outpace supply, according to South Ko…",
+      "url": "https://www.digitimes.com/news/a20260402VL217/semco-fc-bga-high-end-demand-bga.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T04:44:34Z"
+    },
+    {
+      "title": "J-mex accelerates IMU motion capture tech to lower robot training costs",
+      "description": "The current lack of real-world physical data for humanoid robots means they still require substantial training costs. Recognizing this business opportunity, J-Mex, which specializes in motion capture technology, has in recent years been actively entering the …",
+      "url": "https://www.digitimes.com/news/a20260401PD215/robot-training-data-technology-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T04:43:38Z"
+    },
+    {
+      "title": "Taiwan pushes ahead with AI and tech agenda even as budget deadlock threatens fiscal paralysis",
+      "description": "Taiwan sits at a rare intersection of economic momentum and political gridlock. The island's economy expanded 8.68% in 2025, exports hit a record US$640.75 billion, and per capita GDP is closing in on the US$40,000 threshold — largely on the back of booming g…",
+      "url": "https://www.digitimes.com/news/a20260401PD221/budget-taiwan-2027-2026-policy.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T04:43:18Z"
+    },
+    {
+      "title": "The Fence Magazine Typography: A Masthead Reborn Each Issue",
+      "description": "The Fence Magazine Typography: A Masthead Reborn Each Issue\n\n \n\n\n sofia\n April 02, 2026\n\n\n The Fence Magazine typography centers on a bespoke display typeface, giving Mathias Clottu room to morph the masthead from dripping type to neon effects.\nLaunched in 20…",
+      "url": "https://abduzeedo.com/node/89240",
+      "source": "Abduzeedo.com",
+      "publishedAt": "2026-04-03T04:16:57Z"
+    },
+    {
+      "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
+      "description": "Google launches Gemma 4, a new open-source model: How to try itMashable Gemma 4: Byte for byte, the most capable open modelsblog.google From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AINVIDIA Blog Day 0 Support for Gemma 4 on AMD Processors a…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181213372",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-03T04:12:20Z"
+    },
+    {
+      "title": "New infosec products of the month: March 2026",
+      "description": "Here’s a look at the most interesting products from the past month, featuring releases from Beazley, Bonfy.AI, Mend.io, Mimecast, NinjaOne, Novee, Intel 471, Singulr AI, Stellar Cyber, Teleport, and Vicarius. Beazley Exposure Management platform identifies ex…",
+      "url": "https://www.helpnetsecurity.com/2026/04/03/new-infosec-products-of-the-month-march-2026",
+      "source": "Help Net Security",
+      "publishedAt": "2026-04-03T04:00:58Z"
+    },
+    {
+      "title": "[Bundle] 9800X3D + MSI MPG X870E CARBON + 128GB G.SKILL DDR5 RAM + MSI RTX 5070 12GB GPU + CORSAIR 3500X Case & More $2800 + Free S/H (14 replies)",
+      "description": "Newegg [newegg.com] has the AMD Ryzen 7 9800X3D Bundle w/ 10-Items listed below for $2799.99. Shipping is free.\n\nBundle Includes (links for reference):AMD Ryzen 7 9800X3D Ryzen 7 9000 Series Zen 5 8-C",
+      "url": "https://slickdeals.net/f/19379112-bundle-9800x3d-msi-mpg-x870e-carbon-128gb-g-skill-ddr5-ram-msi-rtx-5070-12gb-gpu-corsair-3500x-case-more-2800-free-s-h",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T03:58:08Z"
+    },
+    {
+      "title": "Chicago-area youth golfers set to compete in National Drive, Chip and Putt Finals at Augusta National",
+      "description": "Four young golfers from the Chicago area have qualified for the National Drive, Chip and Putt Finals Competition at Augusta National on April 5th, 2026.",
+      "url": "https://wgntv.com/sports/chicago-area-youth-golfers-set-to-compete-in-national-drive-chip-and-putt-finals-at-augusta-national",
+      "source": "WGN TV Chicago",
+      "publishedAt": "2026-04-03T03:46:26Z"
+    },
+    {
+      "title": "Acer Aspire 14 AI (Cert. Refurb): 14\" FHD+ IPS Touch, Intel Ultra 7 258V, 32GB LPDDR5, 1TB SSD $502.99",
+      "description": "Sold by *Acer via eBay.* \n \n\"2-year warranty: This item has a 2-year warranty serviced by Allstate.\" \n \nAvailable:[list][*]Intel Ultra 7 258V, 32GB LPDDR5, 1TB SSD [ebay.com] - *$502.99*[*]Intel...",
+      "url": "https://slickdeals.net/f/19379043-acer-aspire-14-ai-cert-refurb-14-fhd-ips-touch-intel-ultra-7-258v-32gb-lpddr5-1tb-ssd-502-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T03:35:21Z"
+    },
+    {
+      "title": "Auto parts body MACPMA supports MITI clarification on CKD requirements – local supply chain is essential",
+      "description": "Earlier this week, the ministry of investment, trade and industry (MITI) reaffirmed the country’s automotive investment and sector policies in a statement addressing the BYD CKD issue. Following this, national automakers Proton and Perodua issued […]\nThe post…",
+      "url": "https://paultan.org/2026/04/03/auto-parts-body-macpma-supports-miti-clarification-on-ckd-requirements-local-supply-chain-is-essential",
+      "source": "Paul Tan's Automotive News",
+      "publishedAt": "2026-04-03T03:22:52Z"
+    },
+    {
+      "title": "Microsoftが音声生成モデル「MAI-Voice-1」・音声認識モデル「MAI-Transcribe-1」・画像生成モデル「MAI-Image-2」の3つのAI基盤モデルをリリース",
+      "description": "Microsoftが自社開発のAI基盤モデルとして、音声生成モデルの「MAI-Voice-1」、音声認識モデルの「MAI-Transcribe-1」、画像生成モデルの「MAI-Image-2」を発表しました。Today we're announcing 3 new world class MAI models, available in Foundry | Microsoft AIhttps://microsoft.ai/news/today-were-announcing-3-new-world-class-m…",
+      "url": "https://news.livedoor.com/article/detail/30898362",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-03T03:20:00Z"
+    },
+    {
+      "title": "Iran has strong bargaining chips, but nobody to play against",
+      "description": "It's not clear what else the United States and Iran have to negotiate over, given Trump's declaration that that most of the war's goals have been achieved - and given Europe does not have the tools to give Tehran what it wants in exchange for the opening of t…",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-03/ty-article/.premium/iran-has-strong-bargaining-chips-but-nobody-to-play-against/0000019d-4fea-da4e-a5df-4ffe5d670000",
+      "source": "Haaretz",
+      "publishedAt": "2026-04-03T03:00:57Z"
+    },
+    {
+      "title": "iBUYPOWER Gaming Desktop PC: Ryzen 7 9800X3D, 9070XT, 32GB DDR5, 2TB NVMe SSD $2099.99",
+      "description": "Specs: \nAMD Ryzen 7 9800X3D 8-Core Processor, up to 5.2 GHz \niBUYPOWER AW4 360mm ARGB Liquid Cooler \nAMD Radeon RX 9070 XT 16GB Graphics Card \n32GB DDR5 5200MHz Memory \nB650 WiFi Motherboard \n2TB M.2...",
+      "url": "https://slickdeals.net/f/19378923-ibuypower-gaming-desktop-pc-ryzen-7-9800x3d-9070xt-32gb-ddr5-2tb-nvme-ssd-2099-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T02:54:47Z"
+    },
+    {
+      "title": "ASUS TUF 18\" Gaming Laptop - AMD Ryzen 7 260 - GeForce RTX 5060, FHD+ 144Hz/3ms Display - 16GB RAM, 1TB SSD, Windows 11 Home $1199.99 Costco.com (2 replies)",
+      "description": "https://www.costco.com/p/-/asus-t...?langId=-1\n\n$1199.99 + $14.99 Shipping\n\n\n$400 OFF\n$400 manufacturer's savings is valid 04/01/26 through 04/30/26. While supplies last\n\nProcessor & Memory:",
+      "url": "https://slickdeals.net/f/19378878-asus-tuf-18-gaming-laptop-amd-ryzen-7-260-geforce-rtx-5060-fhd-144hz-3ms-display-16gb-ram-1tb-ssd-windows-11-home-1199-99-costco-com",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T02:30:53Z"
+    },
+    {
+      "title": "Certified Refurbished: Acer Swift Go Laptop: 14\" FHD+ IPS Touch, Intel Ultra 7 155H, 16GB RAM, 1TB SSD $371.99 + Free Shipping",
+      "description": "Acer via eBay [ebay.com] has *Certified Refurbished: Acer Swift Go Laptop: 14\" FHD+ IPS Touch, Intel Ultra 7 155H, 16GB RAM, 1TB SSD* (NX.KSMAA.001) for *$371.99*. *Shipping is free.* \n \nNote: This...",
+      "url": "https://slickdeals.net/f/19378875-certified-refurbished-acer-swift-go-laptop-14-fhd-ips-touch-intel-ultra-7-155h-16gb-ram-1tb-ssd-371-99-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T02:30:31Z"
+    },
+    {
+      "title": "Troubling signs in new Trump intel report alarm expert: 'Raises real questions'",
+      "description": "A new intelligence report on Iran's military capabilities alarmed an expert during a CNN interview. CNN reported, citing sources inside the Trump administration, that the president's intelligence community has determined that Iran has roughly half of its miss…",
+      "url": "https://www.rawstory.com/trump-iran-2676658868",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-03T02:22:24Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ShinyHunters are behind the breach",
+      "European Commission lost sensitive data",
+      "Aorus X870E Elite X3D Ice motherboard reviewed",
+      "Intel appoints executive vice president",
+      "Steam Deck 2 switches to off-the-shelf AMD silicon"
+    ],
+    "insights": [
+      "Data theft and loss due to supply chain attacks",
+      "AMD switching to off-the-shelf components",
+      "Valve's future plans for Steam Deck 2"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply Chain Attacks",
+      "summary": "The European Commission experienced a cloud infrastructure breach caused by ShinyHunters, resulting in the theft and leakage of approximately 340GB of data.",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/04/03/european-commission-cloud-breach"
+      ]
+    },
+    {
+      "title": "AMD Switching Components",
+      "summary": "AMD is transitioning to off-the-shelf components for its upcoming Steam Deck 2, indicating a shift towards standard hardware.",
+      "article_urls": [
+        "https://www.madshrimps.be/news/steam-deck-2-ditches-semi-custom-apu-for-off-the-shelf-amd-silicon-eyes-2028-launch"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Negative",
+      "sentiment": {
+        "category": "Negative",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "TSM is a semiconductor manufacturer known for its security products. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AMD is a semiconductor manufacturer focusing on CPUs and GPUs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML is a Dutch multinational corporation specializing in advanced lithography systems. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "INTC is an American multinational conglomerate focused on information technology. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "QCOM is a semiconductor manufacturer primarily producing mobile chips. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
