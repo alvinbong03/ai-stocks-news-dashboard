@@ -1,0 +1,270 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-05",
+  "last_updated_utc": "2026-04-05T07:00:11.750Z",
+  "news": [
+    {
+      "title": "AMD Rolls Out Gemma 4 Model Support Across Full Range of GPUs & CPUs",
+      "description": "AMD has rolled out official support for Google's Gemma 4 across its full range of GPUs & CPUs, offering support for the compact AI model. AMD Radeon GPUs & Ryzen AI CPUs Fully Support Google's Gemma 4 AI Model Google rolled out its latest family of open-weigh…",
+      "url": "https://wccftech.com/amd-rolls-out-gemma-4-model-support-across-full-range-of-gpus-cpus",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-04T06:00:08Z"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU | Hacker News",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=47612724",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-04T05:47:01Z"
+    },
+    {
+      "title": "Intel Updates Nova Lake-S 42 Core To 44 Core In Dual Compute Tile CPU Config",
+      "description": "Intel's next-gen Nova Lake-S CPUs will feature a 44-core \"Dual Compute Tile\" CPU config instead of a 42-core configuration. Intel Nova Lake-S 42-Core Desktop CPU Spec Upgraded To 44 Cores, Retains Dual Compute Tile Config With bLLC A few months back, we repor…",
+      "url": "https://wccftech.com/intel-updates-nova-lake-s-desktop-44-core-dual-compute-tile-cpu",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-04T05:20:10Z"
+    },
+    {
+      "title": "AirPods Max 2 Receive Firmware Update",
+      "description": "Ahead of the release of the AirPods Max 2, the headphones have received a firmware update by Apple with the number 8E251. The AirPods Max 2 are powered by the H2 chip and have new features such as Loud Sound Reduction, Adaptive Audio, Live Translation, Voice …",
+      "url": "https://www.ilounge.com/news/airpods-max/airpods-max-2-receive-firmware-update",
+      "source": "iLounge",
+      "publishedAt": "2026-04-04T03:38:28Z"
+    },
+    {
+      "title": "#YayEmacs 10: Emacs coaching with Prot: Emacs workflows and streaming",
+      "description": "I realized that one of the mistakes I often make with Emacs is not asking other people for help, so I experimented with a coaching session with Prot. With his permission, here's a recording of our conversation.\n\n\nDownload the video\r\n\n\n\nView in the Internet Ar…",
+      "url": "https://sachachua.com/blog/2026/04/yayemacs-10-emacs-coaching-with-prot-packaging-emacs-lisp",
+      "source": "Sachachua.com",
+      "publishedAt": "2026-04-04T02:23:03Z"
+    },
+    {
+      "title": "HP 14-ep1185TU 14\" Full HD AI PC Laptop (Intel Core Ultra 5-125h) [512GB/24GB] $1099.00",
+      "description": "Saw this in my email this morning. Not an absolute bargain but considering it's 24GB RAM and Intel ARC, maybe not a bad deal for someone looking. 14\" Full HD (1920 x 1080) IPS display, …",
+      "url": "https://www.ozbargain.com.au/node/954546",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-04-04T02:20:06Z"
+    },
+    {
+      "title": "Apple's Next iPad Mini 8 Rumored for Late 2026 OLED Upgrade and Performance Boost",
+      "description": "Apple's ultraportable iPad mini remains unchanged since its October 2024 refresh, but strong rumors point to a significant iPad mini 8 arriving in the second half of 2026, potentially featuring an OLED display, faster chip and other enhancements that could ma…",
+      "url": "https://www.ibtimes.com.au/apples-next-ipad-mini-8-rumored-late-2026-oled-upgrade-performance-boost-1865361",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-04T01:43:45Z"
+    },
+    {
+      "title": "Best Nail Polish For Holidays – 2026 Reviews",
+      "description": "Okay, let’s be real-holiday nails are a non-negotiable part of the season’s vibe. Whether you’re aiming for classic crimson, sparkling glitter, or a trendy magnetic effect, your manicure needs to hold up through parties, gift-wrapping, and countless photos. B…",
+      "url": "https://www.vampyvarnish.com/best-nail-polish-for-holidays",
+      "source": "Vampyvarnish.com",
+      "publishedAt": "2026-04-04T01:32:29Z"
+    },
+    {
+      "title": "Have A Laugh With Seinfeld: \"Did You Double Dip That Chip?\"",
+      "description": "There are many scenes to choose from during Seinfeld's run, but I was able to find this video from \"The Implant\" (Season 4, Episode 19)\nWHy George, Elaine and Jerry listen to any of Kramer's schemes is beyond me but they make good comedy.\n<li>The Scheme: Geor…",
+      "url": "https://crooksandliars.com/2026/04/have-laugh-george-costanza-and-seinfeld",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-04-04T00:46:19Z"
+    },
+    {
+      "title": "This Week in Plasma: UI and Stability Improvements",
+      "description": "<!-- Example wording for a change, MR version. (Developer Name, [repo-name MR #xxx](https://invent.kde.org/plasma/repo-name/-/merge_requests/xxx)) -->\n<!-- Example wording for a change, Bugzilla version. (Developer Name, [KDE Bugzilla #xxx](https://bugs.kde.o…",
+      "url": "https://blogs.kde.org/2026/04/04/this-week-in-plasma-ui-and-stability-improvements",
+      "source": "Kde.org",
+      "publishedAt": "2026-04-04T00:00:01Z"
+    },
+    {
+      "title": "Artificial gauge fields for sculpting topological modes on photonic chips",
+      "description": "Topological states are commonly localised at the interface between topologically distinct domains. By combining various artificial gauge fields with artificial neural networks to design the system energy landscape, here, authors propose a technique to transfo…",
+      "url": "https://www.nature.com/articles/s41467-026-71402-2",
+      "source": "Nature.com",
+      "publishedAt": "2026-04-04T00:00:00Z"
+    },
+    {
+      "title": "Semco raises ABF substrate prices as AI server demand surges",
+      "description": "The explosive growth in artificial intelligence (AI) servers and high-performance computing (HPC) is driving up the value of key components like ABF substrates. With ongoing bottlenecks in the global supply chain for advanced packaging substrates, South Korea…",
+      "url": "https://www.digitimes.com/news/a20260402PD235/semco-ai-server-abf-substrate-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T23:30:05Z"
+    },
+    {
+      "title": "Memory interface chip maker Montage sees DDR5 surge drive 2025 growth",
+      "description": "Montage Technology reported full-year 2025 revenue of CNY5.46 billion (US$750 million), up 49.9% year on year, while net profit rose 58.4% to CNY2.24 billion, broadly in line with expectations. Adjusted net profit reached CNY2.02 billion, up 62.0%, reflecting…",
+      "url": "https://www.digitimes.com/news/a20260402VL208/2025-ddr5-growth-profit-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T23:27:11Z"
+    },
+    {
+      "title": "Samsung strike threat clouds PMIC, mature-node outlook",
+      "description": "Samsung Electronics reportedly faces renewed strike risk after union talks stalled, threatening already tight mature-node semiconductor supply chains. Power management ICs (PMICs) and display driver ICs (DDICs) are seen as the most exposed segments, given con…",
+      "url": "https://www.digitimes.com/news/a20260402VL215/samsung-strike-pmic-chips-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-03T23:26:33Z"
+    },
+    {
+      "title": "Supply Chain Attacks Surge in March 2026",
+      "description": "IntroductionThere was a significant increase in software supply chain attacks in March 2026. There were five major software supply-chain attacks that occurred including the Axios NPM package compromise, which has been attributed to a North Korean threat actor…",
+      "url": "https://www.zscaler.com/blogs/security-research/supply-chain-attacks-surge-march-2026",
+      "source": "Zscaler.com",
+      "publishedAt": "2026-04-03T23:17:02Z"
+    },
+    {
+      "title": "Report: Edge AI chip startup Hailo to go public via SPAC merger",
+      "description": "Chipmaker Hailo Technologies Ltd. is reportedly preparing to list its shares through a merger with a special-purpose acquisition company. Calcalist revealed the plan today, citing regulatory filings from Hailo investor Delek Automotive. The offering is report…",
+      "url": "https://siliconangle.com/2026/04/03/report-edge-ai-chip-startup-hailo-go-public-via-spac-merger",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-03T23:09:53Z"
+    },
+    {
+      "title": "Witcher 4 RTX Mega Geometry Foliage demo runs at almost 60 FPS on an RTX 4070 and 80 FPS at 4K on a RTX 5090",
+      "description": "NVIDIA developers showed off a demo of the new foliage system coming to RTX Mega Geometry starting with The Witcher 4, running at playable FPS on two GPUs.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110865/witcher-4-rtx-mega-geometry-foliage-demo-runs-at-almost-60-fps-on-an-rtx-4070-and-80-fps-at-4k-on-a-rtx-5090/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-03T22:13:03Z"
+    },
+    {
+      "title": "New Apple TV Waiting for Siri: Here's What's Coming When It Launches",
+      "description": "We're long overdue for an Apple TV update, and there have been rumors about an imminent refresh since late last year. It's now sounding like we're not going to get a new version for several months because of Siri delays. If you're holding out for a new model,…",
+      "url": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-03T21:56:47Z"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b7cfb8a-bed0-46dd-9e06-5758e7506356",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-03T21:44:56Z"
+    },
+    {
+      "title": "Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence Says - The New York Times",
+      "description": "Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence SaysThe New York Times Exclusive: US intelligence assesses Iran maintains significant missile launching capability, sources saycnn.com What to know about Iran's military as the U.S. weighs ground op…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181217308",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-03T21:32:38Z"
+    },
+    {
+      "title": "iFixit Finds That Apple’s AirPods Max 2 Are “Basically The Same” As The AirPods Max Released In 2020",
+      "description": "Even though Apple launched the new AirPods Max 2 with much pomp and fanfare a few weeks back, with the surprise announcement coming on the proverbial heels of the Apple Experience event in early March and the plethora of new device launches that it entailed, …",
+      "url": "https://wccftech.com/ifixit-finds-apples-airpods-max-2-are-basically-the-same-as-the-airpods-max-released-in-2020",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-03T21:30:21Z"
+    },
+    {
+      "title": "Does Your Credit Card Chip Store Your Purchase History?",
+      "description": "Worried about privacy? Find out exactly what information is saved on your credit card's EMV chip and how it protects your transaction history from hackers.",
+      "url": "https://www.bgr.com/2135032/what-does-credit-card-rfid-chip-store",
+      "source": "BGR",
+      "publishedAt": "2026-04-03T21:17:00Z"
+    },
+    {
+      "title": "US intelligence said to assess around half of Iran’s missile launchers still intact - The Times of Israel",
+      "description": "US intelligence said to assess around half of Iran’s missile launchers still intactThe Times of Israel Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence SaysThe New York Times What to know about Iran's military as the U.S. weighs ground operationsA…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181217250",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-03T21:12:27Z"
+    },
+    {
+      "title": "PC Makers Have Apparently Cracked the Code on Supply Shortages: Stop Making Hardware Regular Gamers Can Afford",
+      "description": "PC manufacturers have started exploring workarounds amid ongoing shortages, and one method is likely to target gamers with more money. The PC Industry Would See a Significant Decline In Budget-Friendly Devices Ahead, Courtesy of Shortages The PC industry has …",
+      "url": "https://wccftech.com/pc-makers-have-apparently-cracked-the-code-on-supply-shortages",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-03T21:10:04Z"
+    },
+    {
+      "title": "Dell Latitude 5420 (Refurb): 14\" FHD IPS, i5-1145G7, 16GB RAM, 256GB SSD, Win 11 Pro, 2x Thunderbolt 4 $239.99",
+      "description": "Available at: \n* Newegg [newegg.com] - *$239.99* \n* Newegg via eBay [ebay.com] - *$244.99* \n * 1-year warranty: This item has a 1-year warranty serviced by Allstate. \n \n \n*SPECS:*[list][*]Intel Core...",
+      "url": "https://slickdeals.net/f/19381446-dell-latitude-5420-refurb-14-fhd-ips-i5-1145g7-16gb-ram-256gb-ssd-win-11-pro-2x-thunderbolt-4-239-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-03T21:07:55Z"
+    },
+    {
+      "title": "ASML Holding N.V. (ASML): Billionaire Steve Cohen Is Buying This Chip Stock",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5854f998-74be-4ef6-84ce-35a8257189d8",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-03T21:05:15Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AMD rolls out support for Google's Gemma 4",
+      "Intel updates Nova Lake-S CPUs",
+      "AirPods Max 2 receive firmware update",
+      "HP laptop available",
+      "Apple's iPad mini rumored for OLED upgrade and performance boost"
+    ],
+    "insights": [
+      "Semiconductors industry news"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Short-term trends in semiconductors",
+      "summary": "AMD continues to expand its support for AI models, Intel upgrades its CPU configurations, Apple announces potential OLED displays for iPads, and HP releases a new laptop.",
+      "article_urls": [
+        "https://wccftech.com/amd-rolls-out-gemma-4-model-support-across-full-range-of-gpus-cpus/",
+        "https://wccftech.com/intel-updates-nova-lake-s-desktop-44-core-dual-compute-tile-cpu/",
+        "https://www.ilounge.com/news/airpods-max/airpods-max-2-receive-firmware-update/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Taiwan Semiconductor Manufacturing Company (TSM) is a leading semiconductor manufacturer. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Advanced Micro Devices (AMD) is a major player in the semiconductor industry. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML Holding NV is a Dutch multinational technology company specializing in lithography systems. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation is a leading semiconductor manufacturer. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Qualcomm Inc. is a semiconductor company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

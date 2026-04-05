@@ -1,0 +1,199 @@
+{
+  "theme": "ai",
+  "date": "2026-04-05",
+  "last_updated_utc": "2026-04-05T06:59:46.525Z",
+  "news": [
+    {
+      "title": "Comparison of the performance of ChatGPT-5, Gemini 3, Copilot, Perplexity, and medical students in answering neurology questions: a cross-sectional study",
+      "description": "Large language model (LLM)-based chatbots have been utilized across various healthcare domains and have garnered substantial attention. This study aimed to evaluate and compare the performance of several LLM-based chatbots with that of medical students in res…",
+      "url": "https://www.nature.com/articles/s41598-026-47666-5",
+      "source": "Nature.com",
+      "publishedAt": "2026-04-04T00:00:00Z"
+    },
+    {
+      "title": "Anthropic is pushing away its paying customers",
+      "description": "I need to vent.\nI want to start by saying this is my opinion and doesn’t reflect the views of my employers or anyone else.\nI’ve been paying $100/month for Claude Max because Claude is, without question, the best model for programming. I’ve built my entire AI …",
+      "url": "https://rogs.me/2026/04/anthropic-is-pushing-away-its-paying-customers",
+      "source": "Rogs.me",
+      "publishedAt": "2026-04-04T05:00:00Z"
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "description": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" ac…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "source": "The Verge",
+      "publishedAt": "2026-04-03T23:52:49Z"
+    },
+    {
+      "title": "After Cutting Down on 'Side Quests,' OpenAI Bought a Talk Show",
+      "description": "The AI giant recently said it would end its Sora image generator and put off a planned ChatGPT \"adult mode\" indefinitely.",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn",
+      "source": "CNET",
+      "publishedAt": "2026-04-03T22:20:01Z"
+    },
+    {
+      "title": "Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - Business Insider",
+      "description": "Anthropic Cuts Off OpenClaw Support for Claude SubscriptionsBusiness Insider Anthropic essentially bans OpenClaw from Claude by making subscribers pay extraThe Verge Anthropic Removes Claude Coverage For Third-Party ToolsLet's Data Science Claude subscription…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181219394",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-04T05:52:36Z"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU | Hacker News",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=47612724",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-04T05:47:01Z"
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra - The Verge",
+      "description": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extraThe Verge Anthropic Cuts Off OpenClaw Support for Claude SubscriptionsBusiness Insider Anthropic Removes Claude Coverage For Third-Party ToolsLet's Data Science Using OpenClaw on C…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181219278",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-04T05:12:21Z"
+    },
+    {
+      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI - VentureBeat",
+      "description": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AIVentureBeat...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181219002",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-04T03:32:39Z"
+    },
+    {
+      "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems",
+      "description": "Anthropic said third-party tools like OpenClaw put an \"outsized strain on our systems.\" OpenClaw's founder said cutting support would be \"a loss.\"",
+      "url": "https://www.businessinsider.com/anthropic-cuts-off-openclaw-support-claude-subscriptions-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-04T02:25:29Z"
+    },
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party | TechCrunch",
+      "description": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-04T01:32:37Z"
+    },
+    {
+      "title": "Report: Edge AI chip startup Hailo to go public via SPAC merger",
+      "description": "Chipmaker Hailo Technologies Ltd. is reportedly preparing to list its shares through a merger with a special-purpose acquisition company. Calcalist revealed the plan today, citing regulatory filings from Hailo investor Delek Automotive. The offering is report…",
+      "url": "https://siliconangle.com/2026/04/03/report-edge-ai-chip-startup-hailo-go-public-via-spac-merger",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-03T23:09:53Z"
+    },
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "description": "Received the following email from Anthropic:Hi,Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will …",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-03T22:55:24Z"
+    },
+    {
+      "title": "I almost ditched Claude over its brutal rate limits, but then it nailed something no other AI could",
+      "description": "Claude's output consistently outperforms other tools.",
+      "url": "https://www.xda-developers.com/why-i-stuck-around-despite-claude-limits",
+      "source": "XDA Developers",
+      "publishedAt": "2026-04-03T22:00:21Z"
+    },
+    {
+      "title": "Trump ignores biggest reasons his AI data center buildout is failing",
+      "description": "Nearly 50% of data center projects delayed as China holds key to power infrastructure.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181217420",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-03T21:53:17Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman tells interviewer she shouldn't let her son use AI yet",
+      "description": "Sam Altman says he hopes his podcast interviewer hasn't let her young son use AI yet, revealing he won't let his own children use it \"for a while.\"",
+      "url": "https://www.foxnews.com/media/openai-ceo-sam-altman-tells-interviewer-she-shouldnt-let-her-son-use-ai-yet",
+      "source": "Fox News",
+      "publishedAt": "2026-04-03T21:30:55Z"
+    },
+    {
+      "title": "Show HN: Cursor extension to track LLM cache TTL",
+      "description": "Hey HN,I built a small Cursor extension that tracks LLM cache timers so you can see when your context cache is about to expire.While working at Ploid AI (ploid.ai), I noticed that most cache rewrites, both mine and my teammates', came down to two things: forg…",
+      "url": "https://github.com/agastalver/cache-timer-extension",
+      "source": "Github.com",
+      "publishedAt": "2026-04-03T21:00:49Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic is pushing away its paying customers",
+      "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "OpenAI bought a talk show"
+    ],
+    "insights": [
+      "Ananthropic is reducing access to OpenClaw due to increased system strain",
+      "OpenAI acquired TBPN"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Industry Trends",
+      "summary": "Anthropic is actively managing its customer base and expanding into media.",
+      "article_urls": [
+        "https://rogs.me/2026/04/anthropic-is-pushing-away-its-paying-customers",
+        "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "https://cnet.com/tech/services-and-software/openai-acquires-tbpn"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Artificial Intelligence This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
