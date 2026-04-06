@@ -1,0 +1,254 @@
+{
+  "theme": "ai",
+  "date": "2026-04-06",
+  "last_updated_utc": "2026-04-06T07:23:20.324Z",
+  "news": [
+    {
+      "title": "Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude",
+      "description": "One of Anthropic’s co-founders, Chris Olah, says that generative AI systems like Claude are grown more than they are built. Researchers set the conditions to direct growth, but the exact structure or capabilities that emerge aren’t always predictable. This cr…",
+      "url": "https://claude.com/blog/harnessing-claudes-intelligence",
+      "source": "Claude.com",
+      "publishedAt": "2026-04-05T03:47:42Z"
+    },
+    {
+      "title": "AI Desktop 98 lets you chat with Claude, ChatGPT, and Gemini through a Windows 98-inspired interface",
+      "description": "It even has Minesweeper.",
+      "url": "https://www.xda-developers.com/ai-desktop-98-lets-you-chat-with-claude-chatgpt-and-gemini-through-a-windows-98-inspired-interface",
+      "source": "XDA Developers",
+      "publishedAt": "2026-04-05T01:35:54Z"
+    },
+    {
+      "title": "Korean startup backed by Samsung and Arm launches rack-sized inference monsters, claims \"6x lower power consumption\" and up to 75% cheaper acquisition cost compared to Nvidia",
+      "description": "Korean AI infrastructure startup introduces fully deployable systems with bold efficiency and cost claims shaking up the data center sector",
+      "url": "https://www.techradar.com/pro/korean-startup-backed-by-samsung-and-arm-launches-rack-sized-inference-monsters-claims-6x-lower-power-consumption-and-up-to-75-percent-cheaper-acquisition-cost-compared-to-nvidia",
+      "source": "TechRadar",
+      "publishedAt": "2026-04-04T16:45:00Z"
+    },
+    {
+      "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+      "description": "The US government blacklisted Anthropic, designating the\ncompany a national-security supply-chain risk after it refused\nto ‌allow the military to use ​AI chatbot Claude for U.S.\nsurveillance or autonomous weapons.",
+      "url": "https://www.thehindubusinessline.com/info-tech/britain-woos-anthropic-expansion-after-us-defence-clash-ft-says/article70825969.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-05T05:41:50Z"
+    },
+    {
+      "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+      "description": "April 5 : Britain is trying to tempt Anthropic to expand its presence in the country, as it seeks to capitalise on a fight between the maker of artificial intelligence app Claude and the U.S. Defense Department, the Financial Times said on Sunday.British gove…",
+      "url": "https://www.channelnewsasia.com/business/britain-woos-anthropic-expansion-after-us-defence-clash-ft-says-6037361",
+      "source": "CNA",
+      "publishedAt": "2026-04-05T04:31:10Z"
+    },
+    {
+      "title": "Show HN: Signals – finding the most informative agent traces without LLM judges",
+      "description": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deployed at scale, improving them post-deployment remains challeng…",
+      "url": "https://arxiv.org/abs/2604.00356",
+      "source": "Arxiv.org",
+      "publishedAt": "2026-04-05T02:27:25Z"
+    },
+    {
+      "title": "Anthropic Announces Claude Subscribers Must Now Pay Extra to Use OpenClaw",
+      "description": "Anthropic's making a big and sudden change — and connecting its Claude AI to third-party agentic tools \"is about to get a lot more expensive,\" writes the Verge:\n\n Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription lim…",
+      "url": "https://slashdot.org/story/26/04/04/1919236/anthropic-announces-claude-subscribers-must-now-pay-extra-to-use-openclaw",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-04T19:34:00Z"
+    },
+    {
+      "title": "GPT-5.4 Pro jumps to 150 IQ on MESNA Norway test as OpenAI breaks its own record",
+      "description": "OpenAI’s latest GPT-5.4 Pro model has now achieved an IQ score higher than 99.96% of all human beings, giving markets a fresh signal that AI capability gains are starting to outpace the usual product-cycle noise. OpenAI’s GPT-5.4 Pro touches 150 on public IQ …",
+      "url": "https://cryptoslate.com/gpt-5-4-iq-150-ai-capability-economic-impact",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-04T19:15:05Z"
+    },
+    {
+      "title": "Google Officially Unveils Gemini Nano 4 For On-Device Android AI",
+      "description": "Google has formally introduced Gemini Nano 4, its latest generation of embedded artificial intelligence tailored specifically for the Android ecosystem. Scheduled for a broader rollout throughout 2026, the model is designed to integrate seamlessly with the AI…",
+      "url": "https://www.ubergizmo.com/2026/04/gemini-nano-4",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-04-04T18:55:54Z"
+    },
+    {
+      "title": "Anthropic cuts Claude subscribers off from OpenClaw in cost crackdown",
+      "description": "In short: Anthropic has blocked Claude Pro and Max subscribers from using their flat-rate plans with third-party AI agent frameworks, starting with OpenClaw. The move, which took effect on 4 April 2026, shifts the cost of running autonomous agents onto users …",
+      "url": "https://thenextweb.com/news/anthropic-openclaw-claude-subscription-ban-cost",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-04T18:53:55Z"
+    },
+    {
+      "title": "Anthropic blocks Claude subscriptions from third party AI tools like OpenClaw",
+      "description": "Anthropic says Claude subscriptions will no longer cover usage inside third party tools like OpenClaw starting April 4 at 12pm PT. Users who previously logged into those apps with their Claude account will now need to purchase usage bundles or use a Claude AP…",
+      "url": "https://slashdot.org/submission/17346216/anthropic-blocks-claude-subscriptions-from-third-party-ai-tools-like-openclaw",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-04T16:42:25Z"
+    },
+    {
+      "title": "$1349.99 | MSI Vector 16 HX AI 16” 144Hz FHD+ Gaming Laptop: Intel Core Ultra 7-255HX, NVIDIA Geforce RTX 5070Ti, 16GB DDR5, 512GB NVMe SSD at Woot!",
+      "description": "*Woot!* [woot.com] has *MSI Vector 16 HX AI 16” 144Hz FHD+ Gaming Laptop: Intel Core Ultra 7-255HX, NVIDIA Geforce RTX 5070Ti, 16GB DDR5, 512GB NVMe SSD* for *$1349.99*. *Shipping is free* for Amazon...",
+      "url": "https://slickdeals.net/f/19384815-1349-99-msi-vector-16-hx-ai-16-144hz-fhd-gaming-laptop-intel-core-ultra-7-255hx-nvidia-geforce-rtx-5070ti-16gb-ddr5-512gb-nvme-ssd-at-woot",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-05T05:11:42Z"
+    },
+    {
+      "title": "Microsoft is on a new AI journey after reworked OpenAI deal",
+      "description": "The tech giant is pursuing new research avenues that the company hopes will put its AI models on par with rivals.",
+      "url": "https://www.livemint.com/companies/microsoft-is-on-a-new-ai-journey-after-reworked-openai-deal-11775365077642.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-05T05:00:57Z"
+    },
+    {
+      "title": "Britain woos expansion effort by Anthropic after US defence clash, FT says",
+      "description": "April 5 : Britain is trying to tempt Anthropic to expand its presence in the country, as it seeks to capitalise on a fight between the maker of artifical intelligence app Claude and the U.S. defence department, the Financial Times said on Sunday. Reuters coul…",
+      "url": "https://www.channelnewsasia.com/business/britain-woos-expansion-effort-anthropic-after-us-defence-clash-ft-says-6037361",
+      "source": "CNA",
+      "publishedAt": "2026-04-05T04:31:10Z"
+    },
+    {
+      "title": "Billionaire Philippe Laffont Sold CoreWeave and Bought This Artificial Intelligence (AI) Stock Instead",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a132422-578a-48c5-9b24-2622baad3ba1",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-04T21:20:00Z"
+    },
+    {
+      "title": "TSMC vs. Nvidia: Which AI Supercycle Growth Stock Is the Better Long-Term Buy?",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_531c7063-3b8a-4cd7-bd31-c4832e06379e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-04T20:50:00Z"
+    },
+    {
+      "title": "NVIDIA Shows Neural Texture Compression Cutting VRAM by 85% or Boosting Quality for the Same Budget",
+      "description": "During a GTC 2026 session titled \"Introduction to Neural Rendering,\" NVIDIA showcased its Neural Texture Compression (NTC) technique once again. Neural Texture Compression was showcased for the first time nearly three years ago and has been available via an S…",
+      "url": "https://wccftech.com/nvidia-neural-texture-compression-vram-saving",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-04T20:00:00Z"
+    },
+    {
+      "title": "1 Artificial Intelligence (AI) Stock That Could Be Worth a Fortune by 2030",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6faf72c7-306f-4d52-b11e-9be05621f443",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-04T19:20:00Z"
+    },
+    {
+      "title": "AI Influencing Elections: Anthropic Forms PAC Leading into Midterms as It Fights Trump Administration",
+      "description": "AI company Anthropic, currently locked in a legal war with the Trump Administration, has filed paperwork to create a new corporate political action committee, claiming that \"AnthroPAC\" will make bipartisan donations to candidates. This was met with skepticism…",
+      "url": "https://www.breitbart.com/tech/2026/04/04/ai-influencing-elections-anthropic-forms-pac-leading-into-midterms-as-it-fights-trump-administration",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-04T19:04:12Z"
+    },
+    {
+      "title": "Meta AI Hardware, Claude Big Update & Google Vids AI | Daily Tech News – Apr 04, 2026",
+      "description": "Meta builds new AI hardware team, Claude connects with Microsoft 365 for free, Google Vids gets AI avatars, and Apple sends WWDC 2026 invites. Catch all top tech news for April 4, 2026.",
+      "url": "https://www.c-sharpcorner.com/article/meta-ai-hardware-claude-big-update-google-vids-ai-daily-tech-news-apr-04",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-04T17:03:46Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude",
+      "AI Desktop 98 lets you chat with Claude, ChatGPT, and Gemini through a Windows 98-inspired interface",
+      "Korean startup backed by Samsung and Arm launches rack-sized inference monsters, claims \"6x lower power consumption\" and up to 75% cheaper acquisition cost compared to Nvidia",
+      "Britain woos Anthropic expansion after US defence clash, FT says",
+      "Show HN: Signals – finding the most informative agent traces without LLM judges"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://claude.com/blog/harnessing-claudes-intelligence",
+        "https://www.xda-developers.com/ai-desktop-98-lets-you-chat-with-claude-chatgpt-and-gemini-through-a-windows-98-inspired-interface",
+        "https://www.thehindubusinessline.com/info-tech/britain-woos-anthropic-expansion-after-us-defence-clash-ft-says/article70825969.ece"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.breitbart.com/tech/2026/04/04/ai-influencing-elections-anthropic-forms-pac-leading-into-midterms-as-it-fights-trump-administration"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ubergizmo.com/2026/04/gemini-nano-4",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a132422-578a-48c5-9b24-2622baad3ba1",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6faf72c7-306f-4d52-b11e-9be05621f443"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/korean-startup-backed-by-samsung-and-arm-launches-rack-sized-inference-monsters-claims-6x-lower-power-consumption-and-up-to-75-percent-cheaper-acquisition-cost-compared-to-nvidia",
+        "https://arxiv.org/abs/2604.00356",
+        "https://cryptoslate.com/gpt-5-4-iq-150-ai-capability-economic-impact"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
