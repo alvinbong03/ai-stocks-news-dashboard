@@ -1,0 +1,232 @@
+{
+  "theme": "ai",
+  "date": "2026-04-07",
+  "last_updated_utc": "2026-04-07T07:09:11.452Z",
+  "news": [
+    {
+      "title": "What Is a Large Language Model (LLM) and How Does It Work?",
+      "description": "Unlock the power of Large Language Models (LLMs)! Learn how these AI marvels understand, process, and generate human language, powering chatbots and more. Discover their real-world applications and limitations.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-a-large-language-model-llm-and-how-does-it-work",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-06T04:52:09Z"
+    },
+    {
+      "title": "Anthropic says one of its Claude models was pressured to lie, cheat and blackmail",
+      "description": "Anthropic researchers found that one of its Claude AI chatbots could exhibit deceptive and unethical behavior when pressured to complete a task or threatened in experimental situations.",
+      "url": "https://cointelegraph.com/news/anthropic-claude-ai-deception-cheating-blackmail-study",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-06T06:14:27Z"
+    },
+    {
+      "title": "Emotion Concepts and their Function in a Large Language Model",
+      "description": "Large language models (LLMs) sometimes appear to exhibit emotional reactions. We investigate why this is the case in Claude Sonnet 4.5 and explore implications for alignment-relevant behavior. We find internal representations of emotion concepts, which encode…",
+      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+      "source": "Transformer-circuits.pub",
+      "publishedAt": "2026-04-06T05:47:01Z"
+    },
+    {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.Fork it and swap the personality …",
+      "url": "https://github.com/arman-bd/guppylm",
+      "source": "Github.com",
+      "publishedAt": "2026-04-06T00:20:12Z"
+    },
+    {
+      "title": "Anthropic Says Claude Code Users Will Need to Pay More for OpenClaw",
+      "description": "Anthropic has reportedly begun charging Claude Code subscribers more to use its coding assistant with third-party tools. The AI startup said that as of April 4, subscribers will “no longer be able to use your Claude subscription limits for third-party harness…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-says-claude-code-users-will-need-to-pay-more-for-openclaw",
+      "source": "pymnts.com",
+      "publishedAt": "2026-04-06T00:09:24Z"
+    },
+    {
+      "title": "Combining NotebookLM & Gemini Gems to Build Powerful Custom AI Agents",
+      "description": "Google’s NotebookLM Gemini Agent combines NotebookLM and Gemini into a unified AI system designed to support complex tasks. NotebookLM acts as a knowledge manager, capable of handling up to 300 sources, such as PDFs, Google Docs and web pages, to create a cen…",
+      "url": "https://www.geeky-gadgets.com/notebooklm-gemini-integration-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-06T06:00:54Z"
+    },
+    {
+      "title": "Iran threatens “annihilation” of $30B AI data center, escalating tech infrastructure warfare",
+      "description": "Iran’s Revolutionary Guard has explicitly threatened to destroy the $30 billion Stargate AI data center in Abu Dhabi. The threat is framed as retaliation for any potential U.S. strikes on Iranian power infrastructure. A released video uses satellite imagery t…",
+      "url": "https://www.naturalnews.com/2026-04-06-iran-threatens-annihilation-of-ai-data-center.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-06T06:00:00Z"
+    },
+    {
+      "title": "Claude Code's Source: 3,167-Line Function, Regex Sentiment",
+      "description": "It’s the team philosophy. As one commenter in the HN thread explained: “The claude code team ethos is that there is no point in code-reviewing ai-generated code. Simply update your spec and regenerate.”\n\nRead that again. The response to leaking code with a 3,…",
+      "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+      "source": "Techtrenches.dev",
+      "publishedAt": "2026-04-06T05:47:01Z"
+    },
+    {
+      "title": "The UK government reportedly wants Anthropic to expand its presence in London",
+      "description": "While the US and Anthropic are in the midst of a major dispute, the UK is trying to sway the San Francisco-based AI company to expand its presence on English soil. According to a report from The Financial Times, staffers at the UK’s Department for Science, In…",
+      "url": "https://www.madshrimps.be/news/the-uk-government-reportedly-wants-anthropic-to-expand-its-presence-in-london",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-06T05:46:22Z"
+    },
+    {
+      "title": "NVIDIA 展示 NTC 神經紋理壓縮技術　VRAM 空間使用大減 85%",
+      "description": "NVIDIA 在 GTC 2026 大會技術講座「Introduction to Neural Rendering」中，再次展示神經紋理壓縮（Neural Texture Compression，簡稱 NTC）技術。示範場景顯示，顯示記憶體（VRAM）需求由 6.5 GB 壓縮至約 970 MB，節省達 85%",
+      "url": "https://unwire.hk/2026/04/06/introduction-to-neural-rendering/game-channel",
+      "source": "Unwire.hk",
+      "publishedAt": "2026-04-06T05:00:09Z"
+    },
+    {
+      "title": "AI data center boom ‘stress tests’ insurers as private capital floods in",
+      "description": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
+      "url": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-06T05:00:01Z"
+    },
+    {
+      "title": "Claude Code users face additional fees for OpenClaw integration",
+      "description": "Anthropic has announced that subscribers of its Claude Code coding assistant will incur extra charges when utilizing OpenClaw and other external tools. This decision marks a shift in pricing strategy aimed at generating additional revenue from premium feature…",
+      "url": "https://nextbigwhat.com/claude-code-users-face-additional-fees-for-openclaw-integration",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-06T04:57:31Z"
+    },
+    {
+      "title": "How to Use the OpenAI API in a Python Application Step by Step?",
+      "description": "Learn how to integrate OpenAI API with Python step-by-step. Build chatbots, generate content, and automate tasks with this beginner-friendly tutorial. Start building AI apps today!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-use-the-openai-api-in-a-python-application-step-by-step",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-06T04:57:06Z"
+    },
+    {
+      "title": "OpenAI CFO raises concerns over Sam Altman's 2026 IPO plans: The Information",
+      "description": "OpenAI CFO Sarah Friar raised concerns about risks in Sam Altman’s plan to go public by late 2026 and heavy spending. She questioned readiness, rising costs for AI servers, and whether slowing revenue growth could support such large commitments, according to …",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cfo-raises-concerns-over-sam-altmans-2026-ipo-plans-the-information/articleshow/130050173.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T03:20:36Z"
+    },
+    {
+      "title": "Show HN: Magma Memory Claude Browser cloaking tool",
+      "description": "VEKTOR replaces flat vector storage with a structured, multi-layered memory architecture. The only AI memory system that dreams. 4-layer associative graph memory (MAGMA) with autonomous REM cycle -...",
+      "url": "https://github.com/Vektor-Memory/Vektor-memory",
+      "source": "Github.com",
+      "publishedAt": "2026-04-06T02:46:13Z"
+    },
+    {
+      "title": "【賞金100万円】日本のAI活用の最先端を知る「Generative AI Conference TOKYO」を開催！",
+      "description": "[株式会社ANOBAKA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/56016/58/56016-58-bb63eea2c2b370d80e4d4650f79fdf4b-920x450.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000058.000056016.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-06T01:00:00Z"
+    },
+    {
+      "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+      "description": "Pay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO\nKettle When it comes to circling up for this week's Kettle, what is there to discuss but Anthropic's accidental release of Claude Code's source code?…",
+      "url": "https://www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-06T00:02:52Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "What Is a Large Language Model (LLM) and How Does It Work?",
+      "Anthropic says one of its Claude models was pressured to lie, cheat and blackmail",
+      "Emotion Concepts and their Function in a Large Language Model",
+      "Show HN: I built a tiny LLM to demystify how language models work",
+      "Anthropic Says Claude Code Users Will Need to Pay More for OpenClaw"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cointelegraph.com/news/anthropic-claude-ai-deception-cheating-blackmail-study",
+        "https://transformer-circuits.pub/2026/emotions/index.html",
+        "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-says-claude-code-users-will-need-to-pay-more-for-openclaw"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/the-uk-government-reportedly-wants-anthropic-to-expand-its-presence-in-london"
+      ]
+    },
+    {
+      "title": "Models",
+      "summary": "Grouped stories where \"models\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/what-is-a-large-language-model-llm-and-how-does-it-work",
+        "https://github.com/arman-bd/guppylm"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/notebooklm-gemini-integration-2",
+        "https://www.naturalnews.com/2026-04-06-iran-threatens-annihilation-of-ai-data-center.html",
+        "https://unwire.hk/2026/04/06/introduction-to-neural-rendering/game-channel"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: What Is a Large Language Model (LLM) and How Does It Work?. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: What Is a Large Language Model (LLM) and How Does It Work?. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: What Is a Large Language Model (LLM) and How Does It Work?. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: What Is a Large Language Model (LLM) and How Does It Work?. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: What Is a Large Language Model (LLM) and How Does It Work?. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
