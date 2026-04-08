@@ -1,0 +1,382 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-08",
+  "last_updated_utc": "2026-04-08T07:12:14.043Z",
+  "news": [
+    {
+      "title": "Korean chip suppliers face second year of price cuts despite AI boom",
+      "description": "Samsung and SK Hynix delivered record performance in 2025, driven by strong investment in AI infrastructure. Yet the gains have not flowed upstream. Materials and component suppliers are facing a second consecutive year of price cuts, with contract terms for …",
+      "url": "https://www.digitimes.com/news/a20260407PD208/samsung-sk-hynix-supply-chain-price-cuts-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T07:04:46Z"
+    },
+    {
+      "title": "In-depth: How DeepSeek V4 strengthens Huawei's role in China's AI stack",
+      "description": "China's push for a self-sufficient AI stack is no longer theoretical — it is entering deployment. DeepSeek's upcoming V4 model, expected within weeks, signals a shift from experimentation to execution, linking software, chips, and policy into a single system.",
+      "url": "https://www.digitimes.com/news/a20260407VL203/deepseek-huawei-ascend-chips-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T06:44:19Z"
+    },
+    {
+      "title": "Global AI chip suppliers compete as TSMC remains top foundry partner",
+      "description": "As the artificial intelligence (AI) era advances, approximately 133 companies are actively developing or selling AI chips, according to a SEMIEcosystem report citing Jon Peddie Research. Major suppliers include Nvidia, AMD, Broadcom, and Google, alongside num…",
+      "url": "https://www.digitimes.com/news/a20260407PD205/ai-chip-tsmc-chips-nvidia-amd.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T06:01:09Z"
+    },
+    {
+      "title": "Don’t Let the Design Fool You: The AirPods Max 2 H2 Chip Unlocks New Features",
+      "description": "The AirPods Max 2 may not appear drastically different from their predecessor at first glance, but the internal upgrades they bring redefine the expectations for premium headphones. With the inclusion of the advanced H2 chip, enhanced sound quality, and smart…",
+      "url": "https://www.geeky-gadgets.com/airpods-max-2-review",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-07T06:00:15Z"
+    },
+    {
+      "title": "Spring planting in crisis as Middle East war drives fertilizer costs to punishing highs",
+      "description": "Middle East conflict disrupts vital fertilizer shipments through the Strait of Hormuz. Fertilizer prices have spiked by up to 35% during the critical spring planting season. The crisis threatens already thin farm margins and risks renewed food inflation. U.S.…",
+      "url": "https://www.naturalnews.com/2026-04-07-spring-planting-crisis-middle-east-war-fertilizer.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-07T06:00:00Z"
+    },
+    {
+      "title": "Prepping before SHTF: The essential foods for any emergency stockpile",
+      "description": "A well-stocked pantry is essential for health and morale during extended emergencies, like long power outages or supply chain problems. Experts recommend keeping at least a three-month supply of food and water. The foundation of a food emergency supply is bui…",
+      "url": "https://www.naturalnews.com/2026-04-07-prepping-essential-foods-for-any-emergency-stockpile.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-07T06:00:00Z"
+    },
+    {
+      "title": "MediaTek, Qualcomm reportedly cut smartphone AP orders with TSMC",
+      "description": "Amid soaring memory prices, manufacturers have repeatedly lowered 2026 shipment targets for smartphones, PCs, and other consumer electronics, triggering a ripple effect across the supply chain. Recently, reports emerged that major Chinese smartphone brands ar…",
+      "url": "https://www.digitimes.com/news/a20260407PD221/tsmc-qualcomm-mediatek-capacity-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T05:46:00Z"
+    },
+    {
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "description": "A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics’ biggest limits. Built from an unusual stack of ultra-durable materials, the tiny component can store data a…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "source": "Science Daily",
+      "publishedAt": "2026-04-07T05:32:38Z"
+    },
+    {
+      "title": "Leaker Claims PS6 Won’t Be Delayed Because AMD Won’t “Waste Resources” on Validation",
+      "description": "As the previously leaked launch date of Sony’s upcoming PlayStation 6 approaches, leaks and rumors abound, with many claiming that the upcoming gaming console will launch later than initially expected. Now, reputable leaker, KeplerL2, has taken to the NeoGAF …",
+      "url": "https://www.madshrimps.be/news/leaker-claims-ps6-wont-be-delayed-because-amd-wont-waste-resources-on-validation",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-07T05:28:52Z"
+    },
+    {
+      "title": "Refurbished Scratch & Dent Dell Chromebook 11.6\" Intel Celeron N3060 1.60 Ghz 4GB RAM, 16GB eMMC $39.99 and a few other laptops (links in OP) (11 replies)",
+      "description": "Refurbished Scratch & Dent Dell Chromebook 11.6\" Intel Celeron N3060 1.60 Ghz 4GB RAM, 16GB eMMC\n\nI am thinking possible raspberry pi replacement for headless operations or light weight perpe",
+      "url": "https://slickdeals.net/f/19391520-refurbished-scratch-dent-dell-chromebook-11-6-intel-celeron-n3060-1-60-ghz-4gb-ram-16gb-emmc-39-99-and-a-few-other-laptops-links-in-op",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-07T05:27:52Z"
+    },
+    {
+      "title": "Everyone says these 5 GPUs are a waste of money, but they’re actually homelab heroes",
+      "description": "Some GPUs offer better value than others, no matter your use case. Whether you’re a gamer, someone who needs raw GPU compute, or just lots of memory to play with local AI models, certain graphics cards will always deliver more value than others. https://www.h…",
+      "url": "https://www.madshrimps.be/news/everyone-says-these-5-gpus-are-a-waste-of-money-but-theyre-actually-homelab-heroes",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-07T05:26:49Z"
+    },
+    {
+      "title": "Intel “Nova Lake” to Use Xe3 Graphics and Xe3P Display/Media Engine",
+      "description": "Intel’s upcoming “Nova Lake” CPU generation, part of the Core Ultra 400 series, will be a major refresh of the company’s P and E-core hybrid design. While many specifications have been largely leaked, the exact integrated GPU configuration remained a mystery …",
+      "url": "https://www.madshrimps.be/news/intel-nova-lake-to-use-xe3-graphics-and-xe3p-display-media-engine",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-07T05:26:31Z"
+    },
+    {
+      "title": "Samsung forecasts insane operating profit growth thanks to surging memory prices",
+      "description": "Samsung Electronics Co. Ltd. forecast record quarterly profit thanks to rising demand for its memory chips to support artificial intelligence workloads, sending its stock higher during today’s market session. The stock was up almost 5% at one point, before se…",
+      "url": "https://siliconangle.com/2026/04/07/samsung-forecasts-insane-operating-profit-growth-thanks-surging-memory-prices",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-07T05:16:12Z"
+    },
+    {
+      "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices",
+      "description": "The record-high results nearly triple Samsung's previous\nrecord quarterly operating profit of 20 ‌trillion won, reached in\nthe fourth quarter last year",
+      "url": "https://www.thehindubusinessline.com/info-tech/update-4-samsung-flags-eightfold-jump-in-quarterly-profit-as-ai-chip-demand-pumps-prices/article70832847.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T05:09:34Z"
+    },
+    {
+      "title": "$949 | 13â³ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight) at Amazon (1 replies)",
+      "description": "Amazon [amazon.com] has 13″ Apple MacBook Air Laptop with M5 chip (16GB RAM, 512GB SSD, Midnight) for $949.\nShipping is free.\n\nPrice\n$150 lower (14% savings) than the list price of $1099\n$100 lower",
+      "url": "https://slickdeals.net/f/19391397-949-13-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-midnight-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-07T04:42:02Z"
+    },
+    {
+      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
+      "description": "The chip firm also signed a deal with Anthropic to provide the AI startup ‌access to about 3.5 gigawatts of AI computing capacity drawing on ‌Google's AI processors, starting in 2027",
+      "url": "https://www.thehindubusinessline.com/info-tech/broadcom-signs-long-term-deal-to-develop-googles-custom-ai-chips/article70832810.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T04:20:24Z"
+    },
+    {
+      "title": "Anthropic inks deal with Google, Broadcom to secure AI chips; tops $30 billion run-rate",
+      "description": "Anthropic has signed a deal with Google and Broadcom for gigawatts of TPU capacity by 2027 to support its Claude models amid rising demand. The company reported revenue exceeding $30 billion. Details here.&nbsp;",
+      "url": "https://www.livemint.com/companies/news/anthropic-inks-deal-with-google-broadcom-to-secure-ai-chips-tops-30-billion-runrate-11775531848751.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-07T04:16:13Z"
+    },
+    {
+      "title": "Himax Technologies, Inc. Schedules First Quarter 2026 Financial Results Conference Call on Thursday, May 7, 2026 at 8:00 AM EDT",
+      "description": "TAINAN, Taiwan, April 07, 2026 (GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or the “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced that it will hold a confere…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3268803/8267/en/Himax-Technologies-Inc-Schedules-First-Quarter-2026-Financial-Results-Conference-Call-on-Thursday-May-7-2026-at-8-00-AM-EDT.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-07T04:10:00Z"
+    },
+    {
+      "title": "Corsair's Ryzen AI MAX 'Strix Halo' AI Workstation 300 PC is now a lot more expensive",
+      "description": "Corsair's flagship AI Workstation 300 Desktop PC with its AMD Ryzen AI MAX+ 395 'Strix Halo' APU just got an $1,100 price increase.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110905/corsairs-ryzen-ai-max-strix-halo-ai-workstation-300-pc-is-now-a-lot-more-expensive/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-07T04:03:02Z"
+    },
+    {
+      "title": "Google's chip revisions raise questions for MediaTek's growth plans",
+      "description": "Recent reports suggest that Google has once again made engineering changes to its Tensor Processing Unit, or TPU, pushing the chip's tape-out to around mid-2026. The product in question—known as the v8x and designed by MediaTek—has raised fresh concerns about…",
+      "url": "https://www.digitimes.com/news/a20260407PD218/google-tpu-mediatek-asic-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T04:01:07Z"
+    },
+    {
+      "title": "China targets Taiwan's chip prowess to evade global 'containment', Taipei government says",
+      "description": "Taiwan, which China claims as its own territory, frequently reports busting networks ‌of Chinese firms ⁠illegally trying ⁠to poach semiconductor and high-tech talent, and has strict laws to prevent the most advanced technologies from going to China. In ​a rep…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says/articleshow/130075380.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T03:47:28Z"
+    },
+    {
+      "title": "Exclusive: Rep. Roy Introduces Bill Combining 60-Day DHS Funding with SAVE America Act",
+      "description": "Rep. Chip Roy (R-TX) introduced legislation Monday that would revive the 60-day Department of Homeland Security funding measure previously passed by the House while attaching the SAVE America Act, underscoring that some House Republicans are continuing to pre…",
+      "url": "https://www.breitbart.com/politics/2026/04/06/exclusive-rep-roy-introduces-bill-combining-60-day-dhs-funding-save-america-act",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-07T03:40:35Z"
+    },
+    {
+      "title": "Fitch unit cuts India's economic growth targets amid Iran war",
+      "description": "India's economic growth forecast is revised down from earlier estimates. This revision reflects a slowdown in economic activity and the ongoing conflict between Israel and Iran. Higher energy prices and supply chain disruptions are key concerns. However, supp…",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/fitch-unit-cuts-indias-economic-growth-targets-amid-iran-war-gdp/articleshow/130074890.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T03:38:47Z"
+    },
+    {
+      "title": "Lenovo Legion Go 2 handheld prices soar by up to $650 due to the memory crisis",
+      "description": "The flagship AMD Ryzen Z2 Extreme-powered Lenovo Legion Go 2 PC gaming handheld just got a massive $650 price increase thanks to the current memory crisis.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110904/lenovo-legion-go-2-handheld-prices-soar-by-up-to-dollars650-due-to-the-memory-crisis/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-07T03:31:02Z"
+    },
+    {
+      "title": "Australia's Firmus raises $505 million to expand AI infrastructure across Asia-Pacific",
+      "description": "The company plans to use the funds to ​scale its AI infrastructure platform across the ​Asia-Pacific region. It will also ⁠support its Project Southgate initiative, which ​aims to build a ​network of AI factories across Australia. The project, developed in co…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/australias-firmus-raises-505-million-to-expand-ai-infrastructure-across-asia-pacific/articleshow/130074841.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T03:05:47Z"
+    },
+    {
+      "title": "PCB bottlenecks, freight costs push electronics prices higher",
+      "description": "The global electronics supply chain is facing a cost shock not seen in years. War in Iran, surging AI demand, and tight capacity are simultaneously driving up prices across raw materials, key components, and logistics.",
+      "url": "https://www.digitimes.com/news/a20260407PD202/pcb-supply-chain-electronics-cost-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T02:45:30Z"
+    },
+    {
+      "title": "Samsung shares rise nearly 5% on record-breaking earnings forecast buoyed by AI chip demand",
+      "description": "Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.",
+      "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-07T02:19:52Z"
+    },
+    {
+      "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+      "description": "Nvidia last December announced it would acquire SchedMD, giving it control ​of open-source software called Slurm, which schedules computing tasks and is critical for training large language models that power chatbots such as Anthropic's Claude. Slurm also run…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access/articleshow/130073752.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T02:17:17Z"
+    },
+    {
+      "title": "Weekly news roundup: China's special AI chip supply ends; TSMC plans 12 fabs in Arizona",
+      "description": "Below are the most-read DIGITIMES Asia stories from the week of March 30-April 5, 2026:",
+      "url": "https://www.digitimes.com/news/a20260407VL201/digitimes-asia-weekly-news-roundup-2026-ai-chip-nvidia-tsmc-arizona.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T02:13:10Z"
+    },
+    {
+      "title": "2万5920GBのVRAMと2万3040GBのRAMを搭載したコンテナ型スパコン「exabox」が1000万ドルで予約受付開始",
+      "description": "AI処理用サーバーや機械学習フレームワークなどを開発しているtiny corpが1000万ドル(約16億円)のコンテナ型AIスーパーコンピューター「exabox」の予約受付を開始しました。exaboxの詳細なスペックは未定ですが、720台のGPUを搭載しVRAM容量は2万5920GB、処理能力は1エクサフロップスに達する見込みです。tinyboxhttps://tinygrad.org/#tinyboxexabox preorder is live. we considered raising a round t…",
+      "url": "https://news.livedoor.com/article/detail/30928949",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-07T02:11:00Z"
+    },
+    {
+      "title": "Samsung's eightfold profit jump signals AI spending immunity to geopolitical risk",
+      "description": "Samsung Electronics reported a record-shattering eight-fold leap in quarterly profit, as insatiable demand for artificial intelligence (AI) memory chips outweighed growing concerns over geopolitical instability in the Middle East.",
+      "url": "https://www.digitimes.com/news/a20260407VL202/samsung-operating-profit-ai-chips-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T01:59:05Z"
+    },
+    {
+      "title": "Whopper + Medium Chips $7.50 @ Hungry Jacks App",
+      "description": "App deal. Not a great one but inflation. Must complete ten words",
+      "url": "https://www.ozbargain.com.au/node/954781",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-04-07T01:49:49Z"
+    },
+    {
+      "title": "Apple Is Trying To Phase Out M4 Chip-Based Products, Which Is Why You Can’t Get Your Hands On Mac Mini And Mac Studio Devices Right Now",
+      "description": "We reported earlier today that the lead times for new Apple Mac mini and Mac Studio devices are now extending well into H2 2026. Interestingly, Apple's planned obsolescence for the M4 chip-based products might have something to do with these stretched shipmen…",
+      "url": "https://wccftech.com/apple-is-trying-to-phase-out-m4-chip-based-products-which-is-why-you-cant-get-your-hands-on-mac-mini-and-mac-studio-devices-right-now",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-07T01:46:26Z"
+    },
+    {
+      "title": "Analysis: NVLink licensing reshapes semiconductor alliance; potential Broadcom truce",
+      "description": "In September 2025, Nvidia CEO Jensen Huang made a rare joint livestream appearance with Intel CEO Pat Gelsinger to announce a US$5 billion equity investment in Intel. In March 2026, Nvidia followed up with a US$2 billion investment in Marvell Technology. Why …",
+      "url": "https://www.digitimes.com/news/a20260407PD200/nvidia-ai-intel-broadcom-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T01:35:07Z"
+    },
+    {
+      "title": "The Future Of Computer Chips Is Doing More Than Replacing Electricity",
+      "description": "Computer chips have been facing roadblocks due to the friction caused by electricity. However, photonic chips might bypass that problem (and others) entirely.",
+      "url": "https://www.bgr.com/2136791/photonic-chips-use-light-for-efficiency-cooler-temps",
+      "source": "BGR",
+      "publishedAt": "2026-04-07T01:17:00Z"
+    },
+    {
+      "title": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips",
+      "description": "Broadcom's building the silicon and is chuffed about that, but also notes Anthropic remains a risk Broadcom has announced that Google has asked it to build next-generation AI and datacenter networking chips, and that Anthropic plans to consume 3.5GW worth of …",
+      "url": "https://www.theregister.com/2026/04/07/broadcom_google_chip_deal_anthropic_customer",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-07T01:09:00Z"
+    },
+    {
+      "title": "Intel Desk – Spot conflict headlines and see their market impact faster",
+      "description": "Spot conflict headlines and see their market impact faster",
+      "url": "https://betalist.com/startups/intel-desk",
+      "source": "Betalist.com",
+      "publishedAt": "2026-04-07T01:05:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Korean chip suppliers face second year of price cuts despite AI boom",
+      "In-depth: How DeepSeek V4 strengthens Huawei's role in China's AI stack",
+      "Global AI chip suppliers compete as TSMC remains top foundry partner",
+      "Don’t Let the Design Fool You: The AirPods Max 2 H2 Chip Unlocks New Features",
+      "Spring planting in crisis as Middle East war drives fertilizer costs to punishing highs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260407PD208/samsung-sk-hynix-supply-chain-price-cuts-2025.html",
+        "https://www.digitimes.com/news/a20260407PD205/ai-chip-tsmc-chips-nvidia-amd.html",
+        "https://www.geeky-gadgets.com/airpods-max-2-review"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260407VL203/deepseek-huawei-ascend-chips-nvidia.html",
+        "https://siliconangle.com/2026/04/07/samsung-forecasts-insane-operating-profit-growth-thanks-surging-memory-prices",
+        "https://www.livemint.com/companies/news/anthropic-inks-deal-with-google-broadcom-to-secure-ai-chips-tops-30-billion-runrate-11775531848751.html"
+      ]
+    },
+    {
+      "title": "Prices",
+      "summary": "Grouped stories where \"prices\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-04-07-spring-planting-crisis-middle-east-war-fertilizer.html",
+        "https://www.digitimes.com/news/a20260407PD221/tsmc-qualcomm-mediatek-capacity-2026.html",
+        "https://economictimes.indiatimes.com/news/economy/indicators/fitch-unit-cuts-indias-economic-growth-targets-amid-iran-war-gdp/articleshow/130074890.cms"
+      ]
+    },
+    {
+      "title": "Memory",
+      "summary": "Grouped stories where \"memory\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/everyone-says-these-5-gpus-are-a-waste-of-money-but-theyre-actually-homelab-heroes"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-04-07-prepping-essential-foods-for-any-emergency-stockpile.html",
+        "https://www.madshrimps.be/news/leaker-claims-ps6-wont-be-delayed-because-amd-wont-waste-resources-on-validation",
+        "https://slickdeals.net/f/19391520-refurbished-scratch-dent-dell-chromebook-11-6-intel-celeron-n3060-1-60-ghz-4gb-ram-16gb-emmc-39-99-and-a-few-other-laptops-links-in-op"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Korean chip suppliers face second year of price cuts despite AI boom. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Korean chip suppliers face second year of price cuts despite AI boom. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Korean chip suppliers face second year of price cuts despite AI boom. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Korean chip suppliers face second year of price cuts despite AI boom. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Korean chip suppliers face second year of price cuts despite AI boom. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

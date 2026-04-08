@@ -1,0 +1,296 @@
+{
+  "theme": "ai",
+  "date": "2026-04-08",
+  "last_updated_utc": "2026-04-08T07:11:54.469Z",
+  "news": [
+    {
+      "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+      "description": "Nvidia last December announced it would acquire SchedMD, giving it control ​of open-source software called Slurm, which schedules computing tasks and is critical for training large language models that power chatbots such as Anthropic's Claude. Slurm also run…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access/articleshow/130073752.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T02:17:17Z"
+    },
+    {
+      "title": "Global AI chip suppliers compete as TSMC remains top foundry partner",
+      "description": "As the artificial intelligence (AI) era advances, approximately 133 companies are actively developing or selling AI chips, according to a SEMIEcosystem report citing Jon Peddie Research. Major suppliers include Nvidia, AMD, Broadcom, and Google, alongside num…",
+      "url": "https://www.digitimes.com/news/a20260407PD205/ai-chip-tsmc-chips-nvidia-amd.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T06:01:09Z"
+    },
+    {
+      "title": "Anthropic inks deal with Google, Broadcom to secure AI chips; tops $30 billion run-rate",
+      "description": "Anthropic has signed a deal with Google and Broadcom for gigawatts of TPU capacity by 2027 to support its Claude models amid rising demand. The company reported revenue exceeding $30 billion. Details here.&nbsp;",
+      "url": "https://www.livemint.com/companies/news/anthropic-inks-deal-with-google-broadcom-to-secure-ai-chips-tops-30-billion-runrate-11775531848751.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-07T04:16:13Z"
+    },
+    {
+      "title": "Use of generative AI for health among urban youth in Pakistan: A mixed-methods study",
+      "description": "Author summary Generative artificial intelligence (GAI) tools such as ChatGPT are increasingly part of young people’s everyday lives, yet we know very little about how they are used for health in low- and middle-income countries. This mixed-methods, youth-led…",
+      "url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001353",
+      "source": "Plos.org",
+      "publishedAt": "2026-04-07T03:08:00Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google unite to combat model copying in China",
+      "description": "Rivals OpenAI, Anthropic PBC, and Alphabet’s Google have begun working together to try to clamp down on Chinese competitors extracting results from cutting-edge US artificial intelligence models to gain an edge in the global AI race. The rare collaboration un…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-anthropic-google-unite-to-combat-model-copying-in-china/articleshow/130073787.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T01:50:34Z"
+    },
+    {
+      "title": "Anthropic reveals $30bn run rate and plans to use 3.5GW of new Google AI chips",
+      "description": "Broadcom's building the silicon and is chuffed about that, but also notes Anthropic remains a risk Broadcom has announced that Google has asked it to build next-generation AI and datacenter networking chips, and that Anthropic plans to consume 3.5GW worth of …",
+      "url": "https://www.theregister.com/2026/04/07/broadcom_google_chip_deal_anthropic_customer",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-07T01:09:00Z"
+    },
+    {
+      "title": "Claude開発企業のAnthropicがGoogleのTPUを大規模導入するべくGoogleおよびBroadcomと契約締結",
+      "description": "AIの「Claude」を開発するAnthropicが、Googleの開発するAI特化型プロセッサ「TPU」を大規模に確保する契約をGoogleおよび半導体製造のBroadcomと結んだことを明らかにしました。Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute \\ Anthropichttps://www.anthropic.com/news/google-b…",
+      "url": "https://news.livedoor.com/article/detail/30929777",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-07T03:08:00Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, and Google collaborate to prevent AI model copying in China",
+      "description": "OpenAI, Anthropic, and Google have formed a coalition aimed at addressing the issue of Chinese firms replicating advanced AI models developed in the United States. This partnership seeks to protect intellectual property and maintain competitive advantages in …",
+      "url": "https://nextbigwhat.com/openai-anthropic-and-google-collaborate-to-prevent-ai-model-copying-in-china",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-07T01:22:59Z"
+    },
+    {
+      "title": "Inside Claude Code’s New Ultra Plan : The Deep Plan Mode Explained",
+      "description": "Anthropic has introduced the “Ultra Plan” for Claude Code, a system designed to support diverse project management needs through three distinct modes: Simple Plan, Visual Plan and Deep Plan. According to Ray Amjad, the Deep Plan mode is particularly suited fo…",
+      "url": "https://www.geeky-gadgets.com/ultra-plan-cloud-interface",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-07T06:49:00Z"
+    },
+    {
+      "title": "Anthropic revenue crosses $30 billion as AI demand surges",
+      "description": "The company has also doubled its high-value enterprise customers and expanded infrastructure partnerships with Google and Broadcom to meet growing global demand",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-revenue-crosses-30-billion-as-ai-demand-surges/article70833023.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T06:11:55Z"
+    },
+    {
+      "title": "Four-day week, taxes on robots, public wealth fund: OpenAI floats policy ideas for the intelligence age",
+      "description": "OpenAI has proposed a four-day, 32-hour workweek without pay cuts as part of sharing AI-driven gains. It suggests better worker benefits, wider AI access, and possible taxes on automated labour. It also urged for stronger oversight as advanced AI systems beco…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/four-day-week-taxes-on-robots-public-wealth-fund-openai-floats-policy-ideas-for-the-intelligence-age/articleshow/130077855.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T06:03:44Z"
+    },
+    {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work | Hacker News",
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id=47655408",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-07T05:47:01Z"
+    },
+    {
+      "title": "Stop using Claude as just a chatbot—MCP changes everything",
+      "description": "AI chatbots are great at answering questions or analyzing text, but they're usually limited to the tools that are built in. MCP changes that by giving chatbots a standard way to connect to external services, so that you can use your chatbot to actually get th…",
+      "url": "https://www.madshrimps.be/news/stop-using-claude-as-just-a-chatbot-mcp-changes-everything",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-07T05:26:00Z"
+    },
+    {
+      "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices",
+      "description": "The record-high results nearly triple Samsung's previous\nrecord quarterly operating profit of 20 ‌trillion won, reached in\nthe fourth quarter last year",
+      "url": "https://www.thehindubusinessline.com/info-tech/update-4-samsung-flags-eightfold-jump-in-quarterly-profit-as-ai-chip-demand-pumps-prices/article70832847.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T05:09:34Z"
+    },
+    {
+      "title": "Bitcoin miners face a new rival for cheap power as Anthropic signs multi-gigawatt compute deal",
+      "description": "The AI company's partnership with Google and Broadcom for next-generation TPU capacity starting in 2027 adds to a wave of demand reshaping the economics of every industry that competes for cheap electricity, including bitcoin mining.",
+      "url": "https://www.coindesk.com/tech/2026/04/07/bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawatt-compute-deal",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-07T05:01:18Z"
+    },
+    {
+      "title": "ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal",
+      "description": "Find out why Googlebot is no longer the only dominant crawler as OpenAI's ChatGPT-User takes the lead in web requests.\nThe post ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-04-07T05:00:24Z"
+    },
+    {
+      "title": "「Claude」に特化した法人向け生成AI研修を開始。プロンプト設計からカスタムAI構築まで1日で習得【株式会社Uravation】",
+      "description": "[株式会社Uravation]\n[画像1: https://prcdn.freetls.fastly.net/release_image/137731/26/137731-26-254579c27a6be41d526b57566cf70ec9-1376x768.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000137731.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-07T04:40:39Z"
+    },
+    {
+      "title": "OpenAIが「週休4日制の導入」「AIに職を奪われた人への支援」「危険なAIの監視体制構築」など超知能実現を見据えた人間ファースト政策を提言",
+      "description": "OpenAIが「Industrial Policy for the Intelligence Age : Ideas to Keep People First(インテリジェンス時代のための産業政策：人間ファーストを維持するためのアイデア)」と題した政策提言書を2026年4月6日に公開しました。Industrial policy for the Intelligence Age | OpenAIhttps://openai.com/index/industrial-policy-for-the-intelligen…",
+      "url": "https://news.livedoor.com/article/detail/30930292",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-07T03:47:00Z"
+    },
+    {
+      "title": "因應 AI 衝擊，OpenAI 拋產業政策：縮短工時不減薪、設立投資基金",
+      "description": "AI 快速發展的同時，需要深遠的經濟和政治改革。OpenAI 6 日發表〈Industrial Policy for the Intelligence Age: Ideas to Keep People First〉報告，提出一系列針對「超級智慧」（superintelligence）世界的政策建議...",
+      "url": "https://technews.tw/2026/04/07/openai-offers-people-first-policy-proposals",
+      "source": "Technews.tw",
+      "publishedAt": "2026-04-07T03:44:11Z"
+    },
+    {
+      "title": "Samsung’s profit surged 8x in Q1 2026, driven by AI data center boom",
+      "description": "Samsung announced today that its revenue reached KRW 133 trillion (around $100 billion) during the first quarter (Q1) of this year, while its operating profit stood at KRW 57.2 trillion (around $43 billion). That marks an eightfold increase compared to its pr…",
+      "url": "https://www.sammobile.com/news/samsungs-q1-2026-profit-8x-ai-data-centre-boom",
+      "source": "SamMobile",
+      "publishedAt": "2026-04-07T03:31:18Z"
+    },
+    {
+      "title": "ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始",
+      "description": "[numoment株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/124753/2/124753-2-fc3f9fa6d692b89a75d2cd980fc42f7f-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000124753.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-07T02:40:40Z"
+    },
+    {
+      "title": "Samsung shares rise nearly 5% on record-breaking earnings forecast buoyed by AI chip demand",
+      "description": "Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.",
+      "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-07T02:19:52Z"
+    },
+    {
+      "title": "Weekly news roundup: China's special AI chip supply ends; TSMC plans 12 fabs in Arizona",
+      "description": "Below are the most-read DIGITIMES Asia stories from the week of March 30-April 5, 2026:",
+      "url": "https://www.digitimes.com/news/a20260407VL201/digitimes-asia-weekly-news-roundup-2026-ai-chip-nvidia-tsmc-arizona.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T02:13:10Z"
+    },
+    {
+      "title": "Anthropic secures 3.5 GW of next-gen compute via landmark alliance with Google and Broadcom",
+      "description": "Anthropic, Google, and Broadcom today announced a massive expansion of their strategic partnership, unveiling a multi-year roadmap that secures approximately 3.5 gigawatts (GW) of next-generation AI computing capacity for Anthropic.",
+      "url": "https://www.digitimes.com/news/a20260407VL200/anthropic-broadcom-google-alliance-computing-power-expansion.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-07T01:50:15Z"
+    },
+    {
+      "title": "Greg Brockman: AGI will emerge in the next few years, OpenAI is shifting to real-world applications, and robotics will transform with AI integration | Big Technology",
+      "description": "OpenAI's pursuit of AGI promises to revolutionize intellectual tasks and unify AI applications under one framework.\nThe post Greg Brockman: AGI will emerge in the next few years, OpenAI is shifting to real-world applications, and robotics will transform with …",
+      "url": "https://cryptobriefing.com/greg-brockman-agi-will-emerge-in-the-next-few-years-openai-is-shifting-to-real-world-applications-and-robotics-will-transform-with-ai-integration-big-technology",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-07T01:42:04Z"
+    },
+    {
+      "title": "Anthropic inks deal with Google to power Claude with next-gen TPUs",
+      "description": "Anthropic has tonight announced a major deal that will see Google and Broadcom powering Claude through next-generation TPU capacity starting as soon as next year.\n\n\n\n more…",
+      "url": "http://9to5google.com/2026/04/06/anthropic-inks-deal-with-google-to-power-claude-with-next-gen-tpus",
+      "source": "9to5google.com",
+      "publishedAt": "2026-04-07T01:15:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+      "Global AI chip suppliers compete as TSMC remains top foundry partner",
+      "Anthropic inks deal with Google, Broadcom to secure AI chips; tops $30 billion run-rate",
+      "Use of generative AI for health among urban youth in Pakistan: A mixed-methods study",
+      "OpenAI, Anthropic, Google unite to combat model copying in China"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access/articleshow/130073752.cms",
+        "https://www.livemint.com/companies/news/anthropic-inks-deal-with-google-broadcom-to-secure-ai-chips-tops-30-billion-runrate-11775531848751.html",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-anthropic-google-unite-to-combat-model-copying-in-china/articleshow/130073787.cms"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260407PD205/ai-chip-tsmc-chips-nvidia-amd.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/stop-using-claude-as-just-a-chatbot-mcp-changes-everything",
+        "https://prtimes.jp/main/html/rd/p/000000026.000137731.html",
+        "https://prtimes.jp/main/html/rd/p/000000002.000124753.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001353",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/four-day-week-taxes-on-robots-public-wealth-fund-openai-floats-policy-ideas-for-the-intelligence-age/articleshow/130077855.cms",
+        "https://news.ycombinator.com/item?id=47655408"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia acquisition of SchedMD sparks worry among AI specialists about software access. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia acquisition of SchedMD sparks worry among AI specialists about software access. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia acquisition of SchedMD sparks worry among AI specialists about software access. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia acquisition of SchedMD sparks worry among AI specialists about software access. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia acquisition of SchedMD sparks worry among AI specialists about software access. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
