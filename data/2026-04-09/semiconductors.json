@@ -1,0 +1,382 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-09",
+  "last_updated_utc": "2026-04-09T07:15:59.747Z",
+  "news": [
+    {
+      "title": "13-inch M5 MacBook Air 512GB is $66 off",
+      "description": "The refreshed MacBook Air features the M5 chip, bringing next-generation speed and power, allowing you to speed through work and handle graphics-heavy games. The GPU features Neural Accelerators for strong AI performance. The device supports Apple Intelligenc…",
+      "url": "https://www.ilounge.com/news/daily-deals/13-inch-m5-macbook-air-512gb-is-66-off",
+      "source": "iLounge",
+      "publishedAt": "2026-04-08T07:13:21Z"
+    },
+    {
+      "title": "Planet Labs Tests AI-Powered Object Detection On Satellite",
+      "description": "BrianFagioli writes: Artificial intelligence has now run directly on a satellite in orbit. A spacecraft about 500km above Earth captured an image of an airport and then immediately ran an onboard AI model to detect airplanes in the photo. Instead of acting li…",
+      "url": "https://tech.slashdot.org/story/26/04/08/0145220/planet-labs-tests-ai-powered-object-detection-on-satellite",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-08T07:00:00Z"
+    },
+    {
+      "title": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
+      "description": "Shares of Asian tech and semiconductor comoanies surged on the news that the U.S. and Iran agreed to a conditional two-week ceasefire.",
+      "url": "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-08T06:47:47Z"
+    },
+    {
+      "title": "Intelがイーロン・マスクのAIチップ開発プロジェクト「Terafab」に参加を表明",
+      "description": "半導体大手のIntelが、テスラやSpaceXのCEOとして知られるイーロン・マスク氏が提唱するAIチップ開発プロジェクト「Terafab」へ参加することをXへのポストで発表しました。Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.Our ability to design, fabricate, and package ultra-h…",
+      "url": "https://news.livedoor.com/article/detail/30941018",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-08T05:10:00Z"
+    },
+    {
+      "title": "US-China tech clash over chips intensifies ahead of summit, with global supply-chain implications",
+      "description": "As US and Chinese leaders prepared for a mid-May summit, proposed US export controls on semiconductor equipment under the MATCH Act and China's sharp state-media rebuttal signaled heightened tech tensions with far-reaching global supply-chain implications. An…",
+      "url": "https://www.digitimes.com/news/a20260408PD215/equipment-software-wafer.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T05:02:58Z"
+    },
+    {
+      "title": "iPhone 18 Pro & Pro Max Rumors 2026: Variable Aperture Camera, 2nm A20 Chip & Smaller Dynamic Island",
+      "description": "CUPERTINO, Calif. — With roughly five months until Apple's expected September 2026 unveiling, rumors about the iPhone 18 Pro and iPhone 18 Pro Max are intensifying, painting a picture of one of the most significant Pro lineup refreshes in recent years.",
+      "url": "https://www.ibtimes.com.au/iphone-18-pro-pro-max-rumors-2026-variable-aperture-camera-2nm-a20-chip-smaller-dynamic-island-1865750",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-08T05:01:58Z"
+    },
+    {
+      "title": "China's AI and cloud firms step up use of domestic chips",
+      "description": "China's leading AI and cloud companies are shifting toward domestically produced AI chips, a move with global implications for supply chains, technology competition, and cloud services. The trend could reduce demand for foreign semiconductors while accelerati…",
+      "url": "https://www.digitimes.com/news/a20260408PD207/chips-nvidia-semiconductors-demand-policy.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T05:01:10Z"
+    },
+    {
+      "title": "RBI’s monetary policy committee keeps repo rate unchanged at 5.25%",
+      "description": "Policy stance to continue at “neutral” in the wake of risks to inflation and growth arising out of supply chain disruptions from West Asia war",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/mpc-keeps-repo-rate-unchanged-at-525/article70837060.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-08T05:00:50Z"
+    },
+    {
+      "title": "Winning a major Engg challenge",
+      "description": "Maharaja Agrasen Institute of Technology students clinched the Lam Research Challenge in India, a rigorous four-stage competition testing engineering prowess. Nearly 7,000 students from 474 colleges participated. The challenge culminated in a live arena where…",
+      "url": "https://timesofindia.indiatimes.com/technology/times-techies/winning-a-major-engg-challenge/articleshow/130102651.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-08T05:00:46Z"
+    },
+    {
+      "title": "Who Needs ‘Corrosive Intermediaries’ Anyway?",
+      "description": "The programmatic supply chain might not be fixable, but that doesn’t mean publishers shouldn’t try. Especially now, when they’re facing what Danny Spears, COO of publisher alliance Ozone, describes as a “perfect storm” of macro pressure, signal loss and traff…",
+      "url": "http://www.adexchanger.com/adexchanger-talks/who-needs-corrosive-intermediaries-anyway",
+      "source": "AdExchanger",
+      "publishedAt": "2026-04-08T05:00:43Z"
+    },
+    {
+      "title": "Risky Business #832 -- Anthropic unveils magical 0day computer God",
+      "description": "On this week’s show, Patrick Gray, Adam Boileau and James Wilson discuss the week’s cybersecurity news. They cover:\n\n<ul>\n <li>Anthropic’s new Mythos model hunts bugs and chains exploits together so well that… you cant have it…</li>\n <li>…Unless you’re one of…",
+      "url": "https://risky.biz/RB832",
+      "source": "Risky.biz",
+      "publishedAt": "2026-04-08T04:59:38Z"
+    },
+    {
+      "title": "IT rebound, banking bets & global themes: Sandip Agarwal maps the market playbook",
+      "description": "Market expert Sandip Agarwal sees a structural turn in IT stocks driven by a weakening rupee and cooled valuations, expecting significant EPS growth. He also highlights emerging value in the banking sector, while advising caution on EMS and consumption due to…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/it-rebound-banking-bets-global-themes-sandip-agarwal-maps-the-market-playbook/articleshow/130102724.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-08T04:52:28Z"
+    },
+    {
+      "title": "Taiwan warns of Beijing's covert push to poach AI and chip talent",
+      "description": "According to the latest report submitted by Taiwan's National Security Bureau to the Legislative Yuan, China is increasingly targeting Taiwan in an effort to circumvent international technological restrictions. Beijing has set its sights on Taiwan's high-tech…",
+      "url": "https://www.digitimes.com/news/a20260408PD221/taiwan-beijing-ai-talent-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T04:50:35Z"
+    },
+    {
+      "title": "Apple's MacBook Neo's 2027 model will reportedly include the A19 Pro chip and 50% more memory",
+      "description": "Apple is already planning a MacBook Neo refresh in 2027, but the runaway success of the current model is making it difficult to meet the demand.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110923/apples-macbook-neos-2027-model-will-reportedly-include-the-a19-pro-chip-and-50-percent-more-memory/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-08T04:29:02Z"
+    },
+    {
+      "title": "Uber deploys AWS custom chips to scale AI and cut compute costs",
+      "description": "US ride-hailing platform Uber has announced a partnership with Amazon Web Services (AWS) to deploy its in-house custom chips, aiming to improve the speed and efficiency of artificial intelligence (AI) model training and inference. The move is expected to stre…",
+      "url": "https://www.digitimes.com/news/a20260408PD223/uber-aws-chips-partnership-training.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T04:27:58Z"
+    },
+    {
+      "title": "Samsung Electronics Q1 2026 Record Profit $38B: AI Chips Drive Best-Ever Results, Path to Dominance",
+      "description": "SEOUL, South Korea — Samsung Electronics Co. on Tuesday reported the strongest quarterly results in South Korean corporate history, posting a preliminary operating profit of 57.2 trillion won ($37.9 billion) for the first quarter of 2026 — an eye-popping 755%…",
+      "url": "https://www.ibtimes.com.au/samsung-electronics-q1-2026-record-profit-38b-ai-chips-drive-best-ever-results-path-dominance-1865733",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-08T04:25:42Z"
+    },
+    {
+      "title": "Intel 486 Support Likely to be Removed in Linux 7.1",
+      "description": "Although everyone’s favorite Linux overlord [Linus Torvalds] has been musing on dropping Intel 486 support for a while now, it would seem that this time now has finally come. In a Linux patch submitted by [Ingo Molnar] the first concrete step is taken by remo…",
+      "url": "https://www.madshrimps.be/news/intel-486-support-likely-to-be-removed-in-linux-7-1",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:20:45Z"
+    },
+    {
+      "title": "Rumor Tips A19 Pro SoC and 12 GB RAM for Apple MacBook Neo",
+      "description": "The Apple MacBook Neo has been a bit of a shock to system in the laptop world, thanks to its low barrier to entry and surprisingly solid performance for everyday tasks. However, one of the biggest criticisms levelled against the MacBook Neo is its mobile A18 …",
+      "url": "https://www.madshrimps.be/news/rumor-tips-a19-pro-soc-and-12-gb-ram-for-apple-macbook-neo",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:19:17Z"
+    },
+    {
+      "title": "ASUS AMD Radeon RX 9070 XT Prices Jump by 17% in US Stores",
+      "description": "It’s no secret that prices for electronics are skyrocketing across the board, and shortly after it seemed as though there may be some hope on the horizon, it has been revealed by VideoCardz that the ASUS AMD Radeon RX 9070 XT GPUs have seen a significant pric…",
+      "url": "https://www.madshrimps.be/news/asus-amd-radeon-rx-9070-xt-prices-jump-by-17-in-us-stores",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:18:33Z"
+    },
+    {
+      "title": "Apple Silicon MacでGeForce/RadeonでのAI処理が可能に",
+      "description": "If you have a Thunderbolt or USB4 eGPU and a Mac, today is the day you've been waiting for! Apple finally approved our driver for both AMD and NVIDIA. It's so easy to install now a Qwen could do it, then it can run that Qwen...pic.twitter.com/daUsyBHh1W",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2099980.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-04-08T04:17:42Z"
+    },
+    {
+      "title": "The first Snapdragon X2 laptops arrive in the US—here’s what you need to know",
+      "description": "After months of teases, laptops based on Qualcomm’s Snapdragon X2 processors are available in the US — and might be good enough to choose over computers based on AMD, Apple, and Intel chips. ASUS has released the second-generation Zenbook A14 and its first-ev…",
+      "url": "https://www.madshrimps.be/news/the-first-snapdragon-x2-laptops-arrive-in-the-us-heres-what-you-need-to-know",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:17:42Z"
+    },
+    {
+      "title": "Intel gets on board with Musk’s Terafab project",
+      "description": "Intel has announced that it will help Elon Musk design and build his proposed Terafab in Austin, Texas, a joint venture between Musk’s companies like SpaceX, Tesla and xAI to manufacture the chips necessary to power various AI projects. Musk announced Terafab…",
+      "url": "https://www.madshrimps.be/news/intel-gets-on-board-with-musks-terafab-project",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:16:43Z"
+    },
+    {
+      "title": "Apple leverages supply chain advantage to boost market share despite AI lag",
+      "description": "As the industry enters the second quarter of 2026, Apple plans to significantly shift its shipment schedule for iPhones and other consumer electronics, with a base iPhone model possibly debuting early in the quarter. Despite varying views on Apple's AI progre…",
+      "url": "https://www.digitimes.com/news/a20260408PD217/apple-market-share-supply-chain-2026-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T04:08:48Z"
+    },
+    {
+      "title": "27” Samsung Odyssey G5 G50F QHD Resolution Gaming Monitor $229.99 + Free Shipping",
+      "description": "Amazon [amazon.com] has *27\" Samsung Odyssey G5 G50F QHD Resolution Gaming Monitor, 180Hz Refresh Rate, Fast IPS Panel, HDR10, NVIDIA G-Sync Compatible, 1ms Response Time, AMD FreeSync™, Adjustable...",
+      "url": "https://slickdeals.net/f/19395294-27-samsung-odyssey-g5-g50f-qhd-resolution-gaming-monitor-229-99-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-08T04:07:26Z"
+    },
+    {
+      "title": "EU poised to deal blow to UK's EV industry before it even gets going",
+      "description": "The new Nissan Leaf is among the UK's few electric exports at present\n\n\nIndustrial Accelerator Act to lock British-built EVs out of European markets, with \"catastrophic\" consequence\n\nThe UK’s beleaguered car industry is facing a new threat from changing EU ru…",
+      "url": "https://www.autocar.co.uk/car-news/business-electric-vehicles/eu-poised-deal-blow-uks-ev-industry-it-even-gets-going",
+      "source": "Autocar",
+      "publishedAt": "2026-04-08T04:00:00Z"
+    },
+    {
+      "title": "Commentary: US MATCH Act tightens chip tool controls as China builds local supply chain",
+      "description": "At SEMICON China 2026, Applied Materials and ASML kept a low profile under tightening US export controls, while domestic Chinese suppliers dominated visibility and floor presence.",
+      "url": "https://www.digitimes.com/news/a20260408PD214/2026-semicon-china-equipment-applied-materials-asml.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T03:57:27Z"
+    },
+    {
+      "title": "RK3588-Based 3.5-inch SBC Offers 8K Video, PCIe 3.0, and Multi-Display Support",
+      "description": "The AIO-3588Q is an ARM-based motherboard built around the Rockchip RK3588 SoC, aimed at edge computing, industrial control, and multi-display systems. The platform integrates high-resolution video interfaces, networking, and expansion options within a compac…",
+      "url": "https://linuxgizmos.com/rk3588-based-3-5-inch-sbc-offers-8k-video-pcie-3-0-and-multi-display-support",
+      "source": "Linuxgizmos.com",
+      "publishedAt": "2026-04-08T03:53:50Z"
+    },
+    {
+      "title": "Corning to showcase breakthrough tech at Touch Taiwan 2026",
+      "description": "Corning will present materials and connectivity innovations at Touch Taiwan 2026 in support of global AI infrastructure, semiconductor packaging, and consumer electronics supply chains, signaling potential shifts in how data centers, displays, and automotive …",
+      "url": "https://www.digitimes.com/news/a20260408VL201/corning-touch-taiwan-2026-materials-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T03:39:47Z"
+    },
+    {
+      "title": "Warnings trucking businesses, drivers on brink of collapse due to fuel crisis",
+      "description": "An emergency Fair Work Commission hearing in Sydney begins, with unions and employers in the transport industry saying drivers, employees and businesses are on the verge of going under, calling on the top of the supply chain to share the load.",
+      "url": "https://www.abc.net.au/news/2026-04-08/transport-industry-fair-work-commission-fuel-crisis-drivers-help/106540708",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-08T03:31:58Z"
+    },
+    {
+      "title": "Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg)",
+      "description": "Kari Soo Lindberg / Bloomberg:\nSources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs  —  Bain Capital's Bridge Data Centres has removed from its Malaysi…",
+      "url": "https://www.techmeme.com/260407/p58",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-08T03:25:02Z"
+    },
+    {
+      "title": "Re: Axios Supply-Chain Attack [v1.14.1] [0.30.4] --> plain-crypto-js [4.2.0][4.2.1]",
+      "description": "Posted by Solar Designer on Apr 07Hi,\n\nThere's now also \"Post Mortem: axios npm supply chain compromise\", which\nmentions that an elaborate social-engineering attack was used:\n\nhttps://github.com/axios/axios/issues/10636\n\nwith impersonation, a fake Slack works…",
+      "url": "https://seclists.org/oss-sec/2026/q2/44",
+      "source": "Seclists.org",
+      "publishedAt": "2026-04-08T03:17:50Z"
+    },
+    {
+      "title": "An oral history of… Biff, Chip and Kipper",
+      "description": "Illustrator Alex Brychta tells the story of how a lifelong love of drawing led to him co-create the long-running educational children’s book series",
+      "url": "https://www.creativereview.co.uk/an-oral-history-biff-chip-and-kipper-alex-brychta",
+      "source": "Creative Review",
+      "publishedAt": "2026-04-08T02:53:20Z"
+    },
+    {
+      "title": "China's first dedicated supply chain security law raises the compliance stakes",
+      "description": "On March 31, Chinese Premier Li Qiang signed Order No. 834 issued by the State Council, which was officially released on April 7 as the Regulations of the State Council on Industrial Chain and Supply Chain Security (hereinafter referred to as the Regulations)…",
+      "url": "https://www.digitimes.com/news/a20260408PD213/supply-chain-security-industrial-supply-policy.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T02:49:26Z"
+    },
+    {
+      "title": "Rising gallium costs force price increases across GaAs chip supply chain",
+      "description": "Prices for gallium arsenide (GaA) substrates — a key material used in power amplifiers for wireless communications — are rising, driven by surging costs for gallium, a critical upstream metal. After months of sustained increases in raw material prices, indust…",
+      "url": "https://www.digitimes.com/news/a20260408PD212/gallium-gaas-aluminum-materials-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T02:25:53Z"
+    },
+    {
+      "title": "Analysis: ASML earnings preview; SK Hynix and TeraFab already facing EUV capacity difficulties",
+      "description": "Compared to short-term geopolitical turbulence, the AI megatrend represents a once-in-a-generation business opportunity. In the past, TSMC often took the lead during earnings season in releasing industry outlooks. This time, ASML will hold its earnings call f…",
+      "url": "https://www.digitimes.com/news/a20260408PD204/asml-earnings-euv-capacity-sk-hynix-tesla.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T02:11:49Z"
+    },
+    {
+      "title": "Intel 486 Support Likely to be Removed in Linux 7.1",
+      "description": "Although everyone’s favorite Linux overlord [Linus Torvalds] has been musing on dropping Intel 486 support for a while now, it would seem that this time now has finally come. In a Linux patch…",
+      "url": "https://hackaday.com/2026/04/07/intel-486-support-likely-to-be-removed-in-linux-7-1",
+      "source": "Hackaday",
+      "publishedAt": "2026-04-08T02:00:29Z"
+    },
+    {
+      "title": "Intel 'Panther Lake' Core Ultra X9 378H made official, 4P+8E Cores up to 5.0 GHz",
+      "description": "The new chip sits above the Core Ultra X7 368H and below the Ultra X9 388H; surprisingly, it has the same specs as the Ultra X7 368H.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110908/intel-panther-lake-core-ultra-x9-378h-made-official-4p-plus-8e-cores-up-to-5-0-ghz/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-08T00:18:03Z"
+    },
+    {
+      "title": "MBW 1019: Furious, Eloquent, and Unrestrained - The Earth: Shot on iPhone",
+      "description": "New images of the Earth have been captured on an iPhone! AMD & Nvidia eGPU's can work on Apple Silicon Macs! It hasn't been officially announced yet, but the rumored Foldable iPhone could be facing shipment delays. And Apple's App Store saw a 84% jump in new …",
+      "url": "https://twit.tv/shows/macbreak-weekly/episodes/1019",
+      "source": "Twit.tv",
+      "publishedAt": "2026-04-08T00:15:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "13-inch M5 MacBook Air 512GB is $66 off",
+      "Planet Labs Tests AI-Powered Object Detection On Satellite",
+      "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
+      "Intelがイーロン・マスクのAIチップ開発プロジェクト「Terafab」に参加を表明",
+      "US-China tech clash over chips intensifies ahead of summit, with global supply-chain implications"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260408PD215/equipment-software-wafer.html",
+        "https://www.digitimes.com/news/a20260408PD207/chips-nvidia-semiconductors-demand-policy.html",
+        "https://www.thehindubusinessline.com/money-and-banking/mpc-keeps-repo-rate-unchanged-at-525/article70837060.ece"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ilounge.com/news/daily-deals/13-inch-m5-macbook-air-512gb-is-66-off",
+        "https://www.ibtimes.com.au/iphone-18-pro-pro-max-rumors-2026-variable-aperture-camera-2nm-a20-chip-smaller-dynamic-island-1865750",
+        "https://www.digitimes.com/news/a20260408PD221/taiwan-beijing-ai-talent-tsmc.html"
+      ]
+    },
+    {
+      "title": "Apple",
+      "summary": "Grouped stories where \"apple\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/rumor-tips-a19-pro-soc-and-12-gb-ram-for-apple-macbook-neo",
+        "https://pc.watch.impress.co.jp/docs/news/2099980.html",
+        "https://www.madshrimps.be/news/the-first-snapdragon-x2-laptops-arrive-in-the-us-heres-what-you-need-to-know"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://tech.slashdot.org/story/26/04/08/0145220/planet-labs-tests-ai-powered-object-detection-on-satellite",
+        "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
+        "https://news.livedoor.com/article/detail/30941018"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 13-inch M5 MacBook Air 512GB is $66 off. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 13-inch M5 MacBook Air 512GB is $66 off. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 13-inch M5 MacBook Air 512GB is $66 off. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 13-inch M5 MacBook Air 512GB is $66 off. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: 13-inch M5 MacBook Air 512GB is $66 off. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

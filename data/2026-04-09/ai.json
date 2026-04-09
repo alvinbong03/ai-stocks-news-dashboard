@@ -1,0 +1,238 @@
+{
+  "theme": "ai",
+  "date": "2026-04-09",
+  "last_updated_utc": "2026-04-09T07:15:41.031Z",
+  "news": [
+    {
+      "title": "Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg)",
+      "description": "Kari Soo Lindberg / Bloomberg:\nSources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs  —  Bain Capital's Bridge Data Centres has removed from its Malaysi…",
+      "url": "https://www.techmeme.com/260407/p58",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-08T03:25:02Z"
+    },
+    {
+      "title": "Copilot Is 'For Entertainment Only' — What Claude, ChatGPT, and Gemini Say in Their Fine Print",
+      "description": "Microsoft's ToS calls Copilot 'entertainment only.' We read all 4 AI tools' terms. Here's what each company actually promises — and disclaims.",
+      "url": "https://findskill.ai/blog/copilot-entertainment-only",
+      "source": "Findskill.ai",
+      "publishedAt": "2026-04-08T02:35:38Z"
+    },
+    {
+      "title": "Claude AI Down Again April 8 2026: Anthropic Outage Hits Users After Yesterday's Major Incident",
+      "description": "SAN FRANCISCO — Anthropic's popular AI chatbot Claude is experiencing renewed connectivity issues Wednesday, April 8, 2026, with hundreds of users reporting login failures, chat errors and degraded performance less than 24 hours after the company resolved a \"…",
+      "url": "https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-08T06:59:00Z"
+    },
+    {
+      "title": "What is Claude Mythos, and why is Anthropic limiting its rollout?",
+      "description": "The decision also highlights a broader dilemma confronting the AI sector: the same systems that can strengthen digital defences can also become powerful tools for hackers",
+      "url": "https://indianexpress.com/article/explained/explained-sci-tech/anthropic-claude-mythos-ai-cybersecurity-risk-10625159",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-08T06:48:48Z"
+    },
+    {
+      "title": "Anthropic's Claude Mythos AI has discovered thousands of vulnerabilities in every OS and browser",
+      "description": "Anthropic's Claude Mythos AI model is reportedly too powerful and dangerous to release, as it poses a real threat to cybersecurity.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110926/anthropics-claude-mythos-ai-has-discovered-thousands-of-vulnerabilities-in-every-os-and-browser/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-08T06:26:03Z"
+    },
+    {
+      "title": "Anthropic ropes in Microsoft executive Eric Boyd to lead infrastructure",
+      "description": "Anthropic has hired former Microsoft executive Eric Boyd to lead its infrastructure team as demand for its AI tools grows. The company’s revenue has surged, driven by products like Claude Code. However, rising usage has strained services, prompting major inve…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ropes-in-microsoft-executive-eric-boyd-to-lead-infrastructure/articleshow/130102051.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-08T05:28:52Z"
+    },
+    {
+      "title": "Anthropic claims new AI model Mythos is cyber security ‘reckoning’",
+      "description": "The Claude Mythos Preview model will be restricted to more than 40 partners.",
+      "url": "https://www.nzherald.co.nz/business/anthropic-claims-new-ai-model-mythos-is-cyber-security-reckoning/premium/WDWCBYZKZJDNHNTB4MJ2S3OXAI",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-04-08T04:10:02Z"
+    },
+    {
+      "title": "How do I integrate OpenAI or Azure OpenAI API with a C# .NET 9 application",
+      "description": "Integrate OpenAI & Azure OpenAI APIs into your C# .NET 9 application. This guide covers setup, secure API key management, and building AI-powered features. Unlock text generation, summarization, and more!",
+      "url": "https://www.c-sharpcorner.com/article/how-do-i-integrate-openai-or-azure-openai-api-with-a-c-sharp-net-9-application",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-08T06:11:13Z"
+    },
+    {
+      "title": "Anthropic launches Project Glasswing to test advanced AI for cybersecurity",
+      "description": "Anthropic has launched Project Glasswing, a cybersecurity initiative that brings together major tech firms to test a powerful, unreleased AI model capable of identifying and addressing software vulnerabilities at scale, amid rising concerns over AI-driven cyb…",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-08T06:09:46Z"
+    },
+    {
+      "title": "Anthropic launches Project Glasswing to fend cyber threats with new Mythos model",
+      "description": "Anthropic has launched a new cybersecurity initiative, Project Glasswing, giving select technology partners early access to a powerful yet-to-be-released AI model as concerns grow over AI-driven cyberattacks. According to Bloomberg, the program is designed to…",
+      "url": "https://www.digitimes.com/news/a20260408VL203/anthropic-cybersecurity-bloomberg-software-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-08T06:00:00Z"
+    },
+    {
+      "title": "Anthropic launches Project Glasswing, an effort to prevent AI cyberattacks with AI - Engadget",
+      "description": "Anthropic launches Project Glasswing, an effort to prevent AI cyberattacks with AIEngadget Project Glasswing: Securing critical software for the AI eraAnthropic Opinion | Anthropic’s Restraint Is a Terrifying Warning SignThe New York Times Anthropic’s latest …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181410502",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-08T05:32:35Z"
+    },
+    {
+      "title": "EPG Adds Over US$100 Million in Series B+ Financing, Expanding Strategic Backing for Global AI Data Center Growth",
+      "description": "EPG has closed over US$100 million in Series B+ financing led by Decarbonization Partners, a joint venture between BlackRock and Temasek, Alibaba Cloud, and ...",
+      "url": "https://en.antaranews.com/news/411595/epg-adds-over-us100-million-in-series-b-financing-expanding-strategic-backing-for-global-ai-data-center-growth",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-04-08T04:38:00Z"
+    },
+    {
+      "title": "Generative AI improves a wireless vision system that sees through obstructions",
+      "description": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
+      "url": "https://robohub.org/generative-ai-improves-a-wireless-vision-system-that-sees-through-obstructions",
+      "source": "Robohub.org",
+      "publishedAt": "2026-04-08T04:32:10Z"
+    },
+    {
+      "title": "Anthropic limits access to AI model, fearing future of cyberattacks",
+      "description": "AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities, Anthropic said.",
+      "url": "https://cointelegraph.com/news/claude-mythos-finds-thousands-of-zero-day-os-and-browser-vulnerabilities",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-08T04:30:59Z"
+    },
+    {
+      "title": "Elon Musk wants any damages from his OpenAI lawsuit given to the AI company’s nonprofit arm",
+      "description": "Elon Musk is still taking OpenAI to court over its transition to a for-profit company, but today he amended the complaint so that he won’t personally get any of the $150 billion in damages he’s pushing for. The Wall Street Journal reported that if Musk wins i…",
+      "url": "https://www.madshrimps.be/news/elon-musk-wants-any-damages-from-his-openai-lawsuit-given-to-the-ai-companys-nonprofit-arm",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-08T04:20:05Z"
+    },
+    {
+      "title": "Show HN: Silkwave Voice – AI Notetaker Using Apple Intelligence's ChatGPT",
+      "description": "AI transcription app for macOS. Record and transcribe meetings, lectures, and podcasts in 10+ languages with on-device Apple Intelligence.",
+      "url": "https://www.silkwave.ai/silkwave-voice",
+      "source": "Silkwave.ai",
+      "publishedAt": "2026-04-08T03:41:55Z"
+    },
+    {
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative - TechCrunch",
+      "description": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiativeTechCrunch Project Glasswing: Securing critical software for the AI eraAnthropic Anthropic’s New Model Is So Scarily Powerful It Won’t Be Released, Anthropic SaysGizmodo O…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181408260",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-08T03:12:30Z"
+    },
+    {
+      "title": "JVNDB-2026-010236:unwind aiのawesome-llm-appsにおける複数の脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-010236_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-08T01:55:05Z"
+    },
+    {
+      "title": "Anthropic touts AI cybersecurity project with Big Tech partners - Reuters",
+      "description": "Anthropic touts AI cybersecurity project with Big Tech partnersReuters Project Glasswing: Securing critical software for the AI eraAnthropic Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’The New York Times Anthropic Lets Apple, Am…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181406088",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-08T00:32:49Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg)",
+      "Copilot Is 'For Entertainment Only' — What Claude, ChatGPT, and Gemini Say in Their Fine Print",
+      "Claude AI Down Again April 8 2026: Anthropic Outage Hits Users After Yesterday's Major Incident",
+      "What is Claude Mythos, and why is Anthropic limiting its rollout?",
+      "Anthropic's Claude Mythos AI has discovered thousands of vulnerabilities in every OS and browser"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/claude-ai-down-again-april-8-2026-anthropic-outage-hits-users-after-yesterdays-major-incident-1865761",
+        "https://indianexpress.com/article/explained/explained-sci-tech/anthropic-claude-mythos-ai-cybersecurity-risk-10625159",
+        "https://www.tweaktown.com/news/110926/anthropics-claude-mythos-ai-has-discovered-thousands-of-vulnerabilities-in-every-os-and-browser/index.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://findskill.ai/blog/copilot-entertainment-only"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techmeme.com/260407/p58",
+        "https://www.c-sharpcorner.com/article/how-do-i-integrate-openai-or-azure-openai-api-with-a-c-sharp-net-9-application",
+        "https://en.antaranews.com/news/411595/epg-adds-over-us100-million-in-series-b-financing-expanding-strategic-backing-for-global-ai-data-center-growth"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg). Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg). Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg). Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg). Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg). Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
