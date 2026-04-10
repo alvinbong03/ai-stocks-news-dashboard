@@ -1,0 +1,291 @@
+{
+  "theme": "ai",
+  "date": "2026-04-10",
+  "last_updated_utc": "2026-04-10T07:20:48.405Z",
+  "news": [
+    {
+      "title": "Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots",
+      "description": "Large language models (LLMs) have demonstrated three surprising capabilities in recent years: generalization—providing reasonable answers to unseen questions; multitasking—handling programming, translation, financial analysis, and legal interpretation within …",
+      "url": "https://www.digitimes.com/news/a20260409PD201/robot-edge-ai-automation-chatgpt.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-09T07:04:31Z"
+    },
+    {
+      "title": "CPU vs GPU vs TPU vs LPU - AI Brains",
+      "description": "Explore the AI processor landscape: CPUs for control, GPUs for parallel power, TPUs for tensor mastery, and LPUs for ultra-fast language inference. Discover the best fit!",
+      "url": "https://www.c-sharpcorner.com/article/cpu-vs-gpu-vs-tpu-vs-lpu-ai-brains",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-09T07:18:43Z"
+    },
+    {
+      "title": "ChipX targets AI data center market with photonics, power chips ahead of Malaysia fab",
+      "description": "Semiconductor startup ChipX is moving to commercialize silicon photonics and high-voltage power chip technologies for artificial intelligence (AI) data centers, as it advances plans to build a wafer fabrication facility in Malaysia, executives said in an excl…",
+      "url": "https://www.digitimes.com/news/a20260408VL214/photonics-startup-fab-data-center-silicon.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-09T02:26:34Z"
+    },
+    {
+      "title": "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+      "description": "A federal appeals court on Wednesday refused to block the Pentagon from blacklisting artificial intelligence laboratory Anthropic in a decision that differed from the conclusions reached in another judge’s ruling on the same issues.. The U.S. Court of Appeals…",
+      "url": "https://www.seattlepi.com/business/article/appeals-court-rebuffs-anthropic-in-latest-round-22196664.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-04-09T00:41:16Z"
+    },
+    {
+      "title": "Artificial Intelligence (AI) in Football: How Technology is Revolutionizing Tactical Analysis and Injury Prevention",
+      "description": "Discover how AI in football is changing tactical analysis with advanced data models and preventing injuries through workload and biomechanical monitoring.\n\nRead More: https://punchng.com/artificial-intelligence-ai-in-football-how-technology-is-revolutionizing…",
+      "url": "https://punchng.com/artificial-intelligence-ai-in-football-how-technology-is-revolutionizing-tactical-analysis-and-injury-prevention",
+      "source": "The Punch",
+      "publishedAt": "2026-04-09T07:06:57Z"
+    },
+    {
+      "title": "Show HN: Artificial Intelligence Squared – LLMs Debate Each Other",
+      "description": "I built this fun benchmark to pitch LLM models against each other in Oxford-style debate.The format is inspired by Intelligence Squared. The side who flips most votes win.\n\nComments URL: https://news.ycombinator.com/item?id=47700187\nPoints: 1\n# Comments: 0",
+      "url": "https://ai-squared.vercel.app/",
+      "source": "Vercel.app",
+      "publishedAt": "2026-04-09T06:56:26Z"
+    },
+    {
+      "title": "Prediction: This Trillion-Dollar AI Titan Will Outperform Nvidia Through the End of 2027",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4107e5f2-f2a6-4b4c-a2c6-636b135a7c46",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-09T06:45:00Z"
+    },
+    {
+      "title": "Why Claude Code’s Plan Mode is a Game-Changer for First-Time Developers",
+      "description": "Claude Code offers an accessible entry point for beginners looking to explore digital development without prior programming experience. As demonstrated by Corbin, this AI-driven platform simplifies complex tasks like app creation, data analysis and landing pa…",
+      "url": "https://www.geeky-gadgets.com/claude-code-beginners",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-09T06:45:00Z"
+    },
+    {
+      "title": "Chenbro Micom sees AI-driven hardware surge bolstering global data center deployments",
+      "description": "Chenbro Micom's strong March and first-quarter 2026 results underscore accelerating global demand for data center hardware driven by end-user AI, suggesting broader supply-chain and infrastructure implications for cloud providers, enterprises, and regional pr…",
+      "url": "https://www.digitimes.com/news/a20260409PD239/chenbro-hardware-data-center-demand-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-09T05:56:10Z"
+    },
+    {
+      "title": "Workday exec trades CTO title for 'member of technical staff' role at Anthropic",
+      "description": "Some high-level employees are ditching their posts at large outfits to take on the blurrier title of \"member of technical staff\" at frontier AI labs.",
+      "url": "https://www.businessinsider.com/workday-cto-trades-title-member-of-technical-staff-anthropic-openai-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-09T05:54:14Z"
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf] | Hacker News",
+      "description": "Anthropic has a new model aimed at replacing Opus. IIUC, one of its goals is generating code that is more secure. But also, according to the HN thread, it shows a huge advance on many benchmarks.",
+      "url": "https://news.ycombinator.com/item?id=47679258",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-09T05:47:01Z"
+    },
+    {
+      "title": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says",
+      "description": "Google DeepMind CEO Demis Hassabis shared how his AI lab has caught up with its rivals in the last two to three years.",
+      "url": "https://www.businessinsider.com/google-deepmind-accelerated-faster-by-acting-like-startup-demis-hassabis-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-09T05:19:45Z"
+    },
+    {
+      "title": "Anthropic Touts AI Cybersecurity Project With Big Tech Partners",
+      "description": "Anthropic announced an initiative with major technology companies, including Amazon.com, Microsoft and Apple, that lets partners preview an advanced model with cybersecurity capabilities developed by the AI startup. Under its “Project Glasswing,” select organ…",
+      "url": "https://www.insurancejournal.com/news/national/2026/04/09/865062.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-04-09T05:15:10Z"
+    },
+    {
+      "title": "Artificial intelligence report should be wake-up call for Coalition",
+      "description": "AI is coming for Ireland’s workforce and that will have huge implications for the country’s future",
+      "url": "https://www.irishtimes.com/business/2026/04/09/ai-report-should-be-a-wake-up-call-for-government",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-09T05:00:01Z"
+    },
+    {
+      "title": "OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing via @sejournal, @MattGSouthern",
+      "description": "Akamai breaks down which AI bots are hitting publishing, who operates them, and why fetcher bots may pose a more immediate risk.\nThe post OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-04-09T04:20:50Z"
+    },
+    {
+      "title": "10 Generative AI Companies Leading Real Business Results in 2026",
+      "description": "Most generative AI projects don’t fail from bad tech, they fail from the wrong partner, and here’s where it goes wrong.\nThe post 10 Generative AI Companies Leading Real Business Results in 2026 appeared first on Addicted 2 Success.",
+      "url": "https://addicted2success.com/scale-your-business/generative-ai-development-companies-2026",
+      "source": "Addicted2success.com",
+      "publishedAt": "2026-04-09T04:16:36Z"
+    },
+    {
+      "title": "Ex-Google DeepMind and Databricks Engineers Launch Pomo to Apply AI Agent Principles to Decision-Dense Marketing Functions",
+      "description": "Ex-Google DeepMind and Databricks Engineers Launch Pomo to Apply AI Agent Principles to Decision-Dense Marketing Functionsmymotherlode.com",
+      "url": "http://money.mymotherlode.com/clarkebroadcasting.mymotherlode/article/bizwire-2026-4-8-ex-google-deepmind-and-databricks-engineers-launch-pomo-to-apply-ai-agent-principles-to-decision-dense-marketing-functions",
+      "source": "MyMotherLode.com",
+      "publishedAt": "2026-04-09T03:51:38Z"
+    },
+    {
+      "title": "Musk sues to oust OpenAI CEO",
+      "description": "Elon Musk wants OpenAI CEO Sam Altman ousted in his lawsuit against the artificial intelligence firm, according to court filings Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/637769-musk-lawsuit-openai-altman",
+      "source": "RT",
+      "publishedAt": "2026-04-09T01:51:05Z"
+    },
+    {
+      "title": "ChatGPTだけはもう古い！?AIエージェント導入で丸投げできた業務ランキング",
+      "description": "[株式会社AIスキル]\n[画像1: https://prcdn.freetls.fastly.net/release_image/158927/11/158927-11-ed00009cc84a992763e0b309d5e3692b-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000158927.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-09T01:40:39Z"
+    },
+    {
+      "title": "Whisper × Claude APIで面接官AIを構築。音声からエンジニア特化5軸採点を実現する技術フローを公開",
+      "description": "[X-HACK]\n[画像: https://prcdn.freetls.fastly.net/release_image/36760/13/36760-13-6474d901f5db4976269e1af5b9a93575-2528x1686.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000036760.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-09T01:00:00Z"
+    },
+    {
+      "title": "Nvidia demo highlights China's role in humanoid robot hardware",
+      "description": "Nvidia, Google, and Tesla are driving the humanoid robotics race, but competition is shifting to the hardware supply chain. The US leads in AI models and advanced chips, while China's manufacturing ecosystem is becoming central to global humanoid robot produc…",
+      "url": "https://www.digitimes.com/news/a20260408PD226/china-humanoid-robot-hardware-nvidia-tesla.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-09T00:56:51Z"
+    },
+    {
+      "title": "AI chip demand tightens ABF substrate supply, three-year upcycle in sight",
+      "description": "As AI CPUs, GPUs, and application-specific integrated circuits (ASICs) advance to new generations, they are driving a sharp increase in both substrate size and layer counts. Simultaneously, supply constraints across upstream materials — including glass fiber …",
+      "url": "https://www.digitimes.com/news/a20260408PD220/demand-substrate-capacity-2026-ic-substrate.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-09T00:54:40Z"
+    },
+    {
+      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+      "description": "A federal appeals court in Washington, D.C., on Wednesday denied Anthropic’s request to temporarily block the Department of Defense’s blacklisting of the artificial intelligence company as a lawsuit challenging that sanction plays out. The ruling comes after …",
+      "url": "https://freerepublic.com/focus/f-news/4374166/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-09T00:33:35Z"
+    },
+    {
+      "title": "Nine companies clear IndiaAI GPU tender-4 tech stage amid costs woes",
+      "description": "According to Government e-Marketplace (GeM) tender status data, the qualified bidders include Paradigmit Technology Services, Tata Communications, RackBank Datacenters, Netmagic IT Services, E2E Networks, Yotta Data Services, Cyfuture India, Sify Digital Serv…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nine-companies-clear-indiaai-gpu-tender-4-tech-stage-amid-costs-woes/articleshow/130120580.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-09T00:30:00Z"
+    },
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "description": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instru…",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T00:06:12Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots",
+      "CPU vs GPU vs TPU vs LPU - AI Brains",
+      "ChipX targets AI data center market with photonics, power chips ahead of Malaysia fab",
+      "Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration",
+      "Artificial Intelligence (AI) in Football: How Technology is Revolutionizing Tactical Analysis and Injury Prevention"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260408VL214/photonics-startup-fab-data-center-silicon.html",
+        "https://www.seattlepi.com/business/article/appeals-court-rebuffs-anthropic-in-latest-round-22196664.php",
+        "https://punchng.com/artificial-intelligence-ai-in-football-how-technology-is-revolutionizing-tactical-analysis-and-injury-prevention"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/claude-code-beginners",
+        "https://www.digitimes.com/news/a20260409PD239/chenbro-hardware-data-center-demand-2026.html",
+        "https://economictimes.indiatimes.com/tech/technology/nine-companies-clear-indiaai-gpu-tender-4-tech-stage-amid-costs-woes/articleshow/130120580.cms"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/workday-cto-trades-title-member-of-technical-staff-anthropic-openai-2026-4",
+        "https://news.ycombinator.com/item?id=47679258",
+        "https://www.insurancejournal.com/news/national/2026/04/09/865062.htm"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260409PD201/robot-edge-ai-automation-chatgpt.html",
+        "https://www.c-sharpcorner.com/article/cpu-vs-gpu-vs-tpu-vs-lpu-ai-brains",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4107e5f2-f2a6-4b4c-a2c6-636b135a7c46"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Column: Embodied AI reshapes real-world automation marks ChatGPT moment for robots. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
