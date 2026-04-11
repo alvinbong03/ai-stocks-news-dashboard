@@ -1,0 +1,182 @@
+{
+  "theme": "ai",
+  "date": "2026-04-11",
+  "last_updated_utc": "2026-04-11T06:55:51.687Z",
+  "news": [
+    {
+      "title": "ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude",
+      "description": "OpenAI has announced a cheaper ChatGPT Pro plan that costs 50% less than before and is designed for heavy users.",
+      "url": "https://www.androidauthority.com/chatgpt-100-dollar-pro-plan-3656464",
+      "source": "Android Authority",
+      "publishedAt": "2026-04-10T06:53:07Z"
+    },
+    {
+      "title": "OpenAI has a new $100 ChatGPT Pro plan to better match up with Claude",
+      "description": "OpenAI has closed a yawning gap in its ChatGPT subscription pricing with a new $100 per month Pro plan that slots between the $20 per month Plus plan and $200 per month Pro plan. Offering five times more Codex than the $20 option, it appears designed to chall…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181516894",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-10T06:32:28Z"
+    },
+    {
+      "title": "China AI Firm Discloses $92 Million of Banned Nvidia Chip Servers to Beijing",
+      "description": "Hours after the United States charged a Super Micro Computer Inc. co-founder with illegally smuggling billions of dollars’ worth of Nvidia Corp. AI chips to China, shares of a little-known Shenzhen-based computing company plummeted by the daily limit of 20%.",
+      "url": "https://financialpost.com/pmn/business-pmn/china-ai-firm-discloses-92-million-of-banned-nvidia-chip-servers-to-beijing",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-10T06:15:46Z"
+    },
+    {
+      "title": "Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks - Financial Times",
+      "description": "Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risksFinancial Times Project Glasswing: Securing critical software for the AI eraAnthropic Claude Mythos Preview Is Everyone’s ProblemThe Atlantic Anthropic’s powerful new AI model raises…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181516066",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-10T05:52:36Z"
+    },
+    {
+      "title": "AI需要が爆発的に増加も計算能力が制約に、大規模に投資していたOpenAIが巻き返しをはかる",
+      "description": "OpenAIが株主に宛てた手紙の中で、「大規模に計算資源に投資していたOpenAIが長期的には勝利する」と訴えていることが明らかになりました。Exclusive: OpenAI Highlights Massive Compute Advantage Over Anthropic to Investorshttps://taekim.substack.com/p/exclusive-openai-highlights-massiveOpenAI slams Anthropic in memo to shareho…",
+      "url": "https://news.livedoor.com/article/detail/30961304",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-10T05:50:00Z"
+    },
+    {
+      "title": "Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs - Bloomberg.com",
+      "description": "Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOsBloomberg.com Project Glasswing: Securing critical software for the AI eraAnthropic Bessent, Powell warned bank CEOs about Anthropic model risks, sources sayYahoo Finance Claude Mythos Pr…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181514750",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-10T04:52:51Z"
+    },
+    {
+      "title": "OpenAI has quietly launched its ads manager as it races to build out its ads business",
+      "description": "The AI platform quietly launched its ads manager within its ChatGPT ads pilot advertisers last week, and also lowered the barrier to joining the test.",
+      "url": "http://digiday.com/marketing/openai-has-quietly-launched-its-ads-manager-as-it-races-to-build-out-its-ads-business",
+      "source": "Digiday",
+      "publishedAt": "2026-04-10T04:01:00Z"
+    },
+    {
+      "title": "Anthropic reportedly explores in-house chip design amid rapid revenue growth and evolving AI compute stack",
+      "description": "Anthropic is exploring the possibility of designing its own AI chips, though the effort remains at a very early stage, Reuters reported, citing three sources familiar with the matter. \"The plans are in early stages, and the company may still decide only to bu…",
+      "url": "https://www.digitimes.com/news/a20260410VL208/anthropic-ic-design-chips-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-10T02:48:01Z"
+    },
+    {
+      "title": "Claude Cowork : Completely Automate Your Recurring Workflows",
+      "description": "Claude Cowork is reshaping how professionals approach complex workflows, offering a suite of features designed to enhance efficiency and reduce manual effort. In a detailed breakdown by Zinho Automates, the overview explores how this AI-powered system simplif…",
+      "url": "https://www.geeky-gadgets.com/claude-cowork-tutorial-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-10T06:49:00Z"
+    },
+    {
+      "title": "Former DeepMind researchers bet on visual AI with new startup",
+      "description": "Andrew Dai has launched Elorian, a startup aiming to improve AI’s ability to understand and reason about visual information. Backed by major investors, the company is developing specialized models to support real-world applications like robotics and design, a…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/former-deepmind-researchers-bet-on-visual-ai-with-new-startup/articleshow/130159486.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-10T04:41:41Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude",
+      "OpenAI has a new $100 ChatGPT Pro plan to better match up with Claude",
+      "China AI Firm Discloses $92 Million of Banned Nvidia Chip Servers to Beijing",
+      "Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks - Financial Times",
+      "AI需要が爆発的に増加も計算能力が制約に、大規模に投資していたOpenAIが巻き返しをはかる"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidauthority.com/chatgpt-100-dollar-pro-plan-3656464",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181516066",
+        "https://news.livedoor.com/article/detail/30961304"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181516894",
+        "https://www.geeky-gadgets.com/claude-cowork-tutorial-2"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://digiday.com/marketing/openai-has-quietly-launched-its-ads-manager-as-it-races-to-build-out-its-ads-business"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://financialpost.com/pmn/business-pmn/china-ai-firm-discloses-92-million-of-banned-nvidia-chip-servers-to-beijing",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/former-deepmind-researchers-bet-on-visual-ai-with-new-startup/articleshow/130159486.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
