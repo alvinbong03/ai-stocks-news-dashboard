@@ -1,0 +1,261 @@
+{
+  "theme": "ai",
+  "date": "2026-04-12",
+  "last_updated_utc": "2026-04-12T07:08:10.128Z",
+  "news": [
+    {
+      "title": "OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained",
+      "description": "OpenAI’s latest advancements, as highlighted by Universe of AI, showcase a growing emphasis on security and integrated functionality in artificial intelligence. Among these developments is the MYTHOS model, a restricted AI system designed exclusively for cybe…",
+      "url": "https://www.geeky-gadgets.com/openai-mythos-model",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-11T06:00:00Z"
+    },
+    {
+      "title": "Dylan Patel: Tech companies prioritize long-term capex for future infrastructure, Anthropic’s scaling challenges contrast with OpenAI’s aggressive strategy, and GPU depreciation cycles may exceed five years | Dwarkesh",
+      "description": "AI labs face rising costs and strategic shifts as they compete for limited compute resources.\nThe post Dylan Patel: Tech companies prioritize long-term capex for future infrastructure, Anthropic’s scaling challenges contrast with OpenAI’s aggressive strategy,…",
+      "url": "https://cryptobriefing.com/dylan-patel-tech-companies-prioritize-long-term-capex-for-future-infrastructure-anthropics-scaling-challenges-contrast-with-openais-aggressive-strategy-and-gpu-depreciation-cycles-may-exceed-fi",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-11T03:38:03Z"
+    },
+    {
+      "title": "Former OpenAI Stargate leaders plan to join Meta Platforms",
+      "description": "Three key players in OpenAI’s massive effort to set up hundreds of billions of dollars’ worth of artificial intelligence data center capacity are joining Meta Platforms. Peter Hoeschele, who played a critical role in OpenAI’s Stargate initiative, is one of th…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/former-openai-stargate-leaders-plan-to-join-meta-platforms/articleshow/130184933.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T05:14:33Z"
+    },
+    {
+      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
+      "description": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-04-11T02:08:16Z"
+    },
+    {
+      "title": "OpenAI pauses Stargate UK, energy costs and regulation stall AI data centre plans",
+      "description": "OpenAI has put its Stargate UK project on hold, citing high energy costs and regulatory uncertainty, in a setback for the UK's ambitions to position itself as a global artificial intelligence hub.",
+      "url": "https://www.digitimes.com/news/a20260410PD227/uk-openai-data-regulation-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-11T00:14:11Z"
+    },
+    {
+      "title": "OpenAI Launches $100 Pro Subscription Tier Between Plus and the $200 Plan",
+      "description": "OpenAI has launched a new $100 per month Pro subscription for ChatGPT, creating a middle option between the existing $20 Plus and $200 plans.\nThank you for being a Ghacks reader. The post OpenAI Launches $100 Pro Subscription Tier Between Plus and the $200 Pl…",
+      "url": "https://www.ghacks.net/2026/04/11/openai-launches-100-pro-subscription-tier-between-plus-and-the-200-plan",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-04-11T06:58:08Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman issues 'ring of power' warning on AGI",
+      "description": "Sam Altman said the race to develop artificial general intelligence (AGI) is driving intense competition and conflict among AI companies in a bid to seize control, adding that AGI carries significant societal risks and must not be controlled by a small group …",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ceo-sam-altman-issues-ring-of-power-warning-on-agi/articleshow/130185805.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T06:11:43Z"
+    },
+    {
+      "title": "Blackstone eyes $2B IPO as data center demand surges - Inspirepreneur Magazine",
+      "description": "Blackstone data center IPO seeks $2 billion as AI and cloud demand drive global infrastructure investment growth trends",
+      "url": "https://inspirepreneurmagazine.com/business/blackstone-data-center-ipo-ai-demand",
+      "source": "Inspirepreneurmagazine.com",
+      "publishedAt": "2026-04-11T04:37:44Z"
+    },
+    {
+      "title": "Claude 現在可以在 Microsoft Word 裡幫你審文件，所有修改以追蹤修訂呈現",
+      "description": "Anthropic 發布 Claude for Word 增益集，供 Team 與 Enterprise 方案測試。",
+      "url": "https://www.inside.com.tw/article/41050-claude-now-reviews-your-microsoft-word-documents-all-edits-shown-as-track-changes",
+      "source": "Inside.com.tw",
+      "publishedAt": "2026-04-11T03:47:00Z"
+    },
+    {
+      "title": "Show HN: Lmscan – Detect AI text and fingerprint which LLM wrote it (zero deps)",
+      "description": " Detect AI-generated text and fingerprint which LLM wrote it. Open-source GPTZero alternative. Zero dependencies, works offline. - stef41/lmscan",
+      "url": "https://github.com/stef41/lmscan",
+      "source": "Github.com",
+      "publishedAt": "2026-04-11T03:22:23Z"
+    },
+    {
+      "title": "Director confirms Phantom Blade Zero uses zero generative AI",
+      "description": "S-Game CEO and Phantom Blade Zero director Liang says the studio has used zero generative AI, insisting every asset from character models and performances to maps and environments was created by human artists. Ahead of the game’s September 9, 2026, launch, he…",
+      "url": "https://www.notebookcheck.net/Director-confirms-Phantom-Blade-Zero-uses-zero-generative-AI.1271414.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-04-11T02:35:00Z"
+    },
+    {
+      "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution",
+      "description": "OpenAI is asking users of its Mac software to update to the latest releases from today “out of an abundance of caution.” This is due to a security issue with a third-party developer tool, Axios, that was used by OpenAI.\n\n\n\n more…",
+      "url": "https://9to5mac.com/2026/04/10/openai-says-to-update-mac-apps-including-chatgpt-and-codex-as-security-precaution",
+      "source": "9to5Mac",
+      "publishedAt": "2026-04-11T02:11:37Z"
+    },
+    {
+      "title": "Sam Altman's home hit by Molotov cocktail, OpenAI CEO shares rare family photo in first reaction — ‘We try to be…’",
+      "description": "San Francisco police arrested a 20-year-old man for allegedly throwing a Molotov cocktail at Sam Altman's home in the city and for making threats outside the artificial intelligence startup's headquarters, OpenAI said on Friday.",
+      "url": "https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-11T02:04:53Z"
+    },
+    {
+      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
+      "description": "April 10 : OpenAI said on Friday it had identified a security issue involving a third-party developer tool called Axios and is taking steps to protect the process that certifies its macOS applications are legitimate OpenAI apps.The ChatGPT maker said it found…",
+      "url": "https://www.channelnewsasia.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed-6050276",
+      "source": "CNA",
+      "publishedAt": "2026-04-11T02:04:34Z"
+    },
+    {
+      "title": "OpenAI warns macOS users to update ChatGPT and Codex apps after Axios supply cha",
+      "description": "OpenAI says Mac users should update its desktop apps after a supply chain incident involving the Axios developer library briefly touched part of its macOS app signing pipeline. The company says thereâ(TM)s no evidence that user data was accessed, its systems …",
+      "url": "https://slashdot.org/submission/17346390/openai-warns-macos-users-to-update-chatgpt-and-codex-apps-after-axios-supply-cha",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-11T01:55:47Z"
+    },
+    {
+      "title": "Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+      "description": "San ​Francisco police arrested a person ​for allegedly throwing a Molotov cocktail at OpenAI ​CEO Sam Altman's home and for making threats outside the artificial intelligence startup's headquarters, the company said on Friday.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130182837.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T01:46:01Z"
+    },
+    {
+      "title": "Molotov thrown at Sam Altman’s home; OpenAI CEO raises concerns",
+      "description": "Altman has linked the incident to rising tensions around AI, public narratives about his role, and a recent critical article about him. Saying that the fear and anxiety about AI is justified, he called for a policy initiative to lead the AI transition in soci…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home/articleshow/130185766.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T01:46:01Z"
+    },
+    {
+      "title": "CoreWeave strikes AI cloud deal with Anthropic, shares rise",
+      "description": "April 10 (Reuters) – Cloud infrastructure firm CoreWeave said on Friday it has struck a deal with Anthropic to supply the AI startup with cloud computing capacity, sending its shares up more than 5% in premarket trading. The multi-year agreement, whose financ…",
+      "url": "https://www.regionalmedianews.com/news/national/business/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise",
+      "source": "Regionalmedianews.com",
+      "publishedAt": "2026-04-11T01:01:33Z"
+    },
+    {
+      "title": "I matched the upgraded Meta AI against ChatGPT, and you can really tell which AI has social media roots",
+      "description": "Meta AI adding the Muse Spark model makes for an AI similar to a social media influencer compared to ChatGPT",
+      "url": "https://www.techradar.com/ai-platforms-assistants/i-matched-the-upgraded-meta-ai-against-chatgpt-and-you-can-really-tell-which-ai-has-social-media-roots",
+      "source": "TechRadar",
+      "publishedAt": "2026-04-11T00:00:00Z"
+    },
+    {
+      "title": "Molotov cocktail thrown at home of OpenAI CEO Sam Altman",
+      "description": "A suspect was arrested in San Francisco Friday after being accused of throwing a Molotov cocktail at the home of Sam Altman, the CEO of the artificial intelligence firm OpenAI.The 20-year-old man was found at the OpenAI headquarters about three miles away fro…",
+      "url": "https://www.rawstory.com/sam-altman",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-10T23:41:22Z"
+    },
+    {
+      "title": "CoreWeave inks multiyear cloud deal with Anthropic",
+      "description": "CoreWeave Inc. today announced that it has won a multiyear contract to supply Anthropic PBC with cloud infrastructure. The company’s shares closed 10.8% higher on the news. The data center capacity commissioned by Anthropic developer will start coming online …",
+      "url": "https://siliconangle.com/2026/04/10/coreweave-inks-multiyear-cloud-deal-anthropic",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-10T23:12:37Z"
+    },
+    {
+      "title": "Anthropic Locks Down Claude Mythos Over Hack Risk — What It Means For CRWD, PANW",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ede95ec-a3e7-4917-880b-2d2f0e7e4a15",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-10T22:01:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained",
+      "Dylan Patel: Tech companies prioritize long-term capex for future infrastructure, Anthropic’s scaling challenges contrast with OpenAI’s aggressive strategy, and GPU depreciation cycles may exceed five years | Dwarkesh",
+      "Former OpenAI Stargate leaders plan to join Meta Platforms",
+      "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
+      "OpenAI pauses Stargate UK, energy costs and regulation stall AI data centre plans"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/openai-mythos-model",
+        "https://cryptobriefing.com/dylan-patel-tech-companies-prioritize-long-term-capex-for-future-infrastructure-anthropics-scaling-challenges-contrast-with-openais-aggressive-strategy-and-gpu-depreciation-cycles-may-exceed-fi",
+        "https://economictimes.indiatimes.com/tech/technology/former-openai-stargate-leaders-plan-to-join-meta-platforms/articleshow/130184933.cms"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.inside.com.tw/article/41050-claude-now-reviews-your-microsoft-word-documents-all-edits-shown-as-track-changes",
+        "https://www.regionalmedianews.com/news/national/business/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise",
+        "https://siliconangle.com/2026/04/10/coreweave-inks-multiyear-cloud-deal-anthropic"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://inspirepreneurmagazine.com/business/blackstone-data-center-ipo-ai-demand",
+        "https://github.com/stef41/lmscan",
+        "https://www.notebookcheck.net/Director-confirms-Phantom-Blade-Zero-uses-zero-generative-AI.1271414.0.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI MYTHOS, Gemini Agents & Anthropic’s New Strategy Explained. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
