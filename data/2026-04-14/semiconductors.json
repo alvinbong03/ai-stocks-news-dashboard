@@ -1,0 +1,363 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-14",
+  "last_updated_utc": "2026-04-14T07:24:29.842Z",
+  "news": [
+    {
+      "title": "Japan funds AI chip ecosystem around Rapidus",
+      "description": "Japan is accelerating efforts to rebuild a domestic advanced semiconductor ecosystem, with Rapidus at the center of a state-backed push spanning 2nm logic, advanced packaging, and AI chip demand creation.",
+      "url": "https://www.digitimes.com/news/a20260413VL205/rapidus-2nm-ai-chip-packaging-production-japan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T07:10:18Z"
+    },
+    {
+      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "description": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or internal system was compromised.\n\"Out of an abundance of caution, we are taking steps to protect th…",
+      "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+      "source": "Internet",
+      "publishedAt": "2026-04-13T06:50:00Z"
+    },
+    {
+      "title": "iPhone 18 Pro Max Rumors: Massive Battery, Variable Aperture Camera and 2nm Chip Set for 2026 Debut",
+      "description": "CUPERTINO, California — Apple's iPhone 18 Pro Max is shaping up as one of the most significant upgrades in years, with rumors pointing to a larger battery, the company's first variable aperture camera and a cutting-edge 2nm processor as the device prepares fo…",
+      "url": "https://www.ibtimes.com.au/iphone-18-pro-max-rumors-massive-battery-variable-aperture-camera-2nm-chip-set-2026-debut-1866333",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-13T06:49:11Z"
+    },
+    {
+      "title": "China pressure drives Hyundai to reshape supply chain with fewer Tier 1 suppliers",
+      "description": "The global automotive supply chain is undergoing a significant transformation driven by electrification and autonomous driving trends, shifting from traditional mechanical parts procurement toward in-house development or partnerships with tech giants. South K…",
+      "url": "https://www.digitimes.com/news/a20260413PD217/hyundai-automotive-supply-chain-tier-1-autonomous-driving.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T05:53:59Z"
+    },
+    {
+      "title": "Gudeng targets record 2026 revenue on EUV pod and FOUP demand surge",
+      "description": "Taiwan's Gudeng Precision Industrial is set to sustain double-digit revenue growth in 2026, buoyed by robust demand for EUV reticle pods and FOUP wafer carriers as advanced-node production and AI-driven applications accelerate across global semiconductor mark…",
+      "url": "https://www.digitimes.com/news/a20260413PD214/revenue-taiwan-demand-2026-euv.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T05:49:14Z"
+    },
+    {
+      "title": "Running Local AI with LlamaSharp in .NET: A Developer's Guide",
+      "description": "Run powerful AI models locally in .NET with LlamaSharp! This guide covers setup, model selection (Llama 3, Phi-4), GPU acceleration, and integration with Semantic Kernel.",
+      "url": "https://www.c-sharpcorner.com/article/running-local-ai-with-llamasharp-in-net-a-developers-guide",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-13T05:07:02Z"
+    },
+    {
+      "title": "Traditional school dinner favourites to be scrapped in new healthy eating drive",
+      "description": "School dinner favourites - including fish and chips and other deep-fried delicacies - will be axed from canteens across the country as part of Labour's healthy eating drive. Celebrity chef Jamie Oliver, who famously led the ban on Turkey Twizzlers in 2005, ha…",
+      "url": "https://www.gbnews.com/news/school-dinners-jamie-oliver-labour-plans-healthy-eating-obesity",
+      "source": "Gbnews.com",
+      "publishedAt": "2026-04-13T04:59:47Z"
+    },
+    {
+      "title": "MediaTek revenue hits record on AI chip demand, TPU orders key",
+      "description": "Taiwan-based chip designer MediaTek reported record monthly revenue in March 2026, highlighting how new growth drivers are helping cushion a weakening smartphone market.",
+      "url": "https://www.digitimes.com/news/a20260413VL204/mediatek-revenue-demand-tpu-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T04:31:41Z"
+    },
+    {
+      "title": "This Week in Tech 1079: Fans. Only Fans.",
+      "description": "Anthropic has built an AI model so sharp it's being withheld from the public, sparking debate over who gets access to world-changing tech and who's left behind. Hear how this \"too dangerous\" AI could tip the balance for the world's most powerful players. This…",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1079",
+      "source": "Twit.tv",
+      "publishedAt": "2026-04-13T04:20:46Z"
+    },
+    {
+      "title": "Linux Kernel 7.0 is Out With Improvements Across the Board for Intel, AMD, and Storage",
+      "description": "From Nova Lake audio to autonomous XFS repairs and Zen 6 prep, this release covers a lot of ground.",
+      "url": "https://itsfoss.com/news/linux-kernel-7-0-release",
+      "source": "Itsfoss.com",
+      "publishedAt": "2026-04-13T04:08:07Z"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "description": "On Thursday, ​TSMC is expected to report a net profit of $17.1 billion for the quarter, according to an LSEG SmartEstimate compiled from 19 analysts. The war in the Middle East threatens to disrupt the supply of production materials for semiconductors such as…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand/articleshow/130224219.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-13T03:29:49Z"
+    },
+    {
+      "title": "Global chip sales expect to top US$1 trillion in 2026 on AI demand",
+      "description": "Taiwan's semiconductor supply chain posted stronger-than-expected results in the first quarter of 2026, as artificial intelligence (AI) demand accelerated the adoption of advanced nodes and advanced packaging, lifting both foundries and equipment suppliers.",
+      "url": "https://www.digitimes.com/news/a20260413PD209/taiwan-semiconductor-supply-chain-revenue-sales-tsmc-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T03:26:14Z"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "description": "Any profit result ‌above T$505.7 billion would mark the\ncompany's highest-ever quarterly net income ​and its ninth\nconsecutive quarter of profit growth",
+      "url": "https://www.thehindubusinessline.com/info-tech/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-oninsatiable-ai-demand/article70856149.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-13T03:25:42Z"
+    },
+    {
+      "title": "MSI GeForce RTX 5090 32G LIGHTNING Z Graphics Card",
+      "description": "” … All said and done, the MSI GeForce RTX 5090 32G LIGHTNING Z is currently one of the fastest GPU we’ve tested to date. It outperforms everything that’s available on the market, thanks to its overclocked GPU running at 2730 MHz (OC) and 2,775 MHz (Extreme).…",
+      "url": "https://www.madshrimps.be/news/msi-geforce-rtx-5090-32g-lightning-z-graphics-card",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-13T03:13:52Z"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b91251b-8519-4cb4-9836-fd00af51923c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-13T03:09:01Z"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "description": "TSMC-RESULTS/ (PREVIEW, PIX):PREVIEW-TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "url": "https://www.livemint.com/companies/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand-11776049677208.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-13T03:07:56Z"
+    },
+    {
+      "title": "China chipmaker Hygon expands CPU-GPU strategy for AI compute",
+      "description": "China's push for AI self-sufficiency is lifting Hygon Information Technology from a server CPU supplier into a broader AI compute platform player. Its \"CPU + DCU (Deep Computing Unit)\" strategy is now taking shape, positioning the company to serve both genera…",
+      "url": "https://www.digitimes.com/news/a20260413VL202/china-cpu-gpu-self-sufficiency-demand-it.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T03:05:46Z"
+    },
+    {
+      "title": "Silicon photonics scaling hits wafer testing bottleneck",
+      "description": "AI demand is pushing data transmission to its limits, making 2026 a critical year for silicon photonics (SiPh) and co-packaged optics (CPO) to move into large-scale deployment. The race to commercialize these technologies is accelerating across the semiconduc…",
+      "url": "https://www.digitimes.com/news/a20260413PD212/photonics-demand-data-testing-wafer-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:52:22Z"
+    },
+    {
+      "title": "Hormuz conflict exposes Southeast Asia's energy fault lines",
+      "description": "A blockage of the Strait of Hormuz following conflict between the US and Iran is raising energy supply risks for Southeast Asia, with import-dependent economies most exposed. If the conflict continues, the region's recent gains from supply chain shifts could …",
+      "url": "https://www.digitimes.com/news/a20260413PD205/asia-region-supply-chain-asean-nuclear.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:11:37Z"
+    },
+    {
+      "title": "YMMV: Apple MacBook Pro: 14.2\", M4 Pro, 48GB RAM, 512GB SSD $1999.99 (0 replies)",
+      "description": "Available In-Store Only (YMMV).\n\nSPECS:Apple M4 Pro 12-Core Chip\n48GB Unified Memory\nApple M4 Pro Chip 16-Core GPU\n512GB SSD\n14.2\" Liquid Retina XDR Display\nWireless LAN WiFi 6E (802.11ax), Bluet",
+      "url": "https://slickdeals.net/f/19412586-ymmv-apple-macbook-pro-14-2-m4-pro-48gb-ram-512gb-ssd-1999-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-13T02:08:43Z"
+    },
+    {
+      "title": "Taiwan ramps up science park expansion as TSMC growth pushes capacity limits",
+      "description": "Powered by surging semiconductor investment—led by TSMC—Taiwan's science parks are nearing full capacity, accelerating government efforts to expand land, infrastructure, and next-generation industry clusters.",
+      "url": "https://www.digitimes.com/news/a20260409PD227/expansion-capacity-taiwan-tsmc-science-park.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:01:05Z"
+    },
+    {
+      "title": "TPK and ASE to launch advanced semiconductor TGV packaging with 3Q26 pilot line",
+      "description": "Touch panel maker TPK is partnering with semiconductor packaging giant ASE to enter the advanced through-glass via (TGV) packaging technology sector, focusing on developing glass substrates for high-end computing ICs. This move marks TPK's expansion into adva…",
+      "url": "https://www.digitimes.com/news/a20260409PD237/tpk-holding-packaging-panel-ase-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:00:58Z"
+    },
+    {
+      "title": "FormFactor and MPI vie to break SiPh test bottleneck as ficonTEC reportedly exits",
+      "description": "As AI data centers officially enter the silicon photonics (SiPh) era, the industry faces severe challenges in testing accuracy and throughput on the path toward mass production of co-packaged optics (CPO) technology. This has drawn close attention to upstream…",
+      "url": "https://www.digitimes.com/news/a20260409PD232/siph-data-testing-formfactor-mpi.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:00:56Z"
+    },
+    {
+      "title": "Samsung caught between worker payouts and chip ambitions",
+      "description": "South Korean tech giant Samsung Electronics is facing a large-scale strike threat, and whether it will extend into May remains an open question, as labor-management negotiations remain at a deadlock. The union's demand for a substantial allocation of a perfor…",
+      "url": "https://www.digitimes.com/news/a20260413PD200/samsung-investment-labor-performance-strike.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:00:15Z"
+    },
+    {
+      "title": "Exclusive: Apple's foldable iPhone faces production delay, but 2026 launch still in sight",
+      "description": "The timing of mass production for Apple's first foldable iPhone has become a focal point of industry scrutiny. According to sources within the company's supply chain, production has indeed been pushed back by roughly one to two months. The delay, however, doe…",
+      "url": "https://www.digitimes.com/news/a20260413PD203/apple-foldable-iphone-production-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T02:00:06Z"
+    },
+    {
+      "title": "AI server tracker: Taiwanese thermal solution providers entering structural AI growth phase as liquid cooling adoption accelerates",
+      "description": "Taiwan's thermal management suppliers are emerging as one of the fastest-growing segments in the AI hardware ecosystem in 2026, even though their absolute revenue scale remains far below that of semiconductor leaders such as TSMC and large AI server ODMs like…",
+      "url": "https://www.digitimes.com/news/a20260411VL203/ai-server-liquid-cooling-thermal-module-demand-taiwan-monthly-tracker.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T01:47:37Z"
+    },
+    {
+      "title": "How Foxconn is winning a bigger slice of MacBook Neo orders",
+      "description": "Apple's most price-competitive notebook ever, the MacBook Neo, triggered a buying frenzy immediately after its launch in March, with market demand significantly exceeding expectations. According to supply chain sources, Apple has already begun raising its ann…",
+      "url": "https://www.digitimes.com/news/a20260413PD202/apple-macbook-foxconn-market-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T01:42:51Z"
+    },
+    {
+      "title": "AI memory crunch revives DDR3 in PC market",
+      "description": "AI demand is squeezing global DRAM supply to the point where the PC market is turning back to decade-old technology. Shortages in DDR5 and DDR4 have pushed prices high enough to revive DDR3 platforms, with Fnnews reporting that Colorful Yugong Technology (for…",
+      "url": "https://www.digitimes.com/news/a20260413VL200/ddr3-market-dram-pc-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-13T01:38:34Z"
+    },
+    {
+      "title": "Associate (Technical Specialist, Patent Agent or Patent Attorney) – Law Firm – Alexandria, VA (remote possible)",
+      "description": "Hauptman Ham works with industry leaders in the semiconductor manufacturing, telecommunication and circuit design fields. You will be entrusted to work directly with clients and to execute all facets of patent drafting and prosecution. In addition, a senior l…",
+      "url": "https://patentlyo.com/jobs/2026/04/associate-specialist-alexandria.html",
+      "source": "Patentlyo.com",
+      "publishedAt": "2026-04-13T01:15:45Z"
+    },
+    {
+      "title": "West Asia war impact: Economic growth in Asia to slow even if crude oil prices stabilise, says ADB",
+      "description": "The Iran war will also likely hit semiconductor output, amid disruptions in the shipments of key inputs for chip manufacturing like helium, sulfur and petrochemical products, according to the ADB. Tourism-dependent economies will likewise feel the drag after …",
+      "url": "https://economictimes.indiatimes.com/wealth/save/west-asia-war-impact-economic-growth-in-asia-to-slow-even-if-crude-oil-prices-stabilise-says-adb/articleshow/130183230.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-13T01:00:00Z"
+    },
+    {
+      "title": "Lenovo Legion Go 2, AMD Ryzen Z2, 32GB / 1TB $1599 + Delivery ($0 C&C) @ JB Hi-Fi",
+      "description": "Lenovo Legion Go 2 - $1599 at JB HIFI. Current rrp $1899. Not an all time low, but the cheapest I could find at the moment. More powerful model also available for $2197. …",
+      "url": "https://www.ozbargain.com.au/node/955385",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-04-13T00:47:58Z"
+    },
+    {
+      "title": "IndyCar’s Chip Ganassi Racing Goes Green With Green Sports Alliance",
+      "description": "April is \"Earth Month\" to create awareness to save the Earth and create a greener future. IndyCar's Chip Ganassi Racing is the latest to join the Green Sports Alliance",
+      "url": "https://www.forbes.com/sites/brucemartin/2026/04/12/indycars-chip-ganassi-racing-goes-green-with-green-sports-alliance",
+      "source": "Forbes",
+      "publishedAt": "2026-04-13T00:22:29Z"
+    },
+    {
+      "title": "When crisis hits, billionaires don’t exit—they find new asset classes. Like, art.",
+      "description": "Cyrus Poonawalla’s record-breaking purchase of a Raja Ravi Varma masterpiece highlights the resilience of India’s secondary art market, which continues to grow despite global geopolitical uncertainty. High-net-worth collectors increasingly view blue-chip art …",
+      "url": "https://www.livemint.com/industry/indian-art-market-thrives-record-sales-global-chaos-investment-asset-11775975878156.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-13T00:15:54Z"
+    },
+    {
+      "title": "2 ASX 200 blue-chip shares worth owning in April 2026",
+      "description": "Is this a great time to invest in these shares?\nThe post 2 ASX 200 blue-chip shares worth owning in April 2026 appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2026/04/13/2-asx-200-blue-chip-shares-worth-owning-in-april-2026",
+      "source": "Motley Fool Australia",
+      "publishedAt": "2026-04-13T00:05:21Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Japan funds AI chip ecosystem around Rapidus",
+      "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "iPhone 18 Pro Max Rumors: Massive Battery, Variable Aperture Camera and 2nm Chip Set for 2026 Debut",
+      "China pressure drives Hyundai to reshape supply chain with fewer Tier 1 suppliers",
+      "Gudeng targets record 2026 revenue on EUV pod and FOUP demand surge"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Demand",
+      "summary": "Grouped stories where \"demand\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260413VL205/rapidus-2nm-ai-chip-packaging-production-japan.html",
+        "https://www.digitimes.com/news/a20260413PD214/revenue-taiwan-demand-2026-euv.html",
+        "https://www.digitimes.com/news/a20260413VL204/mediatek-revenue-demand-tpu-growth.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/iphone-18-pro-max-rumors-massive-battery-variable-aperture-camera-2nm-chip-set-2026-debut-1866333",
+        "https://slickdeals.net/f/19412586-ymmv-apple-macbook-pro-14-2-m4-pro-48gb-ram-512gb-ssd-1999-99",
+        "https://economictimes.indiatimes.com/wealth/save/west-asia-war-impact-economic-growth-in-asia-to-slow-even-if-crude-oil-prices-stabilise-says-adb/articleshow/130183230.cms"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260409PD227/expansion-capacity-taiwan-tsmc-science-park.html",
+        "https://www.digitimes.com/news/a20260409PD237/tpk-holding-packaging-panel-ase-technology.html",
+        "https://www.digitimes.com/news/a20260411VL203/ai-server-liquid-cooling-thermal-module-demand-taiwan-monthly-tracker.html"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+        "https://www.digitimes.com/news/a20260413PD217/hyundai-automotive-supply-chain-tier-1-autonomous-driving.html",
+        "https://www.digitimes.com/news/a20260413PD205/asia-region-supply-chain-asean-nuclear.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/running-local-ai-with-llamasharp-in-net-a-developers-guide",
+        "https://www.gbnews.com/news/school-dinners-jamie-oliver-labour-plans-healthy-eating-obesity",
+        "https://twit.tv/shows/this-week-in-tech/episodes/1079"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan funds AI chip ecosystem around Rapidus. Main topic cluster: Demand. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan funds AI chip ecosystem around Rapidus. Main topic cluster: Demand. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan funds AI chip ecosystem around Rapidus. Main topic cluster: Demand. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan funds AI chip ecosystem around Rapidus. Main topic cluster: Demand. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan funds AI chip ecosystem around Rapidus. Main topic cluster: Demand. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
