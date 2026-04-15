@@ -1,0 +1,412 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-15",
+  "last_updated_utc": "2026-04-15T07:24:56.691Z",
+  "news": [
+    {
+      "title": "China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars",
+      "description": "BEIJING — As China pushes aggressively into artificial intelligence under its latest five-year plan, a mix of tech giants and specialized startups is reshaping the global landscape. With over 6,000 AI firms and a core industry scale exceeding 1.2 trillion yua…",
+      "url": "https://www.ibtimes.com.au/chinas-ai-surge-2026-10-powerhouse-companies-leading-global-race-amid-chip-boom-model-wars-1866467",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-14T07:21:40Z"
+    },
+    {
+      "title": "Samsung TVs could get Nvidia GeForce Now access in India this month",
+      "description": "Samsung Gaming Hub on Samsung TVs and select monitors offers access to cloud game streaming services. However, Gaming Hub is not available in India. While Samsung TVs gained access to Xbox Cloud Gaming late last year, the Gaming Hub wasn't launched. Samsung T…",
+      "url": "https://www.sammobile.com/news/samsung-tv-nvidia-geforce-now-gaming-india-this-month",
+      "source": "SamMobile",
+      "publishedAt": "2026-04-14T07:21:30Z"
+    },
+    {
+      "title": "China's 2nm AI GPU hits prototype, production unclear",
+      "description": "Shanghai Dishan Technology has advanced its 2nm-class AI GPU into the prototyping stage, marking a rare push by a China-based designer into cutting-edge AI silicon — though manufacturing access and software readiness remain major hurdles.",
+      "url": "https://www.digitimes.com/news/a20260414VL206/shanghai-ai-gpu-production-design-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T07:05:43Z"
+    },
+    {
+      "title": "Advantest Announces Opening of Strategic Innovation Centers",
+      "description": "TOKYO, April 14, 2026 (GLOBE NEWSWIRE) -- Leading semiconductor test equipment supplier Advantest Corporation (TSE Prime: 6857) today announced the opening of two Advantest Innovation Centers—one located on the company’s campus in San Jose, Calif., and anothe…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273027/0/en/Advantest-Announces-Opening-of-Strategic-Innovation-Centers.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-14T07:05:00Z"
+    },
+    {
+      "title": "Samsung begins P4 equipment orders as 1c DRAM investment enters execution",
+      "description": "Samsung Electronics has begun procuring semiconductor equipment for its P4 facility in Pyeongtaek, marking the transition of its planned 1c nanometer DRAM investment into the execution phase, according to South Korean media reports.",
+      "url": "https://www.digitimes.com/news/a20260414VL208/samsung-equipment-investment-dram-hbm4-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T07:02:58Z"
+    },
+    {
+      "title": "Exclusive: Edge AI inference set for 10x growth; Nokia, Blaize advance hybrid AI compute",
+      "description": "As generative AI demand shifts from centralized cloud training to edge inference, Nokia and AI chip startup Blaize have expanded their partnership in Singapore, unveiling a full-stack solution for hybrid heterogeneous computing at GITEX AI Asia.",
+      "url": "https://www.digitimes.com/news/a20260414PD226/edge-ai-ai-inference-training-nokia-partnership.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T06:58:00Z"
+    },
+    {
+      "title": "Samsung Electro-Mechanics reportedly to expand AI packaging with MLCC embedded substrate line in Vietnam",
+      "description": "As AI chips demand higher performance and denser integration, advanced packaging and substrate technologies have become critical in the semiconductor race. Samsung Electro-Mechanics (Semco) is reportedly establishing a new production line for multilayer ceram…",
+      "url": "https://www.digitimes.com/news/a20260414PD221/semco-mlcc-embedded-substrate-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T06:52:20Z"
+    },
+    {
+      "title": "Intel leak details upcoming Core Ultra 400 Series desktop CPUs, including a 52-core model",
+      "description": "Details for the upcoming Intel Core Ultra 400 Series 'Nova Lake-S' desktop processors have leaked, showcasing multiple SKUs coming later this year.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111016/intel-leak-details-upcoming-core-ultra-400-series-desktop-cpus-including-a-52-core-model/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-14T06:34:04Z"
+    },
+    {
+      "title": "NVIDIA is reportedly set to acquire a 'large PC company' the size of Dell or HP",
+      "description": "According to a new rumor, NVIDIA is in the final stages of buying a large company like Dell or HP that will 'reshape the PC landscape.'.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111017/nvidia-is-reportedly-set-to-acquire-a-large-pc-company-the-size-of-dell-or-hp/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-14T06:03:02Z"
+    },
+    {
+      "title": "Intel Nova Lake Desktop CPUs Could Come With A Powerful GPU Variant To Tackle AMD APUs: 12 Next-Gen Xe3P Cores",
+      "description": "Intel might be working on its most powerful iGPU for Desktops with the upcoming Nova Lake Desktop CPUs, tackling AMD's Ryzen APU dominance. Intel To Challenge AMD APUs with Its Own Powerful iGPU on Nova Lake Desktop CPUs Intel's Nova Lake CPUs were recently r…",
+      "url": "https://wccftech.com/intel-nova-lake-desktop-cpus-powerful-gpu-tackle-amd-apus-12-next-gen-xe3p-cores",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-14T06:00:09Z"
+    },
+    {
+      "title": "South Korea warns Hormuz crisis will prolong energy shocks, spurring global supply chain scramble",
+      "description": "South Korea warns that high oil prices and supply chain disruptions due to the Strait of Hormuz crisis will persist. President Lee Jae Myung ordered urgent action to diversify energy supplies and restructure industries. The government is aiding stranded tanke…",
+      "url": "https://www.naturalnews.com/2026-04-14-south-korea-warns-hormuz-crisis-will-prolong-energy-shocks-spurring-global-supply-chain-scramble.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-14T06:00:00Z"
+    },
+    {
+      "title": "You rarely get this much power in a tablet: Even some laptops look old in comparison",
+      "description": "The performance of the Apple iPad Air 11 (2026) with M4 chip is impressive: It packs a lot of power into a tablet. However, it becomes obvious that performance is not everything and only the combination of hardware and iPadOS determines whether it is really s…",
+      "url": "https://www.notebookcheck.net/You-rarely-get-this-much-power-in-a-tablet-Even-some-laptops-look-old-in-comparison.1270872.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-04-14T05:45:00Z"
+    },
+    {
+      "title": "Korean AI chip startup DeepX prepares public share offering",
+      "description": "The ‌on-device AI ​chip ​company, which ⁠works with Hyundai Motor ​and Baidu, plans to ​select banks to manage its initial public offering ‌after wrapping up its ongoing ​funding ​round ⁠in the first half of this year, DeepX ​CEO Lokwon Kim told Reuters.",
+      "url": "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-14T05:03:38Z"
+    },
+    {
+      "title": "Intel Core Ultra 250K Plus With 4 iGPU Cores Is Faster Than Steam Deck, Can Play Games With Low Settings at 1080p",
+      "description": "Intel's recently released Core Ultra 250K Plus CPU may not have a big GPU, but it's faster than a Steam Deck & plays games at 1080p. Intel's 4Xe Core iGPU On Core Ultra 250K Plus Is Very Usable With Faster Than Steam Deck Perf, & Offers AV1 Encoding Intel's A…",
+      "url": "https://wccftech.com/intel-core-ultra-250k-plus-4-igpu-cores-faster-vs-steam-deck-can-play-games-at-1080p",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-14T05:00:08Z"
+    },
+    {
+      "title": "M5 Pro MacBook Pro vs. Dell XPS 14: Which 2026 Pro Laptop is Actually Worth $2,000?",
+      "description": "The Dell XPS 14, powered by Intel’s Panther Lake chip, enters the premium laptop market as a direct competitor to Apple’s M5 Pro MacBook Pro. Both devices cater to professionals and tech enthusiasts seeking high performance and sleek design. While the XPS 14 …",
+      "url": "https://www.geeky-gadgets.com/m5-pro-macbook-pro-vs-dell-xps-14",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-14T05:00:07Z"
+    },
+    {
+      "title": "Foldable iPhone 2026: 10 Key Features and Expectations for Apple's First Folding Phone",
+      "description": "CUPERTINO, Calif. — Apple is preparing to enter the foldable smartphone market with its long-rumored iPhone Fold, expected to debut in fall 2026 as one of the most significant redesigns in the iPhone's history. Supply chain reports and analyst predictions poi…",
+      "url": "https://www.ibtimes.com.au/foldable-iphone-2026-10-key-features-expectations-apples-first-folding-phone-1866424",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-14T04:28:35Z"
+    },
+    {
+      "title": "Chip Talks Health: Life As Luminosity",
+      "description": "Chip Talks Health: Life As Luminosityyoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC7h1GzdaOZo",
+      "source": "YouTube",
+      "publishedAt": "2026-04-14T04:13:24Z"
+    },
+    {
+      "title": "How a risky move paid off for Nvidia",
+      "description": "In this week’s Computer Weekly, we talk to Nvidia, the chip company at the centre of the AI revolution, about how its 20-year technology bet paid off. Oracle is laying off 30,000 workers – we find out what’s behind the controversial move. And we analyse the r…",
+      "url": "https://www.computerweekly.com/ezine/Computer-Weekly/How-a-risky-move-paid-off-for-Nvidia",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-04-14T04:01:00Z"
+    },
+    {
+      "title": "Intel Nova Lake “Core Ultra Series 4” Desktop CPU Die & SKUs Detailed: 6-52 Cores, 35-175W",
+      "description": "Details of Intel's Nova Lake Desktop CPU lineup, Die & SKU configurations have been revealed, with the Core Ultra Series 4 family going for some big upgrades. Intel Nova Lake \"Core Ultra Series 4\" CPU Lineup Is Looking To Be A Return To Form For Chipzilla On …",
+      "url": "https://wccftech.com/intel-nova-lake-core-ultra-series-4-desktop-cpu-die-skus-detailed",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-14T04:00:07Z"
+    },
+    {
+      "title": "Motorola Razr 70 Ultra specs leak - GSMArena.com news - GSMArena.com",
+      "description": "Motorola Razr 70 Ultra specs leak - GSMArena.com newsGSMArena.com Motorola's Razr Is So Close to Its iPhone MomentCNET Exclusive: Motorola Razr 70 Ultra SpecsAndroid Headlines Motorola Razr Ultra reportedly gets a bigger battery, but the same chip as last yea…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181699906",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-14T03:52:14Z"
+    },
+    {
+      "title": "Samsung 2nm yields reportedly remain below mass production threshold",
+      "description": "Samsung Electronics is nearing a technical milestone for its 2nm process, but yields are reportedly still below the level required for stable mass production, raising questions about its ability to secure major foundry customers for the next-generation node.",
+      "url": "https://www.digitimes.com/news/a20260414VL205/samsung-2nm-yield-rate-production-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T03:42:40Z"
+    },
+    {
+      "title": "The wait is over: NVIDIA GeForce Now is launching in India on April 16",
+      "description": "NVIDIA GeForce Now is finally launching in India on April 16. While the cloud gaming platform will be initially in beta, it will have the same feature-set as other regions.",
+      "url": "https://www.androidcentral.com/gaming/gaming-accessories/the-wait-is-over-nvidia-geforce-now-is-launching-in-india-on-april-16",
+      "source": "Android Central",
+      "publishedAt": "2026-04-14T03:36:20Z"
+    },
+    {
+      "title": "JCET CEO sees robotics extending automotive semiconductor growth",
+      "description": "China's leading OSAT provider JCET has sustained steady growth in automotive electronics, driven by the rapid expansion of new energy vehicles and vehicle intelligence. As cars become more software-defined, semiconductor content and system complexity are risi…",
+      "url": "https://www.digitimes.com/news/a20260414PD213/jcet-osat-robotics-automotive-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T03:32:17Z"
+    },
+    {
+      "title": "EU firms rethinking China operations over rare earths curbs: Lobby",
+      "description": "China's strict export controls on rare earths are making European companies reconsider their business in China. These controls are seen as a major risk. Businesses are now actively planning for alternatives. This shift is expected to have a significant econom…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/eu-firms-rethinking-china-operations-over-rare-earths-curbs-lobby/articleshow/130250295.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-14T03:29:51Z"
+    },
+    {
+      "title": "Thermal Grizzly's pricey Deltamate GPU Block reduces overclocked RTX 5080 temps by 20 degrees",
+      "description": "Although pricey at $643.38 USD, the DeltaMate GPU Block for the ROG Astral RTX 5080 features an impressive design and performance.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/110991/thermal-grizzlys-pricey-deltamate-gpu-block-reduces-overclocked-rtx-5080-temps-by-20-degrees/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-14T03:28:03Z"
+    },
+    {
+      "title": "Next-Gen Honor Win H9 Gaming Laptop Debuts With 6-Fan Cooling Setup",
+      "description": "Honor may not be a household name in the gaming laptop space, but the company is apparently attempting to innovate on gaming laptop design with the new Honor Win H9 gaming laptop, which the brand claimed in a recent Weibo post would feature an NVIDIA GeForce …",
+      "url": "https://www.madshrimps.be/news/next-gen-honor-win-h9-gaming-laptop-debuts-with-6-fan-cooling-setup",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:24:13Z"
+    },
+    {
+      "title": "ASUS Introduces TUF Gaming B850I WiFi Neo Mini-ITX AM5 Motherboard",
+      "description": "ASUS has introduced the TUF Gaming B850I WiFi Neo motherboards, marking the first time the TUF Gaming brand has appeared in a Mini-ITX 17 x 17 cm form factor. The board is an AMD AM5 platform built around the B850 chipset and supports Ryzen 7000, 8000, and 90…",
+      "url": "https://www.madshrimps.be/news/asus-introduces-tuf-gaming-b850i-wifi-neo-mini-itx-am5-motherboard",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:23:50Z"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5 vs Exynos 2600: CPU, GPU & AI Benchmarks",
+      "description": "Is the world's first 2nm chip—the Exynos 2600—actually better than the Snapdragon 8 Elite Gen 5? We've spent the last week running both phones through our intensive benchmark suite to find out. https://techarp.us19.list-manage.com/track/click?u=e328b6dfd11fe7…",
+      "url": "https://www.madshrimps.be/news/snapdragon-8-elite-gen-5-vs-exynos-2600-cpu-gpu-ai-benchmarks",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:15:47Z"
+    },
+    {
+      "title": "Glass substrates move toward mass production as Intel, Samsung Electro-Mechanics step up efforts",
+      "description": "Glass substrates are entering a critical pre-mass production phase as demand for high-performance AI chips accelerates. As AI workloads require larger chip sizes and higher bandwidth, the industry is shifting its focus toward mass production timelines and yie…",
+      "url": "https://www.digitimes.com/news/a20260414VL204/chips-glass-substrate-demand-intel-production-semco.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T03:15:00Z"
+    },
+    {
+      "title": "Apple Ramps Up MacBook Neo Production to 10 Million Units Amid Strong Demand",
+      "description": "Apple has informed its supply chain that the company now aims to produce a total of 10 million first-generation MacBook Neo laptops, as consumer demand has been phenomenal. Initially, with the MacBook Neo launch, Apple expected consumers to purchase between 5…",
+      "url": "https://www.madshrimps.be/news/apple-ramps-up-macbook-neo-production-to-10-million-units-amid-strong-demand",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:14:02Z"
+    },
+    {
+      "title": "Huawei backs optical chip push through photonics supplier investment",
+      "description": "AI data centre and high-speed computing demand are pushing optical communications and photonic chips into focus, as data transmission bottlenecks reinforce the strategic role of photonics. Against this backdrop, Huawei is expanding its photonics ecosystem thr…",
+      "url": "https://www.digitimes.com/news/a20260414PD211/data-photonics-huawei-investment-supplier.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T03:00:00Z"
+    },
+    {
+      "title": "2 ASX blue-chip shares offering big dividend yields",
+      "description": "These businesses can provide investors with good passive income. \nThe post 2 ASX blue-chip shares offering big dividend yields appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2026/04/14/2-asx-blue-chip-shares-offering-big-dividend-yields-13",
+      "source": "Motley Fool Australia",
+      "publishedAt": "2026-04-14T03:00:00Z"
+    },
+    {
+      "title": "Trump: We've Heard From Tehran's 'Right' People About a Deal",
+      "description": "Donald Trump claims that the \"right people\" in Iran have reached out to cut a deal for real after imposing a naval blockade and cutting off Iran's income stream. Who are we talking with in Tehran? Mahdi al-Hall? That's what Trump claimed in an ad-hoc press co…",
+      "url": "https://freerepublic.com/focus/f-news/4374816/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-14T02:52:51Z"
+    },
+    {
+      "title": "Winmate shifts to AI platform with defense and edge computing as dual engines",
+      "description": "Winmate's focus on edge AI and defense markets could reshape its global footprint, promising higher-margin sales and expanded production in Europe, the US, Japan, and Thailand. Customers and investors may see stronger order visibility, a diversified supply ch…",
+      "url": "https://www.digitimes.com/news/a20260414PD214/growth-2026-production-demand-sales.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T02:51:42Z"
+    },
+    {
+      "title": "Ghost Robotics targets Taiwan production hub to cut costs, reduce China supply chain exposure",
+      "description": "Ghost Robotics, a US supplier of quadruped robots to the Department of Defense, is partnering with Taiwanese manufacturers to localize production. The collaboration aims to reduce reliance on Chinese supply chains and has completed an initial review of Taiwan…",
+      "url": "https://www.digitimes.com/news/a20260414PD206/taiwan-production-supply-chain-supplier-partnership.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T02:28:38Z"
+    },
+    {
+      "title": "JCET advances CPO, glass substrates to capture AI packaging demand",
+      "description": "JCET, China's leading outsourced semiconductor assembly and test (OSAT) provider, is accelerating its push into advanced packaging, sharpening its position in AI servers, data centres, and high-performance computing.",
+      "url": "https://www.digitimes.com/news/a20260414PD208/jcet-osat-cpo-packaging-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T02:21:05Z"
+    },
+    {
+      "title": "Diesel supply stable; disruptions due to delays in deliveries to ports and depots, not shortage – Armizan",
+      "description": "The government has given its assurance that the supply of diesel fuel remains sufficient, but enforcement measures will continue to be strengthened to prevent leakages in the supply chain amid ongoing global uncertainties, said minister […]\nThe post Diesel su…",
+      "url": "https://paultan.org/2026/04/14/diesel-supply-stable-disruptions-due-to-delays-in-deliveries-to-ports-and-depots-not-shortage-armizan",
+      "source": "Paul Tan's Automotive News",
+      "publishedAt": "2026-04-14T02:19:47Z"
+    },
+    {
+      "title": "A New Computer Chip Could Finally Withstand The Hellscape of Venus",
+      "description": "Venus is too rough with our toys.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "url": "https://www.sciencealert.com/a-new-computer-chip-could-finally-withstand-the-hellscape-of-venus",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-04-14T01:59:48Z"
+    },
+    {
+      "title": "Asus exceeds expectations with 2x server revenue and growing notebook shipments",
+      "description": "Asus has recently unveiled two major surprises in its business outlook. According to supply chain sources, the company's newly set internal targets for 2026 notebook shipments and AI server revenue have both exceeded market expectations.",
+      "url": "https://www.digitimes.com/news/a20260414PD203/asus-ai-server-notebooks-business-revenue-shipments-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T01:57:06Z"
+    },
+    {
+      "title": "The Terrifying Ridiculous Spectacle",
+      "description": "Whew. It's been a time: \"Open the Fuckin' Strait,\" \"A whole civilization will die,\" puerile threats, boundless botches and cover-ups, deranged lurches into ballrooms, auto-pens, Davy Crockett, and a media sanewashing it all. And when their slapstick \"ceasefir…",
+      "url": "https://www.commondreams.org/further/the-terrifying-ridiculous-spectacle",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-14T01:29:49Z"
+    },
+    {
+      "title": "Tulsi Gabbard exposes the flimsy ‘false narrative’ intel community watchdog pushed to impeach Trump in 2019",
+      "description": "Gabbard argued the declassified documents show the 2019 Trump impeachment was \"concocted\" by Democrats.",
+      "url": "https://nypost.com/2026/04/13/us-news/tulsi-gabbard-exposes-the-flimsy-false-narrative-intel-community-watchdog-pushed-to-impeach-trump-in-2019",
+      "source": "New York Post",
+      "publishedAt": "2026-04-14T01:06:38Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars",
+      "Samsung TVs could get Nvidia GeForce Now access in India this month",
+      "China's 2nm AI GPU hits prototype, production unclear",
+      "Advantest Announces Opening of Strategic Innovation Centers",
+      "Samsung begins P4 equipment orders as 1c DRAM investment enters execution"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/chinas-ai-surge-2026-10-powerhouse-companies-leading-global-race-amid-chip-boom-model-wars-1866467",
+        "https://www.digitimes.com/news/a20260414PD226/edge-ai-ai-inference-training-nokia-partnership.html",
+        "https://www.notebookcheck.net/You-rarely-get-this-much-power-in-a-tablet-Even-some-laptops-look-old-in-comparison.1270872.0.html"
+      ]
+    },
+    {
+      "title": "Production",
+      "summary": "Grouped stories where \"production\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260414VL206/shanghai-ai-gpu-production-design-manufacturing.html",
+        "https://www.digitimes.com/news/a20260414PD221/semco-mlcc-embedded-substrate-packaging.html",
+        "https://www.digitimes.com/news/a20260414VL205/samsung-2nm-yield-rate-production-tsmc.html"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/04/14/3273027/0/en/Advantest-Announces-Opening-of-Strategic-Innovation-Centers.html",
+        "https://www.tweaktown.com/news/111017/nvidia-is-reportedly-set-to-acquire-a-large-pc-company-the-size-of-dell-or-hp/index.html",
+        "https://www.madshrimps.be/news/next-gen-honor-win-h9-gaming-laptop-debuts-with-6-fan-cooling-setup"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/111016/intel-leak-details-upcoming-core-ultra-400-series-desktop-cpus-including-a-52-core-model/index.html",
+        "https://wccftech.com/intel-nova-lake-desktop-cpus-powerful-gpu-tackle-amd-apus-12-next-gen-xe3p-cores",
+        "https://wccftech.com/intel-core-ultra-250k-plus-4-igpu-cores-faster-vs-steam-deck-can-play-games-at-1080p"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.sammobile.com/news/samsung-tv-nvidia-geforce-now-gaming-india-this-month",
+        "https://www.digitimes.com/news/a20260414VL208/samsung-equipment-investment-dram-hbm4-production.html",
+        "https://www.naturalnews.com/2026-04-14-south-korea-warns-hormuz-crisis-will-prolong-energy-shocks-spurring-global-supply-chain-scramble.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China's AI Surge 2026: 10 Powerhouse Companies Leading Global Race Amid Chip Boom and Model Wars. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

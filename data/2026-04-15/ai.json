@@ -1,0 +1,268 @@
+{
+  "theme": "ai",
+  "date": "2026-04-15",
+  "last_updated_utc": "2026-04-15T07:24:37.923Z",
+  "news": [
+    {
+      "title": "Fake Claude AI installer abuses DLL sideloading to deploy PlugX",
+      "description": "Fake Claude website impersonates Anthropic and delivers PlugX RAT via ZIP download using DLL sideloading. A fake website impersonating Anthropic’s Claude service was found distributing the PlugX remote access trojan, according to Malwarebytes. The rogue site …",
+      "url": "https://securityaffairs.com/190754/malware/fake-claude-ai-installer-abuses-dll-sideloading-to-deploy-plugx.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-04-14T07:19:57Z"
+    },
+    {
+      "title": "The biggest advance in AI since the LLM - by Gary Marcus",
+      "description": "Why Claude Code changes everything",
+      "url": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+      "source": "Substack.com",
+      "publishedAt": "2026-04-14T05:47:01Z"
+    },
+    {
+      "title": "UK financial regulators rush to assess risks of Anthropic AI model",
+      "description": "Banks called in by regulators as latest artificial intelligence model identifies thousands of software vulnerabilities",
+      "url": "https://www.computerweekly.com/news/366641563/UK-financial-regulators-rush-to-assess-risks-of-Anthropic-AI-model",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-04-14T05:45:00Z"
+    },
+    {
+      "title": "China's 2nm AI GPU hits prototype, production unclear",
+      "description": "Shanghai Dishan Technology has advanced its 2nm-class AI GPU into the prototyping stage, marking a rare push by a China-based designer into cutting-edge AI silicon — though manufacturing access and software readiness remain major hurdles.",
+      "url": "https://www.digitimes.com/news/a20260414VL206/shanghai-ai-gpu-production-design-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-14T07:05:43Z"
+    },
+    {
+      "title": "Novo Nordisk partners with OpenAI as AI drug discovery hopes mount",
+      "description": "The partnership will enable Novo to better use AI to analyze complex datasets, and identify promising new drugs.",
+      "url": "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-14T06:20:04Z"
+    },
+    {
+      "title": "[CFP]Second Workshop on Symbolic and Generative AI for Science (SymGenAI4S 2026)",
+      "description": "",
+      "url": "https://lists.w3.org/Archives/Public/semantic-web/2026Apr/0014.html",
+      "source": "W3.org",
+      "publishedAt": "2026-04-14T06:19:36Z"
+    },
+    {
+      "title": "[CFP]Second Workshop on Symbolic and Generative AI for Science (SymGenAI4S 2026)",
+      "description": "",
+      "url": "https://lists.w3.org/Archives/Public/public-lod/2026Apr/0006.html",
+      "source": "W3.org",
+      "publishedAt": "2026-04-14T06:19:36Z"
+    },
+    {
+      "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development",
+      "description": "LONDON, April 14 : Danish drugmaker Novo Nordisk, which has fallen behind Eli Lilly in the immensely lucrative weight-loss drug market, said on Tuesday it is partnering with OpenAI to deploy artificial intelligence across its business, from drug discovery to …",
+      "url": "https://www.channelnewsasia.com/business/wegovy-maker-novo-nordisk-partners-openai-speed-drug-development-6055281",
+      "source": "CNA",
+      "publishedAt": "2026-04-14T06:05:00Z"
+    },
+    {
+      "title": "OpenAI partners with Novo Nordisk to accelerate drug discovery and delivery",
+      "description": "Artificial intelligence powerhouse OpenAI Group PBC is lending its expertise to Novo Nordisk A/S in a new partnership announced today that aims to accelerate research in the pharmaceutical industry. The sweeping collaboration will see OpenAI’s intelligent age…",
+      "url": "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-14T06:00:49Z"
+    },
+    {
+      "title": "Novo Nordisk and OpenAI partner to transform how medicines are discovered and delivered",
+      "description": "Bagsværd, Denmark, 14 April 2026 – Novo Nordisk today announced a strategic partnership with OpenAI that will place Novo Nordisk at the forefront of AI transformation in healthcare and help the company bring new and better treatment options to patients faster.",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273010/0/en/Novo-Nordisk-and-OpenAI-partner-to-transform-how-medicines-are-discovered-and-delivered.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-14T06:00:00Z"
+    },
+    {
+      "title": "Novo Nordisk partners with OpenAI to AI-power drug development",
+      "description": "The Danish pharmaceutical company has a strategic plan to use AI across its business. OpenAI is helping it to achieve this objective",
+      "url": "https://www.computerweekly.com/news/366641591/Novo-Nordisk-partners-with-OpenAI-to-AI-power-drug-development",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-04-14T05:32:00Z"
+    },
+    {
+      "title": "Anthropic Launches Claude for Word With Tracked Changes, Comment Replies, and Document Scanning",
+      "description": "Anthropic has introduced Claude for Word, a Microsoft Word integration that allows users to access Claude's editing features directly within documents.\nThank you for being a Ghacks reader. The post Anthropic Launches Claude for Word With Tracked Changes, Comm…",
+      "url": "https://www.ghacks.net/2026/04/14/anthropic-launches-claude-for-word-with-tracked-changes-comment-replies-and-document-scanning",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-04-14T05:13:46Z"
+    },
+    {
+      "title": "How to Evaluate LLM Performance Using Benchmarks and Metrics",
+      "description": "Learn how to evaluate LLM performance using benchmarks & metrics. Improve accuracy, relevance, & reliability for better AI applications. A must-read guide!",
+      "url": "https://www.c-sharpcorner.com/article/how-to-evaluate-llm-performance-using-benchmarks-and-metrics",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-14T05:06:16Z"
+    },
+    {
+      "title": "Korean AI chip startup DeepX prepares public share offering",
+      "description": "The ‌on-device AI ​chip ​company, which ⁠works with Hyundai Motor ​and Baidu, plans to ​select banks to manage its initial public offering ‌after wrapping up its ongoing ​funding ​round ⁠in the first half of this year, DeepX ​CEO Lokwon Kim told Reuters.",
+      "url": "https://economictimes.indiatimes.com/tech/startups/korean-ai-chip-startup-deepx-prepares-public-share-offering/articleshow/130251369.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-14T05:03:38Z"
+    },
+    {
+      "title": "OpenAI acquires AI personal finance startup Hiro",
+      "description": "Hiro Finance, backed by VC firm Ribbit as well as General Catalyst and Restive, was founded in 2023. The startup launched its AI-based financial planning tool roughly five months ago. It enabled AI-powered financial planning for consumers: users input their s…",
+      "url": "https://economictimes.indiatimes.com/tech/startups/openai-acquires-ai-personal-finance-startup-hiro/articleshow/130251086.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-14T04:45:07Z"
+    },
+    {
+      "title": "OpenAI investors question $852 billion valuation as strategy shifts, FT reports",
+      "description": "Some ​OpenAI ​investors told ⁠the FT the changes could ​leave it vulnerable ​to Anthropic and a resurgent Google, while preparing ‌for an initial public ​offering ​as ⁠early as this year.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-investors-question-852-billion-valuation-as-strategy-shifts-ft-reports/articleshow/130250943.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-14T04:29:41Z"
+    },
+    {
+      "title": "OpenAI investors question $852 billion valuation as strategy shifts, FT reports",
+      "description": "April 14 : OpenAI's $852 billion valuation is under scrutiny from its own backers as the group switches focus to the enterprise market and tackling competition from Anthropic, the Financial Times reported on Tuesday.Some OpenAI investors told the FT the chang…",
+      "url": "https://www.channelnewsasia.com/business/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-6055106",
+      "source": "CNA",
+      "publishedAt": "2026-04-14T04:09:30Z"
+    },
+    {
+      "title": "Digiday+ Research: Publishers favor generative AI over predictive AI",
+      "description": "Publishers have worked to find the right fit for AI tools, and found that generative AI lends itself better to journalism than predictive AI.",
+      "url": "http://digiday.com/media/digiday-research-publishers-favor-generative-ai-over-predictive-ai",
+      "source": "Digiday",
+      "publishedAt": "2026-04-14T04:01:00Z"
+    },
+    {
+      "title": "How a risky move paid off for Nvidia",
+      "description": "In this week’s Computer Weekly, we talk to Nvidia, the chip company at the centre of the AI revolution, about how its 20-year technology bet paid off. Oracle is laying off 30,000 workers – we find out what’s behind the controversial move. And we analyse the r…",
+      "url": "https://www.computerweekly.com/ezine/Computer-Weekly/How-a-risky-move-paid-off-for-Nvidia",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-04-14T04:01:00Z"
+    },
+    {
+      "title": "【Generative AI Conference TOKYO 2026】賞金100万円への最短ルートは「AI選考」。ローンチ1周年を迎えたAIキャピタリスト「ANOくん」によるピッチ選考枠を追加！",
+      "description": "[株式会社ANOBAKA]\n[画像1: https://prcdn.freetls.fastly.net/release_image/56016/59/56016-59-6748617050788a456210d2c29153d0e6-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000059.000056016.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-14T03:40:36Z"
+    },
+    {
+      "title": "Man charged after Molotov cocktail attack on OpenAI CEO's home",
+      "description": "A man accused of throwing a Molotov cocktail at the home of OpenAI's CEO is charged with attempted murder. Authorities say he had written about AI's purported risk to humanity and \"our impending extinction\".",
+      "url": "https://www.abc.net.au/news/2026-04-14/man-accused-of-attack-on-openai-ceo-home-charged/106562276",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-14T03:28:17Z"
+    },
+    {
+      "title": "How to de-Gemini your Google apps",
+      "description": "Over the past couple of years, Google has found ways to stuff Gemini in nearly every app and service it offers. Whether it’s Gmail with its AI inbox or Chrome with its chat sidebar, Gemini is now inescapable inside of Workspace. I don’t know about you, but I …",
+      "url": "https://www.madshrimps.be/news/how-to-de-gemini-your-google-apps",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:16:38Z"
+    },
+    {
+      "title": "Snapdragon 8 Elite Gen 5 vs Exynos 2600: CPU, GPU & AI Benchmarks",
+      "description": "Is the world's first 2nm chip—the Exynos 2600—actually better than the Snapdragon 8 Elite Gen 5? We've spent the last week running both phones through our intensive benchmark suite to find out. https://techarp.us19.list-manage.com/track/click?u=e328b6dfd11fe7…",
+      "url": "https://www.madshrimps.be/news/snapdragon-8-elite-gen-5-vs-exynos-2600-cpu-gpu-ai-benchmarks",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-14T03:15:47Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Fake Claude AI installer abuses DLL sideloading to deploy PlugX",
+      "The biggest advance in AI since the LLM - by Gary Marcus",
+      "UK financial regulators rush to assess risks of Anthropic AI model",
+      "China's 2nm AI GPU hits prototype, production unclear",
+      "Novo Nordisk partners with OpenAI as AI drug discovery hopes mount"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
+        "https://www.channelnewsasia.com/business/wegovy-maker-novo-nordisk-partners-openai-speed-drug-development-6055281",
+        "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://securityaffairs.com/190754/malware/fake-claude-ai-installer-abuses-dll-sideloading-to-deploy-plugx.html",
+        "https://www.computerweekly.com/news/366641563/UK-financial-regulators-rush-to-assess-risks-of-Anthropic-AI-model",
+        "https://www.ghacks.net/2026/04/14/anthropic-launches-claude-for-word-with-tracked-changes-comment-replies-and-document-scanning"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+        "https://www.digitimes.com/news/a20260414VL206/shanghai-ai-gpu-production-design-manufacturing.html",
+        "https://lists.w3.org/Archives/Public/semantic-web/2026Apr/0014.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fake Claude AI installer abuses DLL sideloading to deploy PlugX. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fake Claude AI installer abuses DLL sideloading to deploy PlugX. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fake Claude AI installer abuses DLL sideloading to deploy PlugX. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fake Claude AI installer abuses DLL sideloading to deploy PlugX. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fake Claude AI installer abuses DLL sideloading to deploy PlugX. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
