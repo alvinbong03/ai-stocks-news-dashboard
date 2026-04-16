@@ -1,0 +1,320 @@
+{
+  "theme": "ai",
+  "date": "2026-04-16",
+  "last_updated_utc": "2026-04-16T07:24:56.197Z",
+  "news": [
+    {
+      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+      "description": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier model, Mythos.\n\"The progressive use of AI acce…",
+      "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+      "source": "Internet",
+      "publishedAt": "2026-04-15T04:30:00Z"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model",
+      "description": "OpenAI, ‌creator of popular chatbot ChatGPT, says that GPT-5.4-Cyber will initially be rolled out on a ‌limited basis to vetted security vendors, ​organizations and researchers because of its more permissive design",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-unveils-gpt-54-cyber-a-week-after-rivals-announcement-of-ai-model/article70863717.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-15T03:41:43Z"
+    },
+    {
+      "title": "Anthropic, OpenAI, and the Pentagon: a cautionary tale for democratic AI governance",
+      "description": "On the afternoon of 27 February 2026, Pete Hegseth picked up his phone and posted to X. The US Secretary of Defense had just designated Anthropic, a San Francisco AI company, a “supply chain risk to national security.” The label, under 10 USC 3252, had previo…",
+      "url": "https://thenextweb.com/news/anthropic-pentagon-ban-ai-governance-europe",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-15T07:02:09Z"
+    },
+    {
+      "title": "OCBC rolls out generative AI training for wealth advisors",
+      "description": "First programme of its kind allows wealth advisors to hone their pitches through realistic AI role play, resulting in double the client appointments and a 50% growth in revenue in three months",
+      "url": "https://www.computerweekly.com/news/366641609/OCBC-rolls-out-generative-AI-training-for-wealth-advisors",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-04-15T06:45:00Z"
+    },
+    {
+      "title": "OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers",
+      "description": "Defending critical software has long depended on the ability to find and fix vulnerabilities faster than attackers can exploit them. OpenAI is expanding a program designed to give professional defenders prioritized access to AI tools built for that purpose. T…",
+      "url": "https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber",
+      "source": "Help Net Security",
+      "publishedAt": "2026-04-15T06:24:41Z"
+    },
+    {
+      "title": "Artue Joins OpenAI’s ‘Apps in ChatGPT,’ Linking Art Discovery to Transactions",
+      "description": "Artue, an AI-powered art platform operated by Habitus Associates, has entered OpenAI’s “Apps in ChatGPT” ecosystem, enabling users to discover and purchase artwork through conversational interfaces within ChatGPT. The integration allows users to browse, recei…",
+      "url": "https://platum.kr/archives/285341",
+      "source": "Platum.kr",
+      "publishedAt": "2026-04-15T05:02:06Z"
+    },
+    {
+      "title": "RISC-V gains ground in AI data centers with Nvidia backing SiFive",
+      "description": "AI workloads are scaling faster than traditional CPU architectures were ever designed to handle, exposing clear limits in performance per watt. SiFive's latest funding round highlights a shift in industry thinking, with RISC-V moving from niche alternative to…",
+      "url": "https://www.digitimes.com/news/a20260415PD221/risc-v-sifive-cpu-nvidia-data-center.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-15T04:58:38Z"
+    },
+    {
+      "title": "Google製ロボット用AIモデル「Gemini Robotics ER 1.6」が登場",
+      "description": "Googleが、「視覚」および「空間認識能力」を強化したロボット用のAIモデル「Gemini Robotics ER 1.6」を発表しました。Google検索を呼び出すなどして周囲の状況について推論するモデルになっているとのことです。Gemini Robotics ER 1.6: Enhanced Embodied Reasoning - Google DeepMindhttps://deepmind.google/blog/gemini-robotics-er-1-6/We’re rolling out an …",
+      "url": "https://news.livedoor.com/article/detail/31002944",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-15T04:25:00Z"
+    },
+    {
+      "title": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary - Fortune",
+      "description": "From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionaryFortune Suspect in Molotov attack at Sam Altman's San Francisco home set to appear in courtNBC Bay Area Man Held in Attack on OpenAI Chief’s Home Had List of A.I. Leaders…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181715138",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-15T04:12:52Z"
+    },
+    {
+      "title": "NVIDIA Just Made Quantum Computing Practical With Ising, The World’s First Open AI Models For Quantum Computers",
+      "description": "NVIDIA has introduced Ising, its newest OpenAI models designed to make Quantum Computers useful and faster with brand new capabilities. NVIDIA Ising AI Models For Quantum Computers Bring Up To 3x Performance Boost Quantum Computing has been cited as the next …",
+      "url": "https://wccftech.com/nvidia-made-quantum-computing-practical-with-ising-worlds-first-open-ai-models",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-15T02:35:09Z"
+    },
+    {
+      "title": "Why Your Claude Outputs Fall Short (And the 4 Files That Fix It)",
+      "description": "AI systems like Claude excel at handling specific tasks, but their outputs can fall short without a guiding framework. Marketing Against the Grain explores how a foundational context layer, inspired by Pixar’s “Brain Trust,” can elevate Claude’s performance. …",
+      "url": "https://www.geeky-gadgets.com/claude-ai-context-files-skills",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-15T07:11:00Z"
+    },
+    {
+      "title": "Mark Zuckerberg's surprising move inside Meta AI labs to take on rivals OpenAI and Google. Here's what the tech billionaire is doing",
+      "description": "Tech billionaire Mark Zuckerberg has made a surprising move inside the Meta AI labs to take on OpenAI and Google. He is now sitting next to Meta AI chief Alexandr Wang and former GitHub CEO Nat Friedman and is busy coding all day. It shows how seriously he is…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/mark-zuckerbergs-surprising-move-inside-meta-ai-labs-to-take-on-rivals-openai-and-google-heres-what-the-tech-billionaire-is-doing/articleshow/130275357.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-15T06:59:53Z"
+    },
+    {
+      "title": "Google Gemini「個人化智慧服務」正式登台：跨應用程式整合，你的 AI 助理更懂你",
+      "description": "今年初在美國市場首發的 Gemini「個人化智慧服務」（Personal Intelligence），今（15 […]\nThe post Google Gemini「個人化智慧服務」正式登台：跨應用程式整合，你的 AI 助理更懂你 appeared first on 電腦王阿達.",
+      "url": "https://www.koc.com.tw/archives/639071",
+      "source": "Koc.com.tw",
+      "publishedAt": "2026-04-15T06:45:55Z"
+    },
+    {
+      "title": "Why Pairing Claude and NotebookLM Creates the Ultimate AI Workflow",
+      "description": "NotebookLM and Claude combine distinct functionalities to streamline complex workflows in complementary ways. NotebookLM excels at organizing and structuring large datasets, making it ideal for tasks like compiling research or preparing detailed reports. Clau…",
+      "url": "https://www.geeky-gadgets.com/claude-notebooklm-integration-workflow",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-15T06:11:00Z"
+    },
+    {
+      "title": "NVIDIAが量子コンピューターを開発するためのAI「NVIDIA Ising」を発表",
+      "description": "NVIDIAが、研究者や企業が実用的なアプリケーションを実行できる量子プロセッサを構築することを支援する目的で設計された、世界初のオープンソース量子AIモデルファミリー「NVIDIA Ising」を発表しました。NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers | NVIDIA Newsroomhttps://nvidianews.nvidia.com…",
+      "url": "https://news.livedoor.com/article/detail/31003696",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-15T05:55:00Z"
+    },
+    {
+      "title": "NVIDIA Rises Even as Quantum Computing Threat Looms and Insider Selling Sparks Debate - Yahoo Finance",
+      "description": "NVIDIA Rises Even as Quantum Computing Threat Looms and Insider Selling Sparks DebateYahoo Finance NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum ComputersNVIDIA Newsroom Nvidia New AI Models Spark Rally in Qu…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181716098",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-15T05:32:19Z"
+    },
+    {
+      "title": "Turn Your Vacant M.2 Slot Into a 20B LLM Cruncher With This Dedicated AI Module: Packing 32 GB Memory & 60 TOPs",
+      "description": "Unigen's latest AI module runs on a standard M.2 slot and offers up to 60 TOPS, 32 GB memory, & can run up to 20B parameter LLMs. Unigen Amaretti AI Module Packs a 60 TOPS NPU, 32 GB Memory, & Consumes Just 10W Power On A M.2 or E1.S Slot With the rise of loc…",
+      "url": "https://wccftech.com/turn-your-vacant-m-2-slot-into-a-20b-llm-cruncher-with-dedicated-ai-module",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-15T05:30:05Z"
+    },
+    {
+      "title": "NVIDIA spent 1000% more on GPU warranty claims in 2025 than it did in 2024",
+      "description": "NVIDIA's warranty claim expenses for discrete GPUs, which includes GeForce RTX 50 Series cards, increased by a whopping 1000% last year.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111035/nvidia-spent-1000-percent-more-on-gpu-warranty-claims-in-2025-than-it-did-in-2024/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-15T05:04:04Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5060 and 5060 Ti Planned With 9 GB VRAM",
+      "description": "It was recently revealed that NVIDIA plans to launch a version of the RTX 5050 GPU with 9 GB of VRAM—three 3 GB modules of GDDR7 over a 96-bit bus and 336 GB/s total memory bandwidth. Now, according to a new leak by Hakuitado on the Board Channels forum (via …",
+      "url": "https://www.madshrimps.be/news/nvidia-geforce-rtx-5060-and-5060-ti-planned-with-9-gb-vram",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-15T04:32:34Z"
+    },
+    {
+      "title": "Google’s new Windows app is yet another way to access Gemini",
+      "description": "Google has introduced a new app for Windows desktops and, unsurprisingly, it puts AI front at center. If you aren’t a big fan of Google’s Gemini chatbot, then skip on past this download. For those of you who are heavy Gemini users, though, this could mean a s…",
+      "url": "https://www.madshrimps.be/news/googles-new-windows-app-is-yet-another-way-to-access-gemini",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-15T04:30:14Z"
+    },
+    {
+      "title": "Show HN: Firefox Sidebar Local LLM",
+      "description": "Article URL: https://github.com/skorotkiewicz/firefox-ai\nComments URL: https://news.ycombinator.com/item?id=47774670\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/skorotkiewicz/firefox-ai",
+      "source": "Github.com",
+      "publishedAt": "2026-04-15T04:26:08Z"
+    },
+    {
+      "title": "Taiwan's AI chip dominance draws the global spotlight and scrutiny",
+      "description": "Taiwan has emerged as the world's most consequential node in the AI supply chain — and the world is taking notice. Backed by TSMC's NT$53 trillion (US$1.67 trillion) market capitalization and a surge in AI-driven investment, the island's semiconductor industr…",
+      "url": "https://www.digitimes.com/news/a20260415PD204/taiwan-pwc-growth-tsmc-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-15T04:01:10Z"
+    },
+    {
+      "title": "Federal agencies skirt Trump's Anthropic ban to test its advanced AI model: Politico",
+      "description": "US agencies quietly bypass Trump’s ban on Anthropic, as a Commerce Department unit tests its advanced AI model Mythos for hacking capabilities, according to a Politico report.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/federal-agencies-skirt-trumps-anthropic-ban-to-test-its-advanced-ai-model-politico/articleshow/130272049.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-15T03:20:02Z"
+    },
+    {
+      "title": "JVNDB-2026-011004:Anthropic PBCのClaude SDK for Pythonにおける複数の脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011004_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-15T03:11:42Z"
+    },
+    {
+      "title": "Federal agencies skirt Trump’s Anthropic ban to test its advanced AI model, Politico reports",
+      "description": "April 14 : Federal agencies and government officials are quietly sidestepping U.S. President Donald Trump’s ban on working with Anthropic, Politico reported on Tuesday. The Commerce Department's Center for AI Standards and Innovation is actively testing Anthr…",
+      "url": "https://www.channelnewsasia.com/business/federal-agencies-skirt-trumps-anthropic-ban-test-its-advanced-ai-model-politico-reports-6057331",
+      "source": "CNA",
+      "publishedAt": "2026-04-15T03:11:41Z"
+    },
+    {
+      "title": "Show HN: Idea File for LLM Cycling Coach",
+      "description": "This is heavily inspired by Andrej Karpathy's LLM Wiki, and could be used to create many other types of \"Agentic Apps\" or however you want to call them.My specific implementation uses Claude Code, TrainingPeaks, Todoist and Apple health. So far it is better t…",
+      "url": "https://gist.github.com/leourbina/4db27d9a0a86b9e1551bf9d4b3fd6dad",
+      "source": "Github.com",
+      "publishedAt": "2026-04-15T03:00:07Z"
+    },
+    {
+      "title": "Microsoftが画像生成AI「MAI-Image-2-Efficient」を発表、GoogleやOpenAIのモデルより安価で高速",
+      "description": "Microsoftが画像生成AI「MAI-Image-2-Efficient」を2026年4月14日に発表しました。MAI-Image-2-Efficientは競合モデルと比較して安価かつ高速な生成処理が可能だとアピールされています。MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost | Microsoft AIhttps://microsoft.ai/news/mai-image-2-efficient/Introducing MAI-Image-2-…",
+      "url": "https://news.livedoor.com/article/detail/31001809",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-15T02:52:00Z"
+    },
+    {
+      "title": "Anthropic's rise is giving some OpenAI investors second thoughts | TechCrunch",
+      "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T02:32:59Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+      "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model",
+      "Anthropic, OpenAI, and the Pentagon: a cautionary tale for democratic AI governance",
+      "OCBC rolls out generative AI training for wealth advisors",
+      "OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+        "https://www.thehindubusinessline.com/info-tech/openai-unveils-gpt-54-cyber-a-week-after-rivals-announcement-of-ai-model/article70863717.ece",
+        "https://thenextweb.com/news/anthropic-pentagon-ban-ai-governance-europe"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/federal-agencies-skirt-trumps-anthropic-ban-to-test-its-advanced-ai-model-politico/articleshow/130272049.cms",
+        "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011004_AD_1.html",
+        "https://www.channelnewsasia.com/business/federal-agencies-skirt-trumps-anthropic-ban-test-its-advanced-ai-model-politico-reports-6057331"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260415PD221/risc-v-sifive-cpu-nvidia-data-center.html",
+        "https://news.livedoor.com/article/detail/31003696",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=181716098"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.computerweekly.com/news/366641609/OCBC-rolls-out-generative-AI-training-for-wealth-advisors",
+        "https://www.koc.com.tw/archives/639071"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/31002944",
+        "https://www.geeky-gadgets.com/claude-ai-context-files-skills",
+        "https://www.geeky-gadgets.com/claude-notebooklm-integration-workflow"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
