@@ -1,0 +1,431 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-17",
+  "last_updated_utc": "2026-04-17T07:26:00.980Z",
+  "news": [
+    {
+      "title": "Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics",
+      "description": "The two companies announced an expanded partnership at a Cadence conference in Santa Clara on Wednesday. The goal: make robot training data more accurate so physical AI systems reach real-world deployment faster. Cadence Design Systems and Nvidia have announc…",
+      "url": "https://thenextweb.com/news/cadence-nvidia-robotics-physics-simulation-ai",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-16T07:24:56Z"
+    },
+    {
+      "title": "TSMC raises bar again with bullish 2Q26 outlook as AI demand shows no signs of slowing",
+      "description": "Fresh off a quarter in which it beat its own margin forecasts by a wide margin, TSMC issued second-quarter guidance that signals the AI-driven chip boom is accelerating rather than plateauing. The world's largest contract chipmaker projected a second quarter …",
+      "url": "https://www.digitimes.com/news/a20260416VL217/tsmc-demand-guidance-revenue-expansion.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T07:22:05Z"
+    },
+    {
+      "title": "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand",
+      "description": "TSMC anticipates a 50% profit surge, driven by soaring AI chip demand, marking its fourth consecutive record earnings quarter.",
+      "url": "https://www.thehindubusinessline.com/info-tech/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-oninsatiable-ai-demand/article70868016.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-16T07:21:52Z"
+    },
+    {
+      "title": "Air Liquide to invest $236 million in Japan to support next-generation AI chip production",
+      "description": "April 16 : Air Liquide said on Thursday it would invest 200 million euros ($236 million) in Japan to build, own and operate two new industrial gas production units in Hiroshima, under a long-term agreement with a global semiconductor leader expanding its adva…",
+      "url": "https://www.channelnewsasia.com/business/air-liquide-invest-236-million-in-japan-support-next-generation-ai-chip-production-6060331",
+      "source": "CNA",
+      "publishedAt": "2026-04-16T07:07:12Z"
+    },
+    {
+      "title": "Operationalizing Economic Statecraft: A New Imperative for the Pentagon",
+      "description": "Editor’s note: This article is the sixth in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the broader national security ecosystem. This special series is brought…",
+      "url": "https://warontherocks.com/operationalizing-economic-statecraft-a-new-imperative-for-the-pentagon",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-16T07:00:57Z"
+    },
+    {
+      "title": "User Buys Ryzen 9 9950X3D From Amazon, Only To Find Its Missing The Entire CPU Under The Heatsink Lid",
+      "description": "A user who bought an AMD Ryzen 9 9950X3D CPU from Amazon has discovered that he only got a CPU heatsink lid & is missing the whole CPU underneath. This User Thought He Secured A Great Deal On An AMD Ryzen 9 9950X3D CPU From Amazon, But Didn't Turn Out To Be S…",
+      "url": "https://wccftech.com/user-buys-ryzen-9-9950x3d-from-amazon-finds-entire-cpu-missing-under-heatsink",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-16T07:00:06Z"
+    },
+    {
+      "title": "AI demand drives chipmaker TSMC's net profit to fresh record",
+      "description": "Governments and tech giants are pouring hundreds of billions of dollars into building new data centres that can run and train AI tools such as chatbots, image generators and agents that can execute tasks. TSMC said its net profit for the first quarter of 2026…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-demand-drives-chipmaker-tsmcs-net-profit-to-fresh-record/articleshow/130300150.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-16T06:59:58Z"
+    },
+    {
+      "title": "The Italian deeptech making graphene-based optical chips gets €211M",
+      "description": "CamGraPhIC, a subsidiary of Milan-based 2D Photonics, has received European Commission approval for €211M in Italian state funding to industrialise its graphene photonic interconnect technology and build a pilot manufacturing line near Milan. CamGraPhIC, the …",
+      "url": "https://thenextweb.com/news/camgraphic-2d-photonics-graphene-photonics-eu-grant",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-16T06:53:00Z"
+    },
+    {
+      "title": "Intel \"Crescent Island\" Xe3P to Skip Arc Gaming GPUs, Focus on Workstations",
+      "description": "Intel's upcoming \"Crescent Island\" series of GPUs, based on the newly developed Xe3P graphics IP, will be hitting the market this year. However, it seems this IP won't be featured in the desktop Arc gaming series of discrete GPUs. According to a reliable leak…",
+      "url": "https://www.techpowerup.com/348270/intel-crescent-island-xe3p-to-skip-arc-gaming-gpus-focus-on-workstations",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-16T06:50:34Z"
+    },
+    {
+      "title": "Nvidia extends 10-day rally, up 18% on AI demand",
+      "description": "Nvidia's rally highlights the growing influence of AI demand on market dynamics, potentially reshaping global tech leadership and trade policies.\nThe post Nvidia extends 10-day rally, up 18% on AI demand appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-extends-10-day-rally-up-18-on-ai-demand",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-16T06:46:53Z"
+    },
+    {
+      "title": "TSMC 1Q26 earnings: AI demand sends profit up 58%, gross margin to all-time high",
+      "description": "Taiwan Semiconductor Manufacturing Company (TSMC) reported a first-quarter 2026 revenue of US$35.90 billion, a 40.6% jump from a year earlier, as insatiable demand for artificial intelligence (AI) processors pushed the world's largest contract chipmaker to it…",
+      "url": "https://www.digitimes.com/news/a20260416VL214/tsmc-earnings-revenue-demand-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T06:46:47Z"
+    },
+    {
+      "title": "TSMC cautious on supply chain amid Middle East tensions, US-Iran ceasefire risk",
+      "description": "TSMC's cautious approach highlights the global semiconductor industry's vulnerability to geopolitical tensions and supply chain disruptions.\nThe post TSMC cautious on supply chain amid Middle East tensions, US-Iran ceasefire risk appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/tsmc-cautious-on-supply-chain-amid-middle-east-tensions-us-iran-ceasefire-risk",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-16T06:18:28Z"
+    },
+    {
+      "title": "Intel To Disclose Full Details of Elon’s Ground-Breaking TeraFab Project That Will Reshape The Chipmaking Industry",
+      "description": "Latest details suggest that Intel is weeks away from unveiling details on Elon's Terafab chipmaking project, which is set to reshape the industry. Elon Musk's TeraFab Project Is Taking Shape As Intel Is All Set To Unveil Its Plans In A Few Weeks Dylan Martin …",
+      "url": "https://wccftech.com/intel-to-disclose-full-details-of-elon-terafab-project-will-reshape-chipmaking-industry",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-16T06:10:03Z"
+    },
+    {
+      "title": "Intel Foundry Nears Major Customer Wins as Apple, AMD, Google, and NVIDIA Weigh Deals",
+      "description": "Intel Foundry has been attracting significant attention from the industry lately, with some of the world's largest companies expected to announce new foundry commitments this fall, according to UBS Group. The investment bank has reported that Intel Foundry is…",
+      "url": "https://www.techpowerup.com/348261/intel-foundry-nears-major-customer-wins-as-apple-amd-google-and-nvidia-weigh-deals",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-16T06:04:09Z"
+    },
+    {
+      "title": "Fluoride Levels Reduced in Multiple U.S. Municipal Water Systems as Supply Chain Disruption Reported",
+      "description": "Multiple U.S. municipalities have announced temporary reductions in the fluoride levels added to public drinking water, citing a supply chain disruption affecting the availability of fluoride chemicals. The Baltimore City Department of Public Works said on Ap…",
+      "url": "https://www.naturalnews.com/2026-04-16-fluoride-levels-reduced-water-supply-chain-disrupted.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-16T06:00:00Z"
+    },
+    {
+      "title": "TSMC’s Profit Surges 58% On AI-Driven Chip Demand",
+      "description": "Taiwan Semiconductor Manufacturing Co. booked a 58% surge in profit, a sign that the Middle East war in its first few weeks did not depress booming AI investment.",
+      "url": "https://financialpost.com/pmn/business-pmn/tsmcs-profit-surges-58-on-ai-driven-chip-demand",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-16T05:55:46Z"
+    },
+    {
+      "title": "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
+      "description": "Nvidia CEO Jensen Huang says China has the computing power and empty data centers needed to build AI models like Anthropic’s Claude Mythos.",
+      "url": "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-16T05:53:02Z"
+    },
+    {
+      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
+      "description": "TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.",
+      "url": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-16T05:52:35Z"
+    },
+    {
+      "title": "NVIDIA CEO, Jensen Huang, To Host GTC Taipei Keynote Ahead of Computex 2026, Will Unveil Next-Gen AI Breakthroughs & Consumer Surprise",
+      "description": "NVIDIA has officially announced its GTC Taipei 2026 keynote, where CEO Jensen Huang will take the stage to unveil next-gen AI breakthroughs. NVIDIA To Host Its Own Special GTC Taipei Keynote Ahead of Computex, Will Focus on AI, But Consumer Updates Also On Th…",
+      "url": "https://wccftech.com/nvidia-ceo-jensen-huang-to-host-gtc-taipei-keynote-ahead-of-computex-2026",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-16T05:45:08Z"
+    },
+    {
+      "title": "TSMC Q1 profit surges 58% to record on AI boom despite Middle East tensions",
+      "description": "TSMC Q1 profit surges 58% to record on AI boom despite Middle East tensionsnikkei.com",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-q1-profit-surges-58-to-record-on-ai-boom-despite-middle-east-tensions",
+      "source": "Nikkei.com",
+      "publishedAt": "2026-04-16T05:36:24Z"
+    },
+    {
+      "title": "TSMC Q1 profit jumps 58% to record, beats expectations",
+      "description": "TAIPEI, April 16 : TSMC, the world's largest contract chipmaker, posted a 58 per cent jump in first-quarter net profit on Thursday, beating market forecasts and hitting a record, as it benefits from huge appetite globally for its artificial intelligence proce…",
+      "url": "https://www.channelnewsasia.com/business/tsmc-q1-profit-jumps-58-record-beats-expectations-6060166",
+      "source": "CNA",
+      "publishedAt": "2026-04-16T05:32:52Z"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia invests in tons of companies, instead of trying to pick winners",
+      "description": "Huang said that there were two reasons behind this. One, its not Nvidia's job to pick winners. Two, the company's history is a lesson.",
+      "url": "https://www.businessinsider.com/jensen-huang-explains-nvidia-doesnt-pick-winners-openai-anthropic-intel-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-16T05:25:12Z"
+    },
+    {
+      "title": "Skeptical Science New Research for Week #16 2026",
+      "description": "Open access notables\n\nSynergistic impact of marine heat waves and rapid intensification exacerbates tropical cyclone destructive power worldwide, Radfar et al., Science Advances\n\nTropical cyclones (TCs) are among the most devastating natural phenomena, causin…",
+      "url": "https://skepticalscience.com/new_research_2026_16.html",
+      "source": "Skepticalscience.com",
+      "publishedAt": "2026-04-16T05:23:40Z"
+    },
+    {
+      "title": "Datavault AI 於紐約和費城啟用首批邊緣 GPU 據點；價值 14.4 億至 19.2 億美元的量子就緒機隊，預計將於 2026 年底前覆蓋全美 100 多個城市",
+      "description": "Built on Available Infrastructure's SanQtum AI quantum-resistant edge platform, the 48,000-GPU fleet targets enterprises facing extended GPU lead times - with DataValue®, DataScore®, and Information Data Exchange® (IDE®) tokenization ...",
+      "url": "https://tw.stock.yahoo.com/news/datavault-ai-%E6%96%BC%E7%B4%90%E7%B4%84%E5%92%8C%E8%B2%BB%E5%9F%8E%E5%95%9F%E7%94%A8%E9%A6%96%E6%89%B9%E9%82%8A%E7%B7%A3-gpu-%E6%93%9A%E9%BB%9E-132000409.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-16T05:20:00Z"
+    },
+    {
+      "title": "Elon Musk thanks Samsung for making first Tesla AI5 chip",
+      "description": "Samsung bagged a contract to manufacture Tesla’s AI5 chips a few months ago, and it appears to have taped out the first AI5 chip. Tesla CEO Elon Musk congratulated the company’s chip design division and thanked both Samsung and TSMC for the first tape-out of …",
+      "url": "https://www.sammobile.com/news/elon-musk-thanks-samsung-first-tesla-ai5-chip",
+      "source": "SamMobile",
+      "publishedAt": "2026-04-16T05:01:35Z"
+    },
+    {
+      "title": "Honda pulls e:Ny1 from UK market in great EV reset",
+      "description": "Japanese company now sells no electric cars in the UK as it struggles with electrification globally\n\nTake a look at Honda’s UK website and you will notice a big omission: no electric car.\r\n\nGiven that car makers here are legally bound by the ZEV mandate to hi…",
+      "url": "https://www.autocar.co.uk/car-news/business-electric-vehicles/honda-pulls-eny1-uk-market-great-ev-reset",
+      "source": "Autocar",
+      "publishedAt": "2026-04-16T05:00:00Z"
+    },
+    {
+      "title": "Nvidia’s Huang Says Mythos Shows Need for US-China AI Dialogue",
+      "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said that Anthropic PBC’s Mythos breakthrough shows that the US should seek greater cooperation with China so artificial intelligence researchers in the world’s two largest economies can agree on how to safely…",
+      "url": "https://financialpost.com/pmn/business-pmn/nvidias-huang-says-mythos-shows-need-for-us-china-ai-dialogue",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-16T04:59:34Z"
+    },
+    {
+      "title": "Intel Core Ultra X7 358H-powered open robotics development system targets humanoid robots and autonomous vehicles",
+      "description": "AAEON CEXD-INTRBL is an \"open robotics development system\" powered by a 16-core, 180 TOPS Intel Core Ultra X7 Processor 358H (Panther Lake) SoC and designed for the development of AI-enhanced humanoid robots and autonomous vehicle platforms. The Edge AI compu…",
+      "url": "https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles",
+      "source": "CNX Software",
+      "publishedAt": "2026-04-16T04:51:24Z"
+    },
+    {
+      "title": "China's homegrown GPU startups gain ground in global AI chip race",
+      "description": "China's domestic GPU industry is entering a new phase of rapid commercialization, as leading startups post strong revenue growth while intensifying investment in research, patents, and ecosystem development.",
+      "url": "https://www.digitimes.com/news/a20260416VL205/china-gpu-development-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:30:46Z"
+    },
+    {
+      "title": "Musk's impending SpaceX financial revolution, deceiving the world through propaganda",
+      "description": "Are you ready to stake your entire fortune on the word of someone you've never met, simply by trusting their word?\r\n<!-- gossip-below-article-Rs --> (adsbygoogle = window.adsbygoogle || []).push({});World-renowned billionaire Elon Musk is preparing to launch …",
+      "url": "https://english.gossiplankanews.com/2026/04/musks-impending-spacex-financial.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-04-16T04:30:23Z"
+    },
+    {
+      "title": "Tesla AI5 tape-out signals dual sourcing with Samsung, TSMC",
+      "description": "Tesla has finalized the design of its next-generation AI5 chip, marking a milestone in its in-house semiconductor development. CEO Elon Musk confirmed the tape-out in a post on X, saying the design has been sent to foundry partners for fabrication. Musk also …",
+      "url": "https://www.digitimes.com/news/a20260416VL211/tesla-chips-design-samsung-tsmc-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:17:53Z"
+    },
+    {
+      "title": "Cadence, Nvidia deepen AI partnership to reshape chip design and robotics",
+      "description": "Cadence Design Systems and Nvidia have expanded their partnership to accelerate the use of artificial intelligence (AI) across semiconductor design, robotics, and large-scale AI infrastructure, the companies said at CadenceLIVE Silicon Valley 2026. The collab…",
+      "url": "https://www.digitimes.com/news/a20260416VL200/cadence-nvidia-eda-partnership-ai-agent-robotics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:11:24Z"
+    },
+    {
+      "title": "Terafab Equipment and Chip Orders",
+      "description": "Elon Musk is ordering equipment for the Terafab with the capacity to process 3,000 wafers per month. 36,000 wafers per year. 3-4 million chips per year. There could be similar numbers from Intel fabs in 2027 and perhaps double from each of Samsung and TSMC. T…",
+      "url": "https://www.nextbigfuture.com/2026/04/terafab-equipment-and-chip-orders.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-04-16T04:10:40Z"
+    },
+    {
+      "title": "Samsung System LSI talent exits raise risks for Exynos and image sensors",
+      "description": "A wave of departures among core engineers at Samsung Electronics' System LSI division is raising concerns over a potential leadership gap at its non-memory chip unit, particularly in areas tied to Exynos processors and ISOCELL image sensors.",
+      "url": "https://www.digitimes.com/news/a20260415PD234/samsung-lsi-exynos-cis-talent-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:02:13Z"
+    },
+    {
+      "title": "Memory suppliers post record 1Q26 revenue as AI demand defies seasonal slowdown",
+      "description": "The global memory industry delivered its strongest first-quarter performance on record in 2026, defying the traditional seasonal slowdown as strong AI demand drove supply shortages and accelerated an upcycle. Revenue across the supply chain rose sharply year …",
+      "url": "https://www.digitimes.com/news/a20260415PD218/revenue-demand-2026-growth-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:57:15Z"
+    },
+    {
+      "title": "Taiwan says core trade objectives unchanged amid US Section 301 probe",
+      "description": "Taiwan's affirmation that its core trade objectives remain unchanged despite a US Section 301 probe has global implications: shifts in tariffs and disputes could affect supply chains, technology markets, and investment flows, especially in the AI and semicond…",
+      "url": "https://www.digitimes.com/news/a20260416PD205/taiwan-probe-2026-investment-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:52:03Z"
+    },
+    {
+      "title": "TSMC says Applied Materials and JSR form top-tier chipmaking team",
+      "description": "Japanese materials giant JSR has established an advanced planarization process solution joint research center in Taiwan, with JSR representative director and CEO Hank Hori personally attending the launch. Also present were Derek Witty, general manager of Appl…",
+      "url": "https://www.digitimes.com/news/a20260416PD227/jsr-materials-applied-materials-tsmc-equipment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:46:56Z"
+    },
+    {
+      "title": "ASE Holdings to acquire Innolux Fab 5 for US$460 million",
+      "description": "ASE Holdings has secured Innolux's Fab 5, with the company announcing on April 15 that its semiconductor unit's board had approved the NT$14.85 billion (US$460 million) acquisition.",
+      "url": "https://www.digitimes.com/news/a20260416PD225/ase-innolux-demand-capacity-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:44:58Z"
+    },
+    {
+      "title": "Advanced Power Electronics confirms price hikes amid memory shortage hitting PC revenue",
+      "description": "Advanced Power Electronics Corp.'s (APEC's) report signaling rising component costs and constrained foundry capacity has implications for global tech supply chains, potentially affecting device prices and production timelines. The company plans to seek price …",
+      "url": "https://www.digitimes.com/news/a20260416PD208/apec-revenue-price-pc-component.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:44:12Z"
+    },
+    {
+      "title": "Analysis: Nvidia links RISC-V to NVLink with SiFive investment",
+      "description": "Agentic AI is pulling CPUs back to the center of the AI stack, turning them into a renewed battleground for chipmakers. After Arm moved into AGI-focused CPU design, Nvidia has followed with a stake in SiFive, a RISC-V IP provider, signaling a broader shift in…",
+      "url": "https://www.digitimes.com/news/a20260415PD223/risc-v-nvidia-sifive-investment-arm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:43:22Z"
+    },
+    {
+      "title": "Samsung targets May HBM4E samples for Nvidia after validation",
+      "description": "Samsung Electronics is aiming to produce its first samples of next-generation high-bandwidth memory (HBM4E) as early as May, with plans to deliver the chips to Nvidia after internal validation, according to Chosun Biz.",
+      "url": "https://www.digitimes.com/news/a20260416VL207/samsung-hbm4-dram-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:15:47Z"
+    },
+    {
+      "title": "Goregaon concert deaths: One more detained; probe widens into drug supply chain",
+      "description": "Goregaon concert deaths probe deepens with one more detained as police trace MDMA supply chain and examine links to wider drug network in Mumbai.",
+      "url": "https://indianexpress.com/article/cities/mumbai/goregaon-concert-probe-widens-into-drug-supply-chain-10639115",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-16T03:15:14Z"
+    },
+    {
+      "title": "Tata steps up iPhone manufacturing investments with fresh capital infusion",
+      "description": "India's Tata Group has injected fresh capital into its electronics manufacturing arm, Tata Electronics, as it accelerates efforts to scale up iPhone production and strengthen its role in Apple's global supply chain.",
+      "url": "https://www.digitimes.com/news/a20260416VL201/tata-group-electronics-manufacturing-india-apple-iphone.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:06:35Z"
+    },
+    {
+      "title": "Michael Dell enters list of Top 10 Wealth Gainers for 2026, and he may need to thank Nvidia for this",
+      "description": "Tech News News: Dell CEO Michael Dell has returned to the list of top 10 wealth gainers in 2026. According to Bloomberg data, Dell’s net worth has increased by about .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-enters-list-of-top-10-wealth-gainers-for-2026-and-he-may-need-to-thank-nvidia-for-this/articleshow/130296688.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-16T03:05:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics",
+      "TSMC raises bar again with bullish 2Q26 outlook as AI demand shows no signs of slowing",
+      "TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand",
+      "Air Liquide to invest $236 million in Japan to support next-generation AI chip production",
+      "Operationalizing Economic Statecraft: A New Imperative for the Pentagon"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tsmc",
+      "summary": "Grouped stories where \"tsmc\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260416VL217/tsmc-demand-guidance-revenue-expansion.html",
+        "https://www.thehindubusinessline.com/info-tech/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-oninsatiable-ai-demand/article70868016.ece",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-demand-drives-chipmaker-tsmcs-net-profit-to-fresh-record/articleshow/130300150.cms"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/cadence-nvidia-robotics-physics-simulation-ai",
+        "https://cryptobriefing.com/nvidia-extends-10-day-rally-up-18-on-ai-demand",
+        "https://www.techpowerup.com/348261/intel-foundry-nears-major-customer-wins-as-apple-amd-google-and-nvidia-weigh-deals"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/business/air-liquide-invest-236-million-in-japan-support-next-generation-ai-chip-production-6060331",
+        "https://www.digitimes.com/news/a20260416VL205/china-gpu-development-revenue.html",
+        "https://www.digitimes.com/news/a20260415PD234/samsung-lsi-exynos-cis-talent-design.html"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260415PD218/revenue-demand-2026-growth-price.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://warontherocks.com/operationalizing-economic-statecraft-a-new-imperative-for-the-pentagon",
+        "https://wccftech.com/user-buys-ryzen-9-9950x3d-from-amazon-finds-entire-cpu-missing-under-heatsink",
+        "https://thenextweb.com/news/camgraphic-2d-photonics-graphene-photonics-eu-grant"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics. Main topic cluster: Tsmc. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics. Main topic cluster: Tsmc. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics. Main topic cluster: Tsmc. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics. Main topic cluster: Tsmc. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics. Main topic cluster: Tsmc. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

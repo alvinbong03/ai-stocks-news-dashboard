@@ -1,0 +1,299 @@
+{
+  "theme": "ai",
+  "date": "2026-04-17",
+  "last_updated_utc": "2026-04-17T07:25:42.037Z",
+  "news": [
+    {
+      "title": "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
+      "description": "Nvidia CEO Jensen Huang says China has the computing power and empty data centers needed to build AI models like Anthropic’s Claude Mythos.",
+      "url": "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-16T05:53:02Z"
+    },
+    {
+      "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+      "description": "OpenAI says it will introduce a new artificial intelligence model for \"high-value professional work\" as the company faces heightened competition with rival Anthropic in attracting corporate customers to adopt AI assistants in their workplaces. \"You'll see a n…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-maker-openai-shifts-its-focus-to-business-users-amid-anthropic-pressure/articleshow/130297757.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-16T04:32:57Z"
+    },
+    {
+      "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+      "description": "OpenAI executives say they will introduce a new artificial intelligence model for “high-value professional work” as the company faces heightened competition with rival Anthropic in attracting corporate customers to adopt AI assistants in their workplaces. Ope…",
+      "url": "https://www.seattlepi.com/business/article/chatgpt-maker-openai-shifts-its-focus-to-business-22209288.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-04-16T04:09:35Z"
+    },
+    {
+      "title": "Nvidia CEO urges US-China dialogue on AI safety after Anthropic breakthrough",
+      "description": "Enhanced US-China AI safety dialogue could mitigate dual-use risks, influencing global security and market dynamics significantly.\nThe post Nvidia CEO urges US-China dialogue on AI safety after Anthropic breakthrough appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-ceo-urges-us-china-dialogue-on-ai-safety-after-anthropic-breakthrough",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-16T02:19:13Z"
+    },
+    {
+      "title": "Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics",
+      "description": "The two companies announced an expanded partnership at a Cadence conference in Santa Clara on Wednesday. The goal: make robot training data more accurate so physical AI systems reach real-world deployment faster. Cadence Design Systems and Nvidia have announc…",
+      "url": "https://thenextweb.com/news/cadence-nvidia-robotics-physics-simulation-ai",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-16T07:24:56Z"
+    },
+    {
+      "title": "Claude puts up a wall as ID checks complicate access for Chinese users",
+      "description": "AI tool Claude, developed by Anthropic, suddenly announced the rollout of a new identity verification system requiring users to complete a real-time selfie check while holding a government-issued ID. The move has drawn global attention, but for Chinese users …",
+      "url": "http://technode.com/2026/04/16/claude-puts-up-a-wall-as-id-checks-complicate-access-for-chinese-users",
+      "source": "TechNode",
+      "publishedAt": "2026-04-16T05:56:14Z"
+    },
+    {
+      "title": "China's homegrown GPU startups gain ground in global AI chip race",
+      "description": "China's domestic GPU industry is entering a new phase of rapid commercialization, as leading startups post strong revenue growth while intensifying investment in research, patents, and ecosystem development.",
+      "url": "https://www.digitimes.com/news/a20260416VL205/china-gpu-development-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:30:46Z"
+    },
+    {
+      "title": "Cadence, Nvidia deepen AI partnership to reshape chip design and robotics",
+      "description": "Cadence Design Systems and Nvidia have expanded their partnership to accelerate the use of artificial intelligence (AI) across semiconductor design, robotics, and large-scale AI infrastructure, the companies said at CadenceLIVE Silicon Valley 2026. The collab…",
+      "url": "https://www.digitimes.com/news/a20260416VL200/cadence-nvidia-eda-partnership-ai-agent-robotics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T04:11:24Z"
+    },
+    {
+      "title": "OpenAI builds tool to track whether ChatGPT ads convert",
+      "description": "The AI platform is selectively enabling its pixel for some advertisers in the pilot as it continues to test and iterate its capability.",
+      "url": "http://digiday.com/marketing/openai-builds-tool-to-track-whether-chatgpt-ads-convert",
+      "source": "Digiday",
+      "publishedAt": "2026-04-16T04:01:00Z"
+    },
+    {
+      "title": "CoreWeave secures $7B AI chip deal with Jane Street",
+      "description": "The deal highlights the expanding demand for AI chips in finance, potentially boosting NVIDIA's market cap and industry influence.\nThe post CoreWeave secures $7B AI chip deal with Jane Street appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coreweave-secures-7b-ai-chip-deal-with-jane-street",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-16T02:11:49Z"
+    },
+    {
+      "title": "Vojtěch Trefný: Using LLM for Code Review in storaged Projects",
+      "description": "For a couple of months now, we have been experimenting with using AI/LLM tools for code review for our projects under the storaged.org umbrella. We originally started with testing various tools for pull request reviews available on GitHub. For that, we are cu…",
+      "url": "https://storaged.org/other/2026/04/16/Using-LLM-for-code-review-in-storaged.html",
+      "source": "Storaged.org",
+      "publishedAt": "2026-04-16T07:13:00Z"
+    },
+    {
+      "title": "OpenAIが長時間稼働するAIエージェントを構築可能になる「Agents SDK」の更新を発表",
+      "description": "OpenAIがAIエージェントを構築・運用するためのSDK「Agents SDK」の次世代アップデートを発表しました。エージェントがファイル操作・コード実行・コマンド操作などを安全かつ効率的に行えるようになっています。The next evolution of the Agents SDK | OpenAIhttps://openai.com/index/the-next-evolution-of-the-agents-sdk/Build long-running agents with more control…",
+      "url": "https://news.livedoor.com/article/detail/31015275",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-16T07:10:00Z"
+    },
+    {
+      "title": "Air Liquide to invest $236 million in Japan to support next-generation AI chip production",
+      "description": "April 16 : Air Liquide said on Thursday it would invest 200 million euros ($236 million) in Japan to build, own and operate two new industrial gas production units in Hiroshima, under a long-term agreement with a global semiconductor leader expanding its adva…",
+      "url": "https://www.channelnewsasia.com/business/air-liquide-invest-236-million-in-japan-support-next-generation-ai-chip-production-6060331",
+      "source": "CNA",
+      "publishedAt": "2026-04-16T07:07:12Z"
+    },
+    {
+      "title": "Nvidia extends 10-day rally, up 18% on AI demand",
+      "description": "Nvidia's rally highlights the growing influence of AI demand on market dynamics, potentially reshaping global tech leadership and trade policies.\nThe post Nvidia extends 10-day rally, up 18% on AI demand appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-extends-10-day-rally-up-18-on-ai-demand",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-16T06:46:53Z"
+    },
+    {
+      "title": "AgentSeal/codeburn: See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+      "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. - AgentSeal/codeburn",
+      "url": "https://github.com/AgentSeal/codeburn",
+      "source": "Github.com",
+      "publishedAt": "2026-04-16T05:47:02Z"
+    },
+    {
+      "title": "NVIDIA CEO, Jensen Huang, To Host GTC Taipei Keynote Ahead of Computex 2026, Will Unveil Next-Gen AI Breakthroughs & Consumer Surprise",
+      "description": "NVIDIA has officially announced its GTC Taipei 2026 keynote, where CEO Jensen Huang will take the stage to unveil next-gen AI breakthroughs. NVIDIA To Host Its Own Special GTC Taipei Keynote Ahead of Computex, Will Focus on AI, But Consumer Updates Also On Th…",
+      "url": "https://wccftech.com/nvidia-ceo-jensen-huang-to-host-gtc-taipei-keynote-ahead-of-computex-2026",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-16T05:45:08Z"
+    },
+    {
+      "title": "Sources say Ola's AI venture Krutrim's smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled (Swathi Moorthy/The Economic Times)",
+      "description": "Swathi Moorthy / The Economic Times:\nSources say Ola's AI venture Krutrim's smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled  —  While ‘Kruti’ was not accessible via its direct website, k…",
+      "url": "https://www.techmeme.com/260416/p3",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-16T05:35:02Z"
+    },
+    {
+      "title": "Datavault AI 於紐約和費城啟用首批邊緣 GPU 據點；價值 14.4 億至 19.2 億美元的量子就緒機隊，預計將於 2026 年底前覆蓋全美 100 多個城市",
+      "description": "Built on Available Infrastructure's SanQtum AI quantum-resistant edge platform, the 48,000-GPU fleet targets enterprises facing extended GPU lead times - with DataValue®, DataScore®, and Information Data Exchange® (IDE®) tokenization ...",
+      "url": "https://tw.stock.yahoo.com/news/datavault-ai-%E6%96%BC%E7%B4%90%E7%B4%84%E5%92%8C%E8%B2%BB%E5%9F%8E%E5%95%9F%E7%94%A8%E9%A6%96%E6%89%B9%E9%82%8A%E7%B7%A3-gpu-%E6%93%9A%E9%BB%9E-132000409.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-16T05:20:00Z"
+    },
+    {
+      "title": "Cathay FHC advances AI Adoption across the group with OpenAI",
+      "description": "Cathay Financial Holdings (Cathay FHC) today announced a long-term strategic collaboration with OpenAI to strengthen the Group&#39;s core capabilities in AI ...",
+      "url": "https://en.antaranews.com/news/412479/cathay-fhc-advances-ai-adoption-across-the-group-with-openai",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-04-16T05:16:42Z"
+    },
+    {
+      "title": "Claude Codeに条件に応じてタスクを自動で実行するルーチン機能が追加される、「プルリクエストを自動でチェック」などが可能",
+      "description": "2026年4月14日、Anthropicは自律型コーディング支援ツール「Claude Code」にルーチン機能を実装しました。ルーチン機能を使うと設定した条件に応じて特定のタスクを自動実行できます。Introducing routines in Claude Code | Claudehttps://claude.com/blog/introducing-routines-in-claude-codeNow in research preview: routines in Claude Code.Configur…",
+      "url": "https://news.livedoor.com/article/detail/31013894",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-16T04:30:00Z"
+    },
+    {
+      "title": "Amazon cuts AI data center build time from 15 weeks to 3",
+      "description": "Amazon is pushing to compress AI data center build times through an internal initiative known as Project Houdini, shifting construction from labor-intensive on-site assembly to factory-based modular production.",
+      "url": "https://www.digitimes.com/news/a20260416PD217/amazon-data-center-infrastructure-aws-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:48:46Z"
+    },
+    {
+      "title": "Analysis: Nvidia links RISC-V to NVLink with SiFive investment",
+      "description": "Agentic AI is pulling CPUs back to the center of the AI stack, turning them into a renewed battleground for chipmakers. After Arm moved into AGI-focused CPU design, Nvidia has followed with a stake in SiFive, a RISC-V IP provider, signaling a broader shift in…",
+      "url": "https://www.digitimes.com/news/a20260415PD223/risc-v-nvidia-sifive-investment-arm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-16T03:43:22Z"
+    },
+    {
+      "title": "OpenAI updates Agents SDK with native sandboxing and an in-distribution harness for deploying and testing agents on long-horizon tasks (Lucas Ropek/TechCrunch)",
+      "description": "Lucas Ropek / TechCrunch:\nOpenAI updates Agents SDK with native sandboxing and an in-distribution harness for deploying and testing agents on long-horizon tasks  —  Agentic AI is the tech industry's newest success story, and companies like OpenAI and Anthropi…",
+      "url": "https://www.techmeme.com/260415/p51",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-16T03:20:20Z"
+    },
+    {
+      "title": "Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip with 18-core CPU and 20-core GPU 16.2-inch Liquid Retina XDR Display, 48GB Unified Memory, 1TB SSD, Wi-Fi 7; Space Black $2899",
+      "description": "Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip with 18-core CPU and 20-core GPU: Built for AI, 16.2-inch Liquid Retina XDR Display, 48GB Unified \n \nhttps://www.amazon.com/Apple-MacB...0GR14G9PM/",
+      "url": "https://slickdeals.net/f/19425570-apple-2026-macbook-pro-laptop-with-apple-m5-pro-chip-with-18-core-cpu-and-20-core-gpu-16-2-inch-liquid-retina-xdr-display-48gb-unified-memory-1tb-ssd-wi-fi-7-space-black-2899",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-16T02:25:25Z"
+    },
+    {
+      "title": "Allbirds rebrands as NewBird AI, shifting focus to GPU-as-a-Service",
+      "description": "Allbirds, once valued at $4 billion in the apparel market, is undergoing a significant transformation by rebranding itself as NewBird AI, a company specializing in GPU-as-a-Service. This pivot reflects a strategic move to capitalize on the booming demand for …",
+      "url": "https://nextbigwhat.com/allbirds-rebrands-as-newbird-ai-shifting-focus-to-gpu-as-a-service",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-16T01:54:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
+      "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+      "Nvidia CEO urges US-China dialogue on AI safety after Anthropic breakthrough",
+      "Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics",
+      "Claude puts up a wall as ID checks complicate access for Chinese users"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo",
+        "https://cryptobriefing.com/nvidia-ceo-urges-us-china-dialogue-on-ai-safety-after-anthropic-breakthrough",
+        "https://thenextweb.com/news/cadence-nvidia-robotics-physics-simulation-ai"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-maker-openai-shifts-its-focus-to-business-users-amid-anthropic-pressure/articleshow/130297757.cms",
+        "https://www.seattlepi.com/business/article/chatgpt-maker-openai-shifts-its-focus-to-business-22209288.php",
+        "http://technode.com/2026/04/16/claude-puts-up-a-wall-as-id-checks-complicate-access-for-chinese-users"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://digiday.com/marketing/openai-builds-tool-to-track-whether-chatgpt-ads-convert",
+        "https://news.livedoor.com/article/detail/31015275",
+        "https://en.antaranews.com/news/412479/cathay-fhc-advances-ai-adoption-across-the-group-with-openai"
+      ]
+    },
+    {
+      "title": "Global",
+      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260416VL205/china-gpu-development-revenue.html",
+        "https://www.channelnewsasia.com/business/air-liquide-invest-236-million-in-japan-support-next-generation-ai-chip-production-6060331"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://storaged.org/other/2026/04/16/Using-LLM-for-code-review-in-storaged.html",
+        "https://github.com/AgentSeal/codeburn",
+        "https://www.techmeme.com/260416/p3"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China already has the compute to train its own Mythos-like AI: Nvidia CEO. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China already has the compute to train its own Mythos-like AI: Nvidia CEO. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China already has the compute to train its own Mythos-like AI: Nvidia CEO. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China already has the compute to train its own Mythos-like AI: Nvidia CEO. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China already has the compute to train its own Mythos-like AI: Nvidia CEO. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
