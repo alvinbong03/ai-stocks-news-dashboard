@@ -1,0 +1,274 @@
+{
+  "theme": "ai",
+  "date": "2026-04-18",
+  "last_updated_utc": "2026-04-18T07:01:16.301Z",
+  "news": [
+    {
+      "title": "OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code",
+      "description": "OpenAI Group PBC today announced a major revamp of its artificial intelligence coding tool Codex, giving it a number of new “agentic” capabilities that enable more complex task automation. The ChatGPT maker is engaged in a fierce battle for AI coding supremac…",
+      "url": "https://siliconangle.com/2026/04/16/openai-ratchets-codexs-agentic-capabilities-rival-claude-code",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-17T00:19:09Z"
+    },
+    {
+      "title": "OpenAI reportedly to spend over US$20 billion on Cerebras chips, reducing reliance on Nvidia",
+      "description": "OpenAI has reportedly entered into a multi-year agreement to pay chip startup Cerebras Systems more than US$20 billion for AI server capacity, according to a report by The Information. The deal represents an aggressive move by the ChatGPT creator to diversify…",
+      "url": "https://www.digitimes.com/news/a20260417VL213/openai-cerebras-ai-server-capacity-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-17T04:41:50Z"
+    },
+    {
+      "title": "OpenAI Targets Pharma Giants With Purpose-Built AI Model",
+      "description": "OpenAI has introduced an artificial intelligence model that is purpose-built for scientific research and drug discovery. The new GPT-Rosalind features improved tool use and a deeper understanding of chemistry, protein engineering and genomics, the company sai…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-targets-pharma-giants-with-purpose-built-ai-model",
+      "source": "pymnts.com",
+      "publishedAt": "2026-04-17T02:18:28Z"
+    },
+    {
+      "title": "OpenAI launches GPT-Rosalind, a specialized LLM for biology research",
+      "description": "OpenAI has introduced GPT-Rosalind, a language model specifically tuned for biology workflows. Currently available in closed access, this LLM aims to assist researchers in the biological sciences by providing tailored insights and support. The move reflects O…",
+      "url": "https://nextbigwhat.com/openai-launches-gpt-rosalind-a-specialized-llm-for-biology-research",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-17T01:53:39Z"
+    },
+    {
+      "title": "OpenAI expands TAC program, challenges Anthropic’s Mythos model",
+      "description": "OpenAI's broader access strategy may undermine Anthropic's market position, highlighting the competitive dynamics in AI cybersecurity.\nThe post OpenAI expands TAC program, challenges Anthropic’s Mythos model appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-expands-tac-program-challenges-anthropics-mythos-model",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T02:41:27Z"
+    },
+    {
+      "title": "Anthropic releases Claude Opus 4.7, resolves Polymarket contract YES",
+      "description": "Anthropic's release of Claude Opus 4.7 could influence AI policy discussions and market dynamics, impacting future AI developments.\nThe post Anthropic releases Claude Opus 4.7, resolves Polymarket contract YES appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-releases-claude-opus-47-resolves-polymarket-contract-yes",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T01:51:32Z"
+    },
+    {
+      "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+      "description": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressurepost-gazette.com",
+      "url": "https://www.post-gazette.com/business/tech-news/2026/04/16/chatgpt-openai-focus-business-users-anthropic/stories/202604170013",
+      "source": "Pittsburgh Post-Gazette",
+      "publishedAt": "2026-04-17T01:17:13Z"
+    },
+    {
+      "title": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator",
+      "description": "Zscaler Inc.‘s new partnership with OpenAI Group PBC has the potential to transform the security firm’s cloud-native zero-trust platform into an engine that can both harden its own stack and help customers deploy artificial intelligence with confidence at lar…",
+      "url": "https://siliconangle.com/2026/04/16/zscaler-openai-turn-zero-trust-security-ai-accelerator",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-17T00:32:13Z"
+    },
+    {
+      "title": "NVIDIA To Address Budget Gaming Market With RTX 3060 12 GB As RTX 5050 9 GB Pushed Back",
+      "description": "NVIDIA is reportedly going to fill the budget gaming GPU gap with its RTX 3060 12 GB as the RTX 5050 gets pushed back to June. NVIDIA RTX 5050 9 GB Faces Short Delay, But Budget Gaming Gap To Be Filled By RTX 3060 12 GB GPU According to recent reports that we…",
+      "url": "https://wccftech.com/nvidia-address-budget-gaming-market-with-rtx-3060-12-gb-as-rtx-5050-9-gb-delayed",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-17T07:00:12Z"
+    },
+    {
+      "title": "Putting the Calamity Makers in Charge: Anthropic and Claude Mythos Preview",
+      "description": "Be wary of a company – any company – who exerts moral muscle as they create software and digital platforms that are injurious and simultaneously lauded for curing that injury. Be especially wary of Anthropic. With sagacious loftiness, it warns …\nThe post Putt…",
+      "url": "https://www.globalresearch.ca/anthropic-claude-mythos-preview/5922842",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-17T06:36:40Z"
+    },
+    {
+      "title": "Weekly news roundup: Snap layoffs, OpenAI safety concerns and Altman attack",
+      "description": "Stay up to date with the latest U.S. tech news, IPOs and executive moves shaping the industry each week.",
+      "url": "https://www.techtarget.com/searchcio/feature/Weekly-news-roundup-Snap-layoffs-OpenAI-safety-concerns-and-Altman-attack",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-04-17T06:06:00Z"
+    },
+    {
+      "title": "I don't want a screenshot of your Claude conversation - daverupert.com",
+      "description": "If we need anything more than an approximation, a language model might not be the right tool for the job.",
+      "url": "https://daverupert.com/2026/04/claude-no",
+      "source": "Daverupert.com",
+      "publishedAt": "2026-04-17T05:47:01Z"
+    },
+    {
+      "title": "TSMC remains top choice for European AI chip startups amid capacity scramble",
+      "description": "European efforts to advance sovereign AI and chip autonomy are gaining momentum, but European AI chip startups say they still primarily rely on TSMC for high-performance computing chips. With the European Semiconductor Manufacturing Company (ESMC) yet to offe…",
+      "url": "https://www.digitimes.com/news/a20260417PD223/ai-chip-capacity-tsmc-europe-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-17T04:20:18Z"
+    },
+    {
+      "title": "Gemini can now draw on your Google data to personalize the images it generates",
+      "description": "Your Google Photos library could soon influence the kind of images you can generate with Gemini. After letting users personalize the AI assistant’s responses with data from Gmail, Search and YouTube, Google says it’s bringing that same “Personal Intelligence”…",
+      "url": "https://www.madshrimps.be/news/gemini-can-now-draw-on-your-google-data-to-personalize-the-images-it-generates",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-17T03:32:03Z"
+    },
+    {
+      "title": "Tongfu Microelectronics profit jumps on AI chip packaging, AMD demand",
+      "description": "Tongfu Microelectronics posted strong 2025 results, supported by AI and automotive chip demand, while reinforcing its position in the global semiconductor packaging supply chain alongside key customer AMD.",
+      "url": "https://www.digitimes.com/news/a20260417VL205/tongfu-profit-packaging-amd-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-17T02:51:53Z"
+    },
+    {
+      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake: The Information",
+      "description": "OpenAI has reportedly agreed to a significant deal with chip startup Cerebras, potentially worth over $20 billion across three years. This agreement, which could include an equity stake for OpenAI, aims to secure substantial computing power for AI model infer…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-the-information/articleshow/130321482.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-17T02:51:52Z"
+    },
+    {
+      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake: Report",
+      "description": "OpenAI has agreed to pay chip startup Cerebras ​more than $20 billion over the next three ‌years to use servers powered by the company’s ​chips, under a deal that could ⁠also give the ChatGPT maker an equity stake in the firm, The Information reported on Thur…",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-to-spend-more-than-20-billion-on-cerebras-chips-receive-equity-stake-report/article70872135.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-17T02:44:01Z"
+    },
+    {
+      "title": "Anthropic CPO exits Figma board amid competitive product plans",
+      "description": "Krieger's resignation from Figma's board comes as he prepares to launch a rival design tool, raising concerns among investors about the potential dominance of major AI labs in the software space. This move is seen as part of the broader 'SaaSpocalypse' trend,…",
+      "url": "https://nextbigwhat.com/anthropic-cpo-exits-figma-board-amid-competitive-product-plans",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-17T01:54:33Z"
+    },
+    {
+      "title": "OpenAI secures $20B Cerebras chip deal, gains equity stake",
+      "description": "OpenAI's strategic chip acquisition amid supply chain issues may boost AI token valuations, but market liquidity remains uncertain.\nThe post OpenAI secures $20B Cerebras chip deal, gains equity stake appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-secures-20b-cerebras-chip-deal-gains-equity-stake",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T01:42:32Z"
+    },
+    {
+      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports",
+      "description": "April 16 : OpenAI has agreed to pay chip startup Cerebras more than $20 billion over the next three years to use servers powered by the company's chips, under a deal that could also give the ChatGPT maker an equity stake in the firm, The Information reported …",
+      "url": "https://www.channelnewsasia.com/business/openai-spend-more-20-billion-cerebras-chips-receive-stake-information-reports-6062436",
+      "source": "CNA",
+      "publishedAt": "2026-04-17T01:31:50Z"
+    },
+    {
+      "title": "OpenAI Wants Codex to Do Almost Everything — Not Just Code",
+      "description": "OpenAI's Codex evolves beyond coding to a general AI agent, automating tasks across apps and workflows. It's becoming a 'command center' for AI agents.",
+      "url": "https://www.c-sharpcorner.com/news/openai-wants-codex-to-do-almost-everything-not-just-code",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-17T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Scientist – Natural Language Processing (NLP) – Vice President – Machine Learnin…",
+      "description": "Job Description At JPMorgan Chase, AI and technology promote our global operations with unmatched scale and speed. We invest over $18 billion annually in innovation, data leverage, and security to shape the future for our clients, communities, and employees. …",
+      "url": "https://nlppeople.com/job/machine-learning-scientist-natural-language-processing-nlp-vice-president-machine-learnin-6",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-04-17T00:00:00Z"
+    },
+    {
+      "title": "Senior Machine Learning Scientist – Advanced AI & Automation",
+      "description": "We are looking for a Senior Machine Learning Scientist to join the Corporate Reserach department at Sartorius. You will use your expertise in modern machine learning, computer vision and robotics to design AI – driven automaton for next – generation Sartorius…",
+      "url": "https://nlppeople.com/job/senior-machine-learning-scientist-advanced-ai-automation",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-04-17T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code",
+      "OpenAI reportedly to spend over US$20 billion on Cerebras chips, reducing reliance on Nvidia",
+      "OpenAI Targets Pharma Giants With Purpose-Built AI Model",
+      "OpenAI launches GPT-Rosalind, a specialized LLM for biology research",
+      "OpenAI expands TAC program, challenges Anthropic’s Mythos model"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/04/16/openai-ratchets-codexs-agentic-capabilities-rival-claude-code",
+        "https://www.digitimes.com/news/a20260417VL213/openai-cerebras-ai-server-capacity-nvidia.html",
+        "https://www.pymnts.com/artificial-intelligence-2/2026/openai-targets-pharma-giants-with-purpose-built-ai-model"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260417PD223/ai-chip-capacity-tsmc-europe-chips.html",
+        "https://www.digitimes.com/news/a20260417VL205/tongfu-profit-packaging-amd-demand.html"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nlppeople.com/job/machine-learning-scientist-natural-language-processing-nlp-vice-president-machine-learnin-6"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/anthropic-releases-claude-opus-47-resolves-polymarket-contract-yes",
+        "https://wccftech.com/nvidia-address-budget-gaming-market-with-rtx-3060-12-gb-as-rtx-5050-9-gb-delayed",
+        "https://www.globalresearch.ca/anthropic-claude-mythos-preview/5922842"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
