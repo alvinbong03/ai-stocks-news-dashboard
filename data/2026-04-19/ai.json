@@ -1,0 +1,275 @@
+{
+  "theme": "ai",
+  "date": "2026-04-19",
+  "last_updated_utc": "2026-04-19T07:12:56.569Z",
+  "news": [
+    {
+      "title": "Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU",
+      "description": "Complete llama.cpp tutorial for 2026. Install, compile with CUDA/Metal, run GGUF models, tune all inference flags, use the API server, speculative decoding, and benchmark your hardware.https://vucense.com/dev-corner/llama-cpp-tutorial-run-gguf-m...\n\nComments …",
+      "url": "https://news.ycombinator.com/item?id=47812127",
+      "source": "Hacker News",
+      "publishedAt": "2026-04-18T00:37:53Z"
+    },
+    {
+      "title": "Commentary: AI drives CPU crunch, lifting data center demand and pricing",
+      "description": "The global AI boom is shifting infrastructure bottlenecks from GPUs to CPUs, as inference-heavy and agentic AI workloads push compute demands beyond accelerator capacity into system-level constraints.",
+      "url": "https://www.digitimes.com/news/a20260416VL216/cpu-demand-data-center-infrastructure-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-18T00:07:15Z"
+    },
+    {
+      "title": "AI chip developer Cerebras Systems files to go public amid rapid revenue growth",
+      "description": "Cerebras Systems Inc., the developer of the wafer-size WSE-3 artificial intelligence chip, today filed to go public. The move comes about 18 months after the company’s first attempt to list its shares. It filed for an initial public offering in September 2024…",
+      "url": "https://siliconangle.com/2026/04/17/ai-chip-developer-cerebras-systems-files-go-public-amid-rapid-revenue-growth",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-17T23:26:49Z"
+    },
+    {
+      "title": "AMD UALink strategy: Can AMD disrupt AI data center dominance as open interconnect challenges NVIDIA NVLink ecosystem control?",
+      "description": "AMD UALink Standard is driving a major shift in AI infrastructure right now. Advanced Micro Devices is leading this open interconnect push as AI cluster demand surges globally. AMD stock has jumped over 166% in one year, showing strong market confidence. This…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/amd-ualink-strategy-can-amd-disrupt-ai-data-center-dominance-as-open-interconnect-challenges-nvidia-nvlink-ecosystem-control/articleshow/130342517.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-17T22:55:02Z"
+    },
+    {
+      "title": "Claude Opus 4.7 hits 92% honesty rate— are we closer than ever to human-like AI with less hallucination? Here’s what Anthropic’s new AI model is capable of",
+      "description": "Claude Opus 4.7 benchmarks explained start with a strong data point: 87.6% on SWE-bench Verified. This jump signals real coding gains in 2026. Developers now see better issue resolution and faster workflows. Claude Opus 4.7 benchmarks explained also highlight…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/claude-opus-4-7-hits-92-honesty-rate-are-we-closer-than-ever-to-human-like-ai-with-less-hallucination-heres-what-anthropics-new-ai-model-is-capable-of/articleshow/130341842.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-17T22:09:53Z"
+    },
+    {
+      "title": "OpenAI leadership shakeup raises uncertainty over GPT-5.5 timeline",
+      "description": "Leadership changes at OpenAI may delay GPT-5.5, affecting market confidence and highlighting internal tensions over AI's future direction.\nThe post OpenAI leadership shakeup raises uncertainty over GPT-5.5 timeline appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-leadership-shakeup-raises-uncertainty-over-gpt-55-timeline",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T21:39:02Z"
+    },
+    {
+      "title": "Opera Brings Browser Connector to Opera One and Opera GX, Letting ChatGPT and Claude Read Open Tabs",
+      "description": "Opera has added a Browser Connector feature to Opera One and Opera GX.\nThank you for being a Ghacks reader. The post Opera Brings Browser Connector to Opera One and Opera GX, Letting ChatGPT and Claude Read Open Tabs appeared first on gHacks.",
+      "url": "https://www.ghacks.net/2026/04/18/opera-brings-browser-connector-to-opera-one-and-opera-gx-letting-chatgpt-and-claude-read-open-tabs",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-04-18T06:09:02Z"
+    },
+    {
+      "title": "Anthropic Launches Claude Design to Generate Visual Assets From Text Prompts",
+      "description": "Anthropic has introduced Claude Design, a preview service that creates visual assets through conversational prompts.\nThank you for being a Ghacks reader. The post Anthropic Launches Claude Design to Generate Visual Assets From Text Prompts appeared first on g…",
+      "url": "https://www.ghacks.net/2026/04/18/anthropic-launches-claude-design-to-generate-visual-assets-from-text-prompts",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-04-18T06:02:23Z"
+    },
+    {
+      "title": "Nvidia and PNY accused of warranty fraud after refusing to replace faulty $9,000 GPU",
+      "description": "Mike Adams accuses Nvidia and PNY of refusing to honor a 3-year warranty for a defective $9,000 RTX Pro 6000 GPU, despite clear evidence of hardware failure (VRM/power bus defect). Nvidia demanded redundant documentation (receipts, photos, diagnostics) and tr…",
+      "url": "https://www.naturalnews.com/2026-04-18-nvidia-pny-accused-warranty-fraud-faulty-gpu.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-18T06:00:00Z"
+    },
+    {
+      "title": "Anthropic valuation hits $800B amid US strategic asset recognition",
+      "description": "Anthropic's valuation surge highlights the growing strategic importance of AI in national security, potentially reshaping global tech dynamics.\nThe post Anthropic valuation hits $800B amid US strategic asset recognition appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-valuation-hits-800b-amid-us-strategic-asset-recognition",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-18T05:45:18Z"
+    },
+    {
+      "title": "NVIDIA Stock 2026: Analysts Urge Buy Amid AI Boom Despite High Valuation Risks",
+      "description": "NEW YORK — NVIDIA Corp. shares hover near $200 in mid-April 2026, trading as the world's most valuable company with a market capitalization topping $4.9 trillion, as Wall Street analysts overwhelmingly recommend buying the stock amid unrelenting demand for it…",
+      "url": "https://www.ibtimes.com.au/nvidia-stock-2026-analysts-urge-buy-amid-ai-boom-despite-high-valuation-risks-1866916",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-18T05:39:16Z"
+    },
+    {
+      "title": "Anthropic taps Peter Thiel-backed Persona for Claude ID checks, raising DPDP concerns",
+      "description": "Anthropic now requires some Claude users to submit ID and selfies. The move raises questions on privacy, surveillance, and data transfers from India.\nThe post Anthropic taps Peter Thiel-backed Persona for Claude ID checks, raising DPDP concerns appeared first…",
+      "url": "https://www.medianama.com/2026/04/223-anthropic-persona-identity-verification-claude-privacy-concerns",
+      "source": "MediaNama.com",
+      "publishedAt": "2026-04-18T05:15:20Z"
+    },
+    {
+      "title": "Meet Srinivas Narayanan: IIT Madras alumnus who helped scale ChatGPT",
+      "description": "Srinivas Narayanan, the Indian-origin senior executive is an alumnus of IIT Madras (Batch of 1995) and pursued Master’s programme in Computer Science from the University of Wisconsin-Madison. He will leave OpenAI at the end of next week. This marks a key lead…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meet-srinivas-narayanan-iit-madras-alumnus-who-helped-scale-chatgpt/articleshow/130347154.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-18T04:49:38Z"
+    },
+    {
+      "title": "OpenAI B2B applications CTO Srinivas Narayanan announces exit after three years",
+      "description": "Srinivas Narayanan, chief technology officer of business-to-business (B2B) applications at American AI company OpenAI, announced on Saturday that he will be leaving the company at the end of next week, marking the close of a three-year stint during a period o…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-b2b-applications-cto-srinivas-narayanan-announces-exit-after-three-years/articleshow/130347093.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-18T04:40:22Z"
+    },
+    {
+      "title": "Google’s Gemini app lands on Mac",
+      "description": "Mac users now have access to Gemini, which enables them to utilize artificial intelligence directly from their desktop. Google has...\nThe post Google’s Gemini app lands on Mac appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/googles-gemini-app-lands-on-mac",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-04-18T03:32:59Z"
+    },
+    {
+      "title": "Claude Design debut marks Anthropic’s expansion into visual creation",
+      "description": "Currently in research preview, the tool marks the company’s expansion beyond text and coding into design.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-design-debut-marks-anthropics-expansion-into-visual-creation-10642605",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-18T01:53:14Z"
+    },
+    {
+      "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings",
+      "description": "Cerebras Systems revealed its filing for a ​US initial public offering on Friday, ​bringing the Nvidia rival closer to the public markets as it seeks to ​tap into growing optimism around a broad revival in the listings market.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-rival-cerebras-discloses-us-ipo-filing-as-ai-boom-drives-listings/articleshow/130345619.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-18T01:29:08Z"
+    },
+    {
+      "title": "White House and Anthropic CEO discuss working together amid rising fear about Mythos model",
+      "description": "The meeting between CEO Dario Amodei and White House staff, which took place amid growing ‌fears the AI ⁠startup's latest model ⁠will supercharge cyberattacks, suggests the two sides might be on a path to rebuilding trust.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-and-anthropic-ceo-discuss-working-together-amid-rising-fear-about-mythos-model/articleshow/130345606.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-18T01:22:01Z"
+    },
+    {
+      "title": "OpenAI loses 3 top executives as it cuts back on 'side quests'",
+      "description": "OpenAI loses three executives as it sharpens its business focus and faces rising pressure from Anthropic.",
+      "url": "https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-18T00:00:12Z"
+    },
+    {
+      "title": "Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo",
+      "description": "Coding agents are starting to write production code at scale. Stripe’s agents generate 1,300+ PRs per week. Ramp attributes 30% of merged PRs to agents....",
+      "url": "https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-04-17T22:53:22Z"
+    },
+    {
+      "title": "White House Chief Of Staff Meets With Anthropic CEO Over Its New AI Technology",
+      "description": "The White House said afterward that the meeting was productive and constructive.",
+      "url": "https://www.huffpost.com/entry/white-house-chief-staff-meets-anthropic-ceo-new-ai-technology_n_69e2b343e4b0555d213c4f1e",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-17T22:35:32Z"
+    },
+    {
+      "title": "ChatGPT Goes to Therapy: The New Emotional Economy",
+      "description": "Personal Perspective: AI is reshaping how we express emotion and seek support, offering comfort while risking authenticity.",
+      "url": "https://www.psychologytoday.com/us/blog/the-inner-life-of-students/202604/chatgpt-goes-to-therapy-the-new-emotional-economy",
+      "source": "Psychology Today",
+      "publishedAt": "2026-04-17T22:13:32Z"
+    },
+    {
+      "title": "deviantART says artists made $23 million on its platform last year, boasts that it was “100% right” to embrace generative AI",
+      "description": "Back in the very early 2000s, deviantART was a tentpole of digital fandom. All sorts of fans--from Fullmetal Alchemist enjoyers, Harry Potter lovers, and Back in the very early 2000s, deviantART was a tentpole of digital fandom. All sorts of fans--from Fullme…",
+      "url": "https://www.tubefilter.com/2026/04/17/deviantart-paying-artists-ai-controversy-user-increase",
+      "source": "Tubefilter",
+      "publishedAt": "2026-04-17T21:49:56Z"
+    },
+    {
+      "title": "Anthropic Launches Claude Design, Figma Stock Immediately Nosedives",
+      "description": "The new design tool lets anyone use text prompts to create prototypes, slides, and one-pagers. The jury's still out if it does a good job.",
+      "url": "https://gizmodo.com/anthropic-launches-claude-design-figma-stock-immediately-nosedives-2000748071",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-17T21:35:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU",
+      "Commentary: AI drives CPU crunch, lifting data center demand and pricing",
+      "AI chip developer Cerebras Systems files to go public amid rapid revenue growth",
+      "AMD UALink strategy: Can AMD disrupt AI data center dominance as open interconnect challenges NVIDIA NVLink ecosystem control?",
+      "Claude Opus 4.7 hits 92% honesty rate— are we closer than ever to human-like AI with less hallucination? Here’s what Anthropic’s new AI model is capable of"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/us/claude-opus-4-7-hits-92-honesty-rate-are-we-closer-than-ever-to-human-like-ai-with-less-hallucination-heres-what-anthropics-new-ai-model-is-capable-of/articleshow/130341842.cms",
+        "https://www.ghacks.net/2026/04/18/anthropic-launches-claude-design-to-generate-visual-assets-from-text-prompts",
+        "https://cryptobriefing.com/anthropic-valuation-hits-800b-amid-us-strategic-asset-recognition"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/04/17/ai-chip-developer-cerebras-systems-files-go-public-amid-rapid-revenue-growth",
+        "https://cryptobriefing.com/openai-leadership-shakeup-raises-uncertainty-over-gpt-55-timeline",
+        "https://www.ghacks.net/2026/04/18/opera-brings-browser-connector-to-opera-one-and-opera-gx-letting-chatgpt-and-claude-read-open-tabs"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.ycombinator.com/item?id=47812127",
+        "https://www.digitimes.com/news/a20260416VL216/cpu-demand-data-center-infrastructure-capacity.html",
+        "https://economictimes.indiatimes.com/news/international/us/amd-ualink-strategy-can-amd-disrupt-ai-data-center-dominance-as-open-interconnect-challenges-nvidia-nvlink-ecosystem-control/articleshow/130342517.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Llama.cpp Tutorial 2026: Run GGUF Models Locally on CPU and GPU. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
