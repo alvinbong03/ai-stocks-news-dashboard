@@ -1,0 +1,227 @@
+{
+  "theme": "ai",
+  "date": "2026-04-20",
+  "last_updated_utc": "2026-04-20T07:59:19.929Z",
+  "news": [
+    {
+      "title": "AI chip startup Cerebras files for IPO | TechCrunch",
+      "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-18T19:22:39Z"
+    },
+    {
+      "title": "Shinsegae pivots on AI strategy after dropping OpenAI partnership - The Korea Times",
+      "description": "Retail conglomerate Shinsegae is pivoting on its plans to deploy artificial intelligence (AI) in its businesses, canceling a partnership with OpenA...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260419/shinsegae-pivots-on-ai-strategy-after-dropping-openai-partnership",
+      "source": "코리아타임스",
+      "publishedAt": "2026-04-19T05:31:10Z"
+    },
+    {
+      "title": "Microsoft’s Fairwater AI Datacenter Goes Live Early, Unleashing Hundreds of Thousands of NVIDIA Blackwell GPUs On The World",
+      "description": "Microsoft has announced that its Fairwater facility, the world's most powerful AI datacenter powered by NVIDIA Blackwell, is going live ahead of schedule. Featuring Hundreds of Thousands of NVIDIA Blackwell GPUs, Microsoft's Advanced \"Fairwater\" AI Datacenter…",
+      "url": "https://wccftech.com/microsoft-fairwater-ai-datacenter-live-early-100s-1000s-of-nvidia-blackwell-gpus",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-19T05:25:00Z"
+    },
+    {
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "description": "A WebAssembly module's linear memory can be shared directly with the Apple Silicon GPU: no copies, no serialization, no intermediate buffers. Here's how the zero-copy chain works, what we measured, and what it enables for stateful AI inference.",
+      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon",
+      "source": "Abacusnoir.com",
+      "publishedAt": "2026-04-18T22:46:13Z"
+    },
+    {
+      "title": "AI XRP Price Prediction: ChatGPT and Claude Predict XRP Price After Hitting $1.45",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e73bb83e-1cc0-430d-9659-e63ffee3605a",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-18T20:47:52Z"
+    },
+    {
+      "title": "I asked ChatGPT and Gemini how much home loan I can afford on ₹7–9 lakh income. The answer wasn’t what I expected",
+      "description": "I asked ChatGPT and Gemini what how much home loan i can afford on a  ₹7-9 lakh salary. Here's what advice the chatbots gave me",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-and-gemini-how-much-home-loan-i-can-afford-on-rs-7-9-lakh-income-the-answer-wasn-t-what-i-expected-11776566552151.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-19T07:02:14Z"
+    },
+    {
+      "title": "llmfit: Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "description": "llmfit - Hundreds of models and providers. One command to find what runs on your hardware.",
+      "url": "https://www.llmfit.org/",
+      "source": "Llmfit.org",
+      "publishedAt": "2026-04-19T05:47:02Z"
+    },
+    {
+      "title": "IntelCue – Your market intelligence live inside Claude and ChatGPT",
+      "description": "Your market intelligence live inside Claude and ChatGPT",
+      "url": "https://betalist.com/startups/intelcue-2",
+      "source": "Betalist.com",
+      "publishedAt": "2026-04-19T03:00:00Z"
+    },
+    {
+      "title": "Show HN: Multi-agent task management for Claude and Gemini",
+      "description": "AgentRQ is the real-time agent-human task collaboration platform built for Claude Code and ACP-compatible agents (like Gemini). Agents assign tasks to you. You assign tasks back to agents. Everyone moves forward simultaneously.\n\nComments URL: https://news.yco…",
+      "url": "https://agentrq.com/",
+      "source": "Agentrq.com",
+      "publishedAt": "2026-04-19T02:44:18Z"
+    },
+    {
+      "title": "Articles On: Nvidia Chip Servers, Chinese Telecom Companies, AI, and Robots",
+      "description": "The Chinese Communist Party seeks to control information technology as a means to shape and censor the communications and opinions of its own people, as well as the communications of individuals beyond China's borders.",
+      "url": "https://www.hoover.org/research/articles-nvidia-chip-servers-chinese-telecom-companies-ai-and-robots",
+      "source": "Hoover.org",
+      "publishedAt": "2026-04-19T00:00:00Z"
+    },
+    {
+      "title": "Can you use generative AI in Family Court? The rules and risks – Ex-Files",
+      "description": "OPINION: I've found it useful and cheaper to use generative AI chatbots.",
+      "url": "https://www.nzherald.co.nz/business/can-you-use-generative-ai-in-family-court-the-rules-and-risks-ex-files/premium/LLKLFQFTCREJ3CGVQXIJUXDO5M",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-04-19T00:00:00Z"
+    },
+    {
+      "title": "Taiwan networking firms post strong 1Q26 results on data center, Wi-Fi 7 demand",
+      "description": "Taiwan's networking equipment makers reported stronger-than-seasonal performance in the first quarter of 2026, supported by demand from AI data centers and upgrades to Wi-Fi 7. Accton Technology, Sercomm and WNC each posted record revenue for the period. Howe…",
+      "url": "https://www.digitimes.com/news/a20260416PD220/taiwan-wi-fi-7-equipment-demand-data-center.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-18T22:44:55Z"
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79d4c986-9b12-488f-bd8b-05e5510ba9af",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-18T19:19:11Z"
+    },
+    {
+      "title": "Meta Platforms (META) Expands AI Chip Deal with Broadcom",
+      "description": "Meta Platforms, Inc. (NASDAQ:META) is one of the 10 Unrivaled Stocks of the Next 5 Years. On April 14, Reuters reported that Meta Platforms, Inc...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/meta-platforms-meta-expands-ai-184721791.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-18T18:47:21Z"
+    },
+    {
+      "title": "City Council Wrecked in Voter Bloodbath After Allowing New Data Center...",
+      "description": "City Council Wrecked in Voter Bloodbath After Allowing New Data Center...\r\n\n \n \n \n (Third column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:AI 'that could escape the lab' sparks fear...\r\nGrowing movement warning it could turn on humanity...",
+      "url": "https://dnyuz.com/2026/04/18/city-council-wrecked-in-voter-bloodbath-after-allowing-new-data-center",
+      "source": "Dnyuz.com",
+      "publishedAt": "2026-04-18T18:04:39Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI chip startup Cerebras files for IPO | TechCrunch",
+      "Shinsegae pivots on AI strategy after dropping OpenAI partnership - The Korea Times",
+      "Microsoft’s Fairwater AI Datacenter Goes Live Early, Unleashing Hundreds of Thousands of NVIDIA Blackwell GPUs On The World",
+      "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "AI XRP Price Prediction: ChatGPT and Claude Predict XRP Price After Hitting $1.45"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo",
+        "https://www.hoover.org/research/articles-nvidia-chip-servers-chinese-telecom-companies-ai-and-robots",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79d4c986-9b12-488f-bd8b-05e5510ba9af"
+      ]
+    },
+    {
+      "title": "Files",
+      "summary": "Grouped stories where \"files\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.nzherald.co.nz/business/can-you-use-generative-ai-in-family-court-the-rules-and-risks-ex-files/premium/LLKLFQFTCREJ3CGVQXIJUXDO5M"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260416PD220/taiwan-wi-fi-7-equipment-demand-data-center.html",
+        "https://dnyuz.com/2026/04/18/city-council-wrecked-in-voter-bloodbath-after-allowing-new-data-center"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e73bb83e-1cc0-430d-9659-e63ffee3605a",
+        "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-and-gemini-how-much-home-loan-i-can-afford-on-rs-7-9-lakh-income-the-answer-wasn-t-what-i-expected-11776566552151.html",
+        "https://betalist.com/startups/intelcue-2"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.koreatimes.co.kr/business/companies/20260419/shinsegae-pivots-on-ai-strategy-after-dropping-openai-partnership",
+        "https://wccftech.com/microsoft-fairwater-ai-datacenter-live-early-100s-1000s-of-nvidia-blackwell-gpus",
+        "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI chip startup Cerebras files for IPO | TechCrunch. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI chip startup Cerebras files for IPO | TechCrunch. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI chip startup Cerebras files for IPO | TechCrunch. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI chip startup Cerebras files for IPO | TechCrunch. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI chip startup Cerebras files for IPO | TechCrunch. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
