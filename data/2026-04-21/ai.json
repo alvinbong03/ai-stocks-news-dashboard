@@ -1,0 +1,262 @@
+{
+  "theme": "ai",
+  "date": "2026-04-21",
+  "last_updated_utc": "2026-04-21T07:28:20.454Z",
+  "news": [
+    {
+      "title": "Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated",
+      "description": "You’ve probably seen the meme where a guy opens all the popular AI chatbots in different browser tabs, gives them the same coding prompt, checks the output of each, and then copies the best one. For a moment, I thought I’d do the same experiment. So, I chose …",
+      "url": "https://www.madshrimps.be/news/claude-vs-chatgpt-vs-gemini-i-tested-them-on-a-real-coding-challenge-and-one-dominated",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-20T07:15:58Z"
+    },
+    {
+      "title": "Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini",
+      "description": "I built this after getting tired of maintaining one-off adapters between OpenAI, Anthropic, and Gemini APIs in the same project.The idea is to translate through a shared intermediate representation instead of writing every provider pair separately. So instead…",
+      "url": "https://github.com/Oaklight/llm-rosetta",
+      "source": "Github.com",
+      "publishedAt": "2026-04-20T07:05:33Z"
+    },
+    {
+      "title": "Potential Google-Marvell partnership escalates AI chip competition against Nvidia",
+      "description": "Google is accelerating efforts to strengthen its position in AI silicon through a potential partnership with Marvell Technology. It is making a move that highlights the competitive strategy against Nvidia: dominating AI inference workloads.",
+      "url": "https://www.digitimes.com/news/a20260420VL213/google-marvell-partnership-ai-inference-competition-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-20T06:38:54Z"
+    },
+    {
+      "title": "AI in Personal Branding: How ChatGPT Helps You Build a Strong Digital Identity",
+      "description": "AI in personal branding is reshaping how individuals create, manage, and scale their online presence in a highly competitive digital world. From content creation to audience engagement and reputation management, artificial intelligence is no longer just a bus…",
+      "url": "https://www.successful-blog.com/1/ai-in-personal-branding",
+      "source": "Successful-blog.com",
+      "publishedAt": "2026-04-20T07:18:25Z"
+    },
+    {
+      "title": "Why Anthropic’s New Claude Design is Catching the Attention of Figma Users",
+      "description": "Anthropic’s latest offering, Claude Design, introduces a fresh approach to creative workflows by combining AI-driven functionality with a conversational interface. Powered by the Opus 4.7 model, this platform is currently in research preview and aims to simpl…",
+      "url": "https://www.geeky-gadgets.com/claude-design-vs-figma",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-20T07:15:00Z"
+    },
+    {
+      "title": "Digest: Price Drops for ChatGPT Ads; Google in Talks with Pentagon; Publishing Giants Plan Cuts",
+      "description": "Today we cover advertisers reporting prices dropping for ads on ChatGPT, Google holding discussions with the Pentagon for a Gemini deal, as well as the BBC and Bauer Media planning massive workforce cuts. \nPrice drops for ChatGPT ads \nOpenAI is lowering the […",
+      "url": "https://www.exchangewire.com/blog/2026/04/20/digest-price-drops-for-chatgpt-ads-google-in-talks-with-pentagon-publishing-giants-plan-cuts",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-04-20T07:00:00Z"
+    },
+    {
+      "title": "SK Hynix Begins Mass Production of 192 GB SOCAMM2 Memory With 2x Bandwidth, A Vital Piece For NVIDIA’ Vera Rubin",
+      "description": "SK Hynix is now mass-producing SOCAMM2 memory with up to 192 GB capacities for NVIDIA & next-gen AI Data Centers. Prepped For NVIDIA's Vera Rubin & AI Data Centers, SK Hynix Begins Mass Production of SOCAMM2 Memory With 192 GB Capacities At CES 2026, SK Hynix…",
+      "url": "https://wccftech.com/sk-hynix-mass-produces-192-gb-socamm2-memory-for-nvidia-vera-rubi-ai-datacenters",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-20T06:20:07Z"
+    },
+    {
+      "title": "I let ChatGPT and Gemini build my PC — here are the components each AI picked",
+      "description": "Building a PC has never exactly been easy, but right now it's pretty tough going. Here's what AI recommended I use to build my new gaming rig.",
+      "url": "https://www.techradar.com/computing/i-let-chatgpt-and-gemini-build-my-pc-here-are-the-components-each-ai-picked",
+      "source": "TechRadar",
+      "publishedAt": "2026-04-20T04:30:00Z"
+    },
+    {
+      "title": "Bernie Sanders Questions Claude AI",
+      "description": "Sen. Bernie said posted video of him questioning Claude about privacy concerns with AI models and companies using this data against the American people and US democracy.\nBernie writes, \"I spoke to Anthropic’s AI agent Claude about AI collecting massive amount…",
+      "url": "https://crooksandliars.com/2026/04/bernie-sanders-questions-claude-ai",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-04-20T03:00:01Z"
+    },
+    {
+      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+      "description": "I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels: none of which work on Mac.I replaced the CUDA-specific ops …",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "source": "Github.com",
+      "publishedAt": "2026-04-20T00:07:16Z"
+    },
+    {
+      "title": "RAG-Driven Generative AI, 2nd Edition",
+      "description": "eBook Details: Paperback: 430 pages Published: April 17, 2026 Language: English ISBN-10: 1807424952 ISBN-13: 978-1807424954 eBook Description: RAG-Driven Generative AI, 2nd Edition: Build MAS-RAG with DualRAG, GraphRAG, multimodal video pipelines, and Oracle …",
+      "url": "https://www.wowebook.org/rag-driven-generative-ai-2nd-edition",
+      "source": "Wowebook.org",
+      "publishedAt": "2026-04-20T07:04:46Z"
+    },
+    {
+      "title": "How to Perform Feature Scaling in Machine Learning Step by Step",
+      "description": "Master feature scaling in ML! Learn step-by-step techniques (Min-Max, Standardization) to boost model accuracy, speed up training, and avoid common pitfalls.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-perform-feature-scaling-in-machine-learning-step-by-step",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-04-20T06:03:54Z"
+    },
+    {
+      "title": "Enhancing Mission Analysis: Integrating Artificial Intelligence Into the Military Decision-Making Process",
+      "description": "Abstract This article details an experiment at the U.S. Army Command and General Staff College (CGSC) testing the integration of Artificial Intelligence (AI) agents, built on the Palantir Vantage platform, into Step 2 (Mission Analysis) of the Military Decisi…",
+      "url": "https://smallwarsjournal.com/2026/04/20/ai-integrating-mdmp-mission-analysis-vantage",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-04-20T06:00:27Z"
+    },
+    {
+      "title": "Germany's Friedrich Merz says industrial AI needs less stringent EU regulation",
+      "description": "Germany's Chancellor Friedrich Merz wants less regulation for industrial artificial intelligence in the European Union. He believes this will increase productivity and efficiency. Germany has been eager ‌to catch up with dominant AI players the United States …",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/germanys-friedrich-merz-says-industrial-ai-needs-less-stringent-eu-regulation/articleshow/130381672.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-20T03:25:28Z"
+    },
+    {
+      "title": "JVNDB-2026-011766:NVIDIAのtriton inference serverにおける過剰なサイズ値のメモリ割り当てに関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011766_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-20T02:42:29Z"
+    },
+    {
+      "title": "JVNDB-2026-011765:NVIDIAのtriton inference serverにおけるパストラバーサルの脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011765_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-20T02:42:26Z"
+    },
+    {
+      "title": "JVNDB-2026-011764:NVIDIAのtriton inference serverにおける整数オーバーフローの脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011764_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-20T02:42:23Z"
+    },
+    {
+      "title": "JVNDB-2026-011763:NVIDIAのtriton inference serverにおける数値型間の変換の誤りに関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011763_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-20T02:42:20Z"
+    },
+    {
+      "title": "JVNDB-2026-011762:NVIDIAのtriton inference serverにおけるキャッチされない例外に関する脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011762_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-20T02:42:17Z"
+    },
+    {
+      "title": "Anthropic installs spyware when you install Claude Desktop",
+      "description": "Anthropic's Claude Desktop silently installs a Native Messaging bridge into seven Chromium browsers, including browsers Anthropic's own documentation says it does not support, and browsers the user has not even installed.",
+      "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware",
+      "source": "Thatprivacyguy.com",
+      "publishedAt": "2026-04-20T02:41:50Z"
+    },
+    {
+      "title": "Art&Graft Evolves Gemini Visual Identity into a Living System",
+      "description": "Art&Graft Evolves Gemini Visual Identity into a Living System\n\n \n\n\n jeff\n April 19, 2026\n\n\n Art&Graft transformed the Gemini visual identity for Google DeepMind into a living motion-led system where particle behavior matters as much as the mark.\nThe London-ba…",
+      "url": "https://abduzeedo.com/node/89300",
+      "source": "Abduzeedo.com",
+      "publishedAt": "2026-04-20T01:58:56Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated",
+      "Show HN: LLM-Rosetta - Translate LLM API Calls Across OpenAI, Anthropic, Gemini",
+      "Potential Google-Marvell partnership escalates AI chip competition against Nvidia",
+      "AI in Personal Branding: How ChatGPT Helps You Build a Strong Digital Identity",
+      "Why Anthropic’s New Claude Design is Catching the Attention of Figma Users"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260420VL213/google-marvell-partnership-ai-inference-competition-nvidia.html",
+        "https://wccftech.com/sk-hynix-mass-produces-192-gb-socamm2-memory-for-nvidia-vera-rubi-ai-datacenters",
+        "https://github.com/shivampkumar/trellis-mac"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.wowebook.org/rag-driven-generative-ai-2nd-edition",
+        "https://abduzeedo.com/node/89300"
+      ]
+    },
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.madshrimps.be/news/claude-vs-chatgpt-vs-gemini-i-tested-them-on-a-real-coding-challenge-and-one-dominated",
+        "https://github.com/Oaklight/llm-rosetta",
+        "https://www.exchangewire.com/blog/2026/04/20/digest-price-drops-for-chatgpt-ads-google-in-talks-with-pentagon-publishing-giants-plan-cuts"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.successful-blog.com/1/ai-in-personal-branding",
+        "https://www.geeky-gadgets.com/claude-design-vs-figma",
+        "https://crooksandliars.com/2026/04/bernie-sanders-questions-claude-ai"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude vs. ChatGPT vs. Gemini: I tested them on a real coding challenge and one dominated. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
