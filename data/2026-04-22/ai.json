@@ -1,0 +1,266 @@
+{
+  "theme": "ai",
+  "date": "2026-04-22",
+  "last_updated_utc": "2026-04-22T07:25:48.602Z",
+  "news": [
+    {
+      "title": "Google's AI chip push targets inference boom as battle with Nvidia enters new phase",
+      "description": "Google is accelerating its push into the AI chip market, positioning its custom tensor processing units (TPUs) as a viable alternative to Nvidia's dominant GPUs—particularly as the industry shifts from training large models to running them in real-world appli…",
+      "url": "https://www.digitimes.com/news/a20260421VL206/google-ai-chip-tpu-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-21T02:33:55Z"
+    },
+    {
+      "title": "Amazon puts up to $25 billion more into Anthropic and secures 10-year cloud commitment in return",
+      "description": "The deal is Amazon’s second consecutive mega-round with a frontier AI lab, following a near-identical $50 billion investment in OpenAI two months ago. Anthropic’s annualised revenue has reached $30 billion. The arrangement locks Anthropic into AWS’s Trainium …",
+      "url": "https://thenextweb.com/news/amazon-anthropic-25-billion-investment",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-21T07:09:39Z"
+    },
+    {
+      "title": "ANI v OpenAI: Not Everything an LLM Does is Copyright Infringement",
+      "description": "India’s first major AI copyright case is underway, but the real debate goes deeper than expected. Two complex issues could quietly shape the future of AI in ways most people aren’t noticing.\nThe post ANI v OpenAI: Not Everything an LLM Does is Copyright Infri…",
+      "url": "https://www.medianama.com/2026/04/223-ani-vs-openai-ai-copyright-case-india",
+      "source": "MediaNama.com",
+      "publishedAt": "2026-04-21T06:43:20Z"
+    },
+    {
+      "title": "SUSE Launches SUSE AI Factory with NVIDIA",
+      "description": "Pre-Validated Blueprints and Seamless GitOps-Driven Workflows Help IT Leaders Quickly and Securely Build, Deploy and Scale Mission-Critical AI from the Data Center to the Edge Pre-Validated Blueprints and Seamless GitOps-Driven Workflows Help IT Leaders Quick…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3277585/0/en/SUSE-Launches-SUSE-AI-Factory-with-NVIDIA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-21T06:00:00Z"
+    },
+    {
+      "title": "Amazon Doubles Down On Anthropic With $5 Billion Fresh Injection & 6GW Of Trainium Chip Capacity For Claude AI Models",
+      "description": "Anthropic has just landed a multi-Gigawatt deal with Amazon, where it would train & deploy its Claude models on Trainium chips through 2026. Amazon Is Investing Over $20B in Anthropic, While Also Supplying 6GW of Trainum Chips To Anthropic Last week, Anthropi…",
+      "url": "https://wccftech.com/amazon-anthropic-5-billion-investment-6gw-trainium-chip-capacity-for-claude-ai",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-21T05:45:29Z"
+    },
+    {
+      "title": "Google’s AI chips gain traction against Nvidia dominance",
+      "description": "Google's new AI chips have rapidly emerged as a key player in the tech industry, attracting interest from major AI developers, including competitors. This shift signifies a potential challenge to Nvidia's longstanding leadership in the AI hardware market. As …",
+      "url": "https://nextbigwhat.com/googles-ai-chips-gain-traction-against-nvidia-dominance",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-21T03:15:12Z"
+    },
+    {
+      "title": "Anthropic releases Claude Design with Opus 4.7 amid US government pressure",
+      "description": "Anthropic's move highlights its market confidence, potentially reshaping AI competition dynamics despite ongoing regulatory scrutiny.\nThe post Anthropic releases Claude Design with Opus 4.7 amid US government pressure appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-releases-claude-design-with-opus-47-amid-us-government-pressure",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-21T01:34:10Z"
+    },
+    {
+      "title": "SK hynix begins mass production of 192GB SOCAMM2 memory for NVIDIA Vera Rubin",
+      "description": "SK hynix's new 192GB SOCAMM2 memory modules for NVIDIA's Vera Rubin platform have entered the mass production phase, optimized for AI.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111152/sk-hynix-begins-mass-production-of-192gb-socamm2-memory-for-nvidia-vera-rubin/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-04-21T06:36:05Z"
+    },
+    {
+      "title": "Why Pairing NotebookLM with Claude Design Changes Everything About AI Research",
+      "description": "NotebookLM and Claude Design provide a structured approach to converting research into professional deliverables, addressing the needs of users across various fields. NotebookLM focuses on distilling complex datasets into clear, actionable summaries, which is…",
+      "url": "https://www.geeky-gadgets.com/notebooklm-claude-design-workflow",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-21T06:15:00Z"
+    },
+    {
+      "title": "Google Fitbit Air Revealed : Screenless Design Meets Gemini AI Tracking",
+      "description": "Google’s announcement of the Fitbit Air introduces a screenless, passive wearable designed for unobtrusive health monitoring. According to TechAvid, the device collects metrics such as VO2 max, heart rate recovery and sleep quality, emphasizing simplicity and…",
+      "url": "https://www.geeky-gadgets.com/google-io-2026-fitbit-air",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-21T05:44:49Z"
+    },
+    {
+      "title": "Why OpenAI is ‘running at lightning speed’ to build an ad business",
+      "description": "The AI ad wars have officially begun, and OpenAI is staffing up and dropping rates to lure brands away from the likes of Meta and Google.",
+      "url": "http://digiday.com/podcasts/why-openai-is-running-at-lightning-speed-to-build-an-ad-business",
+      "source": "Digiday",
+      "publishedAt": "2026-04-21T04:01:00Z"
+    },
+    {
+      "title": "AnthropicがAmazon製AIチップを確保するべく1000億ドル以上の投資を発表、AmazonもAnthropicに最大250億ドルを投資",
+      "description": "AmazonとAnthropicが戦略的提携の拡大を発表しました。AnthropicはAmazonのAI処理チップを確保するべく、今後10年で1000億ドル(約15兆9000億円)以上を投資する計画です。また、AmazonもAnthropicに対して最大250億ドル(約4兆円)を投資します。Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute \\ Anthropichttps://www.anthropic.c…",
+      "url": "https://news.livedoor.com/article/detail/31058001",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-21T03:43:00Z"
+    },
+    {
+      "title": "Amazon invests $25B in Anthropic to boost AI capabilities",
+      "description": "Amazon's investment in Anthropic could reshape AI competition, influencing market dynamics and innovation pace among leading tech firms.\nThe post Amazon invests $25B in Anthropic to boost AI capabilities appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amazon-invests-25b-in-anthropic-to-boost-ai-capabilities",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-21T03:33:04Z"
+    },
+    {
+      "title": "Amazon invests $5 billion in Anthropic, secures $100 billion cloud commitment",
+      "description": "Amazon is investing $5 billion in AI startup Anthropic, marking a significant expansion of their partnership. In exchange for this funding, Anthropic has committed to spending $100 billion on Amazon Web Services (AWS). This deal underscores the growing import…",
+      "url": "https://nextbigwhat.com/amazon-invests-5-billion-in-anthropic-secures-100-billion-cloud-commitment",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-04-21T03:15:00Z"
+    },
+    {
+      "title": "AI demand inflates silicon valuations across TSMC, Nvidia supply chain",
+      "description": "\"Silicon inflation\" is no longer a metaphor — it is reshaping Taiwan's capital markets. TSMC and Nvidia are at the center, pulling growth across the entire electronics supply chain. Global uncertainties remain, yet Taiwan's market is outperforming.",
+      "url": "https://www.digitimes.com/news/a20260421PD209/inflation-silicon-tsmc-nvidia-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-21T02:44:19Z"
+    },
+    {
+      "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
+      "description": "Amazon and Anthropic expand strategic collaborationAbout Amazon Anthropic and Amazon expand collaboration for up to 5 gigawatts of new computeAnthropic Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure dealCNBC Anthropic bit…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181819130",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-21T02:32:49Z"
+    },
+    {
+      "title": "Amazon to invest up to $25 billion in Anthropic; AI firm commits to spend $100 billion on AWS in return",
+      "description": "Amazon will invest up to $25 billion in Anthropic, which plans to spend over $100 billion on Amazon's cloud tech. Details here.",
+      "url": "https://www.livemint.com/companies/news/amazon-to-invest-up-to-25-billion-in-anthropic-ai-firm-commits-to-spend-100-billion-on-aws-in-return-11776734805025.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-21T02:32:38Z"
+    },
+    {
+      "title": "Trump-branded AI data center megaproject stalls, CEO departs - Axios",
+      "description": "Trump-branded AI data center megaproject stalls, CEO departsAxios Rick Perry’s Fermi Is Undermining the AI Energy ThesisBloomberg Fermi Inc. Announces \"Fermi 2.0\" Strategic Evolution, New Board Chairman, Leadership Transitions, and New Office LocationsPR News…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181819126",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-21T02:32:38Z"
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome across Asia Pacific, including PH",
+      "description": "Google is expanding its AI-powered Gemini experience in Chrome to more users across the Asia Pacific region, including the Philippines....\nThe post Google rolls out Gemini in Chrome across Asia Pacific, including PH appeared first on YugaTech | Philippines Te…",
+      "url": "https://www.yugatech.com/news/google-rolls-out-gemini-in-chrome-across-asia-pacific-including-ph",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-04-21T02:21:16Z"
+    },
+    {
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return - TechCrunch",
+      "description": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in returnTechCrunch Anthropic and Amazon expand collaboration for up to 5 gigawatts of new computeAnthropic Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructur…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181818472",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-21T02:12:19Z"
+    },
+    {
+      "title": "JVNDB-2026-011987:Anthropic PBCのClaude SDK for Pythonにおける複数の脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-011987_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-04-21T01:48:18Z"
+    },
+    {
+      "title": "Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal",
+      "description": "Amazon is injecting up to $25 billion into AI startup Anthropic, solidifying a partnership where Anthropic commits over $100 billion to Amazon's cloud services. This significant investment, building on previous funding, aims to bolster Anthropic's AI models a…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-to-invest-up-to-25-billion-in-anthropic-as-part-of-100-billion-cloud-deal/articleshow/130405094.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-21T01:05:48Z"
+    },
+    {
+      "title": "Amazon, Anthropic deepen AI partnership with $100 billion cloud deal",
+      "description": "Amazon will also invest an additional $5 billion immediately and up to $20 billion more based on milestones, adding to its previous $8 billion investment",
+      "url": "https://www.thehindubusinessline.com/info-tech/amazon-anthropic-deepen-ai-partnership-with-100-billion-cloud-deal/article70886987.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-21T00:59:26Z"
+    },
+    {
+      "title": "Anthropic, Amazon ink $100B AI infrastructure deal",
+      "description": "The deal could significantly alter AI market dynamics, enhancing Anthropic's competitive edge and impacting future AI model rankings.\nThe post Anthropic, Amazon ink $100B AI infrastructure deal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-amazon-ink-100b-ai-infrastructure-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-21T00:58:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Google's AI chip push targets inference boom as battle with Nvidia enters new phase",
+      "Amazon puts up to $25 billion more into Anthropic and secures 10-year cloud commitment in return",
+      "ANI v OpenAI: Not Everything an LLM Does is Copyright Infringement",
+      "SUSE Launches SUSE AI Factory with NVIDIA",
+      "Amazon Doubles Down On Anthropic With $5 Billion Fresh Injection & 6GW Of Trainium Chip Capacity For Claude AI Models"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/amazon-anthropic-25-billion-investment",
+        "https://wccftech.com/amazon-anthropic-5-billion-investment-6gw-trainium-chip-capacity-for-claude-ai",
+        "https://cryptobriefing.com/anthropic-releases-claude-design-with-opus-47-amid-us-government-pressure"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260421VL206/google-ai-chip-tpu-nvidia.html",
+        "https://www.medianama.com/2026/04/223-ani-vs-openai-ai-copyright-case-india",
+        "https://www.globenewswire.com/news-release/2026/04/21/3277585/0/en/SUSE-Launches-SUSE-AI-Factory-with-NVIDIA.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's AI chip push targets inference boom as battle with Nvidia enters new phase. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's AI chip push targets inference boom as battle with Nvidia enters new phase. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's AI chip push targets inference boom as battle with Nvidia enters new phase. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's AI chip push targets inference boom as battle with Nvidia enters new phase. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's AI chip push targets inference boom as battle with Nvidia enters new phase. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
