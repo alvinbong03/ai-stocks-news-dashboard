@@ -1,0 +1,374 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-23",
+  "last_updated_utc": "2026-04-23T07:44:19.624Z",
+  "news": [
+    {
+      "title": "LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding)",
+      "description": "LeafKVM is a wireless and PoE open-source hardware IP KVM based on Rockchip RV1126B SoC with 512MB RAM and a microSD card slot for storage. Like other IP KVMs, it enables remote access to computers and servers, even at the BIOS level or when the machine is un…",
+      "url": "https://www.cnx-software.com/2026/04/22/leafkvm-open-source-hardware-ip-kvm-offers-wifi-5-poe-usb-c-serial-console-and-2-4-inch-touchscreen-display",
+      "source": "CNX Software",
+      "publishedAt": "2026-04-22T07:41:51Z"
+    },
+    {
+      "title": "GAIL says its LNG vessel Energy Fidelity flagged off from US; to bolster India's energy supply chain",
+      "description": "GAIL's LNG vessel Energy Fidelity departs the US, enhancing India's energy supply chain and supporting a sustainable gas-based economy.",
+      "url": "https://www.thehindubusinessline.com/companies/gail-says-its-lng-vessel-energy-fidelity-flagged-off-from-us-to-bolster-indias-energy-supply-chain/article70891491.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-22T07:26:29Z"
+    },
+    {
+      "title": "Pentagon Intel Believes Iran Retains Considerable Military Might - Reports",
+      "description": "US intelligence believes Iran has retained significant military capabilities, despite the administration's claims of the elimination of Tehran's defensive and offensive capabilities, the NBC News broadcaster reported, citing US lawmakers.",
+      "url": "https://sputnikglobe.com/20260422/pentagon-intel-believes-iran-retains-considerable-military-might---reports-1124022378.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-22T07:25:41Z"
+    },
+    {
+      "title": "Pentagon intel says Iran retains ‘key military capabilities’, contradicting Trump-Hegseth claims: US Media Report",
+      "description": "Pentagon report reveals Iran's military capabilities intact, contradicting Trump and Hegseth's claims of significant losses in recent engagements.",
+      "url": "https://www.thehindubusinessline.com/news/world/pentagon-intel-says-iran-retains-key-military-capabilities-contradicting-trump-hegseth-claims-us-media-report/article70891362.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-22T07:16:31Z"
+    },
+    {
+      "title": "Meet the film school dropout who became a billionaire quantum computing CEO in days thanks to Nvidia",
+      "description": "Before studying to become a physicist, Christian Weedbrook worked early morning shifts at a video store and filmed television commercials.",
+      "url": "https://fortune.com/2026/04/22/christian-weedbrook-ceo-xanadu-quantum-technologies-net-worth-nvidia",
+      "source": "Fortune",
+      "publishedAt": "2026-04-22T07:10:00Z"
+    },
+    {
+      "title": "Coinlocally Lists Tesla, Amazon, Apple, More Tokenized Stock Pairs, Launches Zero-Fee Trading Campaign",
+      "description": "BERLIN, April 22, 2026 (GLOBE NEWSWIRE) -- Coinlocally today launched 10 new tokenized stock pairs on its trading platform and introduced a zero-fee trading campaign for all newly-listed stock pairs. The new listings include widely recognized companies such a…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3278683/0/en/Coinlocally-Lists-Tesla-Amazon-Apple-More-Tokenized-Stock-Pairs-Launches-Zero-Fee-Trading-Campaign.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-22T07:05:00Z"
+    },
+    {
+      "title": "Commentary: Apple eyes iPhone camera, Vision Pro, and CarPlay advances with new CEO in charge",
+      "description": "Apple has officially confirmed long-rumored news that Tim Cook will step down as CEO in September 2026, handing over leadership of the US$4 trillion tech giant to senior vice president of hardware engineering John Ternus. Unlike Cook, known for his supply cha…",
+      "url": "https://www.digitimes.com/news/a20260422PD226/apple-john-ternus-iphone-carplay-smart-cockpit-apple-vision-pro.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T07:01:08Z"
+    },
+    {
+      "title": "More details about Galaxy S27’s Snapdragon chip leak",
+      "description": "The Galaxy S27 series, expected to launch early next year, will likely use a mix of Exynos and Snapdragon chips, depending on the model and the region. Qualcomm is reportedly preparing two high-end processors—Snapdragon 8 Elite Gen 6 and the Snapdragon 8 Elit…",
+      "url": "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-more-specifications-leak",
+      "source": "SamMobile",
+      "publishedAt": "2026-04-22T06:52:20Z"
+    },
+    {
+      "title": "OPPO Find X9s now official: 6.59” AMOLED, Dimensity 9500s chip, 7025mAh battery",
+      "description": "Following the launch of the more camera-centric OPPO Find X9 Ultra, OPPO is now expanding the lineup with a more...\nThe post OPPO Find X9s now official: 6.59” AMOLED, Dimensity 9500s chip, 7025mAh battery appeared first on YugaTech | Philippines Tech News & R…",
+      "url": "https://www.yugatech.com/news/oppo-find-x9s-now-official-6-59-amoled-dimensity-9500s-chip-7025mah-battery",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-04-22T06:51:02Z"
+    },
+    {
+      "title": "Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump's sudden upending of US semiconductor policy over the past year (Michael Acton/Financial Times)",
+      "description": "Michael Acton / Financial Times:\nEfforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump's sudden upending of US semiconductor policy over the past year  —  High-tech semiconductor manufacturing began in the Lehigh Vall…",
+      "url": "https://www.techmeme.com/260422/p10",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-22T06:50:29Z"
+    },
+    {
+      "title": "AMD and Intel Consumer CPU Prices Jump 10% in a Month With More Hikes Expected Through 2026-2027 as AI Craze Continues",
+      "description": "Consumer & Server CPUs will face severe shortages, and are expected to see price hikes till the third quarter of 2026. AMD & Intel CPUs For Consumers & Servers Are Getting More Expensive, AI Is To Blame We have reported how the Agentic AI surge is resulting i…",
+      "url": "https://wccftech.com/amd-intel-consumer-cpu-prices-jump-10-percent-in-a-month",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-22T06:40:10Z"
+    },
+    {
+      "title": "Kingston Fury Beast DDR5-6000 32 GB CL40 @ TechPowerUp",
+      "description": "Kingston Fury Beast tries to aim at budget-minded builders with its 32 GB DDR5-6000 CL40 kit. Tailored for Intel users, it features three XMP profiles to enhance compatibility. Join us as we put this memory to the test and see how it stacks up against the com…",
+      "url": "https://www.madshrimps.be/news/kingston-fury-beast-ddr5-6000-32-gb-cl40-techpowerup",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T06:34:47Z"
+    },
+    {
+      "title": "End of an Era: macOS 27 Drops Support for Intel-Based Macs",
+      "description": "Apple is making its latest macOS 26 release the last official operating system that will run on Intel-powered Macs. This means that starting with next year’s macOS 27 release, new operating system updates will be available only on the M-Series of Apple Silico…",
+      "url": "https://www.madshrimps.be/news/end-of-an-era-macos-27-drops-support-for-intel-based-macs",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T06:24:12Z"
+    },
+    {
+      "title": "Switch and SUSE Advance Digital Twin Innovation with NVIDIA",
+      "description": "Switch and SUSE partner with NVIDIA to power AI Factories, using Digital Twins and SUSE AI to optimize data center performance and exascale operations....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3278660/0/en/Switch-and-SUSE-Advance-Digital-Twin-Innovation-with-NVIDIA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-22T06:00:00Z"
+    },
+    {
+      "title": "AMD Prepares FSR Update with Multi-Frame Generation",
+      "description": "AMD, with its latest FSR “Redstone” graphics technology pack, is currently the only major GPU maker without multi-frame generation (MFG) in its suite of advanced graphics technologies. However, this might be changing soon as AMD is pushing new updates to its …",
+      "url": "https://www.madshrimps.be/news/amd-prepares-fsr-update-with-multi-frame-generation",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T05:50:42Z"
+    },
+    {
+      "title": "No Ryzen 9950X3D2 for TechPowerUp, Gamers Nexus, or ComputerBase",
+      "description": "If you’ve been refreshing our front page today looking for the Ryzen 9 9950X3D2 “Dual Edition” review, I don’t have good news for you: we won’t be publishing a review, because we had no access to a review sample. AMD typically reaches out to us, offering to b…",
+      "url": "https://www.madshrimps.be/news/no-ryzen-9950x3d2-for-techpowerup-gamers-nexus-or-computerbase",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T05:50:35Z"
+    },
+    {
+      "title": "Intel Promises Overclocking on Budget CPUs in the Future",
+      "description": "Intel’s Robert Hallock, a vice president and general manager of the enthusiast section at the company, has announced plans to expand overclocking support to a much wider range of processors in the future. This is a significant move for Intel’s product busines…",
+      "url": "https://www.madshrimps.be/news/intel-promises-overclocking-on-budget-cpus-in-the-future",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T05:49:47Z"
+    },
+    {
+      "title": "Lenovo Brings Production-Scale AI to Hannover Messe 2026",
+      "description": "Manufacturers are under increasing pressure to improve efficiency, resilience, and responsiveness in the face of ongoing supply chain volatility and rising operational complexity. In this environment, AI is no longer a future ambition but an operational neces…",
+      "url": "https://www.madshrimps.be/news/lenovo-brings-production-scale-ai-to-hannover-messe-2026",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T05:47:30Z"
+    },
+    {
+      "title": "How MediaTek will supply Marvell's next three generations of TPUs",
+      "description": "Recent market reports indicate that Marvell is in discussions with Google regarding the development of application-specific integrated circuit (ASIC) products, including memory processing units (MPUs) to pair with existing TPU products, as well as TPU chips f…",
+      "url": "https://www.digitimes.com/news/a20260422PD212/marvell-google-mediatek-market-tpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T05:45:00Z"
+    },
+    {
+      "title": "MSI CODEX R2 AI (Cert. Refurb): Intel Ultra 9 285, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1749.99 (3 replies)",
+      "description": "SPECS: \nIntel® Core™ Ultra 9 285 processor provides reliable performance and efficiency\n32GB DDR5 6000 (2x 16GB) memory - For multitasking power\n2TB M.2 NVMe Gen4 has plenty of space to store your",
+      "url": "https://slickdeals.net/f/19446843-msi-codex-r2-ai-cert-refurb-intel-ultra-9-285-rtx-5070-ti-32gb-ddr5-2tb-ssd-1749-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-22T05:43:13Z"
+    },
+    {
+      "title": "GAIL says its LNG vessel Energy Fidelity flagged off from US; to bolster India's energy supply chain",
+      "description": "GAIL's Energy Fidelity vessel with a carrying capacity of 174,000 cubic meter (cbm) was flagged off on April 20 and is now en route to India. The ceremony was presided over by India's Consul General in Houston, Texas, D C Manjunath, GAIL said in a statement.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/gail-says-its-lng-vessel-energy-fidelity-flagged-off-from-us-to-bolster-indias-energy-supply-chain/articleshow/130432573.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T05:18:30Z"
+    },
+    {
+      "title": "MSI AEGIS R2 A14NVR9-1406US Desktop PC, IntelÂ® Coreâ¢ i9-14900F, 32GB DDR5, 2TB M.2 NVMe Gen4, NVIDIAÂ® GeForce RTX 5070 Ti, Windows 11 Home (Factory Reconditioned) $1799.99 (2 replies)",
+      "description": "https://computers.woot.com/offers...cnt_wp_0_6\n\nKey Features:\nIntel® Core™ i9-14900F processor\n32GB DDR5 6000 (2 x 16GB) memory \n2TB M.2 NVMe Gen4 SSD Storage\nNVIDIA® GeForce RTX 5070 Ti Graphics",
+      "url": "https://slickdeals.net/f/19446774-msi-aegis-r2-a14nvr9-1406us-desktop-pc-intel-core-i9-14900f-32gb-ddr5-2tb-m-2-nvme-gen4-nvidia-geforce-rtx-5070-ti-windows-11-home-factory-reconditioned-1799-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-22T05:09:30Z"
+    },
+    {
+      "title": "Devina Mehra: Investors beware—Part-truths could be more misleading than complete lies",
+      "description": "Part-truths create the sort of over-confidence that often leads people to delude themselves. Tales about compounding, blue chips or market winners that don’t offer the full picture can let investors down worse than outright falsehoods. Examples abound.",
+      "url": "https://www.livemint.com/opinion/online-views/devina-mehra-investors-blue-chip-multibagger-stocks-tesla-apple-nifty50-sensex-bse-nse-11776772600106.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-22T05:07:04Z"
+    },
+    {
+      "title": "Applied Materials announces Advantest as innovation partner for EPIC platform in Silicon Valley",
+      "description": "Leading materials engineering in the semiconductor industry, Applied Materials, announced today that Advantest Corporation, a leading semiconductor test equipment supplier, will join Applied's Equipment and Process Innovation and Commercialization (EPIC) plat…",
+      "url": "https://www.digitimes.com/news/a20260422VL208/applied-materials-advantest-materials-semiconductor-industry-silicon-valley.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T05:03:26Z"
+    },
+    {
+      "title": "Malaysia semiconductor industry weathers geopolitical tensions, eyes higher-value growth",
+      "description": "Industry leaders say the sector is relatively insulated from ongoing conflicts in the Middle East, despite concerns over the availability of critical materials such as helium.",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-semiconductor-sector-geopolitical-tensions-middle-east-conflict-critical-materials-6072266",
+      "source": "CNA",
+      "publishedAt": "2026-04-22T04:35:45Z"
+    },
+    {
+      "title": "Inside PepsiCo India’s farm-to-shelf overhaul amid rising costs, shifting consumer demand",
+      "description": "PepsiCo India says the company is revamping its supply chain network to be faster, more transparent, and resilient, without raising costs.",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/inside-pepsico-indias-farm-to-shelf-overhaul-amid-rising-costs-shifting-consumer-demand/articleshow/130431918.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T04:29:56Z"
+    },
+    {
+      "title": "ASM International reports 16% growth in 1Q26 revenue driven by booming AI market",
+      "description": "ASM International reported a high revenue in the first quarter of 2026, driven by surging AI demand and its need for advanced chips. The Dutch maker of deposition equipment in the chip-making process said that this, in turn, has led semiconductor manufacturer…",
+      "url": "https://www.digitimes.com/news/a20260422VL209/asmi-equipment-revenue-growth-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T04:18:42Z"
+    },
+    {
+      "title": "Shadow AI, deepfakes, and supply chain compromise are rewriting the financial sector threat playbook",
+      "description": "Financially motivated attacks continued to drive the bulk of cyber incidents against banks, insurers, and payment processors in 2025. Approximately 90% of breaches affecting financial institutions carried a financial motive, with data breaches accounting for …",
+      "url": "https://www.helpnetsecurity.com/2026/04/22/financial-sector-cyber-threats-report",
+      "source": "Help Net Security",
+      "publishedAt": "2026-04-22T04:00:16Z"
+    },
+    {
+      "title": "Pentagon intel says Iran retains 'key military capabilities,' contradicting Trump-Hegseth claims: US Media Report",
+      "description": "A Pentagon assessment reveals Iran retains its \"key military capabilities,\" contradicting Trump's claims that its forces were \"decimated.\" While Trump extended a ceasefire at Pakistan's request, Tehran rejected the move, stating the \"losing side cannot set th…",
+      "url": "https://economictimes.indiatimes.com/news/defence/pentagon-intel-says-iran-retains-key-military-capabilities-contradicting-trump-hegseth-claims-us-media-report/articleshow/130431406.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T03:51:41Z"
+    },
+    {
+      "title": "Xbox VP 1st-Party Xbox Helix, Opens Door to Speculation of 3rd-Party Variants",
+      "description": "We've known for a while now that the upcoming Xbox Project Helix game console will be a hybrid game console, able to play both PC and Xbox games, but recently news broke that the Xbox Helix would be using an off-the-shelf AMD APU, followed by a leak from Kepl…",
+      "url": "https://www.techpowerup.com/348422/xbox-vp-1st-party-xbox-helix-opens-door-to-speculation-of-3rd-party-variants",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-22T03:35:24Z"
+    },
+    {
+      "title": "Xbox VP Confirms 1st-Party Xbox Helix, Opens Door to Speculation of 3rd-Party Variants",
+      "description": "We've known for a while now that the upcoming Xbox Project Helix game console will be a hybrid game console, able to play both PC and Xbox games, but recently news broke that the Xbox Helix would be using an off-the-shelf AMD APU, followed by a leak from Kepl…",
+      "url": "https://www.techpowerup.com/348422/xbox-vp-confirms-1st-party-xbox-helix-opens-door-to-speculation-of-3rd-party-variants",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-04-22T03:35:24Z"
+    },
+    {
+      "title": "[SnS, AC] $7.93 | 19.3-Oz Pringles Potato Crisps Chips (3-Flavor Variety) at Amazon ($7.93 each)",
+      "description": "Amazon [amazon.com] has *19.3-Oz Pringles Potato Crisps Chips *(3-Flavor Variety) for $10.58 - 20% when you 'clip' the coupon on product page - 5% when you check out via Subscribe & Save = *$7.93*....",
+      "url": "https://slickdeals.net/f/19446507-sns-ac-7-93-19-3-oz-pringles-potato-crisps-chips-3-flavor-variety-at-amazon-7-93-each",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-04-22T03:19:37Z"
+    },
+    {
+      "title": "China pledges to stabilize memory chip supply as industrial growth and AI-driven manufacturing expand",
+      "description": "China's industrial economy posted steady first-quarter 2026 growth, driven by strong performance in high-tech manufacturing and broad sectoral expansion, according to Ministry of Industry and Information Technology (MIIT) officials, as cited by Xinhua and Peo…",
+      "url": "https://www.digitimes.com/news/a20260422VL206/industrial-growth-manufacturing-chip-supply-miit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T03:15:00Z"
+    },
+    {
+      "title": "Japan earthquake intensifies Kioxia supply concerns as SanDisk, Phison halt NAND pricing",
+      "description": "A strong earthquake struck Japan's Tohoku region on the evening of April 20, 2026, near a critical semiconductor hub, raising global memory supply chain alarms. The quake's epicenter was close to Kioxia's NAND flash factories in Kitakami, Iwate Prefecture, pr…",
+      "url": "https://www.digitimes.com/news/a20260422PD214/kioxia-earthquake-nand-sandisk-phison.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T03:02:18Z"
+    },
+    {
+      "title": "Nvidia-linked Chinese PCB maker jumps on Hong Kong stock debut, targets AI expansion",
+      "description": "Victory Giant Technology, a China-based PCB maker and Nvidia supply chain partner, debuted on the Hong Kong Stock Exchange on April 21, with its shares rising as much as 60% on the first day of trading. Founder and chairman Chen Tao said order momentum remain…",
+      "url": "https://www.digitimes.com/news/a20260422PD219/pcb-hong-kong-stock-market-revenue-nvidia-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T02:59:32Z"
+    },
+    {
+      "title": "Show HN: Individual App Power Usage Tracking on Mac in Native Swift",
+      "description": "Hey All,I built this app to solve a problem for myself, my m1 max would regularly run out of battery in 2 hours lately while coding at a cafe. I could never work out what apps were causing the egregious battery life performance, activity monitor wasn't partic…",
+      "url": "https://macbookbatterymonitor.com/",
+      "source": "Macbookbatterymonitor.com",
+      "publishedAt": "2026-04-22T02:19:29Z"
+    },
+    {
+      "title": "AIDC eyes over NT$100 billion in new defense-related orders across next 5 years",
+      "description": "Taiwan's Aerospace Industrial Development Corporation (AIDC) is facing short-term operational pressure, with supply chain delays hitting its Brave Eagle advanced trainer jet program and setbacks pertaining to US preferential procurement policies. While delive…",
+      "url": "https://www.digitimes.com/news/a20260421PD220/aidc-taiwan-supply-chain-2025-military.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T02:15:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding)",
+      "GAIL says its LNG vessel Energy Fidelity flagged off from US; to bolster India's energy supply chain",
+      "Pentagon Intel Believes Iran Retains Considerable Military Might - Reports",
+      "Pentagon intel says Iran retains ‘key military capabilities’, contradicting Trump-Hegseth claims: US Media Report",
+      "Meet the film school dropout who became a billionaire quantum computing CEO in days thanks to Nvidia"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/companies/gail-says-its-lng-vessel-energy-fidelity-flagged-off-from-us-to-bolster-indias-energy-supply-chain/article70891491.ece",
+        "https://www.digitimes.com/news/a20260422PD226/apple-john-ternus-iphone-carplay-smart-cockpit-apple-vision-pro.html",
+        "https://www.madshrimps.be/news/lenovo-brings-production-scale-ai-to-hannover-messe-2026"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://sputnikglobe.com/20260422/pentagon-intel-believes-iran-retains-considerable-military-might---reports-1124022378.html",
+        "https://www.thehindubusinessline.com/news/world/pentagon-intel-says-iran-retains-key-military-capabilities-contradicting-trump-hegseth-claims-us-media-report/article70891362.ece",
+        "https://wccftech.com/amd-intel-consumer-cpu-prices-jump-10-percent-in-a-month"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/04/22/3278683/0/en/Coinlocally-Lists-Tesla-Amazon-Apple-More-Tokenized-Stock-Pairs-Launches-Zero-Fee-Trading-Campaign.html",
+        "https://www.digitimes.com/news/a20260422VL209/asmi-equipment-revenue-growth-market.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnx-software.com/2026/04/22/leafkvm-open-source-hardware-ip-kvm-offers-wifi-5-poe-usb-c-serial-console-and-2-4-inch-touchscreen-display",
+        "https://fortune.com/2026/04/22/christian-weedbrook-ceo-xanadu-quantum-technologies-net-worth-nvidia",
+        "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-more-specifications-leak"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding). Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding). Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding). Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding). Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LeafKVM open-source hardware IP KVM offers WiFi 5, PoE, USB-C serial console, and 2.4-inch touchscreen display (Crowdfunding). Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

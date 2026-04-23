@@ -1,0 +1,318 @@
+{
+  "theme": "ai",
+  "date": "2026-04-23",
+  "last_updated_utc": "2026-04-23T07:44:00.981Z",
+  "news": [
+    {
+      "title": "Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1",
+      "description": "OpenAI’s latest AI model, GPT-5.5, codenamed “Spud,” has been unveiled, offering a glimpse into the next phase of artificial intelligence. As highlighted by World of AI, this transitional model bridges the gap between GPT-5 and the anticipated GPT-6, deliveri…",
+      "url": "https://www.geeky-gadgets.com/openai-gpt-5-5-leak-details",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-22T07:41:00Z"
+    },
+    {
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "description": "The AI race, the future of AGI, and the inside story of OpenAI. Greg Brockman is the co-founder and President of OpenAI, the company behind ChatGPT and GPT-5. He was the first engineer at Stripe before leaving in 2015 to help start OpenAI. In this rare conver…",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman",
+      "source": "Fs.blog",
+      "publishedAt": "2026-04-22T07:41:08Z"
+    },
+    {
+      "title": "New AI lab Core Automation 'nerdsniped' researchers from Anthropic, Google DeepMind",
+      "description": "A new startup by ex-OpenAI researcher Jerry Tworek has snatched up talent from the country's top AI labs.",
+      "url": "https://www.businessinsider.com/core-automation-ai-nerdsniped-anthropic-google-deepmind-researchers-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-22T04:26:08Z"
+    },
+    {
+      "title": "Switch and SUSE Advance Digital Twin Innovation with NVIDIA",
+      "description": "Switch and SUSE partner with NVIDIA to power AI Factories, using Digital Twins and SUSE AI to optimize data center performance and exascale operations....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3278660/0/en/Switch-and-SUSE-Advance-Digital-Twin-Innovation-with-NVIDIA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-22T06:00:00Z"
+    },
+    {
+      "title": "Anthropicが「Claude Code」を上位有料プランのMaxでのみ使えるようにする変更をテスト中",
+      "description": "Anthropicが、AIコーディングアシスタント「Claude Code」を有料プランのうち上位プランにあたる「Max」のみ提供にするテストを一部で行っていることがわかりました。Anthropic just pulled Claude Code from the Pro plan.Pro users wanting it need Max now. $100/month minimum. 5x jump.I'm on Max 20x so I'm fine. Flagging for anyone on Pro…",
+      "url": "https://news.livedoor.com/article/detail/31069675",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-22T04:45:00Z"
+    },
+    {
+      "title": "OpenAI unveils new image model that’s better at charts and diagrams",
+      "description": "OpenAI's ChatGPT Images 2.0 enhances AI-generated visuals, focusing on accurate charts and diagrams for professional use.",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/openai-unveils-image-model-that-s-better-at-charts-and-diagrams",
+      "source": "Bloomberg",
+      "publishedAt": "2026-04-22T04:21:57Z"
+    },
+    {
+      "title": "OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports",
+      "description": "April 22 : Artificial intelligence firm OpenAI is set to commit up to $1.5 billion to a new joint venture with private equity firms, Financial Times reported on Wednesday, citing people familiar with the matter. The ChatGPT maker will initially invest $500 mi…",
+      "url": "https://www.channelnewsasia.com/business/openai-in-talks-commit-up-15-billion-private-equity-jv-ft-reports-6072691",
+      "source": "CNA",
+      "publishedAt": "2026-04-22T04:13:19Z"
+    },
+    {
+      "title": "Show HN: Open Chronicle – Local Screen Memory for Claude Code and Codex CLI",
+      "description": "I built an open source version of OpenAI Chronicle.Some design decisions I made:1. Local first: OCR uses Apple Vision, summarization supports local AI providers via Vercel AI SDK. Nothing leaves your computer.\n2. Multiple Provider: exposes MCP so any coding a…",
+      "url": "https://github.com/Screenata/open-chronicle",
+      "source": "Github.com",
+      "publishedAt": "2026-04-22T03:06:15Z"
+    },
+    {
+      "title": "Anthropic probes unauthorized access to Mythos AI model",
+      "description": "American AI developer Anthropic said Tuesday it was investigating unauthorized access to Mythos, its powerful model which the company itself worries could be a boon for hackers. Anthropic said earlier this month it restricted the release of Mythos to 40 major…",
+      "url": "https://www.digitaljournal.com/business/anthropic-probes-unauthorized-access-to-mythos-ai-model/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-22T07:17:32Z"
+    },
+    {
+      "title": "Live: Anthropic co-founder on AI and jobs",
+      "description": "We talk with Anthropic co-founder Jack Clark and Chief Economist at Redfin Daryl Fairweather about two of the biggest issues of our time: AI and housing. We have been crisscrossing America doing live shows to help promote the new Planet Money book. In each ci…",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5794326/anthropic-artificial-intelligence-mythos-redfin",
+      "source": "NPR",
+      "publishedAt": "2026-04-22T07:00:00Z"
+    },
+    {
+      "title": "Florida AG opens criminal investigation into OpenAI and ChatGPT",
+      "description": "Per Uthmeier, “Florida law states that anyone who aids, abets, or counsels someone in the commission of a crime, and that crime is committed or attempted, may be considered a principal to the crime.” That means that the responses provided by ChatGPT to the sh…",
+      "url": "https://www.madshrimps.be/news/florida-ag-opens-criminal-investigation-into-openai-and-chatgpt",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T06:29:08Z"
+    },
+    {
+      "title": "ChatGPT Images 2.0 is better at rendering non-Latin text",
+      "description": "A little more than a year after OpenAI gave ChatGPT users the option to create images and designs directly from its chatbot, it’s now releasing ChatGPT Images 2.0. OpenAI describes the new system as a “step change” for image generation models, particularly wh…",
+      "url": "https://www.madshrimps.be/news/chatgpt-images-2-0-is-better-at-rendering-non-latin-text",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-22T06:27:56Z"
+    },
+    {
+      "title": "OpenAI in talks to commit up to $1.5 billion to private equity JV",
+      "description": "The ChatGPT maker will initially invest $500 million of equity into the joint venture, known ‌internally as DeployCo, which is expected to be valued at $10 billion ‌in a funding round set to close ‌in ⁠early May",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-in-talks-to-commit-up-to-15-billion-to-private-equity-jv/article70891474.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-22T05:30:09Z"
+    },
+    {
+      "title": "Amazon BedrockのClaudeモデルでPDFチャート画像の認識精度を検証する",
+      "description": "はじめに AI Integration Unitの山崎です。昨年末までBacklogのSREを担当していましたが、今年からAI Integration UnitでRAGや周辺技術の検証を行っています。 先日、Claude […]\nThe post Amazon BedrockのClaudeモデルでPDFチャート画像の認識精度を検証する appeared first on Nulab (Japanese).",
+      "url": "https://nulab.com/ja/blog/nulab/amazon-bedrock-claude-pdf-chart-recognition",
+      "source": "Nulab.com",
+      "publishedAt": "2026-04-22T04:59:14Z"
+    },
+    {
+      "title": "Sources: OpenAI has pledged up to $1.5B to a new JV with PE firms, starting with $500M in equity; the JV will be valued at $10B in a May funding round (Financial Times)",
+      "description": "Financial Times:\nSources: OpenAI has pledged up to $1.5B to a new JV with PE firms, starting with $500M in equity; the JV will be valued at $10B in a May funding round  —  Start-up backing new company intended to help deploy AI within businesses owned by PE f…",
+      "url": "https://www.techmeme.com/260422/p4",
+      "source": "Techmeme.com",
+      "publishedAt": "2026-04-22T04:45:02Z"
+    },
+    {
+      "title": "ChatGPT Images 2.0 brings reasoning to AI visuals, can now create full comics",
+      "description": "The new model can generate structured, high-quality visuals, including comics, layouts, and multilingual designs, all directly from user prompts.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-brings-reasoning-to-ai-visuals-can-now-create-full-comics-10649407",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-22T04:43:45Z"
+    },
+    {
+      "title": "Show HN: Gemini Plugin for Claude Code",
+      "description": "I built a plugin that lets Claude Code delegate work to Gemini CLI.I started this after finding myself reaching for Gemini more often on long context repo work. I have been especially liking Gemini’s codebaseinvestigator for long context.This is inspired by o…",
+      "url": "https://github.com/m-ghalib/gemini-plugin-cc",
+      "source": "Github.com",
+      "publishedAt": "2026-04-22T04:41:09Z"
+    },
+    {
+      "title": "OpenAI in talks to commit up to $1.5 billion to private equity joint venture: FT",
+      "description": "Artificial intelligence firm OpenAI is reportedly planning to invest up to $1.5 billion in a new joint venture, internally named 'DeployCo'. This venture, with private equity firms, is expected to be valued at $10 billion.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-in-talks-to-commit-up-to-1-5-billion-to-private-equity-joint-venture-ft/articleshow/130432065.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T04:39:08Z"
+    },
+    {
+      "title": "OpenAI in talks to commit up to $1.5 billion to private equity joint venture, FT reports",
+      "description": "April 22 : Artificial intelligence firm OpenAI is set to commit up to $1.5 billion to a new joint venture with private equity firms, the Financial Times reported on Wednesday, citing people with knowledge of the matter. Reuters could not immediately verify th…",
+      "url": "https://www.channelnewsasia.com/business/openai-in-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-6072691",
+      "source": "CNA",
+      "publishedAt": "2026-04-22T04:13:19Z"
+    },
+    {
+      "title": "Piraeus Bank and Accenture establish AI Hub in Greece utilizing Anthropic technologies",
+      "description": "Piraeus Bank and Accenture announced the expansion of their long-standing strategic partnership, establishing a dedicated AI Hub that will leverage technologies developed by Anthropic.\nAccording to the announcement, the initiative…\nPiraeus Bank and Accenture …",
+      "url": "https://www.naftemporiki.gr/english/2101142/piraeus-bank-and-accenture-establish-ai-hub-in-greece-utilizing-anthropic-technologies",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-04-22T04:10:45Z"
+    },
+    {
+      "title": "GoogleがGemini 3.1 Proベースの新型AIエージェント「Deep Research Max」を発表",
+      "description": "GoogleがGemini 3.1 Proをベースに構築された新しいAIエージェントの「Deep Research Max」を発表しました。Introducing Deep Research and Deep Research Maxhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/We are launching two powerful upd…",
+      "url": "https://news.livedoor.com/article/detail/31068876",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-04-22T03:43:00Z"
+    },
+    {
+      "title": "Some Unknown Group Is Reportedly Using Claude Mythos Without Permission",
+      "description": "What's been pitched as the most dangerous AI model in the world allegedly has a giant security hole.",
+      "url": "https://gizmodo.com/some-unknown-group-is-reportedly-using-claude-mythos-without-permission-2000749327",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-04-22T03:37:21Z"
+    },
+    {
+      "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa",
+      "description": "Meta Platforms is constructing a massive $1 billion data centre in Tulsa, Oklahoma, to boost its AI infrastructure. This investment will create over 1,000 construction jobs and 100 operational roles, marking Meta's first facility in the state. The project und…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/meta-breaks-ground-on-over-1-billion-data-center-in-oklahomas-tulsa/articleshow/130431015.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T03:13:36Z"
+    },
+    {
+      "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+      "description": "[AIブレインパートナーズ株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/175436/4/175436-4-1ed16cc8738ef95a0f79aeb874405509-2400x1260.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000175436.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-04-22T03:10:00Z"
+    },
+    {
+      "title": "Nvidia-linked Chinese PCB maker jumps on Hong Kong stock debut, targets AI expansion",
+      "description": "Victory Giant Technology, a China-based PCB maker and Nvidia supply chain partner, debuted on the Hong Kong Stock Exchange on April 21, with its shares rising as much as 60% on the first day of trading. Founder and chairman Chen Tao said order momentum remain…",
+      "url": "https://www.digitimes.com/news/a20260422PD219/pcb-hong-kong-stock-market-revenue-nvidia-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T02:59:32Z"
+    },
+    {
+      "title": "AI coding tool competition intensifies as SpaceX-Cursor deal, Google push, and Anthropic upgrades reshape industry",
+      "description": "Competition in AI-powered software development tools is intensifying across major technology companies, with new acquisitions, internal restructuring, and product launches signaling a rapid escalation in the race to automate coding.",
+      "url": "https://www.digitimes.com/news/a20260422VL203/ai-coding-software-openai-google-anthropic-spacex.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-22T02:33:56Z"
+    },
+    {
+      "title": "OpenAI Previews ChatGPT Images 2 Generation Model with Real-World Intelligence",
+      "description": "OpenAI has given the world a preview of its new image generation model, ChatGPT Images 2, which debuts real-world intelligence and improved capabilities.",
+      "url": "https://www.ibtimes.com.au/openai-previews-chatgpt-images-2-generation-model-real-world-intelligence-1867210",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-22T02:17:04Z"
+    },
+    {
+      "title": "Florida attorney general issues subpoenas in ChatGPT probe over FSU shooting",
+      "description": "Florida Attorney General James Uthmeier today said that the state has opened a criminal investigation into ChatGPT and its parent company, OpenAI Group PBC, over whether the company bears any criminal responsibility for a shooting that happened last year at F…",
+      "url": "https://siliconangle.com/2026/04/21/florida-attorney-general-issues-subpoenas-chatgpt-probe-fsu-shooting",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-22T02:14:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1",
+      "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "New AI lab Core Automation 'nerdsniped' researchers from Anthropic, Google DeepMind",
+      "Switch and SUSE Advance Digital Twin Innovation with NVIDIA",
+      "Anthropicが「Claude Code」を上位有料プランのMaxでのみ使えるようにする変更をテスト中"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/openai-gpt-5-5-leak-details",
+        "https://fs.blog/knowledge-project-podcast/greg-brockman",
+        "https://www.businessinsider.com/core-automation-ai-nerdsniped-anthropic-google-deepmind-researchers-2026-4"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-brings-reasoning-to-ai-visuals-can-now-create-full-comics-10649407"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitaljournal.com/business/anthropic-probes-unauthorized-access-to-mythos-ai-model/article",
+        "https://gizmodo.com/some-unknown-group-is-reportedly-using-claude-mythos-without-permission-2000749327"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/31069675",
+        "https://www.npr.org/2026/04/22/nx-s1-5794326/anthropic-artificial-intelligence-mythos-redfin",
+        "https://www.naftemporiki.gr/english/2101142/piraeus-bank-and-accenture-establish-ai-hub-in-greece-utilizing-anthropic-technologies"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/04/22/3278660/0/en/Switch-and-SUSE-Advance-Digital-Twin-Innovation-with-NVIDIA.html",
+        "https://nulab.com/ja/blog/nulab/amazon-bedrock-claude-pdf-chart-recognition",
+        "https://github.com/m-ghalib/gemini-plugin-cc"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI’s “Spud” Model is Outperforming Google Gemini 3.1. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
