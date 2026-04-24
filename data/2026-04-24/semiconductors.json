@@ -1,0 +1,411 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-04-24",
+  "last_updated_utc": "2026-04-24T07:55:46.084Z",
+  "news": [
+    {
+      "title": "MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power",
+      "description": "The MSI Cubi NUC AI+ 3MG is a compact mini PC powered by Intel’s Panther Lake technology, designed to balance performance and energy efficiency. As detailed by ETA Prime, it features the Intel Core Ultra 9 386H processor paired with an integrated Neural Proce…",
+      "url": "https://www.geeky-gadgets.com/msi-cubi-nuc-ai-plus-3mg-first-look",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-23T07:45:00Z"
+    },
+    {
+      "title": "SanDisk Stock at $979: Analysts Split on Buy or Sell Amid Explosive AI NAND Rally in 2026",
+      "description": "MILPITAS, Calif. — SanDisk Corp. shares have delivered one of the most spectacular runs in recent memory, surging past $979 after climbing more than 1,200% since its 2025 spinoff from Western Digital, yet investors now face a classic Wall Street dilemma: is t…",
+      "url": "https://www.ibtimes.com.au/sandisk-stock-979-analysts-split-buy-sell-amid-explosive-ai-nand-rally-2026-1867330",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-23T07:33:27Z"
+    },
+    {
+      "title": "SaiMemory wins NEDO backing for next-generation ZAM memory, partners with Intel",
+      "description": "SaiMemory, a next-generation memory developer established by SoftBank, said on April 22 that its development project has been selected for subsidies by Japan's New Energy and Industrial Technology Development Organization (NEDO), with the government expected …",
+      "url": "https://www.digitimes.com/news/a20260423VL221/nedo-hbm-performance-development.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-23T07:27:44Z"
+    },
+    {
+      "title": "South Korea’s Samsung workers rally in thousands as strike looms",
+      "description": "Tens of thousands of Samsung Electronics workers rallied in South Korea on Thursday to demand higher pay and bonuses, as their threat of a weeks-long strike hung over the technology giant. Samsung is a major producer of chips used in everything from artificia…",
+      "url": "https://www.digitaljournal.com/world/south-koreas-samsung-workers-rally-in-thousands-as-strike-looms/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-23T07:27:32Z"
+    },
+    {
+      "title": "NVIDIA RTX A400 Graphics Driver 32.0.15.9174 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX A400 Graphics Driver version 32.0.15.9174 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availabl…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-32-0-15-9174-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T07:25:40Z"
+    },
+    {
+      "title": "Trump to Hold Closed-Door Intel Briefing Amid Ceasefire With Iran",
+      "description": "WASHINGTON (Sputnik) - US President Donald Trump will hold a closed-door intelligence briefing on Thursday amid a temporary ceasefire with Iran and uncertainty about potential renewed strikes.",
+      "url": "https://sputnikglobe.com/20260423/trump-to-hold-closed-door-intel-briefing-amid-ceasefire-with-iran-1124028144.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-23T07:24:44Z"
+    },
+    {
+      "title": "US firms voice ‘concern’ over China’s new supply chain rules",
+      "description": "China’s new supply chain regulations could be a “concern” for US firms, the American Chamber of Commerce in China warned on Thursday. The regulations, released on April 7, allow Chinese authorities to take measures against foreign companies or individuals tha…",
+      "url": "https://www.digitaljournal.com/world/us-firms-voice-concern-over-chinas-new-supply-chain-rules/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-23T07:17:20Z"
+    },
+    {
+      "title": "TSMC Maps Out A13 “1.3nm” & A12 “1.2nm” Nodes For 2029, Sidesteps ASML’s Priciest EUV Tools For Now",
+      "description": "TSMC has presented its latest technology roadmap through 2029, bringing advanced processes such as A13 and A12 by 2029. TSMC Reluctant To Use ASML's Advanced EUV Machines Due To Cost Constraints, Focuses On Die Shrinks For 2029 With A13 & A12 During TSMC's 20…",
+      "url": "https://wccftech.com/tsmc-maps-out-a13-a12-nodes-for-2029-sidesteps-asml-priciest-euv-tools-for-now",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-23T07:15:43Z"
+    },
+    {
+      "title": "Samsung workers protest over huge pay gap with SK Hynix, threaten long strike",
+      "description": "PYEONGTAEK, South Korea: Tens of thousands of Samsung Electronics workers rallied at a sprawling factory complex south of Seoul on Thursday (Apr 23), venting their anger over compensation levels ahead of a planned lengthy strike that could disrupt AI chip pro…",
+      "url": "https://www.channelnewsasia.com/east-asia/samsung-workers-protest-over-huge-pay-gap-sk-hynix-threaten-long-strike-6075681",
+      "source": "CNA",
+      "publishedAt": "2026-04-23T07:13:00Z"
+    },
+    {
+      "title": "Samsung workers rally in South Korea, demanding higher pay and threatening to strike",
+      "description": "Thousands of Samsung Electronics' workers have rallied at its computer chip making complex in Pyeongtaek, South Korea, demanding higher bonuses and threatening to strike as the boom in artificial intelligence drives up memory-chip profits. Samsung’s union, wh…",
+      "url": "https://www.seattlepi.com/news/world/article/samsung-workers-rally-in-south-korea-demanding-22221599.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-04-23T07:07:52Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7159 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7159 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7159-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T07:02:07Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7159 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7159 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7159-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T07:01:42Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7159 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7159 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7159-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T07:00:46Z"
+    },
+    {
+      "title": "Last patient, last visit completed in Phase I clinical trial of PulseSight Therapeutics’ PST-611 treatment for dry AMD/Geographic Atrophy (GA)",
+      "description": "-Results to be presented at ARVO 2026 Annual Meeting-    PARIS, April  23, 2026  (GLOBE NEWSWIRE) -- PulseSight Therapeutics SAS, an ophthalmology clinical...",
+      "url": "https://www.globenewswire.com/news-release/2026/04/23/3279592/0/en/Last-patient-last-visit-completed-in-Phase-I-clinical-trial-of-PulseSight-Therapeutics-PST-611-treatment-for-dry-AMD-Geographic-Atrophy-GA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-23T07:00:00Z"
+    },
+    {
+      "title": "Your Phone's Next Speed Boost May Come From Magnetic Chips",
+      "description": "alternative_right writes: A new technology has been proposed that could fundamentally solve the issue of smartphones overheating during high-spec gaming or extended video streaming. Researchers at KAIST have discovered the principle of processing signals usin…",
+      "url": "https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-23T07:00:00Z"
+    },
+    {
+      "title": "Foldable iPhone Ultra Rumors: Will Apple Foldable iPhone Ultra Have Visible Crease?",
+      "description": "CUPERTINO, Calif. — Apple's long-awaited first foldable iPhone, widely rumored to carry the premium \"iPhone Ultra\" branding, is poised to deliver a display with a crease so minimal it may appear nearly invisible when unfolded, according to multiple supply cha…",
+      "url": "https://www.ibtimes.com.au/foldable-iphone-ultra-rumors-will-apple-foldable-iphone-ultra-have-visible-crease-1867316",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-23T06:54:16Z"
+    },
+    {
+      "title": "China hands 11.5-year sentence in rare earth, semiconductor data leak case",
+      "description": "China is intensifying investigations and enforcement against data leaks in critical sectors across its industrial supply chain, targeting areas such as rare earths, semiconductors, and digital data resources.",
+      "url": "https://www.digitimes.com/news/a20260423PD228/data-supply-chain-security-industrial-semiconductors.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-23T06:46:26Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7216 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7216 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7216-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T06:38:32Z"
+    },
+    {
+      "title": "Taiwan's semiconductor equipment gap persists despite govt subsidies",
+      "description": "With government incentives, Taiwan has achieved significant success in localizing display equipment, though the competitiveness of the display industry has declined considerably in the process. Semiconductor equipment has also been listed as a key area for go…",
+      "url": "https://www.digitimes.com/news/a20260423PD204/equipment-government-taiwan-self-sufficiency-moea.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-23T06:31:13Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7260 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7260 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7260-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T06:27:49Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7260 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7260 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7260-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T06:27:17Z"
+    },
+    {
+      "title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7260 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA RTX 5880 Ada Generation Graphics Driver version 32.0.15.7260 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7260-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-04-23T06:26:16Z"
+    },
+    {
+      "title": "Intel 14A Wins Over Elon Musk As The “State of The Art” Process Tech To Be Deployed at TeraFab",
+      "description": "Intel 14A finally has a big name backing it up, and it's Elon Musk, who will be leveraging the process technology at the TeraFab project. Intel & Elon Partnership Deeper Than Expected As Musk Announces 14A Process Technology For Tesla's TeraFab During its Q1 …",
+      "url": "https://wccftech.com/intel-14a-wins-elon-musk-as-state-of-the-art-process-tech-to-be-deployed-at-terafab",
+      "source": "Wccftech",
+      "publishedAt": "2026-04-23T06:20:04Z"
+    },
+    {
+      "title": "Tesla lifts 2026's spending plans by 25%",
+      "description": "Tesla has sharply raised its spending plan to more than $25 billion for the year as CEO Elon Musk pours money into artificial intelligence, robotics and chips - moves he said were \"well justified\" to build big future revenue streams.",
+      "url": "https://www.rte.ie/news/business/2026/0423/1569680-tesla-quarterly-results",
+      "source": "RTE",
+      "publishedAt": "2026-04-23T06:20:01Z"
+    },
+    {
+      "title": "BE Semiconductor Industries N.V. Announces Q1-26 Results",
+      "description": "Q1-26 Orders of € 269.7 Million Up 104.5% vs. Q1-25  Revenue of € 184.9 Million and Net Income of € 51.6 Million Up 28.3% and 63.8%, Respectively, vs....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/23/3279584/0/en/BE-Semiconductor-Industries-N-V-Announces-Q1-26-Results.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-23T06:19:00Z"
+    },
+    {
+      "title": "Essential Guide to Building a Professional iPad Workspace In 2026",
+      "description": "Building an effective iPad desk setup in 2026 means balancing the capabilities of the device with a workspace that supports your tasks. Terren Rule highlights how features like M-series chips and iPadOS updates have expanded what iPads can handle, but emphasi…",
+      "url": "https://www.geeky-gadgets.com/ipad-only-desktop-replacement",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-04-23T06:19:00Z"
+    },
+    {
+      "title": "Former Samsung Electronics researcher sentenced to 7-year prison term for leaking DRAM trade secrets",
+      "description": "A former researcher at Samsung Electronics was sentenced to seven years in prison on April 22 by a South Korean court for leaking core semiconductor trade secrets to a Chinese competitor. The case highlights how chip-making technology is increasingly regarded…",
+      "url": "https://www.digitimes.com/news/a20260423VL219/samsung-cxmt-dram-technology-legal.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-23T06:05:34Z"
+    },
+    {
+      "title": "This new brain-like chip could slash AI energy use by 70%",
+      "description": "A breakthrough in brain-inspired computing could make today’s energy-hungry AI systems far more efficient. Researchers have engineered a new nanoelectronic device using a modified form of hafnium oxide that mimics how neurons process and store information at …",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260422044633.htm",
+      "source": "Science Daily",
+      "publishedAt": "2026-04-23T06:01:42Z"
+    },
+    {
+      "title": "Rambus Unveils SOCAMM2 Server Module Chipset",
+      "description": "Rambus Inc. (NASDAQ: RMBS), a premier chip and silicon IP provider making data faster and safer, today announced a SOCAMM2 (Small Outline Compression Attached Memory Module) chipset designed to enable low-power, high-performance LPDDR5X-based memory modules f…",
+      "url": "https://www.madshrimps.be/news/rambus-unveils-socamm2-server-module-chipset",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:54:51Z"
+    },
+    {
+      "title": "Redmi K Pad 2 launches with high-refresh 3K display and flagship processor",
+      "description": "Xiaomi's new compact tablet targets gamers with 165Hz screen, MediaTek Dimensity 9500 chip, and Bose audio tuning",
+      "url": "https://www.intomobile.com/2026/04/22/redmi-k-pad-2-launches-with-high-refresh-3k-display-and-flagship-processor",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-04-23T05:52:36Z"
+    },
+    {
+      "title": "Leaker Calls Xbox Helix Console Equivalent to $2-3,000 Gaming PC",
+      "description": "Recent rumors revealed that Microsoft may be ditching APU customization for Xbox Project Helix, its upcoming PC-console hybrid that is expected to launch around the $1,000 mark, opting instead for an off-the-shelf AMD APU that will seemingly be available to o…",
+      "url": "https://www.madshrimps.be/news/leaker-calls-xbox-helix-console-equivalent-to-2-3000-gaming-pc",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:52:18Z"
+    },
+    {
+      "title": "TSMC Debuts A13 Technology at 2026 North America Technology Symposium",
+      "description": "TSMC (TWSE: 2330, NYSE: TSM) today debuted its latest innovation in its most advanced process technology at the Company’s 2026 North America Technology Symposium. TSMC’s new A13 process is a direct shrink of its industry-leading A14 node announced in 2025, en…",
+      "url": "https://www.madshrimps.be/news/tsmc-debuts-a13-technology-at-2026-north-america-technology-symposium",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:51:04Z"
+    },
+    {
+      "title": "Bolt Graphics Completes Tape-Out of Test Chip for Its Zeus GPU",
+      "description": "Bolt Graphics today announced the successful tape-out of its test chip, marking a key milestone in the development of its Zeus GPU. Zeus is a next-generation compute platform designed to reduce the total cost of compute by up to 17 times across high-performan…",
+      "url": "https://www.madshrimps.be/news/bolt-graphics-completes-tape-out-of-test-chip-for-its-zeus-gpu",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:44:37Z"
+    },
+    {
+      "title": "AMD Launches the Ryzen 9 9950X3D2 Dual Edition Processor",
+      "description": "Today, AMD released the AMD Ryzen 9 9950X3D2 Dual Edition processor, the first processor that brings dual AMD 3D V-Cache technology to the desktop, unlocking a new level of performance for developers, creators and gamers. https://www.techpowerup.com/348435/am…",
+      "url": "https://www.madshrimps.be/news/amd-launches-the-ryzen-9-9950x3d2-dual-edition-processor",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:44:26Z"
+    },
+    {
+      "title": "Google Introduces Its Eighth Generation of Custom Tensor Processor Unit",
+      "description": "Today at Google Cloud Next, we are introducing the eighth generation of Google’s custom Tensor Processor Unit (TPU), coming soon with two distinct, purpose-built architectures for training and inference: TPU 8t and TPU 8i. These two chips are designed to powe…",
+      "url": "https://www.madshrimps.be/news/google-introduces-its-eighth-generation-of-custom-tensor-processor-unit",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-04-23T05:44:15Z"
+    },
+    {
+      "title": "SK Hynix to shift over half of NAND output to 321-layer chips",
+      "description": "SK Hynix said it plans to expand production of its latest 321-layer NAND chips, as demand for AI applications leads to increased adoption of high-capacity enterprise storage.",
+      "url": "https://www.digitimes.com/news/a20260423VL217/sk-hynix-nand-chips-demand-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-04-23T05:42:27Z"
+    },
+    {
+      "title": "STMicroelectronics' beats on results and guidance boost shares",
+      "description": "April 23 : STMicroelectronics reported first-quarter results above market expectations on Thursday, pointing to signs of recovery in its key semiconductor markets, and forecast further growth in the second quarter.The Franco-Italian chipmaker's shares rose by…",
+      "url": "https://www.channelnewsasia.com/business/stmicroelectronics-beats-results-and-guidance-boost-shares-6075591",
+      "source": "CNA",
+      "publishedAt": "2026-04-23T05:39:51Z"
+    },
+    {
+      "title": "STMicroelectronics posts Q1 above estimates, forecasts stronger Q2",
+      "description": "April 23 : STMicroelectronics on Thursday reported first-quarter results above estimates, pointing to signs of recovery in its key semiconductor markets, and forecast further growth in the second quarter.The Franco-Italian chipmaker reported revenue of $3.10 …",
+      "url": "https://www.channelnewsasia.com/business/stmicroelectronics-posts-q1-above-estimates-forecasts-stronger-q2-6075591",
+      "source": "CNA",
+      "publishedAt": "2026-04-23T05:39:51Z"
+    },
+    {
+      "title": "SpaceX targets in-house GPUs as it warns investors of chip supply, costs",
+      "description": "SpaceX is preparing for a major IPO and has revealed ambitious plans to manufacture its own graphics processing units, or GPUs. These chips are crucial for powering artificial intelligence technologies. The company is investing heavily in this venture, which …",
+      "url": "https://economictimes.indiatimes.com/news/international/business/spacex-targets-in-house-gpus-as-it-warns-investors-of-chip-supply-costs/articleshow/130458090.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-23T05:35:00Z"
+    },
+    {
+      "title": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentiment - CNBC",
+      "description": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentimentCNBC Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions SimmerWSJ Asian shares pull back from record highs as oil gains on Iran riskReuters Asian shares are mixed a…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181885274",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-23T05:32:33Z"
+    },
+    {
+      "title": "Besi orders boosted by demand for hybrid bonding tech",
+      "description": "April 23 : BE Semiconductor Industries (BESI) on Thursday said its quarterly orders grew significantly in the first-quarter, helped by growth across all its markets and particularly strong demand for hybrid bonding. Investors are banking on growing orders for…",
+      "url": "https://www.channelnewsasia.com/business/besi-orders-boosted-demand-hybrid-bonding-tech-6075541",
+      "source": "CNA",
+      "publishedAt": "2026-04-23T05:15:24Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power",
+      "SanDisk Stock at $979: Analysts Split on Buy or Sell Amid Explosive AI NAND Rally in 2026",
+      "SaiMemory wins NEDO backing for next-generation ZAM memory, partners with Intel",
+      "South Korea’s Samsung workers rally in thousands as strike looms",
+      "NVIDIA RTX A400 Graphics Driver 32.0.15.9174 for Windows 10 version 1803 64-bit"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Generation",
+      "summary": "Grouped stories where \"generation\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260423VL221/nedo-hbm-performance-development.html",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7159-for-Windows-10-version-1809-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-7159-for-Windows-10-version-1903-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "Graphics",
+      "summary": "Grouped stories where \"graphics\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-32-0-15-9174-for-Windows-10-version-1803-64-bit.shtml",
+        "https://economictimes.indiatimes.com/news/international/business/spacex-targets-in-house-gpus-as-it-warns-investors-of-chip-supply-costs/articleshow/130458090.cms"
+      ]
+    },
+    {
+      "title": "Technology",
+      "summary": "Grouped stories where \"technology\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/msi-cubi-nuc-ai-plus-3mg-first-look",
+        "https://www.digitaljournal.com/world/south-koreas-samsung-workers-rally-in-thousands-as-strike-looms/article",
+        "https://wccftech.com/tsmc-maps-out-a13-a12-nodes-for-2029-sidesteps-asml-priciest-euv-tools-for-now"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/east-asia/samsung-workers-protest-over-huge-pay-gap-sk-hynix-threaten-long-strike-6075681",
+        "https://www.seattlepi.com/news/world/article/samsung-workers-rally-in-south-korea-demanding-22221599.php",
+        "https://www.sciencedaily.com/releases/2026/04/260422044633.htm"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/sandisk-stock-979-analysts-split-buy-sell-amid-explosive-ai-nand-rally-2026-1867330",
+        "https://sputnikglobe.com/20260423/trump-to-hold-closed-door-intel-briefing-amid-ceasefire-with-iran-1124028144.html",
+        "https://www.digitaljournal.com/world/us-firms-voice-concern-over-chinas-new-supply-chain-rules/article"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power. Main topic cluster: Generation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power. Main topic cluster: Generation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power. Main topic cluster: Generation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power. Main topic cluster: Generation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI’s New Panther Lake Mini PC Only Needs 16 Watts of Power. Main topic cluster: Generation. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
