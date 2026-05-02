@@ -1,0 +1,275 @@
+{
+  "theme": "ai",
+  "date": "2026-05-02",
+  "last_updated_utc": "2026-05-02T07:26:00.871Z",
+  "news": [
+    {
+      "title": "GPT-5.5が「ネットワーク完全乗っ取り攻撃」を自律的に成功、Claude Mythos Previewに続いて2例目",
+      "description": "イギリスの政府系機関・AI Security Institute(AISI)によるサイバー攻撃性能の検証で、GPT-5.5が「ネットワーク完全乗っ取り攻撃」を成功させられる性能を持っていることが明らかになりました。Our evaluation of OpenAI's GPT-5.5 cyber capabilities | AISI Workhttps://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilitiesOpenAI…",
+      "url": "https://news.livedoor.com/article/detail/31148785",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-01T03:05:00Z"
+    },
+    {
+      "title": "OpenAI demand doubts cast shadow over AI server supply chain",
+      "description": "OpenAI's aggressive push to secure AI computing capacity is facing growing scrutiny, with signs that its multibillion-dollar data center procurement plans may be reassessed, reportedly raising questions for a supply chain led by Quanta Computer, Wistron and F…",
+      "url": "https://www.digitimes.com/news/a20260501VL207/ai-server-capacity-ems-openai-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-01T06:53:41Z"
+    },
+    {
+      "title": "nexu-io/open-design:  Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · ️ sandboxed preview ·  HTML/PDF/PPTX export.  Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCod",
+      "description": " Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · ️ sandboxed preview ·  HTML/PDF/PPTX export.  Runs on Claude Code / Codex...",
+      "url": "https://github.com/nexu-io/open-design",
+      "source": "Github.com",
+      "publishedAt": "2026-05-01T05:47:01Z"
+    },
+    {
+      "title": "Elon Musk spars with OpenAI attorney in trial over company's evolution from a nonprofit",
+      "description": "Elon Musk is testifying in a high-stakes trial against OpenAI. He accuses co-founder Sam Altman of betraying promises to keep the company a nonprofit. The judge has instructed parties to avoid discussing AI safety risks. Musk claims OpenAI stole his nonprofit…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit/articleshow/130668531.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-01T03:04:08Z"
+    },
+    {
+      "title": "Huawei AI chip sales surge as Nvidia loses ground in China: FT",
+      "description": "Huawei's AI chip growth in China signals a shift in tech dominance, challenging Nvidia's global market leadership amid US-China tensions.\nThe post Huawei AI chip sales surge as Nvidia loses ground in China: FT appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/huawei-ai-chip-sales-surge-as-nvidia-loses-ground-in-china-ft",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-01T01:38:51Z"
+    },
+    {
+      "title": "AI-Powered Creative Workflows with Claude: A Developer Guide",
+      "description": "Discover how AI-powered creative workflows with Claude are revolutionizing software development. Boost productivity, automate tasks, and enhance creativity. #AI #Claude",
+      "url": "https://www.c-sharpcorner.com/article/ai-powered-creative-workflows-with-claude-a-developer-guide",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:39:30Z"
+    },
+    {
+      "title": "How Claude AI Is Transforming Creative and Developer Workflows",
+      "description": "Discover how Claude AI revolutionizes creative & developer workflows. Boost productivity, automate tasks, & enhance output. Learn practical tips & real-world use cases!",
+      "url": "https://www.c-sharpcorner.com/article/how-claude-ai-is-transforming-creative-and-developer-workflows",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:38:30Z"
+    },
+    {
+      "title": "Claude AI Integrates into Creative Tools: What It Means",
+      "description": "Explore how Claude AI integrates into creative tools, boosting productivity for writers, designers, and developers. Learn real-world use cases and benefits!",
+      "url": "https://www.c-sharpcorner.com/article/claude-ai-integrates-into-creative-tools-what-it-means",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:37:18Z"
+    },
+    {
+      "title": "Gemini AI File Generation: Real-World Use Cases for Developers",
+      "description": "Discover how Gemini AI file generation revolutionizes development! Automate code, APIs, docs, & tests. Boost productivity & focus on core logic. A must-read for devs!",
+      "url": "https://www.c-sharpcorner.com/article/gemini-ai-file-generation-real-world-use-cases-for-developers",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:15:07Z"
+    },
+    {
+      "title": "How Gemini AI Generates Files and Boosts Developer Productivity",
+      "description": "Gemini AI generates code, docs, & configs directly from chat, boosting developer productivity. Automate repetitive tasks & accelerate development cycles!",
+      "url": "https://www.c-sharpcorner.com/article/how-gemini-ai-generates-files-and-boosts-developer-productivity",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:13:22Z"
+    },
+    {
+      "title": "Gemini Now Creates Downloadable Files Directly in Chat",
+      "description": "Gemini AI now generates downloadable files directly in chat! Boost productivity with documents, code, & more. Learn how to leverage this powerful feature. #AI",
+      "url": "https://www.c-sharpcorner.com/article/gemini-now-creates-downloadable-files-directly-in-chat",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-01T06:12:39Z"
+    },
+    {
+      "title": "China's $1M Nvidia AI servers expose global chip squeeze",
+      "description": "Prices for high-end AI servers in China are diverging sharply from global benchmarks, with systems built around Nvidia's B300 chips now fetching scarcity-driven premiums that reflect tightening export controls and surging domestic demand.",
+      "url": "https://www.digitimes.com/news/a20260501VL205/nvidia-high-end-demand-hardware-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-01T05:30:08Z"
+    },
+    {
+      "title": "Advantest beats on AI chip testing, cautious outlook dents shares",
+      "description": "Japan's Advantest closed its fiscal year with strong results, highlighting how AI-driven chip demand is reshaping semiconductor testing economics, even as a cautious outlook weighed on sentiment.",
+      "url": "https://www.digitimes.com/news/a20260501VL206/advantest-earnings-outlook-revenue-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-01T03:45:28Z"
+    },
+    {
+      "title": "ChatGPTのアカウントを強力に保護する「高度なアカウントセキュリティ」機能が登場",
+      "description": "ChatGPTの開発元であるOpenAIが、ChatGPTアカウントを高リスクのデジタル攻撃から保護することができる新しいオプトイン設定の「高度なアカウントセキュリティ」を発表しました。Introducing Advanced Account Security | OpenAIhttps://openai.com/index/advanced-account-security/Now available for ChatGPT accounts: Advanced Account Security, a new …",
+      "url": "https://news.livedoor.com/article/detail/31149231",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-01T03:45:00Z"
+    },
+    {
+      "title": "Google's Gemini AI Can Now Create Files For Select Supported Formats",
+      "description": "Google Gemini now creates PDFs, DOCX, XLSX, Slides, and more from simple prompts, making file generation faster and easier.",
+      "url": "https://www.ibtimes.com.au/googles-gemini-ai-can-now-create-files-select-supported-formats-1867893",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-01T03:12:05Z"
+    },
+    {
+      "title": "Samsung strike threat highlights rising labor risk to AI chip supply chain and corporate pay models",
+      "description": "Samsung Electronics is facing its largest labor escalation in years after unions representing tens of thousands of workers voted to authorize strike action. The dispute centers on compensation structures, particularly performance-based bonuses linked to semic…",
+      "url": "https://www.digitimes.com/news/a20260428VL206/samsung-labor-strike-ai-chip-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-01T03:00:28Z"
+    },
+    {
+      "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports",
+      "description": "Huawei anticipates a significant surge in its AI chip revenue, projecting a 60% increase this year. This growth is driven by strong demand from Chinese companies. The tech giant expects its chip revenue to reach approximately $12 billion this year, a substant…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/huawei-expects-ai-chip-revenue-to-jump-at-least-60-this-year-ft-reports/articleshow/130665551.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-01T02:45:47Z"
+    },
+    {
+      "title": "KLA 3Q26: AI chip demand drives process control, guidance fails to clear bar",
+      "description": "KLA Corporation's fiscal 3Q26 results underscore a familiar pattern in the current semiconductor cycle: strong execution tied to AI infrastructure demand, but investor expectations are rising even faster.",
+      "url": "https://www.digitimes.com/news/a20260501VL204/demand-process-control-kla-guidance-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-01T02:30:58Z"
+    },
+    {
+      "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - this model was better",
+      "description": "When you're driving, both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's modest abilities. Here's which one is better.",
+      "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant",
+      "source": "ZDNet",
+      "publishedAt": "2026-05-01T02:00:50Z"
+    },
+    {
+      "title": "Huawei expects AI chip revenue to jump at least 60% this year, FT reports",
+      "description": "May 1 : Huawei expects revenue from its AI chips to jump at least 60 per cent this year, boosted by strong demand for domestic offerings from Chinese companies, the Financial Times reported on Friday.The Chinese tech company expects revenue from its chips to …",
+      "url": "https://www.channelnewsasia.com/business/huawei-expects-ai-chip-revenue-jump-least-60-year-ft-reports-6093746",
+      "source": "CNA",
+      "publishedAt": "2026-05-01T00:51:07Z"
+    },
+    {
+      "title": "Best of Both Sides | iMessage from Claude Mythos: It’s too late for regulation, AI needs slowing down",
+      "description": "Regulation and oversight are of little use if they are always playing a chasing game. AI companies have turned regulation into the last line of redress when it should have been the first line of defence.",
+      "url": "https://indianexpress.com/article/opinion/columns/best-both-sides-imessage-claude-mythos-late-regulation-ai-slowing-down-10664748",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-01T00:34:10Z"
+    },
+    {
+      "title": "Engineering Manager – Machine Learning and Applied Artificial Intelligence",
+      "description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged ac…",
+      "url": "https://nlppeople.com/job/engineering-manager-machine-learning-and-applied-artificial-intelligence",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "title": "Senior Machine Learning Engineer (all genders welcome)",
+      "description": "To accelerate AI adoption and maximize the efficiency of our internal processes across our engineering teams, we are seeking a Senior Machine Learning Engineer who combines deep expertise in LLMs, MLOps, and agentic AI with the credibility and communication s…",
+      "url": "https://nlppeople.com/job/senior-machine-learning-engineer-all-genders-welcome-2",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "title": "Raising the baseline for the `nvptx64-nvidia-cuda` target",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "url": "https://blog.rust-lang.org/2026/05/01/nvptx-baseline-update",
+      "source": "Rust-lang.org",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "title": "Senior Data Scientist / AI Machine Learning Research Engineer Jobs",
+      "description": "Job Title: Senior Data Scientist / AI Machine Learning Research Engineer Job Category: Science Time Type: Full time Minimum Clearance Required to Start: Top Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Continental US …",
+      "url": "https://nlppeople.com/job/senior-data-scientist-ai-machine-learning-research-engineer-jobs-2",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "GPT-5.5が「ネットワーク完全乗っ取り攻撃」を自律的に成功した事例が2例目の報告",
+      "OpenAIのAIサーバー供給チェーンへの懸念が広がりつつある",
+      "nexu-io/open-designはAnthropicのClaudeデザインのオープンソース版となる"
+    ],
+    "insights": [
+      "GPT-5.5の性能が検証された",
+      "OpenAIのデータセンター購入計画の見直しについての情報",
+      "nexu-io/open-designはClaudeのデザインのオープンソース版"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "AI Security",
+      "summary": "GPT-5.5が「ネットワーク完全乗っ取り攻撃」を自律的に成功させた事例が2例目の報告。",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/31148785"
+      ]
+    },
+    {
+      "title": "Supply Chain Concerns",
+      "summary": "OpenAIのAIサーバー供給チェーンへの懸念が広がりつつある。",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260501VL207/ai-server-capacity-ems-openai-supply-chain.html"
+      ]
+    },
+    {
+      "title": "Open Source Alternatives",
+      "summary": "nexu-io/open-designはAnthropicのClaudeデザインのオープンソース版となる。",
+      "article_urls": [
+        "https://github.com/nexu-io/open-design"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIAはAIとデバイス向けGPUの主要な提供者であり、AIサーバーの需要が増加している。 This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "MicrosoftはAIとデバイス向けGPUの主要な提供者であり、AIサーバーの需要が増加している。 This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "GoogleはAIとデバイス向けGPUの主要な提供者であり、AIサーバーの需要が増加している。 This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AmazonはAIとデバイス向けGPUの主要な提供者であり、AIサーバーの需要が増加している。 This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "MetaはAIとデバイス向けGPUの主要な提供者であり、AIサーバーの需要が増加している。 This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
