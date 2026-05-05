@@ -1,0 +1,221 @@
+{
+  "theme": "ai",
+  "date": "2026-05-05",
+  "last_updated_utc": "2026-05-05T08:02:20.294Z",
+  "news": [
+    {
+      "title": "Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and Others, Cutting Out Anthropic",
+      "description": "The Pentagon has finalized artificial intelligence agreements with OpenAI, Google, Microsoft, Amazon, Oracle, Nvidia, SpaceX, and Reflection AI.\nThank you for being a Ghacks reader. The post Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and …",
+      "url": "https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-04T07:51:06Z"
+    },
+    {
+      "title": "Anthropic reportedly in talks with Fractile to buy inference chips amid AI compute crunch",
+      "description": "Anthropic has been in talks with Fractile, a London-based startup, to purchase its inference chips for running its AI models more efficiently, as inferential AI tasks have pushed up compute demands, according to The Information. Although Fractile's AI chips a…",
+      "url": "https://www.digitimes.com/news/a20260504VL210/anthropic-chips-demand-nvidia-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-04T04:34:15Z"
+    },
+    {
+      "title": "Anthropic and Wall Street are building a $1.5bn pipeline into private equity",
+      "description": "A joint venture with Blackstone, Hellman & Friedman, Goldman Sachs, and General Atlantic will sell Claude into the buyout firms’ portfolio companies. OpenAI’s DeployCo arrived first; this one is bigger. There is a kind of business school question that has bee…",
+      "url": "https://thenextweb.com/news/anthropic-15-billion-wall-street-joint-venture",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-04T07:56:50Z"
+    },
+    {
+      "title": "Cerebras eyes US$40 billion IPO in high-stakes AI chip challenge to Nvidia",
+      "description": "Cerebras Systems is preparing to raise up to US$4 billion in an initial public offering, targeting a valuation of about US$40 billion, in what could become one of the largest AI chip listings to date.",
+      "url": "https://www.digitimes.com/news/a20260504VL209/cerebras-ipo-nvidia-ai-chip-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-04T05:58:56Z"
+    },
+    {
+      "title": "Google Just Dropped Gemini 3 Flash in Arena : Here’s What It Can Actually Do",
+      "description": "Google’s Gemini 3 Flash has emerged as a noteworthy addition to the AI landscape, offering a balance of enhanced performance and cost efficiency. Released for public testing on the “Arena” platform, this model bridges the gap between the base Gemini 3 and the…",
+      "url": "https://www.geeky-gadgets.com/gemini-3-5-flash-arena-testing",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-04T08:00:00Z"
+    },
+    {
+      "title": "Google Considers Ads in Gemini App After Testing Ad Format in AI Mode First",
+      "description": "Google is considering adding ads to the Gemini app, according to comments made by Alphabet's chief business officer Philipp Schindler during the company's first\nThank you for being a Ghacks reader. The post Google Considers Ads in Gemini App After Testing Ad …",
+      "url": "https://www.ghacks.net/2026/05/04/google-considers-ads-in-gemini-app-after-testing-ad-format-in-ai-mode-first",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-04T07:53:43Z"
+    },
+    {
+      "title": "Walmart could be prepping a budget smart speaker with Gemini baked in",
+      "description": "Walmart’s upcoming Onn speaker could be the first budget device with Google Gemini, bringing smarter AI to cheap hardware.",
+      "url": "https://www.androidcentral.com/accessories/smart-home/walmart-could-be-prepping-a-budget-smart-speaker-with-gemini-baked-in",
+      "source": "Android Central",
+      "publishedAt": "2026-05-04T07:24:42Z"
+    },
+    {
+      "title": "DIGITIMES Chair: South Korea's 260,000 GPU plan relies heavily on Taiwanese production, highlights need for collaboration in AI era",
+      "description": "As global demand for AI infrastructure accelerates, the collaboration between Taiwan and South Korea—the core pillars of the global semiconductor supply chain—is critical to winning the new tech race. Colley Hwang, chairman of DIGITIMES and IC Broadcasting, s…",
+      "url": "https://www.digitimes.com/news/a20260504PD224/digitimes-south-korea-taiwan-gpu-production-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-04T07:09:07Z"
+    },
+    {
+      "title": "Broken links: How is academic work best judged in the brave new world of artificial intelligence?",
+      "description": "Old metrics no longer reveal how influential research truly is in an AI-driven world, where knowledge is consumed without clicks or citations. India should stop chasing outdated benchmarks and adopt new ones that measure the impact of academic work better.",
+      "url": "https://www.livemint.com/opinion/online-views/academic-work-research-citations-knowledge-artificial-intelligence-ai-influence-metrics-11777807360956.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-04T07:00:39Z"
+    },
+    {
+      "title": "I asked ChatGPT how to retire at 45 on ₹1.5 lakh a month: AI suggests mutual funds, gives detailed personal finance plan",
+      "description": "I asked ChatGPT how to retire at 45 on  ₹1.5 lakh a month. The AI tool suggested specific mutual funds while giving a detailed personal finance plan.",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-how-to-retire-at-45-on-1-5-lakh-a-month-ai-suggests-mutual-funds-gives-detailed-personal-finance-plan-11777877608026.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-04T06:59:54Z"
+    },
+    {
+      "title": "MediaTek hires former TSMC executive to boost AI chip packaging",
+      "description": "Chip designer MediaTek has appointed former TSMC executive Douglas Yu as a part-time adviser. This move strengthens MediaTek's advanced packaging work and its expansion into the AI chip market. Yu's expertise will guide the company's R&D and investment strate…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/mediatek-hires-former-tsmc-executive-to-boost-ai-chip-packaging/articleshow/130762589.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-04T06:42:24Z"
+    },
+    {
+      "title": "Musk vs OpenAI trial enters second week",
+      "description": "The Musk vs OpenAI lawsuit enters its second week. Musk aims to force the AI giant back to its non-profit roots as co-founders prepare to testify.\n\nRead More: https://punchng.com/musk-vs-openai-trial-enters-second-week/",
+      "url": "https://punchng.com/musk-vs-openai-trial-enters-second-week",
+      "source": "The Punch",
+      "publishedAt": "2026-05-04T06:20:39Z"
+    },
+    {
+      "title": "Science Needs AI Data Stocktakes: A Proof-of-Concept for Fusion — Google DeepMind",
+      "description": "Can AI accelerate fusion energy? This essay explores the data challenges facing fusion research and proposes \"AI data stocktakes\" to unlock scientific breakthroughs.",
+      "url": "https://deepmind.google/public-policy/science-needs-ai-data-stocktakes",
+      "source": "Deepmind.google",
+      "publishedAt": "2026-05-04T05:47:01Z"
+    },
+    {
+      "title": "Nvidia expands AI partnerships in Asia amid US-China tech tensions",
+      "description": "Nvidia's strategic expansion in Asia could reshape global tech dynamics, challenging US firms and highlighting geopolitical economic shifts.\nThe post Nvidia expands AI partnerships in Asia amid US-China tech tensions appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-expands-ai-partnerships-in-asia-amid-us-china-tech-tensions",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-04T05:35:06Z"
+    },
+    {
+      "title": "Musk vs OpenAI trial enters second week",
+      "description": "Following high-profile testimony from billionaire Elon Musk last week, one of OpenAI’s co-founders will testify Monday in the California lawsuit brought by the world’s richest man against the creators of ChatGPT. Musk is seeking to force his rivals in artific…",
+      "url": "https://www.digitaljournal.com/world/musk-vs-openai-trial-enters-second-week/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-04T05:27:32Z"
+    },
+    {
+      "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports",
+      "description": "Anthropic, Blackstone, and Hellman & Friedman are leading the deal with investments of about $300 million each, while Goldman Sachs is expected to invest around $150 million as a founding investor",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-wsj-reports/article70937377.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-04T05:12:45Z"
+    },
+    {
+      "title": "The state of generative AI in the creator economy",
+      "description": "A look at how the creator economy is using generative AI, from workflow help to identifying partnerships in DMs.",
+      "url": "http://digiday.com/media/the-state-of-generative-ai-in-the-creator-economy",
+      "source": "Digiday",
+      "publishedAt": "2026-05-04T04:01:00Z"
+    },
+    {
+      "title": "Anthropic nears $1.5B AI joint venture with Wall Street firms: WSJ",
+      "description": "Anthropic's joint venture could significantly enhance its strategic role in AI defense, aligning with US national security priorities.\nThe post Anthropic nears $1.5B AI joint venture with Wall Street firms: WSJ appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-nears-15b-ai-joint-venture-with-wall-street-firms-wsj",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-04T03:35:47Z"
+    },
+    {
+      "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports",
+      "description": "May 3 : Anthropic is finalizing an about $1.5 billion joint venture with Blackstone, Goldman Sachs and a handful of other Wall Street firms to sell artificial-intelligence tools to private-equity-backed companies, the Wall Street Journal reported on Sunday, c…",
+      "url": "https://www.channelnewsasia.com/business/anthropic-nears-15-billion-ai-joint-venture-wall-street-firms-wsj-reports-6097786",
+      "source": "CNA",
+      "publishedAt": "2026-05-04T02:40:19Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic nearing $1.5 billion AI joint venture with Wall Street firms",
+      "Google expanding AI partnerships in Asia amid US-China tech tensions",
+      "Musk vs OpenAI trial enters second week"
+    ],
+    "insights": [
+      "AI joint ventures and partnerships are increasing globally",
+      "Tech tensions influence international trade",
+      "OpenAI faces legal challenges"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Global Tech Trends",
+      "summary": "The article discusses various AI-related developments including joint ventures, partnerships, and legal battles.",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-wsj-reports/article70937377.ece",
+        "https://cryptobriefing.com/nvidia-expands-ai-partnerships-in-asia-amid-us-china-tech-tensions",
+        "https://www.digitaljournal.com/world/musk-vs-openai-trial-enters-second-week"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA is a leader in AI technology and graphics processing units. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a major player in cloud computing and AI. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Alphabet Inc., parent company of Google, is involved in AI development. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is a retail giant focusing on e-commerce and AI. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms is a social media company developing AI technologies. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
