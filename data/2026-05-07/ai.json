@@ -1,0 +1,289 @@
+{
+  "theme": "ai",
+  "date": "2026-05-07",
+  "last_updated_utc": "2026-05-07T08:27:13.815Z",
+  "news": [
+    {
+      "title": "OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer",
+      "description": "OpenAI Codex now allows direct interaction with your computer, allowing users to perform tasks through natural language commands. Powered by GPT-5.5, it can manage activities such as organizing emails, scheduling events and controlling desktop applications. A…",
+      "url": "https://www.geeky-gadgets.com/openai-codex-computer-control",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-06T08:18:00Z"
+    },
+    {
+      "title": "Anthropic employee uses Claude Code to analyse his 12 years of chats with his girlfriend. From total number of 'I love you' to 9 pm spike, the data is hilarious",
+      "description": "A recent wedding saw a unique celebration. The groom, a tech expert, built an AI presentation. It revealed twelve years of his relationship history. Over a hundred thousand messages were shared. This data-driven display offered a radical look at their romance…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/anthropic-employee-uses-claude-code-to-analyse-his-12-years-of-chats-with-his-girlfriend-from-total-number-of-i-love-you-to-9-pm-spike-the-data-is-hilarious/articleshow/130847004.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T08:12:38Z"
+    },
+    {
+      "title": "OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources to ChatGPT Users",
+      "description": "ChatGPT now uses a new GPT-5.5 Instant model by default, which provides shorter, more factually reliable answers. OpenAI is also rolling out memory sources to all ChatGPT users.\nThe post OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources t…",
+      "url": "https://www.thurrott.com/a-i/335724/openai-starts-rolling-out-new-gpt-5-5-instant-model-and-memory-sources-to-chatgpt-users",
+      "source": "Thurrott.com",
+      "publishedAt": "2026-05-06T07:57:19Z"
+    },
+    {
+      "title": "Anthropic strikes massive cloud pact with Google, highlighting AI industry concentration",
+      "description": "A sweeping new agreement between Anthropic and Google Cloud is throwing into sharp relief just how concentrated — and how enormous — the artificial intelligence boom has become.",
+      "url": "https://www.digitimes.com/news/a20260506VL215/anthropic-google-google-cloud-revenue-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-06T07:27:48Z"
+    },
+    {
+      "title": "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began",
+      "description": "The AI boom is coming for rural America. Inside one town's effort to fight back",
+      "url": "https://finance.yahoo.com/economy/policy/articles/michigan-farm-town-voted-down-070000429.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-06T07:00:00Z"
+    },
+    {
+      "title": "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began",
+      "description": "The AI boom is coming for rural America. Inside one town's effort to fight back",
+      "url": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland",
+      "source": "Fortune",
+      "publishedAt": "2026-05-06T07:00:00Z"
+    },
+    {
+      "title": "OpenAI, Anthropic drive US cloud demand, boost Google stock outlook for April",
+      "description": "The rising demand for US cloud services underscores the strategic importance of AI in maintaining technological dominance amid global competition.\nThe post OpenAI, Anthropic drive US cloud demand, boost Google stock outlook for April appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/openai-anthropic-drive-us-cloud-demand-boost-google-stock-outlook-for-april",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T06:30:27Z"
+    },
+    {
+      "title": "Results of privacy investigation into OpenAI's ChatGPT coming today",
+      "description": "The results of an investigation into whether OpenAI's ChatGPT adheres to Canada's privacy laws will be made public this morning.",
+      "url": "https://www.cbc.ca/news/politics/privacy-investigation-chatgpt-open-ai-9.7188538",
+      "source": "CBC News",
+      "publishedAt": "2026-05-06T08:00:00Z"
+    },
+    {
+      "title": "YASH Technologies Recognized as a Disruptor in Avasant’s Data Center Managed Services 2025–2026 RadarView™",
+      "description": "This recognition underlines YASH’s AI-first approach to modern infrastructure management and its expanding global delivery footprint.",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/yash-technologies-recognized-as-a-disruptor-in-avasants-data-center-managed-services-20252026-radarviewtm/article70946166.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-06T07:52:34Z"
+    },
+    {
+      "title": "Personal feud between Elon Musk and OpenAI cracks open in court as IPO plans loom",
+      "description": "The bitter feud between Elon Musk and OpenAI's leadership continues to spill into the open since a trial between the two began last week. This legal fight pits two of the world's most prominent AI creators against each other in a case that could have large ra…",
+      "url": "https://www.digitimes.com/news/a20260506VL219/openai-elon-musk-lawsuit-ipo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-06T07:13:51Z"
+    },
+    {
+      "title": "Nvidia billionaire Mark Stevens gives $200 million to alma mater USC for AI research",
+      "description": "Nvidia director Mark Stevens and his wife Mary have donated $200 million to the University of Southern California to significantly advance AI research and education. This substantial gift aims to position USC as a national leader in AI, with plans for a new A…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-billionaire-mark-stevens-gives-200-million-to-alma-mater-usc-for-ai-research/articleshow/130847177.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T07:10:54Z"
+    },
+    {
+      "title": "Google Chrome Is Silently Downloading a 4GB Gemini Nano AI Model to User Devices Without Consent",
+      "description": "Google Chrome has been quietly downloading around 4GB of Gemini Nano AI model weights to user devices without their consent, and it automatically re-downloads t\nThank you for being a Ghacks reader. The post Google Chrome Is Silently Downloading a 4GB Gemini N…",
+      "url": "https://www.ghacks.net/2026/05/06/google-chrome-is-silently-downloading-a-4gb-gemini-nano-ai-model-to-user-devices-without-consent",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-06T07:09:39Z"
+    },
+    {
+      "title": "Prolific author Anthony Horowitz admits using artificial intelligence: ‘It feels like cheating’",
+      "description": "Author and screenwriter Horowitz talks to Prudence Wade about ChatGPT and the enduring appeal of murder mysteries",
+      "url": "https://www.the-independent.com/arts-entertainment/books/news/anthony-horowitz-books-chatgpt-ai-b2971205.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-05-06T06:15:03Z"
+    },
+    {
+      "title": "Fake judgments, AI ‘hallucinations’: Supreme Court asks Bar Council of India to probe risks of artificial intelligence",
+      "description": "The Supreme Court’s Centre for Research and Planning has already prepared a white paper on the use of artificial intelligence in the judiciary, containing recommendations and guidelines.",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-bci-expert-committee-ai-fake-judgments-10675231",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-06T05:44:43Z"
+    },
+    {
+      "title": "Samsung reaches $1 trillion valuation: What’s fuelling the AI chip surge?",
+      "description": "Samsung Electronics has crossed a $1 trillion valuation. This milestone is fueled by strong demand for AI chips. The company is a major supplier of critical components for AI servers. This surge is expected to continue, with tight supply conditions likely to …",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-reaches-1-trillion-valuation-whats-fuelling-the-ai-chip-surge/articleshow/130845227.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T05:35:33Z"
+    },
+    {
+      "title": "S&P 500 and NASDAQ hit record highs as AI chip stocks surge",
+      "description": "The surge in AI chip stocks boosts tech sector confidence, potentially stabilizing markets amid geopolitical tensions and economic uncertainties.\nThe post S&P 500 and NASDAQ hit record highs as AI chip stocks surge appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/sp-500-and-nasdaq-hit-record-highs-as-ai-chip-stocks-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T05:17:34Z"
+    },
+    {
+      "title": "‘Maybe ChatGPT is a different kind of a place’: Why OpenAI is saying no to search budgets — for now",
+      "description": "‘Maybe ChatGPT is a different kind of a place’: OpenAI is still suggesting that advertisers should use test budgets, and nothing else — yet.",
+      "url": "http://digiday.com/marketing/maybe-chatgpt-is-a-different-kind-of-a-place-why-openai-is-saying-no-to-search-budgets-for-now",
+      "source": "Digiday",
+      "publishedAt": "2026-05-06T04:01:00Z"
+    },
+    {
+      "title": "The ELM Library: An LLM Evaluation Toolset",
+      "description": "To help teams meet the need for rigorous evaluation methods, researchers in SEI’s AI Division developed a library built on best practices for LLM evaluation and benchmarking.",
+      "url": "https://www.sei.cmu.edu/blog/the-elm-library-an-llm-evaluation-toolset",
+      "source": "Carnegie Mellon University",
+      "publishedAt": "2026-05-06T04:00:00Z"
+    },
+    {
+      "title": "Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge",
+      "description": "Samsung Electronics' market value soared past $1 trillion, becoming the second Asian firm to achieve this feat after TSMC. The South Korean chip giant's shares surged significantly, driven by overnight gains in US AI-related stocks. This milestone reflects st…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-samsung-electronics-market-cap-surpasses-1-trln-after-us-ai-chip-stocks-surge/articleshow/130843578.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T03:48:20Z"
+    },
+    {
+      "title": "AI finds signs of pancreatic cancer before tumors develop: An artificial intelligence model from the Mayo Clinic detected abnormalities on scans up to three years before patients were diagnosed. It's being evaluated in a clinical trial.",
+      "description": "By the time doctors detect pancreatic cancer, it’s often too late to treat effectively. But a new study suggests that artificial intelligence might be able to find signs of the disease before tumors are visible on a scan. An AI model developed at the Mayo Cli…",
+      "url": "https://freerepublic.com/focus/f-chat/4377884/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-06T03:02:37Z"
+    },
+    {
+      "title": "Samsung hits $1T market cap amid AI chip demand surge",
+      "description": "Samsung's market cap milestone intensifies competition in AI chips, potentially reshaping tech leadership and impacting global supply chains.\nThe post Samsung hits $1T market cap amid AI chip demand surge appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/samsung-hits-1t-market-cap-amid-ai-chip-demand-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T01:57:35Z"
+    },
+    {
+      "title": "Samsung hits $1 trillion valuation, joins TSMC’s elite club as AI chip boom powers record rally",
+      "description": "Samsung Electronics has achieved a $1 trillion market valuation, driven by soaring demand for AI chips. The memory giant's stock has quadrupled, making it the second Asian firm after TSMC to reach this milestone. This surge highlights memory's structural role…",
+      "url": "https://economictimes.indiatimes.com/news/international/business/samsung-hits-1-trillion-valuation-joins-tsmcs-elite-club-as-ai-chip-boom-powers-record-rally/articleshow/130841860.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T01:13:25Z"
+    },
+    {
+      "title": "Samsung hits $1 trillion valuation, joins TSMC’s elite club as AI chip boom powers record rally",
+      "description": "Samsung Electronics has achieved a $1 trillion market valuation, driven by soaring demand for AI chips. The memory giant's stock has quadrupled, making it the second Asian firm after TSMC to reach this milestone. This surge highlights memory's structural role…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/samsung-hits-1-trillion-valuation-joins-tsmcs-elite-club-as-ai-chip-boom-powers-record-rally/articleshow/130842107.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T01:13:25Z"
+    },
+    {
+      "title": "Anthropic CEO Predicts Firms Have 6 Months to Patch Software Vulnerabilities",
+      "description": "Financial services companies and other organizations have six to 12 months to fix vulnerabilities in their software before Chinese artificial intelligence models develop capabilities equal to those of Anthropic’s Mythos, Anthropic CEO Dario Amodei said Tuesda…",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-ceo-predicts-firms-have-6-months-to-patch-software-vulnerabilities",
+      "source": "pymnts.com",
+      "publishedAt": "2026-05-06T01:10:07Z"
+    },
+    {
+      "title": "Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge",
+      "description": "SEOUL, May 6 : The market capitalisation of Samsung Electronics' common stock surpassed $1 trillion on Wednesday, making it the second Asian company after TSMC to reach the milestone. Samsung Electronics, the world's top memory chipmaker, saw its market value…",
+      "url": "https://www.channelnewsasia.com/business/samsung-electronics-market-cap-surpasses-1-trln-after-us-ai-chip-stocks-surge-6102611",
+      "source": "CNA",
+      "publishedAt": "2026-05-06T01:06:44Z"
+    },
+    {
+      "title": "AMD’s Lisa Su Pushes Back on GPU Cannibalization Fears, Calling Agentic AI’s CPU Surge ‘Largely Additive’ to Accelerator Demand",
+      "description": "During her firm's fourth quarter earnings call, AMD CEO Dr. Lisa Su discussed the company's AI growth, the impact of agentic AI on her firm's business and competition in the AI CPU market. AMD's earnings call comes at a time when CPUs are believed to be playi…",
+      "url": "https://wccftech.com/amds-lisa-su-pushes-back-on-gpu-cannibalization-fears-calling-agentic-ais-cpu-surge-largely-additive-to-accelerator-demand",
+      "source": "Wccftech",
+      "publishedAt": "2026-05-06T01:02:07Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer",
+      "Anthropic employee uses Claude Code to analyse his 12 years of chats with his girlfriend. From total number of 'I love you' to 9 pm spike, the data is hilarious",
+      "OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources to ChatGPT Users",
+      "Anthropic strikes massive cloud pact with Google, highlighting AI industry concentration",
+      "A Michigan farm town voted down plans for a giant OpenAI-Oracle data center. Weeks later, construction began"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/openai-codex-computer-control",
+        "https://www.thurrott.com/a-i/335724/openai-starts-rolling-out-new-gpt-5-5-instant-model-and-memory-sources-to-chatgpt-users",
+        "https://finance.yahoo.com/economy/policy/articles/michigan-farm-town-voted-down-070000429.html"
+      ]
+    },
+    {
+      "title": "Surge",
+      "summary": "Grouped stories where \"surge\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/samsung-reaches-1-trillion-valuation-whats-fuelling-the-ai-chip-surge/articleshow/130845227.cms",
+        "https://cryptobriefing.com/sp-500-and-nasdaq-hit-record-highs-as-ai-chip-stocks-surge",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-samsung-electronics-market-cap-surpasses-1-trln-after-us-ai-chip-stocks-surge/articleshow/130843578.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/magazines/panache/anthropic-employee-uses-claude-code-to-analyse-his-12-years-of-chats-with-his-girlfriend-from-total-number-of-i-love-you-to-9-pm-spike-the-data-is-hilarious/articleshow/130847004.cms",
+        "https://www.digitimes.com/news/a20260506VL215/anthropic-google-google-cloud-revenue-capacity.html",
+        "https://www.thehindubusinessline.com/brandhub/pr-release/yash-technologies-recognized-as-a-disruptor-in-avasants-data-center-managed-services-20252026-radarviewtm/article70946166.ece"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Just Gave ChatGPT Codex the Ability to Control Your Computer. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
