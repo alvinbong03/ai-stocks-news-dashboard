@@ -1,0 +1,190 @@
+{
+  "theme": "ai",
+  "date": "2026-05-08",
+  "last_updated_utc": "2026-05-08T07:22:50.218Z",
+  "news": [
+    {
+      "title": "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
+      "description": "Learn how NVIDIA helped Unsloth to make fine-tuning AI models 20% faster with explanations and diagrams.",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "source": "Unsloth.ai",
+      "publishedAt": "2026-05-07T07:15:11Z"
+    },
+    {
+      "title": "SpaceX targets AI chip independence with US$119 billion Texas Terafab",
+      "description": "Elon Musk is rapidly expanding his ambitions beyond rockets and electric vehicles (EVs), positioning SpaceX at the center of a vertically integrated artificial intelligence (AI) infrastructure strategy spanning semiconductors, data centers, AI models, robotic…",
+      "url": "https://www.digitimes.com/news/a20260507VL209/spacex-elon-musk-fab-investment-infrastructure-texas.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-07T04:39:51Z"
+    },
+    {
+      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI",
+      "description": "Questions about the dangers of artificial intelligence have been looming over the trial pitting Elon Musk against OpenAI CEO Sam Altman",
+      "url": "https://abcnews.com/Technology/wireStory/worries-ais-risks-humanity-loom-trial-pitting-musk-132733070",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-07T05:34:28Z"
+    },
+    {
+      "title": "Adobe partners with ChatGPT to bring marketing into conversational AI",
+      "description": "Adobe and OpenAI have integrated GenStudio with ChatGPT. This allows brands to create and launch ads within AI conversations.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/adobe-partners-with-chatgpt-to-bring-marketing-into-conversational-ai/articleshow/130879500.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T04:44:35Z"
+    },
+    {
+      "title": "Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX",
+      "description": "At its Code with Claude developer conference on Wednesday, Anthropic announced a deal with SpaceX to utilize the entire compute capacity of the latter’s data center in Memphis, Tennessee. On stage at the conference, CEO Dario Amodei said the deal was intended…",
+      "url": "https://slashdot.org/submission/17347076/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-07T04:22:43Z"
+    },
+    {
+      "title": "Arm forecasts higher-than-expected revenue on surging AI data center demand",
+      "description": "Arm Holdings anticipates higher first-quarter revenue, boosted by strong demand for its AI chip technology. However, the company has not yet secured enough supplies for a new chip, raising concerns among analysts. Despite this, Arm's designs power most smartp…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/arm-forecasts-higher-than-expected-revenue-on-surging-ai-data-center-demand/articleshow/130877638.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T03:26:59Z"
+    },
+    {
+      "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth",
+      "description": "Corning and Nvidia are partnering to significantly boost U.S. production of optical connectivity products for AI data centers. This collaboration will tenfold Corning's optical connectivity manufacturing capacity and expand domestic fiber production by over 5…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/corning-partners-with-nvidia-to-expand-us-fiber-optic-output-for-ai-growth/articleshow/130877427.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T03:10:27Z"
+    },
+    {
+      "title": "Meet Mark Stevens: The billionaire VC, Nvidia board member, and Giving Pledge signer who just donated $200 million to USC",
+      "description": "Billionaire venture capitalist Mark Stevens, an early Nvidia backer at Sequoia Capital, just made one of the largest gifts in USC history to fuel the university's AI ambitions.",
+      "url": "https://fortune.com/2026/05/07/mark-stevens-usc-200-million-ai-donation-nvidia-sequoia",
+      "source": "Fortune",
+      "publishedAt": "2026-05-07T07:03:00Z"
+    },
+    {
+      "title": "ByteDance's Doubao tests paid AI tiers to challenge ChatGPT subscriptions",
+      "description": "China's AI market has expanded rapidly through free and low-cost offerings, but rising computing costs and deeper enterprise adoption are beginning to reshape the sector's business models. ByteDance-backed Doubao is now testing paid subscription plans priced …",
+      "url": "https://www.digitimes.com/news/a20260506PD227/market-chatgpt-data-low-cost-business.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-07T03:23:25Z"
+    },
+    {
+      "title": "Micron launches 245TB 6600 ION SSD targeting AI data center density",
+      "description": "Micron Technology said it has started shipping its 245TB 6600 ION solid-state drive, which the company described as the industry's highest-capacity commercially available SSD for data center applications. The product is aimed at AI, cloud, enterprise, and hyp…",
+      "url": "https://www.digitimes.com/news/a20260507VL205/micron-ssd-efficiency-data-center-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-07T03:18:39Z"
+    },
+    {
+      "title": "AI本人認証eラーニング『ONLINE FACE(R)』、国際AIアワード「2026 Globee Awards for Artificial Intelligence」でSilver Winnerを受賞",
+      "description": "[アカメディア・ジャパン株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/116987/64/116987-64-7a43aa22cdc85082a55ee52699671a89-1118x586.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000116987.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-05-07T02:40:40Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
+      "SpaceX targets AI chip independence with US$119 billion Texas Terafab",
+      "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI",
+      "Adobe partners with ChatGPT to bring marketing into conversational AI",
+      "Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260507VL209/spacex-elon-musk-fab-investment-infrastructure-texas.html",
+        "https://slashdot.org/submission/17347076/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex",
+        "https://economictimes.indiatimes.com/tech/technology/arm-forecasts-higher-than-expected-revenue-on-surging-ai-data-center-demand/articleshow/130877638.cms"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://unsloth.ai/blog/nvidia-collab",
+        "https://fortune.com/2026/05/07/mark-stevens-usc-200-million-ai-donation-nvidia-sequoia"
+      ]
+    },
+    {
+      "title": "Models",
+      "summary": "Grouped stories where \"models\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260506PD227/market-chatgpt-data-low-cost-business.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://abcnews.com/Technology/wireStory/worries-ais-risks-humanity-loom-trial-pitting-musk-132733070",
+        "https://economictimes.indiatimes.com/magazines/panache/adobe-partners-with-chatgpt-to-bring-marketing-into-conversational-ai/articleshow/130879500.cms",
+        "https://prtimes.jp/main/html/rd/p/000000064.000116987.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs. Main topic cluster: Data. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
