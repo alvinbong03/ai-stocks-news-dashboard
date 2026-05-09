@@ -1,0 +1,225 @@
+{
+  "theme": "ai",
+  "date": "2026-05-09",
+  "last_updated_utc": "2026-05-09T07:50:25.044Z",
+  "news": [
+    {
+      "title": "How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT",
+      "description": "OpenAI's Trusted Contact in ChatGPT enhances AI safety by integrating human support for sensitive situations. A new design pattern for responsible AI development.",
+      "url": "https://www.c-sharpcorner.com/article/how-openai-is-redefining-ai-safety-with-trusted-contact-in-chatgpt",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-08T05:53:09Z"
+    },
+    {
+      "title": "OpenAI Trusted Contact Feature Explained: How ChatGPT is Becoming Safer for Users",
+      "description": "ChatGPT's Trusted Contact feature enhances AI safety by connecting users with trusted individuals during sensitive moments. Learn how it works and its benefits!",
+      "url": "https://www.c-sharpcorner.com/article/openai-trusted-contact-feature-explained-how-chatgpt-is-becoming-safer-for-user",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-08T05:45:09Z"
+    },
+    {
+      "title": "OpenAI’s Trusted Contact in ChatGPT: A Major Step Toward AI Safety and Mental Health Protection",
+      "description": "ChatGPT's Trusted Contact feature enhances AI safety by connecting users with trusted individuals during sensitive moments, promoting mental well-being and responsible AI use.",
+      "url": "https://www.c-sharpcorner.com/article/openais-trusted-contact-in-chatgpt-a-major-step-toward-ai-safety-and-mental-he",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-08T05:36:47Z"
+    },
+    {
+      "title": "Google DeepMind Staff Unionize Over Military Contracts With Israel and the United States",
+      "description": "Hundreds of workers at Google DeepMind’s London office voted on Tuesday, May 5, to unionize, citing concerns that the company’s artificial intelligence (AI) technology is being used by the U.S. and Israeli militaries. The employees formally requested that Dee…",
+      "url": "https://www.naturalnews.com/2026-05-08-google-deepmind-staff-unionize-military-ai-contracts.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-08T06:00:00Z"
+    },
+    {
+      "title": "Why ChatGPT Workspace Agents Are Replacing Custom GPTs",
+      "description": "ChatGPT Workspace Agents provide a structured way to manage workflows and automate tasks, offering features like custom skill creation and persistent memory. According to Skill Leap AI, these agents can handle scenarios such as integrating with platforms like…",
+      "url": "https://www.geeky-gadgets.com/chatgpt-workspace-agents-guide",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-08T07:15:00Z"
+    },
+    {
+      "title": "OpenAI Adds Trusted Contact Safety Feature to ChatGPT for Self-Harm Risk Notifications",
+      "description": "OpenAI is introducing Trusted Contact, a new safety feature in ChatGPT that users can choose to activate.\nThank you for being a Ghacks reader. The post OpenAI Adds Trusted Contact Safety Feature to ChatGPT for Self-Harm Risk Notifications appeared first on gH…",
+      "url": "https://www.ghacks.net/2026/05/08/openai-adds-trusted-contact-safety-feature-to-chatgpt-for-self-harm-risk-notifications",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-08T07:04:29Z"
+    },
+    {
+      "title": "Google’s Screenless Fitbit Air Relies on Gemini to Be Your Personal Health Coach - Gizmodo",
+      "description": "Google’s Screenless Fitbit Air Relies on Gemini to Be Your Personal Health CoachGizmodo Introducing the all-new Fitbit Airblog.google New $100 Fitbit is just a band, and that’s the pointMorning Brew Google’s plan to win the AI health race? Play nice with Appl…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183159300",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-08T05:52:08Z"
+    },
+    {
+      "title": "Google Health Coach Explained: How Gemini AI is Powering the Future of Digital Wellness",
+      "description": "Explore Google Health Coach, powered by Gemini AI, revolutionizing digital wellness with personalized, real-time health insights. Discover AI's impact on your well-being.",
+      "url": "https://www.c-sharpcorner.com/article/google-health-coach-explained-how-gemini-ai-is-powering-the-future-of-digital-w",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-08T05:46:00Z"
+    },
+    {
+      "title": "Perplexity vs ChatGPT Computer Agents: Which AI Assistant Is Winning the AI Workspace Race?",
+      "description": "Perplexity AI vs ChatGPT: Which AI assistant is winning the AI workspace race? Compare strengths, use cases, and impact on productivity. Find out which is best!",
+      "url": "https://www.c-sharpcorner.com/article/perplexity-vs-chatgpt-computer-agents-which-ai-assistant-is-winning-the-ai-work",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-08T05:39:21Z"
+    },
+    {
+      "title": "ClaudeのWord・Excel・PowerPoint拡張機能が一般公開される＆OutlookをClaudeで動かす拡張機能も登場",
+      "description": "AnthropicがExcel・PowerPoint・WordでClaudeを使った自動処理を可能とする拡張機能を2026年5月7日に一般公開しました。同時に、Outlook用の拡張機能が有料プラン加入者向けのパブリックベータ版として提供開始されています。Collaborate with Claude across Excel, PowerPoint, Word and Outlook | Claudehttps://claude.com/blog/collaborate-with-claude-across-e…",
+      "url": "https://news.livedoor.com/article/detail/31210228",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-08T05:15:00Z"
+    },
+    {
+      "title": "OpenAIのコーディング支援AI「Codex」でChromeを直接操作可能に",
+      "description": "OpenAIがAIエージェント「Codex」のGoogle Chrome向け拡張機能をリリースしました。ChromeとCodexを組み合わせることで、複雑なデータ入力フローなどの繰り返しのブラウザ作業をAIエージェントに処理させることができます。Codex now works directly in Chrome on macOS and Windows.It’s even better at working with apps and sites in Chrome, and now works in para…",
+      "url": "https://news.livedoor.com/article/detail/31210119",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-08T05:10:00Z"
+    },
+    {
+      "title": "21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications",
+      "description": "AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by the NVIDIA Jetson Orin NX 8GB/16GB and designed for AI-enhanced HMI applications such as production line inspection systems and industrial monitoring dashboards. The panel PC features two …",
+      "url": "https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications",
+      "source": "CNX Software",
+      "publishedAt": "2026-05-08T04:57:04Z"
+    },
+    {
+      "title": "ミエルカGEO・ミエルカSEO、「LLMモニタリング」がClaude Sonnet 4.6に対応",
+      "description": "[株式会社Faber Company]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31263/317/31263-317-7acd53e922d1daee8290d6edb37b9228-2048x1126.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000317.000031263.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-05-08T04:40:40Z"
+    },
+    {
+      "title": "Compal partners with Verda to supply liquid-cooled GPU servers for sovereign AI deployments",
+      "description": "Compal formed a strategic partnership with European AI cloud provider Verda to accelerate deployment of next-generation AI infrastructure across Europe and the Asia-Pacific region, the companies announced. The collaboration, revealed in early May, will see Co…",
+      "url": "https://www.digitimes.com/news/a20260508PD209/compal-gpu-liquid-cooling-servers-europe.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T04:28:59Z"
+    },
+    {
+      "title": "Anthropic weighs fundraising for near $1 trillion valuation, FT reports",
+      "description": "May 8 : Anthropic is weighing raising tens of billions of dollars this summer to fund a major expansion in computing capacity, a move that could lift its valuation to nearly $1 trillion and put it ahead of rival OpenAI, the Financial Times reported on Friday.",
+      "url": "https://www.channelnewsasia.com/business/anthropic-weighs-fundraising-near-1-trillion-valuation-ft-reports-6108836",
+      "source": "CNA",
+      "publishedAt": "2026-05-08T04:17:02Z"
+    },
+    {
+      "title": "White House distances itself from tighter AI regulation",
+      "description": "The White House is looking for “partnership” with companies rather than pursuing “government regulation,” a senior White House official said.",
+      "url": "https://www.politico.eu/article/white-house-distances-itself-from-tighter-ai-regulation",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-05-08T04:00:00Z"
+    },
+    {
+      "title": "Nvidia to invest up to $2.1 billion in IREN as part of AI data centre deal",
+      "description": "Nvidia is investing up to $2.1 billion in data centre operator IREN to deploy 5 gigawatts of AI infrastructure, addressing the immense demand for computing power. This partnership aims to accelerate AI factory deployment by integrating Nvidia's architecture w…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-up-to-2-1-billion-in-iren-as-part-of-ai-data-centre-deal/articleshow/130945958.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T03:21:37Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT",
+      "OpenAI Trusted Contact Feature Explained: How ChatGPT is Becoming Safer for Users",
+      "OpenAI’s Trusted Contact in ChatGPT: A Major Step Toward AI Safety and Mental Health Protection",
+      "Google DeepMind Staff Unionize Over Military Contracts With Israel and the United States",
+      "Why ChatGPT Workspace Agents Are Replacing Custom GPTs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/how-openai-is-redefining-ai-safety-with-trusted-contact-in-chatgpt",
+        "https://www.c-sharpcorner.com/article/openai-trusted-contact-feature-explained-how-chatgpt-is-becoming-safer-for-user",
+        "https://www.c-sharpcorner.com/article/openais-trusted-contact-in-chatgpt-a-major-step-toward-ai-safety-and-mental-he"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/chatgpt-workspace-agents-guide",
+        "https://www.c-sharpcorner.com/article/perplexity-vs-chatgpt-computer-agents-which-ai-assistant-is-winning-the-ai-work"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-05-08-google-deepmind-staff-unionize-military-ai-contracts.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183159300",
+        "https://www.c-sharpcorner.com/article/google-health-coach-explained-how-gemini-ai-is-powering-the-future-of-digital-w"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How OpenAI is Redefining AI Safety with Trusted Contact in ChatGPT. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

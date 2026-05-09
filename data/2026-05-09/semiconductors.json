@@ -1,0 +1,371 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-05-09",
+  "last_updated_utc": "2026-05-09T07:50:44.698Z",
+  "news": [
+    {
+      "title": "Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes",
+      "description": "",
+      "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit?id=d8a70292c3e1759804dcc1a60e53ead86b466a3a",
+      "source": "Kernel.org",
+      "publishedAt": "2026-05-08T07:50:12Z"
+    },
+    {
+      "title": "TSMC reportedly pushes CoPoS exclusivity to lock in next-gen packaging lead",
+      "description": "TSMC is accelerating the expansion of its CoWoS advanced packaging capacity while pushing ahead with the more technically demanding panel-level packaging technology CoPoS, aiming to widen its lead over rivals in the AI semiconductor race. Industry sources sai…",
+      "url": "https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T07:49:55Z"
+    },
+    {
+      "title": "Apple iPad Air M4 13\" 256GB WiFi Tablet + free shipping w/ Prime",
+      "description": "Amazon is selling the Apple iPad Air M4 13\" 256GB WiFi Tablet for $109 off the list price of $899. The same configuration is also $899 at Best Buy and Apple. Prime members receive free delivery. Shop Now at Amazon\r\n Features\r\n <ul> <li>13\" Liquid Retina displ…",
+      "url": "https://www.dealnews.com/Apple-iPad-Air-M4-13-256-GB-Wi-Fi-Tablet-free-shipping-w-Prime/21826726.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-05-08T07:46:08Z"
+    },
+    {
+      "title": "Sony, TSMC form Japanese joint venture to push image sensors into automotive and robotics",
+      "description": "TSMC and Sony Semiconductor Solutions have signed a non-binding memorandum of understanding to establish a joint venture (JV) for next-generation image sensor development and manufacturing, with Sony holding the majority and controlling interest.",
+      "url": "https://www.digitimes.com/news/a20260508VL209/tsmc-sony-joint-venture-automotive-robotics-cis.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T07:40:55Z"
+    },
+    {
+      "title": "US suspects Nvidia chips smuggled to Alibaba via Thailand: Bloomberg News",
+      "description": "A Thai company, OBON Corp, is under suspicion for allegedly smuggling billions of dollars worth of Super Micro Computer servers. These servers contain advanced Nvidia chips. China is reportedly the destination for these shipments. Alibaba Group Holding is nam…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-suspects-nvidia-chips-smuggled-to-alibaba-via-thailand-bloomberg-news/articleshow/130953005.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T07:20:05Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1278 for Windows 10 S 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1278 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1278-for-Windows-10-S-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:19:22Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1278 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1278 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1278-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:17:41Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1278 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1278 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1278-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:17:03Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1295 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1295 If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to th…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1295-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:09:47Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1295 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1295 If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to th…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1295-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:09:23Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1295 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1295 If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to th…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1295-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:08:55Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1295 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1295 If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to th…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1295-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:08:31Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1298 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1298 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1298-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:03:47Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1298 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1298 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1298-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:03:13Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.15.1298 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 30.0.15.1298 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1298-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T07:02:45Z"
+    },
+    {
+      "title": "Intel Stock Hits All-Time High After Report of Apple Chip Manufacturing Talks",
+      "description": "Intel shares rose as much as 15 percent on Tuesday to reach an all-time high of 110.\nThank you for being a Ghacks reader. The post Intel Stock Hits All-Time High After Report of Apple Chip Manufacturing Talks appeared first on gHacks.",
+      "url": "https://www.ghacks.net/2026/05/08/intel-stock-hits-all-time-high-after-report-of-apple-chip-manufacturing-talks",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-08T06:57:00Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1691 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 31.0.15.1691 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1691-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T06:53:52Z"
+    },
+    {
+      "title": "Big Tech reportedly offers to fund SK Hynix fabs and EUV tools in escalating AI memory race",
+      "description": "Global technology firms are reportedly offering unprecedented investment proposals to secure memory supply from SK Hynix, including funding new production lines and helping pay for expensive semiconductor equipment — underscoring the growing intensity of the …",
+      "url": "https://www.digitimes.com/news/a20260508VL205/sk-hynix-technology-euv-investment-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T06:53:31Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1691 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 31.0.15.1691 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1691-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T06:53:17Z"
+    },
+    {
+      "title": "Taiwan's MediaTek expands India footprint with new Noida R&D centre",
+      "description": "Taiwanese semiconductor giant MediaTek has established its second Indian R&D hub in Noida, leasing 1,04,000 sq ft at BPTP's Capital City. This move, valued at approximately Rs. 144 crore, underscores Noida's growing appeal for global tech firms seeking qualit…",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/taiwans-mediatek-expands-india-footprint-with-new-noida-rd-centre/articleshow/130952212.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T06:50:02Z"
+    },
+    {
+      "title": "Sony forecasts 11% rise in annual profit but lower sale",
+      "description": "Sony anticipates a sales dip in its gaming division. This is due to fewer PlayStation 5 hardware sales as the console ages and increased memory chip costs. However, the company projects a profit increase driven by strong first-party game releases. Sony is als…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sony-forecasts-11-rise-in-annual-profit-but-lower-sale/articleshow/130952146.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T06:48:01Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1695 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 31.0.15.1695 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1695-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T06:44:51Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1695 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 31.0.15.1695 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1695-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T06:43:42Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1695 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 3060 Ti Graphics Driver version 31.0.15.1695 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1695-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-08T06:43:10Z"
+    },
+    {
+      "title": "The Coming Food Crisis: Why You’ll Find Gravel in Your Grain and Wood Chips in Your Bread",
+      "description": "Why You Might Find Gravel in Your Grain and Wood Chips in Your Bread I’ve spent 12+ years analyzing food quality in my laboratory, and what I’m seeing today terrifies me. Viral videos are now surfacing that allegedly show wood chips embedded in commercial bre…",
+      "url": "https://www.naturalnews.com/2026-05-08-food-crisis-youll-find-gravel-in-grain.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-08T06:00:00Z"
+    },
+    {
+      "title": "Japan's Sony reports declining profit but expects a record for this year",
+      "description": "Japanese electronics and entertainment giant Sony has reported a 3.4% drop in its annual profit but projects a comeback to record profits for the current fiscal year. Tokyo-based Sony said Friday that its net profit for the year through March totaled $6.6 bil…",
+      "url": "https://www.seattlepi.com/entertainment/article/japan-s-sony-reports-declining-profit-but-expects-22248567.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-05-08T05:51:08Z"
+    },
+    {
+      "title": "TSMC's 2026 revenue surges 30% in first four months on AI boom",
+      "description": "TSMC (TWSE: 2330, NYSE: TSM) on Friday reported consolidated net revenue of approximately NT$410.73 billion (US$12.6 billion) for April 2026, up 17.5 percent from the same month a year ago, though down 1.1 percent from March 2026.",
+      "url": "https://www.digitimes.com/news/a20260508VL206/tsmc-revenue-2026-nyse-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T05:44:48Z"
+    },
+    {
+      "title": "Apple Taps TSMC For Fresh A18 Pro Silicon To Double MacBook Neo Production",
+      "description": "It's no secret that Apple's $599 MacBook Neo has been a hit for general productivity workflows and as a Chromebook replacement, but in a recent financial results report, Tim Cook touched on just how unexpectedly high the Neo's demand was. The outgoing CEO on …",
+      "url": "https://www.techpowerup.com/348879/apple-taps-tsmc-for-fresh-a18-pro-silicon-to-double-macbook-neo-production",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-08T05:41:40Z"
+    },
+    {
+      "title": "Woot! App: PowerColor Hellhound Spectral White AMD Radeon RX 9070 XT 16GB GDDR6 $679.99",
+      "description": "*EXTRA 10% OFF* this event in the Woot app! No coupon required. Discount will be shown on the final checkout screen. $20 maximum total discount, while supplies last. Offer expires 5/8/26 at 11:58pm...",
+      "url": "https://slickdeals.net/f/19501806-woot-app-powercolor-hellhound-spectral-white-amd-radeon-rx-9070-xt-16gb-gddr6-679-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-08T05:19:22Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3: 15.3\" FHD+ IPS Touch, Ryzen 7 170, 16GB LPDDR5, 512GB SSD $499.99",
+      "description": "*SPECS:*[list][*]15.3\" WUXGA (1920x1200) IPS 300nits Anti-glare, 45% NTSC, 60Hz, On-cell, 10-point Multi-touch, IPS Display[*]AMD Ryzen 7 170 (8C / 16T, 3.2 / 4.75GHz, 4MB L2 / 16MB L3)[*]16GB (8GB...",
+      "url": "https://slickdeals.net/f/19501779-lenovo-ideapad-slim-3-15-3-fhd-ips-touch-ryzen-7-170-16gb-lpddr5-512gb-ssd-499-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-08T05:14:22Z"
+    },
+    {
+      "title": "ThPA: Cooperation for a new freight transport corridor in the Balkans",
+      "description": "ThPA S.A. (Port of Thessaloniki), Hellenic Train and Bulgarian State Railways (BDZ) have signed a Memorandum of Cooperation, marking a significant step toward strengthening intermodal transport and expanding supply chain…\nThPA: Cooperation for a new freight t…",
+      "url": "https://www.naftemporiki.gr/english/2107878/thpa-cooperation-for-a-new-freight-transport-corridor-in-the-balkans",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-05-08T05:09:52Z"
+    },
+    {
+      "title": "Qualcomm unveils new Snapdragon chips for affordable and mid-range phones",
+      "description": "Qualcomm has unveiled two new Snapdragon chips for entry-level and mid-range smartphones: the Snapdragon 4 Gen 5 and the Snapdragon 6 Gen 5. The Snapdragon 4 Gen 5 is manufactured by Samsung Foundry on its mature 4nm node, while the Snapdragon 6 Gen 5 is made…",
+      "url": "https://www.sammobile.com/news/qualcomm-snapdragon-4-gen-5-and-6-gen-5-chips-mid-range-phones",
+      "source": "SamMobile",
+      "publishedAt": "2026-05-08T05:09:39Z"
+    },
+    {
+      "title": "$419.99 | PowerColor Twin Fan AMD Radeon RX 7800 XT 16GB at Woot!",
+      "description": "Woot! [woot.com] has PowerColor Twin Fan AMD Radeon RX 7800 XT 16GB for $439.99 - extra 10% off = $419.99.\nShipping is free for Amazon Prime Members (must login with your Amazon account and select a s",
+      "url": "https://slickdeals.net/f/19501731-419-99-powercolor-twin-fan-amd-radeon-rx-7800-xt-16gb-at-woot",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-08T05:03:12Z"
+    },
+    {
+      "title": "21.5-inch AI Touch Panel PC is powered by NVIDIA Jetson Orin NX module for industrial HMI applications",
+      "description": "AAEON NIKY-2215-NX is a 21.5-inch Full HD AI Touch Panel PC powered by the NVIDIA Jetson Orin NX 8GB/16GB and designed for AI-enhanced HMI applications such as production line inspection systems and industrial monitoring dashboards. The panel PC features two …",
+      "url": "https://www.cnx-software.com/2026/05/08/21-5-inch-ai-touch-panel-pc-is-powered-by-nvidia-jetson-orin-nx-module-for-industrial-hmi-applications",
+      "source": "CNX Software",
+      "publishedAt": "2026-05-08T04:57:04Z"
+    },
+    {
+      "title": "AI giveth and AI taketh CPU",
+      "description": "Recorded on the floor of HumanX, Ryan is joined by AMD CTO Mark Papermaster to discuss AMD’s silicon strategy for AI borne of their long history of heterogeneous CPU/GPU computing, how chipmakers are dealing the wide range of AI workloads from training to inf…",
+      "url": "https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu",
+      "source": "Stackoverflow.blog",
+      "publishedAt": "2026-05-08T04:51:06Z"
+    },
+    {
+      "title": "Sony forecasts higher games profit but lower sales amid memory price surge",
+      "description": "Sony anticipates a profit jump of 11% to 1.6 trillion yen by March 2027. The company expects lower sales in its gaming division but higher profits due to strong software releases. Sony will also buy back shares worth up to 500 billion yen. Investors are watch…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sony-forecasts-higher-games-profit-but-lower-sales-amid-memory-price-surge/articleshow/130948537.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T04:45:13Z"
+    },
+    {
+      "title": "Taiwan firms' US investment tops forecasts; government lines up US$50 billion financing",
+      "description": "The Ministry of Economic Affairs (MOEA) announced on May 6 that, excluding TSMC, about 20 Taiwan companies plan to invest US$35 billion in the US. The statement comes after US President Donald Trump issued reciprocal tariffs in April 2025, which unexpectedly …",
+      "url": "https://www.digitimes.com/news/a20260508PD212/taiwan-usa-investment-financing-government-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T04:43:02Z"
+    },
+    {
+      "title": "Compal partners with Verda to supply liquid-cooled GPU servers for sovereign AI deployments",
+      "description": "Compal formed a strategic partnership with European AI cloud provider Verda to accelerate deployment of next-generation AI infrastructure across Europe and the Asia-Pacific region, the companies announced. The collaboration, revealed in early May, will see Co…",
+      "url": "https://www.digitimes.com/news/a20260508PD209/compal-gpu-liquid-cooling-servers-europe.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T04:28:59Z"
+    },
+    {
+      "title": "Analysis: Samsung's union fight exposes a fault line in semiconductor investment",
+      "description": "A labor dispute at Samsung Electronics is sharpening a debate with implications well beyond South Korea: how semiconductor companies balance worker compensation against the capital-intensive investment cycles that determine who leads in chips.",
+      "url": "https://www.digitimes.com/news/a20260508PD219/samsung-operating-profit-investment-performance-sk-hynix.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-08T04:10:27Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes",
+      "TSMC reportedly pushes CoPoS exclusivity to lock in next-gen packaging lead",
+      "Apple iPad Air M4 13\" 256GB WiFi Tablet + free shipping w/ Prime",
+      "Sony, TSMC form Japanese joint venture to push image sensors into automotive and robotics",
+      "US suspects Nvidia chips smuggled to Alibaba via Thailand: Bloomberg News"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-suspects-nvidia-chips-smuggled-to-alibaba-via-thailand-bloomberg-news/articleshow/130953005.cms",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1278-for-Windows-10-S-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-15-1278-for-Windows-10-version-1803-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit?id=d8a70292c3e1759804dcc1a60e53ead86b466a3a",
+        "https://www.digitimes.com/news/a20260508PD207/tsmc-packaging-cowos-expansion-capacity.html",
+        "https://www.dealnews.com/Apple-iPad-Air-M4-13-256-GB-Wi-Fi-Tablet-free-shipping-w-Prime/21826726.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Merge tag 'amd-drm-fixes-7.1-2026-05-06' of https://gitlab.freedesktop.org/agd5f/linux into drm-fixes. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
