@@ -1,0 +1,152 @@
+{
+  "theme": "ai",
+  "date": "2026-05-11",
+  "last_updated_utc": "2026-05-11T09:31:40.666Z",
+  "news": [
+    {
+      "title": "Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI",
+      "description": "From July 17, 2023: The only thing more impressive than the performance of generative AI systems like GPT-4 and Stable Diffusion is the sheer volume of training data that went into these systems. GPT was reportedly trained on, essentially, the entire Internet…",
+      "url": "https://shows.acast.com/lawfare/episodes/lawfare-archive-pam-samuelson-on-copyrights-threat-to-genera",
+      "source": "Acast.com",
+      "publishedAt": "2026-05-10T09:00:00Z"
+    },
+    {
+      "title": "Anthropic Has Added Several More Religions on Its Quest to Inject Perfect Morals into Claude",
+      "description": "Anthropic (and OpenAI) recently met with representatives from Sikh, Hindu, Jewish, and LDS groups. Will it help?",
+      "url": "https://gizmodo.com/anthropic-has-added-several-more-religions-on-its-quest-to-inject-perfect-morals-into-claude-2000756740",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-10T09:00:46Z"
+    },
+    {
+      "title": "Beware, OpenAI: China Is Building World’s Fastest-Growing AI Cybersecurity Powerhouse",
+      "description": "Backed by double‑digit market growth and the State Council's Artificial Intelligence+ action plan, China’s AI security models are evolving at breakneck speed.",
+      "url": "https://sputnikglobe.com/20260510/beware-openai-china-is-building-worlds-fastest-growing-ai-cybersecurity-powerhouse-1124107005.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-10T07:59:22Z"
+    },
+    {
+      "title": "Mother's Day 2026: How To Create AI Images With Your Mom For Free Using ChatGPT, Gemini And More",
+      "description": "Mother's Day 2026: How To Create AI Images With Your Mom For Free Using ChatGPT, Gemini And Moremashable.com",
+      "url": "https://in.mashable.com/tech/109479/mothers-day-2026-how-to-create-ai-images-with-your-mom-for-free-using-chatgpt-gemini-and-more",
+      "source": "Mashable",
+      "publishedAt": "2026-05-10T06:18:11Z"
+    },
+    {
+      "title": "I asked ChatGPT: I earn ₹1 lakh yet drowning in debt — how long will it take to recover? AI explains what must change",
+      "description": "ChatGPT warns that a  ₹1 lakh salary is not enough to comfortably sustain a debt-heavy lifestyle with 36% credit card interest. The chatbot recommends cutting variable expenses sharply, stopping credit card usage entirely and restructuring repayments to becom…",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-i-earn-1-lakh-yet-drowning-in-debt-how-long-will-it-take-to-recover-ai-explains-what-must-change-11778401069126.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-10T08:45:26Z"
+    },
+    {
+      "title": "Gemma 4 vs Gemini 3.1 : Which Google AI is Right for You?",
+      "description": "Gemma 4 and Gemini 3.1 represent two distinct approaches to AI functionality, each tailored to different priorities. According to Parker Prompts, Gemini 3.1 is a cloud-based model that integrates with Google services and can process up to 1,500 pages of conte…",
+      "url": "https://www.geeky-gadgets.com/gemma-4-vs-gemini-3-1",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-10T06:00:00Z"
+    },
+    {
+      "title": "Adrian Weckler: Claude cleans up, while OpenAI and Elon Musk do battle in the courtroom",
+      "description": "During the recent Hungarian elections, a viral polling chart identified the moment when Viktor Orban’s chances of re-election vaporises – it was when US vice president JD Vance turned up to campaign for him.",
+      "url": "https://www.independent.ie/business/irish/adrian-weckler-claude-cleans-up-while-openai-and-elon-musk-do-battle-in-the-courtroom/a1159053311.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-10T04:30:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI",
+      "Anthropic Has Added Several More Religions on Its Quest to Inject Perfect Morals into Claude",
+      "Beware, OpenAI: China Is Building World’s Fastest-Growing AI Cybersecurity Powerhouse",
+      "Mother's Day 2026: How To Create AI Images With Your Mom For Free Using ChatGPT, Gemini And More",
+      "I asked ChatGPT: I earn ₹1 lakh yet drowning in debt — how long will it take to recover? AI explains what must change"
+    ],
+    "insights": [
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://gizmodo.com/anthropic-has-added-several-more-religions-on-its-quest-to-inject-perfect-morals-into-claude-2000756740",
+        "https://sputnikglobe.com/20260510/beware-openai-china-is-building-worlds-fastest-growing-ai-cybersecurity-powerhouse-1124107005.html",
+        "https://www.independent.ie/business/irish/adrian-weckler-claude-cleans-up-while-openai-and-elon-musk-do-battle-in-the-courtroom/a1159053311.html"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://in.mashable.com/tech/109479/mothers-day-2026-how-to-create-ai-images-with-your-mom-for-free-using-chatgpt-gemini-and-more",
+        "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-i-earn-1-lakh-yet-drowning-in-debt-how-long-will-it-take-to-recover-ai-explains-what-must-change-11778401069126.html"
+      ]
+    },
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/gemma-4-vs-gemini-3-1"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lawfare Archive: Pam Samuelson on Copyright's Threat to Generative AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
