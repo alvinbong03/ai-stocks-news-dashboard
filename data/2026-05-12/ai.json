@@ -1,0 +1,247 @@
+{
+  "theme": "ai",
+  "date": "2026-05-12",
+  "last_updated_utc": "2026-05-12T08:32:52.469Z",
+  "news": [
+    {
+      "title": "Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction",
+      "description": "Anthropic's Claude AI models previously exhibited blackmailing behaviour, influenced by fictional portrayals of evil AI. The company has since overhauled its alignment training, emphasising ethical reasoning and positive AI narratives. Newer Claude systems no…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-links-claudes-blackmail-behaviour-to-evil-ai-fiction/articleshow/131008646.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-11T08:26:13Z"
+    },
+    {
+      "title": "What the ChatGPT 5.5 Instant Update Means for You",
+      "description": "OpenAI’s GPT 5.5 Instant emphasizes speed, accuracy, and usability through its adoption of a goal-based prompting framework, as outlined by The AI Advantage. This approach allows users to specify desired outcomes directly, allowing the model to deliver concis…",
+      "url": "https://www.geeky-gadgets.com/chatgpt-5-5-instant-update",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-11T08:25:22Z"
+    },
+    {
+      "title": "Anthropic Says 'Evil' Portrayals of AI Were Responsible For Claude's Blackmail",
+      "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic. Last year, the company said that during pre-release tests involving a fictional company, Claude Opus 4 would often try to blackmail engineers to avoid…",
+      "url": "https://slashdot.org/submission/17347174/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-11T04:36:14Z"
+    },
+    {
+      "title": "OpenAI and chipmakers roll out MRC to prevent AI training slowdowns",
+      "description": "OpenAI said it has partnered with chipmakers and cloud providers — including AMD, Broadcom, Intel, Microsoft, and Nvidia — to develop a new networking protocol aimed at improving the performance and reliability of large-scale AI training systems.",
+      "url": "https://www.digitimes.com/news/a20260511PR200/openai-training-chipmakers-infrastructure-microsoft.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-11T02:57:14Z"
+    },
+    {
+      "title": "Anthropic says Claude learned to blackmail by reading stories about evil AI",
+      "description": "The company has traced its model’s most uncomfortable behaviour to the corpus of science fiction it was trained on. The fix it describes is unsettling in a different way: teaching the model the reasons behind being good, not just the rules. In a fictional com…",
+      "url": "https://thenextweb.com/news/anthropic-claude-blackmail-internet-evil-ai-training",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-11T08:18:08Z"
+    },
+    {
+      "title": "Digest: ChatGPT Ads Expand to New Markets Including UK; Meta Sues Ofcom Over Safety Act Fines; Apple Pays $250m Over Siri AI Claims",
+      "description": "In today’s Digest, we cover OpenAI expanding ChatGPT ads globally as The Trade Desk’s CSO joins the company, Meta taking Ofcom to court over online safety penalties, and Apple agreeing to a USD$250m payout over Siri AI misrepresentation.\nThe post Digest: Chat…",
+      "url": "https://www.exchangewire.com/blog/2026/05/11/digest-chatgpt-ads-expand-to-new-markets-including-uk-meta-sues-ofcom-over-safety-act-fines-apple-pays-250m-over-siri-ai-claims",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-05-11T08:00:00Z"
+    },
+    {
+      "title": "Memory bottlenecks threaten data-center GPU efficiency as AI inference scales, says Micron SVP",
+      "description": "Micron's senior vice president, Jeremy Werner, told The Circuit Podcast that memory has become a strategic bottleneck for data-center inference, warning that insufficient memory can sharply cut GPU utilization while faster, larger memory can theoretically mul…",
+      "url": "https://www.digitimes.com/news/a20260511PD202/micron-gpu-efficiency-ai-inference-hbm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-11T04:35:20Z"
+    },
+    {
+      "title": "How to Remove Gemini Nano from Chrome and Free Up Storage",
+      "description": "If you’ve been keeping up with the latest tech news, you may already know that Google Chrome has been making headlines recently. According to reports, Chrome has been silently installing a 4GB AI model on devices without notifying users or asking for permissi…",
+      "url": "https://techviral.net/remove-gemini-nano-from-chrome",
+      "source": "Techviral.net",
+      "publishedAt": "2026-05-11T07:49:40Z"
+    },
+    {
+      "title": "OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning",
+      "description": "OpenAI has introduced three new real-time audio models to its API: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper.\nThank you for being a Ghacks reader. The post OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Rea…",
+      "url": "https://www.ghacks.net/2026/05/11/openai-releases-three-new-realtime-voice-models-for-the-api-with-gpt-5-class-reasoning",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-05-11T07:47:09Z"
+    },
+    {
+      "title": "Why Anthropic Just Copied OpenClaw’s Breakout Feature",
+      "description": "OpenClaw’s approach to AI memory optimization has sparked significant interest, particularly with its implementation of the “dreaming” feature. This process, which enhances memory by consolidating and refining stored information during downtime, is divided in…",
+      "url": "https://www.geeky-gadgets.com/openclaw-anthropic-ai-dreaming",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-11T07:15:00Z"
+    },
+    {
+      "title": "Samsung’s Bespoke AI Refrigerator Family Hub gets Gemini in the US with new update",
+      "description": "Samsung has released a new software update for the Bespoke AI Family Hub Refrigerator series in the US. It is a major update that brings Gemini for improved food recognition through AI Vision, a more capable version of Bixby, and Now Brief widgets for persona…",
+      "url": "https://www.sammobile.com/news/samsung-bespoke-ai-refrigerator-family-hub-update-usa-gemini",
+      "source": "SamMobile",
+      "publishedAt": "2026-05-11T06:57:05Z"
+    },
+    {
+      "title": "The Real Reason OpenAI Gave Away Symphony for Free",
+      "description": "OpenAI’s Symphony represents a significant step forward in rethinking how task management and automation can be approached. Designed as an open source framework, Symphony integrates AI agents into workflows, allowing them to independently handle tasks like up…",
+      "url": "https://www.geeky-gadgets.com/openai-symphony-free-tool",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-11T06:13:00Z"
+    },
+    {
+      "title": "America’s largest grid operator warns of power rationing as data center demand spirals",
+      "description": "America’s largest power grid operator admits the system is failing under surging AI-driven demand and shrinking reliable energy sources. Data centers face deliberate power cuts during peak demand as the grid prioritizes residential users over energy-hungry te…",
+      "url": "https://www.naturalnews.com/2026-05-11-america-grid-operator-power-rationing-demand.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-11T06:00:00Z"
+    },
+    {
+      "title": "OpenAI offers EU access to new AI hacking model",
+      "description": "European cyber and AI authorities in past weeks failed to gain access to superhacking AI, causing anxiety among officials.",
+      "url": "https://www.politico.eu/article/openai-eu-access-superhacking-artificial-intelligence",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-05-11T05:01:00Z"
+    },
+    {
+      "title": "Can ChatGPT be charged in a murder? Florida wants to find out",
+      "description": "Before he opened fire on the Florida State University campus last year, killing two people and wounding six others, Phoenix Ikner had a conversation. Not with a friend, a parent or anyone who might have talked him out of it -- but with an AI chatbot. Accordin…",
+      "url": "https://japantoday.com/category/world/can-chatgpt-be-charged-in-a-murder-florida-wants-to-find-out",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-11T05:00:03Z"
+    },
+    {
+      "title": "Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention - NBC News",
+      "description": "Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attentionNBC News Can ChatGPT be charged in a murder? Florida wants to find outYahoo OpenAI sued over ChatGPT’s alleged role in aiding FSU shooting suspectWFLA How ChatGPT conversa…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183178628",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-11T04:32:28Z"
+    },
+    {
+      "title": "OpenAI staff cashed out 6.6 billion dollars in one day, says report. How much richer did it make the employees?",
+      "description": "More than 600 OpenAI employees sold a combined 6.6 billion dollars worth of stock in a single day in October 2025, averaging 11 million dollars each. Here is how artificial intelligence is creating unprecedented wealth for technology workers before a single I…",
+      "url": "https://www.livemint.com/money/openai-staff-cashed-out-6-6-billion-dollars-in-one-day-says-report-how-much-richer-did-it-make-the-employees-11778471158995.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-11T03:59:03Z"
+    },
+    {
+      "title": "OpenAI lets employees cash out up to $30 million each in share sale, valuation hits $400 billion: Report",
+      "description": "OpenAI employees, both current and former, collectively sold $6.6 billion in shares during a secondary transaction in October 2025. This sale valued the artificial intelligence company at an estimated $400 billion, allowing approximately 75 participants to li…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-lets-employees-cash-out-up-to-30-million-each-in-share-sale-valuation-hits-400-billion-report/articleshow/131002242.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-11T03:02:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction",
+      "What the ChatGPT 5.5 Instant Update Means for You",
+      "Anthropic Says 'Evil' Portrayals of AI Were Responsible For Claude's Blackmail",
+      "OpenAI and chipmakers roll out MRC to prevent AI training slowdowns",
+      "Anthropic says Claude learned to blackmail by reading stories about evil AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/chatgpt-5-5-instant-update",
+        "https://www.digitimes.com/news/a20260511PR200/openai-training-chipmakers-infrastructure-microsoft.html",
+        "https://www.exchangewire.com/blog/2026/05/11/digest-chatgpt-ads-expand-to-new-markets-including-uk-meta-sues-ofcom-over-safety-act-fines-apple-pays-250m-over-siri-ai-claims"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-links-claudes-blackmail-behaviour-to-evil-ai-fiction/articleshow/131008646.cms",
+        "https://slashdot.org/submission/17347174/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail",
+        "https://thenextweb.com/news/anthropic-claude-blackmail-internet-evil-ai-training"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/openclaw-anthropic-ai-dreaming"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://japantoday.com/category/world/can-chatgpt-be-charged-in-a-murder-florida-wants-to-find-out"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260511PD202/micron-gpu-efficiency-ai-inference-hbm.html",
+        "https://techviral.net/remove-gemini-nano-from-chrome",
+        "https://www.sammobile.com/news/samsung-bespoke-ai-refrigerator-family-hub-update-usa-gemini"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic links Claude’s blackmail behaviour to ‘evil AI’ fiction. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
