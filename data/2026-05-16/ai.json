@@ -1,0 +1,212 @@
+{
+  "theme": "ai",
+  "date": "2026-05-16",
+  "last_updated_utc": "2026-05-16T07:57:08.412Z",
+  "news": [
+    {
+      "title": "Why OpenAI is considering legal action against Apple over Siri AI deal",
+      "description": "The tensions have been aggravated by Apple’s broader AI strategy. The company’s multiyear AI partnership with Google announced this year would see Gemini technology power the next-gen Siri on devices like the iPhone.",
+      "url": "https://indianexpress.com/article/explained/explained-sci-tech/openai-apple-ai-partnership-google-gemini-siri-dispute-10690723",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-15T07:44:40Z"
+    },
+    {
+      "title": "Why Claude Code’s New ‘Autodream’ Feature Changes How AI Handles Memory",
+      "description": "Anthropic’s Claude Code has undergone a series of significant updates in April 2026, shifting its focus toward accessibility and efficiency for a broader audience. Simon Scrapes highlights key advancements, such as the introduction of Autodream, a feature des…",
+      "url": "https://www.geeky-gadgets.com/claude-code-work-operating-system",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-15T06:15:00Z"
+    },
+    {
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
+      "description": "Support from Anthropic's technical staff and usage credits for its Claude AI will account for its half of the financial commitment, while the Bill Gates co-founded Gates Foundation ‌will provide ⁠grant funding, ⁠program design and expertise",
+      "url": "https://cio.economictimes.indiatimes.com/news/business-analytics/anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-health-education/131107477",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T05:55:18Z"
+    },
+    {
+      "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
+      "description": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features9to5Mac You can access Codex on your phone nowAxios OpenAI brings Codex coding tool to ChatGPT mobile appReuters OpenAI is making it easier to keep tabs on your AI coding project …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183220167",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-15T05:12:36Z"
+    },
+    {
+      "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
+      "description": "Despite US approval for around 10 Chinese firms to buy Nvidia's H200 AI chips, no deliveries have occurred. CEO Jensen Huang's China trip, facilitated by President Trump, aims to resolve this deadlock, highlighting the complex US-China tech rivalry impacting …",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/articleshow/131108130.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T04:29:42Z"
+    },
+    {
+      "title": "(g+) Technology: Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight",
+      "description": "Apple Inc.'s two-year-old partnership with OpenAI has become strained, according to people familiar with the matter, with the AI startup failing to see the expected benefits from the deal and now preparing possible legal action. (Unternehmen, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Ftechnology-apple-openai-alliance-frays-setting-up-possible-legal-fight-2605-208700.html&referer=https%3A%2F%2Ft.co%2Fa941cd258c",
+      "source": "Golem.de",
+      "publishedAt": "2026-05-15T07:51:02Z"
+    },
+    {
+      "title": "Anthropic has agreed terms for $30 billion funding deal at $900 billion valuation: FT",
+      "description": "AI firm Anthropic is reportedly nearing a $30 billion fundraising round, valuing the company at $900 billion. This significant valuation surge, driven by rapid revenue growth and strong investor interest, positions Anthropic to potentially surpass rival OpenA…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/anthropic-has-agreed-terms-for-30-billion-funding-deal-at-900-billion-valuation-ft/articleshow/131111652.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T07:46:13Z"
+    },
+    {
+      "title": "Artificial Intelligence: Why it’s a productive, not destructive, force for capital markets",
+      "description": "Artificial intelligence is rapidly transforming capital markets by automating trading, research and portfolio management functions once handled manually. While AI is improving efficiency and productivity across finance, experts believe human judgment, relatio…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/artificial-intelligence-why-its-a-productive-not-destructive-force-for-capital-markets/articleshow/131111670.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T07:36:39Z"
+    },
+    {
+      "title": "Artificial Intelligence: Why it’s a productive, not destructive, force for capital markets",
+      "description": "Artificial intelligence is rapidly transforming capital markets by automating trading, research and portfolio management functions once handled manually. While AI is improving efficiency and productivity across finance, experts believe human judgment, relatio…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/artificial-intelligence-why-its-a-productive-not-destructive-force-for-capital-markets/articleshow/131111446.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T07:36:39Z"
+    },
+    {
+      "title": "Google debuts Android Googlebook laptop platform with Gemini AI baked in",
+      "description": "Google's Googlebook launch with integrated AI and Android signals a transformative shift in personal computing, challenging existing ecosystems.\nThe post Google debuts Android Googlebook laptop platform with Gemini AI baked in appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/google-googlebook-android-gemini-laptop",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-15T07:29:15Z"
+    },
+    {
+      "title": "Can You Run LLMs Locally Without a GPU? I Tested 8 Models on Linux",
+      "description": "Want to run AI models locally without expensive hardware? I tested 8 LLMs on a CPU-only machine to find out what works and what doesn’t.",
+      "url": "https://itsfoss.com/testing-local-llms-without-gpu",
+      "source": "Itsfoss.com",
+      "publishedAt": "2026-05-15T07:27:53Z"
+    },
+    {
+      "title": "Market Moves: Why is Trump betting big on Nvidia, Boeing and AI stocks?",
+      "description": "Newly released ethics filings revealed extensive trading activity linked to U.S. President Donald Trump during the first quarter of 2026. The disclosures showed major purchases and sales involving technology, aerospace, banking, and consumer companies. AI-foc…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/market-moves-why-is-trump-betting-big-on-nvidia-boeing-and-ai-stocks/trumps-billion-dollar-trading-blitz/slideshow/131110510.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-05-15T06:37:56Z"
+    },
+    {
+      "title": "Auriko – One API to easily switch LLM models and reduce inference cost",
+      "description": "One API to easily switch LLM models and reduce inference cost",
+      "url": "https://betalist.com/startups/auriko",
+      "source": "Betalist.com",
+      "publishedAt": "2026-05-15T05:05:00Z"
+    },
+    {
+      "title": "Anthropic outlines how the US could gain a 1-2 year AI lead on China",
+      "description": "Anthropic said that \"the window of opportunity to lock in that lead will not necessarily remain open for long.\"",
+      "url": "https://www.businessinsider.com/anthropic-ai-us-gain-lead-china-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-15T04:50:49Z"
+    },
+    {
+      "title": "Elon Musk’s OpenAI court challenge entering final stages",
+      "description": "A trial that may shape the future of OpenAI has entered its final stages as lawyers for Elon Musk try to convince a jury to hold the ChatGPT maker's leaders responsible for transforming the non-profit into a vehicle to enrich themselves.",
+      "url": "https://www.independent.ie/business/world/elon-musks-openai-court-challenge-entering-final-stages/a2059784994.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-15T04:30:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Why OpenAI is considering legal action against Apple over Siri AI deal",
+      "Why Claude Code’s New ‘Autodream’ Feature Changes How AI Handles Memory",
+      "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
+      "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
+      "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://indianexpress.com/article/explained/explained-sci-tech/openai-apple-ai-partnership-google-gemini-siri-dispute-10690723",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183220167",
+        "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Ftechnology-apple-openai-alliance-frays-setting-up-possible-legal-fight-2605-208700.html&referer=https%3A%2F%2Ft.co%2Fa941cd258c"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/claude-code-work-operating-system",
+        "https://cio.economictimes.indiatimes.com/news/business-analytics/anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-health-education/131107477",
+        "https://economictimes.indiatimes.com/tech/funding/anthropic-has-agreed-terms-for-30-billion-funding-deal-at-900-billion-valuation-ft/articleshow/131111652.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/articleshow/131108130.cms",
+        "https://economictimes.indiatimes.com/markets/stocks/news/artificial-intelligence-why-its-a-productive-not-destructive-force-for-capital-markets/articleshow/131111670.cms",
+        "https://economictimes.indiatimes.com/markets/stocks/news/artificial-intelligence-why-its-a-productive-not-destructive-force-for-capital-markets/articleshow/131111446.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI is considering legal action against Apple over Siri AI deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI is considering legal action against Apple over Siri AI deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI is considering legal action against Apple over Siri AI deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI is considering legal action against Apple over Siri AI deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why OpenAI is considering legal action against Apple over Siri AI deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
