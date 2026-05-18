@@ -1,0 +1,176 @@
+{
+  "theme": "ai",
+  "date": "2026-05-18",
+  "last_updated_utc": "2026-05-18T09:52:31.820Z",
+  "news": [
+    {
+      "title": "Claude AI Cheat Sheet : The Shortcuts Everyone Should Know",
+      "description": "Claude AI, developed by Anthropic, is designed to make interacting with artificial intelligence more intuitive and effective. In a recent breakdown by Zinho Automates, the platform’s key concepts and features are explained in straightforward terms, making it …",
+      "url": "https://www.geeky-gadgets.com/claude-ai-concepts-explained",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-17T06:00:00Z"
+    },
+    {
+      "title": "How to Use ChatGPT for Smarter Business Growth",
+      "description": "Artificial intelligence is changing the way businesses operate, compete, and grow. Companies that once relied entirely on manual processes are now using AI-powered tools to increase productivity, improve customer engagement, and scale operations faster. Among…",
+      "url": "https://www.successful-blog.com/1/chatgpt-business-strategies",
+      "source": "Successful-blog.com",
+      "publishedAt": "2026-05-17T08:50:00Z"
+    },
+    {
+      "title": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B a",
+      "description": "Sparky is an opinionated googly-eyed AI in a suitcase powered by an Nvidia Jetson Orin NS Super 16GB.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183258501",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-17T09:52:07Z"
+    },
+    {
+      "title": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
+      "description": "Sparky is an opinionated googly-eyed AI in a suitcase powered by an Nvidia Jetson Orin NS Super 16GB.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-05-17T09:40:00Z"
+    },
+    {
+      "title": "ChatGPT now wants to connect up to your bank accounts — so what could possibly go wrong?",
+      "description": "OpenAI is launching a personal finance experience so you can connect up accounts and ask questions about your money.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-now-wants-to-connect-up-to-your-bank-accounts-so-what-could-possibly-go-wrong",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-17T09:30:00Z"
+    },
+    {
+      "title": "Show HN: GDD–36 MCP tools to run N isolated Chromium browsers from Claude/Cursor",
+      "description": "AI-controlled browser farm on your machine. 36 MCP tools for Claude Code &amp; Cursor — run N Chromium instances with device emulation, screenshots, network/geolocation simulation. Cross-platform: ...",
+      "url": "https://github.com/Cap-of-tea/GDD",
+      "source": "Github.com",
+      "publishedAt": "2026-05-17T09:18:28Z"
+    },
+    {
+      "title": "SpaceX, OpenAI, Anthropic IPOs: Significant risks and rewards",
+      "description": "Wall Street is licking its chops over an unprecedented slate of massive IPOs set to arrive in the coming months, beginning with Elon Musk’s SpaceX in June.",
+      "url": "https://www.hurriyetdailynews.com/spacex-openai-anthropic-ipos-significant-risks-and-rewards-222220",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-17T09:05:14Z"
+    },
+    {
+      "title": "NVIDIA Stock Plunges 4.4% as AI Demand Fears Trigger Sharp Sell-Off in Tech Giant",
+      "description": "NVIDIA shares fell over 4% amid concerns about AI spending slowdowns and high valuations, wiping out $250 billion in market value. Analysts see this as a market reassessment rather than a fundamental shift.",
+      "url": "https://www.ibtimes.com.au/nvidia-shares-plunge-ai-spending-concerns-1869007",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-17T09:02:24Z"
+    },
+    {
+      "title": "Review of Max Tegmark's 'Life 3.0: Being Human in the Age of Artificial Intelligence'",
+      "description": "This post is my review of Max Tegmark's Life 3.0, a book we read in the AI Book Club. Tegmark, an MIT physicist and founder of the Future of Life Institute, says Life 1.0 relies entirely on biological evolution to change its hardware and software, Life 2.0 (h…",
+      "url": "https://idratherbewriting.com/blog/book-review-tegmark-life-3-0-ai",
+      "source": "Idratherbewriting.com",
+      "publishedAt": "2026-05-17T07:00:00Z"
+    },
+    {
+      "title": "AI Book Club discussion recording of 'Life 3.0: Being Human in the Age of Artificial Intelligence', by Max Tegmark",
+      "description": "This is a recording of the AI Book Club discussion of Max Tegmark's Life 3.0: Being Human in the Age of Artificial Intelligence. Our discussion explores Tegmark's visions of superintelligence, the unpredictability of AI goals and subgoals, and how the Asiloma…",
+      "url": "https://idratherbewriting.com/blog/book-club-tegmark-life-3-0",
+      "source": "Idratherbewriting.com",
+      "publishedAt": "2026-05-17T07:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude AI Cheat Sheet : The Shortcuts Everyone Should Know",
+      "How to Use ChatGPT for Smarter Business Growth",
+      "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B a",
+      "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
+      "ChatGPT now wants to connect up to your bank accounts — so what could possibly go wrong?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/claude-ai-concepts-explained",
+        "https://www.successful-blog.com/1/chatgpt-business-strategies",
+        "https://idratherbewriting.com/blog/book-review-tegmark-life-3-0-ai"
+      ]
+    },
+    {
+      "title": "Entirely",
+      "summary": "Grouped stories where \"entirely\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183258501",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/maker-packs-an-opinionated-googly-eyed-ai-chatbot-into-a-mobile-suitcase-powered-by-an-nvidia-jetson-entirely-local-machine-entity-runs-gemma-4-e4b-and-can-respond-in-200ms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-now-wants-to-connect-up-to-your-bank-accounts-so-what-could-possibly-go-wrong",
+        "https://github.com/Cap-of-tea/GDD",
+        "https://www.hurriyetdailynews.com/spacex-openai-anthropic-ipos-significant-risks-and-rewards-222220"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude AI Cheat Sheet : The Shortcuts Everyone Should Know. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude AI Cheat Sheet : The Shortcuts Everyone Should Know. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude AI Cheat Sheet : The Shortcuts Everyone Should Know. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude AI Cheat Sheet : The Shortcuts Everyone Should Know. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude AI Cheat Sheet : The Shortcuts Everyone Should Know. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
