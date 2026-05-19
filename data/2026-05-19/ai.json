@@ -1,0 +1,226 @@
+{
+  "theme": "ai",
+  "date": "2026-05-19",
+  "last_updated_utc": "2026-05-19T09:34:07.324Z",
+  "news": [
+    {
+      "title": "OpenAI and Anthropic are kicking off a mad cybersecurity dash",
+      "description": "Mythos and GPT-5.5 add to cybersecurity worries that OpenAI and Anthropic had already sparked with AI coding's popularity.",
+      "url": "https://www.businessinsider.com/openai-and-anthropic-kick-off-cybersecurity-frenzy-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-18T09:00:05Z"
+    },
+    {
+      "title": "I pay for Gemini, ChatGPT, and Claude — and there’s a clear winner",
+      "description": "I pay for ChatGPT, Gemini, and Claude. After spending time with all three, I keep coming back to only one of them.",
+      "url": "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267",
+      "source": "Android Authority",
+      "publishedAt": "2026-05-18T09:30:52Z"
+    },
+    {
+      "title": "'Why wake up in the morning?': Jensen Huang calls out US push to ban AI Chip exports to China, calls it “completely ridiculous”",
+      "description": "Nvidia CEO Jensen Huang calls a total ban on AI chip exports to China 'ridiculous'. He believes such restrictions would push China to build its own technology, ultimately harming US leadership. Huang argues American companies should compete globally. He sugge…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/why-wake-up-in-the-morning-jensen-huang-calls-out-us-push-to-ban-ai-chip-exports-to-china-calls-it-completely-ridiculous/articleshow/131171939.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-18T09:10:09Z"
+    },
+    {
+      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
+      "description": "Claude chatbot-maker will discuss its new Mythos Preview AI model with finance ministries and central banks from the FSB, following a request from Bank of England Governor Andrew Bailey",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-to-brief-global-financial-watchdog-on-cyber-flaws-exposed-by-mythos-ft-reports/article70992605.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-18T06:18:28Z"
+    },
+    {
+      "title": "Nvidia earnings in focus: Can the AI rally continue?",
+      "description": "Nvidia has become the biggest symbol of the global artificial intelligence boom. Investors across the world are closely watching its quarterly earnings to understand whether AI-driven demand can continue at the current pace. The company’s results are expected…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/nvidia-earnings-in-focus-can-the-ai-rally-continue/why-nvidia-earnings-matter/slideshow/131167818.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-05-18T05:38:44Z"
+    },
+    {
+      "title": "OpenAI is hiring workers to reduce 'friction' in communities where it's building data centers",
+      "description": "OpenAI says it will pay someone up to $236,000 plus equity to help reduce tensions in communities where they are developing Stargate data centers.",
+      "url": "https://www.businessinsider.com/openai-jobs-ai-data-center-opposition-community-engagement2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-18T09:31:01Z"
+    },
+    {
+      "title": "Using Claude AI to Scale Your Small Business Workflows and Output",
+      "description": "Claude AI has emerged as a compelling option for small businesses seeking to streamline operations and tackle administrative challenges. In a recent overview by The AI Advantage, the focus is on how Claude AI combines advanced technologies like natural langua…",
+      "url": "https://www.geeky-gadgets.com/claude-ai-for-small-businesses",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-18T09:13:00Z"
+    },
+    {
+      "title": "TI says safety will decide 800V AI data center adoption and supplier wins",
+      "description": "Pradeep S. Shenoy, a computing technology expert at Texas Instruments's (TI) US headquarters, recently shared his views on 800V architectures for AI data centers in a media appearance. He said 800V solutions will not see broad adoption in AI data centers in 2…",
+      "url": "https://www.digitimes.com/news/a20260518PD232/texas-instruments-ai-data-center-adoption.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-18T09:03:26Z"
+    },
+    {
+      "title": "Why the former Google executive who backed OpenAI and Anthropic wants to get people off their screens",
+      "description": "After 15 years as a Google product executive helping build the tools that define our digital lives, Horowitz now wants to focus on \"tech-enabled well-being.\"",
+      "url": "https://www.businessinsider.com/ex-google-executive-wants-to-get-people-off-their-screens-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-18T09:00:03Z"
+    },
+    {
+      "title": "Salesforce to spend $300 million on Anthropic tokens in 2026: CEO Marc Benioff",
+      "description": "Salesforce CEO Marc Benioff revealed the company anticipates spending nearly $300 million on Anthropic tokens by 2026, primarily for AI-powered software development and coding assistance. Benioff emphasised that AI tools enhance engineer productivity and effi…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-to-spend-300-million-on-anthropic-tokens-in-2026-ceo-marc-benioff/articleshow/131171528.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-18T08:48:22Z"
+    },
+    {
+      "title": "India must aim higher: cost optimization must not define the country’s tryst with artificial intelligence",
+      "description": "Indian firms have scant incentive to invest in foundational research for artificial intelligence (AI). But the cost of not doing so may be even higher. Indian firms should look beyond quarterly profit-and-loss statements for a longer-term view.",
+      "url": "https://www.livemint.com/opinion/online-views/india-artificial-intelligence-cost-optimization-ai-foundational-research-frontier-models-profits-11779021724652.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-18T08:30:15Z"
+    },
+    {
+      "title": "Why the Restricted Claude Mythos Model Just Appeared in Google Cloud",
+      "description": "The sudden inclusion of Anthropic’s Claude Mythos model in the Google Cloud console has sparked significant interest and debate within the tech community. Known for its ability to detect code vulnerabilities with remarkable precision, Claude Mythos was previo…",
+      "url": "https://www.geeky-gadgets.com/claude-mythos-google-cloud",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-18T08:17:00Z"
+    },
+    {
+      "title": "Trending ChatGPT Image Prompts: India crosses 1 billion AI-generated photos in under a month",
+      "description": "India is the top market for ChatGPT Images 2.0. Users have created over one billion images, making it a global trend. Popular uses include anime selfies, animated avatars, and cinematic edits. These AI-generated visuals are appearing on social media and datin…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/trending-chatgpt-image-prompts-india-crosses-1-billion-ai-generated-photos-in-under-a-month/articleshow/131170172.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-18T07:52:47Z"
+    },
+    {
+      "title": "AI, not engineers for coding: Salesforce to spend $300 million on Anthropic tokens, CEO Marc Benioff says",
+      "description": "Benioff's plans, coupled with his previous announcement that Salesforce will not hire any more engineers in 2025 due to productivity gains from AI, signal a decisive shift — the automation of writing code.",
+      "url": "https://www.livemint.com/companies/news/ai-not-engineers-for-coding-salesforce-to-spend-300-million-on-anthropic-tokens-ceo-marc-benioff-says-11779085374756.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-18T07:48:30Z"
+    },
+    {
+      "title": "Elon Musk and Sam Altman face off in OpenAI lawsuit trial",
+      "description": "The trial's outcome could redefine nonprofit commitments in tech, impacting AI industry structures and investor confidence in mission-driven ventures.\nThe post Elon Musk and Sam Altman face off in OpenAI lawsuit trial appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/musk-altman-openai-lawsuit-trial",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-18T06:34:12Z"
+    },
+    {
+      "title": "GitHub - Mesh-LLM/mesh-llm: Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat. · GitHub",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat. - Mesh-LLM/mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "source": "Github.com",
+      "publishedAt": "2026-05-18T05:47:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI and Anthropic are kicking off a mad cybersecurity dash",
+      "I pay for Gemini, ChatGPT, and Claude — and there’s a clear winner",
+      "'Why wake up in the morning?': Jensen Huang calls out US push to ban AI Chip exports to China, calls it “completely ridiculous”",
+      "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
+      "Nvidia earnings in focus: Can the AI rally continue?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/openai-and-anthropic-kick-off-cybersecurity-frenzy-2026-5",
+        "https://www.thehindubusinessline.com/info-tech/anthropic-to-brief-global-financial-watchdog-on-cyber-flaws-exposed-by-mythos-ft-reports/article70992605.ece",
+        "https://www.businessinsider.com/ex-google-executive-wants-to-get-people-off-their-screens-2026-5"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/openai-jobs-ai-data-center-opposition-community-engagement2026-5",
+        "https://cryptobriefing.com/musk-altman-openai-lawsuit-trial"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267",
+        "https://www.geeky-gadgets.com/claude-ai-for-small-businesses"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/new-updates/why-wake-up-in-the-morning-jensen-huang-calls-out-us-push-to-ban-ai-chip-exports-to-china-calls-it-completely-ridiculous/articleshow/131171939.cms",
+        "https://m.economictimes.com/markets/us-stocks/news/nvidia-earnings-in-focus-can-the-ai-rally-continue/why-nvidia-earnings-matter/slideshow/131167818.cms",
+        "https://www.digitimes.com/news/a20260518PD232/texas-instruments-ai-data-center-adoption.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI and Anthropic are kicking off a mad cybersecurity dash. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI and Anthropic are kicking off a mad cybersecurity dash. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI and Anthropic are kicking off a mad cybersecurity dash. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI and Anthropic are kicking off a mad cybersecurity dash. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI and Anthropic are kicking off a mad cybersecurity dash. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
