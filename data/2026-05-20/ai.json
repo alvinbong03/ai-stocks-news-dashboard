@@ -1,0 +1,239 @@
+{
+  "theme": "ai",
+  "date": "2026-05-20",
+  "last_updated_utc": "2026-05-20T08:58:52.362Z",
+  "news": [
+    {
+      "title": "NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more",
+      "description": "Ian Buck, NVIDIA's Vice President of Hyperscale and High-Performance Computing hand delivers the very first standalone Vera CPUs built for Agentic AI.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111686/nvidia-hand-delivers-the-first-vera-cpu-systems-to-anthropic-openai-spacexai-and-more/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-05-19T08:57:06Z"
+    },
+    {
+      "title": "ChatGPT Image 2 vs Nano Banana 2 : How OpenAI’s Image Generator is Beating Nano Banana",
+      "description": "OpenAI’s latest updates bring two advanced AI models, GPT Image 2 and Nano Banana 2, into the spotlight, each designed to address distinct creative and professional needs. In a detailed walkthrough, AI Master explores how GPT Image 2 excels in tasks requiring…",
+      "url": "https://www.geeky-gadgets.com/chatgpt-image-2-vs-nano-banana-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-19T07:45:00Z"
+    },
+    {
+      "title": "How Anthropic Became a Major Competitor to OpenAI",
+      "description": "Explore Anthropic's rise as a major OpenAI competitor. Learn about their focus on AI safety, enterprise solutions, and long-context models, shaping the AI landscape.",
+      "url": "https://www.c-sharpcorner.com/article/how-anthropic-became-a-major-competitor-to-openai",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T05:49:40Z"
+    },
+    {
+      "title": "Intel and Qualcomm circle Tenstorrent as the NVIDIA-alternative trade comes due",
+      "description": "Bloomberg reports early-stage takeover conversations with the Jim Keller-led AI chip startup, which raised $800m at a $3.2bn valuation last year and counts Bezos Expeditions and Samsung among its backers. Tenstorrent, the Jim Keller-led AI chip startup, has h…",
+      "url": "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-19T07:28:06Z"
+    },
+    {
+      "title": "Google vs OpenAI vs Anthropic: Which AI Company Is Leading the Race?",
+      "description": "Explore the AI race between Google, OpenAI, and Anthropic. Discover their strengths in models, safety, enterprise adoption, and future AI dominance.",
+      "url": "https://www.c-sharpcorner.com/article/google-vs-openai-vs-anthropic-which-ai-company-is-leading-the-race",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T06:03:40Z"
+    },
+    {
+      "title": "We are now in the era of useful AI: Jensen Huang, President and CEO of NVIDIA",
+      "description": "Michael Dell, Chairman and CEO of Dell Technologies, noted that generative AI has evolved from content generation to reasoning to agentic systems; He stated that “useful AI” drives demand for Dell Technologies",
+      "url": "https://www.thehindubusinessline.com/info-tech/we-are-now-in-the-era-of-useful-ai-jensen-huang-president-and-ceo-of-nvidia/article70995551.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-19T06:00:20Z"
+    },
+    {
+      "title": "TPU vs GPU Explained: Why Google Wants to Compete With Nvidia",
+      "description": "Explore the TPU vs GPU battle! Google challenges Nvidia's AI dominance with custom TPUs. Discover the future of AI hardware, cloud, and developer opportunities.",
+      "url": "https://www.c-sharpcorner.com/article/tpu-vs-gpu-explained-why-google-wants-to-compete-with-nvidia",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T05:52:19Z"
+    },
+    {
+      "title": "Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f77d29f8-2a41-41ed-95cc-a8404ad8390c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-19T08:43:00Z"
+    },
+    {
+      "title": "Supercharging the Creator Economy with Vertical Content and Generative AI",
+      "description": "SESSION VIDEO: SESSION DESCRIPTION: Industry innovators unpack how generative AI is rapidly transforming the creator economy, vertical programming and the wider content landscape. From accelerating dev...",
+      "url": "https://www.c21media.net/supercharging-the-creator-economy-with-vertical-content-and-generative-ai-2",
+      "source": "C21media.net",
+      "publishedAt": "2026-05-19T08:29:42Z"
+    },
+    {
+      "title": "Jury clears OpenAI of Musk's claims, paving way for US$1 trillion IPO",
+      "description": "A jury has ruled in OpenAI's favor in a lawsuit brought by Elon Musk that laid bare the personal feud between the world's richest man and the AI company's leadership. The jurors found that Musk had exceeded the statute of limitations for suing OpenAI, clearin…",
+      "url": "https://www.digitimes.com/news/a20260519VL215/openai-ipo-elon-musk-microsoft-lawsuit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-19T07:01:19Z"
+    },
+    {
+      "title": "Lisuan Technology's LX 7G100 DirectX 12 gaming GPU launches in China",
+      "description": "The new Lisuan LX 7G100 gaming GPU is also the first non-NVIDIA, AMD, or Intel GPU to launch with Microsoft WHQL certification for its drivers.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/111681/lisuan-technologys-lx-7g100-directx-12-gaming-gpu-launches-in-china/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-05-19T07:01:03Z"
+    },
+    {
+      "title": "デル・テクノロジーズ、AIへの志向を現実の成果につなげる「Dell AI Factory with NVIDIA」の機能強化を発表",
+      "description": "[デル・テクノロジーズ株式会社]\n当資料は、2026年5月18日に米国で発表されたプレスリリースの抄訳版です。\n米国リリース原文：Dell Technologies Closes the Gap Between AI Ambition and AI Outcomes | Dell USA(https://www.dell.com/en-us/dt...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000025237.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-05-19T07:00:45Z"
+    },
+    {
+      "title": "Nvidia RTX A1000 review: a small card can make a big difference",
+      "description": "Nvidia’s RTX A1000 is a pro-level GPU that’s small and draws very little power.",
+      "url": "https://www.creativebloq.com/tech/laptops/nvidia-rtx-a1000-review-a-small-card-can-make-a-big-difference",
+      "source": "Creative Bloq",
+      "publishedAt": "2026-05-19T07:00:00Z"
+    },
+    {
+      "title": "Generative AI Got the Hype, Agentic AI Will Do the Heavy Lifting for Live Sports",
+      "description": "The most important AI systems in sports may end up being the ones fans never see. Agentic AI is not flashy. Fans are unlikely to notice it directly. There will not be endless social posts about orchestration layers dynamically rerouting workflows or prioritiz…",
+      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=174882",
+      "source": "Streamingmedia.com",
+      "publishedAt": "2026-05-19T06:55:00Z"
+    },
+    {
+      "title": "Elon Musk sued OpenAI and lost. But the core question of the case remains unanswered",
+      "description": "OpenAI now has a clear path to take its next big step in the AI race.",
+      "url": "https://theconversation.com/elon-musk-sued-openai-and-lost-but-the-core-question-of-the-case-remains-unanswered-283256",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-19T06:34:23Z"
+    },
+    {
+      "title": "Musk loses blockbuster OpenAI lawsuit",
+      "description": "A federal jury ruled Monday that billionaire Elon Musk waited too long to sue OpenAI and its co-founders, delivering a decisive victory to the ChatGPT startup and ending one of Silicon Valley's most closely watched courtroom battles.",
+      "url": "https://www.hurriyetdailynews.com/musk-loses-blockbuster-openai-lawsuit-222299",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-19T06:28:11Z"
+    },
+    {
+      "title": "How Google, Microsoft, and OpenAI Are Competing for AI Dominance",
+      "description": "Explore the intense AI battle between Google, Microsoft, and OpenAI. Discover their strategies, strengths, and how they're shaping the future of technology.",
+      "url": "https://www.c-sharpcorner.com/article/how-google-microsoft-and-openai-are-competing-for-ai-dominance",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T06:12:21Z"
+    },
+    {
+      "title": "OpenAI vs Elon Musk Explained: What Happened and Why It Matters",
+      "description": "Explore the OpenAI vs. Elon Musk dispute, revealing the battle over AI's future, safety, and control. Understand its impact on developers and enterprise AI.",
+      "url": "https://www.c-sharpcorner.com/article/openai-vs-elon-musk-explained-what-happened-and-why-it-matters",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T05:48:13Z"
+    },
+    {
+      "title": "What Microsoft’s AI Strategy Beyond OpenAI Means for Developers",
+      "description": "Microsoft's evolving AI strategy beyond OpenAI means big changes for developers. Discover how this shift impacts AI application development and Azure's AI ecosystem.",
+      "url": "https://www.c-sharpcorner.com/article/what-microsofts-ai-strategy-beyond-openai-means-for-developers",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-19T05:46:26Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more",
+      "ChatGPT Image 2 vs Nano Banana 2 : How OpenAI’s Image Generator is Beating Nano Banana",
+      "How Anthropic Became a Major Competitor to OpenAI",
+      "Intel and Qualcomm circle Tenstorrent as the NVIDIA-alternative trade comes due",
+      "Google vs OpenAI vs Anthropic: Which AI Company Is Leading the Race?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/111686/nvidia-hand-delivers-the-first-vera-cpu-systems-to-anthropic-openai-spacexai-and-more/index.html",
+        "https://www.geeky-gadgets.com/chatgpt-image-2-vs-nano-banana-2",
+        "https://www.c-sharpcorner.com/article/how-anthropic-became-a-major-competitor-to-openai"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v",
+        "https://www.thehindubusinessline.com/info-tech/we-are-now-in-the-era-of-useful-ai-jensen-huang-president-and-ceo-of-nvidia/article70995551.ece",
+        "https://www.c-sharpcorner.com/article/tpu-vs-gpu-explained-why-google-wants-to-compete-with-nvidia"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c21media.net/supercharging-the-creator-economy-with-vertical-content-and-generative-ai-2",
+        "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=174882"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA hand-delivers the first Vera CPU systems to Anthropic, OpenAI, SpaceXAI, and more. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
