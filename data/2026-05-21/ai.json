@@ -1,0 +1,249 @@
+{
+  "theme": "ai",
+  "date": "2026-05-21",
+  "last_updated_utc": "2026-05-21T09:30:54.299Z",
+  "news": [
+    {
+      "title": "How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo",
+      "description": "Learn how CloudPe built a scalable GPU cloud for AI inference, LLM hosting, and GPU-powered virtual desktops using Virtuozzo infrastructure system.",
+      "url": "https://www.virtuozzo.com/company/blog/cloudpe-gpu-cloud-ai-case-study",
+      "source": "Virtuozzo.com",
+      "publishedAt": "2026-05-20T08:52:03Z"
+    },
+    {
+      "title": "Alibaba unveils the Zhenwu M890 as China’s NVIDIA alternative push hardens",
+      "description": "T-Head’s new GPU lands inside US export controls, a Trump-Xi summit on AI chips, and a Chinese domestic accelerator market, the company says, is already in scaled mass production. Alibaba’s T-Head chip unit unveiled detailed specifications of the Zhenwu M890 …",
+      "url": "https://thenextweb.com/news/alibaba-zhenwu-m890-t-head-china-ai-chip-nvidia",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-20T08:23:17Z"
+    },
+    {
+      "title": "Meet Andrej Karpathy, OpenAI founding researcher hired by rival Anthropic; His education, Tesla role and others",
+      "description": "Andrej Karpathy joins Anthropic: Andrej Karpathy — one of the most recognised names in artificial intelligence and a founding member of OpenAI — has joined Anthropic. The AI researcher, known for his work at OpenAI and Tesla, announced that he is returning to…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/meet-andrej-karpathy-openai-founding-researcher-hired-by-rival-anthropic-his-education-tesla-role-and-others/articleshow/131220010.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-20T07:51:22Z"
+    },
+    {
+      "title": "Andrej Karpathy Picks Anthropic Over OpenAI : Here’s Why It Matters for Claude",
+      "description": "Andrej Karpathy’s decision to join Anthropic signals a pivotal moment for the AI industry, particularly for the development and application of systems like Claude. Known for his new work at OpenAI and Tesla, Karpathy brings a unique focus on context engineeri…",
+      "url": "https://www.geeky-gadgets.com/what-karpathy-means-for-claude",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-20T07:44:00Z"
+    },
+    {
+      "title": "How to Build a Multi-Model AI App Using OpenAI, Gemini, and Claude APIs in .NET",
+      "description": "Build a .NET multi-model AI app using OpenAI, Gemini, and Claude. Learn to orchestrate AI providers for reliability, cost optimization, and flexibility.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-a-multi-model-ai-app-using-openai-gemini-and-claude-apis-in-net",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-20T07:22:53Z"
+    },
+    {
+      "title": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica",
+      "description": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and moreArs Technica Advancing content provenance for a safer, more transparent AI ecosystemOpenAI Making it easier to understand how content was created and editedblog.google Google Br…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183296413",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-20T09:13:01Z"
+    },
+    {
+      "title": "Why Smart Professionals Are Automating Everything with Claude Routines",
+      "description": "Claude Routines, developed by Anthropic, provides a structured approach to automating workflows, supporting both basic and advanced processes. AI Master explains how this system operates through its two distinct modes: local and remote. Local routines handle …",
+      "url": "https://www.geeky-gadgets.com/build-autonomous-agents-claude",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-20T08:43:00Z"
+    },
+    {
+      "title": "Nvidia to announce Q1 earnings tonight. What to expect and why there could be a $350 billion price swing",
+      "description": "All eyes are on Nvidia’s April quarter earnings as investors assess whether the AI chip giant can sustain its explosive growth momentum. Strong AI spending by Big Tech firms is expected to support another robust quarter, though concerns around valuations, com…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-to-announce-q1-earnings-tonight-what-to-expect-and-why-there-could-be-a-350-billion-price-swing/articleshow/131220273.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-20T07:30:44Z"
+    },
+    {
+      "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+      "description": "OpenAI’s first applied AI lab outside the US will aim to create more than 200 technical roles in Singapore and focus on deploying frontier AI across public service, finance and healthcare.",
+      "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-20T09:16:08Z"
+    },
+    {
+      "title": "Google launches Gemini Omni Flash, a conversational video-generation model with avatar mode held back",
+      "description": "The first model in DeepMind’s new Omni family will generate and edit video from any combination of image, audio, video, and text inputs. Speech-editing is being withheld; SynthID watermarking is on by default. Google introduced Gemini Omni on Tuesday at the I…",
+      "url": "https://thenextweb.com/news/google-gemini-omni-flash-video-model-io-2026",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-20T09:01:15Z"
+    },
+    {
+      "title": "Nvidia earnings face a high bar, as investors watch for updates on AI competition, China, and more",
+      "description": "Nvidia stock is up 17% in 2026, but has pulled back from records. Here is what's in focus for investors as they head toward the 5 p.m. ET earnings call.",
+      "url": "https://www.businessinsider.com/nvidia-earnings-nvda-stock-price-ai-chips-jensen-huang-china-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-20T09:00:02Z"
+    },
+    {
+      "title": "Anthropic adds sandbox, MCP tunnel features to Claude platform",
+      "description": "Anthropic has announced new features for its Claude Managed Agents, unveiling self-hosted sandboxes and MCP tunnels.",
+      "url": "https://www.verdict.co.uk/anthropic-adds-sandbox-mcp-tunnel-features-to-claude-platform",
+      "source": "Verdict",
+      "publishedAt": "2026-05-20T08:39:15Z"
+    },
+    {
+      "title": "Mexico Data Center Market Investment & Growth Report 2026-2031 Featuring Key DC Investors - AWS, Ascenty, Equinix, Google, HostDime, KIO, Mexico Telecom Partners, Microsoft, ODATA, Scala",
+      "description": "The Mexico data center market is projected to surge at a 19.32% CAGR from 2025 to 2031, powered by increasing AI, IoT, and big data adoption, and a burgeoning digital economy. The growth is fueled by expanding 5G networks, rising internet usage, and governmen…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298209/28124/en/Mexico-Data-Center-Market-Investment-Growth-Report-2026-2031-Featuring-Key-DC-Investors-AWS-Ascenty-Equinix-Google-HostDime-KIO-Mexico-Telecom-Partners-Microsoft-ODATA-Scala.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-20T08:37:00Z"
+    },
+    {
+      "title": "How the multibillion dollar AI data center boom has transformed CBRE, the world’s largest commercial real estate company",
+      "description": "The AI buildout is reshaping everything from power grids to rural land markets—and turning CBRE into a key player in the infrastructure boom.",
+      "url": "https://fortune.com/2026/05/20/how-the-ai-data-center-boom-has-transformed-the-worlds-largest-commercial-real-estate-company",
+      "source": "Fortune",
+      "publishedAt": "2026-05-20T08:30:00Z"
+    },
+    {
+      "title": "Digest: Musk Loses OpenAI Case; Google and Blackstone Launch AI Cloud Venture",
+      "description": "In today’s Digest, we cover Musk losing the OpenAI trial after a two-hour verdict, Google and Blackstone launching an AI cloud venture, and HBO Max debuting podcast content in Europe.\nThe post Digest: Musk Loses OpenAI Case; Google and Blackstone Launch AI Cl…",
+      "url": "https://www.exchangewire.com/blog/2026/05/20/digest-musk-loses-openai-case-google-and-blackstone-launch-ai-cloud-venture",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-05-20T08:00:00Z"
+    },
+    {
+      "title": "OpenAI plants its first overseas applied-AI lab in Singapore, with a $235M commitment",
+      "description": "The company will scale to about 200 staff in the city-state and align the lab’s work to Singapore’s public-sector, finance, healthcare, and digital-infrastructure priorities. OpenAI said on Wednesday it will open its first applied-AI lab outside the United St…",
+      "url": "https://thenextweb.com/news/openai-singapore-applied-ai-lab-235-million",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-20T07:40:16Z"
+    },
+    {
+      "title": "How to Integrate Gemini AI APIs in .NET Applications",
+      "description": "Integrate Google's Gemini AI APIs into .NET applications using C#. Build AI chatbots, automate content, and enhance search in ASP.NET Core projects efficiently.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-integrate-gemini-ai-apis-in-net-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-20T07:18:18Z"
+    },
+    {
+      "title": "Building AI-Powered Applications in ASP.NET Core Using OpenAI APIs",
+      "description": "Learn how to integrate OpenAI APIs into ASP.NET Core applications using C# to build AI-powered features like chatbots, content generation, and AI search. Enhance your .NET apps with AI!",
+      "url": "https://www.c-sharpcorner.com/article/building-ai-powered-applications-in-asp-net-core-using-openai-apis",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-20T07:17:22Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo",
+      "Alibaba unveils the Zhenwu M890 as China’s NVIDIA alternative push hardens",
+      "Meet Andrej Karpathy, OpenAI founding researcher hired by rival Anthropic; His education, Tesla role and others",
+      "Andrej Karpathy Picks Anthropic Over OpenAI : Here’s Why It Matters for Claude",
+      "How to Build a Multi-Model AI App Using OpenAI, Gemini, and Claude APIs in .NET"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/new-updates/meet-andrej-karpathy-openai-founding-researcher-hired-by-rival-anthropic-his-education-tesla-role-and-others/articleshow/131220010.cms",
+        "https://www.geeky-gadgets.com/what-karpathy-means-for-claude",
+        "https://www.c-sharpcorner.com/article/how-to-build-a-multi-model-ai-app-using-openai-gemini-and-claude-apis-in-net"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/google-gemini-omni-flash-video-model-io-2026",
+        "https://www.globenewswire.com/news-release/2026/05/20/3298209/28124/en/Mexico-Data-Center-Market-Investment-Growth-Report-2026-2031-Featuring-Key-DC-Investors-AWS-Ascenty-Equinix-Google-HostDime-KIO-Mexico-Telecom-Partners-Microsoft-ODATA-Scala.html",
+        "https://www.c-sharpcorner.com/article/how-to-integrate-gemini-ai-apis-in-net-applications"
+      ]
+    },
+    {
+      "title": "Using",
+      "summary": "Grouped stories where \"using\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.virtuozzo.com/company/blog/cloudpe-gpu-cloud-ai-case-study"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/alibaba-zhenwu-m890-t-head-china-ai-chip-nvidia",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-to-announce-q1-earnings-tonight-what-to-expect-and-why-there-could-be-a-350-billion-price-swing/articleshow/131220273.cms",
+        "https://www.businessinsider.com/nvidia-earnings-nvda-stock-price-ai-chips-jensen-huang-china-2026-5"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/build-autonomous-agents-claude",
+        "https://www.verdict.co.uk/anthropic-adds-sandbox-mcp-tunnel-features-to-claude-platform",
+        "https://fortune.com/2026/05/20/how-the-ai-data-center-boom-has-transformed-the-worlds-largest-commercial-real-estate-company"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
