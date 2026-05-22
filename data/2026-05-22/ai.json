@@ -1,0 +1,303 @@
+{
+  "theme": "ai",
+  "date": "2026-05-22",
+  "last_updated_utc": "2026-05-22T08:54:32.657Z",
+  "news": [
+    {
+      "title": "Claude Mythos Audited Symfony and Found 19 Vulnerabilities",
+      "description": "Claude Mythos Preview is a new general-purpose AI language model by Anthropic.\nThis model performs strongly across the board, but it is especially strong at\ncomputer security tasks.\nThis model is not publicly available yet, but Anthropic is making it availabl…",
+      "url": "https://symfony.com/blog/claude-mythos-audited-symfony-and-found-19-vulnerabilities",
+      "source": "Symfony.com",
+      "publishedAt": "2026-05-21T07:25:00Z"
+    },
+    {
+      "title": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+      "description": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updatesCNBC Nvidia tops Q1 estimates, offers upbeat outlook on strong chip salesYahoo Finance Nvidia posts record profit of $58.3bn amid AI chip boomAl Jazeera Nvidia Q1 earnings: Chipmaker b…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183305603",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-21T08:52:16Z"
+    },
+    {
+      "title": "Taiwan seeks to detain three for forging documents to export Nvidia AI chips to China",
+      "description": "The crackdown on illegal chip exports highlights the intensifying tech rivalry, potentially accelerating US-China tech ecosystem decoupling.\nThe post Taiwan seeks to detain three for forging documents to export Nvidia AI chips to China appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/taiwan-nvidia-chip-export-china-forgery",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:00:55Z"
+    },
+    {
+      "title": "Nvidia targets long-term ACIE dominance as enterprise AI eclipses hyperscalers",
+      "description": "Nvidia has detailed a significant structural shift in its data center revenue reporting, introducing a new market segmentation that separates traditional hyperscale cloud providers from a rapidly expanding sector named ACIE, which stands for artificial intell…",
+      "url": "https://www.digitimes.com/news/a20260521VL221/nvidia-industrial-data-center-market-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:48:34Z"
+    },
+    {
+      "title": "OpenAI moves up IPO timeline to get ahead of Anthropic",
+      "description": "OpenAI is preparing to file for an initial public offering (IPO) in the coming weeks, a move that could sharpen its competitive edge in the AI race. While company executives had previously targeted a listing in the fourth quarter of this year or later, the ac…",
+      "url": "https://www.digitimes.com/news/a20260521VL218/openai-ipo-anthropic-market-competition.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:06:26Z"
+    },
+    {
+      "title": "OpenAI breakthrough shifts Math AI market dynamics, impacts Anthropic’s position",
+      "description": "OpenAI's breakthrough reshapes Math AI competition, potentially redefining industry standards and challenging Anthropic's market leadership.\nThe post OpenAI breakthrough shifts Math AI market dynamics, impacts Anthropic’s position appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/openai-breakthrough-shifts-math-ai-market-dynamics-impacts-anthropics-position",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:01:40Z"
+    },
+    {
+      "title": "Nvidia posts record profit and revenue amid AI chip boom - Al Jazeera",
+      "description": "Nvidia posts record profit and revenue amid AI chip boomAl Jazeera Nvidia tops Q1 estimates, offers upbeat outlook on strong chip salesYahoo Finance Nvidia beats Wall Street expectations amid AI chip boom, Asian tech stocks surge – business liveThe Guardian N…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183304749",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-21T06:53:36Z"
+    },
+    {
+      "title": "NVIDIAが拡散言語モデル「Nemotron-Labs-Diffusion」を公開、拡散モードと自己回帰モードを切り替え可能で画像を処理できるVLMもあり",
+      "description": "NVIDIAが拡散モードと自己回帰モードを備えたAIモデル「Nemotron-Labs-Diffusion」を発表しました。Nemotron-Labs-Diffusionは拡散モードと自己回帰モードを組み合わせることで高速かつ高品質な応答が可能とされています。nvidia/Nemotron-Labs-Diffusion-14B · Hugging Facehttps://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14BMost language models on…",
+      "url": "https://news.livedoor.com/article/detail/31334964",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-21T06:47:00Z"
+    },
+    {
+      "title": "Anthropic surpasses OpenAI in enterprise adoption amid rising compute and cost pressures",
+      "description": "Anthropic overtook OpenAI in enterprise AI adoption in April 2026, according to spending data from Ramp, Wall Street Journal, Bloomberg and VentureBeat, as growing demand collided with compute bottlenecks and mounting cost pressures. Ramp's tracking of more t…",
+      "url": "https://www.digitimes.com/news/a20260521PD202/anthropic-openai-adoption-cost-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T05:41:33Z"
+    },
+    {
+      "title": "Show HN: Gemini Omni Flash access notes and AI video generator",
+      "description": "Generate AI videos with Gemini Omni Flash. Text-to-video and image-to-video generation with native audio, multiple aspect ratios, and fast rendering. Try free.",
+      "url": "https://omnigemini.video/",
+      "source": "Omnigemini.video",
+      "publishedAt": "2026-05-21T08:32:45Z"
+    },
+    {
+      "title": "AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark",
+      "description": "AMD's entry into local AI hardware challenges Nvidia's dominance, potentially reshaping enterprise AI strategies and market dynamics.\nThe post AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-ryzen-ai-halo-nvidia-dgx-spark",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:26:10Z"
+    },
+    {
+      "title": "Cerebras CEO Andrew Feldman explains why he built the world’s largest AI chip",
+      "description": "Cerebras' innovative wafer-scale AI chip could redefine AI infrastructure, challenging industry norms and potentially reshaping market dynamics.\nThe post Cerebras CEO Andrew Feldman explains why he built the world’s largest AI chip appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/cerebras-worlds-largest-ai-chip-explained",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:18:50Z"
+    },
+    {
+      "title": "AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark",
+      "description": "AMD's entry into local AI hardware challenges Nvidia's dominance, potentially reshaping enterprise AI strategies and market dynamics.\nThe post AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-ryzen-ai-halo-vs-nvidia-dgx-spark",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:18:47Z"
+    },
+    {
+      "title": "OpenAI IPO coming soon? ChatGPT-maker likely to confidentially file draft papers for world’s biggest-ever IPO tomorrow",
+      "description": "Sam Altman-led OpenAI is reportedly preparing to confidentially file draft papers for its IPO as early as Friday, according to CNBC, in what could become one of the biggest public listings ever. The ChatGPT-maker, valued at over $850 billion by private invest…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-ipo-coming-soon-chatgpt-maker-likely-to-confidentially-file-draft-papers-for-worlds-biggest-ever-ipo-tomorrow/articleshow/131242710.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-21T07:56:11Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast",
+      "description": "Nvidia's growth strategy could reshape global tech infrastructure, influencing AI, crypto markets, and competitive dynamics in the chip industry.\nThe post Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/nvidia-huang-trillion-dollar-sales-forecast",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:25:14Z"
+    },
+    {
+      "title": "CNBC Daily Open: Nvidia aims to have its 'five layer cake' of AI and eat it too",
+      "description": "Nividia CEO Jensen Huang tells CNBC the company is massively expanding its supply chain to meet AI demand.",
+      "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-21T07:07:02Z"
+    },
+    {
+      "title": "OpenAI aims for speedy IPO amid competitive landscape",
+      "description": "OpenAI's IPO could reshape AI investment dynamics, intensifying competition and boosting infrastructure demand, impacting tech giants and investors.\nThe post OpenAI aims for speedy IPO amid competitive landscape appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-ipo-60-billion-filing",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:03:11Z"
+    },
+    {
+      "title": "Nokia launches AI networking lab to drive co-innovation with partners and accelerate next era of AI-native data center networking",
+      "description": "Nokia launches AI Networking Innovation Lab to co-develop and validate next‑gen data center networking for large-scale AI workloads with partners....",
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299031/0/en/Nokia-launches-AI-networking-lab-to-drive-co-innovation-with-partners-and-accelerate-next-era-of-AI-native-data-center-networking.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-21T07:00:00Z"
+    },
+    {
+      "title": "Google’s Gemini Smart Glasses Make Meta Ray-Bans Look Outdated",
+      "description": "Google’s AI-powered smart glasses, introduced at Google I/O, integrate the Gemini AI system to deliver real-time, context-aware assistance. These glasses support tasks like turn-by-turn navigation, personalized dining suggestions and voice-activated smart hom…",
+      "url": "https://www.geeky-gadgets.com/google-ai-glasses-vs-meta-ray-ban",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-21T06:43:00Z"
+    },
+    {
+      "title": "NVIDIA Expects Zero Revenue From China Even As Its Export-Locked H200s Are Approved For Sales",
+      "description": "After NVIDIA's chief financial officer Collette Kress confirmed during her firm's latest earnings call that not only had NVIDIA secured US approval to sell the advanced H200 AI GPUs to China, but it was uncertain of earning any revenue from the sales, CEO Jen…",
+      "url": "https://wccftech.com/nvidia-expects-zero-revenue-from-china-even-as-its-export-locked-h200s-are-approved-for-sales",
+      "source": "Wccftech",
+      "publishedAt": "2026-05-21T06:30:11Z"
+    },
+    {
+      "title": "AI chip boom strains ABF substrate supply chain",
+      "description": "AI is shifting the semiconductor supply chain's next bottleneck from wafer fabrication and HBM memory to ABF substrates — a lower-profile but critical packaging material used in high-end CPUs, GPUs, ASICs, and networking chips.",
+      "url": "https://www.digitimes.com/news/a20260520VL215/supply-chain-abf-substrate-ai-chip-2026-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T06:26:32Z"
+    },
+    {
+      "title": "OpenAI model solves 80-year-old planar unit distance problem",
+      "description": "AI's breakthrough in disproving Erds' conjecture could revolutionize combinatorial geometry, impacting computational fields and problem-solving.\nThe post OpenAI model solves 80-year-old planar unit distance problem appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-solves-planar-unit-distance-problem",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T06:24:24Z"
+    },
+    {
+      "title": "Demand surge for power semiconductors reshapes data-center power and cooling, pushing suppliers toward SiC and GaN",
+      "description": "Demand for power components is surging as AI servers adopt high-voltage direct current power delivery and advanced cooling technologies. This shift could increase component density and design complexity across the data center supply chain. Taiwanese power sem…",
+      "url": "https://www.digitimes.com/news/a20260521PD208/power-semiconductors-cooling-gan-sic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T06:18:09Z"
+    },
+    {
+      "title": "AI Data Center Expansion in Texas Raises Concerns Over Water Resources",
+      "description": "Rising Concerns Over Water Use by AI Data Centers in Texas A post on the social media platform X by user @Fynnderella1 stated that AI data centers are targeting Texas water supplies, calling the situation “very concerning” and affecting all Texans. The post h…",
+      "url": "https://www.naturalnews.com/2026-05-21-ai-data-center-texas-raises-water-concerns.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-21T06:00:00Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast",
+      "description": "Nvidia's growth strategy could reshape global tech infrastructure, influencing AI, crypto markets, and competitive dynamics in the chip industry.\nThe post Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/nvidia-huang-1t-sales-forecast-growth",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T05:53:00Z"
+    },
+    {
+      "title": "Can SpaceX become the next Nvidia of Wall Street?",
+      "description": "SpaceX is preparing for one of the biggest IPOs in financial history. The proposed listing combines some of the market’s most powerful investment themes, including artificial intelligence, satellite internet, and commercial space exploration. Investor excitem…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/can-spacex-become-the-next-nvidia-of-wall-street/elon-musks-rs-1-75-trillion-bet/slideshow/131240965.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-05-21T05:52:20Z"
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research — Google DeepMind",
+      "description": "Co-Scientist can explore thousands of research directions. To help find the most impactful ones, we developed the ‘tournament of ideas’. The approach draws from principles used in AlphaGo and AlphaStar - but instead of playing a game, our AI agents hold scien…",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research",
+      "source": "Deepmind.google",
+      "publishedAt": "2026-05-21T05:47:02Z"
+    },
+    {
+      "title": "OpenAI offers 1-3 year reserved AI capacity with discounts to attract enterprise contracts",
+      "description": "OpenAI launched a Guaranteed Capacity program that lets enterprise customers reserve one to three years of AI computing resources in advance, aiming to provide a stable supply for products, AI agents, and workflows while giving both buyers and suppliers time …",
+      "url": "https://www.digitimes.com/news/a20260521PD203/openai-capacity-infrastructure-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T05:43:12Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude Mythos Audited Symfony and Found 19 Vulnerabilities",
+      "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+      "Taiwan seeks to detain three for forging documents to export Nvidia AI chips to China",
+      "Nvidia targets long-term ACIE dominance as enterprise AI eclipses hyperscalers",
+      "OpenAI moves up IPO timeline to get ahead of Anthropic"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183305603",
+        "https://cryptobriefing.com/taiwan-nvidia-chip-export-china-forgery",
+        "https://www.digitimes.com/news/a20260521VL221/nvidia-industrial-data-center-market-revenue.html"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/openai-breakthrough-shifts-math-ai-market-dynamics-impacts-anthropics-position",
+        "https://cryptobriefing.com/cerebras-worlds-largest-ai-chip-explained",
+        "https://cryptobriefing.com/openai-ipo-60-billion-filing"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://symfony.com/blog/claude-mythos-audited-symfony-and-found-19-vulnerabilities",
+        "https://www.digitimes.com/news/a20260521VL218/openai-ipo-anthropic-market-competition.html",
+        "https://www.digitimes.com/news/a20260521PD202/anthropic-openai-adoption-cost-2026.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Mythos Audited Symfony and Found 19 Vulnerabilities. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Mythos Audited Symfony and Found 19 Vulnerabilities. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Mythos Audited Symfony and Found 19 Vulnerabilities. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Mythos Audited Symfony and Found 19 Vulnerabilities. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Mythos Audited Symfony and Found 19 Vulnerabilities. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

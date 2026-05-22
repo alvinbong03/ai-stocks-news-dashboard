@@ -1,0 +1,397 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-05-22",
+  "last_updated_utc": "2026-05-22T08:54:50.020Z",
+  "news": [
+    {
+      "title": "AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables",
+      "description": "Lisa Su’s Taiwan announcement covers advanced silicon, packaging and manufacturing partnerships for the company’s rack-scale Helios platform, set for deployment in the second half of 2026. AMD announced on Wednesday more than $10bn of investments across Taiwa…",
+      "url": "https://thenextweb.com/news/amd-10bn-taiwan-ai-ecosystem-helios-ase-spil",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-21T08:53:18Z"
+    },
+    {
+      "title": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+      "description": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updatesCNBC Nvidia tops Q1 estimates, offers upbeat outlook on strong chip salesYahoo Finance Nvidia posts record profit of $58.3bn amid AI chip boomAl Jazeera Nvidia Q1 earnings: Chipmaker b…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183305603",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-21T08:52:16Z"
+    },
+    {
+      "title": "xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain",
+      "description": "Chinese server maker xFusion reached a revenue of CNY58.2 billion (approx. US$8.6 billion) for the year 2025. The figure indicates the company's rising profits as it benefits from China's push for a domestic AI supply chain and the benefits for companies brea…",
+      "url": "https://www.digitimes.com/news/a20260521VL224/huawei-xfusion-revenue-supply-chain-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T08:46:18Z"
+    },
+    {
+      "title": "Why Apple’s New MLX Framework is Changing the AI Game",
+      "description": "Apple’s MLX framework represents a significant step forward in artificial intelligence by using the unique capabilities of Apple silicon. Unlike traditional frameworks such as TensorFlow or PyTorch, MLX is designed to fully integrate with Apple’s system-on-a-…",
+      "url": "https://www.geeky-gadgets.com/wwdc-2026-apple-ai-announcements",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-21T08:45:49Z"
+    },
+    {
+      "title": "(PR) AMD Announces Production Ramp of Next-Generation AMD EPYC Processor \"Venice\" on TSMC 2nm Process Technology",
+      "description": "AMD today announced that its next-generation AMD EPYC processor, codenamed \"Venice,\" is ramping production in Taiwan on TSMC's advanced 2 nm process technology, with future plans to ramp production at TSMC's Arizona fabrication facility. The milestone in the …",
+      "url": "https://www.techpowerup.com/349238/amd-announces-production-ramp-of-next-generation-amd-epyc-processor-venice-on-tsmc-2nm-process-technology",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-21T08:41:43Z"
+    },
+    {
+      "title": "MacBook Pro OLED Display Production Clears Key Hurdle",
+      "description": "Apple's first OLED MacBook Pro models have cleared a major manufacturing hurdle, with panel supplier Samsung Display having reportedly achieved yields above 90 percent on its Gen 8.6 OLED production line. \n\n\n\n\n\nAccording to Korean publication The Elec, some i…",
+      "url": "https://www.macrumors.com/2026/05/21/macbook-pro-oled-display-production",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-21T08:41:27Z"
+    },
+    {
+      "title": "Samsung to distribute $26.6B in bonuses to chip employees after union deal",
+      "description": "Samsung's massive bonus payout highlights the intense competition for semiconductor talent and underscores the profitability of AI-driven demand.\nThe post Samsung to distribute $26.6B in bonuses to chip employees after union deal appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/samsung-26b-chip-employee-bonuses",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:35:58Z"
+    },
+    {
+      "title": "(PR) AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure",
+      "description": "To meet the growing demand for AI infrastructure, AMD (NASDAQ: AMD) today announced more than $10 billion in investments across the Taiwan ecosystem to expand strategic partnerships and scale advanced packaging manufacturing for next-generation AI infrastruct…",
+      "url": "https://www.techpowerup.com/349237/amd-announces-more-than-usd-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-21T08:33:55Z"
+    },
+    {
+      "title": "China blocks NVIDIA’s RTX 5090D V2 imports while Jensen Huang was in Beijing",
+      "description": "The ban on the China-only Blackwell card landed during the Trump delegation’s state visit, on which the Nvidia CEO was a late addition. Chinese AI buyers had been using the 5090D V2 as a workaround for the H200 procurement vacuum. China stopped granting impor…",
+      "url": "https://thenextweb.com/news/china-rtx-5090d-v2-ban-jensen-huang-beijing-visit",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-21T08:32:09Z"
+    },
+    {
+      "title": "Samsung Electronics shares surge after strike averted with massive bonuses for chip workers",
+      "description": "The resolution highlights the fragility of global semiconductor supply chains and sets a precedent for labor negotiations in the tech sector.\nThe post Samsung Electronics shares surge after strike averted with massive bonuses for chip workers appeared first o…",
+      "url": "https://cryptobriefing.com/samsung-shares-surge-strike-averted-bonuses-2",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:31:49Z"
+    },
+    {
+      "title": "Daily Tech News 21 May 2026",
+      "description": "Top Story AMD has released its new Epyc Sorano CPU range for low-end servers. (WCCFTech) Where low-end now means six-channel RAM and up to 84 cores. All full Zen 5 cores too, none of this efficiency nonsense. And 96 lanes...",
+      "url": "https://acecomments.mu.nu/?post=419804",
+      "source": "Acecomments.mu.nu",
+      "publishedAt": "2026-05-21T08:30:00Z"
+    },
+    {
+      "title": "Commentary: Trump's Taiwan chip claim tests TSMC's silence",
+      "description": "US President Donald Trump, after recently concluding a visit to China, again publicly accused Taiwan of having \"stolen our chip industry.\" This was not the first time he had made such a claim. From the 2024 campaign period to a Fox News interview in May 2026,…",
+      "url": "https://www.digitimes.com/news/a20260521VL213/taiwan-ic-manufacturing-tsmc-donald-trump-geopolitics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T08:30:00Z"
+    },
+    {
+      "title": "AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark",
+      "description": "AMD's entry into local AI hardware challenges Nvidia's dominance, potentially reshaping enterprise AI strategies and market dynamics.\nThe post AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-ryzen-ai-halo-nvidia-dgx-spark",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:26:10Z"
+    },
+    {
+      "title": "Cerebras CEO Andrew Feldman explains why he built the world’s largest AI chip",
+      "description": "Cerebras' innovative wafer-scale AI chip could redefine AI infrastructure, challenging industry norms and potentially reshaping market dynamics.\nThe post Cerebras CEO Andrew Feldman explains why he built the world’s largest AI chip appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/cerebras-worlds-largest-ai-chip-explained",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:18:50Z"
+    },
+    {
+      "title": "AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark",
+      "description": "AMD's entry into local AI hardware challenges Nvidia's dominance, potentially reshaping enterprise AI strategies and market dynamics.\nThe post AMD launches $3,999 Ryzen AI Halo PC to compete with Nvidia DGX Spark appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-ryzen-ai-halo-vs-nvidia-dgx-spark",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:18:47Z"
+    },
+    {
+      "title": "AMD to invest $10 billion in Taiwan's AI industry to advance top-end chips",
+      "description": "AMD's investments will focus on partnerships with companies to \"advance\" chip packaging and manufacturing required for next-generation AI infrastructure.",
+      "url": "https://www.cnbc.com/2026/05/21/amd-taiwan-ai-chips-sector-10-billion.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-21T08:12:07Z"
+    },
+    {
+      "title": "NVIDIA beats again, guides to $91bn for Q2 and authorises another $80bn of buybacks",
+      "description": "Q1 revenue $81.6bn (+85% YoY), data centre $75.2bn, net income $58.3bn. The quarterly dividend moves from a penny to 25 cents per share. The buyback is the second $80bn authorisation in three quarters. Nvidia reported first-quarter revenue of $81.6bn on Wedne…",
+      "url": "https://thenextweb.com/news/nvidia-q1-earnings-beat-80bn-buyback-91bn-guide",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-21T08:11:07Z"
+    },
+    {
+      "title": "ASUSから、AMD X870Eチップセット搭載 E-ATX ハイエンドマザーボード『ROG CROSSHAIR X870E GLACIAL』を発売",
+      "description": "[CFD販売株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/32645/1106/32645-1106-7ea6679e9f1081dabdc479b8dac54d46-550x400.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000001106.000032645.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-05-21T08:10:00Z"
+    },
+    {
+      "title": "Single Use Bioreactors Market Research Trends and Global Forecasts Report 2026-2035: Rising Demand for Flexible, Cost-efficient Biologics, Increased Adoption in Biopharma for Antibodies and Therapies",
+      "description": "The single-use bioreactors market presents significant growth opportunities driven by the rising demand for flexible, cost-efficient biologics manufacturing, increased adoption in biopharma for antibodies and therapies, and ongoing tech advancements. Scalabil…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299043/28124/en/Single-Use-Bioreactors-Market-Research-Trends-and-Global-Forecasts-Report-2026-2035-Rising-Demand-for-Flexible-Cost-efficient-Biologics-Increased-Adoption-in-Biopharma-for-Antibodi.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-21T08:02:00Z"
+    },
+    {
+      "title": "Antibody Contract Manufacturing Market Research and Forecasts Report 2026-2035: Technological Advancements and Evolving Industry Strategies Transforming the Landscape of Production and Manufacturing",
+      "description": "The antibody contract manufacturing market is set for robust growth driven by advancements in bioprocessing technologies and increased outsourcing by biopharma companies. CMOs offering cost-effective production and flexible solutions face challenges such as r…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299042/28124/en/Antibody-Contract-Manufacturing-Market-Research-and-Forecasts-Report-2026-2035-Technological-Advancements-and-Evolving-Industry-Strategies-Transforming-the-Landscape-of-Production-.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-21T08:01:00Z"
+    },
+    {
+      "title": "Taiwan seeks to detain three for forging documents to export Nvidia AI chips to China",
+      "description": "The crackdown on illegal chip exports highlights the intensifying tech rivalry, potentially accelerating US-China tech ecosystem decoupling.\nThe post Taiwan seeks to detain three for forging documents to export Nvidia AI chips to China appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/taiwan-nvidia-chip-export-china-forgery",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T08:00:55Z"
+    },
+    {
+      "title": "Grafana Labs Says Code Breach Stemmed from TanStack Attack",
+      "description": "Grafana Labs has confirmed a recent data breach was caused by the TanStack supply chain attack",
+      "url": "https://www.infosecurity-magazine.com/news/grafana-labs-code-breach-tanstack",
+      "source": "Infosecurity Magazine",
+      "publishedAt": "2026-05-21T08:00:00Z"
+    },
+    {
+      "title": "Nvidia's China hopes dim as Beijing doubles down on domestic AI chips",
+      "description": "Nvidia's H200 was a major focus after the Trump-Xi meeting, but hopes for sales into China have faded after US President Donald Trump's latest remarks. Trump said Chinese President Xi Jinping is firmly committed to developing domestic AI chips, leaving little…",
+      "url": "https://www.digitimes.com/news/a20260521PD230/chips-nvidia-beijing-sales-military.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:59:57Z"
+    },
+    {
+      "title": "AMD commits over US$10 billion to Taiwan ecosystem to expand AI packaging and infrastructure capacity",
+      "description": "AMD said on May 21 that it plans to invest more than US$10 billion across Taiwan's semiconductor ecosystem to deepen strategic partnerships and expand advanced packaging capacity for next-generation artificial intelligence (AI) infrastructure. The initiative …",
+      "url": "https://www.digitimes.com/news/a20260521PR202/amd-packaging-capacity-taiwan-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:59:51Z"
+    },
+    {
+      "title": "How Nvidia plans to sell Vera CPUs: Four deployment models explained",
+      "description": "Nvidia has unveiled a strategic expansion of its silicon portfolio, detailing a four-pronged commercial approach for its new Vera central processing unit. The chipmaker expects the processor to generate US$20 billion in standalone revenue, signaling a signifi…",
+      "url": "https://www.digitimes.com/news/a20260521VL220/nvidia-silicon-sales-expansion-processor.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:53:51Z"
+    },
+    {
+      "title": "AMD invests $10 Billion in Taiwan to build AI chips and challenge Nvidia's dominance",
+      "description": "Advanced Micro Devices has pledged more than $10 billion in Taiwan to expand AI chip production with partners including TSMC and ASE Technology, as the chipmaker intensifies its challenge to Nvidia's dominance in artificial intelligence computing.",
+      "url": "https://www.livemint.com/companies/news/amd-invests-10-billion-in-taiwan-to-build-ai-chips-and-challenge-nvidias-dominance-11779349264379.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-21T07:49:14Z"
+    },
+    {
+      "title": "Nvidia targets long-term ACIE dominance as enterprise AI eclipses hyperscalers",
+      "description": "Nvidia has detailed a significant structural shift in its data center revenue reporting, introducing a new market segmentation that separates traditional hyperscale cloud providers from a rapidly expanding sector named ACIE, which stands for artificial intell…",
+      "url": "https://www.digitimes.com/news/a20260521VL221/nvidia-industrial-data-center-market-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-21T07:48:34Z"
+    },
+    {
+      "title": "South Korea’s KOSPI surges 8% as Samsung averts major chip factory strike",
+      "description": "Samsung's strike avoidance stabilizes chip supply, boosting AI infrastructure growth and positively impacting both tech equities and AI-related crypto tokens.\nThe post South Korea’s KOSPI surges 8% as Samsung averts major chip factory strike appeared first on…",
+      "url": "https://cryptobriefing.com/kospi-surges-samsung-averts-strike",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:37:06Z"
+    },
+    {
+      "title": "AMD Invests $10 Billion In Taiwan as Helios AI Racks With Venice EPYC & MI450X Head Toward Multi-Gigawatt Deployments",
+      "description": "AMD has made over $10b in investments to its strategic partners across Taiwan as it's inches away from deploying 6th Gen EPYC & MI450X inside its Helios AI racks. AMD Preps For The AI Supercycle With Multi-Billion Dollar Investments Aimed at Multi-GW Data Cen…",
+      "url": "https://wccftech.com/amd-injects-over-10b-in-fresh-investments-to-taiwanese-firms-as-it-preps-its-6th-gen-epyc-mi450x-for-multi-gw-ai-deployments",
+      "source": "Wccftech",
+      "publishedAt": "2026-05-21T07:35:03Z"
+    },
+    {
+      "title": "South Korea’s KOSPI surges 8% as Samsung averts strike, sending ripples through AI token markets",
+      "description": "Samsung's strike avoidance stabilizes chip supply, boosting AI infrastructure growth and positively impacting both tech equities and AI-related crypto tokens.\nThe post South Korea’s KOSPI surges 8% as Samsung averts strike, sending ripples through AI token ma…",
+      "url": "https://cryptobriefing.com/kospi-surges-samsung-strike-ai-tokens",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:30:19Z"
+    },
+    {
+      "title": "South Korean shares end 8% higher as Samsung hits record on pay deal",
+      "description": "South Korean shares surged 8% on Thursday, led by Samsung Electronics reaching a record high after a labor deal averted a strike, easing economic and chip supply concerns. The KOSPI index saw its biggest one-day gain since April 1. Positive sentiment was furt…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-end-8-higher-as-samsung-hits-record-on-pay-deal/articleshow/131242353.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-21T07:29:58Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast",
+      "description": "Nvidia's growth strategy could reshape global tech infrastructure, influencing AI, crypto markets, and competitive dynamics in the chip industry.\nThe post Nvidia CEO Jensen Huang assures investors on growth, $1T sales forecast appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/nvidia-huang-trillion-dollar-sales-forecast",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:25:14Z"
+    },
+    {
+      "title": "Best-selling RTX 5070 Ti MSI Vector 16 HX AI gaming laptop is now on sale at superb price",
+      "description": "Deal | The MSI Vector 16 HX AI gaming laptop has become one of the best value 1440p gaming laptops on the market. This is due to the laptop being sold at a nice discount at Walmart. The notebook packs an RTX 5070 Ti laptop GPU, a Core Ultra 7 255HX CPU, and a…",
+      "url": "https://www.notebookcheck.net/Best-selling-RTX-5070-Ti-MSI-Vector-16-HX-AI-gaming-laptop-is-now-on-sale-at-superb-price.1301149.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-21T07:25:00Z"
+    },
+    {
+      "title": "Macworld Podcast: AI updates; the MacBook Neo effect",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nThe MacBook Neo has had a profound effect on the laptop market. On this episode of the Macworld Podcast, we discuss the recent announcements by Microsoft and Google that are directly influenced by Apple’s most affordable laptop. \r\n\n\n\n\nThis is…",
+      "url": "https://www.macworld.com/article/3142558/ai-macbook-neo-effect-macworld-podcast.html",
+      "source": "Macworld",
+      "publishedAt": "2026-05-21T07:15:00Z"
+    },
+    {
+      "title": "Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concern - Reuters",
+      "description": "Samsung shares soar as strike averted, but bonuses of $416,000 for some stoke concernReuters Samsung Electronics shares rally 6% after union suspends strike following tentative wage dealCNBC Samsung strike on hold as workers push for AI bonusBBC Micron Stock …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183304815",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-21T07:12:47Z"
+    },
+    {
+      "title": "AMD says it will invest over $10 billion across Taiwan's AI ecosystem",
+      "description": "AMD plans to invest over $10 billion in Taiwan's AI ecosystem to enhance manufacturing and develop efficient AI technologies.",
+      "url": "https://www.thehindubusinessline.com/info-tech/amd-says-it-will-invest-over-10-billion-across-taiwans-ai-ecosystem/article71005117.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-21T07:12:12Z"
+    },
+    {
+      "title": "Iran rebuilding military industrial base faster than expected, already producing drones, according to US intel",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4423ea36-8d33-4695-b48c-c3bb78c68cf0",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T07:09:36Z"
+    },
+    {
+      "title": "Samsung Electronics averts 18-day strike with tentative wage deal",
+      "description": "The tentative wage deal averts immediate supply chain disruptions, stabilizing AI hardware costs and supporting decentralized GPU networks' growth.\nThe post Samsung Electronics averts 18-day strike with tentative wage deal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/samsung-averts-strike-tentative-wage-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-21T07:08:32Z"
+    },
+    {
+      "title": "CNBC Daily Open: Nvidia aims to have its 'five layer cake' of AI and eat it too",
+      "description": "Nividia CEO Jensen Huang tells CNBC the company is massively expanding its supply chain to meet AI demand.",
+      "url": "https://www.cnbc.com/2026/05/21/cnbc-daily-open-nvidia-earnings-ai-five-layer-cake.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-21T07:07:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables",
+      "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+      "xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain",
+      "Why Apple’s New MLX Framework is Changing the AI Game",
+      "(PR) AMD Announces Production Ramp of Next-Generation AMD EPYC Processor \"Venice\" on TSMC 2nm Process Technology"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Amd",
+      "summary": "Grouped stories where \"amd\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/amd-10bn-taiwan-ai-ecosystem-helios-ase-spil",
+        "https://www.techpowerup.com/349238/amd-announces-production-ramp-of-next-generation-amd-epyc-processor-venice-on-tsmc-2nm-process-technology",
+        "https://www.techpowerup.com/349237/amd-announces-more-than-usd-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183305603",
+        "https://thenextweb.com/news/china-rtx-5090d-v2-ban-jensen-huang-beijing-visit",
+        "https://thenextweb.com/news/nvidia-q1-earnings-beat-80bn-buyback-91bn-guide"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/samsung-26b-chip-employee-bonuses",
+        "https://cryptobriefing.com/samsung-shares-surge-strike-averted-bonuses-2",
+        "https://www.digitimes.com/news/a20260521VL213/taiwan-ic-manufacturing-tsmc-donald-trump-geopolitics.html"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macrumors.com/2026/05/21/macbook-pro-oled-display-production",
+        "https://cryptobriefing.com/samsung-averts-strike-tentative-wage-deal"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260521VL224/huawei-xfusion-revenue-supply-chain-china.html",
+        "https://www.geeky-gadgets.com/wwdc-2026-apple-ai-announcements",
+        "https://www.globenewswire.com/news-release/2026/05/21/3299043/28124/en/Single-Use-Bioreactors-Market-Research-Trends-and-Global-Forecasts-Report-2026-2035-Rising-Demand-for-Flexible-Cost-efficient-Biologics-Increased-Adoption-in-Biopharma-for-Antibodi.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables. Main topic cluster: Amd. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables. Main topic cluster: Amd. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables. Main topic cluster: Amd. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables. Main topic cluster: Amd. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD commits more than $10bn to Taiwan’s AI ecosystem with ASE, SPIL and Helios as the visible deliverables. Main topic cluster: Amd. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
