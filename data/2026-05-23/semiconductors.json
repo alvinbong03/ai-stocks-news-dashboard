@@ -1,0 +1,375 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-05-23",
+  "last_updated_utc": "2026-05-23T08:11:38.468Z",
+  "news": [
+    {
+      "title": "Every Samsung chip division worker will get average bonus of over $339,000",
+      "description": "Samsung Electronics recently averted a labor union strike in its semiconductor division by agreeing to distribute KRW 40 trillion (approximately $26.6 billion) in bonuses. The payout will vary depending on each employee’s position, but the average bonus per e…",
+      "url": "https://www.sammobile.com/news/every-samsung-chip-division-worker-will-get-average-bonus-of-over-339000",
+      "source": "SamMobile",
+      "publishedAt": "2026-05-22T08:06:55Z"
+    },
+    {
+      "title": "Galaxy S27 OLED Samples From Chinese Supplier Being Evaluated By Samsung, As A Lower Display Cost Becomes Point Of Attraction",
+      "description": "The base model of Samsung’s upcoming Galaxy S27 series was previously rumored to feature OLED panels from BOE as the Korean giant was looking to diversify its supply chain in the hopes of keeping its margins healthy and costs low. While it would seem unheard …",
+      "url": "https://wccftech.com/galaxy-s27-oled-from-chinese-supplier-evaluated-by-samsung-at-lower-price",
+      "source": "Wccftech",
+      "publishedAt": "2026-05-22T08:04:33Z"
+    },
+    {
+      "title": "Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic",
+      "description": "OpenAI, Google, and Anthropic fuel a global AI infrastructure boom! Billions are invested in data centers, chips, and cloud, reshaping tech and energy landscapes.",
+      "url": "https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T08:01:57Z"
+    },
+    {
+      "title": "Microsoft vs Nvidia: How Anthropic’s AI Infrastructure Shift Could Change the AI Industry",
+      "description": "Anthropic's shift to Microsoft's AI infrastructure signals a major industry change. Nvidia's dominance faces challenges amid rising costs and competition.",
+      "url": "https://www.c-sharpcorner.com/article/microsoft-vs-nvidia-how-anthropics-ai-infrastructure-shift-could-change-the-ai",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T08:00:37Z"
+    },
+    {
+      "title": "Biggest AI Announcements From the Most Explosive Day in AI History",
+      "description": "Explosive AI day! OpenAI, Nvidia, Google, and others unveiled groundbreaking AI advancements. The race for AI dominance is accelerating rapidly. Discover more!",
+      "url": "https://www.c-sharpcorner.com/article/biggest-ai-announcements-from-the-most-explosive-day-in-ai-history",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:57:26Z"
+    },
+    {
+      "title": "AMD's Lisa Su says memory is becoming another pressure point for AI chips",
+      "description": "AMD CEO Lisa Su said the company is satisfied with its current CoWoS supply from TSMC, while noting that memory has become another pressure point in the AI chip supply chain.",
+      "url": "https://www.digitimes.com/news/a20260522PD237/amd-lisa-su-cowos-packaging-memory-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T07:56:22Z"
+    },
+    {
+      "title": "Why Big Tech Companies Are Spending Billions on AI Data Centers",
+      "description": "Big Tech's AI arms race! Companies like OpenAI & Google invest billions in data centers, chips, & cloud to power AI's explosive growth. The future is AI-powered.",
+      "url": "https://www.c-sharpcorner.com/article/why-big-tech-companies-are-spending-billions-on-ai-data-centers",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:54:47Z"
+    },
+    {
+      "title": "AMD Updates \"Polaris\" and \"Vega\" GPU Drivers With Adrenalin Edition 26.5.2 Version",
+      "description": "AMD has released a new GPU driver update for its older \"Polaris\" and \"Vega\" GPU architectures, which are now almost a decade old. The latest Adrenalin Edition 26.5.2 drivers, released a few days ago, are specifically designed for these two architectures, whic…",
+      "url": "https://www.techpowerup.com/349266/amd-updates-polaris-and-vega-gpu-drivers-with-adrenalin-edition-26-5-2-version",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-22T07:44:17Z"
+    },
+    {
+      "title": "The 2 Hours That Changed AI Forever: OpenAI, Anthropic, Nvidia, and SpaceX",
+      "description": "Major AI announcements from OpenAI, Anthropic, Nvidia, & SpaceX reveal a shift towards infrastructure dominance. The AI race is accelerating rapidly!",
+      "url": "https://www.c-sharpcorner.com/article/the-2-hours-that-changed-ai-forever-openai-anthropic-nvidia-and-spacex",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:43:35Z"
+    },
+    {
+      "title": "TSMC Arizona production progresses well, says AMD CEO",
+      "description": "TSMC's Arizona expansion bolsters US chip manufacturing, enhancing supply chain resilience but posing cost challenges for AMD and the sector.\nThe post TSMC Arizona production progresses well, says AMD CEO appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tsmc-arizona-production-amd-ceo",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-22T07:43:25Z"
+    },
+    {
+      "title": "How Nvidia Became the Most Important Company in the AI Revolution",
+      "description": "Explore Nvidia's rise to AI dominance: from gaming GPUs to powering ChatGPT and beyond. Discover how its hardware and software ecosystem fuel the AI revolution.",
+      "url": "https://www.c-sharpcorner.com/article/how-nvidia-became-the-most-important-company-in-the-ai-revolution",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:41:09Z"
+    },
+    {
+      "title": "How AI Companies Are Reducing Dependence on Nvidia Hardware",
+      "description": "AI firms are diversifying beyond Nvidia due to rising costs & supply issues. Custom chips & multi-cloud strategies are key to reducing dependence. The future of AI hardware is changing!",
+      "url": "https://www.c-sharpcorner.com/article/how-ai-companies-are-reducing-dependence-on-nvidia-hardware",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:17:58Z"
+    },
+    {
+      "title": "Why Anthropic Is Investing Billions in Google Cloud and Microsoft AI Infrastructure",
+      "description": "Anthropic's multi-cloud AI strategy with Google Cloud & Microsoft Azure reduces Nvidia dependency, boosts scalability, and lowers costs. A future of flexible AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/why-anthropic-is-investing-billions-in-google-cloud-and-microsoft-ai-infrastruct",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:17:27Z"
+    },
+    {
+      "title": "Why Nvidia Continues to Dominate the AI Chip Market",
+      "description": "Explore Nvidia's dominance in the AI chip market. Learn about its powerful GPUs, CUDA ecosystem, and why tech giants rely on its AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/why-nvidia-continues-to-dominate-the-ai-chip-market",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:12:56Z"
+    },
+    {
+      "title": "Anthropic + Microsoft AI Chips: Why Anthropic Is Exploring Microsoft AI Chips Instead of Nvidia GPUs",
+      "description": "Anthropic explores Microsoft AI chips to challenge Nvidia's dominance. Discover how this shift impacts AI costs, innovation, and the future of AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/anthropic-microsoft-ai-chips-why-anthropic-is-exploring-microsoft-ai-chips-in",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:09:35Z"
+    },
+    {
+      "title": "AMD's Lisa Su says AI demand is 'absolutely real' as CPUs return to focus",
+      "description": "AMD CEO Lisa Su pushed back against concerns of an AI bubble on May 22, saying demand is \"absolutely real\" and that the industry remains in an early phase of growth.",
+      "url": "https://www.digitimes.com/news/a20260522PD236/amd-lisa-su-ai-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T07:05:20Z"
+    },
+    {
+      "title": "HP ZBook Power G8 (Refurb: S&D): 15.6\" FHD IPS, i7-11850H, NVIDIA T1200, 64GB DDR4, 256GB SSD, Win 11 Pro $489.99 (4 replies)",
+      "description": "SPECS:15.6\" Non-Touch Display (1920 x 1080 resolution)\n8-core Processor (2.50 GHz up to 4.8 GHz with Intel Turbo Boost Technology, 24 MB cache and 8 cores)\n256GB SSD, 64GB DDR4-3200 RAM\nNVIDIA T1",
+      "url": "https://slickdeals.net/f/19549410-hp-zbook-power-g8-refurb-s-d-15-6-fhd-ips-i7-11850h-nvidia-t1200-64gb-ddr4-256gb-ssd-win-11-pro-489-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-22T07:03:16Z"
+    },
+    {
+      "title": "China's tech grip forces India's renewable energy ambitions into structural dependence on Beijing's battery supply chains",
+      "description": "Reliance's pivot from domestic manufacturing to component procurement reveals the geopolitical constraints reshaping India's clean energy transition and raising questions about supply chain resilience in critical infrastructure.",
+      "url": "https://www.digitimes.com/news/a20260520VL210/reliance-renewable-energy-catl-battery-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T06:34:00Z"
+    },
+    {
+      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction - theverge.com",
+      "description": "Anker’s new earbuds are the first with its AI chip that boosts noise reductiontheverge.com Anker’s new earbuds have the best call quality I’ve ever heardtheverge.com Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI ChipEngadget Anker's New Libert…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183319302",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-22T06:32:22Z"
+    },
+    {
+      "title": "Balmer Lawrie Job Vacancy Recruitment 2026",
+      "description": "Job Vacancies Recruitment in Balmer Lawrie 2026\nBalmer Lawrie & Company Limited invites online applications in the prescribed format from experienced professionals, Indian Nationals, for recruitment to various Government Job Vacancies in various verticals and…",
+      "url": "https://www.sarkarinaukriblog.com/2026/05/balmer-lawrie-job-vacancy-recruitment.html",
+      "source": "Sarkarinaukriblog.com",
+      "publishedAt": "2026-05-22T06:28:51Z"
+    },
+    {
+      "title": "Anthropic reportedly eyes Microsoft Maia chips to cut Nvidia reliance",
+      "description": "Microsoft is in early discussions to provide AI servers powered by its in-house Maia chips to Anthropic, deepening ties between the two companies as cloud providers race to reduce dependence on Nvidia hardware and secure a stronger position in the AI infrastr…",
+      "url": "https://www.digitimes.com/news/a20260522VL211/anthropic-microsoft-chips-infrastructure-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T06:17:45Z"
+    },
+    {
+      "title": "Leaker indicates that a budget 8-core AMD Ryzen 7 7700X3D is in the works",
+      "description": "A reliable hardware leaker claims AMD is preparing a budget Ryzen 7 7700X3D, an 8-core Zen 4 gaming CPU with 3D V-Cache, 96MB of L3 cache, 120W power, and a rumored $300 price. If accurate, the chip could deliver near-Ryzen 7 7800X3D gaming performance at sli…",
+      "url": "https://www.notebookcheck.net/Leaker-indicates-that-a-budget-8-core-AMD-Ryzen-7-7700X3D-is-in-the-works.1302730.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-22T06:06:00Z"
+    },
+    {
+      "title": "Nvidia’s profit hits $58.3B as AI boom gathers more steam | Chattanooga Times Free Press",
+      "description": "Another huge quarterly profit announced by chipmaker Nvidia on Wednesday provided solid evidence that Silicon Valley’s artificial intelligence spending spree is still gathering steam.",
+      "url": "https://www.timesfreepress.com/news/2026/may/21/nvidias-profit-hits-583-billion-as-ai-boom",
+      "source": "Chattanooga Times Free Press",
+      "publishedAt": "2026-05-22T06:05:22Z"
+    },
+    {
+      "title": "Lisuan LX 7G100: China's fastest gaming GPU still falls far behind RTX 4060",
+      "description": "The first independent gaming tests of China’s Lisuan LX 7G100 have appeared online, offering a closer look at the country’s latest domestic gaming GPU.",
+      "url": "https://www.notebookcheck.net/Lisuan-LX-7G100-China-s-fastest-gaming-GPU-still-falls-far-behind-RTX-4060.1302773.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-22T06:05:00Z"
+    },
+    {
+      "title": "Nvidia earnings spark $350 billion market swing as AI bubble tests investor nerves",
+      "description": "Nvidia shares could move 6.5% after earnings, representing a $350 billion market value swing. Bitcoin fell below $78,000 as US traders sold off ahead of Nvidia’s Q1 report. The chipmaker delivered its 15th consecutive quarterly revenue beat with strong Q2 gui…",
+      "url": "https://www.naturalnews.com/2026-05-22-nvidia-earnings-spark-350b-market-swing.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-22T06:00:00Z"
+    },
+    {
+      "title": "Soundcore Liberty 5 Pro and Pro Max launched with on-device AI chip and AMOLED case display",
+      "description": "Anker's soundcore Liberty 5 Pro (€179.99) and Pro Max (€249.99) debut with the Thus AI chip, 8-mic noise cancellation, and Dolby Atmos. The Pro Max adds an AMOLED case display and offline AI voice recording.",
+      "url": "https://www.notebookcheck.net/Soundcore-Liberty-5-Pro-and-Pro-Max-launched-with-on-device-AI-chip-and-AMOLED-case-display.1290538.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-22T06:00:00Z"
+    },
+    {
+      "title": "$1349* | 13-Inch Apple MacBook Air Laptop with M5 chip (24GB RAM, 1TB SSD, Silver) & More at Amazon",
+      "description": "Amazon [amazon.com] has 13-Inch Apple MacBook Air Laptop with M5 chip (24GB RAM, 1TB SSD, Silver) for $1349.\nShipping is free.\n16GB Unified Memory | 1TB SSD StorageSky Blue [amazon.com] - $1149\nStarli",
+      "url": "https://slickdeals.net/f/19549305-1349-13-inch-apple-macbook-air-laptop-with-m5-chip-24gb-ram-1tb-ssd-silver-more-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-22T05:48:49Z"
+    },
+    {
+      "title": "Ugreen launches new Ryzen-powered NAS with 10Gbps and up to 64GB RAM",
+      "description": "Ugreen has released a new 4-bay NAS in China with the model number DXP4800 GT. Unlike earlier DXP4800 models, the new NAS pairs a black-and-gold chassis with an AMD Ryzen processor and support for high-speed U.2 SSDs",
+      "url": "https://www.notebookcheck.net/Ugreen-launches-new-Ryzen-powered-NAS-with-10Gbps-and-up-to-64GB-RAM.1302086.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-22T05:31:00Z"
+    },
+    {
+      "title": "M5 MacBook Pro is $1,499 for Memorial Day: Here’s Where",
+      "description": "If you’ve been holding out for a price break on the 14-inch MacBook Pro with Apple’s M5 chip, Memorial Day weekend 2026 is delivering. The M5 14-inch only launched in October 2025, and Apple refreshed its base config as recently as March 2026, so real discoun…",
+      "url": "https://the-gadgeteer.com/2026/05/22/m5-macbook-pro-sale-memorial-day-2026",
+      "source": "The Gadgeteer",
+      "publishedAt": "2026-05-22T05:30:06Z"
+    },
+    {
+      "title": "EverDisplay appoints former Hua Hong executive as chairman in board overhaul",
+      "description": "China AMOLED panel maker EverDisplay Optronics completed a board reshuffle and senior management overhaul after a board meeting on May 20, appointing a former Hua Hong Semiconductor executive as chairman and naming a new general manager as it builds a new lea…",
+      "url": "https://www.digitimes.com/news/a20260522PD234/amoled-panel-chairman-market-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T05:28:19Z"
+    },
+    {
+      "title": "Amkor expands Arizona semiconductor packaging campus with additional 67 acres",
+      "description": "Amkor Technology today reaffirmed its commitment to strengthening advanced semiconductor packaging and test capabilities in the US through continued investment in its Arizona manufacturing operations.",
+      "url": "https://www.digitimes.com/news/a20260522VL206/amkor-arizona-packaging-expansion-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T05:24:27Z"
+    },
+    {
+      "title": "‘My life has collapsed’: Migrant labour abuses alleged in World Cup sponsor’s supply chain",
+      "description": "A report claims vulnerable workers injured in Saudi Arabia – including one who says his legs were crushed – received no compensation",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/05/22/my-life-has-collapsed-migrant-labour-abuses-alleged-in-world-cup-sponsors-supply-chain",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-22T05:00:01Z"
+    },
+    {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "description": "Transformer training systems are built around dense linear algebra, yet a nontrivial fraction of end-to-end time is spent on surrounding memory-bound operators. Normalization, activations, residual updates, reductions, and related computations repeatedly move…",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "source": "Arxiv.org",
+      "publishedAt": "2026-05-22T04:54:33Z"
+    },
+    {
+      "title": "European Union to propose temporary exemption on China chips as automakers warn of production shutdowns",
+      "description": "The EU's temporary exemption highlights the delicate balance between enforcing sanctions and maintaining industrial stability amid supply chain dependencies.\nThe post European Union to propose temporary exemption on China chips as automakers warn of productio…",
+      "url": "https://cryptobriefing.com/eu-china-chips-exemption-sanctions",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-22T04:52:58Z"
+    },
+    {
+      "title": "AMD deepens China packaging alliance with TF-AMD expansion in Suzhou",
+      "description": "AMD CEO Lisa Su appeared in Suzhou on May 20 to attend the launch ceremony for the second-phase expansion of Suzhou TF-AMD Semiconductor Co. (also known as Suzhou Tongfu Advanced Microelectronics), underscoring AMD's growing focus on advanced packaging capaci…",
+      "url": "https://www.digitimes.com/news/a20260522VL210/amd-packaging-expansion-lisa-su-ceo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T04:47:23Z"
+    },
+    {
+      "title": "AIC expands analog ICs into fiber optics; orders reach 1Q27",
+      "description": "AIC's expansion from analog ICs into fiber-optic components and other products, and its inclusion in a major US cloud service provider's supply chain, extend order visibility to the first quarter of 2027, signaling global demand pressures and supply-chain imp…",
+      "url": "https://www.digitimes.com/news/a20260522PD215/aic-expansion-2026-2027-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T04:42:38Z"
+    },
+    {
+      "title": "Broadcom, Applied Materials, GlobalFoundries, Meta, and Synopsys back US$125M UCLA Semiconductor Hub",
+      "description": "Broadcom, Applied Materials, GlobalFoundries, Meta, and Synopsys are partnering with UCLA Samueli to create a US$125 million Semiconductor Hub to accelerate research and workforce development in AI-driven chip technologies, promising global impacts on computi…",
+      "url": "https://www.digitimes.com/news/a20260522PR202/broadcom-applied-materials-globalfoundries-meta-synopsys-california-semiconductors.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T04:41:09Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Every Samsung chip division worker will get average bonus of over $339,000",
+      "Galaxy S27 OLED Samples From Chinese Supplier Being Evaluated By Samsung, As A Lower Display Cost Becomes Point Of Attraction",
+      "Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic",
+      "Microsoft vs Nvidia: How Anthropic’s AI Infrastructure Shift Could Change the AI Industry",
+      "Biggest AI Announcements From the Most Explosive Day in AI History"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/microsoft-vs-nvidia-how-anthropics-ai-infrastructure-shift-could-change-the-ai",
+        "https://www.c-sharpcorner.com/article/biggest-ai-announcements-from-the-most-explosive-day-in-ai-history",
+        "https://www.c-sharpcorner.com/article/the-2-hours-that-changed-ai-forever-openai-anthropic-nvidia-and-spacex"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.sammobile.com/news/every-samsung-chip-division-worker-will-get-average-bonus-of-over-339000",
+        "https://www.digitimes.com/news/a20260522PD237/amd-lisa-su-cowos-packaging-memory-chips.html",
+        "https://cryptobriefing.com/tsmc-arizona-production-amd-ceo"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/galaxy-s27-oled-from-chinese-supplier-evaluated-by-samsung-at-lower-price",
+        "https://www.digitimes.com/news/a20260520VL210/reliance-renewable-energy-catl-battery-manufacturing.html",
+        "https://www.irishtimes.com/world/asia-pacific/2026/05/22/my-life-has-collapsed-migrant-labour-abuses-alleged-in-world-cup-sponsors-supply-chain"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic",
+        "https://www.c-sharpcorner.com/article/why-big-tech-companies-are-spending-billions-on-ai-data-centers",
+        "https://www.techpowerup.com/349266/amd-updates-polaris-and-vega-gpu-drivers-with-adrenalin-edition-26-5-2-version"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Every Samsung chip division worker will get average bonus of over $339,000. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Every Samsung chip division worker will get average bonus of over $339,000. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Every Samsung chip division worker will get average bonus of over $339,000. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Every Samsung chip division worker will get average bonus of over $339,000. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Every Samsung chip division worker will get average bonus of over $339,000. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

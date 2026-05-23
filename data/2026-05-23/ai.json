@@ -1,0 +1,312 @@
+{
+  "theme": "ai",
+  "date": "2026-05-23",
+  "last_updated_utc": "2026-05-23T08:11:21.038Z",
+  "news": [
+    {
+      "title": "LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization",
+      "description": "Learn what LLMs.txt is, how it works, how to optimize websites for ChatGPT, Gemini, Claude, and Perplexity, and whether LLMs.txt actually improves AI visibility in 2026. Includes examples, templates, best practices, architecture, FAQs, and implementation stra…",
+      "url": "https://www.c-sharpcorner.com/article/llms-txt-explained-the-ultimate-2026-guide-to-ai-search-geo-ai-crawlers-and",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T05:42:49Z"
+    },
+    {
+      "title": "Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic",
+      "description": "OpenAI, Google, and Anthropic fuel a global AI infrastructure boom! Billions are invested in data centers, chips, and cloud, reshaping tech and energy landscapes.",
+      "url": "https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T08:01:57Z"
+    },
+    {
+      "title": "The 2 Hours That Changed AI Forever: OpenAI, Anthropic, Nvidia, and SpaceX",
+      "description": "Major AI announcements from OpenAI, Anthropic, Nvidia, & SpaceX reveal a shift towards infrastructure dominance. The AI race is accelerating rapidly!",
+      "url": "https://www.c-sharpcorner.com/article/the-2-hours-that-changed-ai-forever-openai-anthropic-nvidia-and-spacex",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:43:35Z"
+    },
+    {
+      "title": "How Google Is Expanding Gemini AI to Compete With ChatGPT and Claude",
+      "description": "Google is aggressively expanding Gemini AI across its ecosystem to challenge ChatGPT and Claude. Integration into Search, Android, and Workspace gives it an edge.",
+      "url": "https://www.c-sharpcorner.com/article/how-google-is-expanding-gemini-ai-to-compete-with-chatgpt-and-claude",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:20:23Z"
+    },
+    {
+      "title": "Why Nvidia Continues to Dominate the AI Chip Market",
+      "description": "Explore Nvidia's dominance in the AI chip market. Learn about its powerful GPUs, CUDA ecosystem, and why tech giants rely on its AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/why-nvidia-continues-to-dominate-the-ai-chip-market",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:12:56Z"
+    },
+    {
+      "title": "Anthropic + Microsoft AI Chips: Why Anthropic Is Exploring Microsoft AI Chips Instead of Nvidia GPUs",
+      "description": "Anthropic explores Microsoft AI chips to challenge Nvidia's dominance. Discover how this shift impacts AI costs, innovation, and the future of AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/anthropic-microsoft-ai-chips-why-anthropic-is-exploring-microsoft-ai-chips-in",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:09:35Z"
+    },
+    {
+      "title": "Microsoft vs Nvidia: How Anthropic’s AI Infrastructure Shift Could Change the AI Industry",
+      "description": "Anthropic's shift to Microsoft's AI infrastructure signals a major industry change. Nvidia's dominance faces challenges amid rising costs and competition.",
+      "url": "https://www.c-sharpcorner.com/article/microsoft-vs-nvidia-how-anthropics-ai-infrastructure-shift-could-change-the-ai",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T08:00:37Z"
+    },
+    {
+      "title": "Why OpenAI, Anthropic, and SpaceX Are Racing Toward IPOs",
+      "description": "Explore the potential IPOs of AI giants like OpenAI, Anthropic, & SpaceX. Discover how AI is transforming tech, infrastructure, and the stock market.",
+      "url": "https://www.c-sharpcorner.com/article/why-openai-anthropic-and-spacex-are-racing-toward-ipos",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:56:21Z"
+    },
+    {
+      "title": "How Nvidia Became the Most Important Company in the AI Revolution",
+      "description": "Explore Nvidia's rise to AI dominance: from gaming GPUs to powering ChatGPT and beyond. Discover how its hardware and software ecosystem fuel the AI revolution.",
+      "url": "https://www.c-sharpcorner.com/article/how-nvidia-became-the-most-important-company-in-the-ai-revolution",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:41:09Z"
+    },
+    {
+      "title": "Why Anthropic Is Investing Billions in Google Cloud and Microsoft AI Infrastructure",
+      "description": "Anthropic's multi-cloud AI strategy with Google Cloud & Microsoft Azure reduces Nvidia dependency, boosts scalability, and lowers costs. A future of flexible AI infrastructure.",
+      "url": "https://www.c-sharpcorner.com/article/why-anthropic-is-investing-billions-in-google-cloud-and-microsoft-ai-infrastruct",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:17:27Z"
+    },
+    {
+      "title": "Anthropic reportedly eyes Microsoft Maia chips to cut Nvidia reliance",
+      "description": "Microsoft is in early discussions to provide AI servers powered by its in-house Maia chips to Anthropic, deepening ties between the two companies as cloud providers race to reduce dependence on Nvidia hardware and secure a stronger position in the AI infrastr…",
+      "url": "https://www.digitimes.com/news/a20260522VL211/anthropic-microsoft-chips-infrastructure-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-22T06:17:45Z"
+    },
+    {
+      "title": "Anthropic in talks to rent Microsoft AI chips amid rising demand for compute",
+      "description": "Anthropic's potential use of Microsoft's AI chips could enhance AI model efficiency and bolster Microsoft's position in the custom chip market.\nThe post Anthropic in talks to rent Microsoft AI chips amid rising demand for compute appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/anthropic-microsoft-maia-200-ai-chips",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-22T04:29:36Z"
+    },
+    {
+      "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
+      "description": "The European Union has made little progress in talks with Anthropic PBC to get its banks and companies tested for digital vulnerabilities that the new Mythos AI model uncovers, Spain’s economy minister said.",
+      "url": "https://financialpost.com/pmn/business-pmn/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-22T08:03:34Z"
+    },
+    {
+      "title": "How AI Companies Are Reducing Dependence on Nvidia Hardware",
+      "description": "AI firms are diversifying beyond Nvidia due to rising costs & supply issues. Custom chips & multi-cloud strategies are key to reducing dependence. The future of AI hardware is changing!",
+      "url": "https://www.c-sharpcorner.com/article/how-ai-companies-are-reducing-dependence-on-nvidia-hardware",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:17:58Z"
+    },
+    {
+      "title": "AI Regulation vs Innovation: Why Tech Companies Oppose Strict AI Rules",
+      "description": "Explore the AI regulation debate: tech companies vs. governments. Will strict rules stifle innovation, or are they crucial for safety and responsible AI?",
+      "url": "https://www.c-sharpcorner.com/article/ai-regulation-vs-innovation-why-tech-companies-oppose-strict-ai-rules",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:16:54Z"
+    },
+    {
+      "title": "Google vs OpenAI: Who Is Winning the AI Race in 2026?",
+      "description": "Google vs. OpenAI: A 2026 AI race analysis. Discover each company's strengths, strategies, and impact on users, developers, and the future of technology.",
+      "url": "https://www.c-sharpcorner.com/article/google-vs-openai-who-is-winning-the-ai-race-in-2026",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-22T07:10:13Z"
+    },
+    {
+      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction - theverge.com",
+      "description": "Anker’s new earbuds are the first with its AI chip that boosts noise reductiontheverge.com Anker’s new earbuds have the best call quality I’ve ever heardtheverge.com Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI ChipEngadget Anker's New Libert…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183319302",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-22T06:32:22Z"
+    },
+    {
+      "title": "How Google’s New Gemini Omni is Reshaping Multimodal AI",
+      "description": "Google’s latest updates to the Gemini AI ecosystem, as highlighted by AI Grid, emphasize advancements in multimodal functionality and task automation. A key feature of this release is Gemini Omni, which supports the creation and editing of videos, images and …",
+      "url": "https://www.geeky-gadgets.com/google-gemini-omni-spark-update",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-22T06:17:00Z"
+    },
+    {
+      "title": "Nvidia earnings spark $350 billion market swing as AI bubble tests investor nerves",
+      "description": "Nvidia shares could move 6.5% after earnings, representing a $350 billion market value swing. Bitcoin fell below $78,000 as US traders sold off ahead of Nvidia’s Q1 report. The chipmaker delivered its 15th consecutive quarterly revenue beat with strong Q2 gui…",
+      "url": "https://www.naturalnews.com/2026-05-22-nvidia-earnings-spark-350b-market-swing.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-22T06:00:00Z"
+    },
+    {
+      "title": "Soundcore Liberty 5 Pro and Pro Max launched with on-device AI chip and AMOLED case display",
+      "description": "Anker's soundcore Liberty 5 Pro (€179.99) and Pro Max (€249.99) debut with the Thus AI chip, 8-mic noise cancellation, and Dolby Atmos. The Pro Max adds an AMOLED case display and offline AI voice recording.",
+      "url": "https://www.notebookcheck.net/Soundcore-Liberty-5-Pro-and-Pro-Max-launched-with-on-device-AI-chip-and-AMOLED-case-display.1290538.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-22T06:00:00Z"
+    },
+    {
+      "title": "Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google",
+      "description": "Google has tripled Gemini usage limits for Antigravity, twice9to5Google Everything new in our Google AI subscriptions, fresh from I/O 2026blog.google Google Overhauls Top-Tier AI Plans, Drops Price and Adds YouTube PremiumPCMag Google Pitches Its AI Coding To…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183319162",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-22T05:52:27Z"
+    },
+    {
+      "title": "A history of the data center panic - part 1",
+      "description": "Pre-ChatGPT and the creation of common wisdom",
+      "url": "https://blog.andymasley.com/p/a-history-of-the-data-center-panic",
+      "source": "Andymasley.com",
+      "publishedAt": "2026-05-22T05:47:01Z"
+    },
+    {
+      "title": "Re: Coordinated Disclosure in the LLM Age",
+      "description": "Posted by ROI AI on May 21I understand the costs, but simply hanging all the dirty laundry out is counter productive.   Working a change in \npublic without going into sensitive details is reasonable, but pushing vuln reports to public is careless.  \n\nOne of t…",
+      "url": "https://seclists.org/oss-sec/2026/q2/661",
+      "source": "Seclists.org",
+      "publishedAt": "2026-05-22T05:41:39Z"
+    },
+    {
+      "title": "Pre-IPO, Anthropic Shows Up OpenAI with Surprise Profit Projection",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_880e4faf-4b16-46b3-8fcf-5e5fa974855c",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-22T04:01:00Z"
+    },
+    {
+      "title": "AIFreeForever GPT 5 chatbot – Free ChatGPT alternative with no login or signup required",
+      "description": "Free ChatGPT alternative with no login or signup required",
+      "url": "https://betalist.com/startups/aifreeforever-gpt-5-chatbot",
+      "source": "Betalist.com",
+      "publishedAt": "2026-05-22T04:00:00Z"
+    },
+    {
+      "title": "Anthropic Q2 revenue projected to surge to $10.9B, nearing profitability",
+      "description": "Anthropic's growth signals a shift in AI market dynamics, potentially reshaping competitive landscapes and influencing investor strategies.\nThe post Anthropic Q2 revenue projected to surge to $10.9B, nearing profitability appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-q2-revenue-projected-to-surge-to-109b-nearing-profitability",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-22T03:54:43Z"
+    },
+    {
+      "title": "Google has tripled Gemini usage limits for Antigravity, twice",
+      "description": "New usage limits have hit Google’s Gemini AI models and, following user concerns, Google has raised those limits specifically for Antigravity – twice.\n\n\n\n more…",
+      "url": "http://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice",
+      "source": "9to5google.com",
+      "publishedAt": "2026-05-22T03:40:00Z"
+    },
+    {
+      "title": "ChatGPT integrates with Microsoft PowerPoint for seamless presentation editing",
+      "description": "The integration enhances productivity and positions OpenAI as a key player in enterprise solutions, potentially boosting investor interest.\nThe post ChatGPT integrates with Microsoft PowerPoint for seamless presentation editing appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/chatgpt-powerpoint-integration-presentation-editing",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-22T03:38:29Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization",
+      "Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic",
+      "The 2 Hours That Changed AI Forever: OpenAI, Anthropic, Nvidia, and SpaceX",
+      "How Google Is Expanding Gemini AI to Compete With ChatGPT and Claude",
+      "Why Nvidia Continues to Dominate the AI Chip Market"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic",
+        "https://www.c-sharpcorner.com/article/the-2-hours-that-changed-ai-forever-openai-anthropic-nvidia-and-spacex",
+        "https://www.c-sharpcorner.com/article/anthropic-microsoft-ai-chips-why-anthropic-is-exploring-microsoft-ai-chips-in"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/why-nvidia-continues-to-dominate-the-ai-chip-market",
+        "https://www.c-sharpcorner.com/article/how-nvidia-became-the-most-important-company-in-the-ai-revolution",
+        "https://www.c-sharpcorner.com/article/how-ai-companies-are-reducing-dependence-on-nvidia-hardware"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/how-google-is-expanding-gemini-ai-to-compete-with-chatgpt-and-claude",
+        "https://www.c-sharpcorner.com/article/google-vs-openai-who-is-winning-the-ai-race-in-2026",
+        "https://www.geeky-gadgets.com/google-gemini-omni-spark-update"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/llms-txt-explained-the-ultimate-2026-guide-to-ai-search-geo-ai-crawlers-and",
+        "https://www.c-sharpcorner.com/article/ai-regulation-vs-innovation-why-tech-companies-oppose-strict-ai-rules",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183319302"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: LLMs.txt Explained: The Ultimate 2026 Guide to AI Search, GEO, AI Crawlers, and LLM Optimization. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
