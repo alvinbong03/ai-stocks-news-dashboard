@@ -1,0 +1,169 @@
+{
+  "theme": "ai",
+  "date": "2026-05-25",
+  "last_updated_utc": "2026-05-25T09:56:38.621Z",
+  "news": [
+    {
+      "title": "Why Andrej Karpathy Chose Anthropic Over OpenAI",
+      "description": "Andrej Karpathy, a prominent figure in artificial intelligence, has recently joined Anthropic, a company known for its focus on ethical AI development and safety. This move signals a shift in Karpathy’s career toward addressing the societal implications of AI…",
+      "url": "https://www.geeky-gadgets.com/ai-talent-war-anthropic-karpathy",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-24T06:00:00Z"
+    },
+    {
+      "title": "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
+      "description": "The trial pitting Elon Musk against OpenAI CEO Sam Altman made clear the two billionaires agreed on one thing: building artificial intelligence would require significant resources — and enormous amounts of money",
+      "url": "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-24T07:45:45Z"
+    },
+    {
+      "title": "Overcoming Situational Depression Via Generative AI Including Tapping Into ChatGPT",
+      "description": "Situational depression arises when an event or circumstance triggers you into a bout of depression. AI can help to overcome this. An AI Insider scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/05/24/overcoming-situational-depression-via-generative-ai-including-tapping-into-chatgpt",
+      "source": "Forbes",
+      "publishedAt": "2026-05-24T07:15:00Z"
+    },
+    {
+      "title": "Could anything but profit steer artificial intelligence?",
+      "description": "The trial pitting Elon Musk against OpenAI CEO Sam Altman made clear the two billionaires agreed on one thing: Building artificial intelligence would require significant resources — and enormous amounts of money.",
+      "url": "https://www.hurriyetdailynews.com/could-anything-but-profit-steer-artificial-intelligence-222471",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-24T09:43:31Z"
+    },
+    {
+      "title": "How to build UX using Claude Opus 4.5 + Ant Design – Use UXPin Merge!",
+      "description": "Use AI prompts, Ant Design components, and UXPin Merge to create production-ready, consistent UX prototypes and speed handoffs.\nThe post How to build UX using Claude Opus 4.5 + Ant Design – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio?p=59975",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-05-24T07:42:57Z"
+    },
+    {
+      "title": "Anthropic poised for massive $30 billion funding round",
+      "description": "Anthropic PBC is nearing the completion of a funding round that could exceed $30 billion, with a valuation projected to surpass $900 billion. This significant influx of capital is expected to bolster the company's advancements in AI development. The funding r…",
+      "url": "https://nextbigwhat.com/anthropic-poised-for-massive-30-billion-funding-round",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-05-24T05:25:06Z"
+    },
+    {
+      "title": "Zoom reaps $1 billion from Anthropic investment",
+      "description": "Zoom Communications Inc. has realized approximately $1 billion in profit from its early 2023 investment in AI startup Anthropic PBC. This significant financial gain underscores the growing value of AI technologies in the market. The success of this investment…",
+      "url": "https://nextbigwhat.com/zoom-reaps-1-billion-from-anthropic-investment",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-05-24T05:24:54Z"
+    },
+    {
+      "title": "Understanding RAG and LLM Workflow in AI with .NET 8",
+      "description": "Demystifying RAG and LLM workflows in AI for .NET 8 developers. Learn how AI retrieves data, generates responses, and why it sometimes errs. Includes a practical .NET 8 example!",
+      "url": "https://www.c-sharpcorner.com/article/understanding-rag-and-llm-workflow-in-ai-with-net-8",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-05-24T05:15:16Z"
+    },
+    {
+      "title": "Sam Altman under scrutiny as OpenAI heads for IPO",
+      "description": "ChatGPT group founder’s reputation has taken a battering in a courtroom battle that was ultimately decided on a technicality",
+      "url": "https://www.irishtimes.com/your-money/2026/05/24/sam-altman-under-scrutiny-as-openai-heads-for-ipo",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-24T05:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Why Andrej Karpathy Chose Anthropic Over OpenAI",
+      "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
+      "Overcoming Situational Depression Via Generative AI Including Tapping Into ChatGPT",
+      "Could anything but profit steer artificial intelligence?",
+      "How to build UX using Claude Opus 4.5 + Ant Design – Use UXPin Merge!"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/ai-talent-war-anthropic-karpathy",
+        "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
+        "https://www.hurriyetdailynews.com/could-anything-but-profit-steer-artificial-intelligence-222471"
+      ]
+    },
+    {
+      "title": "Significant",
+      "summary": "Grouped stories where \"significant\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nextbigwhat.com/anthropic-poised-for-massive-30-billion-funding-round",
+        "https://nextbigwhat.com/zoom-reaps-1-billion-from-anthropic-investment"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.forbes.com/sites/lanceeliot/2026/05/24/overcoming-situational-depression-via-generative-ai-including-tapping-into-chatgpt",
+        "https://www.uxpin.com/studio?p=59975",
+        "https://www.c-sharpcorner.com/article/understanding-rag-and-llm-workflow-in-ai-with-net-8"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Andrej Karpathy Chose Anthropic Over OpenAI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Andrej Karpathy Chose Anthropic Over OpenAI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Andrej Karpathy Chose Anthropic Over OpenAI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Andrej Karpathy Chose Anthropic Over OpenAI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Andrej Karpathy Chose Anthropic Over OpenAI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
