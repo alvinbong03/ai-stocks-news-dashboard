@@ -1,0 +1,154 @@
+{
+  "theme": "ai",
+  "date": "2026-05-26",
+  "last_updated_utc": "2026-05-26T09:43:06.175Z",
+  "news": [
+    {
+      "title": "Pope Leo XIV urges AI regulation for the common good",
+      "description": "Pope Leo XIV has called for robust regulation of artificial intelligence and for its developers to work for the common good rather than profit. He made the call in a sweeping manifesto on safeguarding humankind as the technology impacts everything from work t…",
+      "url": "https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da",
+      "source": "Associated Press",
+      "publishedAt": "2026-05-25T09:31:58Z"
+    },
+    {
+      "title": "An Anthropic employee built an AI wedding site. Then an angry emoji went viral.",
+      "description": "An Anthropic employee used Claude Code to turn 12 years of texts with his partner into an AI wedding recap. One emoji stat stole the show.",
+      "url": "https://www.businessinsider.com/anthropic-claude-code-texts-wedding-spotify-wrapped-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-25T09:30:01Z"
+    },
+    {
+      "title": "Pope Leo to weigh in on the perils and promises of artificial intelligence",
+      "description": "Pope Leo XIV is scheduled to release a major papal document on the perils and promises of Artificial Intelligence. The co-founder of Anthropic will be in Rome for the document's release.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+      "source": "NPR",
+      "publishedAt": "2026-05-25T09:32:58Z"
+    },
+    {
+      "title": "Pope Francis to weigh in on the perils and promises of artificial intelligence",
+      "description": "Pope Leo XIV is scheduled to release a major papal document on the perils and promises of Artificial Intelligence. The co-founder of Anthropic will be in Rome for the document's release.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-francis-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+      "source": "NPR",
+      "publishedAt": "2026-05-25T09:32:58Z"
+    },
+    {
+      "title": "Pope Leo XIV to weigh in on the perils and promises of artificial intelligence",
+      "description": "Pope Leo XIV is scheduled to release a major papal document on the perils and promises of Artificial Intelligence. The co-founder of Anthropic will be in Rome for the document's release.",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-xiv-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+      "source": "NPR",
+      "publishedAt": "2026-05-25T09:32:58Z"
+    },
+    {
+      "title": "How to build UX using Claude Opus 4.5 + Bootstrap – Use UXPin Merge!",
+      "description": "Build production-ready, component-driven UX faster by combining AI layout ideation, a reusable UI framework, and a Merge integration.\nThe post How to build UX using Claude Opus 4.5 + Bootstrap – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio?p=59980",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-05-25T08:39:57Z"
+    },
+    {
+      "title": "Bihar AI Summit 2026 Highlights Bihar’s Vision to Lead India’s Intelligence  Revolution Through Artificial Intelligence and Emerging Technologies",
+      "description": "Bihar AI Summit 2026 Highlights Bihar’s Vision to Lead India’s Intelligence  Revolution Through Artificial Intelligence and Emerging Technologiesbusinessnewsthisweek.com",
+      "url": "https://businessnewsthisweek.com/business/bihar-ai-summit-2026-highlights-bihars-vision-to-lead-indias-intelligence-revolution-through-artificial-intelligence-and-emerging-technologies",
+      "source": "Businessnewsthisweek.com",
+      "publishedAt": "2026-05-25T08:30:52Z"
+    },
+    {
+      "title": "Schneider Electric sees India data center business outpacing core growth on AI boom",
+      "description": "May 25 : Schneider Electric expects its India data center business to outpace broader operations in the country over the next four to five years, driven by surging demand for AI-ready infrastructure, according to a senior executive.Data centers currently acco…",
+      "url": "https://www.channelnewsasia.com/business/schneider-electric-sees-india-data-center-business-outpacing-core-growth-ai-boom-6140221",
+      "source": "CNA",
+      "publishedAt": "2026-05-25T07:59:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Pope Leo XIV urges AI regulation for the common good",
+      "An Anthropic employee built an AI wedding site. Then an angry emoji went viral.",
+      "Pope Leo to weigh in on the perils and promises of artificial intelligence",
+      "Pope Francis to weigh in on the perils and promises of artificial intelligence",
+      "Pope Leo XIV to weigh in on the perils and promises of artificial intelligence"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da",
+        "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+        "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-francis-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/anthropic-claude-code-texts-wedding-spotify-wrapped-2026-5",
+        "https://www.uxpin.com/studio?p=59980",
+        "https://www.channelnewsasia.com/business/schneider-electric-sees-india-data-center-business-outpacing-core-growth-ai-boom-6140221"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Pope Leo XIV urges AI regulation for the common good. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Pope Leo XIV urges AI regulation for the common good. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Pope Leo XIV urges AI regulation for the common good. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Pope Leo XIV urges AI regulation for the common good. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Pope Leo XIV urges AI regulation for the common good. Main topic cluster: Artificial. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
