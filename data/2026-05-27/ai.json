@@ -1,0 +1,198 @@
+{
+  "theme": "ai",
+  "date": "2026-05-27",
+  "last_updated_utc": "2026-05-27T09:37:01.345Z",
+  "news": [
+    {
+      "title": "Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update",
+      "description": "The latest review by World of AI examines key developments in the AI field for 2026, focusing on the leaked details of Anthropic’s Claude Opus 4.8 and OpenAI’s GPT-5.6. Claude Opus 4.8 reportedly enhances visual understanding and multi-step reasoning, but its…",
+      "url": "https://www.geeky-gadgets.com/latest-claude-opus-leak",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-26T09:17:00Z"
+    },
+    {
+      "title": "This AI shortcut combines GPT, Claude, and Gemini for 5 years at less than $2 per month",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR: Get 5 years of ChatOn AI Assistant Premium with GPT, Claude, Gemini, and more for $90.99 using code CHAT35 until May 31 (MSRP $199.99) and consolidate your AI tools into one app.\r\n\n\n\n\nManaging multiple AI subscriptions can get chaotic …",
+      "url": "https://www.macworld.com/article/3146159/this-ai-shortcut-combines-gpt-claude-and-gemini-for-5-years-at-less-than-2-per-month.html",
+      "source": "Macworld",
+      "publishedAt": "2026-05-26T08:00:00Z"
+    },
+    {
+      "title": "Presentation: Realtime and Batch Processing of GPU Workloads",
+      "description": "Joseph Stein discusses engineering an enterprise AI-as-a-Service platform within a private cloud data center. He explains how to maximize underutilized GPU pools via multi-namespace scheduling, leverage Valkey and Lua for atomic priority queuing and backpress…",
+      "url": "https://www.infoq.com/presentations/realtime-gpu-workloads",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-05-26T09:08:00Z"
+    },
+    {
+      "title": "Prompt Politeness Affects LLM Accuracy",
+      "description": "The wording of natural language prompts has been shown to influence the performance of large language models (LLMs), yet the role of politeness and tone remains underexplored. In this study, we investigate how varying levels of prompt politeness affect model …",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "source": "Arxiv.org",
+      "publishedAt": "2026-05-26T07:43:22Z"
+    },
+    {
+      "title": "Let there be limits—Pope Leo invokes scripture on AI's moral peril, Anthropic in tow",
+      "description": "Pope Leo XIV released a major document on May 25, warning about the dangers of AI, from autonomous weapons to what he claims is its relation to \"new forms of slavery\" arising from the industry. An unexpected attendee of the pope's Vatican event announcing the…",
+      "url": "https://www.digitimes.com/news/a20260526VL210/anthropic-claude.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-26T09:18:14Z"
+    },
+    {
+      "title": "Alchip: ASIC growth may outpace the broader GPU market",
+      "description": "For the past three years, graphics processing units, or GPUs, have dominated the artificial intelligence boom. But Johnny Shen, chairman of Alchip Technologies, believes the next phase of the market may belong to something more specialized.",
+      "url": "https://www.digitimes.com/news/a20260526PD231/alchip-asic-market-gpu-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-26T08:56:49Z"
+    },
+    {
+      "title": "How to build UX using Claude Opus 4.5 + Custom Design Systems – Use UXPin Merge!",
+      "description": "Pair AI-generated UX flows and copy with production components to build US-localized, testable interactive prototypes faster.\nThe post How to build UX using Claude Opus 4.5 + Custom Design Systems – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio?p=59990",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-05-26T08:30:17Z"
+    },
+    {
+      "title": "Anthropic co-founder warns of AI’s impact on jobs as Pope Leo XIV urges regulation",
+      "description": "Christoph Olah warned that AI could displace human labour on a “very large scale”, at the same time Pope Leo XIV urged stronger regulation of the rapidly advancing technology.",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-christoph-olah-ai-job-loss-pope-leo-xiv-10708351",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-26T07:38:55Z"
+    },
+    {
+      "title": "Show HN: AI agent token cost calculator for Codex and Claude Code loops",
+      "description": "Article URL: https://tinyopsstudio.com/ai-agent-token-cost-calculator\nComments URL: https://news.ycombinator.com/item?id=48276358\nPoints: 1\n# Comments: 0",
+      "url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+      "source": "Tinyopsstudio.com",
+      "publishedAt": "2026-05-26T07:34:28Z"
+    },
+    {
+      "title": "Liquid launches ChatGPT and Claude trading app with live market execution",
+      "description": "Co-Invest lets users fund accounts, analyze positions and execute trades across crypto, equities and prediction markets directly inside ChatGPT and Claude.",
+      "url": "https://cointelegraph.com/news/liquid-launches-chatgpt-and-claude-trading-app-with-live-market-execution",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-26T07:00:00Z"
+    },
+    {
+      "title": "Will Robotics Have A ChatGPT Moment?",
+      "description": "The idea of robots having a breakthrough “ChatGPT moment” is very possible, yet, real-world robotics progress is generally more incremental. While AI-powered robots are beginning to take on tasks in factories, warehouses, and even homes, the complexity of hum…",
+      "url": "https://www.ponoko.com/blog/ponoko/will-robotics-have-a-chatgpt-moment",
+      "source": "Ponoko.com",
+      "publishedAt": "2026-05-26T06:50:18Z"
+    },
+    {
+      "title": "(PR) Inno3D Announces NVIDIA MGX 4U GPU Server",
+      "description": "INNO3D proudly announces the launch of its latest enterprise solution, the INNO3D NVIDIA MGX 4U GPU Server with NVIDIA ConnectX 8 SuperNIC - AGS-4UMGX-R1, engineered to empower businesses and institutions with cutting-edge performance for the most demanding w…",
+      "url": "https://www.techpowerup.com/349344/inno3d-announces-nvidia-mgx-4u-gpu-server",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-26T06:20:24Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update",
+      "This AI shortcut combines GPT, Claude, and Gemini for 5 years at less than $2 per month",
+      "Presentation: Realtime and Batch Processing of GPU Workloads",
+      "Prompt Politeness Affects LLM Accuracy",
+      "Let there be limits—Pope Leo invokes scripture on AI's moral peril, Anthropic in tow"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/latest-claude-opus-leak",
+        "https://www.macworld.com/article/3146159/this-ai-shortcut-combines-gpt-claude-and-gemini-for-5-years-at-less-than-2-per-month.html",
+        "https://www.uxpin.com/studio?p=59990"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260526VL210/anthropic-claude.html",
+        "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-christoph-olah-ai-job-loss-pope-leo-xiv-10708351"
+      ]
+    },
+    {
+      "title": "Gpu",
+      "summary": "Grouped stories where \"gpu\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.infoq.com/presentations/realtime-gpu-workloads",
+        "https://www.digitimes.com/news/a20260526PD231/alchip-asic-market-gpu-growth.html",
+        "https://www.techpowerup.com/349344/inno3d-announces-nvidia-mgx-4u-gpu-server"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://arxiv.org/abs/2510.04950",
+        "https://www.ponoko.com/blog/ponoko/will-robotics-have-a-chatgpt-moment"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Opus 4.8 Leak: Everything We Know About the Next Big AI Update. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
