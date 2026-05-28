@@ -1,0 +1,145 @@
+{
+  "theme": "ai",
+  "date": "2026-05-28",
+  "last_updated_utc": "2026-05-28T09:53:36.598Z",
+  "news": [
+    {
+      "title": "Nvidia CEO brands Taiwan 'epicentre' of AI revolution",
+      "description": "Nvidia's chief executive has said the chip company plans to invest around $150 billion a year in Taiwan, terming it the \"epicentre\" of the AI revolution and predicting it will be the world's tech manufacturing hub for a long time.",
+      "url": "https://www.rte.ie/news/business/2026/0527/1575476-nvidia-taiwan",
+      "source": "RTE",
+      "publishedAt": "2026-05-27T09:52:34Z"
+    },
+    {
+      "title": "I tried using ChatGPT to recreate my 1990s childhood for my kid — and suddenly our weekend had no screens at all",
+      "description": "Chalk, bubbles and blanket forts turned our AI-planned weekend into pure nostalgia",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-tried-using-chatgpt-to-recreate-my-1990s-childhood-for-my-kid-and-suddenly-our-weekend-had-no-screens-at-all",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-27T09:36:52Z"
+    },
+    {
+      "title": "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
+      "description": "The nature of AI is unnatural. It's not intelligent. It's not human",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183427824",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-27T09:12:59Z"
+    },
+    {
+      "title": "I asked ChatGPT to compare Thailand, Vietnam and Bali for a ₹2 lakh vegetarian trip from Delhi. Here’s the AI verdict",
+      "description": "Could ₹2 lakh really buy a comfortable, and stress-free international holiday for a vegetarian Indian couple in 2026? ChatGPT compared Thailand, Vietnam, Bali, Malaysia and Sri Lanka — factoring in flights, Airbnbs, café culture, shopping, vegetarian food and…",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-compare-thailand-vietnam-and-bali-for-a-2-lakh-vegetarian-trip-from-delhi-here-s-the-ai-verdict-11779870941553.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-27T09:00:54Z"
+    },
+    {
+      "title": "OpenAI is building a new kind of ad machine. Early data suggests Google should worry.",
+      "description": "How ChatGPT ads turn conversations into buying intent, and why OpenAI may have a massive new revenue engine",
+      "url": "https://www.businessinsider.com/chatgpt-ads-big-threat-google-openai-similarweb-search-keywords-conversations-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-27T09:00:01Z"
+    },
+    {
+      "title": "(g+) Artificial Intelligence: China overhauls world's biggest surveillance network with advanced AI",
+      "description": "Local police forces are modernising the country's ageing infrastructure with more powerful tracking systems (KI, Datenschutz)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fartificial-intelligence-china-overhauls-world-s-biggest-surveillance-network-with-advanced-ai-2605-209072.html&referer=https%3A%2F%2Ft.co%2F8f7dfa5c47",
+      "source": "Golem.de",
+      "publishedAt": "2026-05-27T08:45:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia CEO brands Taiwan 'epicentre' of AI revolution",
+      "I tried using ChatGPT to recreate my 1990s childhood for my kid — and suddenly our weekend had no screens at all",
+      "Anthropic co-founder hallucinates ghost in the machine after hearing the Pope speak about AI",
+      "I asked ChatGPT to compare Thailand, Vietnam and Bali for a ₹2 lakh vegetarian trip from Delhi. Here’s the AI verdict",
+      "OpenAI is building a new kind of ad machine. Early data suggests Google should worry."
+    ],
+    "insights": [
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-tried-using-chatgpt-to-recreate-my-1990s-childhood-for-my-kid-and-suddenly-our-weekend-had-no-screens-at-all",
+        "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-compare-thailand-vietnam-and-bali-for-a-2-lakh-vegetarian-trip-from-delhi-here-s-the-ai-verdict-11779870941553.html",
+        "https://www.businessinsider.com/chatgpt-ads-big-threat-google-openai-similarweb-search-keywords-conversations-2026-5"
+      ]
+    },
+    {
+      "title": "World",
+      "summary": "Grouped stories where \"world\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.rte.ie/news/business/2026/0527/1575476-nvidia-taiwan",
+        "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fartificial-intelligence-china-overhauls-world-s-biggest-surveillance-network-with-advanced-ai-2605-209072.html&referer=https%3A%2F%2Ft.co%2F8f7dfa5c47"
+      ]
+    },
+    {
+      "title": "Machine",
+      "summary": "Grouped stories where \"machine\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183427824"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia CEO brands Taiwan 'epicentre' of AI revolution. Main topic cluster: Chatgpt. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia CEO brands Taiwan 'epicentre' of AI revolution. Main topic cluster: Chatgpt. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia CEO brands Taiwan 'epicentre' of AI revolution. Main topic cluster: Chatgpt. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia CEO brands Taiwan 'epicentre' of AI revolution. Main topic cluster: Chatgpt. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia CEO brands Taiwan 'epicentre' of AI revolution. Main topic cluster: Chatgpt. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
