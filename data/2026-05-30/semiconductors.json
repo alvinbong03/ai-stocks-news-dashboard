@@ -1,0 +1,444 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-05-30",
+  "last_updated_utc": "2026-05-30T08:22:55.223Z",
+  "news": [
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5687 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5687-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T08:22:01Z"
+    },
+    {
+      "title": "Petros CH32H417M Alef – A Raspberry Pi Pico-sized RISC-V USB 3.0 camera board",
+      "description": "XPU Labs' Petros CH32H417M Alef is a Raspberry Pi Pico-sized board based on the WCH CH32H417W RISC-V USB 3.0 microcontroller and taking a 2MP OV2640 camera module through the MCU's digital image interface (DVP). The board comes with 896KB SRAM and 960KB Flash…",
+      "url": "https://www.cnx-software.com/2026/05/29/petros-ch32h417m-alef-a-raspberry-pi-pico-sized-risc-v-usb-3-0-camera-board",
+      "source": "CNX Software",
+      "publishedAt": "2026-05-29T08:09:05Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5687 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5687-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T08:08:01Z"
+    },
+    {
+      "title": "Constant audio output changes lead to disruptive \"Select Audio Device\" OSD",
+      "description": "I'm on the latest Ubuntu 26.04 fully patched and having audio issues.\nWhat I think is going on is:\n<ol>\n<li>The snd_hda_intel driver seems to have a hard time reliably detecting my sound hardware\r\n\n</li>\n<li>This results in Linux thinking that my sound hardwa…",
+      "url": "https://askubuntu.com/questions/1567297/constant-audio-output-changes-lead-to-disruptive-select-audio-device-osd",
+      "source": "Askubuntu.com",
+      "publishedAt": "2026-05-29T08:07:15Z"
+    },
+    {
+      "title": "MediaTek Dimensity 9600 series targets flagship dominance with 2nm chips",
+      "description": "The upcoming processor lineup includes the company's first Pro-branded mobile chip, promising major performance gains",
+      "url": "https://www.intomobile.com/2026/05/29/mediatek-dimensity-9600-series-targets-flagship-dominance-with-2nm-chips",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-05-29T08:07:05Z"
+    },
+    {
+      "title": "South Korea’s SK Hynix enters exclusive $1 trillion club",
+      "description": "Chip maker becomes second South Korean company in history to hit milestone.",
+      "url": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-29T08:04:27Z"
+    },
+    {
+      "title": "How China's electronics giant Huawei plans to take on its rivals with a chip design breakthrough",
+      "description": "China's electronics giant Huawei is pioneering a new chip design approach. This method focuses on reducing signal transmission time instead of shrinking transistors.  The company aims to boost performance and energy efficiency.  This innovation could help Hua…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-chinas-electronics-giant-huawei-plans-to-take-on-its-rivals-with-a-chip-design-breakthrough/articleshow/131385175.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-29T08:03:44Z"
+    },
+    {
+      "title": "Which market will dominate the semiconductor industry in the next decade?",
+      "description": "While China is approaching self-sufficiency, America’s ambitions are restrained by structural limits and Europe’s regulatory clarity is undermined by strategic ambiguity. Bruno Sergi and Mark Esposito argue that the 2030s will not be won using export controls…",
+      "url": "https://blogs.lse.ac.uk/businessreview/2026/05/29/which-market-will-dominate-the-semiconductor-industry-in-the-next-decade",
+      "source": "Lse.ac.uk",
+      "publishedAt": "2026-05-29T08:01:13Z"
+    },
+    {
+      "title": "How America Lost Its Most Important Defense Tech Habit",
+      "description": "On April 15, technology podcaster Dwarkesh Patel published a two-hour interview with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the ser…",
+      "url": "https://warontherocks.com/cogs-of-war/how-america-lost-its-most-important-defense-tech-habit",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-05-29T08:00:59Z"
+    },
+    {
+      "title": "Get Apple power, Retina display, and 1TB storage with a near-mint MacBook Pro refurb for $430",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR: Grab a refurbished 2020 MacBook Pro for just $429.97 (reg. $1,999) through June 14 and score a powerful 13-inch laptop for a fraction of the usual price. Sale ends June 14.\r\n\n\n\n\nFinding a solid laptop at a reasonable price isn’t easy r…",
+      "url": "https://www.macworld.com/article/3147065/get-apple-power-retina-display-and-1tb-storage-with-a-near-mint-macbook-pro-refurb-for-430.html",
+      "source": "Macworld",
+      "publishedAt": "2026-05-29T08:00:00Z"
+    },
+    {
+      "title": "At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2c79737b-3bf6-4e94-9d69-26158862d60d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-29T07:55:27Z"
+    },
+    {
+      "title": "Dell ups revenue and profit forecast on booming AI sales",
+      "description": "Dell has boosted its annual revenue and profit expectations, showing data center expansion by clients is fueling demand for its AI-optimised servers that are powered by Nvidia's advanced chips.",
+      "url": "https://www.rte.ie/news/business/2026/0529/1575852-dell-results-ai",
+      "source": "RTE",
+      "publishedAt": "2026-05-29T07:48:25Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5751 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5751 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5751-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T07:42:01Z"
+    },
+    {
+      "title": "4th CISCE Expands International Participation and Global Reach",
+      "description": "Australia Named Guest Country of Honor for the First Time; French and Italian Regions Debut as International Guest Provinces BEIJING, May 29, 2026 /PRNewswire/ -- The 4th China International Supply Chain Expo (CISCE), scheduled to take place in Beijing from J…",
+      "url": "https://www.prnewswire.co.uk/news-releases/4th-cisce-expands-international-participation-and-global-reach-302785471.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-05-29T07:42:00Z"
+    },
+    {
+      "title": "Further Together: ZYT Officially Inaugurates European Headquarters, Launching Multiple Core Business Initiatives",
+      "description": "BRAUNSCHWEIG, Germany, May 29, 2026 (GLOBE NEWSWIRE) -- ZYT (ZHUOYU Technology) officially held the grand opening ceremony for its European headquarters today in Braunschweig, Germany. Mr. Wang Hao, Counsellor for the Economic and Commercial Office of the Con…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303414/0/en/Further-Together-ZYT-Officially-Inaugurates-European-Headquarters-Launching-Multiple-Core-Business-Initiatives.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-29T07:41:00Z"
+    },
+    {
+      "title": "Chinese power chipmaker China Resources Microelectronics targets AI servers with PLP packaging",
+      "description": "Generative AI, HPC, and large data centers are raising demand for chips with higher power efficiency, stronger thermal control, and denser packaging, making advanced packaging a more strategic part of the semiconductor supply chain. In China, panel-level pack…",
+      "url": "https://www.digitimes.com/news/a20260529PD219/china-resources-power-semiconductors-plp-packaging-hpc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:38:23Z"
+    },
+    {
+      "title": "Battery Energy Storage System Market: $198.8 Bn by 2031, Fueled by On-Grid Utility Storage and North America, Europe Investments | Says Mordor Intelligence",
+      "description": "BESS market growth is being strongly shaped by utility-scale procurement mandates across the US, China, and the EU, which are accelerating gigawatt-scale deployments, while grid-forming inverter requirements are unlocking new co-location value streams. In par…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303413/0/en/Battery-Energy-Storage-System-Market-198-8-Bn-by-2031-Fueled-by-On-Grid-Utility-Storage-and-North-America-Europe-Investments-Says-Mordor-Intelligence.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-29T07:36:00Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5751 for Windows 10 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5751 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5751-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T07:32:01Z"
+    },
+    {
+      "title": "4th CISCE Expands International Participation and Global Reach",
+      "description": "Australia Named Guest Country of Honor for the First Time; French and Italian Regions Debut as International Guest Provinces BEIJING, May 29, 2026 /PRNewswire/ -- The 4th China International Supply Chain Expo (CISCE), scheduled to take place in Beijing from J…",
+      "url": "https://www.prnewswire.com/news-releases/4th-cisce-expands-international-participation-and-global-reach-302785460.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-29T07:28:00Z"
+    },
+    {
+      "title": "(PR) Beelink Expands ME Pro Storage PC Lineup for the AI Era",
+      "description": "As data-intensive AI workloads reshape computing, demand for systems that combine performance with massive local storage is accelerating. Beelink, renowned for its innovations, has expanded the ME Pro series with new 2-bay and 4-bay models powered by Intel Co…",
+      "url": "https://www.techpowerup.com/349476/beelink-expands-me-pro-storage-pc-lineup-for-the-ai-era",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-29T07:26:12Z"
+    },
+    {
+      "title": "Airoha deepens focus on networking and wireless edge AI",
+      "description": "Airoha Technology is sharpening its strategy around global networking and edge AI chips, aiming to expand its customer base and strengthen its competitive moat. The MediaTek subsidiary is targeting infrastructure, audio, and positioning markets with products …",
+      "url": "https://www.digitimes.com/news/a20260529PD232/airoha-edge-ai-chips-wireless-infrastructure-development.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:25:35Z"
+    },
+    {
+      "title": "Foxconn to break ground on France chip-packaging plant, pursues Africa sovereign-AI",
+      "description": "Foxconn chairman Young Liu said the company is preparing to break ground on its advanced packaging plant in France while continuing to explore sovereign-AI opportunities in Africa, as the electronics manufacturer looks beyond AI servers for its next phase of …",
+      "url": "https://www.digitimes.com/news/a20260529PD244/foxconn-france-plant-africa-chairman.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:18:29Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5765 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5765 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5765-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T07:16:01Z"
+    },
+    {
+      "title": "u-blox ALMA-B2 Bluetooth 6.0 and 802.15.4 module features Nordic nRF54LM20 Edge AI wireless MCU",
+      "description": "u-blox has recently announced the ALMA-B2 standalone BLE 6.0 and 802.15.4 module family built around the Nordic Semi nRF54LM20 Cortex-M33 wireless microcontroller with a dedicated NPU for low-latency Edge AI applications. There are four specific product varia…",
+      "url": "https://www.cnx-software.com/2026/05/29/u-blox-alma-b2-bluetooth-6-0-and-802-15-4-module-features-nordic-nrf54lm20-edge-ai-wireless-mcu",
+      "source": "CNX Software",
+      "publishedAt": "2026-05-29T07:15:36Z"
+    },
+    {
+      "title": "Arm deepens ties with Taiwan chip designer QBit around edge AI and cybersecurity",
+      "description": "Arm EVP and Chief Commercial Officer Will Abbey visited QBit Semiconductor's Taiwan headquarters on May 27, signaling deeper cooperation that could shape future chip design for edge AI, physical AI, and quantum-computing cybersecurity. The visit highlights ho…",
+      "url": "https://www.digitimes.com/news/a20260529PD246/arm-taiwan-cybersecurity-investment-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:11:59Z"
+    },
+    {
+      "title": "AMD Ryzen 5 9600X 6-Core 12-Thread Unlocked Desktop Processor for $178 + free shipping",
+      "description": "Amazon offers the AMD Ryzen 5 9600X 6-Core 12-Thread Unlocked Desktop Processor for $178. That's the best price we could find by $11. Shipping is free. Buy Now at Amazon",
+      "url": "https://www.dealnews.com/AMD-Ryzen-5-9600-X-6-Core-12-Thread-Unlocked-Desktop-Processor-for-178-free-shipping/21836213.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-05-29T07:11:44Z"
+    },
+    {
+      "title": "MediaTek weighs price hikes, reaffirms TSMC partnership",
+      "description": "MediaTek held its shareholders' meeting on May 29. Addressing the company's future outlook, Chairman Ming-Kai Tsai said that while the mobile phone market in 2026 has performed below expectations due to a sharp rise in memory prices, MediaTek's market share i…",
+      "url": "https://www.digitimes.com/news/a20260529PD234/mediatek-tsmc-price-2026-outlook.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:10:25Z"
+    },
+    {
+      "title": "(PR) NVIDIA GeForce NOW Bundles 007 First Light With Ultimate Membership and Adds Eight More Games",
+      "description": "GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond's reimagined origin story from almost any device - no tux or preloads required. For a limited time, the game is included with the purchase of a 12…",
+      "url": "https://www.techpowerup.com/349475/nvidia-geforce-now-bundles-007-first-light-with-ultimate-membership-and-adds-eight-more-games",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-29T07:09:15Z"
+    },
+    {
+      "title": "BYD unveils 4nm autonomous driving chip, expanding 'God's Eye' intelligent driving strategy",
+      "description": "On May 28, BYD held a major technology launch event to strengthen consumer trust in intelligent driving and accelerate adoption of its three-tier \"God's Eye\" assisted-driving system — a push that comes as the world's largest EV maker faces mounting price comp…",
+      "url": "https://www.digitimes.com/news/a20260529VL205/byd-4nm-technology-launch-vehicle.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T07:06:25Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5765 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5765 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5765-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T07:06:01Z"
+    },
+    {
+      "title": "What’s in the container? Analyzing vulnerabilities, risks and protection with Kaspersky Container Security and the KIRA AI assistant",
+      "description": "What are the main risks for container environments: vulnerabilities, supply chain attacks, configuration errors; how to improve container security and how Kaspersky Container Security with the KIRA AI assistant can help.",
+      "url": "https://securelist.com/container-security-typical-issues/119974",
+      "source": "Securelist.com",
+      "publishedAt": "2026-05-29T07:00:51Z"
+    },
+    {
+      "title": "No impact of any future US chip tariffs on Taiwanese exports, says Vice Premier Cheng",
+      "description": "Vice Premier Cheng Li-chiun says Section 232 tariffs waived on auto parts, timber and aircraft components with retroactive effect from May 1",
+      "url": "https://www.thehindubusinessline.com/news/world/no-impact-of-any-future-us-chip-tariffs-on-taiwanese-exports-says-vice-premier-cheng/article71036004.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-29T07:00:10Z"
+    },
+    {
+      "title": "Nvidia has spent $6.5 billion in three months to replace copper with light inside AI data centres",
+      "description": "Nvidia has committed at least $6.5 billion to photonics companies since the beginning of March, making it the largest single investor in the technology that many in the industry believe will replace copper wiring as the backbone of AI data centres. The spendi…",
+      "url": "https://thenextweb.com/news/nvidia-photonics-investment-copper-bottleneck-ai-data-centre",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-29T06:59:16Z"
+    },
+    {
+      "title": "[Used] Apple iPad Pro 12.9 6th Gen M2 256GB Wi-Fi $999, with Magic Keyboard $1099 Delivered @ UN Tech",
+      "description": "This week have a deal on Apple Ipad Pro 12.9\" 6th gen 256GB Wifi M2 chip in Excellent grading Genuine Apple charger and cable is also included Use coupon code IPADM2E at checkout These units …",
+      "url": "https://www.ozbargain.com.au/node/961089",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-05-29T06:58:12Z"
+    },
+    {
+      "title": "NVIDIA TITAN RTX Graphics Driver 27.21.14.5765 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for NVIDIA TITAN RTX Graphics Driver version 27.21.14.5765 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the availa…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5765-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-05-29T06:55:01Z"
+    },
+    {
+      "title": "Redheads",
+      "description": "Contributed by Blaze TypeSource: olivergrace.com.au Redheads. License: All Rights Reserved. Oliver Grace has updated the identity of the Australian brand Redheads, drawing inspiration from its archives of the 1960s and 70s. The project simplifies the historic…",
+      "url": "https://fontsinuse.com/uses/77494/redheads",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-05-29T06:45:00Z"
+    },
+    {
+      "title": "(PR) MSI Launches PRO MAX 27P/TP All-in-One PCs with 120 Hz Display",
+      "description": "MSI, a global leader in business and productivity computing, is proud to introduce the PRO MAX 27P/TP All-in-One PCs, including the PRO MAX 27TP Z 8MG and PRO MAX 27P Z 8MG. The series has been honored with the Red Dot Award for its outstanding product design…",
+      "url": "https://www.techpowerup.com/349473/msi-launches-pro-max-27p-tp-all-in-one-pcs-with-120-hz-display",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-05-29T06:25:03Z"
+    },
+    {
+      "title": "$100 Steam Machine : How to Turn a Server Blade Into a Gaming Powerhouse",
+      "description": "The ASRock BC250, a server blade repurposed for gaming, features a PlayStation 5-based APU with a Zen 2 CPU and RDNA2 GPU. According to ETA Prime, the GPU is configured with 24 compute units (CUs) by default, but users have found ways to unlock all 40 CUs, si…",
+      "url": "https://www.geeky-gadgets.com/asrock-bc250-ps5-apu-diy-steam-machine",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-05-29T06:13:00Z"
+    },
+    {
+      "title": "Snowflake inks $6B agreement with AWS for AI chip supply",
+      "description": "Snowflake has finalized a significant five-year contract worth $6 billion with Amazon Web Services to acquire AI CPU chips. This deal highlights Amazon's expanding influence in the AI hardware market and signals increased competition for Nvidia. The partnersh…",
+      "url": "https://nextbigwhat.com/snowflake-inks-6b-agreement-with-aws-for-ai-chip-supply",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-05-29T06:03:09Z"
+    },
+    {
+      "title": "How Huawei Just Made Western Chip Technology Obsolete â and Why Sanctions Always Backfire",
+      "description": "Introduction: The Sanctions Trap For years, the West has believed it could cripple China’s semiconductor industry by blocking access to Dutch lithography machines and American chip design tools. The theory was simple: cut off the technology and China would re…",
+      "url": "https://www.naturalnews.com/2026-05-29-how-huawei-just-made-western-chip-technology-obsolete.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-29T06:00:00Z"
+    },
+    {
+      "title": "New Book Details Blueprint for Decentralized Manufacturing, Threatens Tech and Energy Giants",
+      "description": "A recently published book outlines a protocol for an autonomous, decentralized supply chain that industry analysts say directly challenges the centralized cloud and logistics monopolies held by major technology firms. The book titled “The Void Age Bootstrap P…",
+      "url": "https://www.naturalnews.com/2026-05-29-new-book-details-blueprint-for-decentralized-manufacturing.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-29T06:00:00Z"
+    },
+    {
+      "title": "Ice cream urgently recalled in 17 states over fears of contamination with a dangerous metal",
+      "description": "Straus Family Creamery, a well-known organic ice cream brand, has recalled six flavors (including Vanilla Bean, Strawberry and Mint Chip) due to possible stainless steel fragments. The recall affects pints and quarts sold in 17 states, with best-by dates in l…",
+      "url": "https://www.naturalnews.com/2026-05-29-ice-cream-recalled-17-states-contamination-metal.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-29T06:00:00Z"
+    },
+    {
+      "title": "From cloud to factory floor: KETI outlines four directions shaping next-gen physical AI chips",
+      "description": "As AI moves from cloud environments into factories and physical systems, semiconductor design is being reshaped by new demands in speed, energy efficiency, and on-site learning. At a recent system-semiconductor seminar in South Korea, Seong-jun Jang, a resear…",
+      "url": "https://www.digitimes.com/news/a20260529PD227/ai-chip-data-design-industrial.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-05-29T05:59:05Z"
+    },
+    {
+      "title": "Northwestern Football Preview 2026: The Wildcats Look the Part",
+      "description": "Northwestern has a beautiful stadium, more talent under David Braun, and Chip Kelly running the offense. Now the Wildcats have to turn it all into wins.",
+      "url": "https://collegefootballnews.com/college-football/northwestern-football-preview-2026",
+      "source": "College Football News",
+      "publishedAt": "2026-05-29T05:54:03Z"
+    },
+    {
+      "title": "$519.99* | 11\" 128GB Apple iPad Air M4 Chip Wi-Fi Tablet (2026, Various) at Amazon (0 replies)",
+      "description": "Amazon [amazon.com] has 11\" 128GB Apple iPad Air M4 Chip Wi-Fi Tablet (2026, Various) for $519.99.\nShipping is free.128GBBlue [amazon.com] - $519.99\nPurple [amazon.com] - $519.99\nSpace Gray [amaz",
+      "url": "https://slickdeals.net/f/19572591-519-99-11-128gb-apple-ipad-air-m4-chip-wi-fi-tablet-2026-various-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-05-29T05:53:30Z"
+    },
+    {
+      "title": "Foxconn has immense confidence in growth momentum due to AI, chairman says",
+      "description": "Taiwan's Foxconn sees strong growth driven by AI demand. Chairman Young Liu is optimistic about the second half of the year. Cloud providers' massive AI investments are fueling this confidence. Foxconn, a key supplier for Nvidia and Apple, reported a profit r…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/foxconn-has-immense-confidence-in-growth-momentum-due-to-ai-chairman-says/articleshow/131383020.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-29T05:49:48Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit",
+      "Petros CH32H417M Alef – A Raspberry Pi Pico-sized RISC-V USB 3.0 camera board",
+      "NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 Vibranium 64-bit",
+      "Constant audio output changes lead to disruptive \"Select Audio Device\" OSD",
+      "MediaTek Dimensity 9600 series targets flagship dominance with 2nm chips"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5687-for-Windows-10-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-27-21-14-5687-for-Windows-10-Vibranium-64-bit.shtml",
+        "https://warontherocks.com/cogs-of-war/how-america-lost-its-most-important-defense-tech-habit"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.intomobile.com/2026/05/29/mediatek-dimensity-9600-series-targets-flagship-dominance-with-2nm-chips",
+        "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club",
+        "https://economictimes.indiatimes.com/industry/cons-products/electronics/how-chinas-electronics-giant-huawei-plans-to-take-on-its-rivals-with-a-chip-design-breakthrough/articleshow/131385175.cms"
+      ]
+    },
+    {
+      "title": "System",
+      "summary": "Grouped stories where \"system\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/05/29/3303413/0/en/Battery-Energy-Storage-System-Market-198-8-Bn-by-2031-Fueled-by-On-Grid-Utility-Storage-and-North-America-Europe-Investments-Says-Mordor-Intelligence.html",
+        "https://www.digitimes.com/news/a20260529PD227/ai-chip-data-design-industrial.html"
+      ]
+    },
+    {
+      "title": "Driver",
+      "summary": "Grouped stories where \"driver\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://askubuntu.com/questions/1567297/constant-audio-output-changes-lead-to-disruptive-select-audio-device-osd"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnx-software.com/2026/05/29/petros-ch32h417m-alef-a-raspberry-pi-pico-sized-risc-v-usb-3-0-camera-board",
+        "https://blogs.lse.ac.uk/businessreview/2026/05/29/which-market-will-dominate-the-semiconductor-industry-in-the-next-decade",
+        "https://www.macworld.com/article/3147065/get-apple-power-retina-display-and-1tb-storage-with-a-near-mint-macbook-pro-refurb-for-430.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: NVIDIA TITAN RTX Graphics Driver 27.21.14.5687 for Windows 10 64-bit. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
