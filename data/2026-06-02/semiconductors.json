@@ -1,0 +1,327 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-02",
+  "last_updated_utc": "2026-06-02T10:14:30.768Z",
+  "news": [
+    {
+      "title": "NVDA Stock Set For Strong Open Today: CEO Unveils First PC Chips At Computex 2026 - Yahoo Finance",
+      "description": "NVDA Stock Set For Strong Open Today: CEO Unveils First PC Chips At Computex 2026Yahoo Finance Microsoft debuts Nvidia-powered Microsoft Surface Ultra laptopAxios Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rallyCNBC NVIDIA…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183535988",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T10:12:52Z"
+    },
+    {
+      "title": "Airoha Technology Partners with E Ink for Global Debut of 4.2-Inch Ripple™ ESL at Computex 2026",
+      "description": "ZHUBEI CITY, June 1, 2026 /PRNewswire/ -- Airoha Technology today announced its inaugural exhibition at the ePaper Pavilion during Computex 2026. Leveraging 20 years of deep technological expertise in wireless transmission, Airoha's Bluetooth® audio chips hav…",
+      "url": "https://www.prnewswire.com/news-releases/airoha-technology-partners-with-e-ink-for-global-debut-of-4-2-inch-ripple-esl-at-computex-2026--302786961.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-01T10:01:00Z"
+    },
+    {
+      "title": "Containers on fire: from container escapes to supply chain attacks",
+      "description": "We break down the primary attack vectors in containerized environments: exposed secrets, privilege misconfigurations, API compromise, and supply chain attacks.",
+      "url": "https://securelist.com/container-attack-vectors/120010",
+      "source": "Securelist.com",
+      "publishedAt": "2026-06-01T10:00:06Z"
+    },
+    {
+      "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' at Computex Taipei, unveils new laptop processor",
+      "description": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-ceo-calls-ai-a-profit-generator-at-computex-taipei-unveils-new-laptop-processor-100000230.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' in keynote speech at Computex Taipei",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a83dd72-d0a3-4c07-97cf-2b2fcf2dc12d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "Tech stocks today: Anthropic files for IPO before OpenAI, Nvidia buoys tech sector",
+      "description": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-anthropic-files-for-ipo-before-openai-nvidia-buoys-tech-sector-100000979.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally",
+      "description": "Shares in software compares surged ahead of Monday's opening bell.",
+      "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-01T09:58:23Z"
+    },
+    {
+      "title": "NBD-VRAM Provides Swap Space On Your NVIDIA GeForce GPUs",
+      "description": "An open-source developer has created NBD-VRAM as a way to create swap space on your consumer NVIDIA GPU's video memory under Linux...",
+      "url": "https://www.phoronix.com/news/NVIDIA-NBD-VRAM",
+      "source": "Phoronix",
+      "publishedAt": "2026-06-01T09:57:44Z"
+    },
+    {
+      "title": "NVIDIA's Isaac Gr00t platform gives researchers access to frontier humanoid robotics",
+      "description": "NVIDIA announced the new Isaac Gr00t reference design humanoid robot platform that combines humanoid robot, five-fingered hands and NVIDIA Jetson Thor compute.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183534776",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T09:53:17Z"
+    },
+    {
+      "title": "Nvidia Unveils Its New RTX Spark Chip For Windows Laptops And Desktops - Forbes",
+      "description": "Nvidia Unveils Its New RTX Spark Chip For Windows Laptops And DesktopsForbes NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AINVIDIA Newsroom Nvidia Unveils New AI Chip For Personal ComputersYahoo Nvidia jumps into PCs with new Arm-based ch…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183534502",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T09:52:33Z"
+    },
+    {
+      "title": "Cadence Design Systems launches ChipStack AI Super Agent with Nvidia at Computex 2026",
+      "description": "Cadence's AI-driven chip design innovation could drastically reduce development time, reshaping industry standards and competitive dynamics.\nThe post Cadence Design Systems launches ChipStack AI Super Agent with Nvidia at Computex 2026 appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/cadence-chipstack-ai-super-agent-nvidia-computex",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T09:52:06Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4080 Laptop Graphics Driver 32.0.15.9571 for Windows 11",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4080 Laptop Graphics Driver version 32.0.15.9571.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4080-Laptop-Graphics-Driver-32-0-15-9571-for-Windows-11.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-01T09:52:01Z"
+    },
+    {
+      "title": "Lewis Hart: Commodity markets are complex due to financialization, traders act as supply chain managers, and flexibility in finance is key to managing price volatility | Odd Lots",
+      "description": "Commodity finance's role in global trade hinges on capital efficiency and managing price risks through futures markets.\nThe post Lewis Hart: Commodity markets are complex due to financialization, traders act as supply chain managers, and flexibility in financ…",
+      "url": "https://cryptobriefing.com/lewis-hart-commodity-markets-are-complex-due-to-financialization-traders-act-as-supply-chain-managers-and-flexibility-in-finance-is-key-to-managing-price-volatility-odd-lots",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T09:51:30Z"
+    },
+    {
+      "title": "Wall Street futures gain as AI advances overshadow US-Iran tensions",
+      "description": "June 1 : U.S. stock index futures climbed on Monday, starting June on a firm footing, as the latest AI push from Nvidia and Microsoft lifted shares, even as uncertainty over the Middle East war lingered.Nvidia rose 1.6 per cent in premarket trading after the …",
+      "url": "https://www.channelnewsasia.com/business/wall-street-futures-gain-ai-advances-overshadow-us-iran-tensions-6153876",
+      "source": "CNA",
+      "publishedAt": "2026-06-01T09:50:09Z"
+    },
+    {
+      "title": "Wall Street futures gain as AI advances overshadow US-Iran tensions",
+      "description": "U.S. stock index futures climbed on Monday, starting June on a firm footing, as the latest AI push from Nvidia and Microsoft ‌lifted shares, even as...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-gain-ai-095009105.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T09:50:09Z"
+    },
+    {
+      "title": "UGREEN DXP4800 Pro review: This is the best 4-bay NAS you can get in 2026",
+      "description": "The DXP4800 Pro is a mid-cycle refresh of the DXP4800 Plus. It shares the same design and has a similar feature-set, but you get a faster Intel platform, better memory bandwidth, AV1 decode, and faster M.2 storage. Combine all of that, and the DXP4800 Pro bec…",
+      "url": "https://www.androidcentral.com/accessories/smart-home/ugreen-dxp4800-pro-review",
+      "source": "Android Central",
+      "publishedAt": "2026-06-01T09:49:57Z"
+    },
+    {
+      "title": "India, Australia underscore maritime freedom and supply chain security in high-level talks",
+      "description": "The two ministers affirmed the importance of enhancing cooperation with regional partners to help maintain a free, open, peaceful, stable and prosperous Indo-Pacific",
+      "url": "https://www.thehindubusinessline.com/news/world/india-australia-underscore-maritime-freedom-and-supply-chain-security-in-high-level-talks/article71047818.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-01T09:46:23Z"
+    },
+    {
+      "title": "Himax Latest T2000 Tcon to Power the Evolution of E Ink Next-Generation Color ePaper into Dynamic Content Applications",
+      "description": "TAINAN, Taiwan, June 01, 2026 (GLOBE NEWSWIRE) -- Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced that its new T2000 Color ePaper …",
+      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304118/8267/en/Himax-Latest-T2000-Tcon-to-Power-the-Evolution-of-E-Ink-Next-Generation-Color-ePaper-into-Dynamic-Content-Applications.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-01T09:45:00Z"
+    },
+    {
+      "title": "Qualcomm responds to NVIDIA's new RTX Spark Windows on Arm chips: \"Welcome to the family. We're excited\"",
+      "description": "Qualcomm SVP Kedar Kondap has shared his thoughts on NVIDIA entering the PC space, and he reckons it's good news for everybody.",
+      "url": "https://www.windowscentral.com/hardware/laptops/qualcomm-responds-to-nvidias-new-rtx-spark-windows-on-arm-chips-welcome-to-the-family-were-excited",
+      "source": "Windows Central",
+      "publishedAt": "2026-06-01T09:43:20Z"
+    },
+    {
+      "title": "TSMC Expands Use of NVIDIA AI Technologies Across Chip Production Operations",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aefadeb7-9d13-47b2-bfa1-b7fef472ef93",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T09:41:31Z"
+    },
+    {
+      "title": "Movist Pro 2.15.5",
+      "description": "Movist is a movie player based on QuickTime and FFmpeg. Features: Supports QuickTime and FFmpeg Customizable high quality caption Supports smi, srt format captions Playlist support Media playback control Full screen control panel Simple user interface Univers…",
+      "url": "https://post.rlsbb.to/movist-pro-2-15-5",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-06-01T09:41:07Z"
+    },
+    {
+      "title": "Video Converter X2 1.3.8",
+      "description": "Video Converter X2 is a full-featured format conversion software that supports converting almost all multimedia file formats, including video MP4, AVI, 3GP, WMV, MKV, VOB, MOV, FLV; audio MP3, AC3, FLAC, AAC, M4A, AIFF, WAV, etc.Video Converter X2 has built-i…",
+      "url": "https://post.rlsbb.to/video-converter-x2-1-3-8",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-06-01T09:41:07Z"
+    },
+    {
+      "title": "ASRock’s New Radeon RX 9070 GRE Steel Legend Dark Ditches The White Theme, Pushes Boost Clock To 2920 MHz",
+      "description": "The all-new RX 9070 GRE is here, and one of the first to launch a custom edition is ASRock, which unveiled its latest Steel Legend design. ASRock Launches Radeon RX 9070 GRE Steel Legend Dark 12 GB OC GPU, Featuring Up To 2920 MHz of Boost Clock After AMD ann…",
+      "url": "https://wccftech.com/asrock-launches-radeon-rx-9070-gre-steel-legend-dark",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-01T09:40:51Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4070 Laptop Graphics Driver 32.0.15.9571 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4070 Laptop Graphics Driver version 32.0.15.9571.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4070-Laptop-Graphics-Driver-32-0-15-9571-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-01T09:40:01Z"
+    },
+    {
+      "title": "Hard Disk Sentinel Pro 6.40.2 Beta",
+      "description": "Description: Hard Disk Sentinel Professional (HDSentinel) is a hard disk monitoring software with highest possible support of HDD/SSD/SSHD (hybrid) drives. Its goal is to find, test, diagnose and repair hard disk drive problems, report and display SSD and HDD…",
+      "url": "https://post.rlsbb.to/hard-disk-sentinel-pro-6-40-2-beta",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-06-01T09:39:21Z"
+    },
+    {
+      "title": "Photo Organizer AI Premium 2.7.5",
+      "description": "Description: Organize Scattered Photos into Proper Event Albums. Tame the chaos in your directories. Photo Organizer AI automatically clusters random, unstructured files into clean, chronologically matched event albums while sorting out duplicates and low-qua…",
+      "url": "https://post.rlsbb.to/photo-organizer-ai-premium-2-7-5",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-06-01T09:39:21Z"
+    },
+    {
+      "title": "Adobe Lightroom Classic 2026 v15.3.1",
+      "description": "Description: Edit and organize your photos with the app that’s optimized for desktop. Lightroom Classic gives you powerful one-click tools and advanced controls to make your photos look amazing. Easily organize all your photos on your desktop, and share in a …",
+      "url": "https://post.rlsbb.to/adobe-lightroom-classic-2026-v15-3-1",
+      "source": "Rlsbb.to",
+      "publishedAt": "2026-06-01T09:39:21Z"
+    },
+    {
+      "title": "US & Iran Trade Deal Drafts; Oil Rises From Six-Week Low",
+      "description": "Today's top stories, with context, in just 15 minutes. On today's podcast:1) The US and Iran traded messages over the weekend seeking changes to a draft agreement that would extend a ceasefire and open the Strait of Hormuz, but it was unclear whether the side…",
+      "url": "https://omny.fm/shows/bloomberg-daybreak/us-iran-trade-deal-drafts-oil-rises-from-six-week-low",
+      "source": "Omny.fm",
+      "publishedAt": "2026-06-01T09:37:35Z"
+    },
+    {
+      "title": "NVIDIA Announces RTX Spark Superchip For Laptops & Desktops",
+      "description": "Jensen Huang used his Computex keynote today to formally announce RTX Spark as their new superchip for compact desktop PCs and laptops...",
+      "url": "https://www.phoronix.com/news/NVIDIA-RTX-Spark",
+      "source": "Phoronix",
+      "publishedAt": "2026-06-01T09:33:55Z"
+    },
+    {
+      "title": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals — broader training data set and second-gen transformer architecture c",
+      "description": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better output image quality.\n                                          …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183533798",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T09:32:58Z"
+    },
+    {
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "description": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is advertised on GitHub and npm as a remote …",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-01T09:31:15Z"
+    },
+    {
+      "title": "Beats Fit Pro True Wireless Noise-Cancelling Earbuds + free shipping w/ Prime",
+      "description": "At Woot, get the Beats Fit Pro True Wireless Noise-Cancelling Earbuds for $90. It's the best-ever price we've seen for these earbuds. Shipping is free for Prime members. Deal ends June 26. Shop Now at Woot! An Amazon Company\r\n Features\r\n <ul> <li>Active Noise…",
+      "url": "https://www.dealnews.com/Beats-Fit-Pro-True-Wireless-Noise-Cancelling-Earbuds-free-shipping-w-Prime/21836704.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-06-01T09:30:13Z"
+    },
+    {
+      "title": "DLSS 4.5 Ray Reconstruction update arrives in August for better ray tracing visuals — broader training data set and second-gen transformer architecture combine for improved image quality",
+      "description": "At Computex 2026, Nvidia announced DLSS 4.5 Ray Reconstruction, an updated version of its neural RT denoiser with a second-gen transformer architecture and a broader training data set for better output image quality.",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/dlss-4-5-ray-reconstruction-update-arrives-in-august-for-better-ray-tracing-visuals-broader-training-data-set-and-second-gen-transformer-architecture-combine-for-improved-image-quality",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-06-01T09:30:00Z"
+    },
+    {
+      "title": "12-Pack 4-Oz Lenny & Larry's The Complete Cookie (Chocolate Chip) $8.33 + Free Shipping w/ Prime or on $35+",
+      "description": "Amazon [amazon.com] has *12-Pack 4-Oz Lenny & Larry's The Complete Cookie (Chocolate Chip)* \nfor *$8.33 *when you check out vis Subscribe and Save and clip the 35% off coupon on the product page....",
+      "url": "https://slickdeals.net/f/19581852-12-pack-4-oz-lenny-larry-s-the-complete-cookie-chocolate-chip-8-33-free-shipping-w-prime-or-on-35",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-01T09:29:10Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "NVDA stock set for strong open today",
+      "Airoha technology partners with E Ink",
+      "Containers on fire",
+      "Tech stocks today: Nvidia CEO calls AI 'a profit generator'",
+      "Arm, IBM and HP soar as Nvidia chip reinvention extends software rally"
+    ],
+    "insights": [
+      "Nvidia's new RTX Spark chip for laptops and desktops",
+      "Intel's new platform for AI-driven chip design",
+      "Qualcomm welcomes NVIDIA's entry into PC space"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Technology Stocks Today",
+      "summary": "This week, tech investors will be focusing on Nvidia's announcement about its new RTX Spark chip for Windows laptops and desktops, along with Intel's new platform for AI-driven chip design.",
+      "article_urls": [
+        "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-ceo-calls-ai-a-profit-generator-at-computex-taipei-unveils-new-laptop-processor-100000230.html",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a83dd72-d0a3-4c07-97cf-2b2fcf2dc12d"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Taiwan Semiconductor Manufacturing Company Limited (TSM), known for producing advanced semiconductor technologies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Advanced Micro Devices (AMD), a major player in the computer hardware industry. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML Holding NV, a Dutch company specializing in nanoscale lithography systems used in semiconductor manufacturing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Intel Corporation, a leader in microprocessors and related components. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "QUALCOMM Incorporated, a telecommunications equipment and semiconductor company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

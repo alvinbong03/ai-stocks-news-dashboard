@@ -1,0 +1,219 @@
+{
+  "theme": "ai",
+  "date": "2026-06-02",
+  "last_updated_utc": "2026-06-02T10:14:06.589Z",
+  "news": [
+    {
+      "title": "Tech stocks today: Anthropic files for IPO before OpenAI, Nvidia buoys tech sector",
+      "description": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-anthropic-files-for-ipo-before-openai-nvidia-buoys-tech-sector-100000979.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "Nvidia Unveils Its New RTX Spark Chip For Windows Laptops And Desktops - Forbes",
+      "description": "Nvidia Unveils Its New RTX Spark Chip For Windows Laptops And DesktopsForbes NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AINVIDIA Newsroom Nvidia Unveils New AI Chip For Personal ComputersYahoo Nvidia jumps into PCs with new Arm-based ch…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183534502",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T09:52:33Z"
+    },
+    {
+      "title": "Microsoft Surface Laptop Ultra weilds Nvidia's RTX Spark superchip with 128GB of RAM, 20 Arm CPU cores, and a Blackwell GPU — 15-inch mini-LED PixelSense",
+      "description": "Powered by Nvidia's RTX Spark Superchip, the Surface Laptop Ultra features 20 Arm CPU cores, 6,144 CUDA cores, and up to 128GB of unified memory",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183532764",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T09:12:13Z"
+    },
+    {
+      "title": "How to Automate Multi-Step Tasks with Claude Opus 4.8 Workflows",
+      "description": "Anthropic’s latest release, Claude Opus 4.8, builds on the strengths of its predecessor while addressing key limitations that users highlighted in earlier versions. One of the standout improvements is its enhanced ability to handle ambiguous queries, a featur…",
+      "url": "https://www.geeky-gadgets.com/claude-opus-vs-gpt-4-5",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-01T10:13:00Z"
+    },
+    {
+      "title": "“Just mark my words”: Anthropic CEO Dario Amodei's stark warning on AI-driven layoffs, says 'ideology won't survive reality'",
+      "description": "Anthropic CEO Dario Amodei predicts AI's profound impact on jobs will force political unity on worker support measures. He believes ideology will yield to reality as AI transforms industries, necessitating bipartisan solutions for retraining and economic aid.…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/just-mark-my-words-anthropic-ceo-dario-amodeis-stark-warning-on-ai-driven-layoffs-says-ideology-wont-survive-reality/articleshow/131439777.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T10:00:28Z"
+    },
+    {
+      "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' in keynote speech at Computex Taipei",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a83dd72-d0a3-4c07-97cf-2b2fcf2dc12d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' at Computex Taipei, unveils new laptop processor",
+      "description": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-ceo-calls-ai-a-profit-generator-at-computex-taipei-unveils-new-laptop-processor-100000230.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "title": "NBD-VRAM Provides Swap Space On Your NVIDIA GeForce GPUs",
+      "description": "An open-source developer has created NBD-VRAM as a way to create swap space on your consumer NVIDIA GPU's video memory under Linux...",
+      "url": "https://www.phoronix.com/news/NVIDIA-NBD-VRAM",
+      "source": "Phoronix",
+      "publishedAt": "2026-06-01T09:57:44Z"
+    },
+    {
+      "title": "Cadence Design Systems launches ChipStack AI Super Agent with Nvidia at Computex 2026",
+      "description": "Cadence's AI-driven chip design innovation could drastically reduce development time, reshaping industry standards and competitive dynamics.\nThe post Cadence Design Systems launches ChipStack AI Super Agent with Nvidia at Computex 2026 appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/cadence-chipstack-ai-super-agent-nvidia-computex",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T09:52:06Z"
+    },
+    {
+      "title": "TSMC Expands Use of NVIDIA AI Technologies Across Chip Production Operations",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aefadeb7-9d13-47b2-bfa1-b7fef472ef93",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T09:41:31Z"
+    },
+    {
+      "title": "YouTube for TVs is getting another dose of Gemini, but it could make sense for once",
+      "description": "You can now get YouTube video results, AI Mode-style.",
+      "url": "https://www.androidauthority.com/ask-youtube-smart-tv-3673019",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-01T09:23:49Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Haung's possible visit Naver's new office raises expectations for AI cooperation",
+      "description": "Nvidia CEO Jensen Huang is expected to visit Naver's new office during his trip to Korea this week, drawing attention to the possibility of expanded AI cooperation between the two companies.",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-06-01/business/tech/Nvidia-CEO-Jensen-Haungs-possible-visit-Navers-new-office-raises-expectations-for-AI-cooperation/2605771",
+      "source": "Joins.com",
+      "publishedAt": "2026-06-01T09:20:56Z"
+    },
+    {
+      "title": "Nvidia salaries revealed: How much the AI giant pays software engineers and researchers as it ramps up H-1B hiring",
+      "description": "See how much Nvidia pays in 2026, with engineers and research scientists earning over $300,000. Salary data shows pay ranges across about 1,200 roles.",
+      "url": "https://www.businessinsider.com/nvidia-salaries-revealed-how-much-engineers-researchers-make-in-2026-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-01T09:00:01Z"
+    },
+    {
+      "title": "NVIDIA Vera Rubin の量産が開始、世界中のエージェント型 AI ファクトリーを支える",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/618/12662-618-80e76263133a056176141c8a09aeee8a-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000618.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-01T08:58:39Z"
+    },
+    {
+      "title": "NVIDIA goes open source with a big batch of physical AI agent tools",
+      "description": "NVIDIA just dropped a big batch of open-source “physical AI” skills and tools, and they’re designed to make a roboticist’s life a whole lot easier. The idea? Take the messy, complicated work behind robots, self-driving cars, vision AI, and industrial digital …",
+      "url": "https://www.helpnetsecurity.com/2026/06/01/nvidia-open-source-physical-ai-skills",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-01T08:44:33Z"
+    },
+    {
+      "title": "Nvidia unveils RTX Spark computer chip with up to 20 cores, RTX 5070 GPU and 128GB RAM",
+      "description": "Nvidia took the stage at Computex 2026 for its highly awaited entry into the consumer chip market - meet the RTX Spark, a chipset that merges a powerful and efficient ARM CPU with an RTX GPU.\n\nThe RTX Spark superchip merges an Nvidia Grace CPU with up to 20 c…",
+      "url": "https://www.gsmarena.com/nvidia_unveils_rtx_spark_computer_chip_with_up_to_20_cores_rtx_5070__128gb_ram-news-73061.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-06-01T08:41:02Z"
+    },
+    {
+      "title": "Nvidia-backed $5 billion AI company tells CNBC it's launching major expansion in London - CNBC",
+      "description": "Nvidia-backed $5 billion AI company tells CNBC it's launching major expansion in LondonCNBC...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183530716",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T08:32:20Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Tech stocks today: Nvidia announces new AI chip and laptops",
+      "Microsoft Surface Laptop Ultra gets new chip",
+      "NVIDIA unveils RTX Spark chip",
+      "Anthrropic CEO warns on AI-driven layoffs",
+      "NVIDIA expands use of AI technologies at TSMC"
+    ],
+    "insights": [
+      "AI chips and technology advancements",
+      "Impact of AI on job markets",
+      "NVIDIA's role in AI development"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tech Stocks Today",
+      "summary": "This week, tech investors will be focusing on Nvidia's announcement of a new AI chip and laptops, Microsoft's Surface Laptop Ultra receiving a new chip, and Nvidia unveiling the RTX Spark chip.",
+      "article_urls": [
+        "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-announces-new-ai-chip-and-laptops-100000090.html",
+        "https://www.microsoft.com/en-us/research/blog/microsoft-surface-laptop-ultra-weilds-nvidias-rtsx-spark-superchip-with-128gb-of-memory/",
+        "https://www.nvidia.com/en-global/products/rtx-spark/"
+      ]
+    },
+    {
+      "title": "Insights",
+      "summary": "The article discusses various aspects related to AI chips and their impact on job markets.",
+      "article_urls": []
+    },
+    {
+      "title": "Clusters",
+      "summary": "These articles cover different aspects of tech stocks today including Nvidia's announcements, Microsoft's product updates, and other developments in the field.",
+      "article_urls": []
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "NVIDIA is a leading provider of graphics processing units (GPUs) and artificial intelligence (AI) hardware. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Microsoft is a multinational technology corporation known for its operating systems, productivity software, cloud services, and gaming products. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Google is a global internet search engine and advertising platform. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Amazon is an American multinational retail corporation. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Meta Platforms Inc., formerly Facebook, Inc., is a social media and online advertising company. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
