@@ -1,0 +1,398 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-06",
+  "last_updated_utc": "2026-06-06T08:28:48.999Z",
+  "news": [
+    {
+      "title": "Marvell poised for S&P 500 inclusion after stock surge triples its value in 2026",
+      "description": "Marvell's S&P 500 inclusion could drive further stock gains, influencing semiconductor market dynamics and investor strategies significantly.\nThe post Marvell poised for S&P 500 inclusion after stock surge triples its value in 2026 appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/marvell-sp500-inclusion-stock-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T08:13:46Z"
+    },
+    {
+      "title": "India’s AI gap keeps global investors away, but valuations are turning attractive: Punita Kumar Sinha",
+      "description": "India is currently sidelined from the global AI investment boom due to its lack of semiconductor manufacturing. While the Indian IT sector has corrected, market veteran Punita Kumar Sinha believes value is emerging, with domestic themes and earnings growth of…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-ai-gap-keeps-global-investors-away-but-valuations-are-turning-attractive-punita-kumar-sinha/articleshow/131525958.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T08:12:47Z"
+    },
+    {
+      "title": "Supermicro kondigt DCBBS blueprints aan voor NVIDIA Vera Rubin NVL72 en NVIDIA HGX™ Rubin NVL8",
+      "description": "Supermicro introduceert Data Center Building Block Solutions (DCBBS)-blueprints, gebaseerd op de platforms NVIDIA Vera Rubin NVL72 en NVIDIA HGX Rubin […]",
+      "url": "https://www.emerce.nl/wire/supermicro-kondigt-dcbbs-blueprints-nvidia-vera-rubin-nvl72-nvidia-hgx-rubin-nvl8",
+      "source": "Emerce.nl",
+      "publishedAt": "2026-06-05T08:10:28Z"
+    },
+    {
+      "title": "Intel vs TSMC: Which Semiconductor Giant Offers Stronger Outlook for Investors in 2026",
+      "description": "Intel and TSMC are key players in the AI semiconductor boom, with distinct strategies and market positions. Intel's turnaround offers high-risk potential, while TSMC provides stability and growth.",
+      "url": "https://www.ibtimes.com.au/intel-vs-tsmc-ai-semiconductor-boom-2026-1870146",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-05T08:03:53Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4070 Graphics Driver 32.0.15.9186 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4070 Graphics Driver version 32.0.15.9186 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4070-Graphics-Driver-32-0-15-9186-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-05T07:56:02Z"
+    },
+    {
+      "title": "Apple confirmed: Next year over 22,000 Mac applications will permanently stop working",
+      "description": "Apple is soon moving into the final phase of its project, which began when the company unveiled its own M-series processors and transitioned to the era of so-called Apple Silicon.\n\nJust like the previous time, when Apple switched from PowerPC processors to In…",
+      "url": "https://www.afterdawn.com/news/article.cfm/2026/06/05/apple-macos-28-rosetta-2-ends-support-for-intel-apps",
+      "source": "Afterdawn.com",
+      "publishedAt": "2026-06-05T07:55:02Z"
+    },
+    {
+      "title": "Huawei's Tau Law stirs debate over China's post-Moore's Law chip path",
+      "description": "Huawei has formally introduced its \"Tau Law,\" proposing a shift from traditional process-node scaling to \"time scaling,\" a model aimed at improving chip performance through optimisation across components, circuits, chips, and systems, even under mature proces…",
+      "url": "https://www.digitimes.com/news/a20260604PD229/huawei-1.4nm-eda-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T07:54:04Z"
+    },
+    {
+      "title": "NVIDIA vs AMD: Which AI Stock Offers Better Value and Growth for Investors in 2026",
+      "description": "In 2026, NVIDIA and AMD compete fiercely in the AI chip market. NVIDIA leads in AI training, while AMD gains in inference workloads. Both face challenges and opportunities in a maturing AI landscape.",
+      "url": "https://www.ibtimes.com.au/nvidia-vs-amd-2026-ai-chip-battle-1870144",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-05T07:48:43Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4070 Graphics Driver 32.0.15.9186 for Windows 11 version 24H2",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4070 Graphics Driver version 32.0.15.9186 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4070-Graphics-Driver-32-0-15-9186-for-Windows-11-version-24H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-05T07:41:01Z"
+    },
+    {
+      "title": "Infineon India moves up the value chain as AI data centers boost power-chip demand",
+      "description": "Infineon Technologies' India operations are moving beyond traditional engineering support into global ownership roles, as rising demand from AI data centers reshapes the power semiconductor market, according to Vinay Shenoy, managing director of Infineon Tech…",
+      "url": "https://www.digitimes.com/news/a20260605VL209/infineon-demand-data-software-iot.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T07:39:40Z"
+    },
+    {
+      "title": "Nexchip carves out BGBM assets to back Wuhu wafer project, refocuses on 12-inch foundry business",
+      "description": "Nexchip Semiconductor plans to carve out its BGBM business by contributing specialised equipment assets to Anhui Ruijing Semiconductor, a newly established power device wafer-processing venture in Wuhu, Anhui Province, as the Chinese foundry seeks to focus ca…",
+      "url": "https://www.digitimes.com/news/a20260604VL207/nexchip-business-wafer-equipment-management.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T07:35:46Z"
+    },
+    {
+      "title": "Korean Stocks Slide as Cracks Emerge in World-Beating Rally - Bloomberg.com",
+      "description": "Korean Stocks Slide as Cracks Emerge in World-Beating RallyBloomberg.com South Korea stocks fall 5% as tech heavyweights follow plunge in Wall Street's AI-linked namesCNBC Asia stocks pressured by tech losses; Nikkei, KOSPI slide on chip lossesInvesting.com A…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183607566",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-05T07:32:29Z"
+    },
+    {
+      "title": "Russell Coker: CPUs and Debian Package Building",
+      "description": "Introduction\nI have just bought a HP Z4 G4 with W-2125 CPU for $320 and I decided it was a good time to do some benchmarks on Debian package building to see which system I should use for that.\nThe W-2125 CPU scores only 9,954 on the passmark multithread test …",
+      "url": "https://etbe.coker.com.au/2026/06/05/cpus-debian-build",
+      "source": "Coker.com.au",
+      "publishedAt": "2026-06-05T07:31:19Z"
+    },
+    {
+      "title": "Context Without Limits: A High-Performance KV Cache Platform for Large-Scale AI Inference",
+      "description": "This paper presents a validated reference architecture combining NVIDIA Dynamo for distributed KV cache management, IBM Storage Scale Erasure Coding Edition (ECE) as a high-performance shared storage tier, Supermicro Petascale servers, and NVIDIA Spectrum-X E…",
+      "url": "https://www.redbooks.ibm.com/docs/MD260021/MD260021.html",
+      "source": "Ibm.com",
+      "publishedAt": "2026-06-05T07:27:27Z"
+    },
+    {
+      "title": "Francy Tiguan by Jolicia Type Foundry",
+      "description": "Free download of Francy Tiguan Font. Released in 2026 by Jolicia Type Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/francy-tiguan-font-f163830",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-06-05T07:24:40Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4070 Graphics Driver 32.0.15.9186 for Windows 10 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4070 Graphics Driver version 32.0.15.9186 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4070-Graphics-Driver-32-0-15-9186-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-05T07:23:01Z"
+    },
+    {
+      "title": "Samsung LSI’s Price Gouging Pushes Exynos 2600 To $270/Unit, Forcing Samsung Mobile To Bank On Qualcomm For The Galaxy Z Flip 8 - Wccftech",
+      "description": "Samsung LSI’s Price Gouging Pushes Exynos 2600 To $270/Unit, Forcing Samsung Mobile To Bank On Qualcomm For The Galaxy Z Flip 8Wccftech Galaxy Z Flip 8 reportedly will bring back Snapdragon chips alongside Exynos9to5Google You won't believe how Samsung intend…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183607498",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-05T07:12:04Z"
+    },
+    {
+      "title": "SteamOS 3.8.7 Beta brings improvements for Intel handhelds, audio popping and other fixes",
+      "description": "Valve released another update to the SteamOS 3.8 Beta bringing some great sounding improvements for upcoming Intel handhelds and other fixes.Read the full article on GamingOnLinux.",
+      "url": "https://www.gamingonlinux.com/2026/06/steamos-3-8-7-beta-brings-improvements-for-intel-handhelds-audio-popping-and-other-fixes",
+      "source": "Gamingonlinux.com",
+      "publishedAt": "2026-06-05T07:11:11Z"
+    },
+    {
+      "title": "AI servers and MLCC recovery drive growth at Ample Electronic",
+      "description": "As artificial intelligence fuels demand across the electronics supply chain, Taiwanese conductive paste supplier Ample Electronic is seeing a rebound in one of the industry's most overlooked segments: passive components.",
+      "url": "https://www.digitimes.com/news/a20260605PD226/ample-electronic-ai-server-mlcc-demand-growth-recovery.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T07:04:44Z"
+    },
+    {
+      "title": "UK's Raspberry Pi shares hit record as industrial demand boosts outlook",
+      "description": "June 5 : Britain's Raspberry Pi on Friday upgraded its full-year profit outlook, sending shares of the single-board computer maker to an all-time high.The Cambridge-based company said strong pricing and demand from industrial customers helped it weather soari…",
+      "url": "https://www.channelnewsasia.com/business/uks-raspberry-pi-shares-hit-record-industrial-demand-boosts-outlook-6164036",
+      "source": "CNA",
+      "publishedAt": "2026-06-05T06:49:23Z"
+    },
+    {
+      "title": "'Server in the Sky': How Israeli drones became a 'target and intel generator' over Gaza",
+      "description": "Documents expose how AI software and military hardware have given Israel's fleet of unmanned aircraft unprecedented surveillance and offensive prowess",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-06-05/ty-article-magazine/.premium/server-in-the-sky-how-israeli-drones-became-a-target-generator-over-gaza/0000019e-8d52-d0a9-a7df-bddad0930000",
+      "source": "Haaretz",
+      "publishedAt": "2026-06-05T06:45:42Z"
+    },
+    {
+      "title": "Why Building a DIY Steam Machine Beats Buying a Console",
+      "description": "Building a DIY Steam Machine combines the adaptability of a PC with the ease of a gaming console, offering a customized entertainment system for your living room. According to Hardware Haven, one approach uses the compact Fractal Terra case paired with an AMD…",
+      "url": "https://www.geeky-gadgets.com/diy-steam-machine-build-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-05T06:43:00Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 4060 Ti Graphics Driver 32.0.15.9186 for Windows 10 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 4060 Ti Graphics Driver version 32.0.15.9186 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4060-Ti-Graphics-Driver-32-0-15-9186-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-05T06:39:02Z"
+    },
+    {
+      "title": "Intel’s ‘Fake Frames’ Will Predict Your In-Game Moves Before You Make Them",
+      "description": "Intel is already asking you to get over your AI antagonism for the sake of “smoother” gaming.",
+      "url": "https://gizmodo.com/intels-fake-frames-will-predict-your-in-game-moves-before-you-make-them-2000767874",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-05T06:25:15Z"
+    },
+    {
+      "title": "AI demand strains PCB supply chains, lead times stretch past 20 weeks",
+      "description": "Explosive demand for artificial intelligence is widening supply chain bottlenecks for global electronics makers, with shortages now reaching from advanced chips and packaging into printed circuit boards, memory, and passive components. Longer lead times and r…",
+      "url": "https://www.digitimes.com/news/a20260605PD209/demand-pcb-supply-chain-ccl-high-end.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T06:21:20Z"
+    },
+    {
+      "title": "Lead Intelligent × OPPO: Enabling the \"Crease-Free Folding\" Breakthrough Through Chip-Level Precision Manufacturing",
+      "description": "WUXI, China, June 5, 2026 /PRNewswire/ -- In foldable smartphones, the ultimate competitive frontier is no longer the display itself—but the microscopic support structures hidden beneath it. Recently, Wuxi Lead Intelligent Equipment Co., Ltd. (hereafter refer…",
+      "url": "https://www.prnewswire.com/news-releases/lead-intelligent-O-oppo-enabling-the-crease-free-folding-breakthrough-through-chip-level-precision-manufacturing-302792421.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-05T06:20:00Z"
+    },
+    {
+      "title": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'",
+      "description": "SEOUL: Nvidia CEO Jensen Huang on Friday (Jun 5) said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, underscoring deepening ties with local firms in not only chips but also robotics and AI factories.\"Beca…",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-ceo-says-robotics-south-koreas-next-big-sector-points-some-suprises-6163956",
+      "source": "CNA",
+      "publishedAt": "2026-06-05T06:20:00Z"
+    },
+    {
+      "title": "Nvidia CEO sees robotics as next major sector in South Korea",
+      "description": "GIMPO: Nvidia CEO Jensen Huang said on Friday (Jun 5) that he sees robotics as the next major sector in South Korea.He was talking to reporters after arriving at Gimpo airport in South Korea on a flight from Taiwan.\"Korea has many sectors to invest in. Roboti…",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-ceo-sees-robotics-next-major-sector-in-south-korea-6163956",
+      "source": "CNA",
+      "publishedAt": "2026-06-05T06:20:00Z"
+    },
+    {
+      "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
+      "description": "AI bets are recording rapid profit-taking as Broadcom as outlook for AI-chip sales fell short of high expectations, driving down crypto markets.",
+      "url": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-05T06:18:59Z"
+    },
+    {
+      "title": "Nvidia CEO says robotics will be the next big growth sector in South Korea",
+      "description": "Speaking at Gimpo Airport after arriving from Taiwan, he highlighted scheduled meetings with leading Korean conglomerates including Hyundai, LG, SK Group, Samsung Electronics and Naver Corporation",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ceo-says-robotics-will-be-the-next-big-growth-sector-in-south-korea/article71064037.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-05T06:17:18Z"
+    },
+    {
+      "title": "Why Jensen Huang is going on a charm offensive in South Korea",
+      "description": "Nvidia CEO Jensen Huang's visit to South Korea underscores the country's AI boom and rising role in global semiconductor supply chain.",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-south-korea-ai-trade-samsung-sk-hynix-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-05T06:15:57Z"
+    },
+    {
+      "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
+      "description": "Broadcom's disappointing AI chip outlook pulled the Nasdaq lower for a third session, dragged Asian equities down with it, and took crypto along for the ride.",
+      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-05T06:08:32Z"
+    },
+    {
+      "title": "Top 5 AI Stocks Poised for Growth in USA Market as 2026 Momentum Builds",
+      "description": "The AI sector is booming, with major U.S. companies like NVIDIA, Microsoft, and Alphabet leading the charge. Analysts highlight their roles in AI infrastructure and applications, driving investor interest.",
+      "url": "https://www.ibtimes.com.au/ai-stocks-watch-2026-tech-boom-1870138",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-05T05:58:01Z"
+    },
+    {
+      "title": "Lead Intelligent × OPPO: Enabling the \"Crease-Free Folding\" Breakthrough Through Chip-Level Precision Manufacturing",
+      "description": "WUXI, China, June 5, 2026 /PRNewswire/ -- In foldable smartphones, the ultimate competitive frontier is no longer the display itself—but the microscopic support structures hidden beneath it. Recently, Wuxi Lead Intelligent Equipment Co., Ltd. (hereafter refer…",
+      "url": "https://www.prnewswire.com/news-releases/lead-intelligent-O-oppo-enabling-the-crease-free-folding-breakthrough-through-chip-level-precision-manufacturing-302792401.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-05T05:58:00Z"
+    },
+    {
+      "title": "Boeing weighs 737 ramp-up to approach Airbus production targets, Air Current reports",
+      "description": "Boeing is considering a significant increase in its 737 jet production. The company is exploring plans to boost output to approximately 70 aircraft per month, a move that would test its supply chain. This increase would aim to bring Boeing's production closer…",
+      "url": "https://economictimes.indiatimes.com/news/international/business/boeing-weighs-737-ramp-up-to-approach-airbus-production-targets-air-current-reports/articleshow/131523092.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T05:57:54Z"
+    },
+    {
+      "title": "AI boom meets reality check: Why chip stocks tumbled after Broadcom's results",
+      "description": "The semiconductor sector came under intense pressure after Broadcom's quarterly earnings failed to meet the market's elevated expectations. Although the company reported strong growth driven by artificial intelligence demand, investors were looking for even s…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/ai-boom-meets-reality-check-why-chip-stocks-tumbled-after-broadcoms-results/chip-stocks-tumble-despite-strong-ai-growth/slideshow/131523465.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-06-05T05:56:37Z"
+    },
+    {
+      "title": "Ethereum falls below $1,700 for first time since April 2025: INTEL",
+      "description": "Ethereum's dip signals heightened market volatility, reflecting broader economic uncertainties and potential prolonged bearish trends.\nThe post Ethereum falls below $1,700 for first time since April 2025: INTEL appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ethereum-falls-below-1700-for-first-time-since-april-2025-intel",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T05:54:09Z"
+    },
+    {
+      "title": "US targets China's PCB grip as AI and defense supply risks mount",
+      "description": "As demand for artificial intelligence (AI) computing expands rapidly, market attention has long centered on GPUs, high-bandwidth memory (HBM), and advanced packaging. However, printed circuit boards (PCBs), which sit beneath chips and connect critical electro…",
+      "url": "https://www.digitimes.com/news/a20260605PD221/pcb-supply-chain-capacity-security-usa.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-05T05:52:26Z"
+    },
+    {
+      "title": "Foxconn partners with Intel to develop next-gen AI infrastructure",
+      "description": "The partnership could accelerate AI infrastructure innovation, influencing tech supply chains and potentially reshaping competitive dynamics in AI hardware.\nThe post Foxconn partners with Intel to develop next-gen AI infrastructure appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/foxconn-intel-ai-infrastructure-partnership-2",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T05:51:02Z"
+    },
+    {
+      "title": "AMD Ryzen 5 5500 Processor + ASUS PRIME B550M-A AC + Team Force 16GB RAM Bundle $247.99 + Free Shipping $237.99",
+      "description": "Newegg Official via Best Buy [bestbuy.com] has *AMD Ryzen 5 5500 Processor + ASUS PRIME B550M-A AC + Team Force 16GB RAM Bundle* for *$237.99*. *Shipping is free*.",
+      "url": "https://slickdeals.net/f/19596438-amd-ryzen-5-5500-processor-asus-prime-b550m-a-ac-team-force-16gb-ram-bundle-247-99-free-shipping-237-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-05T05:46:55Z"
+    },
+    {
+      "title": "AMD Ryzen 5 5500 Processor + ASUS PRIME B550M-A AC + Team Force 16GB RAM Bundle $237.99 + Free Shipping",
+      "description": "Newegg Official via Best Buy [bestbuy.com] has *AMD Ryzen 5 5500 Processor + ASUS PRIME B550M-A AC + Team Force 16GB RAM Bundle* for *$237.99*. *Shipping is free*.",
+      "url": "https://slickdeals.net/f/19596438-amd-ryzen-5-5500-processor-asus-prime-b550m-a-ac-team-force-16gb-ram-bundle-237-99-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-05T05:46:55Z"
+    },
+    {
+      "title": "This Week’s Most Popular Articles",
+      "description": "Google to Release 32 Million Bacteria-Infected Mosquitoes into Florida and California Nicolas Hulscher, June 2, 2026 War in the Middle East, the Rothschilds, the Confidential Pentagon Memo: “Take Out 7 Countries… Finishing off Iran.” Resisting War Robert J. B…",
+      "url": "https://www.globalresearch.ca/this-weeks-most-popular-articles-218/5928860",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-05T05:45:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Marvell's S&P 500 inclusion could drive further stock gains",
+      "India's AI gap keeps global investors away, but valuations are turning attractive",
+      "Supermicro introduces Data Center Building Block Solutions"
+    ],
+    "insights": [
+      "AI semiconductor boom",
+      "NVIDIA and TSMC compete fiercely in the AI chip market",
+      "Huawei proposes 'Time Scaling' strategy"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Semiconductor Market Dynamics",
+      "summary": "The semiconductor market is experiencing significant changes driven by advancements in technology and shifts in consumer preferences.",
+      "article_urls": [
+        "https://www.economictimes.indiatimes.com/markets/expert-view/indias-ai-gap-keeps-global-investors-away-but-valuations-are-turning-attractive-punita-kumar-sinha/articleshow/131525958.cms",
+        "https://www.digitimes.com/news/a20260605VL209/infineon-demand-data-software-iot.html",
+        "https://www.digitimes.com/news/a20260604VL207/nexchip-business-wafer-equipment-management.html"
+      ]
+    },
+    {
+      "title": "Intel vs TSMC",
+      "summary": "Both Intel and TSMC are major players in the AI semiconductor boom, offering distinct strategies and market positions.",
+      "article_urls": [
+        "https://www.ibtimes.com.au/intel-vs-tsmc-ai-semiconductor-boom-2026-1870146",
+        "https://www.digitimes.com/news/a20260604VL207/nexchip-business-wafer-equipment-management.html"
+      ]
+    },
+    {
+      "title": "Market Trends",
+      "summary": "The semiconductor market is evolving rapidly, influenced by technological advancements and changing consumer behaviors.",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260605VL209/infineon-1.4nm-eda-design.html",
+        "https://www.digitimes.com/news/a20260604VL207/nexchip-business-wafer-equipment-management.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Positive",
+      "sentiment": {
+        "category": "Positive",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "TSM is a leading manufacturer of semiconductors, particularly focusing on memory solutions. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "AMD is a competitor in the semiconductor industry, known for its Ryzen processors. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Negative",
+      "sentiment": {
+        "category": "Negative",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "ASML is a Dutch multinational corporation specializing in advanced lithography machines used in semiconductor manufacturing. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "INTC is a Fortune 500 company primarily focused on information technology products and services. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "QCOM is a telecommunications company providing wireless communication services. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
