@@ -1,0 +1,189 @@
+{
+  "theme": "ai",
+  "date": "2026-06-08",
+  "last_updated_utc": "2026-06-08T10:27:29.098Z",
+  "news": [
+    {
+      "title": "Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included",
+      "description": "TL;DR: Unlock 1min.AI lifetime access for $59.97 (88% off) with 4M monthly credits, GPT-4o, Claude, Gemini, and other top AI models in one workspace for writing, coding, images, and video — no monthly subscriptions required.\r\n\n\n\n\nPaying for multiple AI tools …",
+      "url": "https://www.pcworld.com/article/3155007/turn-multiple-ai-subscriptions-into-one-60-lifetime-plan-with-gpt-4o-claude-and-gemini-included.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-06-07T08:00:00Z"
+    },
+    {
+      "title": "AI needs data center processing power NOW, so they're putting up huge tents to expedite construction time. Just something else to worry about when the hurricanes blow through [Followup]",
+      "description": "AI needs data center processing power NOW, so they're putting up huge tents to expedite construction time. Just something else to worry about when the hurricanes blow through",
+      "url": "https://www.fark.com/comments/14091050/AI-needs-data-center-processing-power-NOW-so-theyre-putting-up-huge-tents-to-expedite-construction-time-Just-something-else-to-worry-about-when-hurricanes-blow-through",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-07T09:40:00Z"
+    },
+    {
+      "title": "Show HN: Best setup local LLM found for a 5090",
+      "description": "Hi folks,\nI found this setup on consummer hardware that seems to have great results on local hardware.\n - qwen 3.6 q6\n - 450 K context using turboquant turbo3 mode llama.cpp fork\n - multimodal supportThis AI generated blog article is a kind of \"report\" of wha…",
+      "url": "https://local-llm.utop.workers.dev/",
+      "source": "Workers.dev",
+      "publishedAt": "2026-06-07T09:36:02Z"
+    },
+    {
+      "title": "Anthropic eases tensions with White House ahead of trillion-dollar IPO plans",
+      "description": "Anthropic's diplomatic efforts may redefine tech-government relations, influencing future AI market entries and regulatory landscapes.\nThe post Anthropic eases tensions with White House ahead of trillion-dollar IPO plans appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-white-house-tensions-ipo-plans",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-07T09:34:46Z"
+    },
+    {
+      "title": "I asked ChatGPT to help me become debt-free by 2027: AI gives me 3-way strategy",
+      "description": "ChatGPT gave me a 3-way strategy to become debt-free by December 2027. The plan includes selling stocks to pay off loans, managing monthly expenses, and strategically reducing SIP contributions.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-help-me-become-debt-free-by-2027-ai-gives-me-3-way-strategy-11780822997914.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-07T09:24:30Z"
+    },
+    {
+      "title": "OpenAI adds Lockdown Mode to ChatGPT to block data theft from prompt injection attacks",
+      "description": "OpenAI has begun rolling out Lockdown Mode to ChatGPT, a new security setting designed to block attackers from stealing data through prompt injection attacks. The feature disables live web browsing, agent mode, deep research, image retrieval, Canvas networkin…",
+      "url": "https://thenextweb.com/news/chatgpt-lockdown-mode-prompt-injection",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-07T09:14:51Z"
+    },
+    {
+      "title": "This Ford exec used Claude to build her family a 'chief of staff' to help keep up with daily to-do's",
+      "description": "Whitney Stefko Dover vibe coded a better way to manage her family's busy life. Her AI agent scans her emails and calendar to craft daily briefings.",
+      "url": "https://www.businessinsider.com/ford-executive-ai-vibe-coded-family-chief-of-staff-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-07T09:11:02Z"
+    },
+    {
+      "title": "OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’",
+      "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+      "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-07T09:00:33Z"
+    },
+    {
+      "title": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
+      "description": "A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.",
+      "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-07T08:47:01Z"
+    },
+    {
+      "title": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8f185aa-160d-4426-9a8a-03529978d217",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-07T08:47:01Z"
+    },
+    {
+      "title": "OpenAI and White House discuss potential US government equity stake",
+      "description": "A US government equity stake in OpenAI could democratize AI benefits, akin to a sovereign wealth fund, impacting future economic distribution.\nThe post OpenAI and White House discuss potential US government equity stake appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-white-house-government-equity-stake",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-07T07:59:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included",
+      "AI needs data center processing power NOW, so they're putting up huge tents to expedite construction time. Just something else to worry about when the hurricanes blow through [Followup]",
+      "Show HN: Best setup local LLM found for a 5090",
+      "Anthropic eases tensions with White House ahead of trillion-dollar IPO plans",
+      "I asked ChatGPT to help me become debt-free by 2027: AI gives me 3-way strategy"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/chatgpt-lockdown-mode-prompt-injection",
+        "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+        "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6"
+      ]
+    },
+    {
+      "title": "Mode",
+      "summary": "Grouped stories where \"mode\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://local-llm.utop.workers.dev/"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/anthropic-white-house-tensions-ipo-plans"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.pcworld.com/article/3155007/turn-multiple-ai-subscriptions-into-one-60-lifetime-plan-with-gpt-4o-claude-and-gemini-included.html",
+        "https://www.fark.com/comments/14091050/AI-needs-data-center-processing-power-NOW-so-theyre-putting-up-huge-tents-to-expedite-construction-time-Just-something-else-to-worry-about-when-hurricanes-blow-through",
+        "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-help-me-become-debt-free-by-2027-ai-gives-me-3-way-strategy-11780822997914.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Turn multiple AI subscriptions into one $60 lifetime plan with GPT-4o, Claude, and Gemini included. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
