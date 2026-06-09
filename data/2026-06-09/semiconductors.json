@@ -1,0 +1,412 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-09",
+  "last_updated_utc": "2026-06-09T09:33:04.159Z",
+  "news": [
+    {
+      "title": "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
+      "description": "The Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) has emerged as one of the cleanest, lowest-cost vehicles for direct semiconductor exposure during the AI cap...",
+      "url": "https://247wallst.com/investing/2026/06/08/soxq-semiconductor-etf-surges-181-74-as-ai-chip-boom-lifts-nvidia-broadcom-amd",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-06-08T09:30:49Z"
+    },
+    {
+      "title": "AMD’s Frank Azor pushes back on FSR 4.1 cancellation rumor for RDNA 3.5 APUs",
+      "description": "AMD’s Frank Azor has pushed back against reports that FSR 4.1 support for RDNA 3.5 APUs has been canceled, saying no final decision has been made despite earlier comments suggesting AMD was leaning against it.",
+      "url": "https://www.notebookcheck.net/AMD-s-Frank-Azor-pushes-back-on-FSR-4-1-cancellation-rumor-for-RDNA-3-5-APUs.1317334.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-08T09:22:00Z"
+    },
+    {
+      "title": "Ugreen NASync DXP4800 GT NAS review: An AMD-powered 4-bay personal cloud storage NAS with dual 10GbE that comfortably undercuts both Synology and QNAP",
+      "description": "10GbE NAS that enable network video editing and ultra fast transfer speeds that far surpasses the competition.",
+      "url": "https://www.techradar.com/pro/ugreen-nasync-dxp4800-gt-nas-review",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-08T09:17:20Z"
+    },
+    {
+      "title": "Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses - MarketWatch",
+      "description": "Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big lossesMarketWatch Nvidia clinches deals with South Korean giants including SK Group to advance AI boomReuters Nvidia strikes multi-year AI infrastructure deals with Korean fir…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183659512",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-08T09:12:38Z"
+    },
+    {
+      "title": "Intel Arc Graphics Driver 32.0.101.8625 for Windows 10 64-bit",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.8625 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8625-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T09:10:01Z"
+    },
+    {
+      "title": "Microsoft Discovery Reaches GA on Azure, Powering the Agentic AI Behind Majorana 2 Quantum Chip",
+      "description": "Microsoft announced the general availability of Microsoft Discovery, its Azure-based platform for deploying autonomous AI agent teams in scientific R&D. The platform powered the development of Majorana 2, a topological quantum chip with 1,000x reliability imp…",
+      "url": "https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-06-08T09:08:00Z"
+    },
+    {
+      "title": "Japan's Chemical Industry Struggles to Overcome Distruptions",
+      "description": "Japan's chemical industry is facing growing pressure from rising raw material costs and supply concerns linked to tensions in the Middle East, although expectations for industry restructuring and expanding demand for semiconductor materials are providing reas…",
+      "url": "https://newsonjapan.com/article/149567.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-06-08T09:06:17Z"
+    },
+    {
+      "title": "Starmer announces sovereign compute strategy amid £1.1bn chip investment",
+      "description": "Prime minister launches strategy to develop UK sovereign compute capability as government pumps £1.1bn into AI hardware plan",
+      "url": "https://www.computerweekly.com/news/366643844/Starmer-announces-sovereign-compute-strategy-amid-11bn-chip-investment",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-06-08T09:05:00Z"
+    },
+    {
+      "title": "Nvidia clinches deals with South Korean giants",
+      "description": "Nvidia has today announced a series of deals in South Korea with tech giants including SK Hynix and Naver, as it looks to secure crucial memory chips to power its AI ambitions and entice new customers.",
+      "url": "https://www.rte.ie/news/business/2026/0608/1577304-nvidia-south-korean-deals",
+      "source": "RTE",
+      "publishedAt": "2026-06-08T09:01:07Z"
+    },
+    {
+      "title": "Agents feel equipped to meet real estate’s consolidation moment",
+      "description": "While agents Intel surveyed in May were divided on how listings should be shared, they weren't concerned about their own ability to compete.",
+      "url": "https://news.inman.com/2026/06/08/inman-intel-real-estate-consolidation",
+      "source": "Inman",
+      "publishedAt": "2026-06-08T09:00:14Z"
+    },
+    {
+      "title": "The $100,000 visa fee isn't stopping OpenAI, Anthropic, and Nvidia as they battle for AI talent",
+      "description": "Anthropic, OpenAI, and Nvidia increase H-1B visa applications as other tech giants cut back, highlighting the AI talent demand.",
+      "url": "https://www.businessinsider.com/h-1b-visa-filings-rise-for-anthropic-openai-nvidia-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-08T09:00:03Z"
+    },
+    {
+      "title": "Molex expands in Taiwan as AI interconnect demand splits between copper and optics",
+      "description": "Molex is building out a dual-track strategy for AI interconnects, backing both copper and optical solutions as customers pursue different deployment paths, while expanding its Taiwan operations to support the region's AI hardware supply chain.",
+      "url": "https://www.digitimes.com/news/a20260608PD209/molex-taiwan-copper-optics-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-08T08:56:55Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq jump as chip stocks rebound, Iran and Israel exchange strikes",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_db6ea9e1-6585-4acb-befe-8331d53f76ca",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T08:53:10Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq jump as chip stocks rebound, Iran and Israel exchange strikes",
+      "description": "US stock futures were mixed as concerns about a Middle East ceasefire continued to weigh, and investors braced for fresh inflation data and a blockbuster Spa...",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T08:53:10Z"
+    },
+    {
+      "title": "Intel Arc Graphics Driver 32.0.101.8625 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.8625 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8625-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T08:52:01Z"
+    },
+    {
+      "title": "UK PM Starmer backs sovereign computing with $533 million AI chip investment",
+      "description": "\"We will use the power ​of public procurement ​to support British ingenuity,\" Starmer told the ‌London Tech Week conference in ​a speech ​on ⁠Monday.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/uk-pm-starmer-backs-sovereign-computing-with-533-million-ai-chip-investment/articleshow/131583351.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-08T08:51:12Z"
+    },
+    {
+      "title": "Intel Arc Graphics Driver 32.0.101.8628 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.8628 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8628-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T08:42:01Z"
+    },
+    {
+      "title": "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "description": "News Highlights: £2bn investment over five years to support advanced computing, scientific research and workforce development across the United Kingdom. New strategic partnerships with Imperial College London and Oriole Networks will help advance AI, quantum …",
+      "url": "https://financialpost.com/globe-newswire/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-08T08:34:26Z"
+    },
+    {
+      "title": "Intel Arc Graphics Driver 32.0.101.8628 for Windows 11",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.8628 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8628-for-Windows-11.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T08:30:01Z"
+    },
+    {
+      "title": "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "description": "News Highlights:  £2bn investment over five years to support advanced computing, scientific research and workforce development across the United...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/08/3307855/0/en/AMD-Commits-up-to-2-Billion-to-Accelerate-AI-Innovation-and-Research-in-the-United-Kingdom.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-08T08:30:00Z"
+    },
+    {
+      "title": "Silvaco (SVCO) Launches Industry-First MIPI C-PHY/D-PHY Combo IP on TSMC N2P Process",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68ba1bfa-df77-48ad-b02e-cac81ada04ab",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T08:25:37Z"
+    },
+    {
+      "title": "Chip rout puts Korea's 'ant' investors to the test as margin debt soars",
+      "description": "By Cynthia Kim and Yena Park SEOUL, June 8 (Reuters) - Seoul resident Laura Byun has long preferred U.S. mutual funds over Korean shares, but the KOSPI's...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-rout-puts-koreas-ant-082316112.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-08T08:23:16Z"
+    },
+    {
+      "title": "South Korea’s AI chip boom is so strong it’s crushing the bond market",
+      "description": "The AI boom that has made Samsung and SK Hynix trillion-dollar companies and sent the Kospi up roughly 80% is doing something unusual to South Korea’s bond market: destroying it. Korean government bonds have lost 7.5% in 2026 in local-currency terms, the wors…",
+      "url": "https://thenextweb.com/news/korea-ai-chip-boom-bond-market-pressure",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-08T08:22:18Z"
+    },
+    {
+      "title": "Bottlenecks for upstream digital camera components pose dilemma for supply chain players amid market renaissance",
+      "description": "Digital camera demand has made a striking comeback as younger consumers, social media creators, and the streaming economy inject new momentum into a market many had considered obsolete. The resurgence is prompting suppliers to restart idle production lines an…",
+      "url": "https://www.digitimes.com/news/a20260608PD223/camera-component-demand-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-08T08:21:41Z"
+    },
+    {
+      "title": "Intel Socket LGA1954 for \"Nova Lake\" Pictured in the Flesh, Confirms 2L ILM Design",
+      "description": "Here is the first picture of Intel's next-generation desktop Socket LGA1954. We had only seen concept renders of the socket, until now. A successor to the current LGA1851, LGA1954 will seat Core Ultra \"Nova Lake\" desktop processors that introduce significantl…",
+      "url": "https://www.techpowerup.com/349820/intel-socket-lga1954-for-nova-lake-pictured-in-the-flesh-confirms-2l-ilm-design",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-08T08:20:29Z"
+    },
+    {
+      "title": "AMD’s Radeon RDNA 5 Gaming GPUs Slip to Late 2027 or Early 2028 as Memory Shortages Choke the PC Market",
+      "description": "AMD's next-gen Radeon GPUs based on the RDNA 5 architecture are still far away from launch as memory shortages grip the PC segment. Memory Shortages & Rising Component Prices Are The Reason Behind AMD's Push Back on Radeon \"RDNA 5\" Gaming GPUs The Radeon RX 9…",
+      "url": "https://wccftech.com/amds-radeon-rdna-5-gaming-gpus-slip-to-late-2027-or-early-2028",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-08T08:20:05Z"
+    },
+    {
+      "title": "Nvidia push into AI PCs comes as smartphone market faces steep downturn",
+      "description": "Nvidia's move to expand AI-powered PCs could reshape where global consumers and companies use artificial intelligence, shifting more work onto local devices rather than cloud services. The timing matters because handset demand is weakening rapidly, and the in…",
+      "url": "https://www.digitimes.com/news/a20260608PD221/nvidia-smartphone-market-pc-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-08T08:12:26Z"
+    },
+    {
+      "title": "Galaxy Z Flip 8 will use the Exynos chip in some regions",
+      "description": "Samsung will launch three new foldable phones next month: the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. While the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are expected to use the Snapdragon 8 Elite Gen 5 for Galaxy processor globally, the …",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-exynos-chip-some-regions",
+      "source": "SamMobile",
+      "publishedAt": "2026-06-08T08:02:17Z"
+    },
+    {
+      "title": "Oriole Networks deploys photonic AI network in first commercial rollout with AMD",
+      "description": "U.K. photonic networking startup Oriole Networks Ltd. today announced that it will deploy what it describes as the world’s first large-scale artificial intelligence system running on a pure photonic network, marking the first commercial use of its technology.…",
+      "url": "https://siliconangle.com/2026/06/08/oriole-networks-deploys-photonic-ai-network-first-commercial-rollout-amd",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-08T08:00:04Z"
+    },
+    {
+      "title": "Microsoft Launches Logic Apps Automation at Build 2026",
+      "description": "Microsoft announced Logic Apps Automation at Build 2026, a new SKU at auto.azure.com packaging workflows, AI agents, knowledge services, and model access into a managed SaaS experience. Agents integrate via agent-loop orchestration, Foundry agents, and manage…",
+      "url": "https://www.infoq.com/news/2026/06/azure-logic-apps-automation",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-06-08T08:00:00Z"
+    },
+    {
+      "title": "Medline Expands Manufacturing Footprint in Slovakia to Support Long-Term Growth in Europe",
+      "description": "UTRECHT, Netherlands, June 8, 2026 /PRNewswire/ -- Medline International B.V., part of Medline Inc. (\"Medline\") (NASDAQ: MDLN), a leading provider of medical-surgical products and supply chain solutions serving healthcare providers across EMEA, continues to m…",
+      "url": "https://www.prnewswire.com/news-releases/medline-expands-manufacturing-footprint-in-slovakia-to-support-long-term-growth-in-europe-302792850.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-08T08:00:00Z"
+    },
+    {
+      "title": "Securing Your Packagist Account as a Package Developer",
+      "description": "Credentials were the entry point in the Laravel-Lang supply chain attack. Steps to take on Packagist and GitHub to protect your packages and their users.",
+      "url": "https://laravel-badge.peterfox.me/guides/securing-your-packagist-account-mHw5Kp",
+      "source": "Peterfox.me",
+      "publishedAt": "2026-06-08T08:00:00Z"
+    },
+    {
+      "title": "Nvidia locks in SK Hynix for the AI memory race as the chip industry’s “toughest bottleneck” gets its own multi-year deal",
+      "description": "Nvidia and SK Hynix have signed a multi-year agreement covering both the design and manufacture of next-generation memory chips for AI. The deal, announced on Sunday during Nvidia CEO Jensen Huang’s tour of South Korea, gives SK Hynix a formal co-development …",
+      "url": "https://thenextweb.com/news/nvidia-locks-in-sk-hynix-for-the-ai-memory-race-as-the-chip-industrys-toughest-bottleneck-gets-its-own-multi-year-deal",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-08T07:54:03Z"
+    },
+    {
+      "title": "How a few AI chip giants warped Asia's stock picking game - Reuters",
+      "description": "How a few AI chip giants warped Asia's stock picking gameReuters The AI trade trap: Why successful tech stocks are triggering a trillion-dollar market meltdown in Korea, TThe Economic Times AI rally forces funds to sell top Taiwan and Korea chip stocksmezha.n…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183658710",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-08T07:52:25Z"
+    },
+    {
+      "title": "Intel Arc Graphics Driver 32.0.101.8628 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.8628 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8628-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T07:51:01Z"
+    },
+    {
+      "title": "Nvidia-Microsoft AI PC alliance raises fears of South Korea being sidelined in next AI era",
+      "description": "Nvidia and Microsoft have teamed up to launch RTX Spark, an AI PC superchip that could reshape personal computer architecture and intensify competition for AI leadership, according to South Korean media, including Edaily. The partnership is also raising conce…",
+      "url": "https://www.digitimes.com/news/a20260608PD207/nvidia-ai-pc-microsoft-alliance-rtx.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-08T07:44:05Z"
+    },
+    {
+      "title": "Apple M5 Pro teardown points to chiplet strategy shift",
+      "description": "Apple's M5 Pro signals a broader shift in laptop processors, with implications for global device makers, developers, and AI users. A teardown suggests Apple is combining chiplet-style packaging, higher memory bandwidth, and GPU-based AI acceleration to streng…",
+      "url": "https://www.digitimes.com/news/a20260608PR201/apple-design-gpu-packaging-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-08T07:40:10Z"
+    },
+    {
+      "title": "Lenovo Intel UHD Graphics Driver 26.20.100.7063 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Lenovo Intel UHD Graphics Driver version 26.20.100.7063 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Lenovo-Intel-UHD-Graphics-Driver-26-20-100-7063-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-08T07:34:01Z"
+    },
+    {
+      "title": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI Chips - Bloomberg.com",
+      "description": "Nvidia, SK Hynix Seal Multi-Year Pact to Develop AI ChipsBloomberg.com Nvidia Strikes AI Infrastructure Deals With South Korean Tech FirmsWSJ Nvidia’s CEO Says New Vera Chip Will Use SK Hynix’s Memory ChipsBloomberg.com NVIDIA and SK hynix Announce Multiyear …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183658532",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-08T07:32:06Z"
+    },
+    {
+      "title": "Intel Nova Lake-S “LGA 1954” Desktop CPU Pictured For The First Time",
+      "description": "The first purported image of an Intel Nova Lake-S Desktop CPU for the LGA 1954 socket has leaked online. Intel Nova Lake-S Desktop CPU Samples Are Here, First Chip Pictured For LGA 1954 Sockets Intel Nova Lake Desktop CPUs are slated for launch in early 2027,…",
+      "url": "https://wccftech.com/intel-nova-lake-s-lga-1954-desktop-cpu-pictured-for-the-first-time",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-08T07:30:12Z"
+    },
+    {
+      "title": "Why the Samsung Galaxy Z Flip 8 Chip Leak Changes Everything",
+      "description": "Samsung is poised to redefine the foldable smartphone market with the highly anticipated Galaxy Z Flip 8, introducing an innovative dual chipset strategy. For the first time, this device will feature two distinct processor options: Samsung’s in-house Exynos 2…",
+      "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-flip-8-leaks-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-08T07:30:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD",
+      "AMD’s Frank Azor pushes back on FSR 4.1 cancellation rumor for RDNA 3.5 APUs",
+      "Ugreen NASync DXP4800 GT NAS review: An AMD-powered 4-bay personal cloud storage NAS with dual 10GbE that comfortably undercuts both Synology and QNAP",
+      "Nvidia strikes a new memory-chip deal as SK Hynix and Samsung shares close with big losses - MarketWatch",
+      "Intel Arc Graphics Driver 32.0.101.8625 for Windows 10 64-bit"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://247wallst.com/investing/2026/06/08/soxq-semiconductor-etf-surges-181-74-as-ai-chip-boom-lifts-nvidia-broadcom-amd",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183659512",
+        "https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8625-for-Windows-10-64-bit.shtml",
+        "https://news.inman.com/2026/06/08/inman-intel-real-estate-consolidation",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-8625-for-Windows-10-Vibranium-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.rte.ie/news/business/2026/0608/1577304-nvidia-south-korean-deals",
+        "https://www.businessinsider.com/h-1b-visa-filings-rise-for-anthropic-openai-nvidia-2026-6",
+        "https://www.digitimes.com/news/a20260608PD221/nvidia-smartphone-market-pc-demand.html"
+      ]
+    },
+    {
+      "title": "Amd",
+      "summary": "Grouped stories where \"amd\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/AMD-s-Frank-Azor-pushes-back-on-FSR-4-1-cancellation-rumor-for-RDNA-3-5-APUs.1317334.0.html",
+        "https://www.techradar.com/pro/ugreen-nasync-dxp4800-gt-nas-review",
+        "https://financialpost.com/globe-newswire/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newsonjapan.com/article/149567.php",
+        "https://www.digitimes.com/news/a20260608PD209/molex-taiwan-copper-optics-demand.html",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68ba1bfa-df77-48ad-b02e-cac81ada04ab"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SOXQ Semiconductor ETF Surges 181.74% as AI Chip Boom Lifts NVIDIA, Broadcom, AMD. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
