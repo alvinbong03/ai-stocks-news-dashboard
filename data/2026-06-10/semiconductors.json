@@ -1,0 +1,305 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-10",
+  "last_updated_utc": "2026-06-10T09:49:45.054Z",
+  "news": [
+    {
+      "title": "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life",
+      "description": "Linux developer uses AI to help update Linux GPU driver support for vintage HD 2000 - HD 6000 series.",
+      "url": "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-06-09T09:40:06Z"
+    },
+    {
+      "title": "Deliverance AI exits stealth with £6m ARR to run agentic AI inside companies’ own walls",
+      "description": "Enterprise AI has a stalling problem, and it is not the models. Companies have poured money into chips, private clouds, and pilot projects, then watched most of them stop before they ever reached production. A London company called Deliverance AI thinks it kn…",
+      "url": "https://thenextweb.com/news/deliverance-ai-stealth-sovereign-enterprise-ai",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-09T09:27:41Z"
+    },
+    {
+      "title": "Indian cancer patients battle shortage of key drugs as platinum costs surge",
+      "description": "Cancer patients in India are struggling to find essential platinum-based drugs. A surge in global platinum prices and supply chain issues are causing shortages. This forces patients to search extensively for medication. Some drugmakers have reduced production…",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-cancer-patients-battle-shortage-of-key-drugs-as-platinum-costs-surge/articleshow/131606935.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-09T09:27:17Z"
+    },
+    {
+      "title": "Hands-on with Intel's Arc G3 handheld at Computex: It might finally give AMD some competition",
+      "description": "Intel is set to challenge AMD's hold on handheld gaming. New Arc G-Series processors, seen on the MSI Claw 8 EX AI+, offer better graphics and efficiency. Early impressions suggest smoother gameplay than current AMD-powered devices. This development could sig…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/hands-on-with-intels-arc-g3-handheld-at-computex-it-might-finally-give-amd-some-competition/articleshow/131606389.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-09T09:26:18Z"
+    },
+    {
+      "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3be0210e-ef8d-48e4-8d10-07d55c5902df",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-09T09:26:00Z"
+    },
+    {
+      "title": "Alibaba puts CEO directly in charge of new unit as AI model race turns commercial",
+      "description": "Alibaba Group Holding has created a new artificial intelligence unit called Token Foundry, putting it directly under CEO Eddie Wu as the Chinese technology giant further consolidates its model-development teams and pushes AI applications toward commercializat…",
+      "url": "https://www.digitimes.com/news/a20260609VL215/alibaba-ceo-ai-commercial-business.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-09T09:19:17Z"
+    },
+    {
+      "title": "'A major shift in how Europe approaches technological sovereignty': EU reveals new plans to cut reliance on US and Chinese tech",
+      "description": "The European Commission has updated the Chips Act and added new programs to deliver on the sovereignty front.",
+      "url": "https://www.techradar.com/pro/a-major-shift-in-how-europe-approaches-technological-sovereignty-eu-reveals-new-plans-to-cut-reliance-on-us-and-chinese-tech",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-09T09:16:09Z"
+    },
+    {
+      "title": "Apple left some major folding iPhone hints in the iOS 27 code",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nRumors that Apple is working on a foldable device have been swirling all year, with all of them pointing to the launch of the Phone Ultra later this year. And although Apple has never said a word about it, iOS 27 has just given us a major clu…",
+      "url": "https://www.macworld.com/article/3159979/apple-left-some-major-folding-iphone-hints-in-the-ios-27-code.html",
+      "source": "Macworld",
+      "publishedAt": "2026-06-09T09:15:00Z"
+    },
+    {
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "description": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and spl…",
+      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-09T09:13:32Z"
+    },
+    {
+      "title": "Apple rebuilt Siri on Google’s AI and Nvidia’s chips, then spent WWDC explaining why that doesn’t break its privacy promise",
+      "description": "Apple’s most important AI announcement at WWDC 2026 was not a feature. It was an architecture. The rebuilt Siri runs on a custom 1.2-trillion-parameter model built on Google’s Gemini technology, hosted on Google Cloud servers powered by Nvidia Blackwell B200 …",
+      "url": "https://thenextweb.com/news/apple-siri-google-gemini-nvidia-privacy-wwdc",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-09T09:10:05Z"
+    },
+    {
+      "title": "Nvidia unveils AI PC vision as Intel offers reflection instead of product news",
+      "description": "Computex, Asia's largest technology trade show, opened this year with many of the industry's most prominent executives gathering in Taiwan. Yet while Nvidia used the event to unveil new products and reinforce its ambitions in artificial intelligence (AI), Int…",
+      "url": "https://www.digitimes.com/news/a20260608PD218/nvidia-intel-mediatek-ai-pc-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-09T09:07:52Z"
+    },
+    {
+      "title": "Microsoft launches new Windows 11 Beta channel for next-gen Arm PCs powered by Snapdragon X2 and RTX Spark chips",
+      "description": "Windows 11 version 26H1 just gained a new preview channel, splitting testing between Experimental and Beta Channels on devices powered by Snapdragon X2 and RTX Spark chips.",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-launches-new-windows-11-beta-channel-for-next-gen-arm-pcs-powered-by-snapdragon-x2-and-rtx-spark-chips",
+      "source": "Windows Central",
+      "publishedAt": "2026-06-09T08:59:41Z"
+    },
+    {
+      "title": "Assam CM Himanta Biswa Sarma meets 'Team Europe' delegation to boost trade, investment linkages",
+      "description": "Assam Chief Minister Himanta Biswa Sarma met the \"Team Europe\" EU delegation to boost trade and investment. The two-day visit focuses on sectors like green energy, pharmaceuticals, and semiconductors, highlighted by touring a new chip plant and launching a \"B…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/assam-cm-himanta-biswa-sarma-meets-team-europe-delegation-to-boost-trade-investment-linkages/articleshow/131606457.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-09T08:55:16Z"
+    },
+    {
+      "title": "Global Markets: Japan's Nikkei ends higher as chip-related heavyweights jump",
+      "description": "The Nikkei was ‌choppy earlier ⁠in ⁠the session, inching down as much as 0.16%.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-ends-higher-as-chip-related-heavyweights-jump/articleshow/131606294.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-09T08:44:48Z"
+    },
+    {
+      "title": "Jensen Huang won’t testify before the Senate on Nvidia’s China chip sales. He offered a tour of headquarters instead.",
+      "description": "Nvidia CEO Jensen Huang has declined an invitation from Senator Elizabeth Warren to testify before the Senate Banking Committee on Thursday about the chipmaker’s sales to China and US export controls. Warren had asked Huang to appear under oath to discuss how…",
+      "url": "https://thenextweb.com/news/jensen-huang-wont-testify-before-the-senate-on-nvidias-china-chip-sales-he-offered-a-tour-of-headquarters-instead",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-09T08:29:46Z"
+    },
+    {
+      "title": "GEEKOM A7 2026 Edition (AMD Ryzen 5 7545U) mini PC review – Part 1: specifications, unboxing, teardown, and first boot",
+      "description": "GEEKOM sent us a review sample of the A7 2026 Edition mini PC powered by a 4.9 GHz AMD Ryzen 5 7545U hexa-core/12-thread processor, paired with 16GB DDR5 SO-DIMM memory and a 500 GB NVMe SSD. It comes with two HDMI 2.0 ports and two USB4 with DisplayPort Alt …",
+      "url": "https://www.cnx-software.com/2026/06/09/geekom-a7-2026-edition-amd-ryzen-5-7545u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot",
+      "source": "CNX Software",
+      "publishedAt": "2026-06-09T08:03:39Z"
+    },
+    {
+      "title": "Microsoft Foundry Adds Runtime, Tooling, and Governance for Production Agents",
+      "description": "Microsoft used their Build 2026 event to announce new functionality for Microsoft Foundry. Citing Foundry as \"the place where AI agents move from experiments to production systems,\" in a blog post, Nick Brady writes that the release brings “runtime, tools, me…",
+      "url": "https://www.infoq.com/news/2026/06/microsoft-foundry-agents",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-06-09T08:00:00Z"
+    },
+    {
+      "title": "Recover™ Launches Recover™ Yarns to Accelerate Recycled Cotton Uptake",
+      "description": "Madrid, June 09, 2026 (GLOBE NEWSWIRE) — Recover™, a leading materials science company and one of the world’s largest producers of recycled cotton fiber, today announces the launch of Recover™ Yarns, a curated portfolio of ready-to-use yarn solutions designed…",
+      "url": "https://financialpost.com/globe-newswire/recover-launches-recover-yarns-to-accelerate-recycled-cotton-uptake",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-09T07:57:16Z"
+    },
+    {
+      "title": "Recover™ Launches Recover™ Yarns to Accelerate Recycled Cotton Uptake",
+      "description": "Madrid, June 09, 2026 (GLOBE NEWSWIRE) -- Recover™, a leading materials science company and one of the world’s largest producers of recycled cotton fiber, today announces the launch of Recover™ Yarns, a curated portfolio of ready-to-use yarn solutions designe…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308579/0/en/Recover-Launches-Recover-Yarns-to-Accelerate-Recycled-Cotton-Uptake.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-09T07:54:00Z"
+    },
+    {
+      "title": "Coal Exchange Rules notified to enable transparent coal trading, market-based price discovery",
+      "description": "The Ministry of Coal has notified the Coal Exchange Rules, 2026, paving the way for the establishment of Coal Exchanges in the country as part of efforts to modernise India's coal supply chain and create a more transparent and efficient coal market.",
+      "url": "https://www.thehindubusinessline.com/news/coal-exchange-rules-notified-to-enable-transparent-coal-trading-market-based-price-discovery/article71079449.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-09T07:33:08Z"
+    },
+    {
+      "title": "The Newlywed Table by Maria Zizka",
+      "description": "Contributed by Aubrey Hays, Frere-Jones TypeSource: frerejones.com Frere-Jones Type. License: All Rights Reserved. Designed by Graham Bradley of A+ with Mallory by Frere-Jones Type, The Newlywed Table: A Cookbook to Start Your Life Together encourages newlywe…",
+      "url": "https://fontsinuse.com/uses/74516/the-newlywed-table-by-maria-zizka",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-06-09T07:32:47Z"
+    },
+    {
+      "title": "Asian Stocks Set to Rebound on Iran, AI Optimism: Markets Wrap - Bloomberg.com",
+      "description": "Asian Stocks Set to Rebound on Iran, AI Optimism: Markets WrapBloomberg.com Asia chip-linked shares recover after U.S. peers bounce backCNBC Asia stocks rebound on dip buying, bonds lagReuters Stock markets fall as concerns persist over tech firms at heart of…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183700314",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-09T07:32:36Z"
+    },
+    {
+      "title": "China exports expected to rise 15% in May as front-loaded orders and chip demand surge",
+      "description": "China's May 2026 exports are forecast to grow 15% YoY as front-loaded orders and surging semiconductor demand reshape trade flows across Asia.\nThe post China exports expected to rise 15% in May as front-loaded orders and chip demand surge appeared first on Cr…",
+      "url": "https://cryptobriefing.com/china-exports-may-chip-demand-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-09T07:19:34Z"
+    },
+    {
+      "title": "A Florida startup is building a thorium fuel supply chain from scratch, starting with an Australian mine",
+      "description": "Ampera, a Florida-based nuclear energy startup, announced on Monday that it has established an Australian subsidiary to secure thorium supply for its advanced reactor programme. The company formed Ampera Australia Pty Ltd in February 2026 to procure and impor…",
+      "url": "https://thenextweb.com/news/a-florida-startup-is-building-a-thorium-fuel-supply-chain-from-scratch-starting-with-an-australian-mine",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-09T07:18:33Z"
+    },
+    {
+      "title": "PowerColor AMD Radeon RX 9070 XT Reaper Triple Fan 16GB GDDR6 PCIe 5.0 Graphics Card $629.99",
+      "description": "Price seems to be coming back down to msrp slowly. Lowest price I've seen for this card at microcenter recently. In store pickup only. \n \nhttps://www.microcenter.com/produ...phics-card",
+      "url": "https://slickdeals.net/f/19608945-powercolor-amd-radeon-rx-9070-xt-reaper-triple-fan-16gb-gddr6-pcie-5-0-graphics-card-629-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-09T07:05:37Z"
+    },
+    {
+      "title": "Samsung foundry profit rebound may come in 3Q26 as 2nm orders rise 130%",
+      "description": "Samsung Electronics' foundry business may return to profit as early as the third quarter of 2026, ahead of its previous target of late 2026 to 2027, as improving yields, larger orders, and stronger demand for high-bandwidth memory base dies lift utilization, …",
+      "url": "https://www.digitimes.com/news/a20260609VL214/samsung-profit-2nm-business-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-09T07:04:26Z"
+    },
+    {
+      "title": "Merck and Hashgraph Group launch Hedera-based product passport for EU compliance",
+      "description": "The Hedera-based platform combines product authentication and blockchain traceability to support compliance with new European Union sustainability and supply-chain reporting requirements.",
+      "url": "https://cointelegraph.com/news/merck-and-hashgraph-group-launch-hedera-based-product-passport-for-eu-compliance",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-09T07:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life",
+      "Deliverance AI exits stealth with £6m ARR to run agentic AI inside companies’ own walls",
+      "Indian cancer patients battle shortage of key drugs as platinum costs surge",
+      "Hands-on with Intel's Arc G3 handheld at Computex: It might finally give AMD some competition",
+      "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/apple-siri-google-gemini-nvidia-privacy-wwdc",
+        "https://www.cnx-software.com/2026/06/09/geekom-a7-2026-edition-amd-ryzen-5-7545u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot",
+        "https://www.infoq.com/news/2026/06/microsoft-foundry-agents"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-cancer-patients-battle-shortage-of-key-drugs-as-platinum-costs-surge/articleshow/131606935.cms",
+        "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+        "https://cointelegraph.com/news/merck-and-hashgraph-group-launch-hedera-based-product-passport-for-eu-compliance"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/economy/foreign-trade/assam-cm-himanta-biswa-sarma-meets-team-europe-delegation-to-boost-trade-investment-linkages/articleshow/131606457.cms",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-ends-higher-as-chip-related-heavyweights-jump/articleshow/131606294.cms",
+        "https://thenextweb.com/news/jensen-huang-wont-testify-before-the-senate-on-nvidias-china-chip-sales-he-offered-a-tour-of-headquarters-instead"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life",
+        "https://thenextweb.com/news/deliverance-ai-stealth-sovereign-enterprise-ai",
+        "https://economictimes.indiatimes.com/industry/cons-products/electronics/hands-on-with-intels-arc-g3-handheld-at-computex-it-might-finally-give-amd-some-competition/articleshow/131606389.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Linux developers are using AI vibe coding to keep vintage AMD GPUs alive — R600 driver cleaned up with GitHub Copilot gives HD 2000 to HD 6000 series a new lease of life. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
