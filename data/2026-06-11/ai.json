@@ -1,0 +1,189 @@
+{
+  "theme": "ai",
+  "date": "2026-06-11",
+  "last_updated_utc": "2026-06-11T10:15:48.110Z",
+  "news": [
+    {
+      "title": "Review of the Mythos-class AI model Anthropic Claude Fable",
+      "description": "Anthropic has launched the Fable 5 family of models, representing a new \"Mythos-class\" of artificial intelligence designed for high-level autonomous tasks. While the Mythos version is provided to the security community for vulnerability research without restr…",
+      "url": "https://4sysops.com/archives/review-of-the-mythos-class-ai-model-anthropic-claude-fable",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-10T08:57:26Z"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5, a Mythos-class model made safe for general use",
+      "description": "Anthropic unveils Claude Fable 5, a powerful, safe Mythos-class AI model designed for diverse applications and enhanced performance.",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-launches-claude-fable-5-a-mythos-class-model-made-safe-for-general-use/article71084318.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-10T10:02:20Z"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Infrastructure Stocks Outgrowing Nvidia",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f532ee1a-a6ae-4af2-a7e5-ac8db3fa03e8",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-10T09:50:00Z"
+    },
+    {
+      "title": "Anthropic releases state-of-the-art AI model Claude Fable 5, and it's safe to use",
+      "description": "Anthropic has unveiled Claude Fable 5, the company's most capable model to date, with performance described as 'exceptional' in software engineering.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112121/anthropic-releases-state-of-the-art-ai-model-claude-fable-5-and-its-safe-to-use/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-10T09:16:07Z"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is out for public use, with safeguards for high-risk requests",
+      "description": "Days after publishing research on how advanced AI systems could amplify cyber operations in the wrong hands, Anthropic released Claude Fable 5, a Mythos-class model for general use. “Releasing a model this capable comes with risks. Without safeguards, Fable 5…",
+      "url": "https://www.helpnetsecurity.com/2026/06/10/anthropic-claude-fable-5",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-10T09:14:16Z"
+    },
+    {
+      "title": "Semicon giant Applied Materials opens $600m Singapore plant, adds 1,000 jobs amid AI chip boom",
+      "description": "Applied Materials opens a $600m Singapore plant, creating 1,000 jobs amid the AI chip boom to meet increasing demand. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/semicon-giant-applied-materials-opens-600m-singapore-plant-adds-1000-jobs-amid-ai-chip-boom",
+      "source": "The Straits Times",
+      "publishedAt": "2026-06-10T10:03:05Z"
+    },
+    {
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "description": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup.",
+      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini",
+      "source": "Wired",
+      "publishedAt": "2026-06-10T10:00:00Z"
+    },
+    {
+      "title": "China drafts $295 billion plan to build national AI data center grid running on 80% homemade silicon — projected 2028 timeline could run into limits of local chip production",
+      "description": "China is drafting a plan to spend roughly 2 trillion yuan over five years on a nationwide grid of AI data centers.",
+      "url": "https://www.tomshardware.com/tech-industry/china-drafts-295-billion-plan-to-build-a-national-ai-data-center-grid-running-on-80-percent-domestic-chips",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-06-10T10:00:00Z"
+    },
+    {
+      "title": "Fable 5, Anthropic Alignment, AI Tiers",
+      "description": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+      "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers",
+      "source": "Stratechery.com",
+      "publishedAt": "2026-06-10T10:00:00Z"
+    },
+    {
+      "title": "Simform Recognized as a Seasoned Vendor in AIM Research's PeMa Quadrant: Top Generative AI Service Providers 2026",
+      "description": "ORLANDO, Fla., June 10, 2026 /PRNewswire/ -- AIM Research positions Simform in the Seasoned Vendor PeMa Quadrant in AIM Research's Top Generative AI Service Providers 2026, recognizing the company's engineering-led approach to helping enterprises operationali…",
+      "url": "https://www.prnewswire.com/news-releases/simform-recognized-as-a-seasoned-vendor-in-aim-researchs-pema-quadrant-top-generative-ai-service-providers-2026-302796518.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-10T09:58:00Z"
+    },
+    {
+      "title": "BizLink acquires Blackstone’s Interplex Datacom for $850M to boost data center capabilities",
+      "description": "BizLink's acquisition could significantly enhance its role in the AI data center supply chain, impacting market dynamics and competition.\nThe post BizLink acquires Blackstone’s Interplex Datacom for $850M to boost data center capabilities appeared first on Cr…",
+      "url": "https://cryptobriefing.com/bizlink-acquires-interplex-datacom-data-center",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-10T09:27:11Z"
+    },
+    {
+      "title": "Meta agrees Indian AI data center deal as hyperscaler bolsters its infrastructure",
+      "description": "Meta signs a deal with Mukesh Ambani's Reliance Industries to lease an AI-enabled data center in India.",
+      "url": "https://www.cnbc.com/2026/06/10/meta-ai-infrastructure-data-centers-india-hyperscalers-reliance.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-10T09:24:53Z"
+    },
+    {
+      "title": "ChatGPT was caught recommending fake scam stores",
+      "description": "ChatGPT shopping results have been exploited by scammers, showing why AI-powered buying tools still need stronger safeguards.",
+      "url": "https://www.androidauthority.com/chatgpt-caught-recommending-scam-products-3676182",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-10T09:22:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Review of the Mythos-class AI model Anthropic Claude Fable",
+      "Anthropic launches Claude Fable 5, a Mythos-class model made safe for general use",
+      "2 Artificial Intelligence (AI) Infrastructure Stocks Outgrowing Nvidia",
+      "Anthropic releases state-of-the-art AI model Claude Fable 5, and it's safe to use",
+      "Anthropic’s Claude Fable 5 is out for public use, with safeguards for high-risk requests"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/review-of-the-mythos-class-ai-model-anthropic-claude-fable",
+        "https://www.thehindubusinessline.com/info-tech/anthropic-launches-claude-fable-5-a-mythos-class-model-made-safe-for-general-use/article71084318.ece",
+        "https://www.tweaktown.com/news/112121/anthropic-releases-state-of-the-art-ai-model-claude-fable-5-and-its-safe-to-use/index.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f532ee1a-a6ae-4af2-a7e5-ac8db3fa03e8",
+        "https://www.straitstimes.com/business/semicon-giant-applied-materials-opens-600m-singapore-plant-adds-1000-jobs-amid-ai-chip-boom",
+        "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Review of the Mythos-class AI model Anthropic Claude Fable. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Review of the Mythos-class AI model Anthropic Claude Fable. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Review of the Mythos-class AI model Anthropic Claude Fable. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Review of the Mythos-class AI model Anthropic Claude Fable. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Review of the Mythos-class AI model Anthropic Claude Fable. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
