@@ -1,0 +1,444 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-12",
+  "last_updated_utc": "2026-06-12T10:03:18.040Z",
+  "news": [
+    {
+      "title": "Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Pro-B70-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:46Z"
+    },
+    {
+      "title": "Intel Arc Pro B65 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Pro-B65-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:45Z"
+    },
+    {
+      "title": "Intel Arc B580 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-B580-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:45Z"
+    },
+    {
+      "title": "Intel Arc B390 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-B390-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:45Z"
+    },
+    {
+      "title": "Intel Arc B370 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-B370-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:41Z"
+    },
+    {
+      "title": "Intel Arc A580 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A580-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A310 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A310-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc 130V GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-130V-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc 140T GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-140T-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A570M GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A570M-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A770 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A770-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A380 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A380-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A350M GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A350M-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "Intel Arc A530M GPU Graphics Driver 32.0.101.8824 64-bit",
+      "description": "The generic Intel driver provides users with the latest and greatest feature enhancements and bug fixes that computer manufacturers (OEMs) might not have customized yet. OEM drivers are handpicked and include customized features and solutions to platform-spec…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-A530M-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-11T10:01:40Z"
+    },
+    {
+      "title": "PM Modi-led govt's 12 years in power are 'transformational for industry': Maruti Suzuki chairman",
+      "description": "Maruti Suzuki Chairman R C Bhargava lauded Prime Minister Narendra Modi's economic policies. He stated these policies have transformed Indian industry over the past 12 years. Vehicle exports and car manufacturing have seen significant growth. Rural sales also…",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/pm-modi-led-govts-12-years-in-power-are-transformational-for-industry-maruti-suzuki-chairman/articleshow/131655623.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T10:01:22Z"
+    },
+    {
+      "title": "Openchip taps Baya Systems data-movement platform for RISC-V systems",
+      "description": "Semiconductor fabric intellectual property company Baya Systems Inc. today announced that European chip and artificial intelligence systems firm Openchip & Software Technologies S.L. has licensed its data-movement platform and network-on-chip fabric technolog…",
+      "url": "https://siliconangle.com/2026/06/11/openchip-taps-baya-systems-data-movement-platform-risc-v-systems",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-11T10:00:46Z"
+    },
+    {
+      "title": "My favorite Android feature just landed on my iPhone and I’m in love",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nApple talked a lot about its brand-new AI-powered Siri during its iOS 27 unveiling at its WWDC keynote, but the update also adds many small new features and improvements aimed at enhancing the user experience.\r\n\n\n\n\nBuried among all these impr…",
+      "url": "https://www.macworld.com/article/3162167/my-favorite-android-feature-just-landed-on-my-iphone-and-im-in-love.html",
+      "source": "Macworld",
+      "publishedAt": "2026-06-11T10:00:00Z"
+    },
+    {
+      "title": "The End of the Yuppie Dream",
+      "description": "A buff, working-class white man wearing a plaid button-down shirt and large black shades pokes around a convenience store. He hears a dry, monotonous voice emanating from a television set perched on the wall.“It’s a new morning in America—fresh, vital,” the v…",
+      "url": "https://newrepublic.com/article/211270/end-yuppie-dream",
+      "source": "The New Republic",
+      "publishedAt": "2026-06-11T10:00:00Z"
+    },
+    {
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "description": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.\n\nThe campaigns involve a prolonged cyber espionage operation aimed a…",
+      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-11T09:45:58Z"
+    },
+    {
+      "title": "Goodbye, Intel! macOS 27 Golden Gate Is Exclusive To Apple Silicon Macs",
+      "description": "Apple has officially introduced macOS 27 Golden Gate at WWDC26. The new operating system focuses heavily on artificial intelligence, performance enhancements, and a significant shift in hardware compatibility: it entirely drops support for Intel-based Macs, r…",
+      "url": "https://www.ubergizmo.com/2026/06/goodbye-intel-macos-27-golden-gate-is-exclusive-to-apple-silicon-macs",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-06-11T09:36:15Z"
+    },
+    {
+      "title": "(PR) Gigabyte AORUS GeForce RTX 50 Series AI BOX Brings Desktop-Class Computing Power to Laptops",
+      "description": "Gigabyte, the world's leading computer brand, showcased the AORUS GeForce RTX 50 Series AI BOX powered by NVIDIA Blackwell architecture, delivering desktop-class performance for ultrabook laptops at COMPUTEX 2026. Designed to bring game-changing capabilities,…",
+      "url": "https://www.techpowerup.com/349908/gigabyte-aorus-geforce-rtx-50-series-ai-box-brings-desktop-class-computing-power-to-laptops",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-11T09:35:01Z"
+    },
+    {
+      "title": "Morning Bid: Tech and war jitters sap confidence - Reuters",
+      "description": "Morning Bid: Tech and war jitters sap confidenceReuters Asian Stocks to Fall, Oil Rises as US Strikes Iran: Markets WrapBloomberg Shares retreat as techs extend losses, US strikes on Iran lift oilReuters Asia chip-linked shares recover after U.S. peers bounce…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183750394",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-11T09:32:55Z"
+    },
+    {
+      "title": "AI stocks in South Korea surge as chip demand fuels historic KOSPI rally",
+      "description": "The KOSPI rally highlights the transformative impact of AI demand on traditional markets, underscoring potential shifts in global investment trends.\nThe post AI stocks in South Korea surge as chip demand fuels historic KOSPI rally appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/south-korea-ai-stocks-kospi-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T09:22:56Z"
+    },
+    {
+      "title": "ZOTAC Becomes The Latest AIB To Hike RTX 50 Prices As Soaring VRAM Costs Threaten To Drag Every Board Partner Along",
+      "description": "Another manufacturer announced a price hike for its GPUs, and it appears that many will follow as the DRAM market keeps pushing VRAM prices upwards. ZOTAC RTX 5090D V2 to See A Price Hike of Up to $295, While the RTX 5080, RTX 5070 Series, and RTX 5060 Series…",
+      "url": "https://wccftech.com/zotac-becomes-the-latest-aib-to-hike-rtx-50-prices-as-soaring-vram-costs-threaten-to-drag-every-board-partner-along",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-11T09:07:36Z"
+    },
+    {
+      "title": "NVIDIA’s First Co-Packaged Optics Switch Lands at Lambda, Cutting 3kW Per Rack and Freeing Power for 3,137 Extra GPUs",
+      "description": "The era of Silicon Photonics and Co-Packaged Optics (CPO) is upon us as AI firm Lambda unboxes one of the first NVIDIA Quantum-X InfiniBand platform. NVIDIA Makes Head Start With Silicon Photonics Co-Packaged Optics, Delivering the First Solution To Lambda AI…",
+      "url": "https://wccftech.com/nvidia-first-co-packaged-optics-switch-lands-at-lambda-cutting-3kw-per-rack",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-11T09:05:13Z"
+    },
+    {
+      "title": "Framework Laptop 13 Pro is delayed, but not because of the DRAM crisis",
+      "description": "With Intel Panther Lake, a haptic trackpad and a 700 nits bright display in a modular, repairable chassis, the Framework Laptop 13 Pro wanted to win over even the most demanding laptop buyers. However, problems during production mean that the laptop will now …",
+      "url": "https://www.notebookcheck.net/Framework-Laptop-13-Pro-is-delayed-but-not-because-of-the-DRAM-crisis.1319912.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-11T09:03:00Z"
+    },
+    {
+      "title": "Why soaring memory prices could be Nvidia's next big advantage",
+      "description": "Nvidia, led by CEO Jensen Huang, faces rising memory costs impacting AI infrastructure and partnerships on new systems.",
+      "url": "https://www.businessinsider.com/nvidia-soaring-memory-costs-ai-systems-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-11T09:00:03Z"
+    },
+    {
+      "title": "Trump's pick for intel chief could imperil a key U.S. spy tool. Who is Bill Pulte?",
+      "description": "Pulte's appointment has scrambled talks to renew a spy tool known as FISA 702, as lawmakers in both parties have been vocal about his lack of national security experience and role as a Trump loyalist.",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5851895/bill-pulti-director-of-national-intelligence-fisa-702",
+      "source": "NPR",
+      "publishedAt": "2026-06-11T09:00:00Z"
+    },
+    {
+      "title": "Vietnam-aligned OceanLotus pivots to spy on domestic targets as it takes a more selective approach abroad, ESET Research finds",
+      "description": "BRATISLAVA, Slovakia and MONTREAL, June 11, 2026 (GLOBE NEWSWIRE) -- ESET Research’s tracking of OceanLotus activities from 2024–2026 has revealed a shift in operational focus as the Vietnam-aligned group adopted a more selective approach to external operatio…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310243/0/en/Vietnam-aligned-OceanLotus-pivots-to-spy-on-domestic-targets-as-it-takes-a-more-selective-approach-abroad-ESET-Research-finds.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-11T09:00:00Z"
+    },
+    {
+      "title": "Taiwan chips in as drone makers ditch China supply chains",
+      "description": "Taiwan's drone supply chain is notching fresh wins, with downstream players such as Thunder Tiger and Taiwan's Aerospace Industrial Development Corporation (AIDC) continuing to secure orders while upstream suppliers, especially chipmakers, are quietly expandi…",
+      "url": "https://www.digitimes.com/news/a20260611PD226/supply-chain-taiwan-demand-chips-military.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-11T08:50:37Z"
+    },
+    {
+      "title": "Samsung foundry rebound gathers pace on AI chip wins - The Tribune",
+      "description": "Samsung Electronics' long-struggling foundry business is showing signs of a rebound, as improving yields, rising utilization and a string of high-profile AI chip projects raise prospects for a possible return to profit as early as the third quarter.",
+      "url": "https://www.tribuneindia.com/news/business/samsung-foundry-rebound-gathers-pace-on-ai-chip-wins",
+      "source": "The Tribune India",
+      "publishedAt": "2026-06-11T08:48:17Z"
+    },
+    {
+      "title": "There is still hope: Nvidia GeForce RTX 50 Super performance and specifications leak points to good price/performance",
+      "description": "Moore's Law Is Dead has leaked the specifications and performance of the Nvidia GeForce RTX 50 Super desktop GPU series. The lineup consists of the RTX 5080 Super, RTX 5070 Ti Super, the RTX 5070 Super, and the RTX 5060 Super. The new boards are expected to e…",
+      "url": "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-points-to-good-price-performance.1319876.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-11T08:44:00Z"
+    },
+    {
+      "title": "There is still hope: Nvidia GeForce RTX 50 Super performance and specifications leak point to good price/performance",
+      "description": "Moore's Law Is Dead has leaked the specifications and performance of the Nvidia GeForce RTX 50 Super desktop GPU series. The lineup consists of the RTX 5080 Super, RTX 5070 Ti Super, the RTX 5070 Super, and the RTX 5060 Super. The new boards are expected to e…",
+      "url": "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-point-to-good-price-performance.1319876.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-11T08:44:00Z"
+    },
+    {
+      "title": "Sluggish PC Segment Sees Discrete GPUs Decline By 0.6%, CPU Shipments Also Slow Down Amidst Rising Component Prices",
+      "description": "Rising memory and component prices are major factors behind a sluggish Q1 for the PC segment as GPU and CPU shipments decline. Both CPU & GPU Shipments Were Down In Q1 2026, But Intel Got A Tiny Slice of The Discrete GPU Market Share The latest market statist…",
+      "url": "https://wccftech.com/sluggish-pc-segment-sees-discrete-gpus-decline-cpu-shipments-also-slow-down-amidst-rising-component-prices",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-11T08:30:44Z"
+    },
+    {
+      "title": "Amkor Korea weighs KRW1 trillion Gwangju expansion amid reported TSMC order growth",
+      "description": "Amkor Technology Korea is considering investing about KRW1 trillion (approx. US$650 million) to expand its chip packaging and testing facilities in the South Korean city of Gwangju, according to Korean media reports and city officials. The company has not off…",
+      "url": "https://www.digitimes.com/news/a20260611VL216/amkor-south-korea-expansion-packaging-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-11T08:16:04Z"
+    },
+    {
+      "title": "Xiaomi Mix Fold 5 leaked specs suggest price jump and major camera upgrade",
+      "description": "New foldable could cost 10% more than predecessor while packing 200MP camera and Xiaomi's custom Xring O3 chip",
+      "url": "https://www.intomobile.com/2026/06/11/xiaomi-mix-fold-5-leaked-specs-suggest-price-jump-and-major-camera-upgrade",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-06-11T08:05:59Z"
+    },
+    {
+      "title": "Microsoft expands local Windows 11 AI support to Nvidia RTX GPUs",
+      "description": "Microsoft is expanding support for local AI capabilities in Windows 11 to include systems equipped with dedicated Nvidia graphics cards. Previously, these features were exclusive to Copilot+ PCs, which require a dedicated Neural Processing Unit (NPU) with at …",
+      "url": "https://4sysops.com/archives/microsoft-expands-local-windows-11-ai-support-to-nvidia-rtx-gpus",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T08:04:36Z"
+    },
+    {
+      "title": "GitHub to disable npm install scripts by default to prevent supply chain attacks",
+      "description": "GitHub is introducing significant security changes in npm version 12 to mitigate risks associated with software supply chain attacks. The update will disable the automatic execution of lifecycle scripts during the package installation process by default. This…",
+      "url": "https://4sysops.com/archives/github-to-disable-npm-install-scripts-by-default-to-prevent-supply-chain-attacks",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T08:04:32Z"
+    },
+    {
+      "title": "Applied Materials CEO: AI reshapes semiconductor innovation",
+      "description": "Applied Materials said artificial intelligence (AI) is reshaping the global semiconductor industry and could drive years of heavy investment in chipmaking, packaging, and materials engineering. The shift matters far beyond one company, because AI demand is in…",
+      "url": "https://www.digitimes.com/news/a20260611PD202/applied-materials-ai-investment-demand-materials.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-11T08:02:10Z"
+    },
+    {
+      "title": "io.net to Burn Up to 12M Tokens as Network Closes $8M Deal and Hits 4 Billion Daily AI Tokens",
+      "description": "Decentralized GPU network launches demand-driven tokenomics backed by record revenue and AI inference volume on its third anniversary Decentralized GPU network launches demand-driven tokenomics backed by record revenue and AI inference volume on its third ann…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310232/0/en/io-net-to-Burn-Up-to-12M-Tokens-as-Network-Closes-8M-Deal-and-Hits-4-Billion-Daily-AI-Tokens.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-11T08:00:00Z"
+    },
+    {
+      "title": "China’s Techno-Industrial Strategy in the Xi Era",
+      "description": "Under Xi Jinping, China's techno-industrial ecosystem has produced impressive gains in technological capabilities, manufacturing scale, and supply chain resilience in priority sectors. But the system also generates significant tensions.",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4012-1.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-06-11T08:00:00Z"
+    },
+    {
+      "title": "Applied Materials expands Singapore base as AI supply-chain bottlenecks loom",
+      "description": "Applied Materials is expanding manufacturing and research in Singapore as artificial intelligence (AI) drives a wider shift in semiconductor planning, supply chains, and investment. The move highlights how AI demand is influencing chipmakers, equipment suppli…",
+      "url": "https://www.digitimes.com/news/a20260611PD201/applied-materials-singapore-investment-equipment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-11T07:58:22Z"
+    },
+    {
+      "title": "Global Market | European shares edge higher ahead of ECB rate verdict; Mideast tensions eyed",
+      "description": "European stocks saw a slight rise today. Investors remain cautious due to rising Middle East tensions. Crude oil prices are high, impacting travel stocks. However, Wizz Air's profit beat expectations boosted its shares. Hugo Boss shares jumped on a takeover o…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-rate-verdict-mideast-tensions-eyed/articleshow/131653125.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T07:55:08Z"
+    },
+    {
+      "title": "GlobalFoundries partners with Fermionic to produce first ever chip for an Indian firm",
+      "description": "Fermionic's RF chips will be the first Indian semiconductors to be manufactured by GlobalFoundries, which has been producing chips for global majors such as Qualcomm, Mediatek, Broadcom etc.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/globalfoundries-partners-with-fermionic-to-produce-first-ever-chip-for-an-indian-firm/articleshow/131652925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T07:47:21Z"
+    },
+    {
+      "title": "Musk to speak at chip tool giant ASML event ahead of SpaceX IPO",
+      "description": "AMSTERDAM, June 11 : Elon Musk is expected to appear virtually at an event by computer chip equipment giant ASML on Thursday to discuss Terafab, his plan for a massive chipmaking plant to supply Tesla and IPO-bound SpaceX.The pricing of the initial public off…",
+      "url": "https://www.channelnewsasia.com/business/musk-speak-chip-tool-giant-asml-event-ahead-spacex-ipo-6176176",
+      "source": "CNA",
+      "publishedAt": "2026-06-11T07:46:06Z"
+    },
+    {
+      "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
+      "description": "The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. ASML, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to p…",
+      "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-06-11T07:30:57Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "Intel Arc Pro B65 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "Intel Arc B580 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "Intel Arc B390 GPU Graphics Driver 32.0.101.8824 64-bit",
+      "Intel Arc B370 GPU Graphics Driver 32.0.101.8824 64-bit"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Pro-B70-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Pro-B65-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-B580-GPU-Graphics-Driver-32-0-101-8824-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "Gpu",
+      "summary": "Grouped stories where \"gpu\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-points-to-good-price-performance.1319876.0.html",
+        "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-point-to-good-price-performance.1319876.0.html",
+        "https://www.globenewswire.com/news-release/2026/06/11/3310232/0/en/io-net-to-Burn-Up-to-12M-Tokens-as-Network-Closes-8M-Deal-and-Hits-4-Billion-Daily-AI-Tokens.html"
+      ]
+    },
+    {
+      "title": "Latest",
+      "summary": "Grouped stories where \"latest\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/zotac-becomes-the-latest-aib-to-hike-rtx-50-prices-as-soaring-vram-costs-threaten-to-drag-every-board-partner-along"
+      ]
+    },
+    {
+      "title": "Computer",
+      "summary": "Grouped stories where \"computer\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/349908/gigabyte-aorus-geforce-rtx-50-series-ai-box-brings-desktop-class-computing-power-to-laptops",
+        "https://www.channelnewsasia.com/business/musk-speak-chip-tool-giant-asml-event-ahead-spacex-ipo-6176176"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/auto/auto-news/pm-modi-led-govts-12-years-in-power-are-transformational-for-industry-maruti-suzuki-chairman/articleshow/131655623.cms",
+        "https://siliconangle.com/2026/06/11/openchip-taps-baya-systems-data-movement-platform-risc-v-systems",
+        "https://www.macworld.com/article/3162167/my-favorite-android-feature-just-landed-on-my-iphone-and-im-in-love.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit. Main topic cluster: Intel. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit. Main topic cluster: Intel. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit. Main topic cluster: Intel. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit. Main topic cluster: Intel. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel Arc Pro B70 GPU Graphics Driver 32.0.101.8824 64-bit. Main topic cluster: Intel. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

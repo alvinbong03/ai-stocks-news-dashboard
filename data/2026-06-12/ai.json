@@ -1,0 +1,331 @@
+{
+  "theme": "ai",
+  "date": "2026-06-12",
+  "last_updated_utc": "2026-06-12T10:03:00.500Z",
+  "news": [
+    {
+      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+      "description": "SAN FRANCISCO/NEW YORK, June 11 : If not for the intense rivalry between Anthropic and OpenAI, the generative AI boom might not have arrived so quickly.In late 2022, OpenAI caught wind that Anthropic was working on an AI-powered chatbot. OpenAI CEO Sam Altman…",
+      "url": "https://www.channelnewsasia.com/business/anthropic-v-openai-behind-bitter-battle-future-ai-6176571",
+      "source": "CNA",
+      "publishedAt": "2026-06-11T10:01:23Z"
+    },
+    {
+      "title": "OpenAI GPT-5.4 and GPT-5.5 models arrive on Amazon Bedrock in US East region",
+      "description": "Amazon Bedrock has expanded its model lineup by making OpenAI's GPT-5.4 and GPT-5.5 available in the US East (N. Virginia) region. These generative AI models are designed to handle complex reasoning, advanced coding, and automated software operations. Adminis…",
+      "url": "https://4sysops.com/archives/openai-gpt-5-4-and-gpt-5-5-models-arrive-on-amazon-bedrock-in-us-east-region",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:10Z"
+    },
+    {
+      "title": "OpenAI and Anthropic keep warning about AI risks, then releasing bigger models and filing for IPOs",
+      "description": "In the past fortnight, the two most powerful AI labs on the planet have published research papers, blog posts, and policy proposals warning that frontier artificial intelligence is advancing faster than anyone can control it. In the very same stretch, both fi…",
+      "url": "https://thenextweb.com/news/openai-anthropic-ai-risk-warnings-ipo-irony",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-11T09:26:31Z"
+    },
+    {
+      "title": "Anthropic faces backlash over stricter safeguards on new Claude Mythos 5 model",
+      "description": "The backlash highlights the tension between AI safety measures and user needs, impacting workflows and raising concerns in sensitive fields.\nThe post Anthropic faces backlash over stricter safeguards on new Claude Mythos 5 model appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/anthropic-backlash-claude-mythos-safeguards",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T07:48:32Z"
+    },
+    {
+      "title": "OpenAI considers price cuts amid competition with Anthropic",
+      "description": "OpenAI's potential price cuts highlight the intense competition in AI, impacting investor perceptions and challenging profitability strategies.\nThe post OpenAI considers price cuts amid competition with Anthropic appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-price-cuts-anthropic-competition",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T09:40:42Z"
+    },
+    {
+      "title": "OpenAI plugs Visa into ChatGPT so AI agents can shop and pay at any Visa merchant",
+      "description": "OpenAI is wiring a payment network into ChatGPT. Under an expanded partnership announced at the Visa Payments Forum on Wednesday, AI agents inside OpenAI’s products will be able to shop and pay on a user’s behalf at, in principle, any of the more than 175 mil…",
+      "url": "https://thenextweb.com/news/openai-visa-chatgpt-agentic-commerce-payments",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-11T09:36:24Z"
+    },
+    {
+      "title": "OpenAI considers significant price cuts to compete with Anthropic",
+      "description": "OpenAI is evaluating substantial price reductions for its AI tokens to maintain a competitive edge against its rival Anthropic. Tokens serve as the fundamental unit of measurement for billing, representing the segments of text processed by large language mode…",
+      "url": "https://4sysops.com/archives/openai-considers-significant-price-cuts-to-compete-with-anthropic",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:17Z"
+    },
+    {
+      "title": "Anthropic reverses covert throttling of Claude Fable 5 for AI researchers",
+      "description": "Anthropic has retracted a controversial policy that would have invisibly degraded the performance of its Claude Fable 5 model for competitors. The company initially implemented these hidden guardrails to prevent rival researchers from using the model to devel…",
+      "url": "https://4sysops.com/archives/anthropic-reverses-covert-throttling-of-claude-fable-5-for-ai-researchers",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:13Z"
+    },
+    {
+      "title": "Exyte secures three major AI-driven data center projects near Frankfurt - supporting 400 jobs in Germany",
+      "description": "Three large-scale artificial intelligence (AI)-driven data center projects for international hyperscalers and technology companies Order intake of close to €750 million Around 400 roles in Germany to support project delivery STUTTGART, Germany, June 11, 2026 …",
+      "url": "https://www.prnewswire.com/news-releases/exyte-secures-three-major-ai-driven-data-center-projects-near-frankfurt--supporting-400-jobs-in-germany-302796847.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-11T09:00:00Z"
+    },
+    {
+      "title": "92 percent of Indonesian knowledge workers use generative AI: govt",
+      "description": "Communication and Digital Affairs Ministry noted that 92 percent of knowledge workers in Indonesia have integrated generative artificial intelligence (AI) ...",
+      "url": "https://en.antaranews.com/news/418873/92-percent-of-indonesian-knowledge-workers-use-generative-ai-govt",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-06-11T08:58:04Z"
+    },
+    {
+      "title": "OpenAI to cut AI pricing amid growing competition from Anthropic: Report",
+      "description": "OpenAI plans to reduce AI pricing to attract more enterprise customers, competing with Anthropic ahead of their IPOs.&nbsp;",
+      "url": "https://www.livemint.com/companies/news/openai-to-cut-ai-pricing-amid-growing-competition-from-anthropic-report-11781158768945.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-11T08:49:10Z"
+    },
+    {
+      "title": "Visa plugs its payment network into ChatGPT letting AI agents shop, pay for users",
+      "description": "It is not OpenAI's first attempt at e-commerce. The company late last year announced Instant Checkout, which allowed ChatGPT to scour the internet for a specific item like a digital personal shopper. But the process was prone to errors and was not widely adop…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-pay-for-users/articleshow/131653911.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T08:37:59Z"
+    },
+    {
+      "title": "Ungrounded LLM Fabricates Every Detail for Nearly 1 in 5 Movie and TV Titles Tested, New Gracenote Report Finds",
+      "description": "Study underscores the need for authoritative content intelligence to build trusted search, discovery and recommendation experiences powered by generative AI",
+      "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175221",
+      "source": "Streamingmedia.com",
+      "publishedAt": "2026-06-11T08:15:14Z"
+    },
+    {
+      "title": "Visa and OpenAI partner to enable autonomous AI agent transactions",
+      "description": "Visa and OpenAI have announced a partnership to integrate Visa’s global payment network directly into the ChatGPT ecosystem. This collaboration enables AI agents to perform autonomous commerce by making purchases on behalf of users and developers. The initiat…",
+      "url": "https://4sysops.com/archives/visa-and-openai-partner-to-enable-autonomous-ai-agent-transactions",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T08:04:37Z"
+    },
+    {
+      "title": "Microsoft expands local Windows 11 AI support to Nvidia RTX GPUs",
+      "description": "Microsoft is expanding support for local AI capabilities in Windows 11 to include systems equipped with dedicated Nvidia graphics cards. Previously, these features were exclusive to Copilot+ PCs, which require a dedicated Neural Processing Unit (NPU) with at …",
+      "url": "https://4sysops.com/archives/microsoft-expands-local-windows-11-ai-support-to-nvidia-rtx-gpus",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T08:04:36Z"
+    },
+    {
+      "title": "Anthropic Asks The AI Industry To Hit The Brakes – Here’s What It Means For SEO & Search Marketers via @sejournal, @gregjarboe",
+      "description": "Anthropic proposes coordinated AI development pause, warning of rapid capability growth that could reshape search, content quality signals, and marketing practices.\nThe post Anthropic Asks The AI Industry To Hit The Brakes – Here’s What It Means For SEO & Sea…",
+      "url": "https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-06-11T10:00:51Z"
+    },
+    {
+      "title": "How One Creator Turned Claude Fable Into the Ultimate Second Brain",
+      "description": "Claude Fable, an AI model, can be adapted into a structured system for managing knowledge and workflows, as demonstrated by Nate Herk. Using the “Four C’s” framework—Context, Connections, Capabilities and Cadence, he explains how to create an AI Operating Sys…",
+      "url": "https://www.geeky-gadgets.com/claude-fable-second-brain",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-11T09:47:00Z"
+    },
+    {
+      "title": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures — Nashville weighs sweeping hyperscale ban",
+      "description": "An ongoing fight over a proposed data center sited just 50 yards from Nashville Zoo has escalated further, with the zoo&rsquo;s land use attorney filing a zoning appeal to overturn permits already approved.\n                                                    …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183750388",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-11T09:32:12Z"
+    },
+    {
+      "title": "OpenAI adopts EU transparency code to improve AI content provenance",
+      "description": "OpenAI has officially announced its support for the European Commission’s Code of Practice on Transparency of AI-Generated Content. This initiative aligns with the EU AI Act to establish a more transparent digital environment for users and organizations. The …",
+      "url": "https://4sysops.com/archives/openai-adopts-eu-transparency-code-to-improve-ai-content-provenance",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:19Z"
+    },
+    {
+      "title": "Anthropic reverses secret performance degradation for Claude Fable 5",
+      "description": "Anthropic has retracted a controversial policy that would have covertly reduced the performance of its Claude Fable 5 model for certain users. The company initially intended to implement \"secret safeguards\" that would silently degrade the model's capabilities…",
+      "url": "https://4sysops.com/archives/anthropic-reverses-secret-performance-degradation-for-claude-fable-5",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:18Z"
+    },
+    {
+      "title": "Anthropic restricts Claude Fable basic biology responses due to safety concerns",
+      "description": "Anthropic has released Claude Fable 5, the first of its highly capable Mythos-class models. While the company praises the model's advanced scientific capabilities, it has implemented aggressive guardrails that prevent it from answering basic biology questions…",
+      "url": "https://4sysops.com/archives/anthropic-restricts-claude-fable-basic-biology-responses-due-to-safety-concerns",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-11T09:31:11Z"
+    },
+    {
+      "title": "OpenAI files confidentially for IPO amid AI sector race to Wall Street",
+      "description": "OpenAI's confidential IPO filing highlights the growing momentum and competitive pressures in the AI sector's race to public markets.\nThe post OpenAI files confidentially for IPO amid AI sector race to Wall Street appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-files-confidentially-for-ipo-amid-ai-sector-race-to-wall-street",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T09:30:32Z"
+    },
+    {
+      "title": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures — Nashville weighs sweeping hyperscale ban",
+      "description": "An ongoing fight over a proposed data center sited just 50 yards from Nashville Zoo has escalated further, with the zoo’s land use attorney filing a zoning appeal to overturn permits already approved.",
+      "url": "https://www.tomshardware.com/tech-industry/nashville-considers-hyperscale-data-center-ban-as-zoo-dispute-escalates",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-06-11T09:30:00Z"
+    },
+    {
+      "title": "Hidden AI India winners add $48 billion on data-center boom",
+      "description": "Indian industrial companies are experiencing significant growth by supplying components for data centers. This trend is driven by massive global investments in AI infrastructure. Firms making transformers, cooling systems, and cables are seeing substantial ga…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hidden-ai-india-winners-add-48-billion-on-data-center-boom/articleshow/131654569.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T09:10:55Z"
+    },
+    {
+      "title": "OpenAI signs major Visa deal — so AI agents will soon be able to make payments and purchases for you",
+      "description": "Visa payments to be integrated within OpenAI's ecosystem, paving the way for future agentic transactions and bookings.",
+      "url": "https://www.techradar.com/pro/openai-signs-major-visa-deal-so-ai-agents-will-soon-be-able-to-make-payments-and-purchases-for-you",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-11T09:07:58Z"
+    },
+    {
+      "title": "Samsung foundry rebound gathers pace on AI chip wins - The Tribune",
+      "description": "Samsung Electronics' long-struggling foundry business is showing signs of a rebound, as improving yields, rising utilization and a string of high-profile AI chip projects raise prospects for a possible return to profit as early as the third quarter.",
+      "url": "https://www.tribuneindia.com/news/business/samsung-foundry-rebound-gathers-pace-on-ai-chip-wins",
+      "source": "The Tribune India",
+      "publishedAt": "2026-06-11T08:48:17Z"
+    },
+    {
+      "title": "There is still hope: Nvidia GeForce RTX 50 Super performance and specifications leak points to good price/performance",
+      "description": "Moore's Law Is Dead has leaked the specifications and performance of the Nvidia GeForce RTX 50 Super desktop GPU series. The lineup consists of the RTX 5080 Super, RTX 5070 Ti Super, the RTX 5070 Super, and the RTX 5060 Super. The new boards are expected to e…",
+      "url": "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-points-to-good-price-performance.1319876.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-11T08:44:00Z"
+    },
+    {
+      "title": "There is still hope: Nvidia GeForce RTX 50 Super performance and specifications leak point to good price/performance",
+      "description": "Moore's Law Is Dead has leaked the specifications and performance of the Nvidia GeForce RTX 50 Super desktop GPU series. The lineup consists of the RTX 5080 Super, RTX 5070 Ti Super, the RTX 5070 Super, and the RTX 5060 Super. The new boards are expected to e…",
+      "url": "https://www.notebookcheck.net/There-is-still-hope-Nvidia-GeForce-RTX-50-Super-performance-and-specifications-leak-point-to-good-price-performance.1319876.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-11T08:44:00Z"
+    },
+    {
+      "title": "I keep converting expenses into EMIs: I asked ChatGPT if I have quietly become too dependent on debt; AI minces no words",
+      "description": "Concerned about their dependency on EMIs for ordinary expenses, a salaried individual seeks an analysis of his financial habits. ChatGPT obliges.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/i-keep-converting-expenses-into-emis-i-asked-chatgpt-if-i-have-quietly-become-too-dependent-on-debt-ai-minces-no-words-11781164399237.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-11T08:04:07Z"
+    },
+    {
+      "title": "XiaomiがClaude Code的なAIエージェント「MiMo Code」をオープンソースで公開、ブラインドテストでClaude Codeに勝利",
+      "description": "中国大手テクノロジー企業であるXiaomiがAIエージェントツール「MiMo Code」を2026年6月11日に公開しました。MiMo Codehttps://mimo.xiaomi.com/mimocodeMiMo Code: Scaling Coding Agents to Long-Horizon Taskshttps://mimo.xiaomi.com/blog/mimo-code-long-horizon MiMo Code V0.1 is now live and open-source！More…",
+      "url": "https://news.livedoor.com/article/detail/31520792",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-11T07:56:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+      "OpenAI GPT-5.4 and GPT-5.5 models arrive on Amazon Bedrock in US East region",
+      "OpenAI and Anthropic keep warning about AI risks, then releasing bigger models and filing for IPOs",
+      "Anthropic faces backlash over stricter safeguards on new Claude Mythos 5 model",
+      "OpenAI considers price cuts amid competition with Anthropic"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/business/anthropic-v-openai-behind-bitter-battle-future-ai-6176571",
+        "https://4sysops.com/archives/openai-gpt-5-4-and-gpt-5-5-models-arrive-on-amazon-bedrock-in-us-east-region",
+        "https://thenextweb.com/news/openai-anthropic-ai-risk-warnings-ipo-irony"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/anthropic-backlash-claude-mythos-safeguards",
+        "https://4sysops.com/archives/anthropic-reverses-covert-throttling-of-claude-fable-5-for-ai-researchers",
+        "https://www.searchenginejournal.com/anthropic-asks-the-ai-industry-to-hit-the-brakes-heres-what-it-means-for-seo-search-marketers/578156"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/claude-fable-second-brain"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/31520792"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/exyte-secures-three-major-ai-driven-data-center-projects-near-frankfurt--supporting-400-jobs-in-germany-302796847.html",
+        "https://en.antaranews.com/news/418873/92-percent-of-indonesian-knowledge-workers-use-generative-ai-govt",
+        "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175221"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic v. OpenAI: Behind the bitter battle for the future of AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic v. OpenAI: Behind the bitter battle for the future of AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic v. OpenAI: Behind the bitter battle for the future of AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic v. OpenAI: Behind the bitter battle for the future of AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic v. OpenAI: Behind the bitter battle for the future of AI. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
