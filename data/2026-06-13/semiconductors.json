@@ -1,0 +1,398 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-13",
+  "last_updated_utc": "2026-06-13T08:52:04.957Z",
+  "news": [
+    {
+      "title": "MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards",
+      "description": "Motherboard vendors ASUS and MSI began releasing UEFI firmware updates to their AMD 600-series chipset motherboards that introduce support for AMD EXPO-ULL memory profiles. EXPO-ULL is an SPD extension that simplifies memory settings. While AMD Ryzen 7000 ser…",
+      "url": "https://www.techpowerup.com/349926/msi-and-asus-release-bios-updates-to-support-expo-ull-on-amd-x670e-motherboards",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-12T08:50:56Z"
+    },
+    {
+      "title": "Shin-Etsu plans rare earth plant in Japan to counter China supply curbs",
+      "description": "Shin-Etsu Chemical plans to build a new rare earth production facility in Fukui Prefecture, aiming to expand domestic smelting capacity and reduce Japan's reliance on China for materials critical to electric vehicle and semiconductor manufacturing equipment, …",
+      "url": "https://www.digitimes.com/news/a20260612VL212/shin-etsu-plant-materials-production-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T08:05:21Z"
+    },
+    {
+      "title": "Vivo X Fold6 gets world’s first MediaTek Dimensity 9500 Super Edition chip",
+      "description": "Custom processor promises 111% better AI performance and 56% lower power consumption for foldable phones",
+      "url": "https://www.intomobile.com/2026/06/12/vivo-x-fold6-gets-worlds-first-mediatek-dimensity-9500-super-edition-chip",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-06-12T08:03:21Z"
+    },
+    {
+      "title": "Japan’s Semiconductor Gas Production Collapses To Zero After China Cuts Off Tungsten, Leaving TSMC, SK Hynix And Samsung Exposed",
+      "description": "China has stopped exporting a critical gas to Japan, leading to severe shortages in the semiconductor segment that will affect TSMC, SK Hynix & Samsung. Tungsten Hexafluoride Plays A Crucial Role In Semiconductor Manufacturing, But Japan Sees Production Drop …",
+      "url": "https://wccftech.com/japan-semiconductor-gas-production-collapses-to-zero-after-china-cuts-off-tungsten-tsmc-sk-hynix-samsung",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-12T07:55:14Z"
+    },
+    {
+      "title": "IIT (BHU) students pull off historic silicon tape-out, deliver fabrication-ready chip in just five months",
+      "description": "IIT (BHU) students have achieved a major breakthrough by completing the institute’s first-ever silicon tape-out, taking a semiconductor chip from design to fabrication submission in just five months. Led largely by second-year Electronics Engineering students…",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-bhu-students-pull-off-historic-silicon-tape-out-deliver-fabrication-ready-chip-in-just-five-months/articleshow/131677925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T07:44:47Z"
+    },
+    {
+      "title": "Orico Intros CNM2-U4-GY M.2 NVMe to USB4 Portable SSD Enclosure",
+      "description": "Orico introduced the CNM2-U4-GY, an M.2 NVMe SSD enclosure featuring the 40 Gbps USB4 interface. The enclosure seats an M.2-2280 SSD with PCI-Express 4.0 x4 host interface, which it wires out as USB4. Its controller transparently exposes the drive as an NVMe …",
+      "url": "https://www.techpowerup.com/349924/orico-intros-cnm2-u4-gy-m-2-nvme-to-usb4-portable-ssd-enclosure",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-12T07:44:00Z"
+    },
+    {
+      "title": "Taiwan PMIC maker Global Mixed-mode to raise prices as chip shortages persist",
+      "description": "Taiwanese power management IC supplier Global Mixed-mode Technology (GMT) will follow peers in seeking price increases from customers as tight chip supply continues to reshape capacity allocation across the industry.",
+      "url": "https://www.digitimes.com/news/a20260612PD215/ic-management-price-supplier-pmic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T07:43:16Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3i Intel N355 15.6\" Laptop for $300 + free shipping",
+      "description": "As one of its daily deals, Best Buy offers this model at a discount of $200. Buy Now at Best Buy\r\n Features\r\n <ul> <li>Intel Processor N355 (2025)</li> <li>15.6\" 1920x1080 (1080p) LCD</li> <li>8GB RAM & 128GB SSD</li> <li>Windows 11 Home</li> </ul>",
+      "url": "https://www.dealnews.com/Lenovo-Idea-Pad-Slim-3-i-Intel-N355-15-6-Laptop-for-300-free-shipping/21840113.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-06-12T07:38:51Z"
+    },
+    {
+      "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead",
+      "description": "Samsung Electronics is regaining ground in high-bandwidth memory and foundry services, but advanced packaging remains a weak point in its bid to capture a larger share of the AI chip supply chain, according to industry sources and Korean media reports.",
+      "url": "https://www.digitimes.com/news/a20260611VL219/samsung-packaging-tsmc-intel-hbm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T07:38:36Z"
+    },
+    {
+      "title": "Second fire in less than two weeks disrupts SK Hynix's Cheongju chip campus",
+      "description": "SK Hynix's latest fire at its Cheongju, South Korea, campus has again disrupted operations at a key memory-chip site and prompted evacuations of thousands of workers. The incident adds to a series of recent accidents, raising fresh safety concerns for semicon…",
+      "url": "https://www.digitimes.com/news/a20260612PD228/sk-hynix-fire-fab-equipment-hospital.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T07:38:24Z"
+    },
+    {
+      "title": "Taiwan compute suppliers rise on booming AI demand, with several firms extending strong growth",
+      "description": "Taiwan's semiconductor and electronics supply-chain companies continued to post generally firm sales in May, according to monthly revenue data and company disclosures, with the strongest accumulated growth concentrated in AI-linked logic, testing, substrate, …",
+      "url": "https://www.digitimes.com/news/a20260611VL208/growth-taiwan-demand-revenue-sales.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T07:37:41Z"
+    },
+    {
+      "title": "2 to 4 cents Fortior FU75xx dual-core motor control MCU family combines 32-bit RISC-V core with 2nd-gen Motor Engine (ME2) core",
+      "description": "Motor driver IC specialist Fortior Technology has recently introduced the ultra-cheap FU75xx dual-core motor control MCU family, pairing a 32-bit RISC-V core and the company’s proprietary 2nd-generation Motor Engine (ME2) core. The RISC-V core is used for par…",
+      "url": "https://www.cnx-software.com/2026/06/12/fortior-fu75xx-dual-core-motor-control-mcu-family-combines-32-bit-risc-v-core-with-2nd-generation-motor-engine-me2-core",
+      "source": "CNX Software",
+      "publishedAt": "2026-06-12T07:34:01Z"
+    },
+    {
+      "title": "Delos Data offers AI chip startups a fast track to rack scale",
+      "description": "Half the trouble of building an Nvidia NVL or AMD Helios competitor is just getting the networking out of the box",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183757320",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-12T07:32:43Z"
+    },
+    {
+      "title": "Delos Data offers AI chip startups a fast track to rack scale",
+      "description": "Half the trouble of building an Nvidia NVL or AMD Helios competitor is just getting the networking out of the box",
+      "url": "https://www.theregister.com/systems/2026/06/12/delos-data-offers-ai-chip-startups-a-fast-track-to-rack-scale/5254600",
+      "source": "Theregister.com",
+      "publishedAt": "2026-06-12T07:30:00Z"
+    },
+    {
+      "title": "Japan's Nikkei ends nearly 3% higher on renewed hopes for Middle East peace",
+      "description": "Japanese stocks surged on Friday, with the Nikkei index climbing close to 3 percent. Investors reacted positively to news of a potential peace deal between the United States and Iran. Chip-related companies saw significant gains. Banks also advanced ahead of …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-ends-nearly-3-higher-on-renewed-hopes-for-middle-east-peace/articleshow/131677552.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T07:23:38Z"
+    },
+    {
+      "title": "HVR Solar signs global MoUs to set up 1.2 GW TOPCon solar cell manufacturing facility in Uttar Pradesh",
+      "description": "HVR Solar Ltd is establishing a 1.2 GW TOPCon solar cell manufacturing line in Uttar Pradesh through strategic MoUs signed at SNEC PV Power Expo 2026. Partnering with global technology providers, the facility aims to boost India's domestic renewable energy su…",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/hvr-solar-signs-global-mous-to-set-up-1-2-gw-topcon-solar-cell-manufacturing-facility-in-uttar-pradesh/articleshow/131677080.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T07:14:28Z"
+    },
+    {
+      "title": "No Bake Chocolate Peanut Butter Cookie Bars.",
+      "description": "No Bake Chocolate Peanut Butter Cookie Bars.\nNo Bake Chocolate Peanut Butter Cookie Bars made with peanut butter, dates, oats, quinoa, and chocolate chips. An easy, wholesome no-bake treat!\nREAD: No Bake Chocolate Peanut Butter Cookie Bars.",
+      "url": "https://www.halfbakedharvest.com/no-bake-chocolate-peanut-butter-cookie-bars",
+      "source": "Halfbakedharvest.com",
+      "publishedAt": "2026-06-12T07:00:00Z"
+    },
+    {
+      "title": "Samsung could make a part of Google’s next-gen AI chip using 2nm tech",
+      "description": "Google develops its own AI accelerator chips, known as Tensor Processing Units (TPUs). The company is reportedly working on its tenth-generation TPU, and it is said to be in talks with Samsung Foundry to manufacture part of the chip. According to a report fro…",
+      "url": "https://www.sammobile.com/news/samsung-could-make-part-google-icefish-tpu-chip-2nm",
+      "source": "SamMobile",
+      "publishedAt": "2026-06-12T06:45:36Z"
+    },
+    {
+      "title": "South Korea concrete strike clouds chip supply: Samsung, SK Hynix fabs construction reportedly stalls",
+      "description": "A strike by South Korea's ready-mix concrete transport union is disrupting major semiconductor construction sites and raising concerns about wider industrial spillovers. If the stoppage continues, delays could spread beyond building projects and affect produc…",
+      "url": "https://www.digitimes.com/news/a20260612PD225/strike-sk-hynix-samsung-industrial-region.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T06:43:23Z"
+    },
+    {
+      "title": "HP - OmniBook 3 - 17.3\" Full HD Laptop - AMD Ryzen 5 40 (2025) - 8GB Memory - 512GB SSD - Glacier Silver $449.99",
+      "description": "HP - OmniBook 3 - 17.3\" Full HD Laptop - AMD Ryzen 5 40 (2025) - 8GB Memory - 512GB SSD - Glacier Silver \n \nhttps://www.bestbuy.com/product/h...JJGWKLZ8SW",
+      "url": "https://slickdeals.net/f/19620810-hp-omnibook-3-17-3-full-hd-laptop-amd-ryzen-5-40-2025-8gb-memory-512gb-ssd-glacier-silver-449-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-12T06:39:42Z"
+    },
+    {
+      "title": "Nvidia pitches Vera CPU to Chinese clients as it eyes $200 billion market opportunity",
+      "description": "Nvidia's strategic entry into China's CPU market could reshape global data center dynamics, challenging established players and regulatory norms.\nThe post Nvidia pitches Vera CPU to Chinese clients as it eyes $200 billion market opportunity appeared first on …",
+      "url": "https://cryptobriefing.com/nvidia-vera-cpu-china-sales",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-12T06:35:20Z"
+    },
+    {
+      "title": "Quanta NVIDIA T550 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for Quanta NVIDIA T550 Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Quanta-NVIDIA-T550-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-12T06:31:16Z"
+    },
+    {
+      "title": "'Too lazy': NVIDIA's Jensen Huang says CEOs use AI as cover story for layoffs that has nothing to do with it",
+      "description": "NVIDIA chief executive Jensen Huang has publicly challenged corporate leaders who blame artificial intelligence for job cuts, pointing out that many of those redundancies were announced long before AI became capable enough to justify them.",
+      "url": "https://www.livemint.com/companies/news/too-lazy-nvidias-jensen-huang-says-ceos-use-ai-as-cover-story-for-layoffs-that-has-nothing-to-do-with-it-11781243261942.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-12T06:29:04Z"
+    },
+    {
+      "title": "Premierre Marsiella by Jolicia Type Foundry",
+      "description": "Free download of Premierre Marsiella Font. Released in 2026 by Jolicia Type Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/premierre-marsiella-font-f164125",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-06-12T06:10:48Z"
+    },
+    {
+      "title": "OpenAI in Talks for Massive 10-Gigawatt Data Center in Ohio",
+      "description": "OpenAI is moving along in advanced negotiations to lease a proposed 10-gigawatt data center campus on federal land in Ohio, according to a report from The Information cited by ZeroHedge. The deal could include financial backing from Nvidia, the report stated.…",
+      "url": "https://www.naturalnews.com/2026-06-12-openai-in-talks-massive-data-center-ohio.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-12T06:00:00Z"
+    },
+    {
+      "title": "Amazon's Graviton5 processor will go head-to-head with Intel and AMD in the cloud",
+      "description": "Amazon Web Services (AWS) is deploying its fifth-generation Graviton5 processor for cloud-based services that includes agentic AI workloads.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112158/amazons-graviton5-processor-will-go-head-to-head-with-intel-and-amd-in-the-cloud/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-12T05:57:07Z"
+    },
+    {
+      "title": "First interest rate hike in three years and how Intel came back from the brink",
+      "description": "Business Today: The best news, analysis and comment from The Irish Times business desk",
+      "url": "https://www.irishtimes.com/business/2026/06/12/first-interest-rate-hike-in-three-years-and-how-intel-came-back-from-the-brink",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-12T05:45:01Z"
+    },
+    {
+      "title": "Heilind Asia Pacific Highlights Automotive Manufacturing and Supply Chain Solutions in Bangkok with TE Connectivity, Molex and Heyco",
+      "description": "BANGKOK, June 12, 2026 (GLOBE NEWSWIRE) -- Heilind Asia Pacific will participate in Automotive Manufacturing 2026, one of Thailand’s leading exhibitions for automotive production technologies, taking place from June 17–20, 2026 at BITEC, Bangkok.",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3310887/0/en/Heilind-Asia-Pacific-Highlights-Automotive-Manufacturing-and-Supply-Chain-Solutions-in-Bangkok-with-TE-Connectivity-Molex-and-Heyco.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-12T05:42:00Z"
+    },
+    {
+      "title": "TSMC 3nm capacity still tight, prices seen rising 15% in second half of 2026",
+      "description": "Despite TSMC having ramped up its 3nm monthly capacity to 160,000–175,000 wafers in the second quarter, it still cannot fully meet strong customer demand and order backlogs, according to supply chain sources. Industry insiders said TSMC is planning another pr…",
+      "url": "http://technode.com/2026/06/12/tsmc-3nm-capacity-still-tight-prices-seen-rising-15-in-second-half-of-2026",
+      "source": "TechNode",
+      "publishedAt": "2026-06-12T05:36:55Z"
+    },
+    {
+      "title": "Building Production-Ready Local AI Solutions with Windows AI Foundry",
+      "description": "Unlock production-ready local AI on Windows with Windows AI Foundry. Enhance privacy, reduce costs, and boost performance.",
+      "url": "https://www.c-sharpcorner.com/article/building-production-ready-local-ai-solutions-with-windows-ai-foundry",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-06-12T05:05:11Z"
+    },
+    {
+      "title": "Why drinking alcohol makes you reach for chips and nachos",
+      "description": "Alcohol stimulates a hunger for protein. And if it’s not satisfied, it persists.",
+      "url": "https://theconversation.com/why-drinking-alcohol-makes-you-reach-for-chips-and-nachos-284540",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-12T05:01:15Z"
+    },
+    {
+      "title": "Stephen Collins: Do we really want to stop Intel trading with its sister plant in Israel?",
+      "description": "Ireland's Government doesn’t have the luxury of ignoring the real world consequences of its actions",
+      "url": "https://www.irishtimes.com/opinion/2026/06/12/stephen-collins-do-we-really-want-to-stop-intel-trading-with-its-sister-plant-in-israel",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-12T05:00:01Z"
+    },
+    {
+      "title": "What Intel’s remarkable comeback means for Ireland Inc - and Leixlip",
+      "description": "Long a touchstone for US investment in Ireland, Intel appears to be recovering from recent troubles",
+      "url": "https://www.irishtimes.com/business/2026/06/12/ireland-inc-looks-on-the-brightside-as-intel-turnaround-gathers-pace",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-12T05:00:00Z"
+    },
+    {
+      "title": "AI server tracker: Taiwan's AI server build chain widens as rack suppliers outpace peers",
+      "description": "Taiwan's server supply chain continues to benefit from AI infrastructure, with growth spread across connectors, cables, cabinets, rails, and system assembly. But the pace varies, as some companies are seeing only modest gains while others tied more closely to…",
+      "url": "https://www.digitimes.com/news/a20260611VL209/taiwan-ai-server-supply-chain-growth-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T04:43:25Z"
+    },
+    {
+      "title": "Nifty in control of FIIs? The unlucky 13 bluechips facing the hardest institutional selloff",
+      "description": "Foreign investors have significantly reduced holdings in many Nifty companies since September 2024. This has impacted top blue-chip stocks, causing market returns to stagnate. Domestic institutional investors have stepped in, absorbing much of this selling pr…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-in-control-of-fiis-the-unlucky-13-bluechips-facing-the-hardest-institutional-selloff/articleshow/131673919.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T04:35:39Z"
+    },
+    {
+      "title": "Google weighs Samsung's role in next AI chip as TSMC capacity tightens",
+      "description": "Google is considering using Samsung Electronics to manufacture part of a future artificial intelligence (AI) chip, a move that would mark a notable shift in the US tech group's supply chain as demand for advanced AI silicon strains capacity at TSMC.",
+      "url": "https://www.digitimes.com/news/a20260612VL209/google-samsung-tsmc-ai-chip-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T04:33:40Z"
+    },
+    {
+      "title": "Boston Dynamics highlights diverse strategies in humanoid robotics amid Nvidia-Unitree collab",
+      "description": "Boston Dynamics, one of the leading humanoid robotics companies in the US, during a recent visit to Taiwan, addressed Nvidia's announcement that it will partner with Chinese humanoid robot maker Unitree Robotics.",
+      "url": "https://www.digitimes.com/news/a20260611PD241/boston-dynamics-robotics-nvidia-robot-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T04:31:31Z"
+    },
+    {
+      "title": "PCIM 2026: Accepting local component deficits for system-level benefits",
+      "description": "In power electronics engineering, Silicon Carbide (SiC) companies are competing to achieve the absolute lowest thermal resistance (Rth), with the mindset that lower heat signature equates a superior system. However, at PCIM Europe 2026, a collaborative projec…",
+      "url": "https://www.digitimes.com/news/a20260610VL221/sic-electronics-component-embedded-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-12T04:31:11Z"
+    },
+    {
+      "title": "Desktop GPU shipments hold steady in Q1 2026 with NVIDIA maintaining 90% market share",
+      "description": "Q1 2026 GPU shipments dropped only 0.6%, far below the usual 12%, as NVIDIA holds 90% market share and Intel gains ground with Arc GPUs.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112161/desktop-gpu-shipments-hold-steady-in-q1-2026-with-nvidia-maintaining-90-percent-market-share/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-12T04:31:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards",
+      "Shin-Etsu plans rare earth plant in Japan to counter China supply curbs",
+      "Vivo X Fold6 gets world’s first MediaTek Dimensity 9500 Super Edition chip",
+      "Japan’s Semiconductor Gas Production Collapses To Zero After China Cuts Off Tungsten, Leaving TSMC, SK Hynix And Samsung Exposed",
+      "IIT (BHU) students pull off historic silicon tape-out, deliver fabrication-ready chip in just five months"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.intomobile.com/2026/06/12/vivo-x-fold6-gets-worlds-first-mediatek-dimensity-9500-super-edition-chip",
+        "https://timesofindia.indiatimes.com/education/news/iit-bhu-students-pull-off-historic-silicon-tape-out-deliver-fabrication-ready-chip-in-just-five-months/articleshow/131677925.cms",
+        "https://www.digitimes.com/news/a20260612PD215/ic-management-price-supplier-pmic.html"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260612VL212/shin-etsu-plant-materials-production-government.html",
+        "https://www.digitimes.com/news/a20260611VL208/growth-taiwan-demand-revenue-sales.html",
+        "https://www.globenewswire.com/news-release/2026/06/12/3310887/0/en/Heilind-Asia-Pacific-Highlights-Automotive-Manufacturing-and-Supply-Chain-Solutions-in-Bangkok-with-TE-Connectivity-Molex-and-Heyco.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-vera-cpu-china-sales",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Quanta-NVIDIA-T550-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml",
+        "https://www.livemint.com/companies/news/too-lazy-nvidias-jensen-huang-says-ceos-use-ai-as-cover-story-for-layoffs-that-has-nothing-to-do-with-it-11781243261942.html"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.dealnews.com/Lenovo-Idea-Pad-Slim-3-i-Intel-N355-15-6-Laptop-for-300-free-shipping/21840113.html",
+        "https://www.tweaktown.com/news/112158/amazons-graviton5-processor-will-go-head-to-head-with-intel-and-amd-in-the-cloud/index.html",
+        "https://www.irishtimes.com/business/2026/06/12/first-interest-rate-hike-in-three-years-and-how-intel-came-back-from-the-brink"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/349926/msi-and-asus-release-bios-updates-to-support-expo-ull-on-amd-x670e-motherboards",
+        "https://wccftech.com/japan-semiconductor-gas-production-collapses-to-zero-after-china-cuts-off-tungsten-tsmc-sk-hynix-samsung",
+        "https://www.techpowerup.com/349924/orico-intros-cnm2-u4-gy-m-2-nvme-to-usb4-portable-ssd-enclosure"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: MSI and ASUS Release BIOS Updates to Support EXPO-ULL on AMD X670E Motherboards. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
