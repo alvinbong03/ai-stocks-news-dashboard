@@ -1,0 +1,217 @@
+{
+  "theme": "ai",
+  "date": "2026-06-14",
+  "last_updated_utc": "2026-06-14T09:26:17.264Z",
+  "news": [
+    {
+      "title": "OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO",
+      "description": "OpenAI is reportedly facing a multi-state investigation as attorneys general examine the company’s data practices, safety measures and the potential impact of its artificial intelligence products on consumers ahead of its anticipated initial public offering.\n…",
+      "url": "https://biztoc.com/x/ea8173116c28e642",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T07:14:01Z"
+    },
+    {
+      "title": "Marc Andreessen critiques AI regulation debate after Anthropic model shutdown",
+      "description": "Marc Andreessen, a cofounder of Andreessen Horowitz, has voiced strong opinions on artificial intelligence regulation. His comments follow the US government's order to suspend access to Anthropic's advanced AI models, citing national security. Andreessen view…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/marc-andreessen-critiques-ai-regulation-debate-after-anthropic-model-shutdown/articleshow/131699477.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T07:06:47Z"
+    },
+    {
+      "title": "OpenAI Mulls “Drastic” Price Cuts Amid AI Market Turmoil",
+      "description": "OpenAI is considering significantly reducing the prices it charges for its artificial intelligence (AI) services, according to a Wall Street Journal (WSJ) report cited by ZeroHedge [1]. The move is an attempt to regain customers from rival Anthropic, whose co…",
+      "url": "https://www.naturalnews.com/2026-06-13-openai-mulls-drastic-cuts-amid-market-turmoil.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-13T06:00:00Z"
+    },
+    {
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "description": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or…",
+      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-13T05:42:50Z"
+    },
+    {
+      "title": "Anthropic Shuts Down Newest AI Model After U.S. Letter",
+      "description": "“The artificial intelligence lab Anthropic said Friday it had shut down access to its newest and most powerful models after the U.S. government banned use of the technology by foreign nationals, citing national security concerns,” the Washington Post reports.…",
+      "url": "https://politicalwire.com/2026/06/13/anthropic-shuts-down-newest-ai-model-after-u-s-letter",
+      "source": "Politicalwire.com",
+      "publishedAt": "2026-06-13T09:14:10Z"
+    },
+    {
+      "title": "Prediction: The Second Half of 2026 Will Be a Game-Changing Moment for Nvidia",
+      "description": "Nvidia (NASDAQ: NVDA) has been one of the biggest artificial intelligence (AI) success stories so far. The company provides a crucial tool -- and one of the highest quality -- used in the development of this technology. This is the graphics processing unit (G…",
+      "url": "https://biztoc.com/x/655bb32ea7cc57d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T09:02:41Z"
+    },
+    {
+      "title": "Test Claude Fable 5 Before the 2026 Price Hike",
+      "description": "Anthropic’s latest AI model, Claude Fable 5, represents a significant leap forward in balancing advanced functionality with robust safety measures. Building on the foundation of its predecessor, Mythos, which was deemed too risky for public use, Fable 5 intro…",
+      "url": "https://www.geeky-gadgets.com/anthropic-claude-fable-5-release",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-13T08:00:00Z"
+    },
+    {
+      "title": "NVIDIA vs AMD vs Intel Stock Showdown: Which Chip Giant to Buy for 2026 Gains?",
+      "description": "As AI spending reshapes semiconductors, NVIDIA, AMD, and Intel vie for dominance in data centers and AI accelerators. Investors weigh growth, valuation, and risk in this high-stakes market.",
+      "url": "https://www.ibtimes.com.au/ai-investment-fuels-semiconductor-race-nvidia-amd-intel-1870582",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-13T07:18:10Z"
+    },
+    {
+      "title": "State attorneys general launch investigation into OpenAI data practices",
+      "description": "A coalition of U.S. state attorneys general has launched a broad investigation into OpenAI regarding its business practices and data handling. The ChatGPT creator received a subpoena on Friday requesting documents related to user engagement, advertising, and …",
+      "url": "https://4sysops.com/archives/state-attorneys-general-launch-investigation-into-openai-data-practices",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-13T09:09:28Z"
+    },
+    {
+      "title": "Visa is handling AI-prompted transactions for OpenAI - but can you trust it?",
+      "description": "A new partnership between Visa and OpenAI takes the next step in AI-led purchasing. Here's what an expert wants you to know.",
+      "url": "https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work",
+      "source": "ZDNet",
+      "publishedAt": "2026-06-13T09:00:55Z"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5 and Mythos 5 on Microsoft Foundry",
+      "description": "Anthropic has released Claude Fable 5, a new frontier model designed to handle complex, multi-stage autonomous tasks and long-running workflows. The model is now integrated into Microsoft Foundry, GitHub Copilot, and the Foundry Agent Service to support enter…",
+      "url": "https://4sysops.com/archives/anthropic-launches-claude-fable-5-and-mythos-5-on-microsoft-foundry",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-13T08:55:49Z"
+    },
+    {
+      "title": "Anthropic to disable access to Mythos and Fable models to comply with the Trump Administration's export control",
+      "description": "Anthropic said it would disable access to its latest top AI models, Fable 5 and Mythos 5, following a government export control that would bar foreign individuals and entities from using the products.\nThe company said in a blog post on Friday evening that it …",
+      "url": "https://biztoc.com/x/41fcbd478c406af8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T08:45:55Z"
+    },
+    {
+      "title": "Anthropic to Disable Fable 5, Mythos 5 After US Export-Control Order - Business Insider",
+      "description": "Anthropic to Disable Fable 5, Mythos 5 After US Export-Control OrderBusiness Insider Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign UseWSJ Anthropic disables access to Fable 5 and Mythos 5 to comply with government directiveCNBC Scoop: Trum…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183787050",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-13T08:32:19Z"
+    },
+    {
+      "title": "The US government just forced Anthropic to pull its most advanced AI models",
+      "description": "The US government has forced Anthropic to suspend its Fable 5 and Mythos 5 models. Here's how a software jailbreak triggered the shutdown.",
+      "url": "https://www.androidauthority.com/us-government-anthropic-fable-5-mythos-5-suspension-3677315",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-13T07:52:03Z"
+    },
+    {
+      "title": "Anthropic 'Suspends' All Mythos and Fable Access After US Order Limiting Foreign Access",
+      "description": "\"Anthropic said on Friday it will 'abruptly disable' its most advanced AI models for all users,\"\nreports Reuters, \"after the U.S. government ordered it to suspend access to the models for foreign nationals, citing national security concerns. The company recei…",
+      "url": "https://news.slashdot.org/story/26/06/13/0546258/anthropic-suspends-all-mythos-and-fable-access-after-us-order-limiting-foreign-access",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-13T07:00:00Z"
+    },
+    {
+      "title": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
+      "description": "The US government has ordered Anthropic to suspend access to its two most capable AI models, Fable 5 and Mythos 5, in what appears to be the first time Washington has forced a commercial AI product offline. The directive, which Anthropic says it received at 5…",
+      "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-13T06:57:05Z"
+    },
+    {
+      "title": "Anthropic cuts access to AI models over US 'national security' order",
+      "description": "Anthropic said on June 12 it has suspended access to two powerful AI models, Fable 5 and Mythos 5, to comply with a US national security order.",
+      "url": "https://www.hurriyetdailynews.com/anthropic-cuts-access-to-ai-models-over-us-national-security-order-223225",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-13T05:48:43Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO",
+      "Marc Andreessen critiques AI regulation debate after Anthropic model shutdown",
+      "OpenAI Mulls “Drastic” Price Cuts Amid AI Market Turmoil",
+      "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "Anthropic Shuts Down Newest AI Model After U.S. Letter"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/marc-andreessen-critiques-ai-regulation-debate-after-anthropic-model-shutdown/articleshow/131699477.cms",
+        "https://www.naturalnews.com/2026-06-13-openai-mulls-drastic-cuts-amid-market-turmoil.html",
+        "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/ea8173116c28e642",
+        "https://biztoc.com/x/655bb32ea7cc57d1",
+        "https://www.ibtimes.com.au/ai-investment-fuels-semiconductor-race-nvidia-amd-intel-1870582"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

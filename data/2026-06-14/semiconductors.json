@@ -1,0 +1,226 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-14",
+  "last_updated_utc": "2026-06-14T09:26:34.161Z",
+  "news": [
+    {
+      "title": "AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs",
+      "description": "AMD has officially launched its Ryzen AI Halo AI PC, which offers super-fast token throughput at a $3999 price point. AMD Challenges DGX Spark With Its Strix Halo-Equipped Ryzen AI Halo \"AI PC\" That Costs $679 US Lower The first AMD Ryzen AI Halo platforms ar…",
+      "url": "https://wccftech.com/amd-tackles-nvidia-4679-usd-dgx-spark-ai-pc-with-its-3999-ryzen-ai-halo-now-available",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-13T09:15:13Z"
+    },
+    {
+      "title": "Prediction: The Second Half of 2026 Will Be a Game-Changing Moment for Nvidia",
+      "description": "Nvidia (NASDAQ: NVDA) has been one of the biggest artificial intelligence (AI) success stories so far. The company provides a crucial tool -- and one of the highest quality -- used in the development of this technology. This is the graphics processing unit (G…",
+      "url": "https://biztoc.com/x/655bb32ea7cc57d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T09:02:41Z"
+    },
+    {
+      "title": "NanoClaw integrates JFrog registries to secure AI agent tool downloads",
+      "description": "The secure agent framework NanoClaw has integrated with JFrog's supply chain platform to improve the safety of automated resource fetching. AI agents often improve their own capabilities by downloading external tools and libraries, which introduces significan…",
+      "url": "https://4sysops.com/archives/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-tool-downloads",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-13T08:58:24Z"
+    },
+    {
+      "title": "Microsoft Foundry IQ unifies enterprise knowledge for AI agents",
+      "description": "Microsoft has announced the general availability of Foundry IQ knowledge bases, a platform designed to simplify how AI agents access enterprise data. The service provides a unified layer for grounding agents in internal information from sources like SharePoin…",
+      "url": "https://4sysops.com/archives/microsoft-foundry-iq-unifies-enterprise-knowledge-for-ai-agents",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-13T08:55:50Z"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5 and Mythos 5 on Microsoft Foundry",
+      "description": "Anthropic has released Claude Fable 5, a new frontier model designed to handle complex, multi-stage autonomous tasks and long-running workflows. The model is now integrated into Microsoft Foundry, GitHub Copilot, and the Foundry Agent Service to support enter…",
+      "url": "https://4sysops.com/archives/anthropic-launches-claude-fable-5-and-mythos-5-on-microsoft-foundry",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-13T08:55:49Z"
+    },
+    {
+      "title": "Tata's Apple iPhone factory in Tamil Nadu may get shut down over farmland water contamination; pollution body seeks explanation",
+      "description": "An Indian pollution regulator has accused Tata Electronics, a key supplier for Apple's iPhones, of contaminating groundwater near its Hosur factory.  The regulator found wastewater discharge from the plant polluted farmland wells.  Tata faces a potential shut…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tatas-apple-iphone-factory-in-tamil-nadu-may-get-shut-down-over-farmland-water-contamination-pollution-body-seeks-explanation/articleshow/131700726.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T08:47:01Z"
+    },
+    {
+      "title": "Innoscience Secures Final Victory in Patent Lawsuit as China's Supreme Court Upholds Injunction Against Infineon GaN Products",
+      "description": "SUZHOU, China, June 13, 2026 /PRNewswire/ -- In a landmark decision for the global semiconductor industry, the Supreme People's Court of China has officially issued a final review decision sustaining a sales injunction against Infineon Technologies. The rulin…",
+      "url": "https://www.prnewswire.com/news-releases/innoscience-secures-final-victory-in-patent-lawsuit-as-chinas-supreme-court-upholds-injunction-against-infineon-gan-products-302799583.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-13T08:44:00Z"
+    },
+    {
+      "title": "AMP PBC wants to turn GPUs into a utility, and it has $1.3 billion to try",
+      "description": "AMP PBC's GPU utility model could democratize AI compute access, leveling the playing field for smaller AI teams against tech giants.\nThe post AMP PBC wants to turn GPUs into a utility, and it has $1.3 billion to try appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amp-pbc-gpus-utility-compute-grid",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-13T08:07:29Z"
+    },
+    {
+      "title": "Lululemon’s China Renewable Push And What It Means For Weak Shares",
+      "description": "Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge.\n- Lululemon athletica (NasdaqGS:LULU) has announced a major investment in a renewable energy fund focused on its Chinese supply chain. \n- The initiativ…",
+      "url": "https://biztoc.com/x/75c96c45ccb52048",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T07:45:00Z"
+    },
+    {
+      "title": "Inside the race to rebuild America’s fuel supply chain for a ‘second nuclear age’",
+      "description": "Nuclear startup firm Antares successfully flipped the switch on its Mark-0 microreactor in June, first to the finish line in the Trump administration’s pilot program race—with a July 4 deadline—for the next generation of reactors to achieve criticality.\nWith …",
+      "url": "https://biztoc.com/x/dcdbc0ea4c494293",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T07:44:58Z"
+    },
+    {
+      "title": "Rides Market Leaders’ Semiconductor Optimism, Climbs 11%",
+      "description": "POET Technologies Inc. (NASDAQ:POET) is one of the 10 Stocks That Absolutely Exploded Higher.\nPOET Technologies saw its share prices jump by 11.38 percent on Friday to close at $12.53 apiece, as investor sentiment was bolstered by the continued optimism for c…",
+      "url": "https://biztoc.com/x/01764ff469e7f363",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T07:29:51Z"
+    },
+    {
+      "title": "NVIDIA vs AMD vs Intel Stock Showdown: Which Chip Giant to Buy for 2026 Gains?",
+      "description": "As AI spending reshapes semiconductors, NVIDIA, AMD, and Intel vie for dominance in data centers and AI accelerators. Investors weigh growth, valuation, and risk in this high-stakes market.",
+      "url": "https://www.ibtimes.com.au/ai-investment-fuels-semiconductor-race-nvidia-amd-intel-1870582",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-13T07:18:10Z"
+    },
+    {
+      "title": "Inside the race to rebuild America’s fuel supply chain for a ‘second nuclear age’",
+      "description": "A ‘second nuclear age’ looms, but the industry faces a major uranium problem.",
+      "url": "https://fortune.com/2026/06/13/inside-race-rebuild-americas-nuclear-fuel-supply-chain",
+      "source": "Fortune",
+      "publishedAt": "2026-06-13T07:11:00Z"
+    },
+    {
+      "title": "Stock Market Volatility Rocks Bitcoin, Threatening $60K Support",
+      "description": "A sharp decline in Big Tech stocks and volatility in oil markets triggered broad sell-offs across financial markets on Monday, June 8 – pushing Bitcoin toward the critical $60,000 support level, according to market data. The Nasdaq composite fell 3.2%, with m…",
+      "url": "https://www.naturalnews.com/2026-06-13-stock-market-volatility-rocks-bitcoin-threatening-support.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-13T06:00:00Z"
+    },
+    {
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin. directive",
+      "description": "Anthropic completely shut off access to its Mythos 5 and Fable 5 models Friday night, just days after they were launched.\nThe move comes after Anthropic’s receipt of a US Commerce Department directive Friday evening, subjecting the new models to export contro…",
+      "url": "https://biztoc.com/x/4c3cd891ea020d7c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T05:58:14Z"
+    },
+    {
+      "title": "India's FTAs set stage for $1 trillion export target: Report",
+      "description": "India's new generation of Free Trade Agreements can act as a catalyst for manufacturing expansion, private capex revival and supply-chain integration, with Electronics, Pharmaceuticals and Engineering & Machinery Goods positioned as the strongest beneficiarie…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-ftas-set-stage-for-1-trillion-export-target-report/articleshow/131698363.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T05:38:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs",
+      "Prediction: The Second Half of 2026 Will Be a Game-Changing Moment for Nvidia",
+      "NanoClaw integrates JFrog registries to secure AI agent tool downloads",
+      "Microsoft Foundry IQ unifies enterprise knowledge for AI agents",
+      "Anthropic launches Claude Fable 5 and Mythos 5 on Microsoft Foundry"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-tool-downloads",
+        "https://biztoc.com/x/75c96c45ccb52048",
+        "https://biztoc.com/x/dcdbc0ea4c494293"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/amd-tackles-nvidia-4679-usd-dgx-spark-ai-pc-with-its-3999-ryzen-ai-halo-now-available",
+        "https://biztoc.com/x/655bb32ea7cc57d1",
+        "https://www.ibtimes.com.au/ai-investment-fuels-semiconductor-race-nvidia-amd-intel-1870582"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/amp-pbc-gpus-utility-compute-grid"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/microsoft-foundry-iq-unifies-enterprise-knowledge-for-ai-agents",
+        "https://4sysops.com/archives/anthropic-launches-claude-fable-5-and-mythos-5-on-microsoft-foundry",
+        "https://economictimes.indiatimes.com/industry/cons-products/electronics/tatas-apple-iphone-factory-in-tamil-nadu-may-get-shut-down-over-farmland-water-contamination-pollution-body-seeks-explanation/articleshow/131700726.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Tackles NVIDIA’s $4679 DGX Spark AI PC With Its $3999 Ryzen AI Halo: Now Available With 128 GB Memory For Blazing Fast LLMs. Main topic cluster: Supply. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
