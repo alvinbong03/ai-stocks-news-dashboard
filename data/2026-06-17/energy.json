@@ -1,359 +1,338 @@
 {
   "theme": "energy",
   "date": "2026-06-17",
-  "last_updated_utc": "2026-06-17T10:46:47.650Z",
+  "last_updated_utc": "2026-06-17T17:18:38.394Z",
   "news": [
     {
-      "title": "OMV Petrom moves ahead with Gabare project in Bulgaria",
-      "description": "The project will feature a 415MWp solar plant and 600MWh of battery storage, with construction expected to start soon.",
-      "url": "https://www.power-technology.com/news/omv-petrom-moves-ahead-gabare",
-      "source": "Power Technology",
-      "publishedAt": "2026-06-16T10:45:55Z"
-    },
-    {
-      "title": "UK to aid reopening of Strait of Hormuz after Iran deal, says PM Starmer",
-      "description": "The UK's involvement in reopening the Strait of Hormuz may enhance global maritime security, impacting oil markets and geopolitical stability.\nThe post UK to aid reopening of Strait of Hormuz after Iran deal, says PM Starmer appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/uk-to-aid-reopening-of-strait-of-hormuz-after-iran-deal-says-pm-starmer",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:44:51Z"
-    },
-    {
-      "title": "Hyperscalers shift to Arm Neoverse to optimize AI performance and energy efficiency",
-      "description": "Major cloud providers are increasingly replacing traditional x86 processors with custom silicon built on the Arm Neoverse architecture. This transition is driven by the need for higher performance per watt, as AI workloads significantly increase power density…",
-      "url": "https://4sysops.com/archives/hyperscalers-shift-to-arm-neoverse-to-optimize-ai-performance-and-energy-efficiency",
-      "source": "4sysops.com",
-      "publishedAt": "2026-06-16T10:39:38Z"
-    },
-    {
-      "title": "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-      "description": "U.S. allies at the Group of Seven summit are pushing the war in Ukraine back on President Donald Trump's agenda. The Iran conflict has recently overshadowed the war in Ukraine. French President Emmanuel Macron aims to persuade Trump to support Ukraine and pre…",
-      "url": "https://www.seattlepi.com/news/world/article/g7-leaders-open-summit-talks-on-ukraine-and-the-22306971.php",
-      "source": "seattlepi.com",
-      "publishedAt": "2026-06-16T10:38:48Z"
-    },
-    {
-      "title": "Bond investors shift to neutral ahead of Warsh’s Fed debut",
-      "description": "Goldman cuts 2026, 2027 oil price forecasts after deal to reopen Strait of Hormuz\nBy Gertrude Chavez-Dreyfuss\nNEW YORK, June 16 (Reuters) - Bond investors head into Kevin Warsh’s first policy meeting as Federal Reserve chair this week with a far more cautious…",
-      "url": "https://biztoc.com/x/fdb3129e0a078f23",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:34:04Z"
-    },
-    {
-      "title": "Some at Fed may pencil in a hike. Most won’t. Warsh is a question mark",
-      "description": "Goldman cuts 2026, 2027 oil price forecasts after deal to reopen Strait of Hormuz\nBy Ann Saphir\nWASHINGTON, June 16 (Reuters) - A majority of Federal Reserve policymakers now feel they will need to keep U.S. short-term borrowing costs on hold all year, projec…",
-      "url": "https://biztoc.com/x/a2d1b415ba69edd3",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:33:57Z"
-    },
-    {
-      "title": "Factbox-Warsh takes Fed pulpit with immediate challenges, longer-term agenda",
-      "description": "Goldman cuts 2026, 2027 oil price forecasts after deal to reopen Strait of Hormuz\nBy Howard Schneider\nWASHINGTON, June 16 (Reuters) - Federal Reserve Chairman Kevin Warsh will convene his first meeting as U.S. central bank chief on Tuesday and hold a press co…",
-      "url": "https://biztoc.com/x/ffb9a6db5c427b60",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:33:43Z"
-    },
-    {
-      "title": "UK seizes Russian ‘shadow fleet’ tanker – what that means - Al Jazeera",
-      "description": "UK seizes Russian ‘shadow fleet’ tanker – what that meansAl Jazeera Starmer vows new sanctions on Russia and nuclear energy support for UkraineThe Guardian LNG, shadow fleet, intelligence operatives: UK unveils new Russia sanctions package Captain of Russian …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183910130",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-16T10:33:22Z"
-    },
-    {
-      "title": "Comstock sells 27% stake in Pinnacle Gas Services to Sixth Street",
-      "description": "",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_48a1483d-27ac-46f6-8655-00dd5d9941ad",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-16T10:33:16Z"
-    },
-    {
-      "title": "G7 Summit 2026 Live Updates: Prime Minister Narendra Modi arrives in France",
-      "description": "G7 Summit 2026 Live News Updates: Prime Minister Narendra Modi arrived in Evian, France, to participate in the G7 Summit. He is expected to engage with world leaders on key global issues, including trade, energy security, technology and geopolitical developme…",
-      "url": "https://m.economictimes.com/news/newsblogs/g7-summit-2026-live-updates-pm-modi-donald-trump-meeting-france-evian-iran-crisis-ukraine-war-macron-world-leaders-summit-latest-news/liveblog/131768403.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-06-16T10:32:59Z"
-    },
-    {
-      "title": "Iran reveals two-stage framework for US talks on sanctions, nuclear program",
-      "description": "The structured US-Iran talks could stabilize geopolitical tensions, impacting global oil markets and investor confidence in regional security.\nThe post Iran reveals two-stage framework for US talks on sanctions, nuclear program appeared first on Crypto Briefi…",
-      "url": "https://cryptobriefing.com/iran-us-talks-sanctions-nuclear-framework",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:32:54Z"
-    },
-    {
-      "title": "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-      "description": "G7 leaders are urging President Trump to refocus on the Ukraine war. France and other European nations are now the main supporters of Kyiv. Trump plans to meet with Ukrainian President Zelenskyy. The UK announced new sanctions against Russia's oil transport. …",
-      "url": "https://economictimes.indiatimes.com/news/defence/g7-allies-scramble-to-put-ukraine-back-atop-trumps-agenda-as-war-drags-on/articleshow/131768307.cms",
+      "title": "The US is using an Iranian smuggling tactic to sneak oil out of the Gulf",
+      "description": "The US military is secretly guiding oil tankers through the Gulf of Oman. This operation uses drones and helicopters to facilitate ship-to-ship transfers. The goal is to keep energy exports flowing despite regional tensions. At least 116 ships have been invol…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/the-us-is-using-an-iranian-smuggling-tactic-to-sneak-oil-out-of-the-gulf/articleshow/131778126.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-06-16T10:32:48Z"
+      "publishedAt": "2026-06-16T17:17:58Z"
     },
     {
-      "title": "Modi and Trump set to meet at G7 summit as Iran war reshapes global energy markets",
-      "description": "The Modi-Trump meeting at the G7 could reshape global economic dynamics, impacting energy markets and trade relations amid geopolitical tensions.\nThe post Modi and Trump set to meet at G7 summit as Iran war reshapes global energy markets appeared first on Cry…",
-      "url": "https://cryptobriefing.com/modi-trump-g7-iran-war-economic-impact",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:30:23Z"
+      "title": "Red Raiders land commitment 4-star CB Joshua Banks: ‘You can’t find that energy everywhere’",
+      "description": "Texas Tech has been tacking on the finishing pieces of a 2027 recruiting class ranked inside the top five nationally. The latest domino to fall is four-star cornerback Joshua Banks, who declared for the Red Raiders on Tuesday over LSU, Arkansas, and others. B…",
+      "url": "https://www.on3.com/rivals/news/red-raiders-land-commitment-4-star-cb-joshua-banks-you-cant-find-that-energy-everywhere",
+      "source": "On3.com",
+      "publishedAt": "2026-06-16T17:17:20Z"
     },
     {
-      "title": "Mexico has been dumping raw sewage into California for decades — Steve Hilton vows to stop it",
-      "description": "California gubernatorial candidate Steve Hilton (R) has pledged to tackle the cross-border toxic waste issue in San Diego County’s Tijuana River Valley if elected.On Monday, Hilton posted a video from his recent visit to the Tijuana River, explaining that Mex…",
-      "url": "https://www.theblaze.com/news/mexico-has-been-dumping-raw-sewage-into-california-for-decades-steve-hilton-vows-to-stop-it",
-      "source": "TheBlaze",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "20 Actors Over 50 Where You Wouldn’t Know It",
-      "description": "Age in Hollywood can feel strange because some actors seem frozen in time. Decades pass, careers evolve, and somehow certain stars still look almost untouched by it all. Whether it is their energy, the roles they choose, or simply the way they carry themselve…",
-      "url": "http://www.denofgeek.com/msn/20-actors-over-50-where-you-wouldnt-know-it",
-      "source": "Den of Geek US",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "REDISCOVER The 90s Pop (2026)",
-      "description": "Tracklist: 001. Backstreet Boys - I Want It That Way (3:33)002. Destiny's Child - Jumpin', Jumpin' (3:47)003. Britney Spears - ...Baby One More Time (3:31)004. Christina Aguilera - Genie In a Bottle (3:37)005. Blackstreet - No Diggity [feat. Dr. Dre & Queen P…",
-      "url": "https://post.rlsbb.to/rediscover-the-90s-pop-2026",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-06-16T10:25:35Z"
-    },
-    {
-      "title": "Magic Of Disco Vol. 2 (4CD) (2015) FLAC",
-      "description": "Tracklist: CD1 01. The Trammps - Disco Inferno [3:28]02. Chic - Good Times [3:57]03. Earth, Wind & Fire - Let's Groove [4:02]04. Cerrone - Supernature [3:52]05. Sylvester - You Make Me Feel (Mighty Real) [3:41]06. Spargo - You And Me [4:12]07. Dan Hartman - I…",
-      "url": "https://post.rlsbb.to/magic-of-disco-vol-2-4cd-2015-flac",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-06-16T10:25:35Z"
-    },
-    {
-      "title": "The Magic Of Disco (4CD) (2013) FLAC",
-      "description": "Tracklist: Disc 1 [3:34] (01) Chic - Le Freak[3:48] (02) Jocelyn Brown - Somebody else's guy[3:48] (03) Loleatta Holloway - Love sensation[3:31] (04) Tavares - Heaven must be missing an angel[4:50] (05) Earth, Wind & Fire - Boogie wonderland[4:00] (06) Amii S…",
-      "url": "https://post.rlsbb.to/the-magic-of-disco-4cd-2013-flac",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-06-16T10:25:35Z"
-    },
-    {
-      "title": "Retro Futurism - Italo Is Still Alive (2017) FLAC",
-      "description": "Tracklist: 01. Digital Emotion - Full Control (Original Mix) [06:07]02. Maxthor - Hunters (Extended Edit) [05:30]03. Italoconnection - Neon Disco (Also Playable Mono Remix) [07:00]04. Magic System DJ - Frozen Hearts (Extended Version) [06:22]05. Aleph - Fly T…",
-      "url": "https://post.rlsbb.to/retro-futurism-italo-is-still-alive-2017-flac",
-      "source": "Rlsbb.to",
-      "publishedAt": "2026-06-16T10:25:35Z"
-    },
-    {
-      "title": "Do Dark Colored Cars Really Get Worse Gas Mileage In Hot Weather?",
-      "description": "It sounds ridiculous at first, but when you think about it, could a dark-colored car really make a difference when it comes to efficiency in hot weather?",
-      "url": "https://www.jalopnik.com/2191177/do-dark-cars-get-worse-mileage-summer-air-conditioning",
-      "source": "Jalopnik",
-      "publishedAt": "2026-06-16T10:25:00Z"
-    },
-    {
-      "title": "Sigh of relief in Africa as the Strait of Hormuz 'reopens'",
-      "description": "A potential US-Iran agreement could lower energy, fertilizer, and food prices in Africa if the Strait of Hormuz fully reopens. Oil exporters such as Nigeria and Angola might have to cope with less revenue, experts say. The prospect of a peace agreementbetween…",
-      "url": "https://www.dw.com/en/sigh-of-relief-in-africa-as-the-strait-of-hormuz-reopens/a-77564378",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-16T10:25:00Z"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 544 pts, Nifty settles at 23,989 on US-Iran peace deal",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares closed higher on Tuesday, advancing for a ​third straight session, as a preliminary U.S.-Iran peace deal ‌cooled oil prices and improved risk appetite.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-june-2026/article71104678.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-16T10:24:35Z"
-    },
-    {
-      "title": "US and Iran Prepare for Deal Signing With Both Claiming Victory",
-      "description": "The US and Iran are preparing to formally sign their interim peace deal in Switzerland on Friday, with both sides claiming victory and oil traders and shippers unsure over how quickly the Strait of Hormuz will be reopened.",
-      "url": "https://financialpost.com/pmn/business-pmn/us-and-iran-prepare-for-deal-signing-with-both-claiming-victory",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-16T10:24:25Z"
-    },
-    {
-      "title": "Rupee closes at 94.56 vs USD; US-Iran peace agreement details, Fed guidance awaited",
-      "description": "The Indian rupee strengthened for the third day in a row. This rise was supported by positive sentiment and anticipation of a U.S.-Iran peace agreement. Lower oil prices also boosted the rupee. Traders are now awaiting details of the peace deal and guidance f…",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-56-vs-usd-us-iran-peace-agreement-details-fed-guidance-awaited/articleshow/131768195.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-16T10:23:11Z"
-    },
-    {
-      "title": "US and Iran prepare to sign interim peace deal in Switzerland",
-      "description": "The interim peace deal could stabilize energy markets and reshape sanctions policy, but unresolved nuclear issues may reignite tensions.\nThe post US and Iran prepare to sign interim peace deal in Switzerland appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/us-iran-interim-peace-deal-switzerland",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:20:25Z"
-    },
-    {
-      "title": "Emerging Stocks Near Record High on Tech Gains, Lower Oil Prices",
-      "description": "Emerging-market stocks climbed for a third day, holding near a record high, as crude prices fell further and the tech rally extended.",
-      "url": "https://financialpost.com/pmn/business-pmn/emerging-stocks-near-record-high-on-tech-gains-lower-oil-prices",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-16T10:19:22Z"
-    },
-    {
-      "title": "Frontier - Sci-Fi Fuel Storage & Supply by MartinLjungblad",
-      "description": "Modular sci-fi fuel storage and supply props with customizable materials. Suitable for outposts, field bases, and industrial scenes. Includes drums, canisters, racks, hoses, valves, and more.Unity version: 2022.3 LTS or newerRender pipelines: URP and HDRPBuil…",
-      "url": "https://assetstore.unity.com/packages/3d/props/industrial/frontier-sci-fi-fuel-storage-supply-384654",
-      "source": "Unity.com",
-      "publishedAt": "2026-06-16T10:19:09Z"
-    },
-    {
-      "title": "Kevin Warsh's first Fed press conference looms as inflation surge makes rate cuts increasingly unlikely",
-      "description": "The Federal Reserve is expected to hold rates steady following its monetary policy meeting this week amid the rise in inflation, while newly minted Chairman Kevin Warsh is set to hold his first post-meeting press conference.\nInflation was already elevated bef…",
-      "url": "https://biztoc.com/x/3b9c23dc8d1d7f74",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:18:56Z"
-    },
-    {
-      "title": "Trump claims deal will prevent Iran from acquiring nuclear weapons",
-      "description": "The proposed deal's success could reshape global energy dynamics, influence market stability, and impact geopolitical relations significantly.\nThe post Trump claims deal will prevent Iran from acquiring nuclear weapons appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-iran-nuclear-deal-framework",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:18:49Z"
-    },
-    {
-      "title": "Top 3 Energy Stocks Which Could Rescue Your Portfolio In Q2",
-      "description": "The most oversold stocks in the energy sector presents an opportunity to buy into undervalued companies.\nThe RSI is a momentum indicator, which compares a stock’s strength on days when prices go up to its strength on days when prices go down. When compared to…",
-      "url": "https://biztoc.com/x/7b9de9c154c851ca",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:18:39Z"
-    },
-    {
-      "title": "How Does The US-Iran Deal Affect Fed Chairman Kevin Warsh",
-      "description": "The emerging U.S.-Iran agreement has eased some of the economic pressures facing newly appointed Federal Reserve Chairman Kevin Warsh, reported by CNN.\nEarlier this year, Warsh appeared likely to confront a difficult mix of rising unemployment and surging inf…",
-      "url": "https://biztoc.com/x/1d6de205241ccfaf",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:18:34Z"
-    },
-    {
-      "title": "Rolls-Royce Wins Contract to Build Nuclear Reactors for Sweden",
-      "description": "Britain's engineering giant Rolls-Royce will build three small modular reactors (SMRs) in Sweden after signing a multi-billion pounds partnership with Videberg Kraft, a subsidiary of Swedish state-owned energy company Vattenfall.\nThe post Rolls-Royce Wins Con…",
-      "url": "https://www.breitbart.com/europe/2026/06/16/rolls-royce-wins-contract-to-build-small-nuclear-reactors-for-sweden",
+      "title": "Energy Prices Push Import Inflation Higher as Tech Costs Climb",
+      "description": "U.S. import prices rose sharply in May for the third consecutive month, driven by another surge in fuel costs and rising prices for capital goods and technology products tied to the artificial-intelligence investment boom. Import prices increased 1.9 percent …",
+      "url": "https://www.breitbart.com/economy/2026/06/16/energy-prices-push-import-inflation-higher-as-tech-costs-climb",
       "source": "Breitbart News",
-      "publishedAt": "2026-06-16T10:15:54Z"
+      "publishedAt": "2026-06-16T17:15:25Z"
     },
     {
-      "title": "Fake Chinese Accounts Are Reportedly Poisoning Americans' Stance On Data Centers, According To OpenAI",
-      "description": "A new OpenAI report has reignited debate over AI infrastructure, foreign influence, energy demand, and the growing scrutiny facing data centers.",
-      "url": "https://www.bgr.com/2195060/china-anti-data-center-american-controversy-openai",
-      "source": "BGR",
-      "publishedAt": "2026-06-16T10:15:00Z"
+      "title": "Germany Mulls Backing Wind Platform to Counter China Competition",
+      "description": "Germany is considering backing the construction of an offshore wind power-conversion platform in the Baltic Sea as it looks to tackle China’s dominance in renewables infrastructure, according to people familiar with the deliberations.",
+      "url": "https://financialpost.com/pmn/business-pmn/germany-mulls-backing-wind-platform-to-counter-china-competition",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-16T17:14:27Z"
     },
     {
-      "title": "US and Iran to sign interim peace deal in Switzerland Friday",
-      "description": "The interim peace deal may reduce regional tensions and impact global oil markets, but uncertainties about its full implementation remain.\nThe post US and Iran to sign interim peace deal in Switzerland Friday appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/us-and-iran-to-sign-interim-peace-deal-in-switzerland-friday",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:14:51Z"
+      "title": "Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open",
+      "description": "By Scott DiSavino\nNEW YORK, June 16 (Reuters) - Oil prices fell about 5% to a three-month low on Tuesday as traders hoped the U.S. and Iran would agree to end the war and allow oil to flow through the Strait of Hormuz.\nPrices, which were already down about 4%…",
+      "url": "https://biztoc.com/x/d8675aa0fe37bc4e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T17:14:10Z"
     },
     {
-      "title": "Oil plunges, stocks jump on US-Iran peace deal - Yahoo Finance",
-      "description": "Oil plunges, stocks jump on US-Iran peace dealYahoo Finance Oil prices hit three-month low — but tanker bosses remain cautious on Hormuz transitCNBC Oil Prices Continue to Fall as Traders Assess U.S.-Iran DealThe New York Times US stock market jumps as US-Ira…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183909848",
+      "title": "Why Eos Energy Stock Is Soaring Today",
+      "description": "Starting the week on a bullish note, Eos Energy (NASDAQ: EOSE) stock closed more than 5% higher from Friday's close. And the upward momentum in Eos Energy stock seems capable of extending through today's market close as well. The company, a developer of energ…",
+      "url": "https://biztoc.com/x/3a58217258c016dd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T17:13:51Z"
+    },
+    {
+      "title": "Hormuz Reopens as Traders Price Out the War Premium",
+      "description": "The U.S.-Iran agreement to reopen Hormuz and lift the maritime blockade has pushed oil below $80, though risks remain if tensions in Lebanon escalate.\nChina Slams the Brakes on Crude Refining\n- China’s crude throughput has plunged by a hefty 9.1% year-over-ye…",
+      "url": "https://biztoc.com/x/e1dc7d4053a8d2c5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T17:13:42Z"
+    },
+    {
+      "title": "Brent Oil Falls Below $80 With US-Iran Deal Set to Add Supply - Bloomberg",
+      "description": "Brent Oil Falls Below $80 With US-Iran Deal Set to Add SupplyBloomberg Potential End of War Tests Trump’s Promise of Quick Economic ReboundThe New York Times Oil markets bet Trump would chicken out on Iran. They wonReuters The Hormuz Peace Dividend Goes to St…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183914548",
       "source": "Slashdot.org",
-      "publishedAt": "2026-06-16T10:12:54Z"
+      "publishedAt": "2026-06-16T17:12:59Z"
     },
     {
-      "title": "Iran claims US naval blockade is being lifted as diplomatic deal takes shape",
-      "description": "The lifting of the US naval blockade could stabilize global energy markets and reshape the crypto landscape, impacting geopolitical dynamics.\nThe post Iran claims US naval blockade is being lifted as diplomatic deal takes shape appeared first on Crypto Briefi…",
-      "url": "https://cryptobriefing.com/iran-us-naval-blockade-lifted",
+      "title": "Global oil prices fall below $80 for first time since Iran war began",
+      "description": "The dip in oil prices may ease inflationary pressures, potentially influencing central bank policies and impacting risk asset markets globally.\nThe post Global oil prices fall below $80 for first time since Iran war began appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/oil-prices-fall-below-80-iran-war",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:11:51Z"
+      "publishedAt": "2026-06-16T17:10:16Z"
     },
     {
-      "title": "Schneider Electric Canada Selected to Deliver Electrical and Automation Solutions for Ontario Line South",
-      "description": "Schneider’s proven energy technology will support reliability, safety, and high-performance across Toronto’s newest rapid transit line. TORONTO — Schneider Electric Canada, a global technology leader in energy management and industrial automation, has been ch…",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/schneider-electric-canada-selected-to-deliver-electrical-and-automation-solutions-for-ontario-line-south",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-16T10:10:48Z"
+      "title": "Duke Energy Foundation grants $77,500 to expand access to civic learning and remembrance across Florida",
+      "description": "ST. PETERSBURG, Fla., June 16, 2026 /PRNewswire/ -- As part of the final round of grants through the Duke Energy Foundation's America250 initiative, $77,500 is being distributed to seven nonprofit organizations across Florida that are working to expand access…",
+      "url": "https://www.prnewswire.com/news-releases/duke-energy-foundation-grants-77-500-to-expand-access-to-civic-learning-and-remembrance-across-florida-302802113.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T17:10:00Z"
     },
     {
-      "title": "Type One Energy Appoints Bernard Looney to Board of Directors",
-      "description": "New independent board member served as CEO of bp from 2020 to 2023 KNOXVILLE, Tenn. — Type One Energy, the global fusion power plant developer, today announced the appointment of Bernard Looney to its Board of Directors. The announcement comes as the company …",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/type-one-energy-appoints-bernard-looney-to-board-of-directors",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-16T10:10:33Z"
+      "title": "US to allow Iran oil sales, waive sanctions under Trump peace deal: WSJ",
+      "description": "Easing sanctions on Iran could reshape geopolitical dynamics, potentially advancing nuclear negotiations and altering global oil markets.\nThe post US to allow Iran oil sales, waive sanctions under Trump peace deal: WSJ appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-to-allow-iran-oil-sales-waive-sanctions-under-trump-peace-deal-wsj",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T17:04:48Z"
     },
     {
-      "title": "Aurora Solar Adds Integrated Storage Modeling to HelioScope, Uniting Commercial Solar Design, Storage, and Financial Analysis in One Solution",
-      "description": "HelioScope becomes the first web-native solution purpose-built for commercial solar design to combine PV layout, bankable production estimates, financial analysis, and now storage modeling in a single solution SAN FRANCISCO — Aurora Solar, the leading global …",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/aurora-solar-adds-integrated-storage-modeling-to-helioscope-uniting-commercial-solar-design-storage-and-financial-analysis-in-one-solution",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-16T10:10:22Z"
+      "title": "Northern California Homeowners Can Now Earn Up to $6,000 to Connect FranklinWH Batteries to the Grid",
+      "description": "Ava Community Energy's SmartHome Battery program offers income-qualified residents the largest upfront VPP incentive in FranklinWH's California portfolio SAN JOSE, Calif., June 16, 2026 /PRNewswire/ -- FranklinWH Energy Storage Inc. announced today that its h…",
+      "url": "https://www.prnewswire.com/news-releases/northern-california-homeowners-can-now-earn-up-to-6-000-to-connect-franklinwh-batteries-to-the-grid-302800636.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T17:00:00Z"
     },
     {
-      "title": "Repono bags 20-year energy storage contract in UP from Reliance",
-      "description": "The 20-year contract under which Repono will undertake the complete lifecycle of a large-scale, greenfield, rail-fed Petroleum Oil terminal in western Uttar Pradesh",
-      "url": "https://www.thehindubusinessline.com/companies/repono-bags-20-year-energy-storage-contract-in-up-from-reliance/article71108526.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-16T10:06:05Z"
+      "title": "The Real Competition Behind the U.S Coal Revival",
+      "description": "The question is not whether coal remains part of the energy system. It is how the U.S. builds the reliable, affordable and secure energy system needed to support AI, strengthen industry and compete in an increasingly energy-intensive world.\nThe post The Real …",
+      "url": "https://wattsupwiththat.com/2026/06/16/the-real-competition-behind-the-u-s-coal-revival",
+      "source": "Wattsupwiththat.com",
+      "publishedAt": "2026-06-16T17:00:00Z"
     },
     {
-      "title": "Oil Prices Continue Lower as Traders Await Clarity on U.S.-Iran Agreement",
-      "description": "Oil markets remained under pressure on Tuesday, extending losses from the previous session as investors looked for further details on the interim peace agreement between the United States and Iran, which is expected to pave the way for the reopening of the St…",
-      "url": "https://biztoc.com/x/c7d7d558e8eeb863",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:05:40Z"
-    },
-    {
-      "title": "US at Odds With Allies Over Hormuz, G7 Summit in France Begins",
-      "description": "Today's top stories, with context, in just 15 minutes.On today's podcast:1) US President Donald Trump keeps repeating that the Strait of Hormuz — through which one fifth of the world’s oil and liquefied natural gas supplies normally flow — will reopen by Frid…",
-      "url": "https://omny.fm/shows/bloomberg-daybreak/us-at-odds-with-allies-over-hormuz-g7-summit-in-france-begins",
-      "source": "Omny.fm",
-      "publishedAt": "2026-06-16T10:04:45Z"
-    },
-    {
-      "title": "Higher prices for gas, groceries and flights will outlast the Iran war, experts say",
-      "description": "Higher prices for gas, groceries and flights will likely outlast the Iran war\nHigher prices for gas, groceries and flights will likely outlast the Iran war\nNEW YORK (AP) — A tentative deal to end the Iran war makes it reasonable to ask how soon prices will dr…",
-      "url": "https://biztoc.com/x/52381e6cd14f819f",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:03:30Z"
-    },
-    {
-      "title": "World's Largest Tanker Operator Cautions Against Hormuz Rush",
-      "description": "The U.S.-Iran deal has raised hopes that the oil supply disruption in the Middle East could be nearing its end, but the biggest international tanker operators aren’t rushing to return to the Strait of Hormuz. Oil tanker owners and operators are cautiously opt…",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Worlds-Largest-Tanker-Operator-Cautions-Against-Hormuz-Rush.html",
+      "title": "Falling Oil Prices Could Ease Pressure on India’s Trade Deficit",
+      "description": "The tentative U.S.-Iran deal and the expected drop in oil prices amid increasing flows from the Middle East are set to help narrow India’s trade deficit, which held at relatively high levels in April and May due to the crude price shock. Higher refined petrol…",
+      "url": "https://oilprice.com/Energy/Energy-General/Falling-Oil-Prices-Could-Ease-Pressure-on-Indias-Trade-Deficit.html",
       "source": "OilPrice.com",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "publishedAt": "2026-06-16T17:00:00Z"
     },
     {
-      "title": "Are our electric grids too big to function?",
-      "description": "Demand for power is growing thanks to the rapid expansion of data center infrastructure across the U.S. But as utility bills continue to rise, states and grid operators are turning to address problems in grid infrastructure. Reliability and affordability are …",
-      "url": "https://www.marketplace.org/episode/2026/06/16/are-our-electric-grids-too-big-to-function",
-      "source": "Marketplace.org",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "title": "Middle East de-escalation eases inflation fears, offers relief for borrowers - Generate Wealth Weekly",
+      "description": "Oil prices have dropped sharply as markets price in a lasting peace deal.",
+      "url": "https://www.nzherald.co.nz/business/personal-finance/investment/middle-east-de-escalation-eases-inflation-fears-offers-relief-for-borrowers-generate-wealth-weekly/VZJNI5XFAJF3POUGIQZW4KWXOA",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-06-16T17:00:00Z"
     },
     {
-      "title": "The Nuclear Reactors Coming to a Small Town Near You",
-      "description": "Parsons, Kansas, is larger than the “haphazard hamlet” Truman Capote visited to write In Cold Blood, but not by much. With a population of about 9,600, residents largely pass the time hunting, fishing, and watching high school football. (Under head coach Jeff…",
-      "url": "https://newrepublic.com/article/211643/nuclear-reactor-parsons-kansas-safety",
-      "source": "The New Republic",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "title": "The first gift to Iran is already on the way",
+      "description": "Sources familiar with the details of the agreement said that the US intends to grant Iran immediate sanctions relief on oil and fuel exports as soon as the agreement is signed.",
+      "url": "https://www.israelnationalnews.com/news/428728",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-16T16:58:33Z"
     },
     {
-      "title": "Trump’s Genesis Mission is putting AI to work on nuclear weapons",
-      "description": "The Department of Energy bills Genesis as an AI push for scientific discovery. Its first public challenges tell a different story",
-      "url": "https://www.scientificamerican.com/article/trumps-genesis-mission-is-putting-ai-to-work-on-nuclear-weapons",
-      "source": "Scientific American",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "title": "San Francisco's wind phone lets visitors talk to lost loved ones",
+      "description": "Not every phone is meant to connect two living people. At San Francisco's Sunset Dunes, a bright blue phone booth gives visitors a chance to speak the words they never got to say to someone they've lost. You can watch someone using the phone here in this swee…",
+      "url": "https://boingboing.net/2026/06/16/san-franciscos-wind-phone-lets-visitors-talk-to-lost-loved-ones.html",
+      "source": "Boing Boing",
+      "publishedAt": "2026-06-16T16:57:11Z"
     },
     {
-      "title": "Transcript: How Opposing Data Centers Can Save Democracy",
-      "description": "This is a lightly edited transcript of the June 12 edition of Right Now With Perry Bacon. You can watch the video here or by following this show on YouTube or Substack.Perry Bacon: We have a great guest today, Astra Taylor, one of the smartest people I know. …",
-      "url": "https://newrepublic.com/article/211898/transcript-opposing-data-centers-can-save-democracy",
-      "source": "The New Republic",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "title": "Citi’s Hollenhorst predicts dovish Fed stance amid falling oil prices",
+      "description": "A dovish Fed stance amid falling oil prices could lead to improved liquidity conditions, influencing broader market dynamics and asset valuations.\nThe post Citi’s Hollenhorst predicts dovish Fed stance amid falling oil prices appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/citi-hollenhorst-dovish-fed-oil-prices",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T16:56:24Z"
     },
     {
-      "title": "Equinor’s Capital Markets Day 2026",
-      "description": "Equinor ASA (OSE:EQNR, NYSE:EQNR) today presents its strategy to deliver more energy, growing cash flow and superior returns. The 2026 share buy-back will be doubled to USD 3 billion, and Equinor introduces a more predictable framework for annual share buy-ba…",
-      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312355/0/en/Equinor-s-Capital-Markets-Day-2026.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-16T10:00:00Z"
+      "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
+      "description": "Americans could see some relief at the gas pump after oil prices tumbled Monday on news of a tentative agreement to reopen the Strait of Hormuz.\nU.S. crude oil futures have fallen to under $80 a barrel, their lowest level since March.\nThe impact of oil prices…",
+      "url": "https://biztoc.com/x/2f9c44c5ce7bf4c8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:56:22Z"
+    },
+    {
+      "title": "Georgia Phantom shares dark yet vulnerable single \"Who I Am\"",
+      "description": "Southern Florida-based artist Georgia Phantom delivers dark and emotionally charged offering \"Who I Am,\" weaving a smooth blend of Southern hip hop, rock and country rap, framed by fierce energy and…",
+      "url": "https://earmilk.com/2026/06/16/georgia-phantom-shares-dark-yet-vulnerable-single-who-i-am",
+      "source": "Earmilk.com",
+      "publishedAt": "2026-06-16T16:55:39Z"
+    },
+    {
+      "title": "Akon Reveals How His Brothers Secretly Posed As Him to Help Make Money",
+      "description": "Singer Akon may be a multi-millionaire now, but he has his brothers to thank for helping him get there. And now we know the slick way they did it!\n\n\n\nAs you well know by now, music artist Akon popped on the music scene in the late 90s. But it wouldn’t be unti…",
+      "url": "https://www.theroot.com/akon-reveals-how-his-brothers-secretly-posed-as-him-to-2000111666",
+      "source": "The Root",
+      "publishedAt": "2026-06-16T16:55:27Z"
+    },
+    {
+      "title": "Citi revamps oil price target as Hormuz fears ease",
+      "description": "On June 16, Brent crude was still sliding.\nThe global oil benchmark traded around $81.47 a barrel that morning, down 1.7% and at its lowest level since March 10, Reuters reported. \nThat extended June 15's sharp selloff, when Brent settled 4.76% lower after Pr…",
+      "url": "https://biztoc.com/x/342401d6c6ed7e16",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:55:21Z"
+    },
+    {
+      "title": "Oil Experts To Spar On Iran Deal: Crude To $150 Or $50?",
+      "description": "Oil Experts To Spar On Iran Deal: Crude To $150 Or $50?\n \nWith oil prices plunging after the announcement of a U.S.-Iran ceasefire agreement and plans to reopen the Strait of Hormuz, traders are asking: Is the geopolitical risk premium gone, or is the market …",
+      "url": "https://biztoc.com/x/d9c9571c25b56a35",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:55:00Z"
+    },
+    {
+      "title": "Has The AI Power Boom Pushed Bloom Energy Stock Too Far, Too Fast?",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_423953fa-bb87-4d73-9424-5659e53018bd",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-16T16:54:55Z"
+    },
+    {
+      "title": "United States and Iran to sign memorandum of understanding on Friday",
+      "description": "The MOU could stabilize geopolitical tensions, impacting global oil supply and crypto regulations, while easing sanctions may boost Iran's economy.\nThe post United States and Iran to sign memorandum of understanding on Friday appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-iran-memorandum-of-understanding-friday",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T16:54:16Z"
+    },
+    {
+      "title": "HPE Boosts Networking Gear for AI Clients, Adds Siemens Energy",
+      "description": "Hewlett Packard Enterprise Co. introduced new networking gear for artificial intelligence data centers, building on the products it acquired from Juniper Networks and striving to capture more of the demand for AI tools from corporate customers.",
+      "url": "https://financialpost.com/pmn/business-pmn/hpe-boosts-networking-gear-for-ai-clients-adds-siemens-energy",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-16T16:54:11Z"
+    },
+    {
+      "title": "SEEPCO supplies 6 million barrels of Nigerian crude to Indian refiners",
+      "description": "Amidst West Asia crisis concerns, India's state-run refiners diversified oil supplies by sourcing nearly six million barrels from Nigeria's SEEPCO between March and May 2026.  This move, utilizing crude from SEEPCO's Okwuibome field, bypassed the Strait of Ho…",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/seepco-supplies-6-million-barrels-of-nigerian-crude-to-indian-refiners/articleshow/131777362.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T16:53:57Z"
+    },
+    {
+      "title": "Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77c74ab0-4e0d-47c7-8a44-ce6538e12c15",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-16T16:53:01Z"
+    },
+    {
+      "title": "Trump will allow Iran to sell its oil under deal — giving financial boost to Tehran’s regime",
+      "description": "The US will issue sanctions waivers for Iran to begin selling oil during the 60-day negotiation period, which is set to begin after the Friday signing ceremony the two countries' secretive memorandum of understanding, a source familiar with the agreement told…",
+      "url": "https://nypost.com/2026/06/16/us-news/trump-will-allow-iran-to-sell-its-oil-under-deal-giving-financial-boost-to-tehrans-regime",
+      "source": "New York Post",
+      "publishedAt": "2026-06-16T16:51:49Z"
+    },
+    {
+      "title": "What Is The 120% Rule For Solar Panels?",
+      "description": "Discover how the NEC 120% rule limits the combined current of your grid and solar breakers on a busbar. Read our simple guide with step-by-step calculations.",
+      "url": "https://www.bgr.com/2192210/what-is-the-120-percent-rule-for-solar-panels",
+      "source": "BGR",
+      "publishedAt": "2026-06-16T16:47:00Z"
+    },
+    {
+      "title": "G7 Summit: PM Modi meets Canadian counterpart, discusses ways to build stronger partnership",
+      "description": "During a significant summit in France, Prime Minister Narendra Modi engaged in crucial discussions with Canadian Prime Minister Mark Carney. They focused on fortifying their nations' relationship through avenues like commerce, renewable energy, and educationa…",
+      "url": "https://economictimes.indiatimes.com/news/india/g7-summit-pm-modi-meets-canadian-counterpart-discusses-ways-to-build-stronger-partnership/articleshow/131777118.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T16:46:07Z"
+    },
+    {
+      "title": "Iran can resume oil sales after signing deal with US this week",
+      "description": "The deal's potential to stabilize oil markets could ease geopolitical tensions, but compliance challenges may disrupt this newfound equilibrium.\nThe post Iran can resume oil sales after signing deal with US this week appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/iran-oil-deal-us-bitcoin-impact",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T16:45:23Z"
+    },
+    {
+      "title": "Congratulations To The 2026 Core77 Design Awards Honorees!",
+      "description": "We're proud to announce the results of the 2026 Core77 Design Awards! The winning projects showcase an incredibly wide range of subjects, materials, technologies, processes and approaches. We truly appreciate all the time and effort that went into these proje…",
+      "url": "https://www.core77.com/posts/144468/Congratulations-To-The-2026-Core77-Design-Awards-Honorees",
+      "source": "Core77.com",
+      "publishedAt": "2026-06-16T16:45:00Z"
+    },
+    {
+      "title": "6/20/26: Reiki Level II (Okuden) Weekend Training - $345.00",
+      "description": "Reiki Level II deepens your connection to Reiki energy and expands your ability to work with healing across time, space, and emotional layers. This level strengthens intuition and refines your energetic awareness, empowering you to offer Reiki more confidentl…",
+      "url": "https://sf.funcheap.com/reiki-level-ii-okuden-weekend-training",
+      "source": "Funcheap.com",
+      "publishedAt": "2026-06-16T16:40:48Z"
+    },
+    {
+      "title": "6/20/26: Chai Rave SF: All-White Daytimer - $10",
+      "description": "CHAI RAVE SF\nThe first Chai Rave rooftop experience at 620 Jones SOLD OUT… and ever since, y’all have been asking:\n“omg the last one was so amazing, when you’re doing it again?”\nSo we had to bring it back.\n ALL-WHITE ROOFTOP ENERGY\nThis time, we’re going AL…",
+      "url": "https://sf.funcheap.com/chai-rave-sf-allwhite-daytimer",
+      "source": "Funcheap.com",
+      "publishedAt": "2026-06-16T16:40:01Z"
+    },
+    {
+      "title": "Fed Insider: The Iran Deal Isn’t Good News for Your Mortgage",
+      "description": "The post Fed Insider: The Iran Deal Isn’t Good News for Your Mortgage appeared first on 24/7 Wall St.. \n \n \n \n Roger Ferguson says rate hikes remain possible in 2026 despite Iran peace deal and falling oil prices expectations for mortgage relief. \n \n Core PCE…",
+      "url": "https://biztoc.com/x/b7e502120875050b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:39:41Z"
+    },
+    {
+      "title": "Assam CM Himanta Biswa Sarma virtually inaugurates PNG projects in Mangaldai, Tezpur",
+      "description": "Assam Chief Minister Himanta Biswa Sarma inaugurated new natural gas projects to bring piped natural gas to homes and industries, and compressed natural gas to vehicles. This initiative promotes cleaner energy and reduces reliance on imported fuels.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/assam-cm-himanta-biswa-sarma-virtually-inaugurates-png-projects-in-mangaldai-tezpur/articleshow/131777024.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T16:38:37Z"
+    },
+    {
+      "title": "TOYOTA SHOWS HOW IT IS TURNING CLIMATE GOALS INTO ACTION ON \"EARTH WITH JOHN HOLDEN\" THIS WEEKEND",
+      "description": "Special Segment Highlights How Toyota is Tackling Emissions, Energy, and Nature PLANO, Texas, June 16, 2026 /PRNewswire/ -- Toyota Motor North America will be featured in an upcoming episode of Earth with John Holden, airing Sunday, June 21, on Bloomberg Tele…",
+      "url": "https://www.prnewswire.com/news-releases/toyota-shows-how-it-is-turning-climate-goals-into-action-on-earth-with-john-holden-this-weekend-302802062.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T16:38:00Z"
+    },
+    {
+      "title": "All the ways the US-Iran deal won’t fix Europe’s energy problems",
+      "description": "Twelve million barrels of oil a day won't magically reappear on the market even if the pact holds.",
+      "url": "https://www.politico.eu/article/all-the-ways-the-us-iran-deal-wont-fix-europes-energy-problems",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-06-16T16:35:51Z"
+    },
+    {
+      "title": "Canadian Youth, Groups Sue Over Carney 'Failure' on Climate Crisis",
+      "description": "\"You cannot abandon the map and still expect to reach your destination. Yet that's exactly what the federal government has done with its 2030 climate plan.\"That's according to Charlie Hatt, climate director at Ecojustice, Canada's largest environmental law ch…",
+      "url": "https://www.commondreams.org/news/mark-carney-climate-change",
+      "source": "Common Dreams",
+      "publishedAt": "2026-06-16T16:31:17Z"
+    },
+    {
+      "title": "Insomnia Cookies and WBDGCP Team Up for an Out-Of-This-World Supergirl-Inspired Cookie Drop",
+      "description": "Red Velvet Revenge and Lemon Solar Punch cookies inspired by DC Studios' epic new Supergirl arrive at participating Insomnia Cookies bakeries beginning June 16 PHILADELPHIA, June 16, 2026 /PRNewswire/ -- This summer, Insomnia Cookies and Warner Bros. Discover…",
+      "url": "https://www.prnewswire.com/news-releases/insomnia-cookies-and-wbdgcp-team-up-for-an-out-of-this-world-supergirl-inspired-cookie-drop-302802052.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T16:30:00Z"
+    },
+    {
+      "title": "Oil drops below $80 on US-Iran deal",
+      "description": "Oil prices have fallen below $80 a barrel due to optimism surrounding the US-Iran peace deal and the reopening of the Strait of Hormuz, easing global infla\n\nRead More: https://punchng.com/oil-drops-below-80-on-us-iran-deal/",
+      "url": "https://punchng.com/oil-drops-below-80-on-us-iran-deal",
+      "source": "The Punch",
+      "publishedAt": "2026-06-16T16:26:16Z"
+    },
+    {
+      "title": "Nigeria’s 2060 clean energy target feasible – NASENI",
+      "description": "NASENI expresses confidence in Nigeria’s ability to achieve its 2060 net-zero clean energy target, highlighting the need for sustained commitment and data\n\nRead More: https://punchng.com/nigerias-2060-clean-energy-target-feasible-naseni/",
+      "url": "https://punchng.com/nigerias-2060-clean-energy-target-feasible-naseni",
+      "source": "The Punch",
+      "publishedAt": "2026-06-16T16:26:16Z"
+    },
+    {
+      "title": "Canada opens first oilsands site greenlit since 2013",
+      "description": "IPC produced oil from the initial phase of its Blackrod site, Canada’s first new Alberta oilsands project greenlit since 2013. Find out more",
+      "url": "https://financialpost.com/commodities/energy/oil-gas/canada-opens-first-oilsands-site-greenlit-since-2013",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-16T16:25:42Z"
+    },
+    {
+      "title": "WTI falls 6.7% to three-month low",
+      "description": "Crude oil prices extended their losses on Tuesday after the United States reportedly decided to allow Iran to immediately resume selling its oil once the memorandum of understanding between the two co...",
+      "url": "https://biztoc.com/x/73ba0f24d207e839",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:24:54Z"
+    },
+    {
+      "title": "Fast-growing, cult-favorite chain expands into new markets",
+      "description": "Founded in 1982 in Clute, Texas, this roadside chain has evolved from a regional fuel stop into one of the country's most recognizable travel destinations.\nWhat began as a convenience store with gas pumps now attracts road-tripping families, commuters, and lo…",
+      "url": "https://biztoc.com/x/51c7f7ea15814005",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:24:38Z"
     }
   ],
   "digest": {
     "bullets": [
-      "OMV Petrom moves ahead with Gabare project in Bulgaria",
-      "UK to aid reopening of Strait of Hormuz after Iran deal, says PM Starmer",
-      "Hyperscalers shift to Arm Neoverse to optimize AI performance and energy efficiency",
-      "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-      "Bond investors shift to neutral ahead of Warsh’s Fed debut"
+      "The US is using an Iranian smuggling tactic to sneak oil out of the Gulf",
+      "Red Raiders land commitment 4-star CB Joshua Banks: ‘You can’t find that energy everywhere’",
+      "Energy Prices Push Import Inflation Higher as Tech Costs Climb",
+      "Germany Mulls Backing Wind Platform to Counter China Competition",
+      "Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -362,39 +341,30 @@
   },
   "clusters": [
     {
-      "title": "Iran",
-      "summary": "Grouped stories where \"iran\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://cryptobriefing.com/uk-to-aid-reopening-of-strait-of-hormuz-after-iran-deal-says-pm-starmer",
-        "https://www.seattlepi.com/news/world/article/g7-leaders-open-summit-talks-on-ukraine-and-the-22306971.php",
-        "https://cryptobriefing.com/iran-us-talks-sanctions-nuclear-framework"
-      ]
-    },
-    {
       "title": "Oil",
       "summary": "Grouped stories where \"oil\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://biztoc.com/x/fdb3129e0a078f23",
-        "https://biztoc.com/x/a2d1b415ba69edd3",
-        "https://biztoc.com/x/ffb9a6db5c427b60"
+        "https://economictimes.indiatimes.com/news/international/world-news/the-us-is-using-an-iranian-smuggling-tactic-to-sneak-oil-out-of-the-gulf/articleshow/131778126.cms",
+        "https://biztoc.com/x/d8675aa0fe37bc4e",
+        "https://biztoc.com/x/e1dc7d4053a8d2c5"
       ]
     },
     {
       "title": "Energy",
       "summary": "Grouped stories where \"energy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://4sysops.com/archives/hyperscalers-shift-to-arm-neoverse-to-optimize-ai-performance-and-energy-efficiency",
-        "https://slashdot.org/firehose.pl?op=view&amp;id=183910130",
-        "https://m.economictimes.com/news/newsblogs/g7-summit-2026-live-updates-pm-modi-donald-trump-meeting-france-evian-iran-crisis-ukraine-war-macron-world-leaders-summit-latest-news/liveblog/131768403.cms"
+        "https://www.on3.com/rivals/news/red-raiders-land-commitment-4-star-cb-joshua-banks-you-cant-find-that-energy-everywhere",
+        "https://www.breitbart.com/economy/2026/06/16/energy-prices-push-import-inflation-higher-as-tech-costs-climb",
+        "https://biztoc.com/x/3a58217258c016dd"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.power-technology.com/news/omv-petrom-moves-ahead-gabare",
-        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_48a1483d-27ac-46f6-8655-00dd5d9941ad",
-        "https://www.theblaze.com/news/mexico-has-been-dumping-raw-sewage-into-california-for-decades-steve-hilton-vows-to-stop-it"
+        "https://financialpost.com/pmn/business-pmn/germany-mulls-backing-wind-platform-to-counter-china-competition",
+        "https://boingboing.net/2026/06/16/san-franciscos-wind-phone-lets-visitors-talk-to-lost-loved-ones.html",
+        "https://www.theroot.com/akon-reveals-how-his-brothers-secretly-posed-as-him-to-2000111666"
       ]
     }
   ],
@@ -408,7 +378,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: OMV Petrom moves ahead with Gabare project in Bulgaria. Main topic cluster: Iran. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf. Main topic cluster: Oil. This is an educational summary, not financial advice."
     },
     {
       "ticker": "CVX",
@@ -419,7 +389,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: OMV Petrom moves ahead with Gabare project in Bulgaria. Main topic cluster: Iran. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf. Main topic cluster: Oil. This is an educational summary, not financial advice."
     },
     {
       "ticker": "NEE",
@@ -430,7 +400,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: OMV Petrom moves ahead with Gabare project in Bulgaria. Main topic cluster: Iran. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf. Main topic cluster: Oil. This is an educational summary, not financial advice."
     },
     {
       "ticker": "SHEL",
@@ -441,7 +411,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: OMV Petrom moves ahead with Gabare project in Bulgaria. Main topic cluster: Iran. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf. Main topic cluster: Oil. This is an educational summary, not financial advice."
     },
     {
       "ticker": "BP",
@@ -452,7 +422,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: OMV Petrom moves ahead with Gabare project in Bulgaria. Main topic cluster: Iran. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf. Main topic cluster: Oil. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

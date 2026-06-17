@@ -1,156 +1,198 @@
 {
   "theme": "ai",
   "date": "2026-06-17",
-  "last_updated_utc": "2026-06-17T10:46:14.196Z",
+  "last_updated_utc": "2026-06-17T17:18:03.322Z",
   "news": [
     {
-      "title": "ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap",
-      "description": "The shifting AI landscape highlights the potential for increased competition and innovation, but centralized control remains a key concern.\nThe post ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap appeared first on…",
-      "url": "https://cryptobriefing.com/chatgpt-market-share-slips-below-50-percent",
+      "title": "Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt",
+      "description": "AI data centers and hardware suppliers are tapping the debt markets to finance the massive artificial intelligence infrastructure buildout.\nThe post Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/2f8eb496e4a34eb2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T15:08:27Z"
+    },
+    {
+      "title": "Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration",
+      "description": "The integration of persistent AI agents in enterprise workflows could redefine productivity, shifting value to orchestration over individual models.\nThe post Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration appeared first on Cryp…",
+      "url": "https://cryptobriefing.com/microsoft-copilot-cowork-general-availability",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:37:52Z"
+      "publishedAt": "2026-06-16T16:13:12Z"
     },
     {
-      "title": "Claude Makes More Money Per User Than Market Leader ChatGPT Report Finds",
-      "description": "The mobile app tracking firm Sensor Tower’s “State of AI” report found that while ChatGPT continues to have the largest user base, Anthropic’s app is earning more money per user.",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/06/16/claude-makes-more-money-per-user-than-market-leader-chatgpt-report-finds",
-      "source": "Forbes",
-      "publishedAt": "2026-06-16T10:30:09Z"
+      "title": "isolved Introduces Autonomous AI Agents Built to Own HR Outcomes — Brings Unified HCM Platform to Anthropic’s Claude Connectors Directory",
+      "description": "isolved launches autonomous AI agents to own HR outcomes, debuts Claude Connector and defines Workforce Capital Management as the next HCM era....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312891/0/en/isolved-Introduces-Autonomous-AI-Agents-Built-to-Own-HR-Outcomes-Brings-Unified-HCM-Platform-to-Anthropic-s-Claude-Connectors-Directory.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-16T16:10:00Z"
     },
     {
-      "title": "Anthropic mandates identity verification and data retention for advanced AI models",
-      "description": "Anthropic has updated its privacy policy to require identity verification for users of its Claude Free, Pro, and Max tiers starting July 8, 2026. Users may be asked to provide government-issued identification and biometric data, such as facial geometry templa…",
-      "url": "https://4sysops.com/archives/anthropic-mandates-identity-verification-and-data-retention-for-advanced-ai-models",
-      "source": "4sysops.com",
-      "publishedAt": "2026-06-16T10:39:39Z"
-    },
-    {
-      "title": "Anthropic pauses billing changes as OpenAI prepares for AI price war",
-      "description": "Anthropic has suspended a planned overhaul of its billing structure that was originally scheduled to take effect on June 15, 2026. The proposed changes would have separated usage of the Agent SDK and third-party applications from standard monthly subscription…",
-      "url": "https://4sysops.com/archives/anthropic-pauses-billing-changes-as-openai-prepares-for-ai-price-war",
-      "source": "4sysops.com",
-      "publishedAt": "2026-06-16T10:39:32Z"
-    },
-    {
-      "title": "EU Commission keeps contact with Anthropic over decision to disable models in EU",
-      "description": "BRUSSELS, June 16 : The European Commission is still in contact with U.S. artificial intelligence company Anthropic over its decision to disable its most advanced AI models following an order from the government and other issues, a Commission spokesperson sai…",
-      "url": "https://www.channelnewsasia.com/business/eu-commission-keeps-contact-anthropic-over-decision-disable-models-in-eu-6187081",
-      "source": "CNA",
-      "publishedAt": "2026-06-16T10:35:11Z"
-    },
-    {
-      "title": "Sensor Tower State of AI 2026 Report: Global Time Spent on Generative AI Apps Projected to More Than Double Year-Over-Year",
-      "description": "New report reveals record consumer spending, ChatGPT's historic mobile milestone, and AI's expanding role in shopping, advertising, and app development SAN FRANCISCO, June 16, 2026 /PRNewswire/ -- Sensor Tower, a leading provider of data on the digital econom…",
-      "url": "https://www.prnewswire.com/news-releases/sensor-tower-state-of-ai-2026-report-global-time-spent-on-generative-ai-apps-projected-to-more-than-double-year-over-year-302800975.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
-      "description": "Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
-      "source": "Tom's Hardware UK",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "Sensor Tower State of AI 2026 Report: Global Time Spent on Generative AI Apps Projected to More Than Double Year-Over-Year",
-      "description": "New report reveals record consumer spending, ChatGPT's historic mobile milestone, and AI's expanding role in shopping, advertising, and app development SAN FRANCISCO, June 16, 2026 /PRNewswire/ -- Sensor Tower, a leading provider of data on the digital econom…",
-      "url": "https://www.prnewswire.com/news-releases/sensor-tower-state-of-ai-2026-report-global-time-spent-on-generative-ai-apps-projected-to-more-than-double-year-over-year-302800844.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "Trump's feud with AI company Anthropic keeps heating up",
-      "description": "Trump’s feud with AI company Anthropic keeps heating up\nArtificial intelligence company Anthropic and the Trump administration are sparring — yet again.\nOver the weekend, tensions between the San Francisco company and the Trump administration flared up after …",
-      "url": "https://biztoc.com/x/fbddc5cc21749577",
+      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+      "description": "Artificial intelligence giant Anthropic shocked observers when it said Friday evening it disabled access to its Fable 5 and Mythos 5 models to comply with an order by the U.S. government.\nBut traders on prediction market platform Kalshi think it's more likely…",
+      "url": "https://biztoc.com/x/cdf07f62aab185cd",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:18:33Z"
+      "publishedAt": "2026-06-16T15:53:53Z"
     },
     {
-      "title": "Fake Chinese Accounts Are Reportedly Poisoning Americans' Stance On Data Centers, According To OpenAI",
-      "description": "A new OpenAI report has reignited debate over AI infrastructure, foreign influence, energy demand, and the growing scrutiny facing data centers.",
-      "url": "https://www.bgr.com/2195060/china-anti-data-center-american-controversy-openai",
-      "source": "BGR",
-      "publishedAt": "2026-06-16T10:15:00Z"
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "description": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....",
+      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T15:11:28Z"
     },
     {
-      "title": "Qualcomm Is a Rare AI Chip Value Play",
-      "description": "Smartphone exposure haunts the stock despite diversifying into cars and data centers.",
-      "url": "https://biztoc.com/x/f6eafb82b47a5109",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T09:32:54Z"
+      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "description": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably.  As models grow in…",
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T15:00:36Z"
     },
     {
-      "title": "2026 Guide to AI Prototyping with Claude Design",
-      "description": "Claude Design has emerged as a practical solution for creating professional visuals without requiring advanced design expertise. In a recent guide by AI Master, the focus is on using this AI-powered platform to streamline workflows for projects like landing p…",
-      "url": "https://www.geeky-gadgets.com/claude-design-workflow-2026",
-      "source": "Geeky Gadgets",
-      "publishedAt": "2026-06-16T10:45:00Z"
+      "title": "Wipro launches applied AI CoE for Claude models, powered by Anthropic",
+      "description": "Wipro launches an Applied AI CoE for Claude models, enhancing enterprise AI adoption and integration across various industries.",
+      "url": "https://www.thehindubusinessline.com/info-tech/wipro-launches-applied-ai-coe-for-claude-models-powered-by-anthropic/article71109882.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-16T14:46:01Z"
     },
     {
-      "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million",
-      "description": "Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage is \"negligible.\"\n                                                                        …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183909856",
+      "title": "DOJ Intervenes in Pollution Case Against Elon Musk's xAI Data Center",
+      "description": "The DOJ has intervened in a pollution lawsuit against Elon Musk's xAI company, now a division of SpaceX, claiming the AI firm plays a vital role in military operations and national security.\nThe post DOJ Intervenes in Pollution Case Against Elon Musk’s xAI Da…",
+      "url": "https://www.breitbart.com/tech/2026/06/16/doj-intervenes-in-pollution-case-against-elon-musks-xai-data-center",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-16T17:17:10Z"
+    },
+    {
+      "title": "Hewlett Packard Enterprise boosts Private Cloud AI token throughput by 20% with Nvidia collaboration",
+      "description": "HPE's enhanced AI platform with Nvidia collaboration could accelerate enterprise AI adoption, offering scalable, secure, and efficient solutions.\nThe post Hewlett Packard Enterprise boosts Private Cloud AI token throughput by 20% with Nvidia collaboration app…",
+      "url": "https://cryptobriefing.com/hpe-private-cloud-ai-nvidia-throughput",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T17:14:02Z"
+    },
+    {
+      "title": "The US Government's Anthropic Models Ban Was Never About an AI Jailbreak",
+      "description": "TechCrunch's Zack Whittaker argues that the U.S. government's abrupt export-control order forcing Anthropic to pull its Fable 5 and Mythos 5 models offline was \"never about an AI jailbreak\" threat. Instead, it was driven more by \"personality differences\" betw…",
+      "url": "https://yro.slashdot.org/story/26/06/16/1651237/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
       "source": "Slashdot.org",
-      "publishedAt": "2026-06-16T10:13:26Z"
+      "publishedAt": "2026-06-16T17:00:00Z"
     },
     {
-      "title": "Trump admin open to talks with Anthropic over foreigner ban",
-      "description": "The Trump administration is open to negotiating with Anthropic over its order barring foreigners from the company’s most powerful artificial intelligence models, The Post has learned.",
-      "url": "https://nypost.com/2026/06/16/business/trump-admin-open-to-talks-with-anthropic-over-foreigner-ban",
-      "source": "New York Post",
-      "publishedAt": "2026-06-16T10:07:28Z"
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "description": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with…",
+      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T16:30:27Z"
     },
     {
-      "title": "Trump admin open to talks with Anthropic over foreigner ban",
-      "description": "The Trump administration is open to negotiating with Anthropic over its order barring foreigners from the company’s most powerful artificial intelligence models, The Post has learned.",
-      "url": "https://nypost.com/2026/06/16/us-news/trump-admin-open-to-talks-with-anthropic-over-foreigner-ban",
-      "source": "New York Post",
-      "publishedAt": "2026-06-16T10:07:28Z"
+      "title": "HPE Expands Self-Driving Networks Across Edge, Campus, Data Center, and AI Factories",
+      "description": "At HPE Discover 2026, HPE announced a broad set of networking enhancements to support AI infrastructure, autonomous operations, and zero-trust security. The updates span AI data center networking, AIOps, routing, and secure access, extending the company’s sel…",
+      "url": "https://www.storagereview.com/news/hpe-expands-self-driving-networks-across-edge-campus-data-center-and-ai-factories",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-06-16T16:30:19Z"
     },
     {
-      "title": "Regulation watch: The next year of AI data center transparency",
-      "description": "As AI infrastructure expands, data centers face scrutiny. CIOs must navigate evolving transparency regulations and treat compliance as an opportunity.",
-      "url": "https://www.techtarget.com/searchcio/feature/Regulation-watch-The-next-year-of-AI-data-center-transparency",
-      "source": "Techtarget.com",
-      "publishedAt": "2026-06-16T10:06:00Z"
+      "title": "Nvidia powers open-source humanoid robot to learn movement in 7 days",
+      "description": "The rapid training of humanoid robots via open-source platforms and Nvidia's tech could democratize robotics research and accelerate innovation.\nThe post Nvidia powers open-source humanoid robot to learn movement in 7 days appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-open-source-humanoid-robot-seven-days",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T16:28:21Z"
     },
     {
-      "title": "Nvidia raises over €21.5bn in first bond sale since 2021 as AI growth race continues",
-      "description": "Nvidia has returned to the corporate debt market for the first time in five years, pricing a $25 billion (€21.5bn) bond sale that drew roughly $85 billion (€73.2bn) in orders, a sign of investors' strong appetite for exposure to AI.",
-      "url": "https://biztoc.com/x/015dc028b568f6c4",
+      "title": "Aviva expands ChatGPT distribution channel",
+      "description": "A GlobalData survey found that UK consumers are becoming more open to AI-powered insurance interactions, creating opportunities for insurers to expand conversational distribution channels. Meanwhile, Aviva has extended its ChatGPT app to life insurance applic…",
+      "url": "https://biztoc.com/x/253188c0b3a6af71",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:03:20Z"
+      "publishedAt": "2026-06-16T16:27:50Z"
     },
     {
-      "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
-      "description": "Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage is \"negligible.\"",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill",
-      "source": "Tom's Hardware UK",
-      "publishedAt": "2026-06-16T10:00:00Z"
-    },
-    {
-      "title": "SoftBank launches cybersecurity product based on OpenAI models",
-      "description": "TOKYO, June 16 : Japan’s SoftBank Group has launched a cybersecurity product designed to counter breaches enabled by artificial intelligence, the company said on Tuesday.The \"Patching as a Service\" product will be rolled out in Japan through a joint venture e…",
-      "url": "https://www.channelnewsasia.com/business/softbank-launches-cybersecurity-product-based-openai-models-6186971",
-      "source": "CNA",
-      "publishedAt": "2026-06-16T09:36:26Z"
-    },
-    {
-      "title": "How the Anthropic saga could threaten American AI dominance",
-      "description": "The Trump administration says it wants American AI to dominate the world.\nBut its decision to force Anthropic to abruptly cut off access to one of its most advanced models risks sending foreign governments and companies a very different message: Don't build y…",
-      "url": "https://biztoc.com/x/34f0546e7eee6e2f",
+      "title": "SoftBank Offers OpenAI Cybersecurity Tech to Defend Japan’s Critical Infrastructure",
+      "description": "SoftBank Group has launched an artificial intelligence-powered cybersecurity solution that it will offer to companies in Japan that support the country’s critical infrastructure.\n \n \n \n \nThe new Patching as a Service solution includes cybersecurity vulnerabil…",
+      "url": "https://biztoc.com/x/705f6ef0c06c6286",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T09:32:35Z"
+      "publishedAt": "2026-06-16T16:24:29Z"
+    },
+    {
+      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+      "description": "NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This...",
+      "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T16:24:26Z"
+    },
+    {
+      "title": "People are starting to think ChatGPT is too cheap — and that might be a problem for OpenAI",
+      "description": "ChatGPT's expanding capabilities and unchanged subscription price have sparked a debate over whether it's a good deal or headed for a cliff",
+      "url": "https://www.techradar.com/ai-platforms-assistants/people-are-starting-to-think-chatgpt-is-too-cheap-and-that-might-be-a-problem-for-openai",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-16T15:50:04Z"
+    },
+    {
+      "title": "JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt",
+      "description": "The surge in AI and data center investments could reshape financial markets, but power demands and environmental concerns pose significant challenges.\nThe post JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt appea…",
+      "url": "https://cryptobriefing.com/jpmorgan-ai-capex-data-center-debt",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T15:46:46Z"
+    },
+    {
+      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+      "description": "Traders think it's more likely than not that access is restored by July 1.",
+      "url": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-16T15:44:01Z"
+    },
+    {
+      "title": "SoftBank Offers OpenAI Cybersecurity Tech to Defend Japan’s Critical Infrastructure",
+      "description": "SoftBank Group has launched an artificial intelligence-powered cybersecurity solution that it will offer to companies in Japan that support the country’s critical infrastructure. The new Patching as a Service solution includes cybersecurity vulnerability asse…",
+      "url": "https://www.pymnts.com/cybersecurity/2026/softbank-offers-openai-cybersecurity-tech-to-defend-japans-critical-infrastructure",
+      "source": "pymnts.com",
+      "publishedAt": "2026-06-16T15:40:08Z"
+    },
+    {
+      "title": "Nvidia sees strong initial trading volume for $25B bond offering",
+      "description": "Nvidia's bond success highlights strong investor confidence, but heavy AI investment reliance poses risks if market demand shifts.\nThe post Nvidia sees strong initial trading volume for $25B bond offering appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-25b-bond-offering-trading-volume",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T15:26:55Z"
+    },
+    {
+      "title": "Intel CPU with integrated Nvidia RTX GPU rumored to arrive early in 2028 — and I can't wait to see this power up gaming laptops and handhelds",
+      "description": "Can't wait for Intel's CPU with built-in Nvidia RTX graphics? Mark CES 2028 tentatively in your calendar.",
+      "url": "https://www.techradar.com/computing/cpu/intel-cpu-with-integrated-nvidia-rtx-gpu-rumored-to-arrive-early-in-2028-and-i-cant-wait-to-see-this-power-up-gaming-laptops-and-handhelds",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-16T15:06:41Z"
+    },
+    {
+      "title": "ChatGPT Knows Too Much: 8 Ways to Lock Down Your Privacy",
+      "description": "Chatbots are not your friend, no matter what they say. Here's how to get the information you need while also limiting the data ChatGPT collects from your conversations.\nAI chatbots feed off your data. In most cases, your data is used to personalize future res…",
+      "url": "https://uk.pcmag.com/ai/163711/chatgpt-knows-too-much-8-ways-to-lock-down-your-privacy",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-16T15:00:54Z"
+    },
+    {
+      "title": "Texas Instruments reports 90% data center revenue surge as AI demand reshapes semiconductor market",
+      "description": "Texas Instruments' revenue surge highlights the critical role of analog chips in AI infrastructure, potentially reshaping competitive dynamics.\nThe post Texas Instruments reports 90% data center revenue surge as AI demand reshapes semiconductor market appeare…",
+      "url": "https://cryptobriefing.com/texas-instruments-ai-demand-data-center-surge",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T14:50:32Z"
+    },
+    {
+      "title": "Can Elon Musk's xAI challenge Anthropic after SpaceX's $60 billion Cursor AI acquisition from Anysphere?",
+      "description": "SpaceX has agreed to acquire Cursor AI parent Anysphere for $60 billion in an all-stock deal, days after SpaceX's blockbuster Nasdaq debut. The acquisition hands xAI's Grok a foothold in AI coding tools, tapping Cursor's $2 billion annualized revenue and rapi…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/can-elon-musks-xai-challenge-anthropic-after-spacexs-60-billion-cursor-ai-acquisition-from-anysphere/articleshow/131774782.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T14:45:20Z"
+    },
+    {
+      "title": "US Limits on Anthropic Fable AI Could Hurt Cybersecurity",
+      "description": "Fable 5 was built to help with advanced cybersecurity work. Its sudden shutdown highlights a dilemma at the heart of AI security: the same tools can aid both defenders and attackers",
+      "url": "https://www.scientificamerican.com/article/us-limits-on-anthropic-fable-ai-could-hurt-cybersecurity",
+      "source": "Scientific American",
+      "publishedAt": "2026-06-16T14:30:00Z"
     }
   ],
   "digest": {
     "bullets": [
-      "ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap",
-      "Claude Makes More Money Per User Than Market Leader ChatGPT Report Finds",
-      "Anthropic mandates identity verification and data retention for advanced AI models",
-      "Anthropic pauses billing changes as OpenAI prepares for AI price war",
-      "EU Commission keeps contact with Anthropic over decision to disable models in EU"
+      "Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt",
+      "Microsoft Copilot Cowork goes live worldwide with Anthropic Claude integration",
+      "isolved Introduces Autonomous AI Agents Built to Own HR Outcomes — Brings Unified HCM Platform to Anthropic’s Claude Connectors Directory",
+      "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+      "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -159,37 +201,47 @@
   },
   "clusters": [
     {
-      "title": "Data",
-      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://4sysops.com/archives/anthropic-mandates-identity-verification-and-data-retention-for-advanced-ai-models",
-        "https://www.prnewswire.com/news-releases/sensor-tower-state-of-ai-2026-report-global-time-spent-on-generative-ai-apps-projected-to-more-than-double-year-over-year-302800975.html",
-        "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e"
+        "https://biztoc.com/x/2f8eb496e4a34eb2",
+        "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance",
+        "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/microsoft-copilot-cowork-general-availability",
+        "https://www.breitbart.com/tech/2026/06/16/doj-intervenes-in-pollution-case-against-elon-musks-xai-data-center",
+        "https://cryptobriefing.com/jpmorgan-ai-capex-data-center-debt"
       ]
     },
     {
       "title": "Anthropic",
       "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.forbes.com/sites/siladityaray/2026/06/16/claude-makes-more-money-per-user-than-market-leader-chatgpt-report-finds",
-        "https://4sysops.com/archives/anthropic-pauses-billing-changes-as-openai-prepares-for-ai-price-war",
-        "https://www.channelnewsasia.com/business/eu-commission-keeps-contact-anthropic-over-decision-disable-models-in-eu-6187081"
+        "https://www.globenewswire.com/news-release/2026/06/16/3312891/0/en/isolved-Introduces-Autonomous-AI-Agents-Built-to-Own-HR-Outcomes-Brings-Unified-HCM-Platform-to-Anthropic-s-Claude-Connectors-Directory.html",
+        "https://biztoc.com/x/cdf07f62aab185cd",
+        "https://www.thehindubusinessline.com/info-tech/wipro-launches-applied-ai-coe-for-claude-models-powered-by-anthropic/article71109882.ece"
       ]
     },
     {
-      "title": "Company",
-      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.channelnewsasia.com/business/softbank-launches-cybersecurity-product-based-openai-models-6186971"
+        "https://www.storagereview.com/news/hpe-expands-self-driving-networks-across-edge-campus-data-center-and-ai-factories",
+        "https://uk.pcmag.com/ai/163711/chatgpt-knows-too-much-8-ways-to-lock-down-your-privacy"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://cryptobriefing.com/chatgpt-market-share-slips-below-50-percent",
-        "https://www.geeky-gadgets.com/claude-design-workflow-2026",
-        "https://biztoc.com/x/015dc028b568f6c4"
+        "https://biztoc.com/x/253188c0b3a6af71",
+        "https://biztoc.com/x/705f6ef0c06c6286",
+        "https://www.techradar.com/ai-platforms-assistants/people-are-starting-to-think-chatgpt-is-too-cheap-and-that-might-be-a-problem-for-openai"
       ]
     }
   ],
@@ -203,7 +255,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap. Main topic cluster: Data. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "MSFT",
@@ -214,7 +266,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap. Main topic cluster: Data. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "GOOGL",
@@ -225,7 +277,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap. Main topic cluster: Data. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMZN",
@@ -236,7 +288,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap. Main topic cluster: Data. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     },
     {
       "ticker": "META",
@@ -247,7 +299,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: ChatGPT’s market share slips below 50% for the first time as Gemini and Claude close the gap. Main topic cluster: Data. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Nvidia As Big Borrower: AI Data Centers, Suppliers Racking Up Debt. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."

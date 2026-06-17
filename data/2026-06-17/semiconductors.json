@@ -1,184 +1,331 @@
 {
   "theme": "semiconductors",
   "date": "2026-06-17",
-  "last_updated_utc": "2026-06-17T10:46:30.854Z",
+  "last_updated_utc": "2026-06-17T17:18:20.867Z",
   "news": [
     {
-      "title": "Three ways the OS 27 betas give away Apple’s folding phone secret",
-      "description": "Macworld\n\n\n\r\n\n\n\n\nApple just released the first developer beta of iOS 27, macOS 27, watchOS 27, and all the other OS 27 updates. These updates are loaded with all the features Apple announced during its WWDC keynote, but sometimes it’s the things you find that…",
-      "url": "https://www.macworld.com/article/3166172/three-ways-the-os-27-betas-give-away-apples-folding-phone-secret.html",
-      "source": "Macworld",
-      "publishedAt": "2026-06-16T10:45:00Z"
-    },
-    {
-      "title": "New DocLang standard optimizes document formatting for AI processing",
-      "description": "The LF AI & Data Foundation has introduced DocLang, a new open-source document format designed specifically for consumption by artificial intelligence systems. Industry leaders including IBM, NVIDIA, and Red Hat are backing the initiative to replace tradition…",
-      "url": "https://4sysops.com/archives/new-doclang-standard-optimizes-document-formatting-for-ai-processing",
-      "source": "4sysops.com",
-      "publishedAt": "2026-06-16T10:39:43Z"
-    },
-    {
-      "title": "EU Cyber Resilience Act mandates SBOMs for software supply chain transparency",
-      "description": "The European Union is transitioning toward stricter software supply chain visibility requirements under the upcoming Cyber Resilience Act. Organizations are currently preparing for these obligations by integrating Software Bill of Materials tooling and automa…",
-      "url": "https://4sysops.com/archives/eu-cyber-resilience-act-mandates-sboms-for-software-supply-chain-transparency",
-      "source": "4sysops.com",
-      "publishedAt": "2026-06-16T10:39:33Z"
-    },
-    {
-      "title": "NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet?",
-      "description": "The post NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet? appeared first on 24/7 Wall St..\nThe T-Rex 2X Long NVIDIA Daily Target ETF (NASDAQ:NVDX) and the GraniteShares 2x Long NVDA Daily ETF (NASDAQ:NVDL) sell the same product on the la…",
-      "url": "https://biztoc.com/x/6244c2a2e537b27b",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:33:43Z"
-    },
-    {
-      "title": "Samsung To Manufacture Elon Musk’s Next-Gen Neuralink Brain Chip",
-      "description": "Samsung Foundry has initiated research and development for Neuralink’s fourth-generation brain-computer interface chip. This marks the first direct contract secured by the South Korean tech giant with Elon Musk’s neurotechnology company. The project, internal…",
-      "url": "https://www.ubergizmo.com/2026/06/samsung-neuralink",
+      "title": "Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View",
+      "description": "XREAL is officially launching XREAL AURA today at AWE 2026, turning the formerly teased Project Aura into a commercial product scheduled to arrive this fall. The device was first unveiled at Google I/O 2026 as part of Google and XREAL’s Android XR collaborati…",
+      "url": "https://www.ubergizmo.com/2026/06/xreal-aura",
       "source": "Ubergizmo",
-      "publishedAt": "2026-06-16T10:32:38Z"
+      "publishedAt": "2026-06-16T17:17:12Z"
     },
     {
-      "title": "iPhone 18 to Pack 12GB of RAM for Smarter Siri Features, No Price Bump",
-      "description": "Next year's regular iPhone 18 will come with 12GB of RAM to support Apple's most powerful on-device AI model and related Siri features, according to South Korea's KB Securities (via DigiTimes).\n\n\n\n\n\nIn its Siri AI announcement during WWDC 2026, Apple confirme…",
-      "url": "https://www.macrumors.com/2026/06/16/iphone-18-to-pack-12gb-of-ram",
-      "source": "MacRumors",
-      "publishedAt": "2026-06-16T10:31:55Z"
+      "title": "1985 Porsche 911 Carrera Coupe at No Reserve",
+      "description": "This 1985 Porsche 911 Carrera coupe is finished in Grand Prix White over a blue interior and is powered by a 3.2-liter M930/21 flat-six paired with a 915 five-speed manual transaxle. It features a Steve Wong chip, a larger-diameter throttle body, a Dansk muff…",
+      "url": "https://bringatrailer.com/listing/1985-porsche-911-carrera-coupe-71",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-06-16T17:16:52Z"
     },
     {
-      "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
-      "description": "Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
-      "source": "Tom's Hardware UK",
-      "publishedAt": "2026-06-16T10:30:00Z"
+      "title": "Intel Arc Graphics Driver 32.0.101.6733 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Intel Arc Graphics Driver version 32.0.101.6733 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the available ver…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-6733-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-16T17:14:59Z"
     },
     {
-      "title": "Apple took Gemini out of Google, but can it take Google out of Gemini?",
-      "description": "Macworld\n\n\n\r\n\n\n\n\nYou humans don’t handle nuance very well.\r\n\n\n\n\nBefore you complain about that being racist, remember that the Macalope is part human, so he can say that. \r\n\n\n\n\nHe’s not saying that when he gets together with his antelope cousins, it’s like a …",
-      "url": "https://www.macworld.com/article/3166224/ai-is-all-kinds-of-complicated.html",
-      "source": "Macworld",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "Valens Semiconductor's HDBaseT Chipsets Power Barco's ClickShare USB-C Extension Over CAT Kit",
-      "description": "HOD HASHARON, Israel, June 16, 2026 /PRNewswire/ -- Valens Semiconductor (NYSE: VLN) today announced that its HDBaseT chipsets will form the connectivity infrastructure inside of Barco's ClickShare USB-C Extension over CAT kit. This product adds a wired exten…",
-      "url": "https://www.prnewswire.com/news-releases/valens-semiconductors-hdbaset-chipsets-power-barcos-clickshare-usb-c-extension-over-cat-kit-302801408.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-16T10:30:00Z"
-    },
-    {
-      "title": "NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet?",
-      "description": "",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_819e9016-d8c3-4734-8431-30bdcfa43e9d",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-16T10:29:12Z"
-    },
-    {
-      "title": "Goldman Sachs expects Taiwan Semiconductor stock to rise on AI demand",
-      "description": "TSMC's pivotal role in AI chip production could drive sustained growth, but geopolitical risks and execution challenges may impact outcomes.\nThe post Goldman Sachs expects Taiwan Semiconductor stock to rise on AI demand appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/goldman-sachs-tsmc-stock-ai-demand",
+      "title": "Hewlett Packard Enterprise boosts Private Cloud AI token throughput by 20% with Nvidia collaboration",
+      "description": "HPE's enhanced AI platform with Nvidia collaboration could accelerate enterprise AI adoption, offering scalable, secure, and efficient solutions.\nThe post Hewlett Packard Enterprise boosts Private Cloud AI token throughput by 20% with Nvidia collaboration app…",
+      "url": "https://cryptobriefing.com/hpe-private-cloud-ai-nvidia-throughput",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T10:13:14Z"
+      "publishedAt": "2026-06-16T17:14:02Z"
     },
     {
-      "title": "Snapdragon chip confirmed for the Galaxy Z Fold 8",
-      "description": "The Galaxy Z Fold 8, which is expected to be unveiled next month, has been confirmed to feature a Qualcomm Snapdragon chip. While it was widely expected to use a Snapdragon processor, there had been no official confirmation until now. Newly published certific…",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-snapdragon-chip-confirmed",
-      "source": "SamMobile",
-      "publishedAt": "2026-06-16T10:10:04Z"
-    },
-    {
-      "title": "Comparing Analog Devices With Industry Competitors In Semiconductors & Semiconductor Equipment Industry",
-      "description": "In today's rapidly changing and highly competitive business world, it is vital for investors and industry enthusiasts to carefully assess companies. In this article, we will perform a comprehensive industry comparison, evaluating Analog Devices (NASDAQ:ADI) a…",
-      "url": "https://biztoc.com/x/b75f27de4efa27d4",
+      "title": "John Wiley & Sons, Inc. Q4 2026 Earnings Call Summary",
+      "description": "Strategic Performance and Market Positioning\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n- Management characterizes fiscal 2026 as a 'breakout year' d…",
+      "url": "https://biztoc.com/x/d145702758386474",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:04:06Z"
+      "publishedAt": "2026-06-16T17:14:00Z"
     },
     {
-      "title": "Nvidia raises over €21.5bn in first bond sale since 2021 as AI growth race continues",
-      "description": "Nvidia has returned to the corporate debt market for the first time in five years, pricing a $25 billion (€21.5bn) bond sale that drew roughly $85 billion (€73.2bn) in orders, a sign of investors' strong appetite for exposure to AI.",
-      "url": "https://biztoc.com/x/015dc028b568f6c4",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T10:03:20Z"
-    },
-    {
-      "title": "Ninkear M8_226V: New Lunar Lake mini PC with OCuLink and USB4 spotted in the wild",
-      "description": "An engineering sample of the Ninkear M8_226V has surfaced, packing Intel's Lunar Lake Core Ultra 5 226V, front-mounted OCuLink, and USB4 in a 128×128 mm chassis — directly addressing the USB4 and OCuLink gaps flagged in our AMD M8 review.",
-      "url": "https://www.notebookcheck.net/Ninkear-M8_226V-New-Lunar-Lake-mini-PC-with-OCuLink-and-USB4-spotted-in-the-wild.1322605.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-06-16T09:59:00Z"
-    },
-    {
-      "title": "Trump aims for over 50% of US chip industry by end of term",
-      "description": "Trump's ambitious chip industry goals could reshape global supply chains, impact US-China relations, and alter semiconductor market dynamics.\nThe post Trump aims for over 50% of US chip industry by end of term appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-50-percent-us-chip-industry",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-16T09:51:39Z"
-    },
-    {
-      "title": "FEDIOL engages in support of value chain competitiveness at its annual conference held in Lisbon, Portugal",
-      "description": "FEDIOL brought high level policymakers and representatives of the agri-food supply chain together at its annual event held on 12 June 2026 in Lisbon, Portugal, under the theme: Enhancing industry’s competitive edge.",
-      "url": "http://pr.euractiv.com/?q=node/276541",
-      "source": "EURACTIV",
-      "publishedAt": "2026-06-16T09:49:18Z"
-    },
-    {
-      "title": "Prediction: This Will Be Micron's Stock Price by Late 2027 (Hint: It Implies Big Gains)",
-      "description": "Micron Technology (NASDAQ: MU) has been one of the best performers in the S&P 500 (SNPINDEX: ^GSPC) year to date, with shares up 240%. The stock has become a popular way to participate in the artificial intelligence trade because the company is a key supplier…",
-      "url": "https://biztoc.com/x/c19b3d61f3a7624e",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T09:34:45Z"
-    },
-    {
-      "title": "AMD Confirms Different FSR 4.1 Model For RDNA 3 GPUs; Delayed Support On RDNA 2 Is Due To Significant Optimization Needs",
-      "description": "AMD explains why it needs time to add support for FSR 4.1 on RDNA 2, aka Radeon RX 6000 GPUs, and what are the current challenges it is facing. AMD Says RDNA 3 Uses Different FSR 4.1 Model Than RDNA 4, But the End Result is On Par With the Latter There are re…",
-      "url": "https://wccftech.com/amd-confirms-different-fsr-4-1-models-for-rdna-3-and-rdna-2-gpus",
-      "source": "Wccftech",
-      "publishedAt": "2026-06-16T09:33:20Z"
-    },
-    {
-      "title": "Enthusiast hacks Valve’s AMD-first gaming OS to run on Intel hardware — SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, in",
-      "description": "A Reddit user has shown SteamOS running on an Intel Arc B580 desktop GPU, but the early proof of concept required a Radeon-assisted install workaround and Resizable BAR to recover performance.\n                                                                  …",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183909462",
+      "title": "Qualcomm unveils its Snapdragon Reality Elite chip for next-gen AR headsets",
+      "description": "Qualcomm's new Snapdragon Reality Elite promises a boost for AR and mixed reality devices.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183914562",
       "source": "Slashdot.org",
-      "publishedAt": "2026-06-16T09:33:09Z"
+      "publishedAt": "2026-06-16T17:13:42Z"
     },
     {
-      "title": "Qualcomm Is a Rare AI Chip Value Play",
-      "description": "Smartphone exposure haunts the stock despite diversifying into cars and data centers.",
-      "url": "https://biztoc.com/x/f6eafb82b47a5109",
+      "title": "Gigabyte H510M S2 (rev. 1.0) Realtek LAN Driver 10.079.20.1003",
+      "description": "Key Features:   - Intel H510M Ultra Durable Motherboard with 6+2 Phases Digital VRM, PCIe 4.0 Design, Realtek 8118 Gaming LAN, Anti-Sulfur Resistor, Smart Fan 6 - Supports 11th and 10th Gen Intel Core Series Processors - Dual Channel Non-ECC Unbuffered DDR4, …",
+      "url": "https://drivers.softpedia.com/get/NETWORK-CARD/REALTEK/Gigabyte-H510M-S2-rev-1-0-Realtek-LAN-Driver-10-079-20-1003.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-16T17:13:01Z"
+    },
+    {
+      "title": "Self-driving tech supplier Mobileye wants to be part of the robotaxi revolution — again",
+      "description": "Mobileye has pitched itself as an autonomous vehicle technology supplier. Now, it wants the operator label, too.\nThe Intel subsidiary and publicly traded company said Tuesday it plans to launch a robotaxi service in a U.S. city in 2027, marking an expansion b…",
+      "url": "https://biztoc.com/x/b0d05fd4abae4595",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-16T09:32:54Z"
+      "publishedAt": "2026-06-16T17:10:33Z"
     },
     {
-      "title": "Enthusiast hacks Valve’s AMD-first gaming OS to run on Intel hardware — SteamOS boots on Intel Arc B580 desktop GPU, but it takes a Radeon card, installer workaround, and Resizable BAR fix",
-      "description": "A Reddit user has shown SteamOS running on an Intel Arc B580 desktop GPU, but the early proof of concept required a Radeon-assisted install workaround and Resizable BAR to recover performance.",
-      "url": "https://www.tomshardware.com/software/operating-systems/reddit-user-gets-valves-amd-first-gaming-os-running-on-intel-hardware-steamos-boots-on-intel-arc-b580-desktop-gpu-but-it-takes-a-radeon-card-installer-workaround-and-resizable-bar-fix",
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "description": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite.\nQualcomm’s latest chip hints that more powerful smart glasses could be on the way\nThe …",
+      "url": "https://biztoc.com/x/731cf93ae217dbcb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T17:10:26Z"
+    },
+    {
+      "title": "Famed Venture Capital Fund Says this Stock is Like Buying Nvidia in 2023",
+      "description": "The post Famed Venture Capital Fund Says this Stock is Like Buying Nvidia in 2023 appeared first on 24/7 Wall St.. \n \n \n \n Sequoia Capital partner Sean MacGuire says SpaceX (SPCX) trades like NVIDIA did three years ago, projecting $100B+ revenue by 2030 and c…",
+      "url": "https://biztoc.com/x/01ba97ad03348e73",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T17:10:15Z"
+    },
+    {
+      "title": "Famed Venture Capital Fund Says this Stock is Like Buying Nvidia in 2023",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_45bb42cd-9709-4e47-9982-acc84774f47e",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-16T17:09:14Z"
+    },
+    {
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "description": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technica…",
+      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "source": "The Verge",
+      "publishedAt": "2026-06-16T17:08:18Z"
+    },
+    {
+      "title": "Qualcomm Launches Snapdragon Reality Elite: XR Chip For AI Smart Glasses With 4.4K-Per-Eye Support",
+      "description": "Qualcomm launched Snapdragon Reality Elite at AWE 2026, a new system-on-chip designed to power the next generation of premium XR devices, from all-in-one mixed reality headsets to thinner tethered smart glasses. The platform will debut on upcoming Android XR …",
+      "url": "https://www.ubergizmo.com/2026/06/qualcomm-snapdragon-reality-elite",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-06-16T17:06:52Z"
+    },
+    {
+      "title": "LB Cole Crawford commits: Georgia Tech’s June heater rolls on with another 4-star pledge",
+      "description": "Brent Key and Georgia Tech continue to stack recruiting wins. The Yellow Jackets added another blue-chip prospect to their surging class with the commitment of four-star linebacker Cole Crawford, who announced his pledge just days after taking an official vis…",
+      "url": "https://www.on3.com/rivals/news/lb-cole-crawford-commits-georgia-techs-june-heater-rolls-on-with-another-4-star-pledge",
+      "source": "On3.com",
+      "publishedAt": "2026-06-16T17:04:45Z"
+    },
+    {
+      "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
+      "description": "Apple will transition from 2-nanometer chips to 1.4-nanometer chips with the high-end 2028 iPhone models, reports Bloomberg. Chip supplier Taiwan Semiconductor Manufacturing Co. (TSMC) will make the majority of Apple's A22 Pro chips, but Apple is also conside…",
+      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-16T17:03:42Z"
+    },
+    {
+      "title": "Qualcomm takes spatial computing into the AI era with Snapdragon Reality Elite",
+      "description": "Qualcomm Technologies Inc. today unveiled a brand-new chip featuring the Snapdragon Reality Elite, a rebrand of its existing line of powerful silicon designed to power next-generation immersive virtual reality and mixed reality experiences. Reality Elite is t…",
+      "url": "https://siliconangle.com/2026/06/16/qualcomm-takes-spatial-computing-ai-era-snapdragon-reality-elite",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-16T17:00:59Z"
+    },
+    {
+      "title": "Xreal's Android XR Aura Glasses Are Coming This Fall, With a Brand New Qualcomm Chip Inside",
+      "description": "Qualcomm's new Snapdragon Reality Elite could show up in a lot more future headsets, but it's appearing in Google and Xreal's upcoming Android XR glasses first. It's promising significant boosts for graphics, battery and AI.",
+      "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-reality-elite-chip-xreal-aura-glasses-awe-2026",
+      "source": "CNET",
+      "publishedAt": "2026-06-16T17:00:46Z"
+    },
+    {
+      "title": "Lighter, cooler headsets are coming, thanks to Qualcomm’s latest silicon",
+      "description": "Qualcomm has launched the Snapdragon Reality Elite mixed-reality chip at AWE 2026, promising performance jumps and cooler puck-less headsets.",
+      "url": "https://www.androidauthority.com/qualcomm-snapdragon-reality-elite-3677546",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-16T17:00:43Z"
+    },
+    {
+      "title": "Qualcomm’s New Chip Pushes Us Deeper Into the AR Glasses Era",
+      "description": "We’ll see Snapdragon Reality Elite inside Xreal’s Project Aura glasses and—maybe—even more XR headsets.",
+      "url": "https://gizmodo.com/qualcomms-new-chip-pushes-us-deeper-into-the-ar-glasses-era-2000772503",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-16T17:00:34Z"
+    },
+    {
+      "title": "Intel accidentally made the perfect tiny PC, then abandoned it",
+      "description": "Small but mighty.",
+      "url": "https://www.makeuseof.com/intel-accidentally-made-the-perfect-tiny-pc-then-abandoned-it",
+      "source": "MakeUseOf",
+      "publishedAt": "2026-06-16T17:00:20Z"
+    },
+    {
+      "title": "U.S. Export Controls Are The Gift That Keeps On Giving...To The CCP",
+      "description": "There are only losers when producers aren't able to divide up work.",
+      "url": "https://www.forbes.com/sites/johntamny/2026/06/16/us-export-controls-are-the-gift-that-keeps-on-givingto-the-ccp",
+      "source": "Forbes",
+      "publishedAt": "2026-06-16T17:00:05Z"
+    },
+    {
+      "title": "Qualcomm unveils Snapdragon Reality Elite for XR & START to simplify glass development",
+      "description": "At Augmented World Expo 2026, Qualcomm announced the Snapdragon Reality Elite as its flagship chip for XR form factors. This includes the latest Android XR devices, like XREAL’s Project Aura.",
+      "url": "http://9to5google.com/2026/06/16/snapdragon-reality-elite",
+      "source": "9to5google.com",
+      "publishedAt": "2026-06-16T17:00:00Z"
+    },
+    {
+      "title": "SpaceX rockets past Amazon, eyes Microsoft in sprint toward $3 trillion",
+      "description": "surged again on Tuesday, passing Amazon (AMZN) and briefly topping Microsoft (MSFT) as the rocket maker's market value approached $3 trillion.\nAt its Tuesday high of $225.64, SpaceX was valued at roughly $2.97 trillion, putting it behind only Nvidia (NVDA), A…",
+      "url": "https://biztoc.com/x/77e359528f59125e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:57:51Z"
+    },
+    {
+      "title": "Muppets Take The Marvel Universe But Chip Zdarsky Is Talking Uncle Ben",
+      "description": "It surprises a few folks to learn that The Muppet Show was a British TV show. Jim Henson had produced two pilot episodes of the show for ABC in 1974 and 1975, but they passed on a series, and other networks in the US rejected it. It took British TV producer L…",
+      "url": "https://bleedingcool.com/comics/marvel-comics-takes-back-the-muppets-for-their-50th-anniversary",
+      "source": "Bleeding Cool News",
+      "publishedAt": "2026-06-16T16:57:11Z"
+    },
+    {
+      "title": "There's no such thing as an agentic CPU",
+      "description": "OPINION Do AI agents need a new kind of CPU? That's what Arm, Nvidia, and a growing number of chip designers would have you believe. Arm named its first datacenter silicon the \"AGI CPU.\" Nvidia CEO Jensen Huang described Vera as a \"CPU for agents,\" and AWS's …",
+      "url": "https://biztoc.com/x/709ba365d7c950a4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:55:31Z"
+    },
+    {
+      "title": "Apple's 20th Anniversary iPhones to Come in Two Sizes, Will Launch Alongside Gen 2 Foldable iPhone",
+      "description": "Apple is \"ramping up\" work on the 20th anniversary iPhone that it plans to launch next year, reports Bloomberg. Multiple rumors have suggested the device will have an edge-to-edge display with curved glass at all sides for a nearly borderless visual effect.\n\n…",
+      "url": "https://www.macrumors.com/2026/06/16/20th-anniversary-iphone-size-options",
+      "source": "MacRumors",
+      "publishedAt": "2026-06-16T16:50:00Z"
+    },
+    {
+      "title": "Gigabyte H510M S2 (rev. 1.3) Realtek LAN Driver 10.079.20.1003",
+      "description": "Key Features:   - Intel H510M Ultra Durable Motherboard with 6+2 Phases Digital VRM, PCIe 4.0 Design, Realtek 8118 Gaming LAN, Anti-Sulfur Resistor, Smart Fan 6 - Supports 11th and 10th Gen Intel Core Series Processors - Dual Channel Non-ECC Unbuffered DDR4, …",
+      "url": "https://drivers.softpedia.com/get/NETWORK-CARD/REALTEK/Gigabyte-H510M-S2-rev-1-3-Realtek-LAN-Driver-10-079-20-1003.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-16T16:48:01Z"
+    },
+    {
+      "title": "Apple’s First 1.4nm Chipset, The A22 Pro, Could Be Powering iPhones In Just A Couple Of Years",
+      "description": "The A20 and A20 Pro will be Apple’s first 2nm chipsets to grace the industry, but according to the latest rumor, it won’t be long before the Cupertino giant unveils its first 1.4nm SoC, the A22 Pro. In fact, the new silicon is said to arrive after the announc…",
+      "url": "https://wccftech.com/apple-a22-pro-first-1-4nm-chipset-arriving-in-a-couple-of-years",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-16T16:45:34Z"
+    },
+    {
+      "title": "UP WCL is a Raspberry Pi-sized PC with up to Intel Core 7 350 Wildcat Lake",
+      "description": "The UP WCL is a credit card-sized computer from AAEON that’s about the same size and shape as a Raspberry Pi Model B. But this model has an Intel Wildcat Lake processor instead of an Arm chip, support for up to 24GB of onboard LPDDR5 memory and up to 256GB of…",
+      "url": "https://liliputing.com/up-wcl-is-a-raspberry-pi-sized-pc-with-up-to-intel-core-7-350-wildcat-lake",
+      "source": "Liliputing",
+      "publishedAt": "2026-06-16T16:36:14Z"
+    },
+    {
+      "title": "Gigabyte H510M S2H (rev. 1.1) Realtek LAN Driver 10.079.20.1003",
+      "description": "Key Features:- Intel H510M Ultra Durable Motherboard with 6+2 Phases Digital VRM, PCIe 4.0 Design, Realtek 8118 Gaming LAN, 4 Display Interfaces Support , Anti-Sulfur Resistor, Smart Fan 6- Supports 11th and 10th Gen Intel Core Series Processors- Dual Channel…",
+      "url": "https://drivers.softpedia.com/get/NETWORK-CARD/REALTEK/Gigabyte-H510M-S2H-rev-1-1-Realtek-LAN-Driver-10-079-20-1003.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-16T16:36:01Z"
+    },
+    {
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "description": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with…",
+      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T16:30:27Z"
+    },
+    {
+      "title": "HPE expands Private Cloud AI factory portfolio to support next-gen autonomous agents",
+      "description": "Hewlett Packard Enterprise Co. today unveiled a massive expansion of its artificial intelligence infrastructure for private cloud deployments, enhancing its portfolio with Nvidia Corp.’s new Vera chips and tools for developers. The new offerings are meant to …",
+      "url": "https://siliconangle.com/2026/06/16/hpe-expands-private-cloud-ai-factory-portfolio-support-next-gen-autonomous-agents",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-16T16:30:12Z"
+    },
+    {
+      "title": "HPE Expands AI Factory Portfolio for Agentic AI Deployments",
+      "description": "At HPE Discover 2026, HPE announced a series of enhancements to its AI infrastructure portfolio to help enterprises operationalize agentic AI with greater governance, security, and scalability. The updates expand HPE AI Factory offerings within the NVIDIA AI …",
+      "url": "https://www.storagereview.com/news/hpe-expands-ai-factory-portfolio-for-agentic-ai-deployments",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-06-16T16:30:04Z"
+    },
+    {
+      "title": "Panther Lake Arc B390 iGPU on SO-DIMM memory performs worse compared to using LPDDR5X, 16% slower in 3DMark",
+      "description": "Intel's Arc B390 iGPU was tested with DDR5-5600 SO-DIMM memory revealing inferior performance compared to the same GPU running on LPDDR5X memory.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112206/panther-lake-arc-b390-igpu-on-so-dimm-memory-performs-worse-compared-to-using-lpddr5x-16-percent-slower-in-3dmark/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-16T16:30:03Z"
+    },
+    {
+      "title": "Build an elite AMD gaming PC around Gigabyte's X870 motherboard for $70 off — Gigabyte X870 Aorus Elite WiFi7 drops to $249",
+      "description": "The Gigabyte X870 Aorus Elite WiFi7 usually retails for $319..99, but the premium motherboard has gone on sale for $249.99.",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/build-an-elite-amd-gaming-pc-around-gigabytes-x870-motherboard-for-usd70-off-gigabyte-x870-aorus-elite-wifi7-drops-to-usd249",
       "source": "Tom's Hardware UK",
-      "publishedAt": "2026-06-16T09:30:00Z"
+      "publishedAt": "2026-06-16T16:30:00Z"
     },
     {
-      "title": "ADLINK COM-HPC-mPTL COM-HPC Mini computer-on-module features up to 180 TOPS Intel Core Ultra Series 3 CPU",
-      "description": "ADLINK COM-HPC-mPTL is a COM-HPC R1.3 Mini computer-on-module powered by the Intel Core Ultra Processor Series 3 \"Panther Lake\" family, up to the 180 TOPS 16-core Core Ultra X7 358H processor. The module supports up to 64GB LPDDR5x and optional NVMe SSD BGA s…",
-      "url": "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu",
-      "source": "CNX Software",
-      "publishedAt": "2026-06-16T09:29:31Z"
+      "title": "Nvidia powers open-source humanoid robot to learn movement in 7 days",
+      "description": "The rapid training of humanoid robots via open-source platforms and Nvidia's tech could democratize robotics research and accelerate innovation.\nThe post Nvidia powers open-source humanoid robot to learn movement in 7 days appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-open-source-humanoid-robot-seven-days",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-16T16:28:21Z"
     },
     {
-      "title": "Software supply chains are heading for a transparency test",
-      "description": "Software supply chain visibility is becoming part of product security work as the EU Cyber Resilience Act (CRA) moves toward application in December 2027. ENISA’s SBOM Adoption State of Play 2026 shows organizations preparing for CRA obligations through SBOM …",
-      "url": "https://www.helpnetsecurity.com/2026/06/16/enisa-software-supply-chain-transparency",
-      "source": "Help Net Security",
-      "publishedAt": "2026-06-16T09:24:51Z"
+      "title": "Lenovo Tab Plus Gen 2 goes on sale with a nine-speaker JBL system and 120Hz display",
+      "description": "The 12.1-inch Android tablet runs on a MediaTek Dimensity 7400 chip and starts at just over €429 in Europe",
+      "url": "https://www.intomobile.com/2026/06/16/lenovo-tab-plus-gen-2-goes-on-sale-with-a-nine-speaker-jbl-system-and-120hz-display",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-06-16T16:26:20Z"
+    },
+    {
+      "title": "Jeff Bezos Just Raised $12 Billion. He’s Betting His Newest Business Will Create the Next Elon Musk or Henry Ford",
+      "description": "The post Jeff Bezos Just Raised $12 Billion. He’s Betting His Newest Business Will Create the Next Elon Musk or Henry Ford appeared first on 24/7 Wall St.. \n \n \n \n Watch for partnership announcements with aerospace, energy, and semiconductor firms as Promethe…",
+      "url": "https://biztoc.com/x/ac74202d02f9fb6e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T16:24:38Z"
+    },
+    {
+      "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+      "description": "NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This...",
+      "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-06-16T16:24:26Z"
+    },
+    {
+      "title": "For the love of God, please eat a bag of chips with that case of White Claw [PSA]",
+      "description": "For the love of God, please eat a bag of chips with that case of White Claw",
+      "url": "https://www.fark.com/comments/14101282/For-love-of-God-please-eat-a-bag-of-chips-with-that-case-of-White-Claw",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-16T16:24:23Z"
+    },
+    {
+      "title": "The AMD Ryzen 7 7800X3D is still the high-performance CPU to beat — and right now it’s $60 off at Newegg with a free AIO Liquid Cooler",
+      "description": "AMD’s 3D V-Cache chip has held its legendary status for over three years, and now it’s a better value than ever at Newegg.",
+      "url": "https://www.techradar.com/pro/the-amd-ryzen-7-7800x3d-is-still-the-high-performance-cpu-to-beat-and-right-now-its-usd60-off-at-newegg-with-a-free-aio-liquid-cooler",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-16T16:24:16Z"
+    },
+    {
+      "title": "NBA Mock Draft 9.0: Updated projections with a week to go!",
+      "description": "It’s one week until the 2026 NBA Draft! Here’s our latest full two-round mock draft with analysis for every choice based on all the newest intel.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6de2dca0-5563-478c-b1af-578551bf4f19",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-16T16:24:07Z"
+    },
+    {
+      "title": "Gigabyte H510M S2P (rev. 1.0) Realtek LAN Driver 10.079.20.1003",
+      "description": "Key Features:  - Intel H510M Ultra Durable Motherboard with 6+2 Phases Digital VRM, PCIe 4.0 Design, Realtek GbE LAN, HDMI / DVI-D/ D-Sub Ports for Multiple Display, Anti-Sulfur Resistor, Smart Fan 6- Supports 11th and 10th Gen Intel Core Series Processors- D…",
+      "url": "https://drivers.softpedia.com/get/NETWORK-CARD/REALTEK/Gigabyte-H510M-S2P-rev-1-0-Realtek-LAN-Driver-10-079-20-1003.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-16T16:22:02Z"
+    },
+    {
+      "title": "Trump’s War Now Means Iran Can Shut Strait Of Hormuz Anytime, U.S. Intel Finds",
+      "description": "Iran has left open the possibility it could toll ships passing through the strait.",
+      "url": "https://www.forbes.com/sites/saradorn/2026/06/16/trumps-war-now-means-iran-can-shut-strait-of-hormuz-anytime-us-intel-finds",
+      "source": "Forbes",
+      "publishedAt": "2026-06-16T16:19:36Z"
+    },
+    {
+      "title": "An FCC Filing Exposes Samsung’s Galaxy Z Fold 8 Secrets, Pointing To A Snapdragon Chip And Satellite Connectivity Ahead Of Its July Debut",
+      "description": "It appears Samsung had been hiding a couple of surprises vis-à-vis the upcoming Galaxy Z Fold 8 only to see them unearthed via a timely FCC filing, which delineates the specific modem that would be used within the Apple iPhone Ultra competitor, as well as a f…",
+      "url": "https://wccftech.com/an-fcc-filing-exposes-samsungs-galaxy-z-fold-8-secrets-pointing-to-a-snapdragon-chip-and-satellite-connectivity-ahead-of-its-july-debut",
+      "source": "Wccftech",
+      "publishedAt": "2026-06-16T16:17:09Z"
     }
   ],
   "digest": {
     "bullets": [
-      "Three ways the OS 27 betas give away Apple’s folding phone secret",
-      "New DocLang standard optimizes document formatting for AI processing",
-      "EU Cyber Resilience Act mandates SBOMs for software supply chain transparency",
-      "NVDX vs. NVDL: Which 2x Nvidia ETF Is the Better Way to Press the Bet?",
-      "Samsung To Manufacture Elon Musk’s Next-Gen Neuralink Brain Chip"
+      "Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View",
+      "1985 Porsche 911 Carrera Coupe at No Reserve",
+      "Intel Arc Graphics Driver 32.0.101.6733 for Windows 10 version 21H2 64-bit",
+      "Hewlett Packard Enterprise boosts Private Cloud AI token throughput by 20% with Nvidia collaboration",
+      "John Wiley & Sons, Inc. Q4 2026 Earnings Call Summary"
     ],
     "insights": [
       "Coverage volume is elevated, suggesting an active news cycle.",
@@ -187,45 +334,47 @@
   },
   "clusters": [
     {
-      "title": "First",
-      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
-      "article_urls": [
-        "https://www.macworld.com/article/3166172/three-ways-the-os-27-betas-give-away-apples-folding-phone-secret.html",
-        "https://biztoc.com/x/6244c2a2e537b27b",
-        "https://www.ubergizmo.com/2026/06/samsung-neuralink"
-      ]
-    },
-    {
       "title": "Chip",
       "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.sammobile.com/news/galaxy-z-fold-8-snapdragon-chip-confirmed",
-        "https://biztoc.com/x/f6eafb82b47a5109"
+        "https://bringatrailer.com/listing/1985-porsche-911-carrera-coupe-71",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183914562",
+        "https://biztoc.com/x/731cf93ae217dbcb"
       ]
     },
     {
       "title": "Intel",
       "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
-        "https://www.notebookcheck.net/Ninkear-M8_226V-New-Lunar-Lake-mini-PC-with-OCuLink-and-USB4-spotted-in-the-wild.1322605.0.html",
-        "https://www.cnx-software.com/2026/06/16/adlink-com-hpc-mptl-com-hpc-mini-computer-on-module-features-up-to-180-tops-intel-core-ultra-series-3-cpu"
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-32-0-101-6733-for-Windows-10-version-21H2-64-bit.shtml",
+        "https://drivers.softpedia.com/get/NETWORK-CARD/REALTEK/Gigabyte-H510M-S2-rev-1-0-Realtek-LAN-Driver-10-079-20-1003.shtml",
+        "https://biztoc.com/x/b0d05fd4abae4595"
       ]
     },
     {
-      "title": "Features",
-      "summary": "Grouped stories where \"features\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
       "article_urls": [
-        "https://www.macrumors.com/2026/06/16/iphone-18-to-pack-12gb-of-ram"
+        "https://cryptobriefing.com/hpe-private-cloud-ai-nvidia-throughput",
+        "https://biztoc.com/x/d145702758386474",
+        "https://biztoc.com/x/01ba97ad03348e73"
+      ]
+    },
+    {
+      "title": "Next",
+      "summary": "Grouped stories where \"next\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macrumors.com/2026/06/16/20th-anniversary-iphone-size-options",
+        "https://biztoc.com/x/ac74202d02f9fb6e"
       ]
     },
     {
       "title": "Other",
       "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
       "article_urls": [
-        "https://4sysops.com/archives/new-doclang-standard-optimizes-document-formatting-for-ai-processing",
-        "https://4sysops.com/archives/eu-cyber-resilience-act-mandates-sboms-for-software-supply-chain-transparency",
-        "https://www.macworld.com/article/3166224/ai-is-all-kinds-of-complicated.html"
+        "https://www.ubergizmo.com/2026/06/xreal-aura",
+        "https://www.forbes.com/sites/johntamny/2026/06/16/us-export-controls-are-the-gift-that-keeps-on-givingto-the-ccp",
+        "https://wccftech.com/apple-a22-pro-first-1-4nm-chipset-arriving-in-a-couple-of-years"
       ]
     }
   ],
@@ -239,7 +388,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Three ways the OS 27 betas give away Apple’s folding phone secret. Main topic cluster: First. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View. Main topic cluster: Chip. This is an educational summary, not financial advice."
     },
     {
       "ticker": "AMD",
@@ -250,7 +399,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Three ways the OS 27 betas give away Apple’s folding phone secret. Main topic cluster: First. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View. Main topic cluster: Chip. This is an educational summary, not financial advice."
     },
     {
       "ticker": "ASML",
@@ -261,7 +410,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Three ways the OS 27 betas give away Apple’s folding phone secret. Main topic cluster: First. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View. Main topic cluster: Chip. This is an educational summary, not financial advice."
     },
     {
       "ticker": "INTC",
@@ -272,7 +421,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Three ways the OS 27 betas give away Apple’s folding phone secret. Main topic cluster: First. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View. Main topic cluster: Chip. This is an educational summary, not financial advice."
     },
     {
       "ticker": "QCOM",
@@ -283,7 +432,7 @@
         "score": 0,
         "magnitude": 0
       },
-      "ai_explanation": "Top headline signal: Three ways the OS 27 betas give away Apple’s folding phone secret. Main topic cluster: First. This is an educational summary, not financial advice."
+      "ai_explanation": "Top headline signal: Google And XREAL Release AURA: Android XR Glasses With Impressive 70-degree View. Main topic cluster: Chip. This is an educational summary, not financial advice."
     }
   ],
   "disclaimer": "Educational use only. Not financial advice."
