@@ -1,0 +1,264 @@
+{
+  "theme": "ai",
+  "date": "2026-06-18",
+  "last_updated_utc": "2026-06-18T10:13:57.768Z",
+  "news": [
+    {
+      "title": "The end of the AI honeymoon? ChatGPT market share falls below 50% for first time",
+      "description": "OpenAI still has over a billion monthly active ChatGPT users, but consumers are also increasingly choosing Gemini.",
+      "url": "https://www.techradar.com/pro/the-end-of-the-ai-honeymoon-chatgpt-market-share-falls-below-50-percent-for-first-time",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-17T10:10:00Z"
+    },
+    {
+      "title": "Kazakhstan signs pacts with NVIDIA & Firebird to position country as AI regional hub",
+      "description": "Kazakhstan is investing $10 billion in artificial intelligence infrastructure. Agreements with Firebird and NVIDIA will build advanced data centers. This project aims to make Kazakhstan a regional AI computing hub. It is expected to boost exports and create j…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/kazakhstan-signs-pacts-with-nvidia-firebird-to-position-country-as-ai-regional-hub/articleshow/131791828.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-17T07:58:50Z"
+    },
+    {
+      "title": "Auditing LLM Trading: Bridging Theory and Market Reality with the GT table in R",
+      "description": "Introduction: The Laboratorial Illusion In quantitative finance, Large Language Model (LLM) multi-agent systems are frequently celebrated for their theoretical intelligence. Financial data scientists spend months refining prompt semantics, building complex re…",
+      "url": "https://www.r-bloggers.com/2026/06/auditing-llm-trading-bridging-theory-and-market-reality-with-the-gt-table-in-r",
+      "source": "R-bloggers.com",
+      "publishedAt": "2026-06-17T08:05:04Z"
+    },
+    {
+      "title": "NVIDIAやAMDのAIサーバーの学習性能を評価するベンチマークテスト「MLPerf Training v6.0」の結果が公表される",
+      "description": "AIインフラの性能測定結果を収集して公開している業界団体のMLCommonsが、学習性能評価テスト「MLPerf Training v6.0」の結果を2026年6月16日に公開しました。MLPerf Training v6.0 Results: New MoE Benchmarks and Record System Diversity | MLCommonshttps://mlcommons.org/2026/06/mlperf-training-v6-0-results/NVIDIA Blackwell Sw…",
+      "url": "https://news.livedoor.com/article/detail/31578868",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-17T08:05:00Z"
+    },
+    {
+      "title": "US AI export crackdown on Anthropic sparks global push for sovereign AI",
+      "description": "A letter dated June 12 from US Commerce Secretary Howard Lutnick to Anthropic CEO Dario Amodei marked the most aggressive federal regulatory intervention targeting a leading generative AI firm to date, as Bloomberg confirmed.",
+      "url": "https://www.digitimes.com/news/a20260617VL200/anthropic-usa-ai-regulation-canada-eu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-17T07:52:23Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors",
+      "description": "Microsoft (NASDAQ: MSFT) has not performed well over the past year. One issue the company has encountered is the perception that some of its products and services will be replaced by artificial intelligence (AI). That makes it hard for Microsoft to justify it…",
+      "url": "https://biztoc.com/x/e4f5d4c0f648a77a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-17T07:42:27Z"
+    },
+    {
+      "title": "Apollo and Blackstone Just Closed a $35 Billion Private Credit Deal to Finance Anthropic's Compute Expansion. Here's What It Means for Micron and Nvidia",
+      "description": "Apollo and Blackstone Just Closed a $35 Billion Private Credit Deal to Finance Anthropic's Compute Expansion. Here's What It Means for Micron and Nvidia.\nTwo of the largest asset managers on Wall Street are rewriting the rules of AI infrastructure financing, …",
+      "url": "https://biztoc.com/x/d792f065ce8317b1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-17T07:26:40Z"
+    },
+    {
+      "title": "Can you trust artificial intelligence to help manage your money?",
+      "description": "Artificial intelligence has become part of our daily lives, and many younger users are turning to it for help with managing their money.\nResearch by Fidelity International found that more than a third of 18- to 34-year-olds use AI when making investment choic…",
+      "url": "https://biztoc.com/x/dc5371324388dd66",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-17T10:07:04Z"
+    },
+    {
+      "title": "Android Auto Calling Not Working? Gemini Bug And How To Fix It",
+      "description": "A growing number of Android Auto users are reporting an issue that prevents them from making phone calls using voice commands. The problem stems from Google’s AI assistant, Gemini, which has recently begun replacing the traditional Google Assistant on in-vehi…",
+      "url": "https://www.ubergizmo.com/2026/06/android-auto-gemini-bug",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-06-17T09:58:45Z"
+    },
+    {
+      "title": "Wipro launches Applied AI Center of Excellence for Claude models — Here's all you need to know",
+      "description": "Wipro launches Applied AI Center of Excellence for Claude models, serving as an innovation hub within its AI-Native Business and Platforms Unit. It plans to enhance enterprise AI adoption and integrate it into core business workflows across industries.",
+      "url": "https://www.livemint.com/companies/news/wipro-launches-applied-ai-center-of-excellence-for-claude-models-heres-all-you-need-to-know-11781686478273.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-17T09:58:00Z"
+    },
+    {
+      "title": "Cybersecurity leaders urge US to lift restrictions on Anthropic AI models",
+      "description": "More than 100 cybersecurity executives and researchers are calling on the Trump administration to reverse export controls placed on Anthropic’s advanced AI models. The government recently ordered the company to suspend access to its Fable 5 and Mythos 5 model…",
+      "url": "https://4sysops.com/archives/cybersecurity-leaders-urge-us-to-lift-restrictions-on-anthropic-ai-models",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-17T09:49:03Z"
+    },
+    {
+      "title": "Anthropic halts controversial token based billing for Claude Agent SDK",
+      "description": "Anthropic has suspended its plan to transition Claude Agent SDK users from flat-rate subscriptions to usage-based token billing. This decision follows significant pushback from developers who argued the change would lead to unsustainable cost increases for he…",
+      "url": "https://4sysops.com/archives/anthropic-halts-controversial-token-based-billing-for-claude-agent-sdk",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-17T09:45:47Z"
+    },
+    {
+      "title": "Government restrictions drive record business adoption for Anthropic AI models",
+      "description": "The Trump administration has issued an export control directive banning foreign entities and individuals from accessing Anthropic’s most advanced AI models, Fable 5 and Mythos 5. This mandate follows reports that users successfully bypassed safety guardrails …",
+      "url": "https://4sysops.com/archives/government-restrictions-drive-record-business-adoption-for-anthropic-ai-models",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-17T09:45:44Z"
+    },
+    {
+      "title": "Can you trust artificial intelligence to help manage your money?",
+      "description": "Many people are turning to AI for financial advice but there are questions over the reliability of its responses",
+      "url": "https://theweek.com/personal-finance/can-you-trust-artificial-intelligence-to-help-manage-your-money",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-06-17T09:35:35Z"
+    },
+    {
+      "title": "White House’s Anthropic move jolts Congress back into the AI debate - Politico",
+      "description": "White House’s Anthropic move jolts Congress back into the AI debatePolitico Anthropic, Trump Officials Seek Deal on Restoring Powerful Model AccessWSJ The US government can shut off access to AI at will. What does this mean for Australia?The Conversation Anth…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183929010",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-17T09:32:32Z"
+    },
+    {
+      "title": "15 Malicious JetBrains Plugins Caught Stealing DeepSeek, OpenAI API Keys",
+      "description": "Hackers are using 15 malicious JetBrains plugins posing as AI coding assistants to steal DeepSeek, OpenAI, and other developer API keys.",
+      "url": "https://hackread.com/malicious-jetbrains-plugins-steal-deepseek-openai-api-keys",
+      "source": "HackRead",
+      "publishedAt": "2026-06-17T08:18:32Z"
+    },
+    {
+      "title": "Nykaa taps OpenAI for conversational shopping across beauty and fashion",
+      "description": "Nykaa’s multi-year OpenAI deal will let ChatGPT users in India discover beauty and fashion products through conversation, while Nykaa keeps checkout on its own platform.\nThe post Nykaa taps OpenAI for conversational shopping across beauty and fashion appeared…",
+      "url": "https://www.medianama.com/2026/06/223-nykaa-openai-conversational-shopping-beauty-fashion",
+      "source": "MediaNama.com",
+      "publishedAt": "2026-06-17T08:07:58Z"
+    },
+    {
+      "title": "Peec AI launches AI Shopping Analytics as product recommendations move inside ChatGPT",
+      "description": "New SKU-level analytics show e-commerce brands which products ChatGPT recommends, at what price, and where it sends the buyer. New SKU-level analytics show e-commerce brands which products ChatGPT recommends, at what price, and where it sends the buyer.",
+      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313204/0/en/Peec-AI-launches-AI-Shopping-Analytics-as-product-recommendations-move-inside-ChatGPT.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-17T08:00:00Z"
+    },
+    {
+      "title": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory",
+      "description": "Nvidia is expected to surpass Apple and Samsung Electronics' mobile division to become the world's top buyer of LPDDR, as AI servers and AI PCs pull low-power memory beyond smartphones, MoneyToday reported, citing electronics industry sources.",
+      "url": "https://www.digitimes.com/news/a20260617VL219/nvidia-cpu-apple-capacity-samsung.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-17T07:51:56Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX A4000 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX A4000 Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgra…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Quanta-NVIDIA-RTX-A4000-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-17T07:47:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "The end of the AI honeymoon? ChatGPT market share falls below 50% for first time",
+      "Kazakhstan signs pacts with NVIDIA & Firebird to position country as AI regional hub",
+      "Auditing LLM Trading: Bridging Theory and Market Reality with the GT table in R",
+      "NVIDIAやAMDのAIサーバーの学習性能を評価するベンチマークテスト「MLPerf Training v6.0」の結果が公表される",
+      "US AI export crackdown on Anthropic sparks global push for sovereign AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Users",
+      "summary": "Grouped stories where \"users\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/the-end-of-the-ai-honeymoon-chatgpt-market-share-falls-below-50-percent-for-first-time",
+        "https://biztoc.com/x/dc5371324388dd66",
+        "https://www.ubergizmo.com/2026/06/android-auto-gemini-bug"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/global-trends/kazakhstan-signs-pacts-with-nvidia-firebird-to-position-country-as-ai-regional-hub/articleshow/131791828.cms",
+        "https://news.livedoor.com/article/detail/31578868",
+        "https://biztoc.com/x/e4f5d4c0f648a77a"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260617VL200/anthropic-usa-ai-regulation-canada-eu.html",
+        "https://4sysops.com/archives/cybersecurity-leaders-urge-us-to-lift-restrictions-on-anthropic-ai-models",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183929010"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.r-bloggers.com/2026/06/auditing-llm-trading-bridging-theory-and-market-reality-with-the-gt-table-in-r",
+        "https://theweek.com/personal-finance/can-you-trust-artificial-intelligence-to-help-manage-your-money"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/wipro-launches-applied-ai-center-of-excellence-for-claude-models-heres-all-you-need-to-know-11781686478273.html",
+        "https://hackread.com/malicious-jetbrains-plugins-steal-deepseek-openai-api-keys",
+        "https://www.globenewswire.com/news-release/2026/06/17/3313204/0/en/Peec-AI-launches-AI-Shopping-Analytics-as-product-recommendations-move-inside-ChatGPT.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The end of the AI honeymoon? ChatGPT market share falls below 50% for first time. Main topic cluster: Users. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The end of the AI honeymoon? ChatGPT market share falls below 50% for first time. Main topic cluster: Users. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The end of the AI honeymoon? ChatGPT market share falls below 50% for first time. Main topic cluster: Users. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The end of the AI honeymoon? ChatGPT market share falls below 50% for first time. Main topic cluster: Users. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The end of the AI honeymoon? ChatGPT market share falls below 50% for first time. Main topic cluster: Users. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
