@@ -1,0 +1,310 @@
+{
+  "theme": "ai",
+  "date": "2026-06-19",
+  "last_updated_utc": "2026-06-19T10:18:59.367Z",
+  "news": [
+    {
+      "title": "Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI",
+      "description": "Noam Shazeer is leaving Google for OpenAI. The man widely credited as a principal architect of Google’s Gemini models and a co-author of the 2017 transformer paper that underpins virtually every modern large language model announced the move himself, on X: “I…",
+      "url": "https://thenextweb.com/news/googles-gemini-co-lead-noam-shazeer-is-leaving-for-openai",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-18T08:17:57Z"
+    },
+    {
+      "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times",
+      "description": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staffFinancial Times JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reportsReuters Anthropic Faces More Scrutiny Ahead Of IPO: JPMorgan Reportedly Follows Goldman In Cutting Claude Access…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183960766",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-18T10:12:15Z"
+    },
+    {
+      "title": "The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic",
+      "description": "Baseten, part of a growing Silicon Valley ecosystem offering services to enable low-cost AI models, is raising $1.5 billion in a new round.",
+      "url": "https://biztoc.com/x/104c431859405cbb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T10:11:10Z"
+    },
+    {
+      "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making",
+      "description": "Noam Shazeer, Vice President of Engineering and Gemini co-lead at Google DeepMind, announced Wednesday he is leaving to join OpenAI. \nSharing the news on X, Shazeer wrote, “I’m excited to share that I’ll be joining OpenAI and look forward to working with the …",
+      "url": "https://biztoc.com/x/9d2383a2c90d49db",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T10:08:31Z"
+    },
+    {
+      "title": "OpenAI and Anthropic Race Toward IPOs in High-Stakes AI Public Market Debut",
+      "description": "OpenAI and Anthropic are preparing for major IPOs, potentially among the largest ever, as they compete to capitalise on the booming AI market and investor interest.",
+      "url": "https://www.ibtimes.com.au/openai-anthropic-historic-ipos-ai-boom-1870833",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-18T10:02:28Z"
+    },
+    {
+      "title": "Kevin Warsh’s Bold New Strategy Is About to Spark Major Volatility for Nvidia, Micron, and AI Chip Stocks",
+      "description": "Warsh plans to keep markets guessing his next move at the Fed.",
+      "url": "https://biztoc.com/x/82f990d1bfed921b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T09:22:30Z"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei Finds Rare Ally In Rival OpenAI's Sam Altman As He Warns G7 Leaders Against AI Fragmentation Risk",
+      "description": "Anthropic CEO Dario Amodei has called upon G7 leaders to collaborate on the implementation of advanced AI tools in the wake of a U.S. export block on his company’s latest model.\nAmodei made his plea in front of President Donald Trump and other G7 leaders at a…",
+      "url": "https://biztoc.com/x/f710526cebd69871",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T09:07:36Z"
+    },
+    {
+      "title": "JPMorgan cuts off Anthropic access for Hong Kong staff",
+      "description": "JPMorgan Chase has stopped its staff in Hong Kong from using Anthropic’s AI models, according to the Financial Times, a quiet decision with loud implications. The bank removed Anthropic’s Claude from the internal drop-down list of approved large language mode…",
+      "url": "https://thenextweb.com/news/jpmorgan-cuts-off-anthropic-access-for-hong-kong-staff",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-18T08:52:14Z"
+    },
+    {
+      "title": "How to Access Claude Opus 4.6 (Thinking) For Free",
+      "description": "Claude Opus 4.6 is Anthropic’s flagship AI model. While newer Claude models have already been released, many users still prefer Opus 4.6 Thinking for its strong reasoning and problem-solving abilities. However, access to Claude Opus 4.6 had been limited to pa…",
+      "url": "https://techviral.net/access-claude-opus-4-6-free",
+      "source": "Techviral.net",
+      "publishedAt": "2026-06-18T08:36:58Z"
+    },
+    {
+      "title": "SK Hynix and Samsung race to build the memory powering NVIDIA and AMD's next AI monsters",
+      "description": "SK Hynix confirms it has delivered its first HBM4E samples to its partners, marking the first delivery of next-gen data center components.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112254/sk-hynix-and-samsung-race-to-build-the-memory-powering-nvidia-and-amds-next-ai-monsters/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-18T08:31:06Z"
+    },
+    {
+      "title": "Claude down worldwide? Check the reason behind the latest outage affecting users across the globe",
+      "description": "Claude AI users worldwide are experiencing a second major service disruption this month, with many reporting failed requests and login issues. This latest outage follows a significant global interruption on June 2, impacting various Claude services. Anthropic…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/claude-down-worldwide-check-the-reason-behind-the-latest-outage-affecting-users-across-the-globe/articleshow/131822322.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-18T07:47:50Z"
+    },
+    {
+      "title": "“I get no response at all”: Claude users report blank replies as AI platform appears to face outage",
+      "description": "Claude AI down: Anthropic's AI chatbot Claude appeared to suffer a disruption on Wednesday, with users reporting that prompts were either returning blank responses or generating no reply at all. Thousands of reports surfaced on outage-tracking platforms, whil…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/i-get-no-response-at-all-claude-users-report-blank-replies-as-ai-platform-appears-to-face-outage/articleshow/131822325.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-18T07:44:12Z"
+    },
+    {
+      "title": "Claude AI Down Now? Claude AI Experiences Service Disruptions as Users Report Widespread Outages",
+      "description": "Anthropic's Claude AI chatbot faced service disruptions due to surging demand, affecting users globally. The outages highlight infrastructure challenges as the AI model gains popularity.",
+      "url": "https://www.ibtimes.com.au/claude-ai-service-disruptions-1870822",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-18T07:17:37Z"
+    },
+    {
+      "title": "Moca Network lets stakers burn Staking Power for LLM tokens to fuel AI agents",
+      "description": "Moca Network's initiative could redefine digital identity's role in AI economics, linking token utility to AI resource allocation and consumption.\nThe post Moca Network lets stakers burn Staking Power for LLM tokens to fuel AI agents appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/moca-network-staking-power-llm-tokens-ai-agents",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-18T10:12:15Z"
+    },
+    {
+      "title": "Nvidia tops finance Reddit discussions in 2026, Bitcoin ranks seventh",
+      "description": "Nvidia's dominance in finance discussions highlights a shift towards AI investments, reflecting changing priorities in retail investor strategies.\nThe post Nvidia tops finance Reddit discussions in 2026, Bitcoin ranks seventh appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-tops-reddit-discussions-bitcoin-seventh",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-18T10:05:33Z"
+    },
+    {
+      "title": "BESI raises long-term revenue and margin targets ahead of investor day, citing AI data center demand",
+      "description": "BESI's revised targets highlight a transformative shift in semiconductor packaging, driven by AI demands, potentially reshaping industry norms.\nThe post BESI raises long-term revenue and margin targets ahead of investor day, citing AI data center demand appea…",
+      "url": "https://cryptobriefing.com/besi-raises-revenue-margin-targets-ai-demand",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-18T09:24:13Z"
+    },
+    {
+      "title": "We tend to think of AI as a software problem, weightless and waterless, but even a 100-word email written with ChatGPT has been estimated to require roughly a bottle’s worth of water once data-centre cooling and electricity generation are counted — and scaled to global demand, researchers project AI could withdraw 4.2 to 6.6 billion cubic metres of water a year by 2027, roughly half the United Kingdom’s annual freshwater withdrawals.",
+      "description": "AI's water footprint, from the bottle-per-email estimate to the 4.2-6.6 billion cubic metre projection for 2027. Where the water goes, why the figures are estimates with wide ranges, the difference between withdrawal and consumption, and why local concentrati…",
+      "url": "https://spacedaily.com/t-we-tend-to-think-of-ai-as-a-software-problem-weightless-and-waterless-but-even-a-100-word-email-written-with-chatgpt-has-been-estimated-to-require-roughly-a-bottles-worth-of-water-once-data",
+      "source": "Space Daily",
+      "publishedAt": "2026-06-18T09:22:32Z"
+    },
+    {
+      "title": "Why Australia’s data center boom is becoming a balancing act",
+      "description": "AI-driven demand accelerates Australian data centers, but power, water and planning limits intensify.",
+      "url": "https://www.techradar.com/pro/why-australias-data-center-boom-is-becoming-a-balancing-act",
+      "source": "TechRadar",
+      "publishedAt": "2026-06-18T09:02:43Z"
+    },
+    {
+      "title": "I asked ChatGPT if quitting my ₹80,000 job for food cafe in Delhi was wise? It saw ₹3 lakh monthly potential",
+      "description": "A Delhi graphic designer earning  ₹80,000 a month asked ChatGPT whether he should quit his job to start a food café. The AI warned of significant risks but said the business could potentially earn up to  ₹3 lakh a month.",
+      "url": "https://www.livemint.com/money/i-asked-chatgpt-if-quitting-my-80-000-job-for-cafe-in-delhi-was-wise-it-saw-3-lakh-monthly-potential-11781769719311.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-18T08:59:51Z"
+    },
+    {
+      "title": "What is artificial intelligence (AI)?",
+      "description": "* AI’s impact comes from its breadth: the same pattern-recognition capabilities now power everything from fraud detection and medical imaging to personalization and content generation.\r\n* AI capability is advancing faster than AI reliability, making evaluatio…",
+      "url": "https://www.databricks.com/blog/what-is-artificial-intelligence",
+      "source": "Databricks.com",
+      "publishedAt": "2026-06-18T08:51:03Z"
+    },
+    {
+      "title": "Anthropic Employees and Industry Experts Allege Trump’s Model Meddling is Targeted and Unreasonable",
+      "description": "Following the federal government's recent ban of the AI company's Fable 5 and Mythos 5 models, many are calling the move a capricious and unwarranted act of government overreach.",
+      "url": "https://gizmodo.com/anthropic-employees-and-industry-experts-allege-trumps-model-meddling-is-targeted-and-unreasonable-2000773478",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-06-18T08:39:06Z"
+    },
+    {
+      "title": "Europe wary of stoking Anthropic row at G7",
+      "description": "European leaders will meet on Wednesday with the U.S. president and Anthropic CEO Dario Amodei just days after Washington suspended access to Anthropic’s latest AI models.\nDon’t expect them to confront Donald Trump.\nA lunch with the world’s leading artificial…",
+      "url": "https://biztoc.com/x/cc4cbbc49f520f9d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T07:51:24Z"
+    },
+    {
+      "title": "OpenAI to launch its first Nordic office in Stockholm",
+      "description": "OpenAI, the American company behind the tool ChatGPT, is set to open its first Nordic office in Stockholm during the second half of 2026.",
+      "url": "https://www.thelocal.se/20260618/chatgpt-creator-openai-to-launch-its-first-nordic-office-in-stockholm",
+      "source": "The Local Sweden",
+      "publishedAt": "2026-06-18T07:41:54Z"
+    },
+    {
+      "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+      "description": "Anthropic paused its Claude Agent SDK billing overhaul hours before launch. Here's what changed, why, and what IT leaders should track now.",
+      "url": "https://devops.com/anthropic-hits-pause-on-claude-agent-sdk-billing-change-for-now",
+      "source": "DevOps.com",
+      "publishedAt": "2026-06-18T07:39:01Z"
+    },
+    {
+      "title": "AI data center boom drives Taiwan passive component makers to record sales",
+      "description": "Demand in the passive components market is recovering significantly, lifting operating momentum at Taiwan's two leading suppliers, Yageo and Walsin Technology. Average book-to-bill ratios at both companies have risen above 1.3, placing industry conditions nea…",
+      "url": "https://www.digitimes.com/news/a20260618PD231/yageo-walsin-passive-components-data-center-revenue-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-18T07:38:52Z"
+    },
+    {
+      "title": "SiC cuts AI data center costs; 5% efficiency gain saves US$5 billion",
+      "description": "Power is now compute, and it is becoming a major driver of AI data center build costs. Renesas technical director Mu-Sen Lin said traditional data centers rely on low-voltage AC (LVAC), long wiring runs, and repeated AC-to-DC conversions through uninterruptib…",
+      "url": "https://www.digitimes.com/news/a20260618PD225/renesas-sic-data-center-efficiency-electricity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-18T07:38:49Z"
+    },
+    {
+      "title": "Anne Hathaway says she was spammed with ChatGPT-written thank you notes after hiring a recent role: ‘Nobody on that list gets that job’",
+      "description": "Anne Hathaway has a warning for anyone using ChatGPT to help write their job application thank you notes: She can tell. \nIn the age of AI, it’s never been easier to apply for thousands of roles at once. But as the Oscar-winning actress revealed while hiring f…",
+      "url": "https://biztoc.com/x/616c6851352164d7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-18T07:35:41Z"
+    },
+    {
+      "title": "Darwin organ chip joins Nvidia AI medical push",
+      "description": "Backlight module maker Darwin held its shareholders' meeting on June 17, 2026, and said it remains cautiously optimistic about 2026 revenue as its new businesses continue to gain traction. The company cited fresh commercial display orders in the US market and…",
+      "url": "https://www.digitimes.com/news/a20260618PD226/nvidia-medical-2026-revenue-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-18T07:24:38Z"
+    },
+    {
+      "title": "Google Gemini Omni: What the Next Generation of AI Video Means for Small Business Marketing - Kaizen AI Consulting",
+      "description": "For years, professional video production sat firmly out of reach for most small businesses. The costs, the kit, the editing software and the sheer time involved meant that polished video marketing was a luxury reserved for brands with deep pockets. That lands…",
+      "url": "https://kaizenaiconsulting.com/google-gemini-omni-ai-video-small-business-marketing",
+      "source": "Kaizenaiconsulting.com",
+      "publishedAt": "2026-06-18T07:04:40Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI",
+      "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times",
+      "The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic",
+      "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making",
+      "OpenAI and Anthropic Race Toward IPOs in High-Stakes AI Public Market Debut"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=183960766",
+        "https://biztoc.com/x/104c431859405cbb",
+        "https://www.ibtimes.com.au/openai-anthropic-historic-ipos-ai-boom-1870833"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/googles-gemini-co-lead-noam-shazeer-is-leaving-for-openai",
+        "https://biztoc.com/x/9d2383a2c90d49db",
+        "https://www.thelocal.se/20260618/chatgpt-creator-openai-to-launch-its-first-nordic-office-in-stockholm"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/82f990d1bfed921b",
+        "https://www.tweaktown.com/news/112254/sk-hynix-and-samsung-race-to-build-the-memory-powering-nvidia-and-amds-next-ai-monsters/index.html",
+        "https://cryptobriefing.com/moca-network-staking-power-llm-tokens-ai-agents"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google’s Gemini co-lead Noam Shazeer is leaving for OpenAI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
