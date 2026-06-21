@@ -1,0 +1,168 @@
+{
+  "theme": "ai",
+  "date": "2026-06-21",
+  "last_updated_utc": "2026-06-21T09:42:21.783Z",
+  "news": [
+    {
+      "title": "Nobel winner John Jumper to leave Google DeepMind for Anthropic",
+      "description": "Jumper has been a key member of Google’s AI coding development team and his departure furthers strains the tech giant’s efforts to beat Anthropic, OpenAI and Elon Musk’s SpaceX in the race to build the most powerful AI models.",
+      "url": "https://www.moneycontrol.com/news/business/companies/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic-13954381.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-06-20T04:15:39Z"
+    },
+    {
+      "title": "Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months",
+      "description": "Nobel laureate John Jumper departs Google DeepMind for Anthropic, the latest scientist to join the AI start-up amid a Silicon Valley talent race.",
+      "url": "https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html",
+      "source": "Livemint",
+      "publishedAt": "2026-06-20T09:18:30Z"
+    },
+    {
+      "title": "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic",
+      "description": "Using Claude Fable 5 or Mythos 5 on Amazon Bedrock requires opting into provider_data_share, sending prompts and outputs to Anthropic for 30-day retention with human review. Previous Bedrock models kept inference data inside the AWS boundary. Three days after…",
+      "url": "https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-06-20T09:03:00Z"
+    },
+    {
+      "title": "2 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next 20 Years",
+      "description": "Predicting what will happen 20 years from now is nearly impossible. If you rewind 20 years from today, you'd be in 2006. Several unseen events occurred from 2006 to 2026, ranging from the great financial crisis to a global pandemic to the rise of generative a…",
+      "url": "https://biztoc.com/x/7539a59614db668e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-20T08:40:35Z"
+    },
+    {
+      "title": "AlphaFold Pioneer John Jumper Joins Anthropic",
+      "description": "New Delhi : Renowned scientist John Jumper announced his exit from Google DeepMind after nearly nine years to join Anthropic following a short break. Jumper shared the update on social media platform X on Friday, expressing gratitude for his long ass",
+      "url": "https://kalingatv.com/business/alphafold-pioneer-john-jumper-joins-anthropic-after-deepmind-exit",
+      "source": "Kalinga TV",
+      "publishedAt": "2026-06-20T08:17:33Z"
+    },
+    {
+      "title": "Host4.ai – Run Claude Code and Codex 24/7 with SSH and a browser terminal on mobile",
+      "description": "Run Claude Code and Codex 24/7 with SSH and a browser terminal on mobile",
+      "url": "https://betalist.com/startups/host4-ai",
+      "source": "Betalist.com",
+      "publishedAt": "2026-06-20T07:05:00Z"
+    },
+    {
+      "title": "Lutnick’s Anthropic crackdown claims new power over AI models",
+      "description": "The US government has taken an unprecedented step, using export control laws to restrict foreign access to advanced AI models from Anthropic. This move, citing national security concerns over potential 'jailbreaks,' has sparked debate about government interve…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lutnicks-anthropic-crackdown-claims-new-power-over-ai-models/articleshow/131871483.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-20T06:21:56Z"
+    },
+    {
+      "title": "NVIDIA JetPack 7.2 adds NemoClaw support, Yocto Project support, and AGX Orin 32GB Super Mode",
+      "description": "NVIDIA has announced JetPack 7.2 for Jetson edge AI platforms, adding new deployment tools for agentic AI workloads, official Yocto Project support, and performance updates for Jetson Orin and Jetson Thor systems. The release is aimed at robotics, industrial …",
+      "url": "https://linuxgizmos.com/nvidia-jetpack-7-2-adds-nemoclaw-support-yocto-project-support-and-agx-orin-32gb-super-mode",
+      "source": "Linuxgizmos.com",
+      "publishedAt": "2026-06-20T06:03:24Z"
+    },
+    {
+      "title": "Intercontinental Exchange (ICE) Joins Anthropic Cyber Project And Launches ICE Compass",
+      "description": "Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge.\n- Intercontinental Exchange (NYSE:ICE) has joined Anthropic’s Project Glasswing, an AI-focused cybersecurity initiative for critical infrastructure. \n-…",
+      "url": "https://biztoc.com/x/482746692b8b34c8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-20T05:37:59Z"
+    },
+    {
+      "title": "AlphaFold pioneer John Jumper joins Anthropic after DeepMind exit",
+      "description": "Renowned scientist John Jumper announced his exit from Google DeepMind after nearly nine years to join Anthropic following a short break. Jumper shared the update on social media platform X on Friday , expressing gratitude for his long association with DeepMi…",
+      "url": "https://www.aninews.in/news/business/alphafold-pioneer-john-jumper-joins-anthropic-after-deepmind-exit20260620082953",
+      "source": "ANI News",
+      "publishedAt": "2026-06-20T04:19:07Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nobel winner John Jumper to leave Google DeepMind for Anthropic",
+      "Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months",
+      "Claude Fable 5 on Bedrock Requires Sharing Inference Data with Anthropic",
+      "2 Magnificent Artificial Intelligence (AI) Stocks to Buy and Hold for the Next 20 Years",
+      "AlphaFold Pioneer John Jumper Joins Anthropic"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.moneycontrol.com/news/business/companies/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic-13954381.html",
+        "https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html",
+        "https://www.infoq.com/news/2026/06/bedrock-fable-5-data-sharing"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/7539a59614db668e",
+        "https://betalist.com/startups/host4-ai",
+        "https://linuxgizmos.com/nvidia-jetpack-7-2-adds-nemoclaw-support-yocto-project-support-and-agx-orin-32gb-super-mode"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nobel winner John Jumper to leave Google DeepMind for Anthropic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nobel winner John Jumper to leave Google DeepMind for Anthropic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nobel winner John Jumper to leave Google DeepMind for Anthropic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nobel winner John Jumper to leave Google DeepMind for Anthropic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nobel winner John Jumper to leave Google DeepMind for Anthropic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
