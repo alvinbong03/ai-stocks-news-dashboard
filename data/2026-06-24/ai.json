@@ -1,0 +1,330 @@
+{
+  "theme": "ai",
+  "date": "2026-06-24",
+  "last_updated_utc": "2026-06-24T08:58:53.095Z",
+  "news": [
+    {
+      "title": "Micron and Anthropic sign a multi-year AI memory supply deal",
+      "description": "The chipmaker will supply high-bandwidth memory, DRAM, and SSDs for Claude’s data centres, run Anthropic’s models internally, and take a stake in its latest funding round. Micron Technology and Anthropic have signed a strategic agreement that ties the memory …",
+      "url": "https://thenextweb.com/news/micron-and-anthropic-sign-a-multi-year-ai-memory-supply-deal",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-23T08:01:45Z"
+    },
+    {
+      "title": "This Is the Top Artificial Intelligence (AI) Chip Stock to Buy Right Now, According to Jim Cramer (Hint: It's Not Nvidia)",
+      "description": "This Is the Top Artificial Intelligence (AI) Chip Stock to Buy Right Now, According to Jim Cramer (Hint: It's Not Nvidia)\nJim Cramer, the longtime host of CNBC's Mad Money, recently named Intel (NASDAQ: INTC) his top artificial intelligence (AI) chip stock. T…",
+      "url": "https://biztoc.com/x/315bb9ef7236f9d8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-23T08:00:26Z"
+    },
+    {
+      "title": "OpenAI wants AI to fix vulnerabilities, not just find them",
+      "description": "OpenAI expanded Daybreak, its cybersecurity initiative that combines AI models, Codex Security, security researchers, maintainers, industry partners, and access controls to support vulnerability discovery and remediation. Organizations can use the initiative …",
+      "url": "https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-23T08:49:01Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 24H2",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:47:49Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:45:57Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:45:30Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:45:05Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:43:49Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 24H2",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver version 32.0.15.9166 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-4070-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:36:56Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver version 32.0.15.9166 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-4070-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:36:32Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver version 32.0.15.9166 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-4070-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:35:41Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver version 32.0.15.9166 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-4070-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:34:33Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 4070 Laptop GPU Graphics Driver version 32.0.15.9166 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-4070-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:34:07Z"
+    },
+    {
+      "title": "Taking on Mythos: OpenAI rolls out cyberdefence model Daybreak to speed up software security fixes",
+      "description": "OpenAI has introduced Daybreak, a cybersecurity initiative focused on software vulnerability detection and remediation. The programme includes Codex Security, GPT-5.5-Cyber, Patch the Planet, and the Daybreak Cyber Partner Program. According to the company, t…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taking-on-mythos-openai-rolls-out-cyberdefence-model-daybreak-to-speed-up-software-security-fixes/articleshow/131930885.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-23T08:31:29Z"
+    },
+    {
+      "title": "NVIDIA announces Halos for safer AI-powered robots",
+      "description": "NVIDIA has announced Halos for Robotics. It is a new full-stack safety platform designed to help companies develop and deploy...\nThe post NVIDIA announces Halos for safer AI-powered robots appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/nvidia-announces-halos-for-safer-ai-powered-robots",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-06-23T08:23:36Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 3500 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 3500 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3500-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T08:18:25Z"
+    },
+    {
+      "title": "How to Use ChatGPT Codex for PC Automation and Organization Every Day",
+      "description": "ChatGPT Codex is an AI system designed to assist with a variety of tasks, blending coding expertise with practical applications for everyday use. Initially created to support programming, it now extends to automating tasks like organizing files or generating …",
+      "url": "https://www.geeky-gadgets.com/chatgpt-codex-non-coders",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-23T08:15:00Z"
+    },
+    {
+      "title": "AI data center buildout fuels optical interconnect race, but 6-inch InP wafers hit supply wall",
+      "description": "Technology giants are continuing to expand AI computing infrastructure, driving demand for high-performance optical interconnect components. US optical communications leaders Coherent and Lumentum are actively developing 6-inch indium phosphide (InP) wafer pr…",
+      "url": "https://www.digitimes.com/news/a20260623PD220/inp-6-inch-demand-substrate-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-23T08:00:00Z"
+    },
+    {
+      "title": "Singtel sells $773 million Thai energy stake as it ramps up AI and data center investments",
+      "description": "Southeast Asia's largest telecom operator, Singtel, has sold 2.8% of its stake in Thailand's largest energy firm, Gulf Development, for about S$1 billion ($772.9 million), as it seeks to raise cash for new investments.\nThe stake was sold directly to instituti…",
+      "url": "https://biztoc.com/x/2d5cdd19abf61050",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-23T07:59:27Z"
+    },
+    {
+      "title": "IBM partners with OpenAI on enterprise security AI",
+      "description": "IBM joined the OpenAI Daybreak Cyber Partner ​Program and is collaborating with the startup to integrate protective ​AI tools directly into business operations, helping companies identify and minimize their security risks.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ibm-partners-with-openai-on-enterprise-security-ai/articleshow/131929764.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-23T07:51:01Z"
+    },
+    {
+      "title": "MYiR MAC-B5760 fanless Edge AI industrial PC features Rockchip RK3576 SoC, optional RK1828 LLM/VLM module",
+      "description": "MYiR MAC-B5760 is a fanless Edge AI industrial box PC powered by a Rockchip RK3576 SoC with a built-in 6 TOPs NPU, and equipped with 8GB LPDDR5 and 64GB flash by default. The embedded system offers two Gigabit Ethernet ports, four USB 3.0 ports, HDMI and mini…",
+      "url": "https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module",
+      "source": "CNX Software",
+      "publishedAt": "2026-06-23T07:31:30Z"
+    },
+    {
+      "title": "Tin Stars As The AI Data Center Building Boom Heats Up",
+      "description": "Not since the bronze age of roughly 4000 years ago has demand for tin been so strong nor the price as high, reaching a record three weeks ago of $58,900 a ton.\nBronze tools and weapons made with an alloy of tin and copper soaked up tin in earlier eras whereas…",
+      "url": "https://biztoc.com/x/ea86ba9a59e26446",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-23T07:29:43Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 24H2",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:24:33Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:24:04Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:23:16Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:22:45Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:22:18Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX 4000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions,…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-4000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-23T07:21:53Z"
+    },
+    {
+      "title": "Apple 2026 MacBook Pro Laptop with Apple M5 Pro with 15-core CPU and 16-core GPU: 14.2-inch Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD $1642.5 (0 replies)",
+      "description": "Resale Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip with 15-core CPU and 16-core GPU: Built for AI, 14.2-inch Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD, Wi-Fi 7; Space Black [ama",
+      "url": "https://slickdeals.net/f/19663329-apple-2026-macbook-pro-laptop-with-apple-m5-pro-with-15-core-cpu-and-16-core-gpu-14-2-inch-liquid-retina-xdr-display-24gb-unified-memory-1tb-ssd-1642-5",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-23T07:20:28Z"
+    },
+    {
+      "title": "複数の写真から3Dシーンを生成するAIモデル「ArtiFixer」をNVIDIAが発表、写真にない部分も生成処理で補完可能",
+      "description": "NVIDIAが複数の写真から3Dシーンを生成できるAIモデル「ArtiFixer」を開発しました。ArtiFixerは動画生成AIのWan 2.1をベースに開発されており、参考画像に含まれていない部分を生成処理で補って高品質な3Dシーンを作り出すことができます。ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Modelshttps://research.nvidia.com/labs/sil/p…",
+      "url": "https://news.livedoor.com/article/detail/31631873",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-23T07:04:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Micron and Anthropic sign a multi-year AI memory supply deal",
+      "This Is the Top Artificial Intelligence (AI) Chip Stock to Buy Right Now, According to Jim Cramer (Hint: It's Not Nvidia)",
+      "OpenAI wants AI to fix vulnerabilities, not just find them",
+      "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 24H2",
+      "Quanta NVIDIA RTX 3000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/315bb9ef7236f9d8",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-3000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "System",
+      "summary": "Grouped stories where \"system\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/chatgpt-codex-non-coders",
+        "https://www.cnx-software.com/2026/06/23/myir-mac-b5760-fanless-edge-ai-industrial-pc-offers-rockchip-rk3576-soc-optional-rk1828-llm-vlm-module"
+      ]
+    },
+    {
+      "title": "Fix",
+      "summary": "Grouped stories where \"fix\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative"
+      ]
+    },
+    {
+      "title": "Laptop",
+      "summary": "Grouped stories where \"laptop\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slickdeals.net/f/19663329-apple-2026-macbook-pro-laptop-with-apple-m5-pro-with-15-core-cpu-and-16-core-gpu-14-2-inch-liquid-retina-xdr-display-24gb-unified-memory-1tb-ssd-1642-5"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/micron-and-anthropic-sign-a-multi-year-ai-memory-supply-deal",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/taking-on-mythos-openai-rolls-out-cyberdefence-model-daybreak-to-speed-up-software-security-fixes/articleshow/131930885.cms",
+        "https://www.digitimes.com/news/a20260623PD220/inp-6-inch-demand-substrate-technology.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Micron and Anthropic sign a multi-year AI memory supply deal. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Micron and Anthropic sign a multi-year AI memory supply deal. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Micron and Anthropic sign a multi-year AI memory supply deal. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Micron and Anthropic sign a multi-year AI memory supply deal. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Micron and Anthropic sign a multi-year AI memory supply deal. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
