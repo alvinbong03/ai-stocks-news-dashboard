@@ -1,0 +1,436 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-06-25",
+  "last_updated_utc": "2026-06-25T08:53:25.246Z",
+  "news": [
+    {
+      "title": "China takes US crown for world’s fastest supercomputer - Al Jazeera",
+      "description": "China takes US crown for world’s fastest supercomputerAl Jazeera Chinese supercomputer leapfrogs best US machines to be ranked world’s fastestThe Guardian China Takes Supercomputer Crown From U.S. For First Time Since 2017The New York Times Surprise! Chinese …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184064822",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-24T08:52:42Z"
+    },
+    {
+      "title": "Kochi-based Ikin Global raises $2 million in Pre-Series A2 round",
+      "description": "Ikin Global has secured $2 million led by Unicorn India Ventures to expand internationally and strengthen its IoT smart lock solutions for supply chain and industrial security.",
+      "url": "https://www.thehindubusinessline.com/info-tech/kochi-based-ikin-global-raises-2-million-in-pre-series-a2-round/article71140971.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-24T08:40:08Z"
+    },
+    {
+      "title": "Tech eyes recovery after selloff - What’s moving markets",
+      "description": "Nasdaq bleeds more than 2% as South Korea tech bloodbath becomes global sell-off\nInvesting.com - S&P and Nasdaq futures edged higher on Wednesday after a sharp selloff in technology shares rattled Wall Street, with investors looking to earnings from memory-ch…",
+      "url": "https://biztoc.com/x/e99f0c4c201a1605",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T08:34:44Z"
+    },
+    {
+      "title": "South Korea's SK Hynix says to raise $29 billion in ADR listing",
+      "description": "South Korea's SK Hynix is set to raise a massive $29.43 billion through American Depositary Receipts on Nasdaq. This significant capital infusion aims to bolster its investor base and expand production capacity for crucial AI chips. Funds will be channeled in…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T08:33:05Z"
+    },
+    {
+      "title": "I implanted Paradromics' first long-term brain chip in a patient. I began my career as an electrical engineer",
+      "description": "Dr. Matthew Willsey, a neurosurgeon at the University of Michigan Health, developed an interest in brain-computer interfaces while working as an electrical engineer.\nCarrie Pitzer/Michigan Medicine, University of Michigan\nMatthew Willsey led a team of doctors…",
+      "url": "https://biztoc.com/x/6c937d5bad05fe2d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T08:19:34Z"
+    },
+    {
+      "title": "Show HN: Project Cherub – New TempleOS Fork. Early Build ISO and Future Plans",
+      "description": "I, Rubinosław from REParadoxy, I'm presenting Project Cherub - a modernized version of TempleOS, very well known operating system made by Terry A. Davis.\nMy vision is to create a minimalist, fully-functional and secure operating system. For home users, for bu…",
+      "url": "https://news.ycombinator.com/item?id=48656758",
+      "source": "Hacker News",
+      "publishedAt": "2026-06-24T08:14:31Z"
+    },
+    {
+      "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+      "description": "THE REGISTER EXPLAINER: GPUs idle? Blame your outdated storage, not the silicon sprinters.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184064580",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-24T08:13:02Z"
+    },
+    {
+      "title": "I implanted Paradromics' first long-term brain chip in a patient. I began my career as an electrical engineer.",
+      "description": "Dr. Matthew Willsey, a neurosurgeon, explains how his engineering background led him to implant Paradromcs' first long-term brain chip.",
+      "url": "https://www.businessinsider.com/paradromics-first-long-term-brain-chip-patient-neurosurgeon-engineer-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-24T08:11:01Z"
+    },
+    {
+      "title": "ASE Technology Holding expands capacity with 15 new sites to meet surging AI chip demand",
+      "description": "ASE's expansion underscores the long-term growth potential of AI, signaling robust demand and strategic positioning in the semiconductor industry.\nThe post ASE Technology Holding expands capacity with 15 new sites to meet surging AI chip demand appeared first…",
+      "url": "https://cryptobriefing.com/ase-technology-expands-capacity-ai-demand",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T08:09:57Z"
+    },
+    {
+      "title": "Netherlands lobbies US to drop chip curbs targeting ASML sales",
+      "description": "The Netherlands' opposition to US chip curbs highlights tensions in global tech trade, potentially impacting international semiconductor markets.\nThe post Netherlands lobbies US to drop chip curbs targeting ASML sales appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/netherlands-lobbies-us-asml-chip-curbs",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T08:07:55Z"
+    },
+    {
+      "title": "South Korea's SK Hynix says to raise $29 billion in US ADR listing",
+      "description": "SEOUL, June 24 : South Korea's SK Hynix said on Wednesday it plans to raise 45.45 trillion won ($29.43 billion) via the listing of American Depository receipts (ADR) in the U.S., as it seeks to expand its investor base and production capacity for chips used i…",
+      "url": "https://www.channelnewsasia.com/business/south-koreas-sk-hynix-says-raise-29-billion-in-us-adr-listing-6206421",
+      "source": "CNA",
+      "publishedAt": "2026-06-24T08:07:27Z"
+    },
+    {
+      "title": "South Korea is in talks with Samsung and SK Hynix over a second chip cluster",
+      "description": "A presidential adviser says AI demand could pull forward the next phase of fab construction by more than a decade, and that the country needs somewhere to put it. South Korea’s government is in talks with Samsung Electronics and SK Hynix about the next phase …",
+      "url": "https://thenextweb.com/news/south-korea-chip-investments-samsung-sk-hynix",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-24T08:04:42Z"
+    },
+    {
+      "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+      "description": "When your accelerators sit idle, the problem usually isn't the chips. It's everything between them and the data. Rather than thinking purely about GPU performance, it's time to think about storage as an active engine for throughput, rather than a passive arch…",
+      "url": "https://biztoc.com/x/421e8469b9f6f74b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T08:04:33Z"
+    },
+    {
+      "title": "Tag Along with Jason at CISCE: Cracking AI's Code in Year 1 of Digital & Smart Expo",
+      "description": "BEIJING, June 24, 2026 /PRNewswire/ -- This is a report from China.org.cn The fourth China International Supply Chain Expo (CISCE) has brought together 676 exhibitors from 85 countries, regions and international organisations in Beijing. Artificial intelligen…",
+      "url": "https://www.prnewswire.com/news-releases/tag-along-with-jason-at-cisce-cracking-ais-code-in-year-1-of-digital--smart-expo-302808998.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-24T08:03:00Z"
+    },
+    {
+      "title": "Dell 15 Laptop DC15255-15.6-inch FHD 120Hz Display, AMD 5-7520U, 8GB LPDDR5 RAM, 512GB SSD, Radeon 610M Graphics, Win 11 Home $399.97 at Amazon",
+      "description": "Dell 15 Laptop DC15255-15.6-inch [amazon.com] FHD 120Hz Display, AMD Ryzen 5-7520U, 8GB LPDDR5 RAM, 512GB SSD, Radeon 610M Graphics, Windows 11 Home, Onsite Service - Carbon Black $399.97",
+      "url": "https://slickdeals.net/f/19675452-dell-15-laptop-dc15255-15-6-inch-fhd-120hz-display-amd-5-7520u-8gb-lpddr5-ram-512gb-ssd-radeon-610m-graphics-win-11-home-399-97-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-24T08:00:42Z"
+    },
+    {
+      "title": "Explainer: Why your legacy storage is choking your expensive GPU",
+      "description": "THE REGISTER EXPLAINER: GPUs idle? Blame your outdated storage, not the silicon sprinters.",
+      "url": "https://www.theregister.com/storage/2026/06/24/explainer-why-your-legacy-storage-is-choking-your-expensive-gpu/5260472",
+      "source": "Theregister.com",
+      "publishedAt": "2026-06-24T08:00:00Z"
+    },
+    {
+      "title": "Japan's Nikkei falls on Fed rate-hike bets, tech valuation concerns",
+      "description": "The Nikkei index in Japan fell for a consecutive second day amid worries about potential interest rate increases by the US Federal Reserve and uncertainties in AI sector valuations. The Nikkei 225 benchmark pulled back from its recent peak, reflecting decline…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-on-fed-rate-hike-bets-tech-valuation-concerns/articleshow/131959954.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T07:55:12Z"
+    },
+    {
+      "title": "RTX 5090を使って1.8秒で動画を生成できる動画生成AIモデル「FastWan-QAD」が登場、Wan2.1を量子化＆蒸留して95.6倍に高速化",
+      "description": "カリフォルニア大学サンディエゴ校のAIラボであるHao AI Labが動画生成AIモデル「FastWan-QAD」を公開しました。GeForce RTX 5090でFastWan-QADを実行すると480p・5秒の動画をわずか1.8秒で生成できます。FastWan-QAD: FastVideo generates a 5-Second Video in 1.8 Seconds on a Single NVIDIA GeForce RTX 5090 via Quantization-Aware Distillati…",
+      "url": "https://news.livedoor.com/article/detail/31643203",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-24T07:51:00Z"
+    },
+    {
+      "title": "Should You Buy Nvidia Stock Right Now? A Compelling Answer Is Hiding in Plain Sight",
+      "description": "Ask investors about the most influential stock of the past several years, and many would respond with Nvidia (NASDAQ: NVDA). The company's state-of-the-art processors have taken artificial intelligence (AI) to the next level, propelling its revenue and profit…",
+      "url": "https://biztoc.com/x/c4e59d8a9af79249",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T07:50:19Z"
+    },
+    {
+      "title": "IBM targets Anderon venture to anchor quantum wafer supply",
+      "description": "IBM is building a foundry to produce silicon wafers used in quantum-computing processors, seeking to become an indispensable part of the quantum economy under development. Called Anderon, the independent subsidiary is set to begin production this year, a deca…",
+      "url": "https://www.digitimes.com/news/a20260624VL214/ibm-quantum-computing-silicon-development-subsidiary.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-24T07:36:01Z"
+    },
+    {
+      "title": "RP2350B bells&whistles development board features on-board RP2040 debugger, HDMI, and microSD card slot",
+      "description": "While searching Tindie for a new project, I found a new Raspberry Pi RP2350B-based development board called “Bells&Whistles,” which is interesting because it also features an onboard RP2040-based debugger running Picoprobe firmware, removing the need for a se…",
+      "url": "https://www.cnx-software.com/2026/06/24/rp2350b-bellswhistles-development-board-features-on-board-rp2040-debugger-hdmi-and-microsd-card-slot",
+      "source": "CNX Software",
+      "publishedAt": "2026-06-24T07:28:47Z"
+    },
+    {
+      "title": "China’s LineShine named world’s most powerful supercomputers, tops US models in global ranking",
+      "description": "China has clinched the top spot on a list of the world’s most powerful supercomputers, overtaking the United States for the first time since 2017 with homegrown chips amid an intense race for tech supremacy between the two superpowers.",
+      "url": "https://www.cnn.com/2026/06/24/tech/china-tops-world-supercomputer-ranking-intl-hnk",
+      "source": "CNN",
+      "publishedAt": "2026-06-24T07:27:26Z"
+    },
+    {
+      "title": "MSI Thin A15 Ryzen 5 15.6\" Gaming Laptop for $740 + free shipping",
+      "description": "As one of its daily deals, Best Buy offers the MSI Thin A15 Ryzen 5 15.6\" Gaming Laptop for $740. That's the best price we could find by $59. Shipping is free. Buy Now at Best Buy\r\n Features\r\n <ul> <li>AMD Ryzen 5 7000 3.3GHz processor</li> <li>15.6\" 1920x108…",
+      "url": "https://www.dealnews.com/products/MSI/MSI-Thin-A15-Ryzen-5-15-6-Gaming-Laptop/501208.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-06-24T07:19:34Z"
+    },
+    {
+      "title": "Intel’s Arc G3 Extreme Crushes AMD in the MSI Claw 8 EX",
+      "description": "Intel’s Arc G3 Extreme processor powers the MSI Claw 8EX, a handheld gaming device reviewed in detail by ETA Prime. The device features a 14-core CPU combining performance and efficiency cores, designed to manage demanding gaming workloads while maintaining b…",
+      "url": "https://www.geeky-gadgets.com/msi-claw-8-ex-review",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-06-24T07:17:00Z"
+    },
+    {
+      "title": "Dixon, Amber, Syrma: Harshit Kapadia on why India's EMS sector is back on the radar & which stocks to buy now",
+      "description": "India's electronics manufacturing sector is poised for decades of growth, fueled by global supply chain shifts and government support. Experts see reasonable valuations after recent corrections. Key developments include Dixon Technologies' significant deal wi…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/dixon-amber-syrma-harshit-kapadia-on-why-indias-ems-sector-is-back-on-the-radar-which-stocks-to-buy-now/articleshow/131959192.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T07:15:26Z"
+    },
+    {
+      "title": "Advantest Concludes Successful VOICE 2026 Event",
+      "description": "Conference Hosts Major Semiconductor Companies for Dialogue on Latest Test Technologies and Industry Trends Conference Hosts Major Semiconductor Companies for Dialogue on Latest Test Technologies and Industry Trends",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316605/0/en/Advantest-Concludes-Successful-VOICE-2026-Event.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-24T07:05:00Z"
+    },
+    {
+      "title": "Prime Day deal delivers savings on Intel Core Ultra 9 GeekBook X14 Pro OLED laptop",
+      "description": "Deal | The Geekom GeekBook X14 Pro packs a 14-inch OLED display, 32 GB of RAM, and an Intel Core Ultra 9 185H CPU into an ultra-thin aluminium chassis, and Geekom's Prime Day deal has discounted the Intel Meteor Lake-powered GeekBook X14 Pro thin-n-light lapt…",
+      "url": "https://www.notebookcheck.net/Prime-Day-deal-delivers-savings-on-Intel-Core-Ultra-9-GeekBook-X14-Pro-OLED-laptop.1327753.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-06-24T07:01:00Z"
+    },
+    {
+      "title": "Laravel Moat: Secure Your GitHub Repos with Rust Powered Audits",
+      "description": "In the Laravel ecosystem, where thousands of packages power everything from small blogs to enterprise applications, supply chain security…",
+      "url": "https://codermanjeet.medium.com/laravel-moat-secure-your-github-repos-with-rust-powered-audits-526721f0aee6",
+      "source": "Medium",
+      "publishedAt": "2026-06-24T07:00:00Z"
+    },
+    {
+      "title": "South Korea’s government discusses major chip investments with Samsung, SK Hynix",
+      "description": "South Korea's accelerated chip investments could reshape global semiconductor dynamics, enhancing national growth and competitive positioning.\nThe post South Korea’s government discusses major chip investments with Samsung, SK Hynix appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/south-korea-chip-investments-samsung-sk-hynix",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T06:50:35Z"
+    },
+    {
+      "title": "FTSE 100 Live: London stocks set to open on back foot, Reeves set to be replaced",
+      "description": "FTSE 100 Live pre-open\nLondon's blue-chips are expected to open on the back foot again on Wednesday, as news emerges that Prime Minister in-waiting Andy Burnham is likely to replace Rachel Reeves as Chancellor.\nThe FTSE 100 has been called around 45 points lo…",
+      "url": "https://biztoc.com/x/98b2d4fce6d0f432",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T06:49:27Z"
+    },
+    {
+      "title": "Samsung's Galaxy Watch Ultra 2 looks almost identical to the original, but here's what may change",
+      "description": "Snapdragon chip may be the real star",
+      "url": "https://www.androidpolice.com/samsungs-galaxy-watch-ultra-2-looks-almost-identical-original",
+      "source": "Android Police",
+      "publishedAt": "2026-06-24T06:47:23Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 2050 Graphics Driver 32.0.15.9166 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 2050 Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade t…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-2050-Graphics-Driver-32-0-15-9166-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-24T06:44:02Z"
+    },
+    {
+      "title": "ヨーロッパ、過去最多となる 35 の新しい NVIDIA AI スーパーコンピューターを発表",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/632/12662-632-6125c3bd60b3545e96101e6ca8d4347c-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000632.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-24T06:40:52Z"
+    },
+    {
+      "title": "The ONEXPLAYER 3 is the cheapest console with Intel’s best handheld chip",
+      "description": "The ONEXPLAYER 3 starts at $1,399 and offers Intel's top-of-the-line Arc G3 Extreme chipset and better specs than the competition overall.",
+      "url": "https://www.androidauthority.com/onexplayer-3-prices-revealed-3680726",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-24T06:39:32Z"
+    },
+    {
+      "title": "Micron Technology shares plunge 13% ahead of earnings report as AI chip rally hits a wall",
+      "description": "The plunge in Micron's shares signals a broader reevaluation of AI chip sector valuations, impacting investor confidence and market dynamics.\nThe post Micron Technology shares plunge 13% ahead of earnings report as AI chip rally hits a wall appeared first on …",
+      "url": "https://cryptobriefing.com/micron-shares-plunge-ai-chip-selloff",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T06:37:08Z"
+    },
+    {
+      "title": "Tech Futures Rise After AI Sell-Off; Two Losers Late",
+      "description": "Dow Jones futures were little changed overnight, along with S&P 500 futures and Nasdaq futures. FedEx (FDX) and AI chip IPO Cerebras (CBRS) tumbled late on results. The stock market rally saw sharp losses Tuesday among leading AI names amid a global sell-off …",
+      "url": "https://biztoc.com/x/2c384fd9520c67bc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T06:34:07Z"
+    },
+    {
+      "title": "Asia tech stocks mixed as Samsung rebounds, but chip shares remain under pressure after global selloff",
+      "description": "Asia's technology stocks mostly rebounded on Wednesday amid choppy trading following a global selloff in the previous session.\nShares of South Korean chip heavyweights Samsung Electronics rose more than 9%, while SK Hynix added 2.7%. Both stocks plunged over …",
+      "url": "https://biztoc.com/x/8332ad59eaf2c5ba",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T06:34:00Z"
+    },
+    {
+      "title": "Asia Tech Shares Swing Wildly as A.I. Jitters Persist",
+      "description": "The turbulence in Asia’s chip-dominated stock markets highlighted how heavily global equities have come to depend on enthusiasm for artificial intelligence.",
+      "url": "https://biztoc.com/x/2aae768a96631079",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T06:32:57Z"
+    },
+    {
+      "title": "(PR) Biostar Introduces EdgeComp MS-NAT5000 Edge AI System",
+      "description": "BIOSTAR, a leading manufacturer of edge AI solutions, industrial motherboards, motherboards, graphics cards, and storage devices, today announces the EdgeComp MS-NAT5000, a compact edge AI computing system that integrates the NVIDIA Jetson Thor T5000 module t…",
+      "url": "https://www.techpowerup.com/350242/biostar-introduces-edgecomp-ms-nat5000-edge-ai-system",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-06-24T06:31:53Z"
+    },
+    {
+      "title": "MediaTek-Global Unichip tie-up talk puts TSMC's AI ASIC ecosystem on watch",
+      "description": "Cloud service providers are accelerating in-house AI chip development, lifting demand for application-specific integrated circuits, or ASICs, and reshaping collaboration across the semiconductor supply chain.",
+      "url": "https://www.digitimes.com/news/a20260624PD209/mediatek-guc-ai-asic-cloud-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-24T06:29:04Z"
+    },
+    {
+      "title": "Valve Testing AMD's FSR 4 Upscaling Ahead of Steam Machine Launch",
+      "description": "Will it be ready in time? With the big image quality improvements, I'd hope so.\nValve recently added support for FSR 4 upscaling to the Proton Experimental branch of its Windows compatibility tool for SteamOS and Linux, suggesting it may also have support rea…",
+      "url": "https://me.pcmag.com/en/old-desktop-pcs/37535/valve-testing-amds-fsr-4-upscaling-ahead-of-steam-machine-launch",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-24T06:27:31Z"
+    },
+    {
+      "title": "Chip stocks plunge, bargain-hunters limit scale of falls",
+      "description": "US chip stocks fell from record highs last night in a reversal for buyers of shares linked to the AI infrastructure buildout that has powered the market over the past year.",
+      "url": "https://www.rte.ie/news/business/2026/0624/1580055-chip-stocks-plunge-bargain-hunters-limit-scale-of-falls",
+      "source": "RTE",
+      "publishedAt": "2026-06-24T06:25:08Z"
+    },
+    {
+      "title": "Samsung UFS 5.0 Is Gunning for SSDs With 10.8 GB/s Sustained Read",
+      "description": "Sustained write isn't far behind it, either.\nSamsung has unveiled its UFS 5.0 embedded storage solution, and its performance numbers are impressive. The new chips are reportedly capable of sustained read speeds up to 10.8 GB/s, and sustained write speeds up t…",
+      "url": "https://me.pcmag.com/en/storage/37533/samsung-ufs-50-is-gunning-for-ssds-with-108-gbs-sustained-read",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-24T06:23:20Z"
+    },
+    {
+      "title": "Intel Arc G3 Extreme Tested: This Is the PC Gaming Handheld Chip to Beat",
+      "description": "With its \"Panther Lake\" Xe graphics cores, Intel's new G3 Series processors are purpose-built for PC gaming handhelds. I tested the flagship G3 Extreme chip inside MSI's spendy Claw 8 EX AI+. What type of frame rates can you expect?\nIntel unveiled its Arc G3 …",
+      "url": "https://me.pcmag.com/en/processors/37531/intel-arc-g3-extreme-tested-this-is-the-pc-gaming-handheld-chip-to-beat",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-24T06:22:24Z"
+    },
+    {
+      "title": "Miss Vickie's Kettle Cooked Potato Chips, Variety Pack, 1.375 Ounce (Pack of 28)~$11.57 With S&S @ Amazon",
+      "description": "https://www.amazon.com/gp/product...X0DER&th=1 \n \nMy other deals",
+      "url": "https://slickdeals.net/f/19674987-miss-vickie-s-kettle-cooked-potato-chips-variety-pack-1-375-ounce-pack-of-28-11-57-with-s-s-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-24T06:19:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "China takes US crown for world’s fastest supercomputer - Al Jazeera",
+      "Kochi-based Ikin Global raises $2 million in Pre-Series A2 round",
+      "Tech eyes recovery after selloff - What’s moving markets",
+      "South Korea's SK Hynix says to raise $29 billion in ADR listing",
+      "I implanted Paradromics' first long-term brain chip in a patient. I began my career as an electrical engineer"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/6c937d5bad05fe2d",
+        "https://www.businessinsider.com/paradromics-first-long-term-brain-chip-patient-neurosurgeon-engineer-2026-6",
+        "https://cryptobriefing.com/ase-technology-expands-capacity-ai-demand"
+      ]
+    },
+    {
+      "title": "Global",
+      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/kochi-based-ikin-global-raises-2-million-in-pre-series-a2-round/article71140971.ece",
+        "https://biztoc.com/x/e99f0c4c201a1605",
+        "https://www.cnn.com/2026/06/24/tech/china-tops-world-supercomputer-ranking-intl-hnk"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184064822"
+      ]
+    },
+    {
+      "title": "Tech",
+      "summary": "Grouped stories where \"tech\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-on-fed-rate-hike-bets-tech-valuation-concerns/articleshow/131959954.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/south-koreas-sk-hynix-says-to-raise-29-billion-in-adr-listing/articleshow/131960850.cms",
+        "https://news.ycombinator.com/item?id=48656758",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184064580"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China takes US crown for world’s fastest supercomputer - Al Jazeera. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China takes US crown for world’s fastest supercomputer - Al Jazeera. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China takes US crown for world’s fastest supercomputer - Al Jazeera. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China takes US crown for world’s fastest supercomputer - Al Jazeera. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China takes US crown for world’s fastest supercomputer - Al Jazeera. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
