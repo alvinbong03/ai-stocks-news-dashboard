@@ -1,0 +1,283 @@
+{
+  "theme": "ai",
+  "date": "2026-06-26",
+  "last_updated_utc": "2026-06-26T08:56:10.594Z",
+  "news": [
+    {
+      "title": "OpenAI partners with Broadcom to launch Jalapeño intelligence chip",
+      "description": "OpenAI, in collaboration with Broadcom, has introduced Jalapeño, a purpose-built processor designed for large language model (LLM) inference.\nThe chip is the first in a planned series of accelerators that the companies are developing jointly. It is intended t…",
+      "url": "https://biztoc.com/x/d22040610e1cb580",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T07:12:32Z"
+    },
+    {
+      "title": "Will Nvidia Continue to Dominate in AI? This One Number Offers a Strikingly Clear Answer",
+      "description": "Nvidia (NASDAQ: NVDA) has built an artificial intelligence (AI) empire, offering graphics processing units (GPUs) that power essential tasks like the training of AI models and providing a wide range of related products and services. All of this has sent earni…",
+      "url": "https://biztoc.com/x/0cb65c7fd51e149e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T07:27:52Z"
+    },
+    {
+      "title": "Anthropic accuses Alibaba of ‘illicitly’ accessing AI models",
+      "description": "Anthropic accused Chinese technology giant Alibaba Group Holding of waging a large-scale effort to “illicitly” access its Claude artificial intelligence model using thousands of fraudulent accounts that undermine the U.S. AI developer’s decision to keep its p…",
+      "url": "https://biztoc.com/x/46f820bb6ce04258",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T06:09:56Z"
+    },
+    {
+      "title": "OpenAI updates GPT-5.5 Instant to improve conversational context and intent recognition",
+      "description": "OpenAI has released an update for GPT-5.5 Instant, the primary model powering the free tier of ChatGPT. The update focuses on enhancing conversation quality by better identifying the underlying goals behind user questions. This improvement is particularly not…",
+      "url": "https://4sysops.com/archives/openai-updates-gpt-5-5-instant-to-improve-conversational-context-and-intent-recognition",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-25T08:40:28Z"
+    },
+    {
+      "title": "Qualcomm to acquire Modular and launch AI chips for data center expansion",
+      "description": "Qualcomm has entered a definitive agreement to acquire Modular Inc., a software infrastructure firm specializing in AI-native software stacks. This acquisition aims to provide a silicon-agnostic compute layer that optimizes AI performance across various hardw…",
+      "url": "https://4sysops.com/archives/qualcomm-to-acquire-modular-and-launch-ai-chips-for-data-center-expansion",
+      "source": "4sysops.com",
+      "publishedAt": "2026-06-25T08:40:25Z"
+    },
+    {
+      "title": "Can LLM Agents Select and Engage with Biological Tools?",
+      "description": "Large language model agents are capable of performing initial interactions with biological tools (BTs), indicating that agents could lower expertise barriers for actors seeking to use BTs. Targeted testing of agent design capabilities is warranted.",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4741-1.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-06-25T08:00:00Z"
+    },
+    {
+      "title": "Getty Sued An AI Firm In 2023. Now Its Pictures Are Going Into ChatGPT",
+      "description": "Getty’s OpenAI deal shows how AI copyright battles are moving from lawsuits to licensing, as rights-cleared content becomes valuable inside ChatGPT.",
+      "url": "https://www.forbes.com/sites/maureenkerr/2026/06/25/getty-sued-an-ai-firm-in-2023-now-its-pictures-are-going-into-chatgpt",
+      "source": "Forbes",
+      "publishedAt": "2026-06-25T07:48:40Z"
+    },
+    {
+      "title": "Google 宣布 Gemini 3.5 Flash 正式內建 Computer Use，AI Agent 操作電腦變標準配備",
+      "description": "Google DeepMind 於 6 月 24 日正式宣布，Computer Use 功能現在已內建於 Ge […]\nThe post Google 宣布 Gemini 3.5 Flash 正式內建 Computer Use，AI Agent 操作電腦變標準配備 appeared first on 電腦王阿達.",
+      "url": "https://www.koc.com.tw/archives/647091",
+      "source": "Koc.com.tw",
+      "publishedAt": "2026-06-25T07:37:16Z"
+    },
+    {
+      "title": "Anthropic is accusing China's Alibaba of exploiting its AI models in a large-scale attack",
+      "description": "Anthropic said Alibaba carried out large-scale distillation attacks against its AI models.\nBloomberg/Getty Images\nAnthropic accused Alibaba of trying to \"illicitly extract Claude's capabilities.\"\nIt said the Chinese company interacted with Claude millions of …",
+      "url": "https://biztoc.com/x/9bcff0d8084e6351",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T06:55:20Z"
+    },
+    {
+      "title": "Anthropic is accusing China's Alibaba of exploiting its AI models in a large-scale attack",
+      "description": "Anthropic said the Chinese company interacted with Claude millions of times through 25,000 fraudulent accounts in recent months.",
+      "url": "https://www.businessinsider.com/anthropic-china-alibaba-exploiting-ai-models-distillation-attack-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-25T06:50:33Z"
+    },
+    {
+      "title": "Announces Collaboration with Anthropic to Scale Next Generation AI Infrastructure",
+      "description": "Announces Collaboration with Anthropic to Scale Next Generation AI Infrastructure\nMicron Technology Inc. (NASDAQ:MU) is one of the 10 Best AI Chip Stocks to Buy for the Long Term. Micron's share prices have zoomed 722.27% in the past year, while it has increa…",
+      "url": "https://biztoc.com/x/f913fa0c3ceb00f9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T06:42:24Z"
+    },
+    {
+      "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
+      "description": "OpenAI has rolled out an upgrade for the free model you interact with the most on ChatGPT.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184074942",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-25T05:12:04Z"
+    },
+    {
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "description": "Anthropic sent a letter to the U.S. Senate Committee on Banking, Housing, and Urban Affairs accusing the Chinese tech company Alibaba of \"brazenly\" and \"illicitly\" attempting to extract its artificial intelligence capabilities, CNBC confirmed on Wednesday.\nTh…",
+      "url": "https://biztoc.com/x/88f6450fc2b3446b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T04:38:59Z"
+    },
+    {
+      "title": "Qualcomm jumps 12% premarket on AI chip outlook",
+      "description": "Shares of Qualcomm surged 12% in premarket trading on Thursday after the company raised its non-handset forecast. In a recent announcement, the company raised its revenue target for that segment to $4...",
+      "url": "https://biztoc.com/x/01d4f33084e9edb3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-25T08:41:53Z"
+    },
+    {
+      "title": "Notion’s new Claude agents want to do your busywork, but it’ll cost you",
+      "description": "Notion's new Claude agents bring AI directly into your workspace, letting teams write, code, and manage projects.",
+      "url": "https://www.androidauthority.com/notion-getting-external-agents-support-3681305",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-25T08:10:15Z"
+    },
+    {
+      "title": "Tecan accelerates Data-Driven Lab journey with Agentic AI developments powered by NVIDIA",
+      "description": "Tecan, a global provider of laboratory automation and solutions, today announced the integration of Agentic AI capabilities into its lab analytics platform Introspect, leveraging NVIDIA BioNeMo Agent Toolkit.",
+      "url": "https://www.news-medical.net/news/20260625/Tecan-accelerates-Data-Driven-Lab-journey-with-Agentic-AI-developments-powered-by-NVIDIA.aspx",
+      "source": "News-Medical.Net",
+      "publishedAt": "2026-06-25T06:13:52Z"
+    },
+    {
+      "title": "Micron and Qualcomm forecasts drive $400B AI chip stock rally",
+      "description": "The AI chip stock rally underscores the growing demand for AI infrastructure, potentially reshaping tech investment strategies globally.\nThe post Micron and Qualcomm forecasts drive $400B AI chip stock rally appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/micron-qualcomm-ai-chip-stock-rally",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-25T05:51:24Z"
+    },
+    {
+      "title": "LLM-gen-AI - Software Freedom Conservancy",
+      "description": "The Software Freedom Conservancy provides a non-profit home and services to Free, Libre and Open Source Software (FLOSS) projects.",
+      "url": "https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html",
+      "source": "Sfconservancy.org",
+      "publishedAt": "2026-06-25T05:47:01Z"
+    },
+    {
+      "title": "OpenAI is making GPT-5.5 Instant ‘more fun’ to talk to",
+      "description": "OpenAI is rolling out improvements to GPT-5.5 Instant that will make it better at handling complex questions and make it more fun to talk to.",
+      "url": "https://www.androidauthority.com/openai-gpt-5-5-instant-improvements-3681227",
+      "source": "Android Authority",
+      "publishedAt": "2026-06-25T05:40:21Z"
+    },
+    {
+      "title": "SPAC Deals Seen as Key Path to Public Market in Data Center Boom",
+      "description": "The rebound in blank-check companies is proving to be a useful route to public markets for companies involved in the artificial intelligence-data center build-out, said Betsy Cohen, a veteran of dealmaking in special purpose acquisition companies (SPAC). The …",
+      "url": "https://www.insurancejournal.com/news/national/2026/06/25/875207.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-06-25T05:08:44Z"
+    },
+    {
+      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+      "description": "Legion LegalTech Corp, a legal tech firm based in the US, has initiated legal action against the federal government after a controversial directive mandated AI company Anthropic to restrict access to its advanced models for foreign users. Legion argues this m…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-top-tier-anthropic-models/articleshow/131982621.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-25T04:55:18Z"
+    },
+    {
+      "title": "Prime Members: LAMTTO Wireless CarPlay Adapter with Gemini AI, 4GB+32GB Magic Box with Full Google Play Access $97.49",
+      "description": "Prime + eCoupon at checkout: SSVNLT5D \n \nNote: Promo codes are typically for one-time use and don't always apply seamlessly. If you run into this issue, refresh the page, re-enter the code, or...",
+      "url": "https://slickdeals.net/f/19681650-prime-members-lamtto-wireless-carplay-adapter-with-gemini-ai-4gb-32gb-magic-box-with-full-google-play-access-97-49",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-06-25T04:40:17Z"
+    },
+    {
+      "title": "NVIDIAのAIインフラを使って「海の波」を電力に変換する技術をEco Wave Powerが開発中",
+      "description": "NVIDIAのAIインフラストラクチャとNVIDIA Omniverseのデジタルツインを用い、「海の波」を電力に変換する技術をEco Wave Powerが開発しています。Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins | NVIDIA Bloghttps://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/?ncid=so-tw…",
+      "url": "https://news.livedoor.com/article/detail/31652807",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-25T04:36:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI partners with Broadcom to launch Jalapeño intelligence chip",
+      "Will Nvidia Continue to Dominate in AI? This One Number Offers a Strikingly Clear Answer",
+      "Anthropic accuses Alibaba of ‘illicitly’ accessing AI models",
+      "OpenAI updates GPT-5.5 Instant to improve conversational context and intent recognition",
+      "Qualcomm to acquire Modular and launch AI chips for data center expansion"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/46f820bb6ce04258",
+        "https://biztoc.com/x/9bcff0d8084e6351",
+        "https://www.businessinsider.com/anthropic-china-alibaba-exploiting-ai-models-distillation-attack-2026-6"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/d22040610e1cb580",
+        "https://4sysops.com/archives/openai-updates-gpt-5-5-instant-to-improve-conversational-context-and-intent-recognition",
+        "https://www.forbes.com/sites/maureenkerr/2026/06/25/getty-sued-an-ai-firm-in-2023-now-its-pictures-are-going-into-chatgpt"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0cb65c7fd51e149e",
+        "https://www.insurancejournal.com/news/national/2026/06/25/875207.htm"
+      ]
+    },
+    {
+      "title": "Large",
+      "summary": "Grouped stories where \"large\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.rand.org/pubs/research_reports/RRA4741-1.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/qualcomm-to-acquire-modular-and-launch-ai-chips-for-data-center-expansion",
+        "https://www.koc.com.tw/archives/647091",
+        "https://biztoc.com/x/01d4f33084e9edb3"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI partners with Broadcom to launch Jalapeño intelligence chip. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI partners with Broadcom to launch Jalapeño intelligence chip. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI partners with Broadcom to launch Jalapeño intelligence chip. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI partners with Broadcom to launch Jalapeño intelligence chip. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI partners with Broadcom to launch Jalapeño intelligence chip. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
