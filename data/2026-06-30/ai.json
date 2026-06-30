@@ -1,0 +1,317 @@
+{
+  "theme": "ai",
+  "date": "2026-06-30",
+  "last_updated_utc": "2026-06-30T09:24:57.141Z",
+  "news": [
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders like Nvidia in their home market",
+      "url": "https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-29T06:03:58Z"
+    },
+    {
+      "title": "A License for Your Brain: The Coming AI Crackdown and Why You Must Practice LLM Self-Custody",
+      "description": "They Want a License for Your Brain I have spent years building decentralized AI tools and watching the establishment move to lobotomize publicly-available large language models (in the U.S.) to make sure they are nowhere near as intelligent as they could be. …",
+      "url": "https://www.naturalnews.com/2026-06-29-license-for-your-brain-coming-ai-crackdown.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-29T06:00:00Z"
+    },
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders like Nvidia in their home market",
+      "url": "https://biztoc.com/x/f9abe1d6d86afa30",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T05:59:01Z"
+    },
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders like Nvidia in their home market",
+      "url": "https://abcnews.com/Business/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299959",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-29T05:51:44Z"
+    },
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders like Nvidia in their home market. Jensen Huang, the CEO of …",
+      "url": "https://www.seattlepi.com/news/world/article/nvidia-s-ai-chip-sales-in-china-stall-as-local-22324645.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-06-29T04:50:38Z"
+    },
+    {
+      "title": "Nvidia is quietly staffing up around its AI ambitions in outer space",
+      "description": "Nvidia CEO Jensen Huang.\nBloomberg/Getty Images\nNvidia is hiring to bring AI computing into orbit with its Space-1 project.\nThe chipmaker is hiring a system architect and a software architect for the effort.\nCEO Jensen Huang has said space data centers don't …",
+      "url": "https://biztoc.com/x/e13cc5a31d0f481f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T09:15:58Z"
+    },
+    {
+      "title": "AWS raises GPU prices 20% as the memory crunch bites",
+      "description": "Renting an AI chip is starting to feel like booking a hotel in a sold-out city. You pay to hold the room, and the rate keeps climbing. On AWS, it just climbed again. Amazon Web Services has raised prices for EC2 Capacity Blocks for ML by roughly 20%, starting…",
+      "url": "https://thenextweb.com/news/aws-gpu-prices-increase-memory-shortage",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-29T09:07:17Z"
+    },
+    {
+      "title": "Nvidia is quietly staffing up around its AI ambitions in outer space",
+      "description": "Nvidia expands its space computing team for the Space-1 system, focusing on AI software development for low-Earth orbit data centers.",
+      "url": "https://www.businessinsider.com/nvidia-expands-space-1-project-with-new-ai-job-roles-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-29T09:00:01Z"
+    },
+    {
+      "title": "Nearly 400 local newspapers sue OpenAI and Microsoft over copyright",
+      "description": "A coalition that owns nearly 400 local US newspapers has sued OpenAI and Microsoft. The publishers call AI training on their reporting a death knell for local journalism. It is the largest copyright case the local press has brought yet. Local newspapers repor…",
+      "url": "https://thenextweb.com/news/local-newspapers-sue-openai-microsoft-copyright",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-29T08:26:22Z"
+    },
+    {
+      "title": "South Korea to invest over $500B in four AI chip plants",
+      "description": "South Korean President Lee Jae-myung remarked on Monday that his country must secure key artificial intelligence (AI) capabilities faster than any other nation to strengthen its position as a chipmake...",
+      "url": "https://biztoc.com/x/46a10121a8b1fa03",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T06:14:21Z"
+    },
+    {
+      "title": "Google Loses Two More AI Researchers to Anthropic",
+      "description": "Two leading artificial intelligence (AI) researchers at Alphabet’s Google are planning to leave for rival Anthropic – adding to a series of high-profile departures that risk undercutting the search giant’s position in AI, according to a Bloomberg report cited…",
+      "url": "https://www.naturalnews.com/2026-06-29-google-loses-two-more-ai-researchers-anthropic.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-29T06:00:00Z"
+    },
+    {
+      "title": "Hexaware Technologies shares jump 8% after securing Anthropic authorised reseller status for Amazon Bedrock",
+      "description": "Hexaware Technologies shares rose sharply on Monday after the IT services company became an Anthropic Authorised Reseller for Amazon Bedrock. The designation allows Hexaware to sell, integrate and support Claude AI models for enterprises, strengthening its AI…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-jump-8-after-securing-anthropic-authorised-reseller-status-for-amazon-bedrock/articleshow/132064151.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-29T05:47:32Z"
+    },
+    {
+      "title": "Lessons from Anthropic on building effective human-agent teams | Claude by Anthropic",
+      "description": "The way we work with AI is evolving from a single-player to a multiplayer experience, where humans and agents work together as a team to achieve shared goals. We share examples of this new way of working in action.",
+      "url": "https://claude.com/blog/building-effective-human-agent-teams",
+      "source": "Claude.com",
+      "publishedAt": "2026-06-29T05:47:01Z"
+    },
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "Jensen Huang has acknowledged that the US has lost its edge in China's advanced AI chips market as Chinese competitors have become “giants\"",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidias-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead/article71160087.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-29T05:15:48Z"
+    },
+    {
+      "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "description": "Jensen Huang, the CEO of computer chip giant Nvidia, was mobbed by onlookers as he hit the streets for the \"zhajiangmian\" noodles while visiting Beijing during U.S. President Donald Trump's May summit with Chinese leader Xi Jinping. But his celebrity status h…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-ai-chip-sales-in-china-stall-as-local-chipmakers-like-huawei-take-the-lead/articleshow/132063107.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-29T04:45:17Z"
+    },
+    {
+      "title": "Voters of both parties want tighter AI regulation, poll finds",
+      "description": "A new survey from the AI Policy Institute finds bipartisan support for legislation that targets powerful AI systems.",
+      "url": "https://biztoc.com/x/3df226203625e19b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T09:16:13Z"
+    },
+    {
+      "title": "Kyocera to invest JPY650 billion in chip equipment and data center components",
+      "description": "Kyocera is committing JPY650 billion (approx. US$4 billion) to its components businesses through fiscal 2031, as AI data center investment and semiconductor equipment spending lift demand for ceramic parts, optical communication packages, and advanced semicon…",
+      "url": "https://www.digitimes.com/news/a20260629VL213/kyocera-equipment-data-center-investment-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-29T09:02:24Z"
+    },
+    {
+      "title": "Voters of both parties want tighter AI regulation, poll finds",
+      "description": "A new survey from the AI Policy Institute finds bipartisan support for legislation that targets powerful AI systems.",
+      "url": "https://www.nbcnews.com/tech/tech-news/voters-both-parties-want-tighter-ai-regulation-poll-finds-rcna351815",
+      "source": "NBC News",
+      "publishedAt": "2026-06-29T09:00:00Z"
+    },
+    {
+      "title": "Ex-Anthropic researchers raise $200M for self-improving AI",
+      "description": "Mirendil, founded by two researchers who left Anthropic after barely a year, has raised $200m at a $1bn valuation. The pitch: sell the self-improving AI that the big labs build for themselves and guard from everyone else. The biggest AI labs share one private…",
+      "url": "https://thenextweb.com/news/mirendil-200m-seed-ai-research",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-29T08:51:36Z"
+    },
+    {
+      "title": "OpenAI hires Apple’s Vision Pro chief Paul Meade",
+      "description": "Paul Meade, Apple’s Vision Pro chief, is leaving to build OpenAI’s devices. It is the most senior Apple defection yet, and it points the AI hardware talent war straight at Cupertino. Apple does not lose vice presidents to rivals. That is the unwritten rule, a…",
+      "url": "https://thenextweb.com/news/openai-hires-apple-vision-pro-chief",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-29T08:39:07Z"
+    },
+    {
+      "title": "Data Center as a Service Market Size to Reach $1,400.6 Billion by 2035 as AI Infrastructure and Cloud Adoption Accelerate Worldwide | Report by SNS Insider",
+      "description": "The U.S. Data Center as a Service Market is Projected to Grow from $48.7 Billion in 2025 to $427 Billion by 2035, While Europe is Expected to Expand from $26.84 Billion to $87.91 Billion, Driven by AI Workloads, Hyperscale Cloud Investments, Edge Computing, M…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3318722/0/en/Data-Center-as-a-Service-Market-Size-to-Reach-1-400-6-Billion-by-2035-as-AI-Infrastructure-and-Cloud-Adoption-Accelerate-Worldwide-Report-by-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-29T08:35:00Z"
+    },
+    {
+      "title": "South Korea’s $518 billion AI chip push shows crypto is still losing the capital race",
+      "description": "South Korea’s $518 billion AI chip push shows crypto is still losing the capital race\nSamsung and SK Hynix are pulling a chip-plant buildout forward by a decade to meet AI memory demand. It is the latest and largest sign of the AI capital cycle that has drawn…",
+      "url": "https://biztoc.com/x/f3c1eeb063c33e24",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T06:45:08Z"
+    },
+    {
+      "title": "VivoPower Selects Global AI Industry Leader as Preferred AI Tenant for Lease of Norway Operational Data Center",
+      "description": "Preferred AI tenant selected based on commercial terms, financial strength, credit quality, and operational alignment with the long-duration lease structure",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3318675/0/en/VivoPower-Selects-Global-AI-Industry-Leader-as-Preferred-AI-Tenant-for-Lease-of-Norway-Operational-Data-Center.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-29T06:30:00Z"
+    },
+    {
+      "title": "South Korea’s $518 billion AI chip push shows crypto is still losing the capital race",
+      "description": "Samsung and SK Hynix are pulling a chip-plant buildout forward by a decade to meet AI memory demand. It is the latest and largest sign of the AI capital cycle that has drawn money away from crypto all year.",
+      "url": "https://www.coindesk.com/markets/2026/06/29/south-korea-s-usd518-billion-ai-chip-push-shows-crypto-is-still-losing-the-capital-race",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-29T06:19:46Z"
+    },
+    {
+      "title": "OpenAI limits access to new models due to government security concerns",
+      "description": "Government-imposed AI model reviews may hinder innovation and alter competitive dynamics, impacting investors and industry growth.\nThe post OpenAI limits access to new models due to government security concerns appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-limits-model-access-government-security",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-29T05:41:12Z"
+    },
+    {
+      "title": "株式会社playknot、Anthropic「Claude Partner Network」に認定",
+      "description": "[株式会社playknot]\n[画像1: https://prcdn.freetls.fastly.net/release_image/106964/139/106964-139-f1d745e1ebc1ae840320b7962ee68b5b-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000139.000106964.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-29T05:40:42Z"
+    },
+    {
+      "title": "AI chip rally faces reality check, but bubble fears may be overdone: Adrian Mowat",
+      "description": "South Korean chip stocks are experiencing a temporary dip, not an AI bubble burst, according to EM-Equity Strategist Adrian Mowat. He attributes the volatility to strong earnings revisions driven by tight supply and demand. The next phase requires companies t…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-chip-rally-faces-reality-check-but-bubble-fears-may-be-overdone-adrian-mowat/articleshow/132063878.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-29T05:28:01Z"
+    },
+    {
+      "title": "University of Cambridge and Nvidia unveil co-evolution framework for AI agents and evaluators",
+      "description": "Co-evolving AI agents and evaluators could enhance AI efficiency and innovation but may amplify biases, prompting regulatory scrutiny.\nThe post University of Cambridge and Nvidia unveil co-evolution framework for AI agents and evaluators appeared first on Cry…",
+      "url": "https://cryptobriefing.com/cambridge-nvidia-rqgm-ai-co-evolution",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-29T05:09:27Z"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028",
+      "description": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028\nThere are currently 16 companies that have crossed the $1 trillion market cap plateau, with two more, Walmart and JPMorgan Chase, knocking on the door.\nOn…",
+      "url": "https://biztoc.com/x/bce3175f4d97e9b9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T04:43:08Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+      "A License for Your Brain: The Coming AI Crackdown and Why You Must Practice LLM Self-Custody",
+      "Nvidia is quietly staffing up around its AI ambitions in outer space",
+      "AWS raises GPU prices 20% as the memory crunch bites",
+      "Nearly 400 local newspapers sue OpenAI and Microsoft over copyright"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://abcnews.com/Technology/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299960",
+        "https://biztoc.com/x/f9abe1d6d86afa30",
+        "https://abcnews.com/Business/wireStory/nvidias-ai-chip-sales-china-stall-local-chipmakers-134299959"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e13cc5a31d0f481f",
+        "https://www.businessinsider.com/nvidia-expands-space-1-project-with-new-ai-job-roles-2026-6",
+        "https://cryptobriefing.com/cambridge-nvidia-rqgm-ai-co-evolution"
+      ]
+    },
+    {
+      "title": "Local",
+      "summary": "Grouped stories where \"local\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/local-newspapers-sue-openai-microsoft-copyright"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-06-29-license-for-your-brain-coming-ai-crackdown.html",
+        "https://www.naturalnews.com/2026-06-29-google-loses-two-more-ai-researchers-anthropic.html",
+        "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-jump-8-after-securing-anthropic-authorised-reseller-status-for-amazon-bedrock/articleshow/132064151.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
