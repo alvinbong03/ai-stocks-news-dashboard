@@ -1,0 +1,296 @@
+{
+  "theme": "ai",
+  "date": "2026-07-01",
+  "last_updated_utc": "2026-07-01T09:37:14.097Z",
+  "news": [
+    {
+      "title": "OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region",
+      "description": "Two new models are now available in the Kiro IDE and CLI for the AWS GovCloud (US-West) Region. OpenAI GPT-5.4 is now available in Kiro for complex reasoning, coding, document analysis, and multi-step agentic workflows. It helps developers build AI applicatio…",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us",
+      "source": "Amazon.com",
+      "publishedAt": "2026-06-30T09:00:00Z"
+    },
+    {
+      "title": "OpenAI Restricts New AI Model to Trump-Approved Partners During Government Review",
+      "description": "OpenAI announced on June 26 that it is restricting the preview release of its new GPT-5.6 model series to a small group of users approved by the Trump administration, according to the company. The ChatGPT-maker is launching a limited preview of the models Sol…",
+      "url": "https://www.naturalnews.com/2026-06-30-openai-restricts-ai-model-trump-approved-partners.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-30T06:00:00Z"
+    },
+    {
+      "title": "Taiwan raids tech firms in China AI chip smuggling probe",
+      "description": "TAIPEI: Taiwanese investigators have raided the Taiwan offices of United States company Super Micro Computer and two other tech firms, a prosecutor said on Tuesday (Jun 30), as part of an expanded probe into the alleged smuggling of Nvidia artificial intellig…",
+      "url": "https://www.channelnewsasia.com/east-asia/taiwan-raids-tech-firms-nvidia-ai-chip-smuggling-china-6221051",
+      "source": "CNA",
+      "publishedAt": "2026-06-30T08:05:26Z"
+    },
+    {
+      "title": "Taiwan raids tech firms in China AI chip smuggling probe",
+      "description": "Prosecutors said in May they were investigating the shipment of \"high-end\" AI servers containing advanced Nvidia chips to China, Macau and Hong Kong, in violation of US export controls.\nThe post Taiwan raids tech firms in China AI chip smuggling probe appeare…",
+      "url": "https://www.digitaljournal.com/article/taiwan-raids-tech-firms-in-china-ai-chip-smuggling-probe",
+      "source": "Digital Journal",
+      "publishedAt": "2026-06-30T07:05:09Z"
+    },
+    {
+      "title": "California Governor Newsom partners with Anthropic to deploy Claude across state agencies",
+      "description": "California's AI integration could set a precedent for other states, enhancing public sector efficiency while raising cybersecurity and ethical considerations.\nThe post California Governor Newsom partners with Anthropic to deploy Claude across state agencies a…",
+      "url": "https://cryptobriefing.com/california-newsom-anthropic-claude-state-agencies",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-30T05:26:35Z"
+    },
+    {
+      "title": "Popping the GPU Bubble",
+      "description": "Photon, Moondream's inference engine, achieves near-realtime VLM inference (~33ms on NVIDIA B200). This is a peek into how it delivers up to 35% higher decode throughput by optimizing how the GPU works.",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "source": "Moondream.ai",
+      "publishedAt": "2026-06-30T05:14:35Z"
+    },
+    {
+      "title": "Implementing Local LLM Inference in .NET Applications Using ONNX Runtime",
+      "description": "Unlock local LLM inference in .NET with ONNX Runtime for faster, private, and cost-effective AI applications. Learn integration & best practices.",
+      "url": "https://www.c-sharpcorner.com/article/implementing-local-llm-inference-in-net-applications-using-onnx-runtime",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-06-30T04:54:54Z"
+    },
+    {
+      "title": "（開示事項の経過・変更）売れるネット広告社グループ（9235）『BCDC.Ai.GPU Data Center株式会社』を設立及びAI・GPUインフラ事業の内容変更に関するお知らせ",
+      "description": "[売れるネット広告社グループ株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/73846/453/73846-453-dd86f011efbee7f18b9d1ececd686bfc-1200x628.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000453.000073846.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-30T04:40:42Z"
+    },
+    {
+      "title": "New GPU and ASIC platforms to drive stronger server shipments in 2H26",
+      "description": "The AI infrastructure order boom is spilling into the second half of 2026, and server supply-chain players are turning increasingly upbeat about demand as Nvidia Vera Rubin, AMD Helios, AWS Trainium 3, and Google TPU all move into mass production.",
+      "url": "https://www.digitimes.com/news/a20260630PD226/gpu-asic-server-shipments-infrastructure-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-30T04:24:21Z"
+    },
+    {
+      "title": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic",
+      "description": "The new CFD instruments give traders early exposure to two of the world's most prominent artificial intelligence companies ahead of anticipated public listings. DUBAI, UAE, June 30, 2026 /PRNewswire/ -- STARTRADER, a global multi-asset broker, today announced…",
+      "url": "https://www.prnewswire.co.uk/news-releases/startrader-launches-pre-ipo-trading-products-for-openai-and-anthropic-302813988.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-06-30T03:32:00Z"
+    },
+    {
+      "title": "カリフォルニア州がAnthropicと提携、Claudeを州機関や自治体が半額で利用可能に",
+      "description": "カリフォルニア州のギャビン・ニューサム知事が、AI「Claude」シリーズで知られるカリフォルニア州を代表する企業・Anthropicと提携したことを発表しました。提携によって、州当局や地方自治体はClaudeを50％割引で利用可能になり、開発者からの支援なども提供されます。Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving serv…",
+      "url": "https://news.livedoor.com/article/detail/31697096",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-30T02:51:00Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Quanta-NVIDIA-RTX-PRO-5000-Blackwell-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-30T09:35:01Z"
+    },
+    {
+      "title": "HP expands AI initiatives with OpenAI Frontier platform adoption",
+      "description": "HP has entered into a strategic partnership with OpenAI to incorporate the Frontier platform across its global business.",
+      "url": "https://www.verdict.co.uk/hp-openai-frontier-adoption",
+      "source": "Verdict",
+      "publishedAt": "2026-06-30T09:02:41Z"
+    },
+    {
+      "title": "Taiwan escalates probe into Super Micro Computer’s AI servers amid Nvidia chip smuggling allegations",
+      "description": "The investigation highlights the geopolitical tensions in tech supply chains, impacting investor confidence and emphasizing regulatory scrutiny.\nThe post Taiwan escalates probe into Super Micro Computer’s AI servers amid Nvidia chip smuggling allegations appe…",
+      "url": "https://cryptobriefing.com/taiwan-super-micro-nvidia-chip-smuggling-probe",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-30T08:59:21Z"
+    },
+    {
+      "title": "Local backlash led to more than 300 US data center bans and moratoriums since 2023",
+      "description": "Local opposition to AI data center development surged in 2026, driving more than 300 temporary and permanent bans or moratoriums across the US since 2023, according to The Information. The wave of restrictions was concentrated in the Midwest and South, with t…",
+      "url": "https://www.digitimes.com/news/a20260630PD204/data-center-2023-2026-development-incentives.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-06-30T08:53:55Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-PRO-5000-Blackwell-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-30T08:49:01Z"
+    },
+    {
+      "title": "Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 Vibranium 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new …",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-PRO-5000-Blackwell-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-Vibranium-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-06-30T08:36:01Z"
+    },
+    {
+      "title": "An AI data center suing for Colorado River water highlights a bigger question: Who should get the West's water?",
+      "description": "Drought has long been a challenge in California's Imperial Valley.\nAllen J. Schaben / Los Angeles Times via Getty Images\nA data center developer in California is suing for access to Colorado River water.\nThe developer wants to use water allocated to farmland …",
+      "url": "https://biztoc.com/x/1d4b088848a713fc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-30T08:29:34Z"
+    },
+    {
+      "title": "An AI data center suing for Colorado River water highlights a bigger question: Who should get the West's water?",
+      "description": "The developer of what would be the largest AI data center in California wants to use Colorado River water currently tied to farmland.",
+      "url": "https://www.businessinsider.com/ai-data-center-lawsuit-california-imperial-valley-colorado-river-water-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-30T08:11:02Z"
+    },
+    {
+      "title": "Claude Code 使い方｜Anthropic 社員の playbook 5 拡張 + 3 運用 — Clauder Navi",
+      "description": "A detailed explanation of Anthropic's internal Claude Code playbook. Learn about the 5 extension features — CLAUDE.md, Hooks, Skills, Plugins, and Managed Agents — and 3 operational patterns: team sharing via CLAUDE.md, safety guardrails with hooks, and super…",
+      "url": "https://clauder-navi.com/anthropic-teams-use-claude-code-playbook",
+      "source": "Clauder-navi.com",
+      "publishedAt": "2026-06-30T07:17:36Z"
+    },
+    {
+      "title": "Google restricts Meta’s Gemini AI access amid computing crunch",
+      "description": "Google restricts Meta’s access to Gemini AI models, disrupting Meta’s internal AI projects amid a computing power shortage. The AI sector faces a severe capacity crunch, with Google’s cloud unit backlogged by $460 billion in undelivered contracts. Google leas…",
+      "url": "https://www.naturalnews.com/2026-06-30-google-restricts-meta-gemini-ai-computing-crunch.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-30T06:00:00Z"
+    },
+    {
+      "title": "Why intent prediction needs more than an LLM​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​‍‌‌​﻿​﻿‌​​‌​‍‌‌​﻿​‍‌​‌‍​‍‌‌​﻿​‍‌​‌‍‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌﻿​﻿‌﻿‌​‌‍​‌‌‍​﻿‌‍‍﻿‌‍﻿﻿‌﻿‌‍‌‍‌‌‌﻿​‍‌‍‌‍‌‍﻿​‌‍﻿﻿‌﻿‌﻿​‍﻿‍‌‍​﻿‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌​﻿‌‌​﻿​​‌‍‌‍​﻿‌​​﻿‌‌​﻿​​​﻿‍‌‌‍​﻿​‍﻿‌​﻿‌​‌‍‌‍​﻿‌‌​﻿‌‌​‍﻿‌​﻿‌​‌‍‌‍​﻿​‌​﻿​‌​‍﻿‌​﻿‍​‌‍​‌‌‍‌​‌‍​﻿​‍﻿‌​﻿‌‌​﻿‌‌​﻿‌‌​﻿‌‍‌‍‌‌​﻿‍​​﻿​‍​﻿​‌‌‍‌‌‌‍​‌​﻿‌﻿​﻿‌﻿​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍​‍‌‍﻿​‌‍﻿﻿‌‍‌﻿‌‌​​‌‍﻿﻿‌﻿​﻿‌﻿‌​​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+      "description": "Ryan sits down with Frank Portman, CTO at Yobi, to talk about why next-token prediction, though great for language, isn’t the right inductive bias for forecasting human behavior. They discuss how Yobi builds a “foundation model of behavior” using transformers…",
+      "url": "https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm",
+      "source": "Stackoverflow.blog",
+      "publishedAt": "2026-06-30T04:51:06Z"
+    },
+    {
+      "title": "Azure AI Foundry vs Azure OpenAI: Key Differences for Developers",
+      "description": "Azure AI Foundry vs. Azure OpenAI: Understand key differences for developers. Choose the right AI platform for your project needs.",
+      "url": "https://www.c-sharpcorner.com/article/azure-ai-foundry-vs-azure-openai-key-differences-for-developers",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-06-30T04:25:53Z"
+    },
+    {
+      "title": "BlackRock Flags Big AI Trade Beyond Nvidia, AMD, Micron",
+      "description": "GPUs, high-bandwidth memory and the silicon supply chain kept the machine going.\n• GE Vernova stock is showing upward bias. What’s ahead for GEV stock?\nBut the next leg of the AI economy may be less about what makes the machine bigger and more about what make…",
+      "url": "https://biztoc.com/x/4ea42cc5fb202c6a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-30T04:13:38Z"
+    },
+    {
+      "title": "How to Build a Multi-Model AI Strategy in .NET Using Azure OpenAI, Ollama, and Foundry Local",
+      "description": "Build flexible .NET AI apps with Azure OpenAI, Ollama, and Foundry Local. Optimize for performance, privacy, and cost with a multi-model strategy.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-a-multi-model-ai-strategy-in-net-using-azure-openai-ollama-and-f",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-06-30T04:10:42Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region",
+      "OpenAI Restricts New AI Model to Trump-Approved Partners During Government Review",
+      "Taiwan raids tech firms in China AI chip smuggling probe",
+      "California Governor Newsom partners with Anthropic to deploy Claude across state agencies",
+      "Popping the GPU Bubble"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us",
+        "https://www.channelnewsasia.com/east-asia/taiwan-raids-tech-firms-nvidia-ai-chip-smuggling-china-6221051",
+        "https://www.digitaljournal.com/article/taiwan-raids-tech-firms-in-china-ai-chip-smuggling-probe"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-06-30-openai-restricts-ai-model-trump-approved-partners.html",
+        "https://www.prnewswire.co.uk/news-releases/startrader-launches-pre-ipo-trading-products-for-openai-and-anthropic-302813988.html",
+        "https://www.verdict.co.uk/hp-openai-frontier-adoption"
+      ]
+    },
+    {
+      "title": "Gpu",
+      "summary": "Grouped stories where \"gpu\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000453.000073846.html"
+      ]
+    },
+    {
+      "title": "Super",
+      "summary": "Grouped stories where \"super\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://clauder-navi.com/anthropic-teams-use-claude-code-playbook"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/california-newsom-anthropic-claude-state-agencies",
+        "https://www.c-sharpcorner.com/article/implementing-local-llm-inference-in-net-applications-using-onnx-runtime",
+        "https://news.livedoor.com/article/detail/31697096"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud (US-West) Region. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
