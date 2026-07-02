@@ -1,0 +1,304 @@
+{
+  "theme": "ai",
+  "date": "2026-07-02",
+  "last_updated_utc": "2026-07-02T08:48:48.246Z",
+  "news": [
+    {
+      "title": "Nvidia AI Chip Sales to China Face New U.S. Export Restrictions",
+      "description": "The U.S. Department of Commerce has issued updated guidance restricting Nvidia’s sales of advanced artificial intelligence chips to China, marking the latest escalation in technology export controls between the two countries. The new rules, announced in late …",
+      "url": "https://www.naturalnews.com/2026-07-01-nvidia-ai-chip-china-face-export-restrictions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-01T06:00:00Z"
+    },
+    {
+      "title": "Vantage plans $25B AI data center in Texas with OpenAI, Oracle collaboration",
+      "description": "The AI data center project may bolster NVIDIA's market dominance, reflecting broader trends in AI infrastructure investment and growth.\nThe post Vantage plans $25B AI data center in Texas with OpenAI, Oracle collaboration appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/vantage-plans-25b-ai-data-center-in-texas-with-openai-oracle-collaboration",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T04:42:44Z"
+    },
+    {
+      "title": "Claude Sonnet 5 includes safeguards against dangerous cyber use",
+      "description": "Anthropic has introduced Claude Sonnet 5, the latest version of its general-purpose AI model, with improved reasoning, coding, tool use, and knowledge work capabilities. The model can make plans, use tools such as browsers and terminals, and complete tasks au…",
+      "url": "https://www.helpnetsecurity.com/2026/07/01/anthropic-claude-sonnet-5",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-01T08:45:33Z"
+    },
+    {
+      "title": "US lifts export controls on Anthropic’s Claude Fable 5 AI model",
+      "description": "The lifting of export controls on Anthropic's AI model could enhance global AI innovation and market dynamics, influencing future policy decisions.\nThe post US lifts export controls on Anthropic’s Claude Fable 5 AI model appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-lifts-export-controls-on-anthropics-claude-fable-5-ai-model",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T08:30:02Z"
+    },
+    {
+      "title": "OpenAI engineers claim to discover way to cut inference costs in half",
+      "description": "OpenAI engineers claim to have figured out a way to halve the costs of inference using its models, according to The Information. The development comes as AI model developers are seeking to raise their models' token efficiency during a time when enterprise use…",
+      "url": "https://www.digitimes.com/news/a20260701VL216/openai-ai-inference-efficiency-cost-chatgpt.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-01T07:58:18Z"
+    },
+    {
+      "title": "Supermicro smuggling probes reportedly push Nvidia to tighten AI server checks further",
+      "description": "As the US tightens controls on advanced AI chip exports, smuggling schemes are surfacing across the AI server supply chain, driven by soaring Chinese demand for AI servers from buyers like Alibaba and Tencent willing to pay almost any price. Supermicro was in…",
+      "url": "https://www.digitimes.com/news/a20260701PD217/nvidia-ai-server-supermicro-exports-ai-chip.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-01T06:52:32Z"
+    },
+    {
+      "title": "AI Data Center Expansion Faces Grid Constraints as Power Demand Surges",
+      "description": "The rapid expansion of artificial intelligence data centers is encountering a significant obstacle: insufficient capacity on electrical grids to support them. According to industry projections, AI-related infrastructure spending could exceed $5 trillion by 20…",
+      "url": "https://www.naturalnews.com/2026-07-01-ai-data-center-expansion-faces-grid-constraints.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-01T06:00:00Z"
+    },
+    {
+      "title": "California secures 50% discount on Anthropic AI for state agencies",
+      "description": "The deal enhances California's operational efficiency while potentially boosting Anthropic's market valuation and government sector influence.\nThe post California secures 50% discount on Anthropic AI for state agencies appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/california-secures-50-discount-on-anthropic-ai-for-state-agencies",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T08:44:12Z"
+    },
+    {
+      "title": "Nvidia vs SpaceX in 2026: Which Stock Has More Potential Right Now? Here's What the Data Shows",
+      "description": "Nvidia and SpaceX, two major players in AI, offer contrasting investment opportunities. Nvidia provides a stable growth path, while SpaceX presents high-risk, high-reward potential. Investor choice depends on risk tolerance.",
+      "url": "https://www.ibtimes.com.au/nvidia-spacex-ai-investment-opportunities-1871630",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-01T08:30:08Z"
+    },
+    {
+      "title": "US government lifts restrictions on powerful AI models, Anthropic says",
+      "description": "The Trump administration has invoked national security concerns to limit the ability of major US tech companies to release advanced models",
+      "url": "https://biztoc.com/x/669686d0993f2558",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-01T08:02:15Z"
+    },
+    {
+      "title": "Fable 5 and Mythos 5 Return Together with New Claude Sonnet 5",
+      "description": "The return of Fable 5, as highlighted by Wes Roth, marks a pivotal update in the AI field. After being temporarily suspended due to export control concerns, this advanced AI model is now reintroduced with enhanced security measures to address potential misuse…",
+      "url": "https://www.geeky-gadgets.com/anthropic-fable-5-mythos-5-return",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-01T07:47:00Z"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists",
+      "description": "Claude Science, an AI workbench for scientists, is now available AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’v…",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic.com",
+      "publishedAt": "2026-07-01T07:45:38Z"
+    },
+    {
+      "title": "As Big Tech showers employees with perks to win the talent war, Nvidia built a nearly $5 trillion company by making people pay for their own lunch",
+      "description": "Nvidia may be worth $4.8 trillion, but its employees still have to pay up at the company cafeteria.\nThe chipmaker fueling the AI boom, led by CEO Jensen Huang, is the most valuable company in the world by market cap, towering above other tech giants like Goog…",
+      "url": "https://biztoc.com/x/ff273c6987973156",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-01T07:31:46Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090D hits record 4 GHz in impressive OC mod by Team OGS",
+      "description": "A new RTX Blackwell GPU frequency record of 4 GHz was achieved using the GALAX HOF OC LAB variant of the GeForce RTX 5090D by Team OGS.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112418/nvidia-geforce-rtx-5090d-hits-record-4-ghz-in-impressive-oc-mod-by-team-ogs/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-01T07:31:01Z"
+    },
+    {
+      "title": "Tenstorrent's Jim Keller says startup will outpace Cerebras as AI chip competition intensifies",
+      "description": "AI chip competition is widening beyond raw performance, a shift that matters for global cloud providers, device makers, and investors. Tenstorrent chief executive Jim Keller says the startup can outdo Cerebras, while also courting Intel, Qualcomm, and hypersc…",
+      "url": "https://www.digitimes.com/news/a20260701PD205/ai-chip-tenstorrent-competition-cerebras-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-01T07:28:03Z"
+    },
+    {
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "description": "The rapid policy shifts highlight the complexities of regulating AI exports, potentially leading to a tiered access system favoring large enterprises.\nThe post Anthropic says US lifts export ban on its advanced AI tools appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-us-lifts-ai-export-ban",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T07:17:39Z"
+    },
+    {
+      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+      "description": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls\nThe government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.\n- Anthropic is restoring acce…",
+      "url": "https://biztoc.com/x/137fefc433b1c263",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-01T07:01:12Z"
+    },
+    {
+      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+      "description": "The government cleared Fable 5 and Mythos 5 on June 30, weeks after a cybersecurity finding triggered an export order that froze access for everyone.",
+      "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-01T06:54:13Z"
+    },
+    {
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "description": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier.\n\nFable 5 returns to use…",
+      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "source": "Internet",
+      "publishedAt": "2026-07-01T06:46:17Z"
+    },
+    {
+      "title": "Claude Sonnet 5 launches with smarter reasoning, stronger safety for Free and Pro users",
+      "description": "Claude Sonnet 5 brings better reasoning, fewer hallucinations, built-in safety features, and near-flagship AI performance at a lower cost.",
+      "url": "https://www.androidauthority.com/claude-sonnet-5-launch-3683170",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-01T06:15:46Z"
+    },
+    {
+      "title": "Anthropic to bring back Fable 5 as US lifts export controls",
+      "description": "Claude Fable 5 will be redeployed with a new set of classifiers designed to identify and block a broader range of cybersecurity-related tasks.",
+      "url": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-01T06:14:32Z"
+    },
+    {
+      "title": "Albatron GM detained in Nvidia-linked Supermicro smuggling probe as firm moves to install acting chief",
+      "description": "Taiwan's Keelung prosecutors detained Albatron Technology general manager Kevin Lu on Tuesday on suspicion of smuggling Supermicro AI servers to restricted markets, putting one of Taiwan's most active authorized distributors of American tech brands at the cen…",
+      "url": "https://www.digitimes.com/news/a20260701VL215/taiwan-supermicro-albatron-revenue-hardware.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-01T06:05:00Z"
+    },
+    {
+      "title": "CNBC Daily Open: Anthropic unbound, Trump's finances and crude realities",
+      "description": "AI giant Anthropic has been cleared to redeploy models after the Trump administration lifts export controls.",
+      "url": "https://www.cnbc.com/2026/07/01/daily-open-anthropic-trump-finances-crude-price.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-01T06:04:19Z"
+    },
+    {
+      "title": "US gov't lifts restrictions on powerful AI models, Anthropic says",
+      "description": "Anthropic will soon begin restoring access globally to its most powerful AI models, Fable 5 and Mythos 5, after the U.S. government lifted a restriction on where they could be released, the company said Tuesday.",
+      "url": "https://www.hurriyetdailynews.com/us-govt-lifts-restrictions-on-powerful-ai-models-anthropic-says-223876",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-01T05:56:50Z"
+    },
+    {
+      "title": "AI industry roiled as major Anthropic models shut down for two and a half weeks over security concerns",
+      "description": "The shutdown highlights regulatory unpredictability, prompting a reassessment of risk and access control strategies in the AI sector.\nThe post AI industry roiled as major Anthropic models shut down for two and a half weeks over security concerns appeared firs…",
+      "url": "https://cryptobriefing.com/anthropic-ai-models-shutdown-security",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T05:36:45Z"
+    },
+    {
+      "title": "OpenAI Launches GeneBench-Pro for AI Biological Reasoning",
+      "description": "OpenAI introduces GeneBench-Pro, a research-level benchmark assessing AI's adeptness at higher-order judgment and analysis in computational biology, moving beyond mere fact recall to challenge agents with realistic, ambiguous scientific scenarios.",
+      "url": "https://nextbigwhat.com/openai-launches-genebench-pro-for-ai-biological-reasoning",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-07-01T04:54:59Z"
+    },
+    {
+      "title": "I Clustered Two Nvidia DGX Spark AI Boxes in My Living Room. Here's What Happened",
+      "description": "Daisy-chaining two of Dell's Nvidia GB10 DGX Spark systems didn't just pump up my home AI lab—it fundamentally changed how I think about tinkering with local AI.\nWhen I started my journey into AI development, I felt like I stumbled through a secret door in th…",
+      "url": "https://me.pcmag.com/en/old-desktop-pcs/37585/i-clustered-two-nvidia-dgx-spark-ai-boxes-in-my-living-room-heres-what-happened",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-01T04:28:43Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia AI Chip Sales to China Face New U.S. Export Restrictions",
+      "Vantage plans $25B AI data center in Texas with OpenAI, Oracle collaboration",
+      "Claude Sonnet 5 includes safeguards against dangerous cyber use",
+      "US lifts export controls on Anthropic’s Claude Fable 5 AI model",
+      "OpenAI engineers claim to discover way to cut inference costs in half"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/07/01/anthropic-claude-sonnet-5",
+        "https://cryptobriefing.com/us-lifts-export-controls-on-anthropics-claude-fable-5-ai-model",
+        "https://cryptobriefing.com/california-secures-50-discount-on-anthropic-ai-for-state-agencies"
+      ]
+    },
+    {
+      "title": "Export",
+      "summary": "Grouped stories where \"export\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-01-nvidia-ai-chip-china-face-export-restrictions.html",
+        "https://www.geeky-gadgets.com/anthropic-fable-5-mythos-5-return"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/vantage-plans-25b-ai-data-center-in-texas-with-openai-oracle-collaboration",
+        "https://www.digitimes.com/news/a20260701PD217/nvidia-ai-server-supermicro-exports-ai-chip.html",
+        "https://www.ibtimes.com.au/nvidia-spacex-ai-investment-opportunities-1871630"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260701VL216/openai-ai-inference-efficiency-cost-chatgpt.html",
+        "https://www.naturalnews.com/2026-07-01-ai-data-center-expansion-faces-grid-constraints.html",
+        "https://www.anthropic.com/news/claude-science-ai-workbench"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI Chip Sales to China Face New U.S. Export Restrictions. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI Chip Sales to China Face New U.S. Export Restrictions. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI Chip Sales to China Face New U.S. Export Restrictions. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI Chip Sales to China Face New U.S. Export Restrictions. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI Chip Sales to China Face New U.S. Export Restrictions. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
