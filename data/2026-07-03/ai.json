@@ -1,0 +1,289 @@
+{
+  "theme": "ai",
+  "date": "2026-07-03",
+  "last_updated_utc": "2026-07-03T08:55:06.585Z",
+  "news": [
+    {
+      "title": "Nvidia and nuclear energy startup Valar test microreactor to power AI data center",
+      "description": "Nuclear energy startup Valar Atomics said on July 1 it is partnering with Nvidia to develop a small data center in Utah, an effort the companies say will demonstrate how computing facilities needed for artificial intelligence can conserve water.",
+      "url": "https://www.digitimes.com/news/a20260702VL212/nvidia-data-center-nuclear-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-02T07:09:12Z"
+    },
+    {
+      "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+      "description": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says\nBusiness live – latest updates\nOpenAI is reportedly in early stage talks to give a 5% stake in the ChatGPT developer to the US government as arti…",
+      "url": "https://biztoc.com/x/743e0543a13f28ca",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-02T08:13:15Z"
+    },
+    {
+      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+      "description": "Western startups are increasingly turning their attention to affordable and powerful AI models from China, particularly Z. ai's GLM-5.2, which competes with leading US technologies at significantly lower prices. This trend, referred to as a 'mini DeepSeek mom…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/analysis-a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-on-their-home-turf/articleshow/132133080.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-02T08:11:47Z"
+    },
+    {
+      "title": "Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+      "description": "Apple to launch at least 5 new iPhone models through early 2027, Nikkei reports\nBy Laurie Chen and Aditya Soni\nBEIJING/BENGALURU, July 2 (Reuters) - Since DeepSeek shocked markets early last year with its cheap but powerful AI model, global consumers have bee…",
+      "url": "https://biztoc.com/x/3b4db270f4414618",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-02T07:43:05Z"
+    },
+    {
+      "title": "Pre-Deployment Simulations Are Vital To Developing Generative AI That Can Best Provide Mental Health Advice",
+      "description": "Pre-deployment simulation is a new technique from OpenAI. It can be used to better shape AI-led mental health guidance. An AI Insider analysis and scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/07/02/pre-deployment-simulations-are-vital-to-developing-generative-ai-that-can-best-provide-mental-health-advice",
+      "source": "Forbes",
+      "publishedAt": "2026-07-02T07:15:00Z"
+    },
+    {
+      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+      "description": "Published\nPolice in Singapore have seized a multi-million dollar luxury home that was allegedly bought using proceeds from smuggling Nvidia artificial intelligence (AI) chips.\nThe property last changed hands for 55 million Singapore dollars (£32m; $42.5m), wi…",
+      "url": "https://biztoc.com/x/2220975b246b8de5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-02T06:26:59Z"
+    },
+    {
+      "title": "Singaporean Police Seize $42M Bungalow in Nvidia Chip Smuggling Probe",
+      "description": "Investigators allege that four individuals deliberately concealed the actual end-user of servers thought to contain advanced Nvidia AI chips.",
+      "url": "https://thediplomat.com/2026/07/singaporean-police-seize-42m-bungalow-in-nvidia-chip-smuggling-probe",
+      "source": "The Diplomat",
+      "publishedAt": "2026-07-02T06:22:00Z"
+    },
+    {
+      "title": "Singapore seizes $42 million luxury home in Nvidia AI chips smuggling probe",
+      "description": "The asset freeze highlights the global impact of US export controls on AI tech, emphasizing compliance challenges and market vulnerabilities.\nThe post Singapore seizes $42 million luxury home in Nvidia AI chips smuggling probe appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/singapore-seizes-home-nvidia-chips-probe",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-02T06:13:14Z"
+    },
+    {
+      "title": "ChatGPT maker OpenAI proposes giving US government a 5% stake, FT says",
+      "description": "Proposal is part of a broader arrangement under which US would hold 5 per cent of each of its leading AI developers, FT said. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-proposes-giving-us-government-a-5-stake-ft-says",
+      "source": "The Straits Times",
+      "publishedAt": "2026-07-02T06:08:31Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman calls for US-led global AI safety forum",
+      "description": "OpenAI CEO Sam Altman proposes a US-led international forum modeled after the IAEA to set global AI safety standards, following G7 summit discussions.\nThe post OpenAI CEO Sam Altman calls for US-led global AI safety forum appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/altman-us-led-global-ai-safety-forum",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-02T06:05:42Z"
+    },
+    {
+      "title": "Singapore seizes multi-million dollar home in Nvidia AI chips probe",
+      "description": "The property was seized as part of a probe into the illegal trade of servers containing advanced semiconductors.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o",
+      "source": "BBC News",
+      "publishedAt": "2026-07-02T06:02:17Z"
+    },
+    {
+      "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U: Now available] - 9to5Mac",
+      "description": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction [U: Now available]9to5Mac Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI modelsCBS News US removes curbs on Anthropic's latest …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184265640",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-02T05:32:37Z"
+    },
+    {
+      "title": "Travelers Builds Insurance-Specific LLM",
+      "description": "The Travelers Companies, Inc. announced this week that engineers and data scientists have developed TravelersLLM, a proprietary large language model tailored to its property/casualty business. According to a media statement released by the insurer, TravelersL…",
+      "url": "https://www.carriermanagement.com/news/2026/07/01/289637.htm",
+      "source": "Carriermanagement.com",
+      "publishedAt": "2026-07-02T05:17:52Z"
+    },
+    {
+      "title": "OpenAI weighs 5% US government stake amid Trump talks: FT",
+      "description": "OpenAI has reportedly discussed giving the US government a 5% equity stake in early Trump administration talks as Washington tightens AI model oversight.",
+      "url": "https://cointelegraph.com/news/openai-5-percent-stake-us-government-trump-talks",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-02T08:26:02Z"
+    },
+    {
+      "title": "OpenAI Eyes 5% Stake for US Government in New Proposal",
+      "description": "OpenAI is in talks to offer the US government a 5% stake in the company as part of a larger strategy for AI industry investment.",
+      "url": "https://nextbigwhat.com/openai-eyes-5-stake-for-us-government-in-new-proposal",
+      "source": "Nextbigwhat.com",
+      "publishedAt": "2026-07-02T08:20:04Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090D Overclocked to 4 GHz with Liquid Nitrogen",
+      "description": "Thanks to an incredible feat by Team OGS, NVIDIA's \"Blackwell\" GPU architecture has finally breached the 4 GHz mark with the help of liquid nitrogen. Using the GALAX GeForce RTX 5090D Hall of Fame OC Lab Edition GPU, the team pushed the core GPU clock of the …",
+      "url": "https://www.techpowerup.com/350460/nvidia-geforce-rtx-5090d-overclocked-to-4-ghz-with-liquid-nitrogen",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-02T08:18:20Z"
+    },
+    {
+      "title": "6 Simple Rules That Change How Claude Fable 5 Works",
+      "description": "Anthropic’s Claude Fable 5 is designed to handle tasks requiring complex reasoning and detailed contextual understanding, making it a valuable resource for semi-technical users. In a recent overview by Nate Herk, the focus turns to how engineers at Anthropic …",
+      "url": "https://www.geeky-gadgets.com/anthropic-engineers-prompt-fable-5",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-02T08:17:00Z"
+    },
+    {
+      "title": "Paisalo Digital bets on AI and Nvidia chips to double its loan book in 3 years",
+      "description": "Paisalo Digital is aggressively pursuing a technology-first strategy, aiming to double its loan book in three years while maintaining a healthy net interest margin. The NBFC is leveraging AI and Nvidia chips to reduce funding costs and boost yields.  With a s…",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/paisalo-digital-bets-on-ai-and-nvidia-chips-to-double-its-loan-book-in-3-years/articleshow/132133039.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-02T08:06:07Z"
+    },
+    {
+      "title": "AI’s Data Center Boom Creates a New Antitrust Challenge",
+      "description": "Watch more: TechReg Talks With Ann O’Brien and Ben Huffman of Sheppard For more than a century, antitrust law in the United States has adapted to changing industries without abandoning its underlying principles. The latest test comes from the race to build en…",
+      "url": "https://www.pymnts.com/legal/antitrust/2026/ais-data-center-boom-creates-a-new-antitrust-challenge",
+      "source": "pymnts.com",
+      "publishedAt": "2026-07-02T08:00:53Z"
+    },
+    {
+      "title": "Taiwan detains two Super Micro employees in alleged Nvidia AI server export probe - report",
+      "description": "Taiwan detained Super Micro staff over alleged illegal exports of Nvidia AI servers to China.",
+      "url": "https://seekingalpha.com/news/4609540-taiwan-detains-two-super-micro-employees-in-alleged-nvidia-ai-server-export-probe---report",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-07-02T07:46:44Z"
+    },
+    {
+      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
+      "description": "OpenAI has proposed handing the U.S. government a 5% stake in the company, the Financial Times reported Thursday, as the artificial intelligence startup seeks to defuse mounting political pressure in Washington.\nA 5% holding would be worth roughly $42.6 billi…",
+      "url": "https://biztoc.com/x/56c3b20cac47acf9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-02T07:12:55Z"
+    },
+    {
+      "title": "OpenAI proposes handing US government 5% stake - FT",
+      "description": "OpenAI has discussed giving the US government a 5% stake, the Financial Times reported today, as AI firms face growing scrutiny in Washington over the potential misuse of advanced models and whether Americans will share in the sector's profits.",
+      "url": "https://www.rte.ie/news/business/2026/0702/1581359-openai-proposes-handing-us-government-5-stake-ft",
+      "source": "RTE",
+      "publishedAt": "2026-07-02T06:31:52Z"
+    },
+    {
+      "title": "Sam Altman wants every American to own a piece of OpenAI",
+      "description": "Altman's proposal could democratize AI wealth, challenging traditional investment norms and potentially reshaping public engagement in equity markets.\nThe post Sam Altman wants every American to own a piece of OpenAI appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/sam-altman-openai-public-equity-wealth-fund",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-02T05:58:36Z"
+    },
+    {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "description": "We're verifying your browser\nWe're verifying your browser",
+      "url": "https://biztoc.com/x/cfece6129966787b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-02T05:40:59Z"
+    },
+    {
+      "title": "Sam Altman wants to give a 5% OpenAI stake to the US government: Report",
+      "description": "OpenAI is reportedly exploring a 5% equity stake for the U.S. government, a move aimed at easing political concerns and fostering ties with the Trump administration. CEO Sam Altman believes this approach would democratize AI's economic benefits. The proposal,…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altman-wants-to-give-a-5-openai-stake-to-the-us-government-report/articleshow/132129949.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-02T05:40:47Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6: Sol, Terra, and Luna Fully Explained — Features, Rumors, and What’s Confirmed",
+      "description": "OpenAI dropped a major update on June 26, 2026: the OpenAI GPT-5.6 model family. Instead of releasing one new model, the company introduced three specialized versions, Sol, Terra, and Luna, marking a shift to a durable tiered system. This guide breaks down ev…",
+      "url": "https://www.successful-blog.com/1/openai-gpt-5-6-sol-terra-luna",
+      "source": "Successful-blog.com",
+      "publishedAt": "2026-07-02T05:34:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia and nuclear energy startup Valar test microreactor to power AI data center",
+      "OpenAI ‘in early talks to give 5% stake to US government’",
+      "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+      "Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+      "Pre-Deployment Simulations Are Vital To Developing Generative AI That Can Best Provide Mental Health Advice"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/743e0543a13f28ca",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/analysis-a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-on-their-home-turf/articleshow/132133080.cms",
+        "https://biztoc.com/x/3b4db270f4414618"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260702VL212/nvidia-data-center-nuclear-startup.html",
+        "https://biztoc.com/x/2220975b246b8de5",
+        "https://thediplomat.com/2026/07/singaporean-police-seize-42m-bungalow-in-nvidia-chip-smuggling-probe"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184265640",
+        "https://www.carriermanagement.com/news/2026/07/01/289637.htm",
+        "https://www.geeky-gadgets.com/anthropic-engineers-prompt-fable-5"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia and nuclear energy startup Valar test microreactor to power AI data center. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia and nuclear energy startup Valar test microreactor to power AI data center. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia and nuclear energy startup Valar test microreactor to power AI data center. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia and nuclear energy startup Valar test microreactor to power AI data center. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia and nuclear energy startup Valar test microreactor to power AI data center. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
