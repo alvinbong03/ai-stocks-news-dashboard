@@ -1,0 +1,269 @@
+{
+  "theme": "ai",
+  "date": "2026-07-04",
+  "last_updated_utc": "2026-07-04T08:29:56.910Z",
+  "news": [
+    {
+      "title": "Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic",
+      "description": "The latest disclosure from Universe of AI examines two major developments in the artificial intelligence space: the leaked details surrounding Google DeepMind’s Gemini 4 Flash and the rate limit issues plaguing Anthropic’s Fable 5. Gemini 4 Flash reportedly i…",
+      "url": "https://www.geeky-gadgets.com/gemini-4-flash-leaks-flaws",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-03T08:13:00Z"
+    },
+    {
+      "title": "Meta’s reported Samsung AI chip deal hits a wall as Anthropic steps into the conversation",
+      "description": "Meta's halted Samsung AI chip project highlights the competitive and dynamic nature of the AI chip market, with new players like Anthropic seizing opportunities.\nThe post Meta’s reported Samsung AI chip deal hits a wall as Anthropic steps into the conversatio…",
+      "url": "https://cryptobriefing.com/meta-samsung-ai-chip-deal-stalls",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T08:15:56Z"
+    },
+    {
+      "title": "Anthropic and the Trump administration deny discussing a government stake",
+      "description": "The Trump administration and Anthropic have not discussed the government taking an equity stake in the AI company, a source familiar with the matter told Reuters on Thursday. The denial follows a Financial Times report earlier the same day that OpenAI had pro…",
+      "url": "https://thenextweb.com/news/anthropic-trump-administration-deny-government-stake",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-03T07:59:06Z"
+    },
+    {
+      "title": "Feature Store Architecture for Machine Learning Applications",
+      "description": "Master feature store architecture for ML. Centralize, manage, and serve features for consistent training & real-time inference.",
+      "url": "https://www.c-sharpcorner.com/article/feature-store-architecture-for-machine-learning-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-03T07:44:22Z"
+    },
+    {
+      "title": "China's Z.ai ramps up AI rivalry with Anthropic, OpenAI via GLM-5.2",
+      "description": "Chinese AI company Z.ai, also known as Zhipu AI, is escalating its challenge to US leaders Anthropic and OpenAI with the release of its open-weight GLM-5.2 model and a new AI coding assistant, underscoring China's growing competitiveness in frontier AI.",
+      "url": "https://www.digitimes.com/news/a20260703VL205/z.ai-anthropic-openai-software-claude.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-03T06:49:45Z"
+    },
+    {
+      "title": "Google × AnthropicのLLMオーケストレーションを採用！ミエルカGEO・ミエルカSEOに、AI検索の“言葉の揺らぎ”を網羅する新機能「プロンプト拡張」を搭載",
+      "description": "[株式会社Faber Company]\n[画像1: https://prcdn.freetls.fastly.net/release_image/31263/328/31263-328-61a8ed7a293ae0a0a008c82d242761db-2048x1126.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000328.000031263.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-03T06:41:04Z"
+    },
+    {
+      "title": "Anthropic closes loopholes to prevent Chinese access to Claude",
+      "description": "Anthropic's tightened security measures highlight the growing need for robust legal frameworks to protect AI innovations from unauthorized exploitation.\nThe post Anthropic closes loopholes to prevent Chinese access to Claude appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-closes-loopholes-chinese-access-claude",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T04:36:22Z"
+    },
+    {
+      "title": "Artificial Intelligence in Blood Pressure Monitoring Market to Reach $4.54 Billion by 2030 Backed by Emerging AI-Driven Predictive Analytics and Wearable Sensor Innovations",
+      "description": "Key market opportunities in AI-driven blood pressure monitoring include continuous monitoring demand, AI-integrated diagnostics, telehealth expansion, preventive healthcare focus, and investment in medical AI. Growth is propelled by hypertension prevalence, w…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321695/28124/en/Artificial-Intelligence-in-Blood-Pressure-Monitoring-Market-to-Reach-4-54-Billion-by-2030-Backed-by-Emerging-AI-Driven-Predictive-Analytics-and-Wearable-Sensor-Innovations.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-03T08:17:00Z"
+    },
+    {
+      "title": "Exponential Growth: Generative AI in Procurement Market to Hit $0.61 Billion by 2030",
+      "description": "Opportunities in the generative AI in procurement market include integrating AI with ERP systems, adopting cloud solutions, enhancing predictive analytics, AI-driven supplier management, and compliance automation. The demand is fueled by increasing supply cha…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321694/28124/en/Exponential-Growth-Generative-AI-in-Procurement-Market-to-Hit-0-61-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-03T08:16:00Z"
+    },
+    {
+      "title": "South Korea's Green Data Center Market to Skyrocket: From $0.56 Billion in 2024 to $3.05 Billion by 2030",
+      "description": "South Korea's green data center market is rapidly expanding, driven by hyperscale and colocation investments, emphasis on energy efficiency, and AI demand. There's a shift to Tier III/IV facilities and integration of diversified energy strategies, positioning…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321692/28124/en/South-Korea-s-Green-Data-Center-Market-to-Skyrocket-From-0-56-Billion-in-2024-to-3-05-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-03T08:14:00Z"
+    },
+    {
+      "title": "Artificial Intelligence for Information Technology Operations (AIOps) for Financial Services Global Market Report 2026",
+      "description": "The AIOps market for financial services is rapidly expanding due to rising data complexity, increased real-time fraud detection needs, and growing fintech integration. Major trends include autonomous remediation, cloud-native adoption, and AI-driven service m…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321687/28124/en/Artificial-Intelligence-for-Information-Technology-Operations-AIOps-for-Financial-Services-Global-Market-Report-2026.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-03T08:09:00Z"
+    },
+    {
+      "title": "Alibaba to ban Claude Code over alleged backdoor risk, source says",
+      "description": "The workplace ban, starting July 10, lands weeks after Anthropic accused operators linked to Alibaba’s Qwen lab of running the largest known distillation campaign against Claude. Alibaba will bar its employees from using Anthropic’s Claude Code inside workpla…",
+      "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-03T07:30:12Z"
+    },
+    {
+      "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+      "description": "Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits\nWhen South Korea’s most high-profile divorce case returned to court last month, the lawyers were arg…",
+      "url": "https://biztoc.com/x/4ac637295abf107a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-03T06:03:13Z"
+    },
+    {
+      "title": "Blackstone’s QTS Withdraws From Virginia Data Center Project, Threatening Collapse of World’s Largest Campus",
+      "description": "Blackstone’s QTS Realty Trust has decided to withdraw from the Prince William Digital Gateway project in Virginia, according to sources familiar with the decision. The move follows the earlier exit of partner Compass Datacenters in May, leaving the project wi…",
+      "url": "https://www.naturalnews.com/2026-07-03-blackstone-qts-withdraws-virginia-data-center-project.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-03T06:00:00Z"
+    },
+    {
+      "title": "Data protection rules slow LLM rollout in Europe, study says",
+      "description": "A new Governance AI study reveals that EU data protection rules are stalling AI adoption, leaving 11% of advanced LLM releases delayed or blocked in Europe compared to the US.",
+      "url": "https://biztoc.com/x/cc10aef6ad175ae3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-03T05:20:04Z"
+    },
+    {
+      "title": "Governance AI study finds EU data protection rules delay 11% of LLM releases",
+      "description": "EU's stringent data protection rules may hinder AI innovation, creating opportunities for privacy-preserving tech to gain a competitive edge.\nThe post Governance AI study finds EU data protection rules delay 11% of LLM releases appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/eu-gdpr-delays-llm-releases-crypto-impact",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T05:07:43Z"
+    },
+    {
+      "title": "Creating a Personalized AI Health Coach in Claude ",
+      "description": "Creating a Personalized AI Health Coach in Claude substack.com",
+      "url": "https://thymeishoney.substack.com/p/creating-a-personalized-ai-health/comments",
+      "source": "Substack.com",
+      "publishedAt": "2026-07-03T05:05:04Z"
+    },
+    {
+      "title": "Artificial intelligence: Yann LeCun works on more flexible AI - BBC",
+      "description": "Artificial intelligence: Yann LeCun works on more flexible AIBBC We have talked ourselves into a terror-inducing AI narrativeAFR Artificial Intelligence and the invisible revolution: A Mugglehead roundupMugglehead Investment Magazine LETTER: AI's problem? It …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184287064",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-03T04:52:36Z"
+    },
+    {
+      "title": "Artificial intelligence: Yann LeCun works on more flexible AI",
+      "description": "AI is 'not smart' so what's next in artificial intelligence?\n\"We don't have robots that are nearly as good at understanding the physical world as a rat,\" says Yann LeCun, one of the leading figures in the world of artificial intelligence.\nHe worked at Faceboo…",
+      "url": "https://biztoc.com/x/fb24eea7918ba79e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-03T04:35:04Z"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications",
+      "description": "Better known for its unique Rockchip industrial PC designs, Mekotronics has now launched an \"AI Box\" based on the NVIDIA Jetson Orin Nano 4GB/8GB or Jetson Orin NX 8GB/16GB for humanoid robots, smart transportation (V2X) applications, Smart Cities, Smart Agri…",
+      "url": "https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications",
+      "source": "CNX Software",
+      "publishedAt": "2026-07-03T04:29:05Z"
+    },
+    {
+      "title": "Claude Fable 5: What the Mythos-Class Model Means for Developer AI Workflows",
+      "description": "Fable 5 developer readiness guide. Sections: What is Mythos-class (Fable 5 vs Opus 4.8 tier explanation), the dual-model strategy explained (Fable 5 public vs Mythos 5 restricted), developer-relevant capabilities (1M token context for large codebase analysis,…",
+      "url": "https://www.sitepoint.com/claude-fable-5-what-the-mythosclass-model-means-for-developer-ai-workflows",
+      "source": "SitePoint",
+      "publishedAt": "2026-07-03T04:18:14Z"
+    },
+    {
+      "title": "Claude Sonnet 5: The Developer’s Guide to Anthropic’s New Default Model",
+      "description": "Claude Sonnet 5 developer decision guide. Sections: What changed from Sonnet 4.6 (agentic capabilities, tool use, longer output stability), Sonnet 5 vs Opus 4.8 vs DeepSeek V4 for coding tasks (decision matrix, not benchmark table), accessing Sonnet 5 via API…",
+      "url": "https://www.sitepoint.com/claude-sonnet-5-the-developers-guide-to-anthropics-new-default-model",
+      "source": "SitePoint",
+      "publishedAt": "2026-07-03T04:16:53Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic",
+      "Meta’s reported Samsung AI chip deal hits a wall as Anthropic steps into the conversation",
+      "Anthropic and the Trump administration deny discussing a government stake",
+      "Feature Store Architecture for Machine Learning Applications",
+      "China's Z.ai ramps up AI rivalry with Anthropic, OpenAI via GLM-5.2"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/gemini-4-flash-leaks-flaws",
+        "https://cryptobriefing.com/meta-samsung-ai-chip-deal-stalls",
+        "https://thenextweb.com/news/anthropic-trump-administration-deny-government-stake"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/07/03/3321695/28124/en/Artificial-Intelligence-in-Blood-Pressure-Monitoring-Market-to-Reach-4-54-Billion-by-2030-Backed-by-Emerging-AI-Driven-Predictive-Analytics-and-Wearable-Sensor-Innovations.html",
+        "https://www.globenewswire.com/news-release/2026/07/03/3321687/28124/en/Artificial-Intelligence-for-Information-Technology-Operations-AIOps-for-Financial-Services-Global-Market-Report-2026.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184287064"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thymeishoney.substack.com/p/creating-a-personalized-ai-health/comments",
+        "https://www.sitepoint.com/claude-fable-5-what-the-mythosclass-model-means-for-developer-ai-workflows"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/feature-store-architecture-for-machine-learning-applications",
+        "https://www.globenewswire.com/news-release/2026/07/03/3321694/28124/en/Exponential-Growth-Generative-AI-in-Procurement-Market-to-Hit-0-61-Billion-by-2030.html",
+        "https://www.globenewswire.com/news-release/2026/07/03/3321692/28124/en/South-Korea-s-Green-Data-Center-Market-to-Skyrocket-From-0-56-Billion-in-2024-to-3-05-Billion-by-2030.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini 4 Flash Leaks Show Strong SVG Focus but Weak Logic. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
