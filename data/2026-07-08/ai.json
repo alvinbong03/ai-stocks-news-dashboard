@@ -1,0 +1,326 @@
+{
+  "theme": "ai",
+  "date": "2026-07-08",
+  "last_updated_utc": "2026-07-08T08:18:20.119Z",
+  "news": [
+    {
+      "title": "Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today",
+      "description": "Shares of TeraWulf (NASDAQ: WULF) rose on Monday after the digital infrastructure developer struck a blockbuster deal with leading artificial intelligence (AI) model maker Anthropic.\nIREN's (NASDAQ: IREN) shares were likewise up sharply, on reports that the d…",
+      "url": "https://biztoc.com/x/0550a44d025ae8eb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-07T03:01:08Z"
+    },
+    {
+      "title": "NVIDIA’s New AI Model Could Make ChatGPT-Style Responses Much Faster",
+      "description": "Nvidia’s recently unveiled “Two Tower” diffusion-based architecture introduces a novel approach to text generation by combining auto-regressive and diffusion techniques. As detailed by Prompt Engineering, this model employs a dual-tower structure: a static “f…",
+      "url": "https://www.geeky-gadgets.com/nvidia-diffusion-nemotron-model",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-07T08:15:00Z"
+    },
+    {
+      "title": "Show HN: A free, GPU-accelerated Texas Hold'em GTO solver in C++/CUDA",
+      "description": "I built this mostly because I love the intersection of game AI, high-performance computing, and poker.I’d love for anyone interested in game theory or CUDA optimization to tear it apart, test the accuracy, and give me feedback. Happy to answer any questions a…",
+      "url": "https://bupticybee.github.io/texassolver_gpu_page",
+      "source": "Github.io",
+      "publishedAt": "2026-07-07T07:52:48Z"
+    },
+    {
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "description": "Chinese-built AI models are gaining traction among U.S. companies as they narrow the performance gap with leading American rivals while remaining significantly cheaper to use.\nRecent model releases from Chinese companies, including DeepSeek and Z.ai, are seen…",
+      "url": "https://biztoc.com/x/31ea06a1bb23051e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-07T05:16:19Z"
+    },
+    {
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "description": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-07T05:00:01Z"
+    },
+    {
+      "title": "Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain",
+      "description": "Anthropic's findings on Claude's reasoning structure could enhance AI transparency, safety, and align AI processes closer to human cognition.\nThe post Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain app…",
+      "url": "https://cryptobriefing.com/anthropic-claude-global-workspace-reasoning",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T04:07:03Z"
+    },
+    {
+      "title": "TeraWulf stock jumps on $19 billion Anthropic AI deal",
+      "description": "TeraWulf shares jumped on July 6 after the company landed a major artificial intelligence infrastructure customer.\nTeraWulf (WULF) announced a 20-year lease with Anthropic at its Justified Data campus in Hawesville, Kentucky. The agreement is expected to gene…",
+      "url": "https://biztoc.com/x/ebeda1a1d0887102",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-07T03:16:47Z"
+    },
+    {
+      "title": "Chinese firms shift from Nvidia to domestic silicon amid US tensions",
+      "description": "China's pivot to domestic AI chips amid US tensions could reshape global semiconductor dynamics, challenging US tech dominance and fostering local innovation.\nThe post Chinese firms shift from Nvidia to domestic silicon amid US tensions appeared first on Cryp…",
+      "url": "https://cryptobriefing.com/china-domestic-chips-nvidia-market-share",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T02:41:51Z"
+    },
+    {
+      "title": "Explosive Growth Anticipated: Generative AI in Media and Entertainment Market Set to Surpass $8 Billion by 2030",
+      "description": "Key market opportunities in generative AI for media and entertainment include integration with VR/AR, cloud-based AI services, real-time personalization, and growth in interactive gaming. Trends involve AI-powered content creation, personalization, and storyt…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322907/28124/en/Explosive-Growth-Anticipated-Generative-AI-in-Media-and-Entertainment-Market-Set-to-Surpass-8-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-07T08:17:00Z"
+    },
+    {
+      "title": "Generative AI in Movies Market Poised for Rapid Growth with a 20.1% CAGR: Forecast to Hit $1.03 Billion by 2030",
+      "description": "Market opportunities in generative AI for movies include integration with VR/AR experiences, automated editing, and AI-driven creative tools. Growth is driven by consumer demand for high-quality visual effects and personalized recommendations, as well as adva…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322906/28124/en/Generative-AI-in-Movies-Market-Poised-for-Rapid-Growth-with-a-20-1-CAGR-Forecast-to-Hit-1-03-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-07T08:16:00Z"
+    },
+    {
+      "title": "Explosive Growth in Generative AI: Design Market Forecasts a CAGR of 31.4% from 2025 to 2030",
+      "description": "Key market opportunities for generative AI in design include its integration in lifecycle management, cloud collaboration, AI-driven customization, and augmented reality experiences. Additionally, advancements in AI technology, rapid prototyping, and parametr…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322905/28124/en/Explosive-Growth-in-Generative-AI-Design-Market-Forecasts-a-CAGR-of-31-4-from-2025-to-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-07T08:15:00Z"
+    },
+    {
+      "title": "Exponential Growth: Generative AI in Customer Services Market to Surge from $0.66 Billion in 2025 to $1.95 Billion by 2030",
+      "description": "Key opportunities in the generative AI for customer services market include the integration into CRM platforms, increased demand for 24/7 support, growth in travel and hospitality sectors, and AI-driven self-service solutions. Advancements in real-time sentim…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322903/28124/en/Exponential-Growth-Generative-AI-in-Customer-Services-Market-to-Surge-from-0-66-Billion-in-2025-to-1-95-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-07T08:14:00Z"
+    },
+    {
+      "title": "Booming Generative AI Market Forecast: From $0.69 to $2.92 Billion by 2030",
+      "description": "Generative AI in software development offers key opportunities through AI-driven automation, agile and DevOps advancement, and secure, scalable application needs. Innovations like AI code generation and testing boost productivity. North America leads the mark…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322901/28124/en/Booming-Generative-AI-Market-Forecast-From-0-69-to-2-92-Billion-by-2030.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-07T08:12:00Z"
+    },
+    {
+      "title": "Anthropic to invest $15B in Australian data centers by mid-2027",
+      "description": "Anthropic's investment in Australian data centers signals a strategic shift towards global infrastructure expansion, potentially boosting its valuation.\nThe post Anthropic to invest $15B in Australian data centers by mid-2027 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-to-invest-15b-in-australian-data-centers-by-mid-2027",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T07:52:40Z"
+    },
+    {
+      "title": "Samsung profits surge 1,800% amid AI chip boom, and crypto miners should be paying attention",
+      "description": "Samsung's profit surge highlights the transformative impact of AI on tech industries, signaling potential shifts in market dynamics and investment strategies.\nThe post Samsung profits surge 1,800% amid AI chip boom, and crypto miners should be paying attentio…",
+      "url": "https://cryptobriefing.com/samsung-profits-surge-ai-chip-boom",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T06:25:09Z"
+    },
+    {
+      "title": "Microsoft AI data center faces Wisconsin lawsuit over noise and light pollution",
+      "description": "Microsoft's US$7.3 billion Fairwater AI data center in Wisconsin is facing a class-action lawsuit from nearby residents over alleged noise, light pollution, dust and heavy truck traffic. The complaint, filed on July 1, centers on the Sturtevant and Mount Plea…",
+      "url": "https://www.digitimes.com/news/a20260707PD225/microsoft-data-center-lawsuit-wisconsin-pollution.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-07T06:07:57Z"
+    },
+    {
+      "title": "Review: Building Machine Learning Systems with a Feature Store",
+      "description": "Many people come to machine learning by training a model on a tidy dataset, and then meet a harder problem: making that model work for real users, on fresh data, every day. Jim Dowling’s O’Reilly book, Building Machine Learning Systems with a Feature Store, i…",
+      "url": "https://www.helpnetsecurity.com/2026/07/07/review-building-machine-learning-systems-with-a-feature-store",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-07T06:00:27Z"
+    },
+    {
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "description": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and …",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-07-07T06:00:26Z"
+    },
+    {
+      "title": "This Unstoppable Artificial Intelligence (AI) Stock Just Hit a New All-Time High. Is It Too Late to Buy?",
+      "description": "This Unstoppable Artificial Intelligence (AI) Stock Just Hit a New All-Time High. Is It Too Late to Buy?\nThere is just no stopping Advanced Micro Devices (NASDAQ: AMD) right now. Shares of the semiconductor specialist have soared by more than 300% over the pa…",
+      "url": "https://biztoc.com/x/715a0123076dc187",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-07T05:46:28Z"
+    },
+    {
+      "title": "プログラミング未経験の税理士が業務アプリを「半日」で開発──株式会社if「if AI Partner」、Claude Code活用で記帳の外部委託を内製化しつつある税理士事務所の事例を公開",
+      "description": "[株式会社if]\n[画像1: https://prcdn.freetls.fastly.net/release_image/103307/67/103307-67-9e5ba852938545ce62eb4eeeaa2ca599-1280x670.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000067.000103307.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-07T05:40:56Z"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Is Doubling Down on This Artificial Intelligence (AI) Stock That Has Soared 100% Over the Past Year",
+      "description": "Warren Buffett's Successor, Greg Abel, Is Doubling Down on This Artificial Intelligence (AI) Stock That Has Soared 100% Over the Past Year\nLast month, Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) announced an $80 billion equity capital raise to fund its aggressive…",
+      "url": "https://biztoc.com/x/afd21cf0d15aa0ed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-07T05:01:20Z"
+    },
+    {
+      "title": "Previsible’s 2026 State of AI Discovery Report Finds Google Remains the Center of AI Discovery, With ChatGPT Leading Standalone LLMs",
+      "description": "SAN FRANCISCO--(BUSINESS WIRE)--Jul 6, 2026-- Previsible, the AI discovery agency for GEO and modern search, today released the third edition of its AI Traffic Study, the industry's earliest and longest-running look at GEO trends, run and refreshed from Novem…",
+      "url": "https://apnews.com/press-release/business-wire/press-release-208ad61fcb8c443b9822454f7b935f00",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-07T04:53:00Z"
+    },
+    {
+      "title": "Power shortages could slow AI data center expansion",
+      "description": "AI adoption is increasing demand for data center capacity at the same time operators are running into limits around power, equipment, land, and permitting, according to NTT Data. Access to electricity is becoming a deciding factor in where new data centers ar…",
+      "url": "https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-07T04:30:49Z"
+    },
+    {
+      "title": "Nvidia server delay report sends Asian tech stocks sliding",
+      "description": "The stock declines showed investors are wary of any potential negative developments after big run-ups in AI-related stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-07T04:22:00Z"
+    },
+    {
+      "title": "Japanese startup completes AI chip validation with Oppstar and UMC support, moves toward mass production",
+      "description": "Tokyo Artisan Intelligence said it has finished validating its Sting Ray test chip, a step that could broaden access to lower-power edge AI hardware for industries worldwide. The milestone highlights how startups and foundries are pushing specialized chips th…",
+      "url": "https://www.digitimes.com/news/a20260707PR201/startup-production-ai-chip-umc-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-07T04:15:00Z"
+    },
+    {
+      "title": "Attention, Nvidia GPU users — you need to be wary of riser cable setups, especially when using an RTX 5090",
+      "description": "It's not a melting connector-level concern, but proceed with caution if you're using an RTX 5090 GPU with a riser cable for your gaming PC setup.",
+      "url": "https://www.techradar.com/computing/gpu/attention-nvidia-gpu-users-you-need-to-be-wary-of-riser-cable-setups-especially-when-using-an-rtx-5090",
+      "source": "TechRadar",
+      "publishedAt": "2026-07-07T03:30:00Z"
+    },
+    {
+      "title": "TeraWulf signs 20-year Anthropic AI infrastructure lease worth US$19B",
+      "description": "TeraWulf has signed a 20-year lease agreement with AI startup Anthropic to develop a large-scale AI infrastructure campus in Kentucky. The deal is expected to generate approximately US$19 billion in contracted revenue and accelerate the company's transformati…",
+      "url": "https://www.digitimes.com/news/a20260707VL206/infrastructure-anthropic-revenue-startup-expansion.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-07T02:53:25Z"
+    },
+    {
+      "title": "Anthropic Releases Paper About Claude’s Mental ‘Workspace.’ Don’t Read It Uncritically",
+      "description": "Anthropic's paper and supplementary materials hint at consciousness, perhaps a bit hastily.",
+      "url": "https://gizmodo.com/anthropic-releases-paper-about-claudes-mental-workspace-dont-read-it-uncritically-2000782063",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-07T02:45:48Z"
+    },
+    {
+      "title": "【Amazonプライムデー38％OFF先行セール】 DOOGEE Note56 Proが赤字覚悟の特別価格16,055円に。Android 16・Gemini AI搭載スマホを数量限定で販売",
+      "description": "[深圳市新义腾飞电子商务有限公司]\n[画像1: https://prcdn.freetls.fastly.net/release_image/182214/48/182214-48-dba72383becea759a3d55151ceafe6b0-1774x887.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000048.000182214.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-07T02:44:48Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today",
+      "NVIDIA’s New AI Model Could Make ChatGPT-Style Responses Much Faster",
+      "Show HN: A free, GPU-accelerated Texas Hold'em GTO solver in C++/CUDA",
+      "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0550a44d025ae8eb",
+        "https://biztoc.com/x/31ea06a1bb23051e",
+        "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/07/07/3322907/28124/en/Explosive-Growth-Anticipated-Generative-AI-in-Media-and-Entertainment-Market-Set-to-Surpass-8-Billion-by-2030.html",
+        "https://www.globenewswire.com/news-release/2026/07/07/3322906/28124/en/Generative-AI-in-Movies-Market-Poised-for-Rapid-Growth-with-a-20-1-CAGR-Forecast-to-Hit-1-03-Billion-by-2030.html",
+        "https://www.globenewswire.com/news-release/2026/07/07/3322903/28124/en/Exponential-Growth-Generative-AI-in-Customer-Services-Market-to-Surge-from-0-66-Billion-in-2025-to-1-95-Billion-by-2030.html"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/07/07/review-building-machine-learning-systems-with-a-feature-store",
+        "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics",
+        "https://www.helpnetsecurity.com/2026/07/07/ai-data-centers-demand-expansion"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/nvidia-diffusion-nemotron-model"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://bupticybee.github.io/texassolver_gpu_page",
+        "https://cryptobriefing.com/china-domestic-chips-nvidia-market-share",
+        "https://www.globenewswire.com/news-release/2026/07/07/3322905/28124/en/Explosive-Growth-in-Generative-AI-Design-Market-Forecasts-a-CAGR-of-31-4-from-2025-to-2030.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why TeraWulf, IREN, and Other Data Center Stocks Jumped Today. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
