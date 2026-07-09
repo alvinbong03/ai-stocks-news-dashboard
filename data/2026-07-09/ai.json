@@ -1,0 +1,354 @@
+{
+  "theme": "ai",
+  "date": "2026-07-09",
+  "last_updated_utc": "2026-07-09T09:29:15.214Z",
+  "news": [
+    {
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "description": "BEIJING — China on Wednesday warned of \"back-door\" security risks affecting companies that use U.S.-based company Anthropic's Claude Code artificial intelligence tool.\nIt comes as the U.S.-China tech race intensifies, with Anthropic last month blaming Chinese…",
+      "url": "https://biztoc.com/x/48810ed793346158",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-08T08:36:05Z"
+    },
+    {
+      "title": "DeepSeek Is Reportedly Building Its Own Inference Chip to Break Free From Both NVIDIA and Huawei",
+      "description": "China's premier AI firm, DeepSeek, is reportedly working on its own AI chip, which will primarily be an inference accelerator. Step Aside NVIDIA & Huawei, China's DeepSeek Prepares Its Own AI Inference Chip DeepSeek, the leading AI firm which is based in Chin…",
+      "url": "https://wccftech.com/deepseek-building-its-own-inference-chip-to-break-free-from-nvidia-huawei",
+      "source": "Wccftech",
+      "publishedAt": "2026-07-08T08:15:06Z"
+    },
+    {
+      "title": "China’s DeepSeek is building its own AI chip to end US reliance",
+      "description": "ChatGPT rival is seen as the standard-bearer of China's AI ambitions after releasing an AI model that went viral worldwide last year",
+      "url": "https://www.the-independent.com/tech/deepseek-ai-chip-china-chatgpt-nvidia-b3010958.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-07-08T09:05:40Z"
+    },
+    {
+      "title": "China's industry regulator flags 'backdoor' risk in Claude Code",
+      "description": "China’s industry regulator has flagged security risks in Claude Code, an artificial intelligence programming tool developed by US startup Anthropic, warning that certain versions could expose sensitive user information through unauthorized data transmission.",
+      "url": "https://www.chinadaily.com.cn/a/202607/08/WS6a4df051a310986e2b464298.html",
+      "source": "中国日报",
+      "publishedAt": "2026-07-08T08:59:36Z"
+    },
+    {
+      "title": "OpenAI wins US clearance for a broad GPT-5.6 rollout after weeks of government testing",
+      "description": "OpenAI has been cleared to release its most advanced model widely, after the US government signed off on a broader rollout of GPT-5.6 that had been held back for weeks under Washington’s new oversight regime for frontier AI. Until now the model had been avail…",
+      "url": "https://thenextweb.com/news/openai-gpt-5-6-broad-rollout-us-approval",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-08T08:49:58Z"
+    },
+    {
+      "title": "Microsoft starts swapping OpenAI and Anthropic models for its own in apps",
+      "description": "Microsoft is reportedly beginning to replace OpenAI and Anthropic models in its software with its own offerings, likely a strategic move by the software giant to reduce expenditures and bolster its role as an AI provider, soon after the launch of several of i…",
+      "url": "https://www.digitimes.com/news/a20260708VL222/microsoft-anthropic-openai-cost-software.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-08T08:41:16Z"
+    },
+    {
+      "title": "China warns of AI risks in Anthropic’s Claude Code amid tracking concerns",
+      "description": "China's AI caution may reshape global AI dynamics, influencing market trust and competitive positioning of foreign AI technologies.\nThe post China warns of AI risks in Anthropic’s Claude Code amid tracking concerns appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/china-warns-of-ai-risks-in-anthropics-claude-code-amid-tracking-concerns",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-08T08:27:03Z"
+    },
+    {
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "description": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+      "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-08T08:14:28Z"
+    },
+    {
+      "title": "OpenAI to Roll Out Advanced GPT-5.6 Models Sol, Terra and Luna on Thursday After Government Review",
+      "description": "OpenAI is launching its GPT-5.6 AI models, including Sol, Terra, and Luna, amid U.S.-China tech tensions and security concerns, following a limited preview and government evaluations.",
+      "url": "https://www.ibtimes.com.au/openai-expands-gpt-5-6-ai-models-1872012",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-08T08:12:29Z"
+    },
+    {
+      "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+      "description": "An AI chip startup has raised $1 billion in financing as investors continue to pour money into companies looking to challenge Nvidia.\nSambaNova is now valued at $11 billion thanks to the financing, which was led by General Atlantic along with participation fr…",
+      "url": "https://biztoc.com/x/b2b623068dac1ee0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-08T08:05:39Z"
+    },
+    {
+      "title": "OpenAI to unveil new model after US freeze",
+      "description": "OpenAI is set to release its new GPT-5.6 AI model series publicly this Thursday after US government approval. Learn about Sol, Terra, and Luna.\n\nRead More: https://punchng.com/openai-to-unveil-new-model-after-us-freeze/",
+      "url": "https://punchng.com/openai-to-unveil-new-model-after-us-freeze",
+      "source": "The Punch",
+      "publishedAt": "2026-07-08T07:50:33Z"
+    },
+    {
+      "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+      "description": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
+      "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-08T07:47:43Z"
+    },
+    {
+      "title": "Microsoft replaces OpenAI and Anthropic with its own MAI models in Excel and Outlook",
+      "description": "Microsoft's shift to in-house AI models in Excel and Outlook could enhance profit margins but may impact OpenAI and Anthropic's revenue streams.\nThe post Microsoft replaces OpenAI and Anthropic with its own MAI models in Excel and Outlook appeared first on Cr…",
+      "url": "https://cryptobriefing.com/microsoft-mai-models-replace-openai-anthropic-excel-outlook",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-08T07:26:46Z"
+    },
+    {
+      "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-08T09:28:50Z"
+    },
+    {
+      "title": "NotebookLM 2.0 Unlocks Gemini 3.5 to Automates Pitch Deck Creation",
+      "description": "NotebookLM 2.0 (2026 Edition) is an AI-driven platform designed to support a variety of professional and creative applications. According to Tina Huang, this version incorporates the Gemini 3.5 model, which enhances workflows by providing actionable insights.…",
+      "url": "https://www.geeky-gadgets.com/notebooklm-2-podcast-video-generator",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-08T09:17:00Z"
+    },
+    {
+      "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "description": "OpenAI's GPT-5.6 Sol, Terra and Luna will be widely available on Thursday.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184357570",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-08T09:12:19Z"
+    },
+    {
+      "title": "UST ties up with Anthropic to integrate Claude in engineering and operational workflows",
+      "description": "To certify 20,000 employees worldwide on Claude across roles from architects and engineers to consultants, industry specialists, and engineers",
+      "url": "https://www.thehindubusinessline.com/info-tech/ust-ties-up-with-anthropic-to-integrate-claude-in-engineering-and-operationalworkflows/article71197168.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-08T09:00:19Z"
+    },
+    {
+      "title": "South Korea enters bear market as AI chip fears trigger massive sell-off",
+      "description": "South Korea's bear market highlights the vulnerability of economies heavily reliant on AI demand, impacting global tech and crypto sectors.\nThe post South Korea enters bear market as AI chip fears trigger massive sell-off appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/south-korea-bear-market-ai-chipmakers",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-08T08:49:13Z"
+    },
+    {
+      "title": "Alibaba Blocks Claude Code for Employees Over Hidden Tracking of Chinese Users Starting July 10",
+      "description": "Alibaba has banned its employees from using Anthropic's Claude Code coding assistant starting July 10, 2026, after a developer discovered hidden tracking code t\nThank you for being a Ghacks reader. The post Alibaba Blocks Claude Code for Employees Over Hidden…",
+      "url": "https://www.ghacks.net/2026/07/08/alibaba-blocks-claude-code-for-employees-over-hidden-tracking-of-chinese-users-starting-july-10",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-07-08T08:35:28Z"
+    },
+    {
+      "title": "Claude Cowork Expands to Mobile and Web Today as New Anthropic Data Shows Most Sessions Aren't Coding",
+      "description": "Anthropic's Claude Cowork tool is now available on mobile and web, enabling seamless task management across devices and enhancing productivity for general business operations.",
+      "url": "https://www.ibtimes.com.au/anthropic-expands-claude-cowork-mobile-web-1872014",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-08T08:26:35Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know",
+      "description": "OpenAI will launch its GPT-5.6 model family starting July ninth. These new models offer improved reasoning and coding capabilities for users. GPT-5.6 Sol, Terra, and Luna cater to diverse user needs and tasks. Enhanced safety features and cybersecurity improv…",
+      "url": "https://economictimes.indiatimes.com/news/international/business/openai-gpt-5-6-rollout-begins-july-9-new-features-models-and-everything-else-to-know/articleshow/132257449.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-08T08:08:51Z"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
+      "description": "As July begins, Sandisk (NASDAQ: SNDK) and Micron Technology (NASDAQ: MU) both stand out among memory semiconductor stocks with potential for sharp stock appreciation. Three distinct but interconnected developments are unfolding as earnings season comes into …",
+      "url": "https://biztoc.com/x/5c07ae86b6e1c702",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-08T08:07:47Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5060-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:56:45Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5060-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:56:08Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5060-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:55:32Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Opus 4.5 + shadcn/ui – Use UXPin Merge!",
+      "description": "Use AI for copy, map a 6-part blueprint, then assemble code-backed components in UXPin Merge to speed prototypes and handoff.\nThe post How to build a landing page using Claude Opus 4.5 + shadcn/ui – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio/blog/build-landing-page-claude-opus-4-5-shadcn-ui-uxpin-merge",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-08T07:53:21Z"
+    },
+    {
+      "title": "Nomagic’s new AI lab headed by former Google DeepMind researcher claims success in early deployment of ‘AI brain’ for warehouse robots",
+      "description": "“Embodied AI” and “physical intelligence” are all the rage with Silicon Valley investors these days. The idea is that AI’s next frontier will be systems that don’t just use software but can take action in the real world through robotic devices, from self-driv…",
+      "url": "https://biztoc.com/x/bf0d75a1010bede6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-08T07:51:21Z"
+    },
+    {
+      "title": "Google’s Android XR Glasses Translate Text and Unlock Gemini AI Navigation",
+      "description": "Steven Sullivan examines the Google Android XR smart glasses, a wearable device combining augmented reality with a lightweight frame. Weighing 49 grams, the glasses feature a single-lens display positioned over the right eye, offering AI-driven navigation and…",
+      "url": "https://www.geeky-gadgets.com/android-xr-smart-glasses-review",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-08T07:43:00Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:30:15Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:28:58Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 1803 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-1803-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:28:34Z"
+    },
+    {
+      "title": "Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9200 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Quanta NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9200 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or ju…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9200-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-08T07:26:51Z"
+    },
+    {
+      "title": "Big Short fame Michael Burry is betting against Nvidia, AMD, Micron and other chipmakers. Is a massive AI crash coming?",
+      "description": "Michael Burry, famed for predicting the 2008 financial crisis, has increased his bearish bets against AI-linked chipmakers through the iShares Semiconductor ETF. His move has reignited concerns over stretched semiconductor valuations, the sustainability of th…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/big-short-fame-michael-burry-is-betting-against-nvidia-amd-micron-and-other-chipmakers-is-a-massive-ai-crash-coming/articleshow/132256730.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-08T07:26:32Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "China warns about AI risks with Anthropic's Claude Code",
+      "DeepSeek Is Reportedly Building Its Own Inference Chip to Break Free From Both NVIDIA and Huawei",
+      "China’s DeepSeek is building its own AI chip to end US reliance",
+      "China's industry regulator flags 'backdoor' risk in Claude Code",
+      "OpenAI wins US clearance for a broad GPT-5.6 rollout after weeks of government testing"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/deepseek-building-its-own-inference-chip-to-break-free-from-nvidia-huawei",
+        "https://biztoc.com/x/b2b623068dac1ee0",
+        "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/48810ed793346158",
+        "https://www.chinadaily.com.cn/a/202607/08/WS6a4df051a310986e2b464298.html",
+        "https://www.digitimes.com/news/a20260708VL222/microsoft-anthropic-openai-cost-software.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.uxpin.com/studio/blog/build-landing-page-claude-opus-4-5-shadcn-ui-uxpin-merge"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/openai-gpt-5-6-broad-rollout-us-approval",
+        "https://www.ibtimes.com.au/openai-expands-gpt-5-6-ai-models-1872012",
+        "https://punchng.com/openai-to-unveil-new-model-after-us-freeze"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.the-independent.com/tech/deepseek-ai-chip-china-chatgpt-nvidia-b3010958.html",
+        "https://www.geeky-gadgets.com/notebooklm-2-podcast-video-generator",
+        "https://cryptobriefing.com/south-korea-bear-market-ai-chipmakers"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China warns about AI risks with Anthropic's Claude Code. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China warns about AI risks with Anthropic's Claude Code. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China warns about AI risks with Anthropic's Claude Code. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China warns about AI risks with Anthropic's Claude Code. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: China warns about AI risks with Anthropic's Claude Code. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
