@@ -1,0 +1,273 @@
+{
+  "theme": "ai",
+  "date": "2026-07-11",
+  "last_updated_utc": "2026-07-11T07:47:23.997Z",
+  "news": [
+    {
+      "title": "OpenAI is killing its ChatGPT Atlas browser less than a year after launch",
+      "description": "OpenAI is shutting down ChatGPT Atlas, its AI-powered web browser, less than a year after launching it. The company is targeting 9 August for deprecation, The Verge reports. Atlas only arrived in October 2025, pitched as a browser that could carry out tasks o…",
+      "url": "https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-10T07:36:13Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Opus 4.5 + Bootstrap – Use UXPin Merge!",
+      "description": "Stop rebuilding landing pages: use AI to generate Bootstrap sections and turn them into reusable Merge components.\nThe post How to build a landing page using Claude Opus 4.5 + Bootstrap – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio?p=60334",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-10T07:31:08Z"
+    },
+    {
+      "title": "Thinking Very Carefully About Whether Anthropic Found The Seat Of AI Consciousness",
+      "description": "Anthropic found an intriguing inner working element of modern LLMs. Does this give light to the advent of AI consciousness. An AI Insider analysis and scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/07/10/thinking-very-carefully-about-whether-anthropic-found-the-seat-of-ai-consciousness",
+      "source": "Forbes",
+      "publishedAt": "2026-07-10T07:15:00Z"
+    },
+    {
+      "title": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing",
+      "description": "SpaceXAI's Grok 4.5 undercuts Opus 4.8 on price, matching it on key coding benchmarks, and adds new safeguards against cybersecurity risks.",
+      "url": "https://devops.com/spacexais-grok-4-5-undercuts-anthropic-and-openai-on-coding-agent-pricing",
+      "source": "DevOps.com",
+      "publishedAt": "2026-07-10T07:08:55Z"
+    },
+    {
+      "title": "SK AI Summit postponed as SK eyes closer alignment with Nvidia GTC",
+      "description": "SK Group, which hosts the annual SK AI Summit as its flagship technology event to showcase its latest AI and semiconductor developments, is reportedly postponing the 2026 edition. Originally scheduled for the second half of 2026, the event is now expected to …",
+      "url": "https://www.digitimes.com/news/a20260709PD249/sk-group-ai-nvidia-gtc-technology-2027.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-10T07:06:06Z"
+    },
+    {
+      "title": "New York Times and News Outlets Demand Legal Sanctions Against OpenAI",
+      "description": "The New York Times and several news outlets on Thursday filed a motion for sanctions against OpenAI, accusing the company of concealing its ability to search the training datasets and output logs for its models for more than two years as they sought company d…",
+      "url": "https://biztoc.com/x/aab25da27aa29a91",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-10T06:54:03Z"
+    },
+    {
+      "title": "New ChatGPT Voice Full-Duplex Update Lets You Interrupt at Any Time",
+      "description": "OpenAI’s latest development, ChatGPT Voice, introduces full-duplex communication, allowing the system to listen and respond at the same time. This capability lets users refine their input mid-conversation without pauses, creating a more dynamic interaction. B…",
+      "url": "https://www.geeky-gadgets.com/next-generation-chatgpt-voice",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-10T06:47:00Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5080 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5080 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5080-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T06:17:26Z"
+    },
+    {
+      "title": "New ChatGPT 5.6 Sol Model Undercuts Fable 5 on Operational AI Costs",
+      "description": "ChatGPT 5.6 Sol has entered the AI field as a competitor to established models like Fable 5, emphasizing cost efficiency and performance. Prompt Engineering highlights its ability to optimize token utilization, which reduces operational costs while maintainin…",
+      "url": "https://www.geeky-gadgets.com/gpt-5-6-sol-vs-fable-5",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-10T06:17:00Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5080 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5080 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5080-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T06:15:57Z"
+    },
+    {
+      "title": "Building Production AI Applications with OpenAI Responses API",
+      "description": "Unlock production AI with OpenAI's Responses API. Unified interface for chat, tools, reasoning & more. Build intelligent apps efficiently.",
+      "url": "https://www.c-sharpcorner.com/article/building-production-ai-applications-with-openai-responses-api",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-10T06:07:19Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5090-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T06:04:40Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 11 S",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5090-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-11-S.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T06:04:16Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5090-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T06:01:18Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5090 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5090-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:58:49Z"
+    },
+    {
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind - Ars Technica",
+      "description": "Google updates Android Bench with new LLMs, but Gemini still lags behindArs Technica Google just changed how it grades the AI models you use for Android codingDigital Trends Android Bench Upgraded to Harbor Framework, 8 Models Added to LeaderboardDroid Life E…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184388818",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-10T05:52:25Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 11 S",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-11-S.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:44:18Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 S 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-S-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:42:02Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 1809 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-1809-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:41:19Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5070 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5070-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:39:37Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 11 S",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5060-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-11-S.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:32:29Z"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver 32.0.15.9191 for Windows 10 version 1903 64-bit",
+      "description": "The package provides the installation files for NVIDIA GeForce RTX 5060 Laptop GPU Graphics Driver version 32.0.15.9191 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgr…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5060-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-1903-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-10T05:29:15Z"
+    },
+    {
+      "title": "AI Machine Learning",
+      "description": "The AI Machine Learning theme is designed for websites that present technology-focused content, data-driven projects, software solutions, research updates, and digital services. It includes structured layouts for showcasing case studies, service sections, tea…",
+      "url": "https://wordpress.org/themes/ai-machine-learning",
+      "source": "Wordpress.org",
+      "publishedAt": "2026-07-10T05:22:45Z"
+    },
+    {
+      "title": "Global Market: SK Hynix's Nasdaq ADR debut raises $26.5 billion amid AI chip boom",
+      "description": "South Korean chipmaker SK Hynix successfully raised $26.5 billion through its ADR offering.  This significant fundraising highlights robust global investor interest in AI semiconductor suppliers.  The company is a leading provider of essential high-bandwidth …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynixs-nasdaq-adr-debut-raises-26-5-billion-amid-ai-chip-boom/articleshow/132303695.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-10T05:22:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI is killing its ChatGPT Atlas browser less than a year after launch",
+      "How to build a landing page using Claude Opus 4.5 + Bootstrap – Use UXPin Merge!",
+      "Thinking Very Carefully About Whether Anthropic Found The Seat Of AI Consciousness",
+      "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing",
+      "SK AI Summit postponed as SK eyes closer alignment with Nvidia GTC"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260709PD249/sk-group-ai-nvidia-gtc-technology-2027.html",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5080-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-1903-64-bit.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-5080-Laptop-GPU-Graphics-Driver-32-0-15-9191-for-Windows-10-version-21H2-64-bit.shtml"
+      ]
+    },
+    {
+      "title": "System",
+      "summary": "Grouped stories where \"system\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/next-generation-chatgpt-voice"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp",
+        "https://www.uxpin.com/studio?p=60334",
+        "https://www.forbes.com/sites/lanceeliot/2026/07/10/thinking-very-carefully-about-whether-anthropic-found-the-seat-of-ai-consciousness"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI is killing its ChatGPT Atlas browser less than a year after launch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI is killing its ChatGPT Atlas browser less than a year after launch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI is killing its ChatGPT Atlas browser less than a year after launch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI is killing its ChatGPT Atlas browser less than a year after launch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI is killing its ChatGPT Atlas browser less than a year after launch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
