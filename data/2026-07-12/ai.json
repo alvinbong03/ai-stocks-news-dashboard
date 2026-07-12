@@ -1,0 +1,287 @@
+{
+  "theme": "ai",
+  "date": "2026-07-12",
+  "last_updated_utc": "2026-07-12T08:08:11.410Z",
+  "news": [
+    {
+      "title": "Can We See AI Think? Anthropic’s New Tech Explores Claude",
+      "description": "Anthropic has published a research paper detailing new insights into the internal mechanisms of its artificial intelligence, Claude. By utilizing an innovative technique known as the “Jacobian Lens” (J-Lens), researchers successfully observed how the AI proce…",
+      "url": "https://www.ubergizmo.com/2026/07/can-we-see-ai-think-anthropics-claude",
+      "source": "Ubergizmo",
+      "publishedAt": "2026-07-11T06:15:03Z"
+    },
+    {
+      "title": "Show HN: Inferock-bench – per-call billing receipts for OpenAI and Anthropic",
+      "description": "Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls with token usage, failure, and billing-integrity receipts. - inferock/inferock-bench",
+      "url": "https://github.com/inferock/inferock-bench",
+      "source": "Github.com",
+      "publishedAt": "2026-07-11T03:14:23Z"
+    },
+    {
+      "title": "GPUs Dominate NPUs for Running Local LLM Workflows",
+      "description": "As the demand for local AI workflows grows, understanding the differences between Neural Processing Units (NPUs) and Graphics Processing Units (GPUs) is increasingly important. NPUs are designed for efficiency in lightweight tasks like noise suppression and r…",
+      "url": "https://www.geeky-gadgets.com/npu-vs-gpu-local-ai",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-11T06:00:00Z"
+    },
+    {
+      "title": "Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware",
+      "description": "Apple has sued OpenAI for allegedly stealing its trade secrets to develop an AI-focused device and other hardware. Apple alleges that as over 400 former employees left to join the ChatGPT maker, many of them routinely accessed Apple's confidential data relate…",
+      "url": "https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-07-11T05:08:00Z"
+    },
+    {
+      "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE",
+      "description": "The United States has eased export controls on the United Arab Emirates. This change allows easier access to Nvidia AI chips and military equipment. Approved UAE companies and US firms operating there will receive license-free advanced computing items. This m…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T03:12:10Z"
+    },
+    {
+      "title": "Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic",
+      "description": "The post Palantir CEO: “Something Has Gone Completely Wrong” With OpenAI and Anthropic appeared first on 24/7 Wall St.. \n \n \n \n Palantir (PLTR) Q1 FY2026 revenue reached $1.63B, up 84.7% YoY, with 60% adjusted operating margin. CEO Alex Karp emphasized AI sov…",
+      "url": "https://biztoc.com/x/d0c1951b09a7bd8e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T01:37:38Z"
+    },
+    {
+      "title": "OpenAI is shutting down its Atlas web browser - Mashable",
+      "description": "OpenAI is shutting down its Atlas web browserMashable The ChatGPT \"Super App\" Sort of Super Sucksspyglass.org OpenAI is shutting down Atlas, but its AI browser ambitions are still growingTechCrunch OpenAI to Retire ChatGPT Atlas Browser Less Than a Year After…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184399748",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-11T01:32:34Z"
+    },
+    {
+      "title": "Meet the Indian engineer who went from a small Karnataka village to NVIDIA and now earns ₹2.6 crore a year",
+      "description": "Pruthviraj Prakash achieved his dream of working at NVIDIA. He joined the leading artificial intelligence company in Santa Clara, California. Prakash's journey began in a small village in Karnataka with limited technology access. He pursued education and care…",
+      "url": "https://timesofindia.indiatimes.com/education/news/meet-the-indian-engineer-who-went-from-a-small-karnataka-village-to-nvidia-and-now-earns-2-6-crore-a-year/articleshow/132326650.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T07:59:22Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Opus 4.5 + Custom Design Systems – Use UXPin Merge!",
+      "description": "Use AI for copy and map it to code-backed design-system components to build production-ready landing pages faster.\nThe post How to build a landing page using Claude Opus 4.5 + Custom Design Systems – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio/blog/build-landing-page-claude-opus-4-5-custom-design-systems-uxpin-merge",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-11T07:37:06Z"
+    },
+    {
+      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
+      "description": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development\nIn the age of artificial intelligence (AI) infrastructure, Micron Technology's (NASDAQ: MU) plan to invest more than $250 billion in…",
+      "url": "https://biztoc.com/x/f57509c5d45eb78e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T07:11:05Z"
+    },
+    {
+      "title": "Meta announces $9.17 billion Canada AI data center that will consume electricity equal to 800,000 homes",
+      "description": "Meta will invest C$13 billion to build its first Canadian AI data center in Alberta. This massive facility will require electricity equivalent to 800,000 homes. The company plans to offset energy use with renewable projects and minimize water consumption. Alb…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/meta-announces-9-17-billion-canada-ai-data-center-that-will-consume-electricity-equal-to-800000-homes/articleshow/132325698.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T06:19:11Z"
+    },
+    {
+      "title": "Apple files a lawsuit against OpenAI for alleged theft of its trade secrets - The Tech Outlook",
+      "description": "Previously, we have heard about lawsuits filed by tech companies over patent issues or defamation. But yesterday, Apple shocked the industry by filing a lawsuit against the widely popular AI manufacturer, OpenAI, accusing the company of a serious all",
+      "url": "https://www.thetechoutlook.com/current-affairs/business/apple-files-a-lawsuit-against-openai-for-alleged-theft-of-its-trade-secrets",
+      "source": "Thetechoutlook.com",
+      "publishedAt": "2026-07-11T06:17:15Z"
+    },
+    {
+      "title": "Microsoft’s Brad Smith criticizes US AI regulation for lack of clarity",
+      "description": "Unclear AI regulations hinder tech investment and innovation, highlighting the need for structured governance to ensure industry stability.\nThe post Microsoft’s Brad Smith criticizes US AI regulation for lack of clarity appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/microsoft-brad-smith-ai-regulation-clarity",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T06:14:58Z"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft linked to ChatGPT hardware development",
+      "description": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT.",
+      "url": "https://thenightly.com.au/business/apple-sues-openai-over-alleged-trade-secret-theft-linked-to-chatgpt-hardware-development-c-22562843",
+      "source": "Thenightly.com.au",
+      "publishedAt": "2026-07-11T06:08:17Z"
+    },
+    {
+      "title": "Apple sues OpenAI for stealing trade secrets",
+      "description": "Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker's trade secrets as it tries to develop its own consumer hardware device.",
+      "url": "https://www.hurriyetdailynews.com/apple-sues-openai-for-stealing-trade-secrets-224251",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-11T06:01:41Z"
+    },
+    {
+      "title": "Is Bloom Energy the Next Nvidia?",
+      "description": "Bloom Energy (NYSE: BE) has been one of the hottest energy stocks of 2026. And it hasn't shown many signs of slowing down. Shares of the AI-power stock are up nearly 200%, and have grown ninefold since last July.\nA comparison with the AI heavyweight Nvidia (N…",
+      "url": "https://biztoc.com/x/89a7e5e5d05f478b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T05:25:33Z"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged theft of trade secrets",
+      "description": "OpenAI, io Products, and two former Apple employees are named as defendants, with Apple alleging emailed internal files and coordinated recruitment tactics. OpenAI denies interest in rivals' secrets. The suit follows Apple's Siri shift to Google's Gemini.\nThe…",
+      "url": "https://en.protothema.gr/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-07-11T04:37:51Z"
+    },
+    {
+      "title": "Apple Sues OpenAI, Alleging Former Employees Stole Confidential Hardware Trade Secrets",
+      "description": "Apple has filed a lawsuit against OpenAI, accusing the artificial intelligence company and two former Apple employees of misappropriating confidential hardware information to accelerate OpenAI's consumer hardware ambitions.\n[Read More]",
+      "url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets",
+      "source": "PetaPixel",
+      "publishedAt": "2026-07-11T03:33:05Z"
+    },
+    {
+      "title": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September",
+      "description": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.\nShares of Meta Platforms (NASDAQ: META) rose about 6% on Friday after Reuters reported on Thursday that the social media giant plans to start …",
+      "url": "https://biztoc.com/x/587b9a0adea940b0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T03:25:22Z"
+    },
+    {
+      "title": "OpenAI head of safety Johannes Heidecke departs amid reorganization",
+      "description": "OpenAI's restructuring may integrate safety into research, but risks diluting its independent oversight, impacting AI development priorities.\nThe post OpenAI head of safety Johannes Heidecke departs amid reorganization appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-safety-head-heidecke-departs",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T03:02:39Z"
+    },
+    {
+      "title": "Apple sues OpenAI, two former employees alleging theft of trade secrets",
+      "description": "Apple on Friday sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT-owner's foray into consumer hardware, a dramatic escalation of already simmering tension between the two companies.\nThe complaint accus…",
+      "url": "https://biztoc.com/x/298f4b6a0412b2c3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T02:40:01Z"
+    },
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "description": "Apple has accused OpenAI of stealing its trade secrets for new hardware. Two former Apple employees now working for OpenAI are named defendants. The lawsuit claims OpenAI encouraged employees to share confidential information. OpenAI stated it has no interest…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets/articleshow/132323638.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T02:34:00Z"
+    },
+    {
+      "title": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
+      "description": "Apple sues OpenAI, alleging the AI company stole trade secretsThe Washington Post Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'CNBC Apple accuses OpenAI of telling recruits to bring Apple prototypes to interviewsFox Business …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184399886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-11T01:52:28Z"
+    },
+    {
+      "title": "OpenAI safety teams now report to VP of Research as leadership exodus reshapes the company",
+      "description": "The restructuring may blur safety oversight, potentially impacting OpenAI's operational stability and transparency amid leadership changes.\nThe post OpenAI safety teams now report to VP of Research as leadership exodus reshapes the company appeared first on C…",
+      "url": "https://cryptobriefing.com/openai-safety-teams-vp-research-restructuring",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T01:40:32Z"
+    },
+    {
+      "title": "EX DeFi Introduces AI-Powered Trading Technology Amid Growing Adoption of Artificial Intelligence in Financial Markets",
+      "description": "New York City, NY, July 10, 2026 (GLOBE NEWSWIRE) -- Global financial markets continued to experience heightened attention from investors as market participants monitored economic data, corporate earnings, and developments in artificial intelligence (AI) tech…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/11/3325788/0/en/EX-DeFi-Introduces-AI-Powered-Trading-Technology-Amid-Growing-Adoption-of-Artificial-Intelligence-in-Financial-Markets.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-11T01:40:00Z"
+    },
+    {
+      "title": "Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions",
+      "description": "Apple just slapped OpenAI with a massive lawsuit, claiming the ChatGPT maker poached former employees to steal secret hardware blueprints.",
+      "url": "https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-11T01:00:32Z"
+    },
+    {
+      "title": "Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech",
+      "description": "Apple has sued OpenAI and two of its employees, alleging that they stole trade secrets from Apple to support OpenAI’s development of devices.\nThe OpenAI employees named in the lawsuit, Chief Hardware Officer Tang Tan and technical staff member Chang Liu, are …",
+      "url": "https://biztoc.com/x/502dd8c76f99c81a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T00:52:33Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Can We See AI Think? Anthropic’s New Tech Explores Claude",
+      "Show HN: Inferock-bench – per-call billing receipts for OpenAI and Anthropic",
+      "GPUs Dominate NPUs for Running Local LLM Workflows",
+      "Apple is suing OpenAI, alleging former employees stole trade secrets to build AI hardware",
+      "US makes it easier to export Nvidia AI chips and military equipment to the UAE"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/inferock/inferock-bench",
+        "https://www.techspot.com/news/113078-apple-suing-openai-alleging-former-employees-stole-trade.html",
+        "https://biztoc.com/x/d0c1951b09a7bd8e"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ubergizmo.com/2026/07/can-we-see-ai-think-anthropics-claude",
+        "https://www.geeky-gadgets.com/npu-vs-gpu-local-ai",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-makes-it-easier-to-export-nvidia-ai-chips-and-military-equipment-to-the-uae/articleshow/132323771.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Can We See AI Think? Anthropic’s New Tech Explores Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Can We See AI Think? Anthropic’s New Tech Explores Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Can We See AI Think? Anthropic’s New Tech Explores Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Can We See AI Think? Anthropic’s New Tech Explores Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Can We See AI Think? Anthropic’s New Tech Explores Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

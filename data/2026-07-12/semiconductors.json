@@ -1,0 +1,359 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-07-12",
+  "last_updated_utc": "2026-07-12T08:08:28.200Z",
+  "news": [
+    {
+      "title": "AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality",
+      "description": "AMD presented new research at the I3D Symposium titled \"PEPS: Positional Encoding Projected Sampling\", introducing a new method for positional encoding that can improve neural texture compression. How Does Neural Texture Compression Work? Neural Texture Compr…",
+      "url": "https://wccftech.com/amd-peps-research-pushes-neural-texture-compression-cutting-model-parameters-by-25-percent-at-comparable-quality",
+      "source": "Wccftech",
+      "publishedAt": "2026-07-11T08:05:03Z"
+    },
+    {
+      "title": "Chinese chip startup launches world’s first 8-inch 2D semiconductor line, escalating the US-China tech war",
+      "description": "The launch of 2D semiconductor production in China could reshape global tech dynamics, challenging US dominance and impacting AI and crypto sectors.\nThe post Chinese chip startup launches world’s first 8-inch 2D semiconductor line, escalating the US-China tec…",
+      "url": "https://cryptobriefing.com/chinese-2d-semiconductor-line-chip-war",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T08:03:23Z"
+    },
+    {
+      "title": "Meet the Indian engineer who went from a small Karnataka village to NVIDIA and now earns ₹2.6 crore a year",
+      "description": "Pruthviraj Prakash achieved his dream of working at NVIDIA. He joined the leading artificial intelligence company in Santa Clara, California. Prakash's journey began in a small village in Karnataka with limited technology access. He pursued education and care…",
+      "url": "https://timesofindia.indiatimes.com/education/news/meet-the-indian-engineer-who-went-from-a-small-karnataka-village-to-nvidia-and-now-earns-2-6-crore-a-year/articleshow/132326650.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T07:59:22Z"
+    },
+    {
+      "title": "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
+      "description": "There have been few happier investors than Intel (NASDAQ: INTC) and AMD (NASDAQ: AMD) investors in 2026. If you purchased shares at the start of 2026, the returns have been phenomenal. Intel's stock essentially tripled, while AMD's stock is up around 140%. Th…",
+      "url": "https://biztoc.com/x/3d4f868fd90abca5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T07:56:26Z"
+    },
+    {
+      "title": "iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining",
+      "description": "The industry is hyping up the alliance between Chinese memory manufacturer CXMT and Apple, with the latter previously reported to have begun testing the company’s DRAM chips for use in future products. Unfortunately, a new rumor buries any hope that these mod…",
+      "url": "https://wccftech.com/iphone-18-pro-unlikely-to-use-cxmt-dram-due-to-deep-a20-pro-packaging-integration",
+      "source": "Wccftech",
+      "publishedAt": "2026-07-11T07:55:59Z"
+    },
+    {
+      "title": "Trump threatens to ’decimate’ Iran as U.S. steps up military, diplomatic pressure",
+      "description": "S&P up for the week as chip stocks rebound; SK Hynix sees blockbuster U.S. debut\nInvesting.com -- President Donald Trump warned Iran that the United States is prepared to launch a devastating military response if Tehran attempts to assassinate him, as Washing…",
+      "url": "https://biztoc.com/x/a30f2fc5806dff65",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T07:25:09Z"
+    },
+    {
+      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
+      "description": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development\nIn the age of artificial intelligence (AI) infrastructure, Micron Technology's (NASDAQ: MU) plan to invest more than $250 billion in…",
+      "url": "https://biztoc.com/x/f57509c5d45eb78e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T07:11:05Z"
+    },
+    {
+      "title": "China halts helium exports amid US-Iran tensions, threatening global chip supply",
+      "description": "China's helium export halt exacerbates global chip supply issues, potentially delaying tech production and escalating geopolitical tensions.\nThe post China halts helium exports amid US-Iran tensions, threatening global chip supply appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/china-helium-export-ban-chip-supply",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T07:09:39Z"
+    },
+    {
+      "title": "Shares of S. Korean chipmaker rise 12.8% in Wall Street debut",
+      "description": "NEW YORK -- Shares of South Korean memory chipmaker SK Hynix rose 12.8% as they made their debut on Wall Street, at a time when demand for chips is surging thanks to the frenzy around artificial intelligence.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/11/shares-of-s-korean-chipmaker-rise-128-in-wall",
+      "source": "Arkansas Online",
+      "publishedAt": "2026-07-11T06:55:50Z"
+    },
+    {
+      "title": "Ukraine creates long-range military command to intensify strikes on Russia",
+      "description": "S&P up for the week as chip stocks rebound; SK Hynix sees blockbuster U.S. debut\nInvesting.com -- Ukraine has established a new \"long-range impact\" command within its armed forces as Kyiv seeks to intensify strikes on Russian energy infrastructure and logisti…",
+      "url": "https://biztoc.com/x/0409f7fb78fa5f94",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T06:54:42Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.7026 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.7026 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-7026-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T06:40:02Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.7026 for Windows 11",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.7026 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-7026-for-Windows-11.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T06:26:01Z"
+    },
+    {
+      "title": "WSJ: Apple avoided semiconductor tariffs last year thanks to Intel chip deal",
+      "description": "Intel in the U.S. is expected to make at least some upcoming Mac and iPhone chips for Apple. That recent development may have been the key to a major tariff exemption on semiconductors Apple received almost a year ago.",
+      "url": "https://9to5mac.com/2026/07/10/wsj-apple-avoided-semiconductor-tariffs-last-year-thanks-to-intel-chip-deal",
+      "source": "9to5Mac",
+      "publishedAt": "2026-07-11T06:03:08Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.7026 for Windows 10 64-bit",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.7026 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-7026-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T05:52:02Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8132 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8132 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8132-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T05:37:01Z"
+    },
+    {
+      "title": "Is Bloom Energy the Next Nvidia?",
+      "description": "Bloom Energy (NYSE: BE) has been one of the hottest energy stocks of 2026. And it hasn't shown many signs of slowing down. Shares of the AI-power stock are up nearly 200%, and have grown ninefold since last July.\nA comparison with the AI heavyweight Nvidia (N…",
+      "url": "https://biztoc.com/x/89a7e5e5d05f478b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T05:25:33Z"
+    },
+    {
+      "title": "Why the chips are down despite the AI boom",
+      "description": "Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise",
+      "url": "https://biztoc.com/x/b1d7e96c374c0f41",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T05:24:23Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8132 for Windows 11",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8132 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8132-for-Windows-11.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T05:24:02Z"
+    },
+    {
+      "title": "China temporarily bans helium exports as US-Iran tensions flare again",
+      "description": "Helium is essential for heat management in semiconductor production. The helium ban is the latest example of Beijing seeking to prevent ‌domestic shortages of critical materials by curbing exports.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/china-temporarily-bans-helium-exports-as-us-iran-tensions-flare-again/articleshow/132324993.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T05:12:14Z"
+    },
+    {
+      "title": "Assam Budget 2026-27: Spotlight falls on polygamy after big announcement by state FM Jayanta Malla Baruah",
+      "description": "Among Assam's 2026-27 budget proposals, a major one is that polygamous men will be barred from accessing government schemes. Additionally, a green cess is set to be implemented for industries to support eco-friendly initiatives. The budget outlines substantia…",
+      "url": "https://economictimes.indiatimes.com/news/india/assam-budget-2026-27-spotlight-falls-on-polygamy-after-big-announcement-by-state-fm-jayanta-malla-baruah/articleshow/132324933.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T05:06:51Z"
+    },
+    {
+      "title": "LG gram Book: 15\" FHD IPS Touch, Intel Ultra 5 115U, 32GB LPDDR5, 512GB SSD $729.99 (0 replies)",
+      "description": "LG - gram Book 15\" Touch-Screen Laptop FHD Intel Core Ultra 5 115U Processor with 32GB RAM - 512GB SSD\n\nhttps://www.bestbuy.com/product/l...JJ8VPZZ3WZ",
+      "url": "https://slickdeals.net/f/19747308-lg-gram-book-15-fhd-ips-touch-intel-ultra-5-115u-32gb-lpddr5-512gb-ssd-729-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-07-11T05:04:22Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8132 for Windows 10 version 21H2 64-bit",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8132 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8132-for-Windows-10-version-21H2-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T05:04:01Z"
+    },
+    {
+      "title": "NVIDIA clarifies why you can’t find a Shield TV anywhere",
+      "description": "NVIDIA has explained that the base Shield TV is out of stock because of demand, but refused to say if it will be available in the future.",
+      "url": "https://www.androidauthority.com/nvidia-clarifies-shield-tv-availability-3686597",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-11T05:02:05Z"
+    },
+    {
+      "title": "BlackRock lists top 10 geopolitical risks",
+      "description": "S&P up for the week as chip stocks rebound; SK Hynix sees blockbuster U.S. debut\nInvesting.com -- BlackRock has raised energy security to a high-risk category in its latest geopolitical outlook, warning that the conflict involving Iran has exposed the global …",
+      "url": "https://biztoc.com/x/183a96059935f660",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T04:54:03Z"
+    },
+    {
+      "title": "Korea’s SK Hynix shares make stellar US market debut, rocket 13% on continued AI optimism",
+      "description": "SK Hynix's U.S. shares surged thirteen percent on their Nasdaq debut. The South Korean chipmaker raised twenty-six point five billion dollars through a share sale. This demonstrates continued investor interest in AI-linked semiconductor stocks. Recent market …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-sk-hynix-shares-make-stellar-us-market-debut-rocket-13-on-continued-ai-optimism/articleshow/132324857.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T04:48:55Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8132 for Windows 10 64-bit",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8132 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8132-for-Windows-10-64-bit.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T04:42:01Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8247 for Windows 11 version 25H2",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8247 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8247-for-Windows-11-version-25H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T04:24:01Z"
+    },
+    {
+      "title": "TCS, HDFC Bank, 8 others with up to 49% upside. How many in your portfolio?",
+      "description": "Amid a volatile 2026 marked by persistent FII selling, inflation concerns amid West Asia crisis, InCred Equities sees selective opportunities emerging within the large cap space. In a recent report, the brokerage has shortlisted 10 blue-chip stocks across mul…",
+      "url": "https://m.economictimes.com/markets/stocks/news/tcs-hdfc-bank-8-others-with-up-to-49-upside-how-many-in-your-portfolio/portfolio-picks/slideshow/132324420.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-07-11T04:04:06Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8247 for Windows 11 version 24H2",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8247 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8247-for-Windows-11-version-24H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T04:04:01Z"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+      "description": "Advanced Micro Devices (NASDAQ:AMD) and Texas Instruments (NASDAQ:TXN) represent two different ways to play the semiconductor market. Choosing between them depends on whether you prefer high-growth expansion or a steady, diversified chip manufacturer.\nAMD foc…",
+      "url": "https://biztoc.com/x/837f03e367c17a88",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T03:55:14Z"
+    },
+    {
+      "title": "Wistron Intel Arc Graphics Driver 32.0.101.8247 for Windows 11 version 22H2",
+      "description": "The package provides the installation files for Wistron Intel Arc Graphics Driver version 32.0.101.8247 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the avail…",
+      "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-8247-for-Windows-11-version-22H2.shtml",
+      "source": "Softpedia.com",
+      "publishedAt": "2026-07-11T03:49:01Z"
+    },
+    {
+      "title": "5 world market themes for the week ahead",
+      "description": "TSMC's earnings will offer insights into AI chip demand this week. Wall Street banks are set to report, with expectations for strong corporate profits. Oil prices remain volatile amid tensions with Iran and Strait of Hormuz flows. US inflation data will gauge…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/132324291.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T03:48:22Z"
+    },
+    {
+      "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+      "description": "Lianyou Metals, a rare metals recycler focused on tungsten and cobalt, said its June consolidated revenue reached NT$750 million (US$23.36 million), up 22% from May and 555% from a year earlier. The Taiwan-based company also reported second-quarter consolidat…",
+      "url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-11T03:44:56Z"
+    },
+    {
+      "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+      "description": "WITS reported consolidated revenue of NT$1.233 billion (US$38.41 million) in June, up 7.3% from May and 37.1% from a year earlier. The Taiwan-based IT services provider also said second-quarter revenue reached NT$3.623 billion, a quarterly increase of 6.6% an…",
+      "url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-11T03:44:46Z"
+    },
+    {
+      "title": "Record chip profits mask a widening divide inside Samsung",
+      "description": "Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overall earnings, while TVs, home appliances, and other end-devi…",
+      "url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-11T03:44:37Z"
+    },
+    {
+      "title": "Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap",
+      "description": "As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a materials race. Geckos chairman Shen Tsung-huan says that as chip manufacturing moves to 2nm and even more adva…",
+      "url": "https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-11T03:43:29Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality",
+      "Chinese chip startup launches world’s first 8-inch 2D semiconductor line, escalating the US-China tech war",
+      "Meet the Indian engineer who went from a small Karnataka village to NVIDIA and now earns ₹2.6 crore a year",
+      "Shares of Intel and AMD Have Plummeted in the Last Few Days. Is It Time to Panic?",
+      "iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/chinese-2d-semiconductor-line-chip-war",
+        "https://biztoc.com/x/a30f2fc5806dff65",
+        "https://biztoc.com/x/f57509c5d45eb78e"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/3d4f868fd90abca5",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-7026-for-Windows-11-version-25H2.shtml",
+        "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Wistron-Intel-Arc-Graphics-Driver-32-0-101-7026-for-Windows-11.shtml"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/amd-peps-research-pushes-neural-texture-compression-cutting-model-parameters-by-25-percent-at-comparable-quality",
+        "https://timesofindia.indiatimes.com/education/news/meet-the-indian-engineer-who-went-from-a-small-karnataka-village-to-nvidia-and-now-earns-2-6-crore-a-year/articleshow/132326650.cms",
+        "https://wccftech.com/iphone-18-pro-unlikely-to-use-cxmt-dram-due-to-deep-a20-pro-packaging-integration"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD’s “PEPS” Research Pushes Neural Texture Compression Further, Cutting Model Parameters By 25% At Comparable Quality. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
