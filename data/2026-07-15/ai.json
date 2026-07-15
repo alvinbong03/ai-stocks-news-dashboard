@@ -1,0 +1,361 @@
+{
+  "theme": "ai",
+  "date": "2026-07-15",
+  "last_updated_utc": "2026-07-15T07:58:35.731Z",
+  "news": [
+    {
+      "title": "ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」",
+      "description": "[株式会社エフアンドエム]\n[画像: https://prcdn.freetls.fastly.net/release_image/29825/142/29825-142-389bb5f106f012765b5d0ea65cebfa26-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000142.000029825.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-14T07:00:00Z"
+    },
+    {
+      "title": "Anthropic tokenizer update increases hidden costs for AI coding tasks",
+      "description": "Anthropic has introduced a new tokenizer for its Claude Sonnet 5 and Opus models that significantly increases the number of tokens generated for the same input text. Tokenizers are essential components that translate human language or code into numerical inte…",
+      "url": "https://4sysops.com/archives/anthropic-tokenizer-update-increases-hidden-costs-for-ai-coding-tasks",
+      "source": "4sysops.com",
+      "publishedAt": "2026-07-14T07:18:54Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna models launch on Amazon Bedrock",
+      "description": "OpenAI has made its GPT-5.6 model family generally available on Amazon Bedrock, introducing three distinct capability tiers named Sol, Terra, and Luna. These models run on a next-generation inference engine designed to provide high performance and reliability…",
+      "url": "https://4sysops.com/archives/openai-gpt-5-6-sol-terra-and-luna-models-launch-on-amazon-bedrock",
+      "source": "4sysops.com",
+      "publishedAt": "2026-07-14T07:18:52Z"
+    },
+    {
+      "title": "Google Delays Gemini 3.5 Pro Over Early Performance Flaws",
+      "description": "Google DeepMind’s Gemini 3.5 Pro has been delayed due to performance issues identified during testing, postponing its expected release. This delay underscores the complexities of creating advanced AI systems while maintaining reliability, especially as compet…",
+      "url": "https://www.geeky-gadgets.com/gemini-3-5-pro-delayed",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-14T07:13:00Z"
+    },
+    {
+      "title": "Anthropic launches India pricing for Claude AI Pro and Max plans",
+      "description": "Anthropic introduces India pricing for Claude AI Pro and Max plans with GST-inclusive billing, underscoring its focus on one of its fastest-growing global markets.",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-launches-india-pricing-for-claude-ai-pro-and-max-plans/article71220165.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-14T06:58:52Z"
+    },
+    {
+      "title": "GMI Cloud seeks $635M GPU-backed loan with Nvidia support",
+      "description": "GMI Cloud's financing move could reshape AI infrastructure funding, influencing lender risk assessments and boosting competition in AI compute demand.\nThe post GMI Cloud seeks $635M GPU-backed loan with Nvidia support appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/gmi-cloud-635m-gpu-backed-loan-nvidia",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-14T06:23:21Z"
+    },
+    {
+      "title": "Publishers file massive lawsuit against Google Gemini Training",
+      "description": "Major publishers accuse Google of wilful copyright infringement, alleging the tech giant unlawfully used copyrighted materials to train its Gemini AI models.\nThe post Publishers file massive lawsuit against Google Gemini Training first appeared on Good e-Read…",
+      "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
+      "source": "Goodereader",
+      "publishedAt": "2026-07-14T05:44:18Z"
+    },
+    {
+      "title": "Nvidia halves Asia AI chip customer list, FT reports",
+      "description": "Nvidia reduces its Asian AI chip customers by over half due to stricter compliance checks, targeting China-related sales.",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-halves-asia-ai-chip-customer-list-ft-reports/article71219836.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-14T04:28:54Z"
+    },
+    {
+      "title": "Nvidia halves Asia buyer list amid China chip crackdown",
+      "description": "Nvidia's reduced access to China's AI chip market highlights growing geopolitical tensions and accelerates China's tech self-reliance efforts.\nThe post Nvidia halves Asia buyer list amid China chip crackdown appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-halves-asia-buyer-list-china-chip-crackdown",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-14T03:47:03Z"
+    },
+    {
+      "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom",
+      "description": "Oil prices extend surge after Trump reinstates Iran shipping blockade\nBy Jihoon Lee\nSEOUL, July 14 (Reuters) - South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to bolster economic performance, as it raised its 2026 growth …",
+      "url": "https://biztoc.com/x/1a4323806d2c88af",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-14T03:31:29Z"
+    },
+    {
+      "title": "Anthropic rolls out rupee pricing for Claude AI in India",
+      "description": "Claude Pro now starts at Rs 1,999 per month on an annual plan (about ₹24,000 a year), rising to roughly Rs 2,399 per month for those who pay monthly.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-rupee-pricing-for-claude-ai-in-india/articleshow/132380150.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-14T03:26:08Z"
+    },
+    {
+      "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom",
+      "description": "By Jihoon Lee\nSEOUL, July 14 (Reuters) - South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to bolster economic performance, as it raised its 2026 growth forecast to a five-year high of 3.0% on the back of a global semicondu…",
+      "url": "https://biztoc.com/x/6c1dad51d4c128e5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-14T03:17:29Z"
+    },
+    {
+      "title": "Google reportedly ramps up TPU push to court Nvidia-backed cloud providers",
+      "description": "Google is intensifying its effort to expand adoption of its in-house Tensor Processing Units (TPUs), taking direct aim at Nvidia's dominance in AI infrastructure by courting \"neocloud\" providers that have traditionally built their businesses around Nvidia GPU…",
+      "url": "https://www.digitimes.com/news/a20260714VL207/google-tpu-nvidia-adoption-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-14T03:12:56Z"
+    },
+    {
+      "title": "US data center firms said to be planning equity sales",
+      "description": "Data center developers across the United States are preparing to sell majority equity stakes as demand for artificial intelligence (AI) infrastructure accelerates, the Wall Street Journal reported, ci...",
+      "url": "https://biztoc.com/x/d4384cbfdc7f4115",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-14T03:01:11Z"
+    },
+    {
+      "title": "Major AI chip stock plunges after blockbuster $26.5 billion Nasdaq debut",
+      "description": "One of the companies powering the global artificial intelligence boom has opened a new door for U.S. investors.\nSK Hynix, a South Korean semiconductor manufacturer that produces memory chips used in AI servers, smartphones, computers, vehicles, and other elec…",
+      "url": "https://biztoc.com/x/0ec7efdf874b9c63",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-14T02:16:08Z"
+    },
+    {
+      "title": "Sam Altman, mid-fight with Elon Musk, is stirring the pot with Anthropic too",
+      "description": "The OpenAI CEO picked a public fight with Anthropic over its initiative \"Inviting hard questions.\"",
+      "url": "https://www.businessinsider.com/sam-altman-fight-elon-musk-feuding-anthropic-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-14T07:55:04Z"
+    },
+    {
+      "title": "Anthropic Extends Free Claude Fable 5 Access for Paid Subscribers Through July 19",
+      "description": "Anthropic has extended free access to Claude Fable 5 for paid subscribers through July 19, 2026, at 11:59:59 PM PT, according to a support document.\nThank you for being a Ghacks reader. The post Anthropic Extends Free Claude Fable 5 Access for Paid Subscriber…",
+      "url": "https://www.ghacks.net/2026/07/14/anthropic-extends-free-claude-fable-5-access-for-paid-subscribers-through-july-19",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-07-14T07:54:13Z"
+    },
+    {
+      "title": "U.S. Publishers Sue Google, Alleging Massive Copyright Infringement Behind Its Gemini AI Service",
+      "description": "The lawsuit accuses Google of illegally copying millions of works to train its Gemini AI service which, the publishers argue, is already being used to flood the marketplace for books with “AI-generated substitutes.”\nThe post U.S. Publishers Sue Google, Allegi…",
+      "url": "https://publishingperspectives.com/2026/07/u-s-publishers-sue-google-alleging-massive-copyright-infringement-behind-its-gemini-ai-service",
+      "source": "Publishingperspectives.com",
+      "publishedAt": "2026-07-14T07:19:23Z"
+    },
+    {
+      "title": "OpenAI GPT-5.6 family arrives on Amazon Bedrock with tiered reasoning",
+      "description": "Amazon Bedrock has added general availability for the OpenAI GPT-5.6 model family, consisting of the Sol, Terra, and Luna tiers. Sol serves as the flagship model for complex reasoning and autonomous coding, while Terra offers balanced performance for everyday…",
+      "url": "https://4sysops.com/archives/openai-gpt-5-6-family-arrives-on-amazon-bedrock-with-tiered-reasoning",
+      "source": "4sysops.com",
+      "publishedAt": "2026-07-14T07:18:56Z"
+    },
+    {
+      "title": "Nvidia builds a white list: more than half of its Asian customers are off it",
+      "description": "Nvidia has more than halved the number of customers in Asia cleared to buy its artificial intelligence chips, according to the Financial Times, which cited three people with knowledge of the matter. The company has built a new white list of approved regional …",
+      "url": "https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-14T07:17:09Z"
+    },
+    {
+      "title": "Canada’s banking regulator named Claude Mythos in a warning to banks",
+      "description": "An April email to bank technology chiefs, released under access-to-information rules, shows OSFI naming Anthropic’s frontier model as a reason the window for fixing flaws is closing. Regulators do not usually name products. They write about “emerging technolo…",
+      "url": "https://thenextweb.com/news/osfi-canada-banks-claude-mythos-warning",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-14T07:11:09Z"
+    },
+    {
+      "title": "We’re expanding Gemini in Chrome to users in the U.K.",
+      "description": "Google is rolling out many of Chrome's latest AI features in the UK, starting today.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk",
+      "source": "Blog.google",
+      "publishedAt": "2026-07-14T07:00:00Z"
+    },
+    {
+      "title": "Gemini is officially rolling out to Google Chrome users in the UK",
+      "description": "Google is bringing Gemini in Chrome to more users in the UK, turning the browser into a smarter AI assistant that can summarize, compare, and handle tasks without leaving the page.",
+      "url": "https://www.androidcentral.com/apps-software/gemini-is-officially-rolling-out-to-google-chrome-users-in-the-uk",
+      "source": "Android Central",
+      "publishedAt": "2026-07-14T07:00:00Z"
+    },
+    {
+      "title": "Data Center Chip Market Size to Hit $56.80 Billion by 2035 | SNS Insider",
+      "description": "The U.S. Data Center Chip Market is Projected to Touch $15.27 Billion by 2035, While Europe is Expected to Grow to $17.15 Billion, Driven by Rising AI Infrastructure Investments, Hyperscale Data Center Expansion, Enterprise AI Adoption, and High-Performance G…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326582/0/en/Data-Center-Chip-Market-Size-to-Hit-56-80-Billion-by-2035-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-14T06:30:00Z"
+    },
+    {
+      "title": "obsidian-skills: Teach Claude Code How to Work with Obsidian",
+      "description": "The post obsidian-skills: Teach Claude Code How to Work with Obsidian first appeared on Tecmint: Linux Howtos, Tutorials & Guides .If you’ve ever watched an AI coding agent mess up your Obsidian vault, this can help. I keep my second\nThe post obsidian-skills:…",
+      "url": "https://www.tecmint.com/obsidian-skills-claude-code-linux",
+      "source": "Tecmint.com",
+      "publishedAt": "2026-07-14T05:39:45Z"
+    },
+    {
+      "title": "Pure DC Building Finland AI Data Center, Secures Microsoft Deal",
+      "description": "Oaktree Capital Management-backed UK firm Pure Data Centres is building a data center in Finland that clients including Microsoft Corp. are slated to use, part of a broader effort to ramp up the digital infrastructure necessary for Europe to build and run mor…",
+      "url": "https://financialpost.com/pmn/business-pmn/pure-dc-building-finland-ai-data-center-secures-microsoft-deal",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-14T05:27:43Z"
+    },
+    {
+      "title": "First Microsoft, now Apple: Why do OpenAI and Sam Altman keep breaking up with Big Tech?",
+      "description": "A year ago, OpenAI seemed like it had an untouchable lead in the AI race.\nIt was by far the dominant AI platform for consumers. Competitors like Meta were scrambling — and spending a gazillion dollars on new hires — to catch up. Sam Altman had enough cash, an…",
+      "url": "https://biztoc.com/x/703d300353f05fa4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-14T05:17:29Z"
+    },
+    {
+      "title": "Building Multi-Tenant AI SaaS Applications with ASP.NET Core and Azure OpenAI",
+      "description": "Build scalable AI SaaS with ASP.NET Core & Azure OpenAI. Master multi-tenancy for secure, cost-effective, isolated AI services.",
+      "url": "https://www.c-sharpcorner.com/article/building-multi-tenant-ai-saas-applications-with-asp-net-core-and-azure-openai",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-14T04:24:07Z"
+    },
+    {
+      "title": "Full-Stack AI Applications with Next.js, ASP.NET Core, and OpenAI",
+      "description": "Build full-stack AI apps with Next.js, ASP.NET Core, and OpenAI. Learn architecture, integration, and best practices for scalable, secure AI solutions.",
+      "url": "https://www.c-sharpcorner.com/article/full-stack-ai-applications-with-next-js-asp-net-core-and-openai",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-14T04:14:02Z"
+    },
+    {
+      "title": "Practical AI Testing Strategies: Evaluating LLM and Agent Reliability",
+      "description": "Master AI testing for LLMs & agents. Learn strategies for accuracy, relevance, safety, and reliability in production.",
+      "url": "https://www.c-sharpcorner.com/article/practical-ai-testing-strategies-evaluating-llm-and-agent-reliability",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-14T04:08:14Z"
+    },
+    {
+      "title": "Investors urged to scrutinize bonds funding AI’s $5.8T data center investment",
+      "description": "The rapid bond issuance for AI data centers may strain credit ratings, urging investors to assess financial risks and revenue assumptions carefully.\nThe post Investors urged to scrutinize bonds funding AI’s $5.8T data center investment appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/ai-data-center-bond-market-scrutiny",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-14T03:09:36Z"
+    },
+    {
+      "title": "Data Center Robotics Market to Reach USD 113,432.96 Million by 2035 Amid Hyperscale Expansion and AI-Driven Operations - DC Market Insights",
+      "description": "LONDON, July 14, 2026 /PRNewswire/ -- The \"Data Center Robotics Market – Growth, Share, Opportunities & Competitive Analysis, 2025 – 2035\" report has been added to the DCMI (DC Market Insights) offering. The global Data Center Robotics Market was valued at US…",
+      "url": "https://www.prnewswire.com/news-releases/data-center-robotics-market-to-reach-usd-113-432-96-million-by-2035-amid-hyperscale-expansion-and-ai-driven-operations--dc-market-insights-302824490.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-14T02:58:00Z"
+    },
+    {
+      "title": "Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
+      "description": "The regulator, ​the Office of the Superintendent of Financial Institutions, sent the email to chief technology officers, chief information security officers, and chief risk officers across the financial industry, including the big banks and insurers, accordin…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/canada-regulator-cited-anthropics-claude-mythos-in-warning-to-banks-on-cyber-risks-email-shows/articleshow/132379505.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-14T02:42:48Z"
+    },
+    {
+      "title": "Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using",
+      "description": "Anthropic researchers say they “aren’t yet sure how much of this variation is desirable.”",
+      "url": "https://gizmodo.com/anthropic-says-claudes-values-are-different-depending-on-which-language-youre-using-2000785113",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-07-14T02:35:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」",
+      "Anthropic tokenizer update increases hidden costs for AI coding tasks",
+      "OpenAI GPT-5.6 Sol, Terra, and Luna models launch on Amazon Bedrock",
+      "Google Delays Gemini 3.5 Pro Over Early Performance Flaws",
+      "Anthropic launches India pricing for Claude AI Pro and Max plans"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000142.000029825.html",
+        "https://4sysops.com/archives/anthropic-tokenizer-update-increases-hidden-costs-for-ai-coding-tasks",
+        "https://www.thehindubusinessline.com/info-tech/anthropic-launches-india-pricing-for-claude-ai-pro-and-max-plans/article71220165.ece"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.businessinsider.com/sam-altman-fight-elon-musk-feuding-anthropic-2026-7"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/gmi-cloud-635m-gpu-backed-loan-nvidia",
+        "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
+        "https://cryptobriefing.com/nvidia-halves-asia-buyer-list-china-chip-crackdown"
+      ]
+    },
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/gemini-3-5-pro-delayed",
+        "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk",
+        "https://www.androidcentral.com/apps-software/gemini-is-officially-rolling-out-to-google-chrome-users-in-the-uk"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/openai-gpt-5-6-sol-terra-and-luna-models-launch-on-amazon-bedrock",
+        "https://www.thehindubusinessline.com/info-tech/nvidia-halves-asia-ai-chip-customer-list-ft-reports/article71219836.ece",
+        "https://biztoc.com/x/1a4323806d2c88af"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT・Claude・Gemini を1つの安全な環境で。社労士事務所向けAI業務基盤「SRAISE（スレイズ）」. Main topic cluster: Claude. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
