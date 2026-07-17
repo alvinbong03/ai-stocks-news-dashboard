@@ -1,0 +1,310 @@
+{
+  "theme": "ai",
+  "date": "2026-07-17",
+  "last_updated_utc": "2026-07-17T08:00:47.625Z",
+  "news": [
+    {
+      "title": "Japan is building a massive Rubin GPU datacenter, with a June 2028 target",
+      "description": "Japan's datacenter initiative could significantly boost its AI capabilities, positioning it as a key player in the global AI infrastructure landscape.\nThe post Japan is building a massive Rubin GPU datacenter, with a June 2028 target appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/japan-rubin-gpu-datacenter-2028",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T08:00:16Z"
+    },
+    {
+      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
+      "description": "News Summary: NVIDIA to partner with Noetra Corp. to build the NVIDIA Vera Rubin AI factory with 13,750 Vera CPUs and 27,500 Rubin GPUs to deliver 140 megawatts of data center capacity based ...",
+      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-07-16T08:00:00Z"
+    },
+    {
+      "title": "Alibaba's Amap Unveils ABot-World AI Models That Generate Interactive Video and 3D Scenes for Hours on a Single GPU",
+      "description": "BEIJING, July 16, 2026 /PRNewswire/ -- Amap, Alibaba's location-based services platform, has released a pair of generative AI models that can produce interactive video and three-dimensional scenes in a unified framework, with the ability to run continuously f…",
+      "url": "https://www.prnewswire.com/news-releases/alibabas-amap-unveils-abot-world-ai-models-that-generate-interactive-video-and-3d-scenes-for-hours-on-a-single-gpu-302827320.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-16T07:21:00Z"
+    },
+    {
+      "title": "Grok 4.5 claims second place on FrontierSWE leaderboard, beating Claude Opus 4.8 and GPT-5.5",
+      "description": "Grok 4.5's rise highlights the intensifying AI competition, potentially reshaping software development economics and decentralized compute demand.\nThe post Grok 4.5 claims second place on FrontierSWE leaderboard, beating Claude Opus 4.8 and GPT-5.5 appeared f…",
+      "url": "https://cryptobriefing.com/grok-4-5-frontierswe-leaderboard-ranking",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T07:05:55Z"
+    },
+    {
+      "title": "Microsoft gives salespeople tips to knock down Anthropic, OpenAI",
+      "description": "The world’s largest software company is pitching itself as a platform for corporations to fine-tune, deploy and monitor AI in their businesses",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-16T06:49:24Z"
+    },
+    {
+      "title": "(PR) NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running foundation models at the edge. To meet that need, NVIDIA today…",
+      "url": "https://www.techpowerup.com/350803/nvidia-introduces-new-jetson-thor-computers-to-advance-mainstream-robotics-and-edge-ai",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-16T06:44:13Z"
+    },
+    {
+      "title": "Nvidia partners with Japan robotics firms on AI development",
+      "description": "Nvidia announced a partnership with Japanese companies like Fanuc and Yaskawa Electric. This collaboration aims to advance robotics and artificial intelligence development significantly. Nvidia CEO Jensen Huang attended several events in Tokyo, generating con…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-16T05:43:59Z"
+    },
+    {
+      "title": "Nvidia expands Toyota AI partnership for smart cities, factories",
+      "description": "Extending the reach of AI beyond the data center and integrating it directly into devices and machines is an industrywide focus this year.",
+      "url": "https://biztoc.com/x/d85a2d8c1da28ba9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-16T04:48:11Z"
+    },
+    {
+      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
+      "description": "News Summary:  NVIDIA to partner with Noetra Corp. to build the NVIDIA Vera Rubin AI factory with 13,750 Vera CPUs and 27,500 Rubin GPUs to deliver 140...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328258/0/en/Japan-Government-Industrial-Leaders-and-NVIDIA-Launch-the-World-s-First-National-AI-Infrastructure.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-16T08:00:00Z"
+    },
+    {
+      "title": "Japan to buy 27,500 Nvidia Rubin chips for AI robotics initiative",
+      "description": "Japan's AI robotics push could redefine global tech leadership, driving innovation and investment in AI-native systems across industries.\nThe post Japan to buy 27,500 Nvidia Rubin chips for AI robotics initiative appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/japan-nvidia-rubin-chips-ai-robotics",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T07:54:01Z"
+    },
+    {
+      "title": "Nvidia partners with Japanese robotics firms to advance AI development",
+      "description": "Nvidia's partnerships in Japan could accelerate AI integration in robotics, potentially transforming healthcare, manufacturing, and infrastructure.\nThe post Nvidia partners with Japanese robotics firms to advance AI development appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/nvidia-japan-robotics-ai-partnerships",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T07:49:07Z"
+    },
+    {
+      "title": "VS Code agent host runs Copilot, Claude, and Codex in a dedicated process",
+      "description": "Developers who lean on AI coding agents often keep several editor windows open at once, each tied to its own session. The 1.129 release of Visual Studio Code reworks that setup with a dedicated agent host. A dedicated process for agent sessions The agent host…",
+      "url": "https://www.helpnetsecurity.com/2026/07/16/vs-visual-studio-code-agent-host",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-16T07:45:47Z"
+    },
+    {
+      "title": "Nvidia signs up Japan’s robotics establishment for its open world models",
+      "description": "Nvidia has recruited most of Japan’s industrial robotics establishment into the Cosmos Coalition, the open world-model programme it uses to seed its physical AI stack, in announcements timed to Jensen Huang’s week in Tokyo. Twenty-two companies are named: AIR…",
+      "url": "https://thenextweb.com/news/nvidia-japan-cosmos-coalition-robotics",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-16T07:29:45Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Draws Crowds in Tokyo",
+      "description": "Nvidia CEO Jensen Huang drew crowds in Tokyo after meeting the Japanese companies that power the global AI supply chain. He even stopped to hand out red bean cakes as fans gathered for a glimpse of him.\n--------\nSubscribe to our YouTube channel: \nSubscribe to…",
+      "url": "https://biztoc.com/x/2e97df87091ab9e2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-16T07:05:27Z"
+    },
+    {
+      "title": "Your own ChatGPT, offline: AI without the cloud on your laptop",
+      "description": "An AI chatbot doesn't have to run in the cloud. With LM Studio or Ollama, you can run it right on your laptop, without an internet connection and without your data ever leaving your device. What your hardware needs to be capable of, which model is right for y…",
+      "url": "https://www.notebookcheck.net/Your-own-ChatGPT-offline-AI-without-the-cloud-on-your-laptop.1341872.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-16T07:00:00Z"
+    },
+    {
+      "title": "7月16日(木)放送『Why So Good?』のゲストは、AI×WEB YouTuber兼ディレクターのKEITOさん!ChatGPTリリース初日にAIの世界へ転身した理由を語る",
+      "description": "[まぐまぐ]\n[画像: https://prcdn.freetls.fastly.net/release_image/15257/44/15257-44-161e2c28b55e5592c84fd98daf15a8bf-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000015257.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-16T07:00:00Z"
+    },
+    {
+      "title": "Building AI Applications with Gemini CLI and Gemini Code Assist",
+      "description": "Learn how Gemini CLI and Gemini Code Assist help developers build AI-powered applications, generate code, automate workflows, and improve productivity.",
+      "url": "https://www.c-sharpcorner.com/article/building-ai-applications-with-gemini-cli-and-gemini-code-assist",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-07-16T06:29:00Z"
+    },
+    {
+      "title": "TSMC sees strong AI chip demand, maintains 30% revenue growth outlook for 2026",
+      "description": "TSMC's AI chip demand surge underscores the semiconductor industry's pivotal role in driving future tech growth and investor confidence.\nThe post TSMC sees strong AI chip demand, maintains 30% revenue growth outlook for 2026 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tsmc-sees-strong-ai-chip-demand-maintains-30-revenue-growth-outlook-for-2026",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T06:19:41Z"
+    },
+    {
+      "title": "TSMC highlights AI as key driver of data center CPU demand",
+      "description": "AI's role in CPU demand growth could reshape tech market dynamics, influencing investment trends and competitive strategies among chipmakers.\nThe post TSMC highlights AI as key driver of data center CPU demand appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tsmc-highlights-ai-as-key-driver-of-data-center-cpu-demand",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T06:18:52Z"
+    },
+    {
+      "title": "Anthropic CEO donates $1M to super PAC amid AI funding battle",
+      "description": "The escalating financial influence in AI policy debates could significantly shape future regulatory landscapes, impacting innovation and safety.\nThe post Anthropic CEO donates $1M to super PAC amid AI funding battle appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-ceo-donates-super-pac-ai-funding",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T06:11:55Z"
+    },
+    {
+      "title": "Beyond Nvidia: The hidden winners of the AI investment boom",
+      "description": "The real money in the AI build-out is being made where physical capacity can't keep pace with capital, argues Subho Moulik, Founder & CEO at Appreciate. His test for investors: does a company own a constraint that money cannot quickly relieve? Software can be…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-nvidia-the-hidden-winners-of-the-ai-investment-boom/articleshow/132430800.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-16T05:48:40Z"
+    },
+    {
+      "title": "YEデジタルとNVIDIA、フィジカルAI分野で協業",
+      "description": "[YEデジタル]\n[画像: https://prcdn.freetls.fastly.net/release_image/65567/254/65567-254-f995089ea197b8d54528c16e52c82b36-2056x1159.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000254.000065567.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-16T05:41:22Z"
+    },
+    {
+      "title": "30% of Cathie Wood's Portfolio Is Invested in These 5 Artificial Intelligence (AI) Stocks",
+      "description": "Many of the most famous names on Wall Street are actively looking to capitalize on the fast-growing artificial intelligence (AI) industry. Cathie Wood, the CEO of Ark Investment Management, is perhaps one of the most bullish on AI. Most of the firm's top 10 h…",
+      "url": "https://biztoc.com/x/6382f9eb81e06fcd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-16T05:35:06Z"
+    },
+    {
+      "title": "Anthropic files confidential S-1, eyes potential IPO by end of 2026",
+      "description": "Anthropic's potential IPO could significantly impact the AI industry, influencing market dynamics and investor confidence in tech startups.\nThe post Anthropic files confidential S-1, eyes potential IPO by end of 2026 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-files-confidential-s-1-eyes-potential-ipo-by-end-of-2026",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T05:27:09Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang draws crowds in Tokyo, meets AI supply chain partners",
+      "description": "Nvidia's strategic focus on strengthening AI partnerships in Japan highlights its shift towards diversifying supply chains in Asia.\nThe post Nvidia CEO Jensen Huang draws crowds in Tokyo, meets AI supply chain partners appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-huang-tokyo-ai-supply-chain",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T05:19:21Z"
+    },
+    {
+      "title": "Nvidia partners with Japan robotics firms on AI development",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ef45871d-0502-4aef-862a-2bfcbfe94869",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-16T05:00:54Z"
+    },
+    {
+      "title": "PALIT introduces GeForce RTX 3060 Infinity 2 OC GPU, a 'brand new' design",
+      "description": "As NVIDIA recommenced production of the GeForce RTX 3060, partners are introducing new designs like the Palit GeForce RTX 3060 Infinity 2 OC.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112650/palit-introduces-geforce-rtx-3060-infinity-2-oc-gpu-a-brand-new-design/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-16T04:31:07Z"
+    },
+    {
+      "title": "Show HN: AI Starter Templates in NextJS and OpenAI",
+      "description": "Hey Guys,I've built one of the largest Open Source AI starter templates using Next JS and OpenAI tech stack. It has a wide range of fully functioning applications from Voice AI agents to multimodal Chatbots.Any feedback would be great: https://suhasbhairav.co…",
+      "url": "https://suhasbhairav.com/ai-templates",
+      "source": "Suhasbhairav.com",
+      "publishedAt": "2026-07-16T04:24:04Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Japan is building a massive Rubin GPU datacenter, with a June 2028 target",
+      "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
+      "Alibaba's Amap Unveils ABot-World AI Models That Generate Interactive Video and 3D Scenes for Hours on a Single GPU",
+      "Grok 4.5 claims second place on FrontierSWE leaderboard, beating Claude Opus 4.8 and GPT-5.5",
+      "Microsoft gives salespeople tips to knock down Anthropic, OpenAI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+        "https://www.techpowerup.com/350803/nvidia-introduces-new-jetson-thor-computers-to-advance-mainstream-robotics-and-edge-ai",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-partners-with-japan-robotics-firms-on-ai-development/articleshow/132430720.cms"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/japan-rubin-gpu-datacenter-2028",
+        "https://cryptobriefing.com/tsmc-sees-strong-ai-chip-demand-maintains-30-revenue-growth-outlook-for-2026",
+        "https://cryptobriefing.com/tsmc-highlights-ai-as-key-driver-of-data-center-cpu-demand"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/grok-4-5-frontierswe-leaderboard-ranking"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/alibabas-amap-unveils-abot-world-ai-models-that-generate-interactive-video-and-3d-scenes-for-hours-on-a-single-gpu-302827320.html",
+        "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
+        "https://www.helpnetsecurity.com/2026/07/16/vs-visual-studio-code-agent-host"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan is building a massive Rubin GPU datacenter, with a June 2028 target. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan is building a massive Rubin GPU datacenter, with a June 2028 target. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan is building a massive Rubin GPU datacenter, with a June 2028 target. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan is building a massive Rubin GPU datacenter, with a June 2028 target. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Japan is building a massive Rubin GPU datacenter, with a June 2028 target. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
