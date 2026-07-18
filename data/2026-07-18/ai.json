@@ -1,0 +1,246 @@
+{
+  "theme": "ai",
+  "date": "2026-07-18",
+  "last_updated_utc": "2026-07-18T07:40:46.092Z",
+  "news": [
+    {
+      "title": "Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race",
+      "description": "Google's months-long delay in shipping Gemini 3.5 Pro is hardening a view among investors and its own researchers that the company is slipping behind Anthropic and OpenAI in the contest that increasingly defines frontier AI: writing software. The setback has …",
+      "url": "https://www.digitimes.com/news/a20260717VL211/google-gemini-ai-shipping-anthropic-openai.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-17T06:38:48Z"
+    },
+    {
+      "title": "Anthropic Alleges China-Linked Operators Used 28.8 Million Queries to Extract AI Knowledge",
+      "description": "Anthropic told the Senate Banking Committee that operators affiliated with the Chinese conglomerate Alibaba ran approximately 28.8 million queries on its Claude models through nearly 25,000 fraudulent accounts between April and June, according to a report pub…",
+      "url": "https://www.naturalnews.com/2026-07-17-anthropic-alleges-china-linked-operators-queries-knowledge.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-17T06:00:00Z"
+    },
+    {
+      "title": "Nvidia unveils Thor-based modules for robots and edge AI",
+      "description": "Nvidia has introduced new Thor-based modules aimed at powering robots and autonomous machines as they move into broader commercial use. The launch reflects rising global demand for compact, efficient AI hardware that can run advanced foundation models on-devi…",
+      "url": "https://www.digitimes.com/news/a20260716PR202/nvidia-hardware-commercial-launch-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-17T03:55:54Z"
+    },
+    {
+      "title": "TSMC Just Announced Fantastic News for Nvidia Shareholders - The Motley Fool",
+      "description": "TSMC Just Announced Fantastic News for Nvidia ShareholdersThe Motley Fool TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%CNBC TSMC raises capex and revenue forecast, highlighting growing AI chip demandYahoo Finance TSMC…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184487350",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-17T03:33:02Z"
+    },
+    {
+      "title": "Japan steps up sovereign AI ambitions as Noetra launches multimodal AI project, plans infrastructure of 27,500 Nvidia Rubin GPUs",
+      "description": "Noetra has launched full-scale R&D for a Japan-developed multimodal foundation model, a move that could shape the future of AI robots, industrial automation, and so-called physical AI worldwide. The project highlights Japan's push for sovereign AI, with impli…",
+      "url": "https://www.digitimes.com/news/a20260717PR204/japan-ai-development-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-17T02:29:41Z"
+    },
+    {
+      "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
+      "description": "Two years after Elon Musk made Greater Memphis the center of his artificial intelligence ambitions, building data centers and energy infrastructure at breakneck speed, residents are grappling with unwanted effects, including noise and emissions from the natur…",
+      "url": "https://biztoc.com/x/995fcfbe647a0c61",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T01:37:49Z"
+    },
+    {
+      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini - MacRumors",
+      "description": "EU Orders Google to Give Rival AI Apps the Same Android Access as GeminiMacRumors Google Ordered to Give A.I. Rivals More Access on Android SmartphonesThe New York Times It’s official: EU will force Google to share search data and open up AI on AndroidArs Tec…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184488988",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-17T07:32:51Z"
+    },
+    {
+      "title": "Global Market: AI chip rally faces valuation test as investors rotate towards hyperscalers",
+      "description": "AI chipmaker stock rallies are losing momentum as investors reassess valuations. Hyperscaler capital expenditure growth is projected to slow sharply after this year. Fund managers are rotating capital into hyperscalers and AI-benefiting sectors. Financing AI …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-chip-rally-faces-valuation-test-as-investors-rotate-towards-hyperscalers/articleshow/132455093.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-17T07:11:57Z"
+    },
+    {
+      "title": "Claude Code’s creator offers a better way to measure AI success than token burn",
+      "description": "Boris Cherny, the creator of Claude Code, gave a handy metric for assessing AI success.\nBloomberg/Getty Images\nBoris Cherny says companies should track human hours saved, not just tokens spent.\nThe Claude Code creator's comments come as companies reassess sky…",
+      "url": "https://biztoc.com/x/f2e6324d5a862865",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T06:25:16Z"
+    },
+    {
+      "title": "Claude Code’s creator offers a better way to measure AI success than token burn",
+      "description": "Boris Cherny says companies should track human hours saved, not just tokens spent.",
+      "url": "https://www.businessinsider.com/claude-code-boris-cherny-better-way-measure-ai-success-dashboards-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-17T06:09:45Z"
+    },
+    {
+      "title": "EU Orders Google to Give Rival AI Assistants Same New Android Access as Gemini Under Antitrust Rules",
+      "description": "The EU has ordered Google to open Android to rival AI assistants and share search data with competitors, aiming to enhance competition and innovation under the Digital Markets Act.",
+      "url": "https://www.ibtimes.com.au/eu-orders-google-open-android-rival-ai-assistants-1872439",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-17T06:01:22Z"
+    },
+    {
+      "title": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI – podcast",
+      "description": "Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?\nBy Robert P Baird. Read by Simon Darwen\nRead the tex…",
+      "url": "https://biztoc.com/x/0f72cbd978222a0c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T05:24:36Z"
+    },
+    {
+      "title": "DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad",
+      "description": "DeepSeek raised $7.4 billion in its first external round at a $50B+ valuation, with plans to challenge OpenAI and Anthropic on pricing and global expansion.\nThe post DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad …",
+      "url": "https://cryptobriefing.com/deepseek-raises-7b-challenge-openai-anthropic",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-17T04:48:48Z"
+    },
+    {
+      "title": "WTF is LLM honeypotting?",
+      "description": "Publishers and e-commerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”\nThe term refers to a deception tactic that lures bots into plausible-looking but ultimately useles…",
+      "url": "https://biztoc.com/x/d13d248fbde27535",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T04:09:06Z"
+    },
+    {
+      "title": "WTF is LLM honeypotting?",
+      "description": "Publishers and ecommerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”",
+      "url": "http://digiday.com/media/wtf-is-llm-honeypotting",
+      "source": "Digiday",
+      "publishedAt": "2026-07-17T04:01:00Z"
+    },
+    {
+      "title": "AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director",
+      "description": "Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealth management industry, according to a d…",
+      "url": "https://biztoc.com/x/3b19096b0b82f698",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T03:07:54Z"
+    },
+    {
+      "title": "Google Gemini launch delayed as tech falls short of internal goals",
+      "description": "The delay comes amid fierce competition among AI developers to boost model ‌performance, cut costs ⁠and ⁠expand enterprise capabilities, fueling a steady, industrywide stream of new systems and reasoning ​models.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals/articleshow/132451191.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-17T02:49:25Z"
+    },
+    {
+      "title": "Google Vids just became a far more capable video maker with Gemini Omni",
+      "description": "Google Vids gets a major AI upgrade with Gemini Omni, bringing prompt-based video editing and personal AI avatars.",
+      "url": "https://www.androidauthority.com/google-vids-gets-gemini-omni-3688502",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-17T02:49:24Z"
+    },
+    {
+      "title": "Alphabet Stock Slips on Gemini Delay and EU Order Despite Buffett Bet",
+      "description": "Alphabet stock drops on a Gemini AI delay and a new EU order, testing confidence before next week's earnings.",
+      "url": "https://beincrypto.com/alphabet-stock-gemini-delay-eu-order",
+      "source": "BeInCrypto",
+      "publishedAt": "2026-07-17T02:30:47Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race",
+      "Anthropic Alleges China-Linked Operators Used 28.8 Million Queries to Extract AI Knowledge",
+      "Nvidia unveils Thor-based modules for robots and edge AI",
+      "TSMC Just Announced Fantastic News for Nvidia Shareholders - The Motley Fool",
+      "Japan steps up sovereign AI ambitions as Noetra launches multimodal AI project, plans infrastructure of 27,500 Nvidia Rubin GPUs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260717VL211/google-gemini-ai-shipping-anthropic-openai.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184488988",
+        "https://www.ibtimes.com.au/eu-orders-google-open-android-rival-ai-assistants-1872439"
+      ]
+    },
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://beincrypto.com/alphabet-stock-gemini-delay-eu-order"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-17-anthropic-alleges-china-linked-operators-queries-knowledge.html",
+        "https://cryptobriefing.com/deepseek-raises-7b-challenge-openai-anthropic"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260716PR202/nvidia-hardware-commercial-launch-demand.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184487350",
+        "https://www.digitimes.com/news/a20260717PR204/japan-ai-development-infrastructure.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race. Main topic cluster: Google. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race. Main topic cluster: Google. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race. Main topic cluster: Google. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race. Main topic cluster: Google. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race. Main topic cluster: Google. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
