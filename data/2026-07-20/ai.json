@@ -1,0 +1,212 @@
+{
+  "theme": "ai",
+  "date": "2026-07-20",
+  "last_updated_utc": "2026-07-20T08:48:55.769Z",
+  "news": [
+    {
+      "title": "OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'",
+      "description": "\"OpenAI has finally confirmed reports that its latest family of large language models can accidentally delete files,\" reports InfoWorld, \"while stressing that such incidents are rare and should be viewed as 'honest mistakes.'\"\n\n\n\nReports of the flagship LLMs …",
+      "url": "https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-19T01:34:00Z"
+    },
+    {
+      "title": "Can AI industry survive if OpenAI collapses?",
+      "description": "OpenAI drives the current AI boom, but critics warn its downfall could ripple through tech giants like Microsoft, Nvidia, Oracle, and Amazon, reshaping the industry's landscape.",
+      "url": "https://www.newsbytesapp.com/news/business/openai-s-potential-collapse-could-rival-lehman-brothers-s-downfall-ai-researcher/story",
+      "source": "NewsBytes",
+      "publishedAt": "2026-07-19T08:40:30Z"
+    },
+    {
+      "title": "Claude tests AI-assisted forecasting in World Cup prediction contest",
+      "description": "Anthropic's Claude ran 50,000 World Cup simulations using historical data back to 1872. Here's what AI forecasting means for sports analytics and prediction\nThe post Claude tests AI-assisted forecasting in World Cup prediction contest appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/claude-ai-world-cup-prediction-contest",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-19T07:34:07Z"
+    },
+    {
+      "title": "Moonshot AI’s Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic",
+      "description": "Moonshot AI's Yang Zhilin unveiled Kimi K3 at GTC 2026, a 2.8T-parameter open-weight AI model backed by $2B in funding and a $20B valuation.\nThe post Moonshot AI’s Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic appeared first on …",
+      "url": "https://cryptobriefing.com/moonshot-ai-kimi-k3-gtc-2026-launch",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-19T04:33:19Z"
+    },
+    {
+      "title": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia",
+      "description": "The AI chip trade has cracked this month. Micron Technology has dropped about 32% in three weeks. Broadcom sits roughly 24% below its 52-week high. Even Nvidia (NASDAQ: NVDA), which has held up better than most, is down about 12% from its high as of this writ…",
+      "url": "https://biztoc.com/x/263e13fbd674edb9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-19T03:18:58Z"
+    },
+    {
+      "title": "OpenAI and Anthropic address enterprise data privacy concerns, but the real risk is your employees",
+      "description": "OpenAI and Anthropic don't train on enterprise data by default, but employee use of consumer AI accounts creates major corporate privacy risks.\nThe post OpenAI and Anthropic address enterprise data privacy concerns, but the real risk is your employees appeare…",
+      "url": "https://cryptobriefing.com/openai-anthropic-enterprise-data-privacy",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-18T21:36:51Z"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "description": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "source": "Github.com",
+      "publishedAt": "2026-07-19T07:54:39Z"
+    },
+    {
+      "title": "Apple surpasses Nvidia as most valuable company amid AI market shift",
+      "description": "Apple surpasses Nvidia as the most valuable company at $4.88 trillion. Apple largest by July 31 at 44% YES.\nThe post Apple surpasses Nvidia as most valuable company amid AI market shift appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/apple-surpasses-nvidia-as-most-valuable-company-amid-ai-market-shift",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-19T03:34:02Z"
+    },
+    {
+      "title": "This Cheap Accessory Can Protect Your Nvidia GPU From Serious Damage",
+      "description": "Larger, more powerful graphics cards come with their own physical limitations, but one cheap accessory can help with cards that are too large.",
+      "url": "https://www.bgr.com/2215269/nvidia-gpu-cheap-amazon-accessory-protect-from-damage",
+      "source": "BGR",
+      "publishedAt": "2026-07-19T02:17:00Z"
+    },
+    {
+      "title": "5 Nvidia App Settings You Should Change ASAP",
+      "description": "If you want your latest Nvidia GPU to perform at its absolute best, tweaking a few settings in the Nvidia app can help. Here are the ones worth changing.",
+      "url": "https://www.bgr.com/2214822/nvidia-app-settings-you-should-change",
+      "source": "BGR",
+      "publishedAt": "2026-07-19T00:47:00Z"
+    },
+    {
+      "title": "South Korea’s $518 billion AI chip bet is reshaping global markets and pulling capital from crypto",
+      "description": "Samsung and SK Hynix plan to invest $518 billion in AI chip infrastructure, driving capital rotation from crypto into semiconductors and reshaping global\nThe post South Korea’s $518 billion AI chip bet is reshaping global markets and pulling capital from cryp…",
+      "url": "https://cryptobriefing.com/south-korea-ai-chip-investment-crypto-impact",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-19T00:35:38Z"
+    },
+    {
+      "title": "Trump Slams New York Data Center Moratorium as 'Terrible Decision' While Bill Ackman Points to AI Race With China and Says, 'Democracy at Risk'",
+      "description": "On Wednesday, President Donald Trump, hedge fund billionaire Bill Ackman and entrepreneur Anthony Pompliano criticized New York’s decision to temporarily hal...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-slams-york-data-center-003119930.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-19T00:31:19Z"
+    },
+    {
+      "title": "Anthropic merges Chat and Cowork modes into unified Claude interface",
+      "description": "Anthropic merges Claude's Chat and Cowork modes into a unified interface with local file access and persistent memory, rolling out first to Max plan users.\nThe post Anthropic merges Chat and Cowork modes into unified Claude interface appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/anthropic-claude-chat-cowork-interface-update",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-18T22:23:58Z"
+    },
+    {
+      "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "description": "Nvidia went on an incredible run to become the world's most valuable publicly traded company, but its 11% year-to-date return looks pedestrian compared to some of the other AI stocks that have been capturing headlines in recent months.\nThe three growth stocks…",
+      "url": "https://biztoc.com/x/c5507fdddaea6900",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-18T22:14:53Z"
+    },
+    {
+      "title": "Kimi K3 matches top public models in agent-programming scenarios, says OpenAI strategist",
+      "description": "Moonshot AI's Kimi K3, a 2.8-trillion-parameter open-source model, matches top public models in agentic coding tasks, with implications for decentralized AI\nThe post Kimi K3 matches top public models in agent-programming scenarios, says OpenAI strategist appe…",
+      "url": "https://cryptobriefing.com/kimi-k3-matches-top-models-agent-programming",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-18T22:03:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'",
+      "Can AI industry survive if OpenAI collapses?",
+      "Claude tests AI-assisted forecasting in World Cup prediction contest",
+      "Moonshot AI’s Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic",
+      "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/claude-ai-world-cup-prediction-contest",
+        "https://cryptobriefing.com/moonshot-ai-kimi-k3-gtc-2026-launch",
+        "https://cryptobriefing.com/openai-anthropic-enterprise-data-privacy"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake",
+        "https://www.newsbytesapp.com/news/business/openai-s-potential-collapse-could-rival-lehman-brothers-s-downfall-ai-researcher/story",
+        "https://github.com/openai/codex/pull/33972/files"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/263e13fbd674edb9",
+        "https://www.bgr.com/2215269/nvidia-gpu-cheap-amazon-accessory-protect-from-damage",
+        "https://www.bgr.com/2214822/nvidia-app-settings-you-should-change"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'. Main topic cluster: Post. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'. Main topic cluster: Post. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'. Main topic cluster: Post. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'. Main topic cluster: Post. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'. Main topic cluster: Post. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
