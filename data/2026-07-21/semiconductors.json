@@ -1,0 +1,468 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-07-21",
+  "last_updated_utc": "2026-07-21T08:18:14.846Z",
+  "news": [
+    {
+      "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c677416-9244-4152-9cee-e713061aa896",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-20T08:15:18Z"
+    },
+    {
+      "title": "Yimu Tech raises over RMB1 billion for robot tactile sensing and production",
+      "description": "Yimu Tech, a Chinese developer of tactile sensing hardware and software for embodied-intelligence systems, has completed a Series E financing round of more than RMB1 billion, bringing its valuation above RMB10 billion. The financing was jointly backed by mult…",
+      "url": "http://technode.com/2026/07/20/yimu-tech-raises-over-rmb1-billion-for-robot-tactile-sensing-and-production",
+      "source": "TechNode",
+      "publishedAt": "2026-07-20T08:09:59Z"
+    },
+    {
+      "title": "TSMC posts 77% profit surge as CFO bets the company’s future on AI megatrends",
+      "description": "TSMC reported Q2 2026 net income surging 77.4% as CFO Wendell Huang doubled down on AI megatrends with $100 billion Arizona expansion and raised CapEx\nThe post TSMC posts 77% profit surge as CFO bets the company’s future on AI megatrends appeared first on Cry…",
+      "url": "https://cryptobriefing.com/tsmc-cfo-profitable-growth-ai-megatrends",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-20T08:08:27Z"
+    },
+    {
+      "title": "Samsung to cut over 800 US jobs amid market headwinds",
+      "description": "Samsung Electronics is cutting over 800 jobs in the US from its smartphone, display, and consumer electronics business units. The division, part of Samsung Group, is facing a challenging market this year, in contrast to the soaring performance of its chip uni…",
+      "url": "https://www.digitimes.com/news/a20260720VL221/samsung-electronics-market-mobile-texas.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-20T08:04:33Z"
+    },
+    {
+      "title": "Musk brands US$52 billion SpaceX-Foxconn Nvidia server order 'fake news'",
+      "description": "Elon Musk has publicly rejected reports that SpaceX placed a roughly US$52 billion order with Foxconn for Nvidia GB300 AI servers, calling the widely circulated claim \"fake news\" in a post on X on July 20.",
+      "url": "https://www.digitimes.com/news/a20260720VL220/spacex-elon-musk-foxconn-nvidia-ai-server-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-20T08:04:30Z"
+    },
+    {
+      "title": "Introducing KNFSD File Cache - Now in Preview",
+      "description": "Today, AWS announces the availability of KNFSD File Cache, an open-source, Apache-2.0 licensed solution for deploying a scalable, high-speed Network File System (NFS) cache on AWS. KNFSD File Cache mounts exports from one or more source NFS servers, whether o…",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache",
+      "source": "Amazon.com",
+      "publishedAt": "2026-07-20T08:00:00Z"
+    },
+    {
+      "title": "Official Statistics: Strategic export controls: licensing statistics 1 January to 31 March 2026",
+      "description": "Export control licensing data for 1 January to 31 March 2026.",
+      "url": "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-07-20T07:59:26Z"
+    },
+    {
+      "title": "Dutch company ASML is $300bn from a trillion. AI could close the gap",
+      "description": "ASML has spent 2026 getting steadily, expensively larger. The Dutch company whose machines print the world’s most advanced chips is now Europe’s most valuable listed business, worth around $700bn (€600bn), and enough of the investors who own it now say the ne…",
+      "url": "https://thenextweb.com/news/asml-europe-first-trillion-dollar-company",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-20T07:57:40Z"
+    },
+    {
+      "title": "Commentary: China's DRAM comes of age with CXMT's IPO — but a trio of hurdles remains",
+      "description": "CXMT's STAR Market IPO marks a coming-of-age moment for China's DRAM industry, but the listing is only the beginning. Having proved China can manufacture DRAM, the memory chip maker must now compete directly with Samsung Electronics, SK Hynix, and Micron in t…",
+      "url": "https://www.digitimes.com/news/a20260717PD221/cxmt-ipo-dram-hbm-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-20T07:52:12Z"
+    },
+    {
+      "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+      "description": "Bitcoin dips to $63,900 as markets weigh oil and lingering AI selloff\nBitcoin slipped to about $63,900 on Monday, down 1.3% on the day though still up 2% on the week, as crypto stayed caught between a war driving oil higher and the Chinese AI shock that hit c…",
+      "url": "https://biztoc.com/x/cb011bb83c150573",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T07:40:31Z"
+    },
+    {
+      "title": "Micron: It Does Not Need To Beat SK hynix At Nvidia",
+      "description": "Summary\n- Micron Technology is rated Buy, with upside driven by expanding HBM demand beyond Nvidia, particularly from hyperscaler custom AI accelerators.\n- MU targets maintaining a ~22% HBM market share, matching its DRAM share, as custom ASICs become a large…",
+      "url": "https://biztoc.com/x/0ae90ea2b0e52c14",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T07:40:16Z"
+    },
+    {
+      "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+      "description": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin\nDays after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.\n- Moonshot AI is seeking sha…",
+      "url": "https://biztoc.com/x/f2ed4958e66bff91",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T07:40:13Z"
+    },
+    {
+      "title": "Samsung to reportedly produce more Galaxy Z Fold8 Wide units than Fold8 Ultra and Flip8",
+      "description": "Ahead of Samsung's Galaxy Unpacked event on July 22, a new supply chain report has revealed the company's planned production volumes for its upcoming Galaxy Z foldable smartphones.\n\nThe report, citing industry sources, claims that Samsung has set a higher pro…",
+      "url": "https://www.gsmarena.com/samsung_to_reportedly_produce_more_galaxy_z_fold8_wide_units_than_fold8_ultra_and_flip8-news-73789.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-07-20T07:22:41Z"
+    },
+    {
+      "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+      "description": "War drives oil up, the Kimi selloff drags chips down, and bitcoin sits between them.",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-20T07:15:47Z"
+    },
+    {
+      "title": "Google is going toe-to-toe with Nvidia as AI chip war cranks up",
+      "description": "Google is escalating its campaign to break Nvidia Corp's (NASDAQ:NVDA, XETRA:NVD) grip on artificial intelligence chips, deploying creative dealmaking to push its Tensor Processing Units (TPUs) into the wider market.\nThe strategy, detailed in exclusive report…",
+      "url": "https://biztoc.com/x/c4a8837562ac5bb5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T07:09:39Z"
+    },
+    {
+      "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+      "description": "Days after Kimi K3 rattled chip stocks, Moonshot is moving toward a Hong Kong listing at a $30 billion-plus valuation while Alibaba's Qwen goes open-weight.",
+      "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-20T07:08:07Z"
+    },
+    {
+      "title": "US equity funds see first weekly outflow in three weeks as chip selloff weighs on sentiment",
+      "description": "US equity funds saw their first weekly outflow in three weeks, with a net $4.8 billion pulled amid a semiconductor selloff and US-Iran tensions, even as bond funds extended their winning streak to 13 weeks and money market funds recorded their largest outflow…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-first-weekly-outflow-in-three-weeks-as-chip-selloff-weighs-on-sentiment/articleshow/132508449.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T07:01:56Z"
+    },
+    {
+      "title": "HP EliteBook 830 G7 13\" (2020) i7 1.8GHz 8GB RAM 256GB SSD WIN11Pro (Refurbished) for $364",
+      "description": "Expires July 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 63% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPremium Ultra-Portable HP EliteBook Laptop with Intel i7 Core\r\n\nElevate your professional workflow with the HP EliteBook 830 G7, a prem…",
+      "url": "https://deals.androidguys.com/sales/hp-elitebook-830-g7-13-2020-i7-1-8ghz-8gb-ram-256gb-ssd-win11p-refurb?aid=",
+      "source": "AndroidGuys",
+      "publishedAt": "2026-07-20T07:00:01Z"
+    },
+    {
+      "title": "HP EliteBook 830 G7 13\" (2020) i7 1.8GHz 8GB RAM 256GB SSD WIN11Pro (Refurbished) for $364",
+      "description": "Expires July 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 63% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPremium Ultra-Portable HP EliteBook Laptop with Intel i7 Core\r\n\nElevate your professional workflow with the HP EliteBook 830 G7, a prem…",
+      "url": "https://store.boingboing.net/sales/hp-elitebook-830-g7-13-2020-i7-1-8ghz-8gb-ram-256gb-ssd-win11p-refurb?aid=",
+      "source": "Boing Boing",
+      "publishedAt": "2026-07-20T07:00:01Z"
+    },
+    {
+      "title": "HP EliteBook 830 G7 13\" (2020) i7 1.8GHz 8GB RAM 256GB SSD WIN11Pro (Refurbished) for $364",
+      "description": "Expires July 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 63% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPremium Ultra-Portable HP EliteBook Laptop with Intel i7 Core\r\n\nElevate your professional workflow with the HP EliteBook 830 G7, a prem…",
+      "url": "https://deals.androidauthority.com/sales/hp-elitebook-830-g7-13-2020-i7-1-8ghz-8gb-ram-256gb-ssd-win11p-refurb?aid=",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-20T07:00:01Z"
+    },
+    {
+      "title": "HP EliteBook 830 G7 13\" (2020) i7 1.8GHz 8GB RAM 256GB SSD WIN11Pro (Refurbished) for $364",
+      "description": "Expires July 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 63% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPremium Ultra-Portable HP EliteBook Laptop with Intel i7 Core\r\n\nElevate your professional workflow with the HP EliteBook 830 G7, a prem…",
+      "url": "https://deals.geekdad.com/sales/hp-elitebook-830-g7-13-2020-i7-1-8ghz-8gb-ram-256gb-ssd-win11p-refurb?aid=",
+      "source": "Geekdad.com",
+      "publishedAt": "2026-07-20T07:00:01Z"
+    },
+    {
+      "title": "HP EliteBook 830 G7 13\" (2020) i7 1.8GHz 8GB RAM 256GB SSD WIN11Pro (Refurbished) for $364",
+      "description": "Expires July 21, 2126 07:59 PST\n\n\n\n\n Buy now and get 63% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPremium Ultra-Portable HP EliteBook Laptop with Intel i7 Core\r\n\nElevate your professional workflow with the HP EliteBook 830 G7, a prem…",
+      "url": "https://deals.cultofmac.com/sales/hp-elitebook-830-g7-13-2020-i7-1-8ghz-8gb-ram-256gb-ssd-win11p-refurb?aid=",
+      "source": "Cult of Mac",
+      "publishedAt": "2026-07-20T07:00:01Z"
+    },
+    {
+      "title": "Rapidus taps Cadence AI agents to speed 2nm chip design",
+      "description": "Japanese foundry Rapidus is integrating Cadence's AI-agent technology into its chip design platform as it seeks to shorten development cycles and attract customers for its planned 2nm manufacturing service.",
+      "url": "https://www.digitimes.com/news/a20260720VL211/rapidus-cadence-2nm-design-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-20T06:58:31Z"
+    },
+    {
+      "title": "Apple planned a monster Mac Pro, then killed it",
+      "description": "Apple explored Extreme chips and other ambitious Mac Pro upgrades before scrapping the machine altogether due to high costs and weak demand.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+      "url": "https://www.cultofmac.com/news/apple-planned-monster-mac-pro-then-killed-it",
+      "source": "Cult of Mac",
+      "publishedAt": "2026-07-20T06:44:50Z"
+    },
+    {
+      "title": "China’s rare-earth magnet shipments to US remain stubbornly low despite trade truce",
+      "description": "US rare-earth magnet imports from China dropped 22% in early 2026 despite a trade truce, while European imports recovered faster, raising supply chain\nThe post China’s rare-earth magnet shipments to US remain stubbornly low despite trade truce appeared first …",
+      "url": "https://cryptobriefing.com/china-rare-earth-magnet-shipments-us-low",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-20T06:44:03Z"
+    },
+    {
+      "title": "Inside the labour supply chain fueling illegal Bangladeshi infiltration",
+      "description": "Illegal immigrants from Bangladesh enter India through a planned labor supply chain. Agents facilitate border crossings and transportation to various Indian job locations. Indian employers recruit these workers for sectors like textiles and construction. Fake…",
+      "url": "https://economictimes.indiatimes.com/news/india/inside-the-labour-supply-chain-fueling-illegal-bangladeshi-infiltration/articleshow/132507551.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T06:31:53Z"
+    },
+    {
+      "title": "Shanghai Composite Steadies Near 11-Month Low as Chinese Chip and AI Stocks Try to Find Their Footing",
+      "description": "Shanghai's stock market stabilised after a sharp selloff in tech shares, driven by global AI valuation concerns and upcoming major IPOs. Investors remain cautious amid geopolitical tensions and market volatility.",
+      "url": "https://www.ibtimes.com.au/shanghai-stock-market-stabilises-tech-selloff-1872630",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-20T06:28:38Z"
+    },
+    {
+      "title": "Asian markets mixed as AI selloff deepens; South Korea's Kospi slides nearly 5%",
+      "description": "Asian markets mixed as AI-linked tech stocks extend selloff, South Korea's Kospi drops nearly 5%, while Middle East tensions lift oil above US$90 and investors watch Nvidia, TSMC, and global equities",
+      "url": "https://www.emirates247.com/business/asian-markets-mixed-as-ai-selloff-deepens-south-koreas-kospi-slides-nearly-5/3788",
+      "source": "Emirates 24|7",
+      "publishedAt": "2026-07-20T06:27:02Z"
+    },
+    {
+      "title": "Global Market: Citi downgrades South Korea to neutral as AI chip volatility mounts",
+      "description": "Citigroup has downgraded South Korea to neutral after a year-long overweight stance, citing heightened volatility in AI-linked chip stocks and stretched valuations. While remaining positive on the long-term AI theme, the brokerage retained an overweight ratin…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-citi-downgrades-south-korea-to-neutral-as-ai-chip-volatility-mounts/articleshow/132507751.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T06:24:28Z"
+    },
+    {
+      "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+      "description": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers\nBrent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.\n- Bitcoin hovered around $64,200 on Monday…",
+      "url": "https://biztoc.com/x/8d24bad24b8c8b7e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T06:24:07Z"
+    },
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable firm",
+      "description": "Apple overtook Nvidia on Friday to become the world's most valuable company, reshuffling the top ranks of tech heavyweights as investors reassess the outlook for artificial intelligence.",
+      "url": "https://www.rte.ie/news/business/2026/0720/1584137-apple-unseats-nvidia-to-become-worlds-most-valuable-firm",
+      "source": "RTE",
+      "publishedAt": "2026-07-20T06:22:25Z"
+    },
+    {
+      "title": "Global Market: ASML's AI-fuelled rally raises prospects of becoming Europe's first trillion-dollar company",
+      "description": "The artificial intelligence boom has propelled Dutch chip equipment maker ASML to become Europe's most valuable listed technology company, with investors increasingly betting it could become the continent's first trillion-dollar company. Strong AI-driven dema…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asmls-ai-fuelled-rally-raises-prospects-of-becoming-europes-first-trillion-dollar-company/articleshow/132507707.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T06:20:57Z"
+    },
+    {
+      "title": "Bezos backs AI startup to discover new materials for chipmaking",
+      "description": "Chad Edwards, CuspAI’s co-founder and chief executive, said much of that funding will go towards supporting labs with foundry partners in Cambridge, Singapore and the San Francisco Bay area",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/bezos-backs-startup-focused-on-material-discovery-for-chipmaking",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-20T06:18:58Z"
+    },
+    {
+      "title": "Big tech earnings to test AI rally as markets enter crucial week",
+      "description": "Wall Street enters one of its most important weeks of the second-quarter earnings season, with Alphabet, Tesla and Intel set to report their financial results. The earnings come at a time when investors are reassessing the strength of the AI-driven rally amid…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/big-tech-takes-centre-stage/slideshow/132509263.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-07-20T06:04:50Z"
+    },
+    {
+      "title": "Big tech earnings to test AI rally as markets enter crucial week",
+      "description": "The recent pullback in AI and semiconductor stocks has raised questions about whether lofty valuations remain justified. Investors are looking for strong earnings, optimistic guidance and continued AI-related spending to restore confidence in the technology s…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/why-this-earnings-season-matters/slideshow/132509150.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-07-20T06:04:50Z"
+    },
+    {
+      "title": "Big tech earnings to test AI rally as markets enter crucial week",
+      "description": "Market participants will pay close attention to AI-related capital spending, cloud computing growth, semiconductor demand and companies' outlook for the second half of the year. Management commentary on margins, revenue growth and future investment plans will…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/market-watch-investors-eye-tariff-talks-economic-indicators-forex-decline-earnings/slideshow/132507486.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-07-20T06:04:50Z"
+    },
+    {
+      "title": "NVIDIA RTX Spark 'Developer Preview' driver lets devs get their apps ready for the new Windows on Arm devices",
+      "description": "NVIDIA has released its first 'Developer Preview' driver for RTX Spark so that developers can get their apps up and running on the Windows on Arm chip.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112704/nvidia-rtx-spark-developer-preview-driver-lets-devs-get-their-apps-ready-for-the-new-windows-on-arm-devices/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-20T06:01:07Z"
+    },
+    {
+      "title": "'Slow, pricey' franchised dealers being overlooked for repairs",
+      "description": "Fleet operators are increasingly looking beyond manufacturer partners to keep their vehicles on the road\n\nCompany car downtime dropped to a six-year low in the first quarter of 2026, as fleets diverted work away from franchised dealers amid ongoing pressure o…",
+      "url": "https://www.autocar.co.uk/car-news/company-cars/slow-pricey-franchised-dealers-being-overlooked-repairs",
+      "source": "Autocar",
+      "publishedAt": "2026-07-20T06:00:00Z"
+    },
+    {
+      "title": "Nikkei 225 Plunges Into Correction Territory as Global AI and Semiconductor Selloff Rocks Tokyo Stocks",
+      "description": "Japan's Nikkei 225 index fell over 11% from its June peak due to a global selloff in AI and semiconductor stocks, influenced by Wall Street declines and geopolitical tensions.",
+      "url": "https://www.ibtimes.com.au/nikkei-225-plunges-global-ai-semiconductor-selloff-1872623",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-20T05:55:17Z"
+    },
+    {
+      "title": "KOSPI Sinks Nearly 5% Into Technical Bear Market as Chip Stocks Slide and Iran War Escalates Sharply",
+      "description": "South Korea's KOSPI index fell nearly 5% as AI and semiconductor stocks declined, driven by global competition and escalating US-Iran tensions affecting oil prices.",
+      "url": "https://www.ibtimes.com.au/kospi-index-plummets-ai-semiconductor-selloff-1872621",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-20T05:50:05Z"
+    },
+    {
+      "title": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry",
+      "description": "SHANGHAI, July 20, 2026 /PRNewswire/ -- Following the landmark success of CPHI & PMEC China in June 2026, which welcomed an unprecedented gathering of industry professionals and fostered pivotal connections across the pharmaceutical supply chain, attention no…",
+      "url": "https://www.prnewswire.com/news-releases/fostering-new-opportunities-in-the-greater-bay-area-and-asias-pharmaceutical-industry-302829388.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-20T05:47:00Z"
+    },
+    {
+      "title": "Global Market: China stocks rebound as state support boosts sentiment, tech shares remain under pressure",
+      "description": "Chinese equities rebounded after steep losses last week as signs of government-backed support lifted investor confidence and sparked buying in traditional sectors. While state intervention helped broader markets recover, technology and semiconductor stocks re…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rebound-as-state-support-boosts-sentiment-tech-shares-remain-under-pressure/articleshow/132506964.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T05:39:06Z"
+    },
+    {
+      "title": "One of NVIDIA CEO Jensen Huang's leather jackets sells for close to $1 million at a charity auction",
+      "description": "Described as the 'symbol of his leadership style,' NVIDIA CEO Jensen Huang's leather jacket brings in close to $1 million at a recent charity auction.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112703/one-of-nvidia-ceo-jensen-huangs-leather-jackets-sells-for-close-to-dollars1-million-at-a-charity-auction/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-20T05:34:04Z"
+    },
+    {
+      "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+      "description": "Brent jumped almost 4% on escalating U.S.-Iran strikes, while Asian chip stocks stayed under pressure from Friday's Chinese AI shock.",
+      "url": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-20T05:31:43Z"
+    },
+    {
+      "title": "Apple MacBook Pro: 16\", M4 Max, 48GB RAM, 1TB SSD SSD $3299 (0 replies)",
+      "description": "Apple MacBook Pro 16 inch Laptop Apple M4 Max chip Built for Apple Intelligence 48GB Memory 1TB SSD Silver MX2W3LL/A - Best Buy\n\nhttps://www.bestbuy.com/product/a...JJGCQ8HQH7",
+      "url": "https://slickdeals.net/f/19784082-apple-macbook-pro-16-m4-max-48gb-ram-1tb-ssd-ssd-3299",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-07-20T05:26:06Z"
+    },
+    {
+      "title": "Asia-Pacific mixed as earnings season heats up",
+      "description": "Asia-Pacific stocks were mixed on Monday as investors braced for a packed week of corporate earnings, with heavyweight names like General Motors, Tesla, Alphabet, Intel, and Blackstone set to take cen...",
+      "url": "https://biztoc.com/x/1b61ab2e274f0f1d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-20T05:23:30Z"
+    },
+    {
+      "title": "CyberPowerPC Gaming Desktop: Ryzen 7 8700F, RX 7700 (16GB), 16GB DDR5, 1TB SSD SSD $1199.99",
+      "description": "CyberPowerPC Gaming Desktop AMD Ryzen 7 8700F 2024 AMD Radeon RX 7700 16GB 16GB DDR5 Memory 1TB SSD Storage Black GMA6000BSTV5 - Best Buy \n \nhttps://www.bestbuy.com/product/c...J3L7GQWRWR",
+      "url": "https://slickdeals.net/f/19784067-cyberpowerpc-gaming-desktop-ryzen-7-8700f-rx-7700-16gb-16gb-ddr5-1tb-ssd-ssd-1199-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-07-20T05:22:21Z"
+    },
+    {
+      "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+      "description": "After blowout second quarter earnings, investors and ​analysts are asking a once far-fetched question: could ASML become Europe's first ever trillion-dollar firm?",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/could-ai-chip-boom-make-asml-europes-first-trillion-dollar-firm/articleshow/132506721.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T05:21:48Z"
+    },
+    {
+      "title": "LABC Sandwich & Coffee",
+      "description": "Contributed by Blaze TypeIGO STUDIO. License: All Rights Reserved. Located in Marseille’s vibrant and hybrid Notre-Dame-du-Mont neighborhood, LABC has just unveiled its new visual identity. Occupying the premises of a former local vinyl store, the venue has b…",
+      "url": "https://fontsinuse.com/uses/78521/labc-sandwich-and-coffee",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-07-20T05:20:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+      "Yimu Tech raises over RMB1 billion for robot tactile sensing and production",
+      "TSMC posts 77% profit surge as CFO bets the company’s future on AI megatrends",
+      "Samsung to cut over 800 US jobs amid market headwinds",
+      "Musk brands US$52 billion SpaceX-Foxconn Nvidia server order 'fake news'"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c677416-9244-4152-9cee-e713061aa896",
+        "https://www.digitimes.com/news/a20260720VL221/samsung-electronics-market-mobile-texas.html",
+        "https://www.digitimes.com/news/a20260717PD221/cxmt-ipo-dram-hbm-technology.html"
+      ]
+    },
+    {
+      "title": "Investors",
+      "summary": "Grouped stories where \"investors\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/asml-europe-first-trillion-dollar-company",
+        "https://www.emirates247.com/business/asian-markets-mixed-as-ai-selloff-deepens-south-koreas-kospi-slides-nearly-5/3788",
+        "https://www.rte.ie/news/business/2026/0720/1584137-apple-unseats-nvidia-to-become-worlds-most-valuable-firm"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/tsmc-cfo-profitable-growth-ai-megatrends",
+        "https://cryptobriefing.com/china-rare-earth-magnet-shipments-us-low",
+        "https://www.autocar.co.uk/car-news/company-cars/slow-pricey-franchised-dealers-being-overlooked-repairs"
+      ]
+    },
+    {
+      "title": "Tech",
+      "summary": "Grouped stories where \"tech\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "http://technode.com/2026/07/20/yimu-tech-raises-over-rmb1-billion-for-robot-tactile-sensing-and-production",
+        "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/market-watch-investors-eye-tariff-talks-economic-indicators-forex-decline-earnings/slideshow/132507486.cms",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rebound-as-state-support-boosts-sentiment-tech-shares-remain-under-pressure/articleshow/132506964.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260720VL220/spacex-elon-musk-foxconn-nvidia-ai-server-2026.html",
+        "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache",
+        "https://www.gov.uk/government/statistics/announcements/strategic-export-controls-licensing-statistics-1-january-to-31-march-2026"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Could AI chip boom make ASML Europe's first trillion-dollar firm?. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Could AI chip boom make ASML Europe's first trillion-dollar firm?. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Could AI chip boom make ASML Europe's first trillion-dollar firm?. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Could AI chip boom make ASML Europe's first trillion-dollar firm?. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Could AI chip boom make ASML Europe's first trillion-dollar firm?. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
