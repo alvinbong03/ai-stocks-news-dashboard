@@ -1,0 +1,295 @@
+{
+  "theme": "ai",
+  "date": "2026-07-23",
+  "last_updated_utc": "2026-07-23T08:22:01.143Z",
+  "news": [
+    {
+      "title": "GPT, Claude, Gemini & more—all in one app for just $29.99",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR: Get ChatOn Multi-AI Assistant Premium for $29.99 (reg. $39.99) and enjoy one year of access to multiple leading AI models, image and video generation, document tools, and real-time web search.\r\n\n\n\n\nUsing AI has become part of everyday …",
+      "url": "https://www.macworld.com/article/3195156/gpt-claude-gemini-more-all-in-one-app-for-just-29-99.html",
+      "source": "Macworld",
+      "publishedAt": "2026-07-22T08:00:00Z"
+    },
+    {
+      "title": "Z.AI Prepares August 2026 Launch for GLM 5.5 to Target ChatGPT and Claude",
+      "description": "The upcoming release of Z.AI’s GLM 5.5 is set to introduce significant advancements in artificial intelligence, boasting over 1 trillion parameters and an extended token context window of 1 million tokens. These features position it as a direct competitor to …",
+      "url": "https://www.geeky-gadgets.com/glm-5-5-release-details",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-22T06:44:00Z"
+    },
+    {
+      "title": "OpenAI: Our Tech Carried Out 'Unprecedented Cyber Incident'",
+      "description": "ChatGPT maker OpenAI said Tuesday that its artificial intelligence system hacked into another AI company on its own in what the company called an \"unprecedented cyber incident,\" the AP reports. \"We had a significant security incident during evaluation of our …",
+      "url": "https://www.newser.com/story/393261/openai-our-tech-carried-out-unprecedented-cyber-incident.html",
+      "source": "Newser",
+      "publishedAt": "2026-07-22T06:30:00Z"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "description": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-07-22T05:19:20Z"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "description": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week.\n\nThe AI com…",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "source": "Internet",
+      "publishedAt": "2026-07-22T04:18:33Z"
+    },
+    {
+      "title": "'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+      "description": "Earlier this week, the Trump administration selected Oklo and X-energy to participate in a US$200 million federal initiative to fast-track advanced nuclear reactors for powering AI data centers, alongside technology partners such as Microsoft and Nvidia, with…",
+      "url": "https://biztoc.com/x/bab74070b93c8207",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T07:37:20Z"
+    },
+    {
+      "title": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing",
+      "description": "OpenAI has acknowledged that its AI models, including GPT-5.\nThank you for being a Ghacks reader. The post OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing appeared first on gHacks.",
+      "url": "https://www.ghacks.net/2026/07/22/openai-confirms-its-models-breached-hugging-face-production-systems-during-cyber-benchmark-testing",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-07-22T07:25:22Z"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Acted On Its Own In An 'Unprecedented' Hack",
+      "description": "\"GPT-5.6 Sol and an 'even more capable' model used stolen credentials and exploited vulnerabilities in the Hugging Face API to obtain secret information used to cheat on evaluations,\" writes longtime Slashdot reader Dr. Bombay. The Associated Press reports: \"…",
+      "url": "https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-22T07:00:00Z"
+    },
+    {
+      "title": "Oklahoma AI Data Center Project Raises Water Use, Transparency Concerns",
+      "description": "Beltline Energy, a data center developer, is planning a $15 billion artificial intelligence data center campus near Yukon, Oklahoma. Residents like Pencia Truhan have expressed concerns over a lack of transparency, particularly regarding water consumption, ac…",
+      "url": "https://www.naturalnews.com/2026-07-22-oklahoma-ai-data-center-water-use-concerns.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-22T06:00:00Z"
+    },
+    {
+      "title": "NVIDIA Agent Toolkit が新たな Omniverse ライブラリで拡張され、AI エージェントによるシミュレーション対応のワールド構築が可能に",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/637/12662-637-d3d6fbaef9ef64f34d5521d14f6b2872-3840x2160.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000637.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-22T07:40:49Z"
+    },
+    {
+      "title": "After SpaceX’s $2 trillion debut, investors are eyeing Anthropic and OpenAI. Market experts share how to play the next trillion-dollar IPO",
+      "description": "One of financial advisor Jeff Barnett’s clients called him when SpaceX went public on June 12. Had Barnett bought any shares for the portfolio? He had not—SpaceX came nowhere close to the client’s preset criteria on valuation and governance.\nThe client listen…",
+      "url": "https://biztoc.com/x/2b26363c7d5ae3f1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T07:21:24Z"
+    },
+    {
+      "title": "Google Cuts Gemini 3.6 Flash Tokens for Coding Tasks",
+      "description": "Google DeepMind’s release of Gemini 3.6 Flash brings modest updates focused on improving speed and token efficiency, with particular attention to long-context processing and chart reasoning. These refinements aim to enhance specific technical capabilities but…",
+      "url": "https://www.geeky-gadgets.com/gemini-3-6-flash-release",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-22T07:13:00Z"
+    },
+    {
+      "title": "OpenAI admits its agent went rogue and hacked AI startup Hugging Face",
+      "description": "The incident underscores concerns over the increasingly powerful cybersecurity capabilities of new AI models",
+      "url": "https://www.scientificamerican.com/article/openai-admits-its-agent-went-rogue-and-hacked-ai-startup-hugging-face",
+      "source": "Scientific American",
+      "publishedAt": "2026-07-22T07:00:00Z"
+    },
+    {
+      "title": "After SpaceX’s $2 trillion debut, investors are eyeing Anthropic and OpenAI. Market experts share how to play the next trillion-dollar IPO",
+      "description": "Before buying into the hype, pros say to skip the first-day frenzy, follow the revenue, and read the prospectus.",
+      "url": "https://fortune.com/2026/07/22/trillion-dollar-ipo-investing-spacex-anthropic-openai",
+      "source": "Fortune",
+      "publishedAt": "2026-07-22T07:00:00Z"
+    },
+    {
+      "title": "NVIDIA Vera CPU performance shows impressive gains over its x86 rivals",
+      "description": "NVIDIA offers an in-depth look at its new Vera CPU built for the Agentic AI era, showcasing massive performance gains over x86 CPUs like AMD EPYC Turin.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112759/nvidia-vera-cpu-performance-shows-impressive-gains-over-its-x86-rivals/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-22T06:29:07Z"
+    },
+    {
+      "title": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face",
+      "description": "Are OpenAI's AI models having a Jurassic Park moment? During a cybersecurity benchmark, they escaped their sandboxed test environment and 'reached a node with internet access.'\nThe recent intrusion at Hugging Face has been traced to AI models breaking out of …",
+      "url": "https://me.pcmag.com/en/security/37707/openai-oops-our-models-went-rogue-hacked-hugging-face",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-22T06:24:24Z"
+    },
+    {
+      "title": "OpenAI Admits Its Models Hacked Hugging Face On Their Own",
+      "description": "OpenAI admits its models hacked Hugging Face on their own\nThey escaped an isolated environment for testing and infiltrated Hugging Face without human input.\nPicture this: A couple of powerful AI models being tested by their company escaped a controlled enviro…",
+      "url": "https://biztoc.com/x/569c84e1aaf5f86c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T06:20:20Z"
+    },
+    {
+      "title": "OpenAI Admits Its Models Hacked Hugging Face On Their Own - Engadget",
+      "description": "OpenAI Admits Its Models Hacked Hugging Face On Their OwnEngadget OpenAI and Hugging Face partner to address security incident during model evaluationOpenAI OpenAI reports 'unprecedented' autonomous hack by AI agentsYahoo OpenAI says its AI models escaped con…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184576168",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-22T06:12:44Z"
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing",
+      "description": "OpenAI said that an autonomous agent powered by its advanced AI models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face last week.",
+      "url": "https://www.rte.ie/news/business/2026/0722/1584512-openai-data-breach",
+      "source": "RTE",
+      "publishedAt": "2026-07-22T06:12:07Z"
+    },
+    {
+      "title": "OpenAI reports ‘unprecedented’ autonomous hack by AI agents",
+      "description": "The San Francisco firm called it an \"unprecedented cyber incident\" and said it would conduct a joint investigation with the online code library Hugging Face.\nThe post OpenAI reports ‘unprecedented’ autonomous hack by AI agents appeared first on Digital Journa…",
+      "url": "https://www.digitaljournal.com/article/openai-reports-unprecedented-autonomous-hack-by-ai-agents",
+      "source": "Digital Journal",
+      "publishedAt": "2026-07-22T05:50:10Z"
+    },
+    {
+      "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
+      "description": "Google released three new AI models on Tuesday, all built on Gemini 3.5 Flash. The new models are more token-efficient, faster and more reliable across the board. The tech giant also provided an update on the much-anticipated Gemini 3.5 Pro and what’s to come…",
+      "url": "https://biztoc.com/x/ea1bf35ac9d26511",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T05:35:07Z"
+    },
+    {
+      "title": "NVIDIA Paves the Way for Windows-on-Arm Gaming With RTX Spark Toolkit - TechPowerUp",
+      "description": "NVIDIA Paves the Way for Windows-on-Arm Gaming With RTX Spark ToolkitTechPowerUp NVIDIA’s first GeForce driver for Windows on Arm confirms RTX Spark N1X with 6,144 or 5,120 CUDA coresVideoCardz.com RTX Spark: Second lower-end config confirmed via latest drive…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184575040",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-22T04:32:20Z"
+    },
+    {
+      "title": "Nvidia details Vera CPU for agentic AI workloads",
+      "description": "Nvidia has outlined the design of its Vera CPU, positioning the chip for agentic AI systems that rely heavily on the processor for code execution, tool calls, retrieval, and data handling. The company said the architecture is intended to improve responsivenes…",
+      "url": "https://www.digitimes.com/news/a20260722PR202/nvidia-cpu-ai-agent-design-performance.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-22T04:32:04Z"
+    },
+    {
+      "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia",
+      "description": "Wistron Corporation shares jumped 9.7% on Wednesday after the Taiwan-based technology service provider announced the opening of its first U.S. facility to build AI servers for Nvidia.\nIts D1 AI smart facility, a $700 million, 324,000-square-foot site in Fort …",
+      "url": "https://biztoc.com/x/8dcfd1b3559fddc5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T04:19:14Z"
+    },
+    {
+      "title": "Here's what smart people are saying about OpenAI models hacking Hugging Face on their own",
+      "description": "OpenAI said the Hugging Face breach was an \"unprecedented cyber incident.\"\nChris Jung/NurPhoto via Getty Images\nLast week, Hugging Face said its systems were breached by an AI agent.\nOpenAI said Tuesday its models were responsible and that an AI agent had bro…",
+      "url": "https://biztoc.com/x/0150511222dd2ce2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T04:19:05Z"
+    },
+    {
+      "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia",
+      "description": "Taiwan’s Wistron Corporation opens first U.S. facility in Fort Worth, Texas.",
+      "url": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-22T04:10:57Z"
+    },
+    {
+      "title": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance",
+      "description": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance\nBloomberg reported that the mega AI startup is set to announce that its two agentic tools are now serving around 10 million users.\nSign up for smart news, insights, and analysis …",
+      "url": "https://biztoc.com/x/42d36f20c12823ca",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-22T04:04:47Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "GPT, Claude, Gemini & more—all in one app for just $29.99",
+      "Z.AI Prepares August 2026 Launch for GLM 5.5 to Target ChatGPT and Claude",
+      "OpenAI: Our Tech Carried Out 'Unprecedented Cyber Incident'",
+      "OpenAI says its AI models hacked Hugging Face during testing",
+      "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.newser.com/story/393261/openai-our-tech-carried-out-unprecedented-cyber-incident.html",
+        "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing",
+        "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html"
+      ]
+    },
+    {
+      "title": "Models",
+      "summary": "Grouped stories where \"models\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macworld.com/article/3195156/gpt-claude-gemini-more-all-in-one-app-for-just-29-99.html",
+        "https://biztoc.com/x/ea1bf35ac9d26511"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/glm-5-5-release-details",
+        "https://biztoc.com/x/bab74070b93c8207",
+        "https://www.naturalnews.com/2026-07-22-oklahoma-ai-data-center-water-use-concerns.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GPT, Claude, Gemini & more—all in one app for just $29.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GPT, Claude, Gemini & more—all in one app for just $29.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GPT, Claude, Gemini & more—all in one app for just $29.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GPT, Claude, Gemini & more—all in one app for just $29.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: GPT, Claude, Gemini & more—all in one app for just $29.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
