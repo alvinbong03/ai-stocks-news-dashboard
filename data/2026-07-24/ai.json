@@ -1,0 +1,280 @@
+{
+  "theme": "ai",
+  "date": "2026-07-24",
+  "last_updated_utc": "2026-07-24T08:16:41.103Z",
+  "news": [
+    {
+      "title": "Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal",
+      "description": "Meta Platforms Inc. is in discussions to rent computing power from its artificial intelligence data centers to Anthropic, a deal that could be worth as much as $10 billion over two years, according to three people with knowledge of the talks. The potential ag…",
+      "url": "https://www.naturalnews.com/2026-07-23-meta-lease-ai-computing-power-to-anthropic.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-23T06:00:00Z"
+    },
+    {
+      "title": "South Korean president to meet Nvidia and OpenAI CEOs on US trip",
+      "description": "South Korean president Jae-Myung Lee will launch an economic diplomacy tour centered on AI, advanced industries, and supply chain cooperation, including planned meetings with Nvidia CEO Jensen Huang and other global tech leaders to discuss AI partnerships. Sa…",
+      "url": "https://www.digitimes.com/news/a20260723PD233/president-nvidia-openai-ceo-launch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-23T07:59:04Z"
+    },
+    {
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "description": "The co-founder of Hugging Face, a technology start-up that was hacked after some of OpenAI's most advanced artificial intelligence (AI) models went rogue, said on Thursday that the incident is \"a wake up call\" for the industry.\nThomas Wolf told the BBC that \"…",
+      "url": "https://biztoc.com/x/0a39b7298d10bd92",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T05:33:31Z"
+    },
+    {
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "description": "Published\nThe co-founder of Hugging Face, a technology start-up that was hacked after some of OpenAI's most advanced artificial intelligence (AI) models went rogue, said on Thursday that the incident is \"a wake up call\" for the industry.\nThomas Wolf told the …",
+      "url": "https://biztoc.com/x/ae367957e50db687",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T05:16:06Z"
+    },
+    {
+      "title": "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
+      "description": "AI企業のAnthropicが半導体開発のAMDと戦略的パートナーシップを結びました。Anthropicは最大2GW分の「Instinct MI450」シリーズGPUを購入する予定です。AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs :: Advanced Micro Devices, Inc. (AMD)https://ir.amd.com…",
+      "url": "https://news.livedoor.com/article/detail/31893415",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-23T04:20:00Z"
+    },
+    {
+      "title": "Democrats try to harness AI data center backlash against Republicans",
+      "description": "Democratic Texas governor's race nominee Gina Hinojosa is focusing on artificial intelligence data centers as a key issue in her campaign against Republican Gov. Greg Abbott. AI data centers are causing concern in rural areas due to their impact on land, wate…",
+      "url": "https://apnews.com/article/data-centers-texas-ai-gina-hinojosa-abbott-3624f9a97e584c46d0ac65ca3870adcf",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-23T04:08:53Z"
+    },
+    {
+      "title": "AI Goes Rogue: The Latest OpenAI Model Hacked Another Company Without Being Asked",
+      "description": "We've gone through all of this before with Anthropic. Back in April, Anthropic limited the release of its latest model, called Mythos, to major software companies because it was concerned it could do massive damage in the wrong hands....rather than make it wi…",
+      "url": "https://freerepublic.com/focus/f-chat/4389023/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-23T04:04:16Z"
+    },
+    {
+      "title": "OpenAI: AI escapes test environment and hacks Hugging Face",
+      "description": "An AI model from OpenAI was supposed to resolve vulnerabilities in an internal security test. Instead, it escaped the test environment, gained access to the internet, and hacked into Hugging Face to retrieve the solutions. OpenAI acknowledged the incident on …",
+      "url": "https://www.notebookcheck.net/OpenAI-AI-escapes-test-environment-and-hacks-Hugging-Face.1349871.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-23T08:09:00Z"
+    },
+    {
+      "title": "音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能",
+      "description": "AlibabaのAI研究チームであるQwen(Tongyi Lab)が音声合成AI「Qwen-Audio-3.0-TTS」を2026年7月20日にリリースしました。参考音声とテキストを入力することで、任意の声で任意のテキストを読み上げさせることができます。Qwen-Audio-3.0-TTShttps://funaudiollm.github.io/qwen-audio-3.0-tts/Qwen-Audio-3.0-TTS: More Multilingual, Easier to Directhttps://t…",
+      "url": "https://news.livedoor.com/article/detail/31894842",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-23T07:51:00Z"
+    },
+    {
+      "title": "STMicroelectronics raises AI data center ambition as second-quarter revenue rebounds 26%",
+      "description": "STMicroelectronics (ST) has raised its revenue ambition for AI data centers to above US$1 billion in 2026 and well above US$2 billion in 2027, staking a larger claim on the AI infrastructure buildout as the European chipmaker swung back to profit in the secon…",
+      "url": "https://www.digitimes.com/news/a20260723VL228/stmicroelectronics-revenue-data-center-2026-data.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-23T07:11:04Z"
+    },
+    {
+      "title": "Hacked NVIDIA RTX Spark drivers make an RTX 4060 run on Windows 11 Arm",
+      "description": "A developer has hacked RTX Spark drivers and managed to convince an NVIDIA GeForce RTX 4060 to run on Windows 11 ARM, proving GPU support on Arm64.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112776/hacked-nvidia-rtx-spark-drivers-make-an-rtx-4060-run-on-windows-11-arm/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-23T07:03:07Z"
+    },
+    {
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR",
+      "description": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to knowNPR OpenAI and Hugging Face partner to address security incident during model evaluationOpenAI A Startling Glimpse at AI’s Ruthless EfficiencyThe Atlantic OpenAI’s models broke fre…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184597650",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-23T06:52:21Z"
+    },
+    {
+      "title": "Wistron launches first US-made Nvidia GB300 compute baseboard",
+      "description": "Wistron opened its D1 AI smart factory in Fort Worth, Texas, on July 21 local time, and began mass production of the first Nvidia GB300 compute baseboard made in the US. The nearly US$700 million plant, which spans about 324,000 square feet, was unveiled by W…",
+      "url": "https://www.digitimes.com/news/a20260722PD241/wistron-nvidia-manufacturing-plant-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-23T06:47:58Z"
+    },
+    {
+      "title": "Gemini Nano 4 is finally here with Samsung’s latest foldables",
+      "description": "The new Galaxy Z Fold 8, Z Fold 8 Ultra, and Z Flip 8 are the first devices to come with Google's latest on-device AI model: Gemini Nano 4.",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-flip-8-gemini-nano-4-3690495",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-23T06:36:56Z"
+    },
+    {
+      "title": "AI going 'rogue' no longer a theory? OpenAI says its AI models found ways to access secret information, cheat an evaluation and hacked Hugging Face",
+      "description": "OpenAI hacked Hugging Face: OpenAI's advanced AI models breached Hugging Face during cybersecurity testing. The models gained internet access and exploited vulnerabilities to access secret information. Hugging Face detected and stopped the activity on their i…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/ai-going-rogue-no-longer-a-theory-openai-says-its-ai-models-found-ways-to-access-secret-information-cheat-an-evaluation-and-hacked-hugging-face/articleshow/132573377.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-23T06:31:17Z"
+    },
+    {
+      "title": "OpenAI admits AI model hacked Hugging Face, Chinese open-source AI helped investigate",
+      "description": "A recent AI cyberattack that stunned the industry has unexpectedly put Chinese AI company Zhipu AI and its open-source model GLM 5.2 in the spotlight. OpenAI has acknowledged for the first time that one of its AI models escaped a sandboxed testing environment…",
+      "url": "https://technode.com/2026/07/23/openai-admits-ai-model-hacked-hugging-face-chinese-open-source-ai-helped-investigate",
+      "source": "TechNode",
+      "publishedAt": "2026-07-23T06:23:08Z"
+    },
+    {
+      "title": "Senior White House official claims China’s K3 model stolen from Anthropic",
+      "description": "Donald Trump’s Assistant for Science and Technology, Michael Kratsios, has accused China’s Moonshot AI of creating its head-turning Kimi K3 model distilling Anthropic’s Fable. Kimi K3 is 2.8-trillion-parameter open-weights model of such impressive quality tha…",
+      "url": "https://biztoc.com/x/c18a1f03ca1014f2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T06:01:54Z"
+    },
+    {
+      "title": "Co-founder of firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "description": "Firm hacked by rogue OpenAI models says it is 'a wake up call'\nThe BBC has contacted OpenAI for comment.\nAI agents are able to operate alone to accomplish tasks after human instruction.\nOther organisations have also taken note of the incident.\nThe BBC has con…",
+      "url": "https://biztoc.com/x/2e68b3a086ff62f9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T05:46:53Z"
+    },
+    {
+      "title": "Navatar Launches Claude-Native Deal Engine for Private Equity and M&A Advisory Firms on Salesforce CRM",
+      "description": "New AI-first platform combines Navatar CRM, Navatar AI, Salesforce Agentforce, and Claude to give private markets firms a governed, secure, and always-on deal operating system New AI-first platform combines Navatar CRM, Navatar AI, Salesforce Agentforce, and …",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3331871/0/en/Navatar-Launches-Claude-Native-Deal-Engine-for-Private-Equity-and-M-A-Advisory-Firms-on-Salesforce-CRM.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-23T05:27:00Z"
+    },
+    {
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+      "description": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+      "source": "NPR",
+      "publishedAt": "2026-07-23T05:23:42Z"
+    },
+    {
+      "title": "OpenAI agent’s startling cyberhack",
+      "description": "AI agent broke out of OpenAI and into another start up",
+      "url": "https://www.irishtimes.com/business/2026/07/23/openai-agents-unprecedented-cyberhack",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-23T05:00:01Z"
+    },
+    {
+      "title": "NVIDIA is Acquiring ‘Dark Fiber’ Across the United States. Here’s Why That’s a Big Deal",
+      "description": "The post NVIDIA is Acquiring ‘Dark Fiber’ Across the United States. Here’s Why That’s a Big Deal. appeared first on 24/7 Wall St..\nFor a retirement portfolio that needs a single, defensible AI infrastructure play, NVIDIA (Nasdaq: NVDA) remains a frontrunner. …",
+      "url": "https://biztoc.com/x/c186f970e634a399",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T04:31:03Z"
+    },
+    {
+      "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice",
+      "description": "A Florida man is suing OpenAI over ChatGPT-generated medical advice, alleging that its flagship chatbot failed to recognize early signs of a medical crisis and nearly caused his death.\nBrought by Scott Winters, a 55-year-old pastor and real estate professiona…",
+      "url": "https://biztoc.com/x/26ed1fdd571a31a2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T04:30:57Z"
+    },
+    {
+      "title": "Democrats try to harness data center backlash that's dividing rural Republicans in places like Texas",
+      "description": "Democratic Texas governor's race nominee Gina Hinojosa is focusing on artificial intelligence data centers as a key issue in her campaign against Republican Gov. Greg Abbott.",
+      "url": "https://www.news4jax.com/news/politics/2026/07/23/democrats-try-to-harness-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas",
+      "source": "WJXT News4JAX",
+      "publishedAt": "2026-07-23T04:23:43Z"
+    },
+    {
+      "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
+      "description": "US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions.",
+      "url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-23T04:15:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal",
+      "South Korean president to meet Nvidia and OpenAI CEOs on US trip",
+      "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "AnthropicがAMDの最新世代チップ「Instinct MI450」を購入する最大50億ドルの投資契約が締結される",
+      "Democrats try to harness AI data center backlash against Republicans"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260723PD233/president-nvidia-openai-ceo-launch.html",
+        "https://biztoc.com/x/0a39b7298d10bd92",
+        "https://biztoc.com/x/ae367957e50db687"
+      ]
+    },
+    {
+      "title": "Hacked",
+      "summary": "Grouped stories where \"hacked\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/112776/hacked-nvidia-rtx-spark-drivers-make-an-rtx-4060-run-on-windows-11-arm/index.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-23-meta-lease-ai-computing-power-to-anthropic.html",
+        "https://news.livedoor.com/article/detail/31893415",
+        "https://apnews.com/article/data-centers-texas-ai-gina-hinojosa-abbott-3624f9a97e584c46d0ac65ca3870adcf"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta in Talks to Lease AI Computing Power to Anthropic in Potential $10 Billion Deal. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
