@@ -1,0 +1,431 @@
+{
+  "theme": "us-politics",
+  "date": "2026-07-25",
+  "last_updated_utc": "2026-07-25T07:59:44.323Z",
+  "news": [
+    {
+      "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+      "description": "The president told Axios he was considering an operation \"bigger than ever before.\"",
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-24T07:57:12Z"
+    },
+    {
+      "title": "China says it opposes new US tariffs, warns against trade wars",
+      "description": "China condemned the US decision to impose fresh tariffs of up to 12.5% on imports from 60 countries over alleged forced labour concerns, warning against a renewed trade war. While China faces the highest rate, India and Japan were also hit with 12.5% duties, …",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-opposes-new-us-tariffs-warns-against-trade-wars/articleshow/132599756.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-24T07:56:30Z"
+    },
+    {
+      "title": "The 9 at 9: Friday",
+      "description": "Aughinish Alumina report published, US imposes new tariffs and Irish data centres used a billion litres of water last year.",
+      "url": "https://www.thejournal.ie/9-at-9-friday-73-7111875-Jul2026",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-07-24T07:55:26Z"
+    },
+    {
+      "title": "Wise tumbles after US declines national trust bank application",
+      "description": "London-listed shares of Wise fell 10% on Friday after the money transfer group said its application to create a national trust bank in the United States was denied by regulators, amid major changes in financial policy.\nThe U.S. Office of the Comptroller of th…",
+      "url": "https://biztoc.com/x/dd143c458f145110",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-24T07:55:06Z"
+    },
+    {
+      "title": "US imposes new tariffs on dozens of countries over 'forced labour' claims",
+      "description": "US President Donald Trump will impose new double-digit tariffs on 60 countries over claims they failed to prevent forced labour.\nThe new duties, ranging from 10 to 12.5%, take effect Friday and will replace the global 10% tariffs Trump introduced earlier this…",
+      "url": "https://biztoc.com/x/d3d8cc90619555b4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-24T07:54:59Z"
+    },
+    {
+      "title": "CWG 2026 Live: India in action across boxing, swimming, gymnastics and more",
+      "description": "Commonwealth Games 2026 Live Updates: India's campaign at the 2026 Commonwealth Games gathers pace on July 24 with athletes competing across six spor",
+      "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/commonwealth-games-2026-india-live-updates-today-july-24-results-schedule-medal-tally-boxing-swimming-para-powerlifting/liveblog/132599681.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-24T07:51:49Z"
+    },
+    {
+      "title": "Russell Coker: Systemd Linger",
+      "description": "Killing Processes\nOne of the features of systemd that is most controversial is the option to kill user processes when the user logs out. That initially killed screen/tmux/nohup processes too. In recent Debian releases the default configuration of systemd-logi…",
+      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger",
+      "source": "Coker.com.au",
+      "publishedAt": "2026-07-24T07:48:23Z"
+    },
+    {
+      "title": "When Singapore became independent in 1965 it had no natural resources, no hinterland, and fewer than 2 million people. Sixty years later its GDP per capita is higher than that of the United States, the United Kingdom, or Australia",
+      "description": "A city-state with nothing but ambition built the world's most unlikely economic miracle.\nThe post When Singapore became independent in 1965 it had no natural resources, no hinterland, and fewer than 2 million people. Sixty years later its GDP per capita is hi…",
+      "url": "https://spacedaily.com/d-when-singapore-became-independent-in-1965-it-had-no-natural-resources-no-hinterland-and-fewer-than-2-million-people-sixty-years-later-its-gdp-per-capita-is-higher-than-that-of-the-united-states-th",
+      "source": "Space Daily",
+      "publishedAt": "2026-07-24T07:45:55Z"
+    },
+    {
+      "title": "Global LNG Giants Target Cambodia as New Energy Market",
+      "description": "Some of the world’s biggest heavyweights in liquefied natural gas exports are interested in adding Cambodia to their client list as the Southeast Asian nation build sits first LNG-fueled power station. The United States, Australia, Canada, and some Southeast …",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Giants-Target-Cambodia-as-New-Energy-Market.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-24T07:45:00Z"
+    },
+    {
+      "title": "Singapore Pushes Back as US Levies Hit on Forced-Labor Claim",
+      "description": "Singapore’s top diplomat said there was no economic justification for the US to impose tariffs on the city-state, adding that it seeks to avoid becoming “collateral damage” in Washington’s broader trade policy.",
+      "url": "https://financialpost.com/pmn/business-pmn/singapore-pushes-back-as-us-levies-hit-on-forced-labor-claim",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-24T07:42:20Z"
+    },
+    {
+      "title": "Key facts about Trump’s new tariffs on more than 80 countries",
+      "description": "Expect another court challenge",
+      "url": "https://www.irishtimes.com/world/us/2026/07/24/key-questions-about-trumps-new-tariffs-on-more-than-80-countries",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-24T07:41:34Z"
+    },
+    {
+      "title": "'Expect more action from the US after the Google fine,' top EU lawmaker says",
+      "description": "German Socialist MEP Bernd Lange, the European Parliament's trade chief, told Euronews that he hopes the new US tariffs will be challenged in US courts and said that targeting the EU over forced labour was \"crazy\" given its stringent regulations.",
+      "url": "https://biztoc.com/x/4df2919795c8d36d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-24T07:38:53Z"
+    },
+    {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "description": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-07-24T07:36:39Z"
+    },
+    {
+      "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outb",
+      "description": "Wired reports that Taylor Farms spent Big on MAGA and anti-regulatory lobbying before diarrhea outbreak. The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.The iceberg lettu…",
+      "url": "https://slashdot.org/submission/17349256/taylor-farms-spent-big-on-maga-and-anti-regulatory-lobbying-before-diarrhea-outb",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-24T07:34:53Z"
+    },
+    {
+      "title": "Digital Marketing Services Agency In Dubai | Marketinglead.ae",
+      "description": "Marketing Lead is a performance-focused marketing agency in Dubai helping UAE businesses improve Google visibility, generate qualified leads, and increase conversions. We combine SEO, Google Ads, Meta Ads, social media marketing, and conversion-focused web de…",
+      "url": "https://slashdot.org/submission/17349254/digital-marketing-services-agency-in-dubai--marketingleadae",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-24T07:33:26Z"
+    },
+    {
+      "title": "Japan 40-Year Yield Surges as Traders Question BOJ on Inflation",
+      "description": "Japan’s 40-year government bond yield led gains across maturities, underscoring concerns that the nation’s central bank isn’t tightening policy fast enough to quell inflation.",
+      "url": "https://financialpost.com/pmn/business-pmn/japan-40-year-yield-surges-as-traders-question-boj-on-inflation",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-24T07:32:07Z"
+    },
+    {
+      "title": "Before a Cyber Force, Fix Cyber Governance",
+      "description": "Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service…",
+      "url": "https://warontherocks.com/before-a-cyber-force-fix-cyber-governance",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-07-24T07:30:15Z"
+    },
+    {
+      "title": "Fans react to ‘absolutely amazing’ moment between Donald Trump and the Los Angeles Dodgers",
+      "description": "The Los Angeles Dodgers visited President Donald Trump this week to celebrate their most recent World Series win. After coming from behind to beat the Toronto Blue Jays, the Dodgers clinched their latest trophy back in November 2025.",
+      "url": "https://www.hitc.com/fans-react-to-absolutely-amazing-moment-between-donald-trump-and-the-los-angeles-dodgers",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "publishedAt": "2026-07-24T07:30:00Z"
+    },
+    {
+      "title": "Jensen Huang, Silicon Valley pushback against ban on Chinese open source AI models",
+      "description": "Nvidia CEO Jensen Huang has taken an increasingly forceful position against possible sanctions from the Trump administration, arguing that US companies should remain free to use Chinese open-source AI models.",
+      "url": "https://www.digitimes.com/news/a20260724PD226/jensen-huang-nvidia-ceo-silicon-valley-ban.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-24T07:27:23Z"
+    },
+    {
+      "title": "Wise tumbles after US declines national trust bank application",
+      "description": "July 24 : London-listed shares of Wise fell 10 per cent on Friday after the money transfer group said its application to create a national trust bank in the United States was denied by regulators, amid major changes in financial policy.The U.S. Office of the …",
+      "url": "https://www.channelnewsasia.com/business/wise-tumbles-after-us-declines-national-trust-bank-application-6275596",
+      "source": "CNA",
+      "publishedAt": "2026-07-24T07:27:19Z"
+    },
+    {
+      "title": "Isn’t It Romantic movie posters",
+      "description": "Contributed by Michael MervinetskySource: www.impawards.com License: All Rights Reserved. Promotional posters for Isn’t It Romantic (2019), a romantic comedy directed by Todd Strauss-Schulson and starring Rebel Wilson, released theatrically in the US by Warne…",
+      "url": "https://fontsinuse.com/uses/78742/isn-t-it-romantic-movie-posters",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-07-24T07:26:14Z"
+    },
+    {
+      "title": "APEC ministers seek stronger cooperation on digital technologies, AI",
+      "description": "Asia-Pacific ministers responsible for telecommunications, information technology and digital policy are seeking closer cooperation on digital technologies ...",
+      "url": "https://en.antaranews.com/news/423901/apec-ministers-seek-stronger-cooperation-on-digital-technologies-ai",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-07-24T07:25:37Z"
+    },
+    {
+      "title": "US tariff hikes linked to foreign labor claims anger trading partners",
+      "description": "U.S. President Donald Trump’s latest set of tariffs has provoked heated objections from America’s trading partners",
+      "url": "https://www.wsbradio.com/news/business/us-tariff-hikes/FLRUZN6XP4ZPHKD5POULZE7MTM",
+      "source": "WSB Radio",
+      "publishedAt": "2026-07-24T07:25:33Z"
+    },
+    {
+      "title": "Breaking: Reginald Chard, Australia's last surviving Kokoda veteran, dies at 102",
+      "description": "Australia's last surviving Kokoda campaign veteran, Reginald James Chard OAM, has died aged 102.",
+      "url": "https://www.abc.net.au/news/2026-07-24/australias-last-surviving-kokoda-veteran-dies-at-102/106956476",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-24T07:24:51Z"
+    },
+    {
+      "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
+      "description": "By Sergiy Karazy and Dan Peleschuk\nUNDISCLOSED LOCATION IN SOUTHERN UKRAINE, July 24 (Reuters) - In a field in southern Ukraine, soldiers scrawled sardonic messages on a sleek grey attack drone that would soon be hunting Russian ships on the Black Sea — part …",
+      "url": "https://biztoc.com/x/51a95c2af9a90bc8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-24T07:24:46Z"
+    },
+    {
+      "title": "CENTCOM Completes 13th Straight Night of Iran Strikes as Trump Weighs ‘Massive’ Attack, Tehran Rejects Ceasefire",
+      "description": "The U.S. military carried out a 13th consecutive night of strikes against Iran early Friday, targeting military command centers, drone facilities, communications networks, and maritime capabilities. The action came as President Donald Trump said he was weighi…",
+      "url": "https://www.breitbart.com/politics/2026/07/24/centcom-completes-13th-straight-night-of-iran-strikes-as-trump-weighs-massive-attack-tehran-rejects-ceasefire",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-24T07:24:22Z"
+    },
+    {
+      "title": "Temasek eyes defence deals as Europe boosts military spending, executive says",
+      "description": "U.S. imposes tariffs tied to forced labor on top 60 trade partners\nBy Mathieu Rosemain and Yantoultra Ngui\nPARIS, July 24 (Reuters) - Singaporean state investor Temasek is looking to increase its investments in defence as the war in Ukraine prompts European g…",
+      "url": "https://biztoc.com/x/da66110ceeb4c26b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-24T07:23:37Z"
+    },
+    {
+      "title": "Two Peking University alumni awarded Fields Medals, 14 PKUers speak at the 2026 ICM",
+      "description": "BEIJING, July 24, 2026 /PRNewswire/ -- The 2026 International Congress of Mathematicians (ICM) opened in Philadelphia, the U.S., on the morning of July 23 (local time). Peking University (PKU) alumni Wang Hong and Deng Yu were awarded the 2026 Fields Medals, …",
+      "url": "https://www.prnewswire.com/news-releases/two-peking-university-alumni-awarded-fields-medals-14-pkuers-speak-at-the-2026-icm-302834004.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-24T07:21:00Z"
+    },
+    {
+      "title": "Not holding NEET debate will send wrong message to country: Rijiju in LS",
+      "description": "Parliament remained deadlocked over the NEET paper leak issue on Friday as Union Minister Kiren Rijiju urged the Opposition to allow a debate in the Lok Sabha without preconditions, citing Prime Minister Narendra Modi's assurance of a law against paper leaks …",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rijiju-urges-debate-on-neet-paper-leak-in-lok-sabha-amid-opposition-demands-for-ministers-resignation/articleshow/132598952.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-24T07:20:26Z"
+    },
+    {
+      "title": "Malaysia foreign minister says envoy summoned by US over Israel policy amid Network School saga",
+      "description": "Network School, the \"digital nomad\" community founded in Malaysia by US investor Balaji Srinivasan, came under scrutiny after social media users alleged that it included participants from Israel.",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-ambassador-summoned-united-states-network-school-6275281",
+      "source": "CNA",
+      "publishedAt": "2026-07-24T07:19:41Z"
+    },
+    {
+      "title": "'I'm still watching my World Cup goal' - Isidor on his incredible strike",
+      "description": "Haiti may not have won a point at the World Cup but Sunderland's Wilson Isidor will never forget the feeling of scoring for his country at the tournament. Isidor's strike from outside the box against Morocco was one of the contenders for goal of the tournamen…",
+      "url": "https://www.bbc.com/sport/football/articles/clyjkem0j22o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-07-24T07:19:28Z"
+    },
+    {
+      "title": "Friendly in Japan: RB Ōmiya Ardija profiled",
+      "description": "The opening shot for the 2026/27 season in the Land of the Rising Sun: FC Bayern Women’s first friendly ahead of the new campaign takes the defending double winners to an emerging club from Japan’...",
+      "url": "https://fcbayern.com/frauen/en/news/2026/07/allianz-summer-tour-2026-friendly-opponents-rb-omiya-profiled",
+      "source": "Fcbayern.com",
+      "publishedAt": "2026-07-24T07:18:00Z"
+    },
+    {
+      "title": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War - Radio Free Europe/Radio Liberty",
+      "description": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine WarRadio Free Europe/Radio Liberty Ukraine war latest: Putin's losses 'staggering' - as Russia warns US against 'unacceptable' arming of UkraineSky News Rubio says U.S. is ready to help end wa…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184634400",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-24T07:12:38Z"
+    },
+    {
+      "title": "Anand becomes FIDE interim president as Russian incumbent included in EU sanctions lst",
+      "description": "Viswanathan Anand has become the interim president of the world chess body FIDE. This change occurred after Arkady Dvorkovich stepped aside due to European Union sanctions. Dvorkovich is challenging the EU's decision, which could freeze his accounts and impos…",
+      "url": "https://economictimes.indiatimes.com/news/sports/chess/anand-becomes-fide-interim-president-as-russian-incumbent-included-in-eu-sanctions-lst/articleshow/132598887.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-24T07:12:32Z"
+    },
+    {
+      "title": "Yellow Heat Health Alert Issued Across UK Regions - Policy Wire",
+      "description": "A yellow heat health alert is in effect across parts of the UK from Friday to Sunday, with rain expected over the weekend.",
+      "url": "https://policy-wire.com/yellow-heat-health-alert-issued-across-uk-regions",
+      "source": "Policy-wire.com",
+      "publishedAt": "2026-07-24T07:09:27Z"
+    },
+    {
+      "title": "Morning recap: Reps approve state police bill, US imposes 12.5% tariff on Nigerian imports, other top stories",
+      "description": "Stay informed with our Nigerian news recap. Get updates on the State Police bill, US tariffs on Nigerian imports, Army expansion, and other top stories.\n\nRead More: https://punchng.com/morning-recap-reps-approve-state-police-bill-us-imposes-12-5-tariff-on-nig…",
+      "url": "https://punchng.com/morning-recap-reps-approve-state-police-bill-us-imposes-12-5-tariff-on-nigerian-imports-other-top-stories",
+      "source": "The Punch",
+      "publishedAt": "2026-07-24T07:06:22Z"
+    },
+    {
+      "title": "Paderborn unfazed by Baur's expiring contract amid Celtic interest",
+      "description": "Celtic FC are continuing to push for SC Paderborn star Mika Baur ahead of the upcoming 2026-27 campaign. However, according to Sky Germany, the newly promoted Bundesliga outfit feel no pressure to se...",
+      "url": "https://bulinews.com/paderborn-unfazed-baur-expiring-contract-amid-celtic-interest",
+      "source": "Bulinews.com",
+      "publishedAt": "2026-07-24T07:03:00Z"
+    },
+    {
+      "title": "Fumbling Toward an AI Policy",
+      "description": "Fumbling Toward an AI Policy\n\n \n\n\n \nSara Brady\n\nFri, 07/24/2026 - 03:00 AM\n\nYou can pry my em dashes from my cold, dead hands.\n \n Byline(s)\r\n\n \n Matt Reed",
+      "url": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/07/24/fumbling-toward-ai-policy",
+      "source": "Inside Higher Ed",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "Dear Abby: I’m overworked, overwhelmed and have lost faith in my husband",
+      "description": "Dear Abby advises a wife whose husband won't contribute to their household income, and another whose husband won't clean himself or help around the house.",
+      "url": "https://nypost.com/2026/07/24/lifestyle/dear-abby-im-overworked-overwhelmed-and-have-lost-faith-in-my-husband",
+      "source": "New York Post",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "What Next: TBD | Tech, power, and the future - Trump’s Only Friend",
+      "description": "Steve Witkoff is a real estate investor, an attorney, and now America’s Special Envoy to the Middle East. It may seem like a weird career shift for Witkoff, but he’s such an outlier that the famously transactional Donald Trump treats him like an actual friend…",
+      "url": "https://shows.acast.com/whatnext-tbd-tech-power-and-the-future/episodes/trumps-only-friend",
+      "source": "Acast.com",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "David Wain",
+      "description": "David Wain is a comedy legend. Alongside Michael Ian Black, Michael Showalter, Ken Marino and many other heavy hitters, Wain co-founded The State, the massively influential comedy troupe responsible for Wet Hot American Summer. Wain returns to Bullseye to tal…",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5905725/david-wain-on-gail-daughtry-and-the-celebrity-sex-pass",
+      "source": "NPR",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "White House Seeks to Steer More Research Funding Away From Academia",
+      "description": "White House Seeks to Steer More Research Funding Away From Academia\n\n \n\n\n \nRyan Quinn\n\nFri, 07/24/2026 - 03:00 AM\n\nIn its new strategy for science and research, the administration stopped short of jettisoning higher ed’s role in America’s scientific enterpris…",
+      "url": "https://www.insidehighered.com/news/government/science-research-policy/2026/07/24/white-house-seeks-steer-research-funding-outside",
+      "source": "Inside Higher Ed",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "Rethinking addiction in the age of Ozempic",
+      "description": "GLP-1s could be a breakthrough in addiction treatment. But is medicine alone enough to treat such a complicated disease? This hour, TED speakers explore modern science and old wisdom on addiction. Guests include journalist and physician Dr. Dhruv Khullar, aut…",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5903249/rethinking-addiction-in-the-age-of-ozempic",
+      "source": "NPR",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    },
+    {
+      "title": "UNC, Virginia Tech to Partner With Defense on Senior Leadership",
+      "description": "The University of North Carolina at Chapel Hill and Virginia Tech will host a fellowship for senior military officers after the Department of Defense ended its partnerships with the highly selective private universities that used to house the program,",
+      "url": "https://www.insidehighered.com/news/quick-takes/2026/07/24/unc-virginia-tech-partner-defense-leadership",
+      "source": "Inside Higher Ed",
+      "publishedAt": "2026-07-24T07:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+      "China says it opposes new US tariffs, warns against trade wars",
+      "The 9 at 9: Friday",
+      "Wise tumbles after US declines national trust bank application",
+      "US imposes new tariffs on dozens of countries over 'forced labour' claims"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Tariffs",
+      "summary": "Grouped stories where \"tariffs\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-opposes-new-us-tariffs-warns-against-trade-wars/articleshow/132599756.cms",
+        "https://www.thejournal.ie/9-at-9-friday-73-7111875-Jul2026",
+        "https://biztoc.com/x/d3d8cc90619555b4"
+      ]
+    },
+    {
+      "title": "Trump",
+      "summary": "Grouped stories where \"trump\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+        "https://www.hitc.com/fans-react-to-absolutely-amazing-moment-between-donald-trump-and-the-los-angeles-dodgers",
+        "https://www.digitimes.com/news/a20260724PD226/jensen-huang-nvidia-ceo-silicon-valley-ban.html"
+      ]
+    },
+    {
+      "title": "Policy",
+      "summary": "Grouped stories where \"policy\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/dd143c458f145110",
+        "https://financialpost.com/pmn/business-pmn/japan-40-year-yield-surges-as-traders-question-boj-on-inflation",
+        "https://www.channelnewsasia.com/business/wise-tumbles-after-us-declines-national-trust-bank-application-6275596"
+      ]
+    },
+    {
+      "title": "Friday",
+      "summary": "Grouped stories where \"friday\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/politics-and-nation/rijiju-urges-debate-on-neet-paper-leak-in-lok-sabha-amid-opposition-demands-for-ministers-resignation/articleshow/132598952.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/sports/commonwealth-games/commonwealth-games-2026-india-live-updates-today-july-24-results-schedule-medal-tally-boxing-swimming-para-powerlifting/liveblog/132599681.cms",
+        "https://etbe.coker.com.au/2026/07/24/systemd-linger",
+        "https://spacedaily.com/d-when-singapore-became-independent-in-1965-it-had-no-natural-resources-no-hinterland-and-fewer-than-2-million-people-sixty-years-later-its-gdp-per-capita-is-higher-than-that-of-the-united-states-th"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "SPY",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America. Main topic cluster: Tariffs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QQQ",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America. Main topic cluster: Tariffs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "XLF",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America. Main topic cluster: Tariffs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "XLE",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America. Main topic cluster: Tariffs. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "XLK",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America. Main topic cluster: Tariffs. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
