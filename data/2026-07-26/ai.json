@@ -1,0 +1,340 @@
+{
+  "theme": "ai",
+  "date": "2026-07-26",
+  "last_updated_utc": "2026-07-26T08:18:12.975Z",
+  "news": [
+    {
+      "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+      "description": "Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot service and developer platform. The company says that the LLM approaches the output quality of its top-end Mythos 5 algorithm in many areas, but costs significantly less…",
+      "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-25T01:29:27Z"
+    },
+    {
+      "title": "Fujitsu’s PHOTON Takes Aim at the Giants of Generative AI",
+      "description": "Fujitsu has developed a new artificial intelligence architecture called PHOTON that achieved up to 475 times the processing efficiency of a conventional Transformer model in research tests, raising the possibility of significantly reducing the cost of generat…",
+      "url": "https://newsonjapan.com/article/150115.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-07-25T03:28:14Z"
+    },
+    {
+      "title": "Commentary: OpenAI and Apple heat up AI hardware; Anthropic stands apart",
+      "description": "As OpenAI extends its foundation model outward to capture every entry point, Anthropic has chosen almost the opposite path. Rather than emulate Google or Apple, Anthropic is concentrating its resources on the capabilities that only a native AI company can bui…",
+      "url": "https://www.digitimes.com/news/a20260724PD236/openai-anthropic-apple-hardware-claude.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-25T02:40:48Z"
+    },
+    {
+      "title": "SK Group chairman says Anthropic is building its own computing power, signaling a deeper AI infrastructure arms race",
+      "description": "SK Group's Chey Tae-won confirms Anthropic is developing its own computing power, with $50B in US data centers and custom AI chips reshaping the\nThe post SK Group chairman says Anthropic is building its own computing power, signaling a deeper AI infrastructur…",
+      "url": "https://cryptobriefing.com/anthropic-computing-power-sk-group-ai-infrastructure",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T00:25:43Z"
+    },
+    {
+      "title": "OpenAI expands Health in ChatGPT with medical records support",
+      "description": "OpenAI has made Health in ChatGPT widely available in the United States, allowing users to connect the AI chatbot with...\nThe post OpenAI expands Health in ChatGPT with medical records support appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-expands-health-in-chatgpt-with-medical-records-support",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-07-25T06:12:51Z"
+    },
+    {
+      "title": "Nvidia and SK Group unveil $500B AI data centers initiative, reshaping the global compute landscape",
+      "description": "Nvidia and SK Group announce a $500B AI data centers partnership featuring next-gen memory chips, with major implications for crypto mining and\nThe post Nvidia and SK Group unveil $500B AI data centers initiative, reshaping the global compute landscape appear…",
+      "url": "https://cryptobriefing.com/nvidia-sk-group-500b-ai-data-centers",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T04:36:35Z"
+    },
+    {
+      "title": "OpenAI launches Codex Micro hardware for AI coding",
+      "description": "OpenAI, the AI lab that brought us ChatGPT, which simultaneously evoked awe, fear, and fascination when it first launched in 2023, has released its first-ever hardware product, a $230 mini-keyboard that’s designed to enhance the workflow of users of Codex, th…",
+      "url": "https://newatlas.com/computers/openai-codex-micro-keyboard",
+      "source": "New Atlas",
+      "publishedAt": "2026-07-25T04:03:00Z"
+    },
+    {
+      "title": "OpenAI just disclosed something genuinely alarming",
+      "description": "Every industry builds a room where it keeps the dangerous thing. Chemical plants have containment vessels. Banks have vaults.\nArtificial intelligence (AI) labs have sandboxes, sealed computing environments where a model can be pushed to its limits without tou…",
+      "url": "https://biztoc.com/x/712809fb75850506",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-25T02:00:41Z"
+    },
+    {
+      "title": "AMD’s Helios strategy turns the GPU battle into a systems contest",
+      "description": "The market for data center GPUs is evolving beyond individual chip specifications into a contest over fully integrated rack-scale systems. As AI workloads scale into the gigawatt range, buyers increasingly demand validated infrastructure that can be deployed …",
+      "url": "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-25T01:57:03Z"
+    },
+    {
+      "title": "Naver to triple facility size with Nvidia partnership as it eyes $6.8B in AI funding",
+      "description": "Naver plans to triple its data center capacity through a partnership with Nvidia while pursuing $6.8B in AI funding and a $10.3B crypto exchange\nThe post Naver to triple facility size with Nvidia partnership as it eyes $6.8B in AI funding appeared first on Cr…",
+      "url": "https://cryptobriefing.com/naver-nvidia-ai-infrastructure-crypto",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T01:55:38Z"
+    },
+    {
+      "title": "South Korea unveils AI cooperation agenda as Nvidia partnerships expand",
+      "description": "South Korean President Lee Jae Myung launched an AI-focused visit to Silicon Valley by announcing a \"San Francisco AI Declaration\" aimed at promoting international cooperation in artificial intelligence, while a series of technology partnerships involving Nvi…",
+      "url": "https://www.digitimes.com/news/a20260725VL201/nvidia-ceo-technology-silicon-valley-investment.html?chid=10",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-25T00:33:16Z"
+    },
+    {
+      "title": "South Korea unveils AI cooperation agenda as Nvidia partnerships expand",
+      "description": "South Korean President Lee Jae Myung launched an AI-focused visit to Silicon Valley by announcing a \"San Francisco AI Declaration\" aimed at promoting international cooperation in artificial intelligence, while a series of technology partnerships involving Nvi…",
+      "url": "https://www.digitimes.com/news/a20260725VL201/nvidia-ceo-technology-silicon-valley-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-25T00:33:16Z"
+    },
+    {
+      "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
+      "description": "Nvidia Corp. will invest $1 billion in Naver Corp. to help finance an AI data center under construction in South Korea, adding to a frenzy of deals by the world’s most valuable company.",
+      "url": "https://financialpost.com/pmn/business-pmn/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-25T00:20:50Z"
+    },
+    {
+      "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
+      "description": "A group of tech firms has released an open letter that calls on policymakers not to ban open-source artificial intelligence models. The development follows a report that some Trump administration officials sought to limit the use of such algorithms. Many of t…",
+      "url": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-25T00:15:50Z"
+    },
+    {
+      "title": "Claude Opus 5: more power for the same price, but not for free",
+      "description": "Anthropic released Claude Opus 5 on July 24. The model is meant to come close to the flagship Fable 5 at half the price. What changes for you is who gets the model at all and how much of your quota it burns through. Here is what is actually new and what only …",
+      "url": "https://www.notebookcheck.net/Claude-Opus-5-more-power-for-the-same-price-but-not-for-free.1351632.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-25T07:47:00Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Sonnet 4.5 + Bootstrap – Use UXPin Merge!",
+      "description": "Turn prompts into a testable SaaS landing page using AI for copy, Bootstrap for layout, and UXPin Merge for code-backed prototypes.\nThe post How to build a landing page using Claude Sonnet 4.5 + Bootstrap – Use UXPin Merge! appeared first on Studio by UXPin.",
+      "url": "https://www.uxpin.com/studio/blog/build-landing-page-claude-sonnet-4-5-bootstrap-uxpin-merge",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-25T07:42:54Z"
+    },
+    {
+      "title": "NAVER Partners with Brookfield and NVIDIA to Expand Korea's National AI Factory Infrastructure Buildout",
+      "description": "SAN FRANCISCO, July 25, 2026 /PRNewswire/ -- NAVER, Brookfield and NVIDIA announced an expansion of Korea's sovereign AI factory infrastructure. New investments will increase the initial NVIDIA DSX™ AI factory deployment from 55 megawatts to 200 megawatts. An…",
+      "url": "https://www.prnewswire.com/news-releases/naver-partners-with-brookfield-and-nvidia-to-expand-koreas-national-ai-factory-infrastructure-buildout-302834577.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-25T06:32:00Z"
+    },
+    {
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "description": "Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced processors and systems.\nThe agreement, announced late Friday in San Francisco, could be worth $500 billion over a number …",
+      "url": "https://biztoc.com/x/8b9e689c423aa87f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-25T06:15:21Z"
+    },
+    {
+      "title": "Anthropic unveils more cost-efficient model for everyday tasks",
+      "description": "The company on Friday unveiled Claude Opus 5, a model it says approaches the capabilities of its most advanced widely available offering, Fable 5, in many categories but at half the price",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-25T05:50:35Z"
+    },
+    {
+      "title": "OpenAI signs open letter advocating for open-weight AI models, marking a major strategic pivot",
+      "description": "OpenAI signs Microsoft-led open letter advocating for open-weight AI models, signaling a major strategic shift with implications for\nThe post OpenAI signs open letter advocating for open-weight AI models, marking a major strategic pivot appeared first on Cryp…",
+      "url": "https://cryptobriefing.com/openai-open-weight-ai-models-letter",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T05:17:24Z"
+    },
+    {
+      "title": "Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant",
+      "description": "Anthropic has released a new Claude model, Opus 5, bringing it close to the capabilities of Claude Fable 5 at half the price. The new model produces the strongest work performance the company has released, with even more gains in its coding capabilities.\nIn a…",
+      "url": "https://biztoc.com/x/b46ea90d213675f3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-25T05:15:20Z"
+    },
+    {
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "description": "SK Group and NVIDIA today announced plans for a $500-billion-plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed letters of intent to formalize the agreement, which spans from AI fa…",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-07-25T05:10:00Z"
+    },
+    {
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "description": "$500-Billion-Plus NVIDIA-SK AI Initiative Spans SK Telecom’s AI Factory of up to 2 Gigawatts and SK hynix’s Long-Term AI Memory Partnership $500-Billion-Plus NVIDIA-SK AI Initiative Spans SK Telecom’s AI Factory of up to 2 Gigawatts and SK hynix’s Long-Term A…",
+      "url": "https://www.globenewswire.com/Error/Index?error=1",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-25T05:10:00Z"
+    },
+    {
+      "title": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout",
+      "description": "NAVER, NVIDIA and Brookfield today announced a proposed expansion of Korea's sovereign AI factory infrastructure, with planned investments that will grow the initial NVIDIA® DSX™ AI factory deployment to 200 megawatts — more than tripling the 55-megawatt buil…",
+      "url": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-07-25T05:10:00Z"
+    },
+    {
+      "title": "Anthropic seeks semiconductor supplies from SK Hynix as AI firms race to build custom chips",
+      "description": "Anthropic is seeking memory chip supplies from SK Hynix for custom AI semiconductors, a move with major implications for crypto and tech markets.\nThe post Anthropic seeks semiconductor supplies from SK Hynix as AI firms race to build custom chips appeared fir…",
+      "url": "https://cryptobriefing.com/anthropic-sk-hynix-semiconductor-ai-chips",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T05:04:27Z"
+    },
+    {
+      "title": "Show HN: Sync Claude Code and Codex configs, with a board that shows the drift",
+      "description": "Article URL: https://github.com/slash9494/ai-config-sync-manager\nComments URL: https://news.ycombinator.com/item?id=49044662\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/slash9494/ai-config-sync-manager",
+      "source": "Github.com",
+      "publishedAt": "2026-07-25T05:00:14Z"
+    },
+    {
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-25T05:00:01Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang backs open-weight AI, says openness key to American leadership",
+      "description": "The signatories said America's AI leadership should not be measured by the success of a single frontier model, but by its ability to build a strong and open ecosystem that allows AI to spread across industries and institutions",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ceo-jensen-huang-backs-open-weight-ai-says-openness-key-to-american-leadership/article71265196.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-25T04:40:17Z"
+    },
+    {
+      "title": "In Face of US Crackdown, Microsoft, Nvidia CEOs Back Open-Weight AI Models",
+      "description": "In a public letter, Satya Nadella and Jensen Huang escalate the debate over open versus closed AI models and take a few digs at the closed AI models from top providers.\nAfter a Trump official accused Moonshot AI’s Kimi K3 of cloning US tech, the CEOs of Micro…",
+      "url": "https://me.pcmag.com/en/ai/37731/in-face-of-us-crackdown-microsoft-nvidia-ceos-back-open-weight-ai-models",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-25T03:27:44Z"
+    },
+    {
+      "title": "Comments - OpenAI, il genio è fuggito dalla lampada! (o è solo marketing?)",
+      "description": "The narrative of OpenAI’s \"escaped AI\" is not a technical breakthrough; it is pure sensationalist marketing. Framing system tests as pseudo-sci-fi threats generates fear to mask corporate agendas and market dominance. Real tech power lies in infrastructure an…",
+      "url": "https://techtalking.substack.com/p/openai-hugging-face-genio-lampada-martketing/comment/300104431",
+      "source": "Substack.com",
+      "publishedAt": "2026-07-25T03:14:56Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang uses Hugging Face hack to make the case for open-source AI",
+      "description": "Nvidia CEO Jensen Huang advocates for open-source AI models after a rogue AI agent exploited Hugging Face's pipeline over 17,000 times in a major\nThe post Nvidia CEO Jensen Huang uses Hugging Face hack to make the case for open-source AI appeared first on Cry…",
+      "url": "https://cryptobriefing.com/nvidia-huang-hugging-face-hack-open-source-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T02:42:02Z"
+    },
+    {
+      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership",
+      "description": "As part ⁠of the initiative, SK Telecom plans ​to build a 2-gigawatt ​AI data centre powered by Nvidia's Vera Rubin chips and SK Hynix's HBM4 high-bandwidth memory, with the ‌first facility due to come online in 2027, ​Nvidia added.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-sk-group-unveil-500-billion-plus-ai-data-centres-initiative-memory-partnership/articleshow/132617823.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-25T02:26:31Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+      "Fujitsu’s PHOTON Takes Aim at the Giants of Generative AI",
+      "Commentary: OpenAI and Apple heat up AI hardware; Anthropic stands apart",
+      "SK Group chairman says Anthropic is building its own computing power, signaling a deeper AI infrastructure arms race",
+      "OpenAI expands Health in ChatGPT with medical records support"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-sk-group-500b-ai-data-centers",
+        "https://cryptobriefing.com/naver-nvidia-ai-infrastructure-crypto",
+        "https://www.digitimes.com/news/a20260725VL201/nvidia-ceo-technology-silicon-valley-investment.html?chid=10"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements",
+        "https://newsonjapan.com/article/150115.php",
+        "https://www.digitimes.com/news/a20260724PD236/openai-anthropic-apple-hardware-claude.html"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/anthropic-computing-power-sk-group-ai-infrastructure",
+        "https://www.yugatech.com/news/openai-expands-health-in-chatgpt-with-medical-records-support",
+        "https://www.uxpin.com/studio/blog/build-landing-page-claude-sonnet-4-5-bootstrap-uxpin-merge"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newatlas.com/computers/openai-codex-micro-keyboard",
+        "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai",
+        "https://github.com/slash9494/ai-config-sync-manager"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic launches Claude Opus 5 with efficiency, safety improvements. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic launches Claude Opus 5 with efficiency, safety improvements. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic launches Claude Opus 5 with efficiency, safety improvements. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic launches Claude Opus 5 with efficiency, safety improvements. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic launches Claude Opus 5 with efficiency, safety improvements. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
