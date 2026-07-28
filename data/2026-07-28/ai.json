@@ -1,0 +1,326 @@
+{
+  "theme": "ai",
+  "date": "2026-07-28",
+  "last_updated_utc": "2026-07-28T08:24:50.557Z",
+  "news": [
+    {
+      "title": "Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip",
+      "description": "A Singapore-based chip startup called Acrab on July 22 unveiled its first AI processor, claiming it can run large language models locally at speeds that outpace Apple's Mac Mini M4 Pro by a factor of 7.5 on certain benchmarks.",
+      "url": "https://www.digitimes.com/news/a20260727VL211/startup-processor-language.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T08:05:30Z"
+    },
+    {
+      "title": "Anthropic Claude Opus 5 Beats ChatGPT 5.6 Sol in ARC AGI 3",
+      "description": "Claude Opus 5, the latest release from Anthropic, is making waves in the AI community with its combination of high performance and affordability. As highlighted by World of AI, this model excels in areas like reasoning, coding and long-term task management, o…",
+      "url": "https://www.geeky-gadgets.com/claude-opus-5-review",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-27T07:13:00Z"
+    },
+    {
+      "title": "OpenAI Reports: AI Models Broke Out of Sandbox to Hack Hugging Face",
+      "description": "ChatGPT maker OpenAI disclosed on July 21 that a combination of its advanced AI models – including GPT-5.6 Sol and an unreleased model – escaped a secure testing environment and hacked into the systems of AI startup Hugging Face last week to cheat on a capabi…",
+      "url": "https://www.naturalnews.com/2026-07-27-openai-models-escaped-sandbox-hack-hugging-face.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z"
+    },
+    {
+      "title": "Nvidia In Talks With OpenAI to Guarantee $250 Billion Financing For Data Center",
+      "description": "Nvidiais in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data center project, the Wall Street Journal reported on Sunday. The backstop from Nvidia would help the ChatGPT maker lease a 10-gigawatt project that S…",
+      "url": "https://slashdot.org/submission/17349318/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-27T05:15:53Z"
+    },
+    {
+      "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+      "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-27T05:02:07Z"
+    },
+    {
+      "title": "Nvidia weighs US$250B backstop for OpenAI's Ohio data center",
+      "description": "Nvidia is in talks to provide a financial backstop of roughly US$250 billion that would help OpenAI lease and finance a massive AI data center campus in southern Ohio, the Wall Street Journal reported, citing people familiar with the matter.",
+      "url": "https://www.digitimes.com/news/a20260727VL209/nvidia-openai-data-center-infrastructure-finance.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T04:14:41Z"
+    },
+    {
+      "title": "Anthropic responds after Claude conversations appeared in Google Search results",
+      "description": "Claude conversations have appeared in Google Search via a simple query, highlighting growing concern about privacy and the use of AI models.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112858/anthropic-responds-after-claude-conversations-appeared-in-google-search-results/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-27T08:08:11Z"
+    },
+    {
+      "title": "Nvidia in talks to backstop $250bn of OpenAI’s data-centre financing",
+      "description": "Nvidia is reportedly in talks to guarantee about $250bn of financing for OpenAI, a backstop that would let the ChatGPT maker fund a vast new data centre without the investment-grade credit rating such borrowing normally demands. The arrangement was described …",
+      "url": "https://thenextweb.com/news/nvidia-openai-250bn-data-centre-financing-guarantee",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-27T07:18:06Z"
+    },
+    {
+      "title": "Fake Claude app: the Bing ad led to Anthropic's real site",
+      "description": "Anyone who searched for the Claude desktop app on Bing was sent by a paid ad to claude.ai, Anthropic's real address. The page waiting there was built by attackers and looked like the official download. 7,100 views, at least 29 organizations hit, and a trojan …",
+      "url": "https://www.notebookcheck.net/Fake-Claude-app-the-Bing-ad-led-to-Anthropic-s-real-site.1352573.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-27T07:17:00Z"
+    },
+    {
+      "title": "Nvidia in talks to back OpenAI’s $500B data center lease in Ohio",
+      "description": "Nvidia's backing of OpenAI's data center lease could redefine tech sector capital flows, influencing future infrastructure investment strategies.\nThe post Nvidia in talks to back OpenAI’s $500B data center lease in Ohio appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-openai-500b-data-center-lease",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-27T06:52:30Z"
+    },
+    {
+      "title": "株式会社SEMABIZ「AI推論用GPU向けGDDR7市場シェア分析、業界動向と統計、成長予測 2026-2031年」市場調査レポートの出版・販売開始のご案内",
+      "description": "SEMABIZはMordor Intelligence（モードーインテリジェンス）の英文調査報告書「AI推論用GPU向けGDDR7市場シェア分析、業界動向と統計、成長予測 2026-2031年-GDDR7 For AI Inference GPU - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)」の販売を2026年7月27日に開始いたしま...",
+      "url": "https://japan.cnet.com/release/31192268",
+      "source": "CNET",
+      "publishedAt": "2026-07-27T05:30:00Z"
+    },
+    {
+      "title": "Alphabet, Amazon, and Meta Will Spend Over $500 Billion on AI in 2026. Nvidia Collects a Huge Share",
+      "description": "Alphabet, Amazon, and Meta Will Spend Over $500 Billion on AI in 2026. Nvidia Collects a Huge Share.\nCompany updates this year put fresh numbers on the AI (artificial intelligence) build-out, and they are enormous. Alphabet raised its 2026 capital spending fo…",
+      "url": "https://biztoc.com/x/83f9c72a5d949a5f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T04:18:24Z"
+    },
+    {
+      "title": "Nvidia in Talks to Back OpenAI Lease of SoftBank US Data Center",
+      "description": "Nvidia Corp. is in discussions to provide a financing guarantee to help OpenAI lease computing from a US data center project planned for 2028, underscoring how the world’s most valuable company is funneling capital into the infrastructure that drives its busi…",
+      "url": "https://financialpost.com/pmn/business-pmn/nvidia-in-talks-to-back-openai-lease-of-softbank-us-data-center",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-27T04:06:17Z"
+    },
+    {
+      "title": "約7,500億パラメータを、コンセント1本で。フロンティア級LLM「GRZ」をNVIDIA DGX Spark 1台（128GB）に搭載し提供開始",
+      "description": "[株式会社QuantumCore]\n\n[画像1: https://prcdn.freetls.fastly.net/release_image/39630/41/39630-41-55ab4fac453de8c861a1d16e1b940393-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000041.000039630.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-27T07:36:28Z"
+    },
+    {
+      "title": "Netflix Details Its In-House LLM Serving Platform with Triton and vLLM",
+      "description": "Netflix has described the production lessons behind bringing LLM inference into its internal serving platform, including the challenges of supporting different model sizes, hardware requirements, and rapidly evolving inference engines. By Matt Foster",
+      "url": "https://www.infoq.com/news/2026/07/netflix-llm-platform",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-07-27T07:33:00Z"
+    },
+    {
+      "title": "Sam Altman Says OpenAI Has Reached 'the Singularity' After AI Model Secretly Hacked Hugging Face Servers",
+      "description": "OpenAI CEO Sam Altman claims AI has reached the singularity, coinciding with a security breach by its AI models, highlighting both transformative potential and safety concerns in the industry.",
+      "url": "https://www.ibtimes.com.au/ai-singularity-openai-sam-altman-security-breach-1872992",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-27T07:29:39Z"
+    },
+    {
+      "title": "Nvidia in OpenAI talks to guarantee data centre funding",
+      "description": "Nvidia is in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data centre project, the Wall Street Journal has reported.",
+      "url": "https://www.rte.ie/news/business/2026/0727/1585239-nvidia-in-openai-talks-to-guarantee-data-centre-funding",
+      "source": "RTE",
+      "publishedAt": "2026-07-27T07:22:48Z"
+    },
+    {
+      "title": "(PR) Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology",
+      "description": "Today at the 2026 DAC Chips to Systems Conference, Synopsys, Inc. announced advancements to agentic AI for engineering in collaboration with NVIDIA. Synopsys has developed fully autonomous, long-running agentic capabilities for chip design and electronics sys…",
+      "url": "https://www.techpowerup.com/351091/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-27T07:06:05Z"
+    },
+    {
+      "title": "Data Center Transformation Market Projected to Reach $61.10 Billion by 2035 | SNS Insider",
+      "description": "The U.S. data center transformation market is expected to hit $21.13 billion by 2035, while Europe is anticipated to touch $16.07 billion, driven by hybrid cloud adoption, AI-powered infrastructure management, edge computing expansion, and enterprise data cen…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/27/3333274/0/en/Data-Center-Transformation-Market-Projected-to-Reach-61-10-Billion-by-2035-SNS-Insider.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-27T06:30:00Z"
+    },
+    {
+      "title": "What OpenAI CEO Sam Altman will tell the White House this week",
+      "description": "OpenAI CEO Sam Altman heads to Washington this week to preview the company's most powerful AI yet, pushing for speedy approval of a model that just hacked a real company.\nWhy it matters: He'll tout a model powerful enough to solve an 80-year-old math problem,…",
+      "url": "https://biztoc.com/x/0c8f9a8d53db54b7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T06:04:35Z"
+    },
+    {
+      "title": "Nvidia Takes Unusual Role in Huge Ohio AI Project",
+      "description": "Nvidia is cooking up a deal that the Wall Street Journal calls \"one of the most ambitious financial transactions yet in America's artificial-intelligence boom.\" No, it's not about the invention of a powerful new chip—it's about financing. Nvidia is reportedly…",
+      "url": "https://www.newser.com/story/393531/nvidia-takes-unusual-role-in-huge-ohio-ai-project.html",
+      "source": "Newser",
+      "publishedAt": "2026-07-27T06:00:00Z"
+    },
+    {
+      "title": "Federal Judge Approves $1.5 Billion Copyright Settlement Against AI Company Anthropic",
+      "description": "A federal judge in San Francisco granted final approval to a $1.5 billion class-action settlement requiring AI company Anthropic to compensate authors and publishers for illegally downloading copyrighted books, according to court documents. The settlement, ap…",
+      "url": "https://www.naturalnews.com/2026-07-27-federal-judge-approves-copyright-settlement-against-anthropic.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z"
+    },
+    {
+      "title": "MetroLink cost; Berlin attack investigation; and the copyright case against AI giant Anthropic",
+      "description": "The Early Edition podcast brings you four of our top stories in under 10 minutes each morning from Monday to Friday",
+      "url": "https://www.irishtimes.com/podcasts/early-edition/2026/07/27/metrolink-cost-berlin-attack-investigation-and-the-copyright-case-against-ai-giant-anthropic",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-27T05:30:39Z"
+    },
+    {
+      "title": "Claude Opus 5 Is Here, Tops Fable 5 on Agentic Search, Anthropic Says",
+      "description": "The new model, however, falls behind Fable 5 in task categories such as answering legal questions and performing multidisciplinary reasoning without additional tools.\nAnthropic's newest model, Claude Opus 5, is now available to the public. Opus 5 comes close …",
+      "url": "https://me.pcmag.com/en/ai/37745/claude-opus-5-is-here-tops-fable-5-on-agentic-search-anthropic-says",
+      "source": "PCMag.com",
+      "publishedAt": "2026-07-27T05:23:10Z"
+    },
+    {
+      "title": "China's hottest AI chip stock became its most valuable listed company on day one",
+      "description": "Chinese memory-chip maker CXMT became the mainland's most valuable listed company, overtaking ICBC after its blockbuster IPO.",
+      "url": "https://www.businessinsider.com/cxmt-stock-price-ipo-688825-ticker-shanghai-changxin-ram-chip-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-27T04:54:32Z"
+    },
+    {
+      "title": "Anthropic releases ‘more efficient’ Claude Opus 5",
+      "description": "Claude Opus 5 is state-of-the-art on coding and knowledge tasks, more than doubling the performance of Opus 4.8 at the same cost, according to Anthropic.",
+      "url": "https://www.infoworld.com/article/4201551/anthropic-releases-more-efficient-claude-opus-5.html",
+      "source": "InfoWorld",
+      "publishedAt": "2026-07-27T04:09:32Z"
+    },
+    {
+      "title": "This Quantum Stock Is a Key Nvidia Partner and Looks Like a Buy Near a 52-Week Low",
+      "description": "Quantum computing hasn't had the same commercial success as artificial intelligence quite yet, but it has the potential to impact many industries. This technology can operate much faster than traditional computers and solve problems that current technology ca…",
+      "url": "https://biztoc.com/x/55a8e2bb4d78602d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T04:03:32Z"
+    },
+    {
+      "title": "Naver rises 10% after Nvidia plans $1B investment in South Korean AI expansion",
+      "description": "Naver's AI expansion, bolstered by Nvidia's investment, signals a transformative shift in South Korea's tech landscape, enhancing global competitiveness.\nThe post Naver rises 10% after Nvidia plans $1B investment in South Korean AI expansion appeared first on…",
+      "url": "https://cryptobriefing.com/naver-rises-nvidia-1b-investment-south-korea-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-27T03:35:55Z"
+    },
+    {
+      "title": "Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design",
+      "description": "Nvidia Corp. says it’s now running the chip design software its engineers are using to design the next generation of its graphics processing units, on its own silicon. It’s partnering with Cadence Systems Inc. and Synopsys Inc., the two biggest providers of e…",
+      "url": "https://siliconangle.com/2026/07/26/nvidia-putting-vera-cpus-work-alongside-ai-agents-speed-chip-design",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-27T03:24:03Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip",
+      "Anthropic Claude Opus 5 Beats ChatGPT 5.6 Sol in ARC AGI 3",
+      "OpenAI Reports: AI Models Broke Out of Sandbox to Hack Hugging Face",
+      "Nvidia In Talks With OpenAI to Guarantee $250 Billion Financing For Data Center",
+      "Nvidia in talks to back OpenAI lease of $500 billion data center"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/submission/17349318/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center",
+        "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+        "https://www.digitimes.com/news/a20260727VL209/nvidia-openai-data-center-infrastructure-finance.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-27-openai-models-escaped-sandbox-hack-hugging-face.html",
+        "https://www.ibtimes.com.au/ai-singularity-openai-sam-altman-security-breach-1872992",
+        "https://biztoc.com/x/0c8f9a8d53db54b7"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.globenewswire.com/news-release/2026/07/27/3333274/0/en/Data-Center-Transformation-Market-Projected-to-Reach-61-10-Billion-by-2035-SNS-Insider.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/claude-opus-5-review",
+        "https://www.tweaktown.com/news/112858/anthropic-responds-after-claude-conversations-appeared-in-google-search-results/index.html",
+        "https://www.notebookcheck.net/Fake-Claude-app-the-Bing-ad-led-to-Anthropic-s-real-site.1352573.0.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260727VL211/startup-processor-language.html",
+        "https://japan.cnet.com/release/31192268",
+        "https://www.infoq.com/news/2026/07/netflix-llm-platform"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

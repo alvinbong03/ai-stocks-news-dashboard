@@ -1,0 +1,418 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-07-28",
+  "last_updated_utc": "2026-07-28T08:25:07.804Z",
+  "news": [
+    {
+      "title": "(PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+      "description": "Samsung Electronics and Broadcom today announced the signing of a memorandum of understanding (MOU) to expand their strategic collaboration across memory and foundry technologies, supporting the next generation of AI infrastructure. The MOU was announced duri…",
+      "url": "https://www.techpowerup.com/351093/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-27T08:21:37Z"
+    },
+    {
+      "title": "Shanghai Composite Jumps as CXMT Shares Soar 470% and Oil Sinks on Iran-US Truce Hopes in Asia Today",
+      "description": "Asian stock markets rose as oil prices fell over 4% due to US-Iran ceasefire talks. China's CXMT made a strong debut, reflecting investor interest in semiconductor manufacturing.",
+      "url": "https://www.ibtimes.com.au/asian-markets-rally-oil-prices-drop-us-iran-ceasefire-1873007",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-27T08:16:10Z"
+    },
+    {
+      "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com",
+      "description": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPOBloomberg.com Chipmaker CXMT vaults to top of China's valuation with 530% surge in Shanghai debutReuters CXMT’s Strong Debut Boosts China’s Bid to Conquer Memory ChipsWSJ Chinese chip champion CXMT…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184716114",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-27T08:12:36Z"
+    },
+    {
+      "title": "Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip",
+      "description": "A Singapore-based chip startup called Acrab on July 22 unveiled its first AI processor, claiming it can run large language models locally at speeds that outpace Apple's Mac Mini M4 Pro by a factor of 7.5 on certain benchmarks.",
+      "url": "https://www.digitimes.com/news/a20260727VL211/startup-processor-language.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T08:05:30Z"
+    },
+    {
+      "title": "Samsung to use 2nm process for HBM5 base die as heat challenge grows",
+      "description": "Samsung Electronics plans to manufacture the base die for its next-generation HBM5 memory using a 2nm gate-all-around foundry process, as faster high-bandwidth memory raises pressure on logic performance, power efficiency and heat management.",
+      "url": "https://www.digitimes.com/news/a20260727VL216/samsung-2nm-hbm-performance-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T08:05:12Z"
+    },
+    {
+      "title": "Samsung Galaxy Watch 9 Preorders Are Live. Here’s Why You Shouldn’t Wait Until Launch",
+      "description": "New chip, bigger batter and launch offers you’ll want to take advantage of before they disappear.",
+      "url": "https://www.cnet.com/deals/samsungs-newest-watches-are-available-to-preorder-and-you-can-even-score-one-for-free-2",
+      "source": "CNET",
+      "publishedAt": "2026-07-27T07:49:07Z"
+    },
+    {
+      "title": "Show HN: A browser-based vector animation engine rendering animated objects",
+      "description": "Hi HN,I've been working on ThorVG, an open-source vector graphics engine. It started as a lightweight SVG renderer and has gradually evolved into a rendering engine supporting SVG, Lottie, and modern GPU backends.This demo showcases the latest ThorVG 1.1 runn…",
+      "url": "https://thorvg-janitor.vercel.app/",
+      "source": "Vercel.app",
+      "publishedAt": "2026-07-27T07:46:55Z"
+    },
+    {
+      "title": "約7,500億パラメータを、コンセント1本で。フロンティア級LLM「GRZ」をNVIDIA DGX Spark 1台（128GB）に搭載し提供開始",
+      "description": "[株式会社QuantumCore]\n\n[画像1: https://prcdn.freetls.fastly.net/release_image/39630/41/39630-41-55ab4fac453de8c861a1d16e1b940393-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000041.000039630.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-27T07:36:28Z"
+    },
+    {
+      "title": "CXMT becomes China’s most valuable A-share company after $8.6 billion IPO",
+      "description": "ChangXin Memory Technologies (CXMT), China’s largest DRAM maker, raised RMB57.92 billion ($8.6 billion) in its Shanghai STAR Market IPO on July 27, in what became the largest mainland semiconductor offering on record. By the midday break, its shares had risen…",
+      "url": "https://technode.com/2026/07/27/cxmt-becomes-chinas-most-valuable-a-share-company-after-8-6-billion-ipo",
+      "source": "TechNode",
+      "publishedAt": "2026-07-27T07:23:16Z"
+    },
+    {
+      "title": "Nvidia in OpenAI talks to guarantee data centre funding",
+      "description": "Nvidia is in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data centre project, the Wall Street Journal has reported.",
+      "url": "https://www.rte.ie/news/business/2026/0727/1585239-nvidia-in-openai-talks-to-guarantee-data-centre-funding",
+      "source": "RTE",
+      "publishedAt": "2026-07-27T07:22:48Z"
+    },
+    {
+      "title": "Chinese chipmaker CXMT jumps over 470% in market debut",
+      "description": "Chinese chipmaker CXMT surged more than 470% in its stock market debut on Monday, buoyed by strong investor demand driven by the global race to develop artificial intelligence.\nShares in the Hefei-based semiconductor manufacturer opened at 49.50 yuan ($7.31),…",
+      "url": "https://biztoc.com/x/f3737746938af79a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T07:19:54Z"
+    },
+    {
+      "title": "Nvidia in talks to backstop $250bn of OpenAI’s data-centre financing",
+      "description": "Nvidia is reportedly in talks to guarantee about $250bn of financing for OpenAI, a backstop that would let the ChatGPT maker fund a vast new data centre without the investment-grade credit rating such borrowing normally demands. The arrangement was described …",
+      "url": "https://thenextweb.com/news/nvidia-openai-250bn-data-centre-financing-guarantee",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-27T07:18:06Z"
+    },
+    {
+      "title": "(PR) Siemens Advances Self-verifying Agentic AI Workflows for Semiconductor and PCB Design",
+      "description": "Siemens today announced an expansion of its strategic partnership with NVIDIA to deliver self-verifying agentic AI workflows to EDA, helping semiconductor and printed circuit board (PCB) engineering teams move from autonomous task orchestration toward more tr…",
+      "url": "https://www.techpowerup.com/351092/siemens-advances-self-verifying-agentic-ai-workflows-for-semiconductor-and-pcb-design",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-27T07:08:50Z"
+    },
+    {
+      "title": "Global Markets: Japan's Nikkei rises as oil falls before key earnings",
+      "description": "Japan's Nikkei share average closed higher on Monday, boosted by lower oil prices. Investors remained cautious due to upcoming major earnings reports from U.S. cloud companies. Reduced concerns over crude prices supported Japanese shares, while buybacks were …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-oil-falls-before-key-earnings/articleshow/132654861.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-27T07:08:40Z"
+    },
+    {
+      "title": "(PR) Synopsys Showcases Comprehensive Autonomous Engineering Workflows from Silicon to Systems, Developed with NVIDIA Technology",
+      "description": "Today at the 2026 DAC Chips to Systems Conference, Synopsys, Inc. announced advancements to agentic AI for engineering in collaboration with NVIDIA. Synopsys has developed fully autonomous, long-running agentic capabilities for chip design and electronics sys…",
+      "url": "https://www.techpowerup.com/351091/synopsys-showcases-comprehensive-autonomous-engineering-workflows-from-silicon-to-systems-developed-with-nvidia-technology",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-27T07:06:05Z"
+    },
+    {
+      "title": "How Lisa Su Has Positioned AMD to Be a Big AI Winner and Why the Stock Is a Buy",
+      "description": "In the early days of artificial intelligence (AI), Advanced Micro Devices (NASDAQ: AMD) looked like it would be nothing more than an afterthought to the dominant Nvidia. However, AMD CEO Lisa Su has managed to position the company to be a big AI winner in the…",
+      "url": "https://biztoc.com/x/efff303cf722bd11",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T07:04:51Z"
+    },
+    {
+      "title": "Vultr targets open composable stacks and AMD partnership to lead cloud AI infrastructure",
+      "description": "Cloud AI infrastructure is shifting into a new cycle, defined by who can deliver the strongest performance per dollar on a global setup that also meets different countries’ sovereignty rules. That’s the premise Vultr is executing on, according to Kevin Cochra…",
+      "url": "https://siliconangle.com/2026/07/27/vultr-bets-amd-open-stacks-win-cloud-ai-infrastructure-amdadvancingai",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-27T06:57:41Z"
+    },
+    {
+      "title": "Nvidia in talks to back OpenAI’s $500B data center lease in Ohio",
+      "description": "Nvidia's backing of OpenAI's data center lease could redefine tech sector capital flows, influencing future infrastructure investment strategies.\nThe post Nvidia in talks to back OpenAI’s $500B data center lease in Ohio appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-openai-500b-data-center-lease",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-27T06:52:30Z"
+    },
+    {
+      "title": "China export curbs put $6.5 trillion global supply chains at risk: IEA",
+      "description": "Global supply chains for critical minerals face acute economic security challenges.  China's export controls on rare earth elements impacted downstream industries significantly.  Critical mineral prices rebounded sharply in 2025 and early 2026.  Top refining …",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/china-export-curbs-put-6-5-trillion-global-supply-chains-at-risk-iea/articleshow/132654167.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-27T06:40:46Z"
+    },
+    {
+      "title": "TensorWave targets focused AI cloud strategy to deliver better customer experience",
+      "description": "As AI infrastructure matures, AI cloud strategy is increasingly defined by reliability and open ecosystems rather than raw GPU performance. That evolution is creating new opportunities for specialized providers to challenge incumbent players with more focused…",
+      "url": "https://siliconangle.com/2026/07/27/ai-cloud-strategy-amdadvancingai",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-07-27T06:40:02Z"
+    },
+    {
+      "title": "China’s CXMT Stock Soars 470% in Start of Trading, Amid A.I. Race",
+      "description": "The meteoric rise on its first day of trading catapulted CXMT, China’s leading memory chip maker, to being the most valuable company on the Shanghai stock exchange.",
+      "url": "https://biztoc.com/x/9b68efbe69a85d16",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T06:34:16Z"
+    },
+    {
+      "title": "MSI launches compact PRO MAX EDGE AI+ desktops, with up to Ryzen AI Max+ 395 and 128GB of memory",
+      "description": "The new MSI PRO MAX EDGE AI+ pairs the AMD Ryzen AI Max+ 395 processor with up to 128GB of LPDDR5X-8000 memory for powerful local AI.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112855/msi-launches-compact-pro-max-edge-ai-plus-desktops-with-up-to-ryzen-ai-max-plus-395-and-128gb-of-memory/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-27T06:33:09Z"
+    },
+    {
+      "title": "Explainer: Why investors are betting big on China’s chipmaker CXMT",
+      "description": "China's ChangXin Memory Technologies (CXMT) became the country's most valuable listed company after its shares surged 470% on their Shanghai debut. The blockbuster listing, Asia's largest IPO this year, highlights strong investor confidence in China's semicon…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explainer-why-investors-are-betting-big-on-chinas-chipmaker-cxmt/articleshow/132654124.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-27T06:31:22Z"
+    },
+    {
+      "title": "Explained: Why CXMT’s blockbuster IPO is a milestone for China’s semiconductor ambitions",
+      "description": "China’s DRAM chipmaker ChangXin Memory Technologies (CXMT) stunned markets with a more than 500% surge on its Shanghai debut, becoming the country’s most valuable listed company and marking a major milestone in Beijing’s quest for semiconductor self-reliance.",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/explained-why-cxmts-blockbuster-ipo-is-a-milestone-for-chinas-semiconductor-ambitions/article71271630.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-27T06:30:42Z"
+    },
+    {
+      "title": "Snack Muktipacks Stock-Up Sale at Woot for from $12 + free shipping w/ Prime",
+      "description": "Woot's Snack Stock-Up and More sale covers bulk snacks, drinks, and pantry staples, with Rold Gold Tiny Twists Pretzels dropping to $20.99 and Lays Sour Cream and Onion chips at $24.99. The sale spans chips, candy, bottled water, juice, and soup from brands l…",
+      "url": "https://www.dealnews.com/Snack-Muktipacks-Stock-Up-Sale-at-Woot-for-from-12-free-shipping-w-Prime/21934317.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-07-27T06:28:59Z"
+    },
+    {
+      "title": "Blue chip stocks add N2.5trn to market capitalisation as rally continues",
+      "description": "By Peter Egwuatu  The Nigerian stock market maintained a bullish run Week-on-Week, WoW, on renewed demand for large-capitalised stocks pushing the benchmark Nigerian Exchange Limited, NGX All-Share Index (ASI)  to 247,357.40 points. The positive reading refle…",
+      "url": "https://www.vanguardngr.com/2026/07/blue-chip-stocks-add-n2-5trn-to-market-capitalisation-as-rally-continues",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-27T06:23:38Z"
+    },
+    {
+      "title": "Intel Stock: Grotesque Valuation (NASDAQ:INTC)",
+      "description": "Chip-maker Intel (INTC) published better-than-expected earnings for its second-quarter last week amid a strong growth upsurge in its AI data center business: this led the company to report 25% year-over-year top line growth as well\nSummary\n- Intel posted a st…",
+      "url": "https://biztoc.com/x/be3c271f0d7de772",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T06:19:31Z"
+    },
+    {
+      "title": "Chinese chipmaker CXMT shares soar in blockbuster listing",
+      "description": "China's leading memory chipmaker CXMT became the most valuable company in the mainland after soaring 500 percent on its market debut yesterday, underscoring the impact of AI-driven demand on the semiconductor sector.",
+      "url": "https://www.hurriyetdailynews.com/chinese-chipmaker-cxmt-shares-soar-in-blockbuster-listing-224846",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-27T06:14:04Z"
+    },
+    {
+      "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
+      "description": "Better late than never: Intel (NASDAQ: INTC) has officially joined the artificial intelligence (AI) infrastructure boom, with the company seeing its data center and AI segment revenue surge in the second quarter. Shares jumped in after-hours trading, but Inte…",
+      "url": "https://biztoc.com/x/3e008dc271160076",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T06:04:24Z"
+    },
+    {
+      "title": "Nvidia's Vera CPU targets go beyond Intel and AMD",
+      "description": "After Nvidia has grown into a global giant on GPUs, why is it suddenly delving into CPUs? At first glance, its Vera is entering the server CPU market, where its rivals are naturally Intel's Xeon and AMD's EPYC. But Nvidia's real target may be much broader, in…",
+      "url": "https://www.digitimes.com/news/a20260727PD218/nvidia-cpu-intel-amd-xeon.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T06:02:04Z"
+    },
+    {
+      "title": "LG gram 17 (Open-Boxes): 17\" QHD+ IPS Touch, Intel Ultra 7 258V, 32GB LPDDR5, 1TB SSD $648.99 (0 replies)",
+      "description": "Lowest prices so far. \n\nOpen Boxes [bestbuy.com] (YMMV) available:Excellent - $721.99\nGood - $681.99\nFair - $648.99\nLG gram 17\" Touch Screen Laptop Copilot+ PC Intel Core Ultra 7 Series 2 with 32",
+      "url": "https://slickdeals.net/f/19812213-lg-gram-17-open-boxes-17-qhd-ips-touch-intel-ultra-7-258v-32gb-lpddr5-1tb-ssd-648-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-07-27T06:01:32Z"
+    },
+    {
+      "title": "Marathon Petroleum’s CISO on OT security automation, supply chain risk",
+      "description": "In this interview with Help Net Security, Mary Rose Martinez, CISO at Marathon Petroleum, talks about what happens to security when automation reaches deep into refineries, pipelines, and terminals. She explains why the old idea of air-gapped operational tech…",
+      "url": "https://www.helpnetsecurity.com/2026/07/27/mary-rose-martinez-marathon-petroleum-ot-security-automation",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-27T06:00:39Z"
+    },
+    {
+      "title": "Nvidia Takes Unusual Role in Huge Ohio AI Project",
+      "description": "Nvidia is cooking up a deal that the Wall Street Journal calls \"one of the most ambitious financial transactions yet in America's artificial-intelligence boom.\" No, it's not about the invention of a powerful new chip—it's about financing. Nvidia is reportedly…",
+      "url": "https://www.newser.com/story/393531/nvidia-takes-unusual-role-in-huge-ohio-ai-project.html",
+      "source": "Newser",
+      "publishedAt": "2026-07-27T06:00:00Z"
+    },
+    {
+      "title": "Pegatron unveils AMD EPYC server platform for AI and HPC",
+      "description": "Pegatron unveiled a new server platform powered by AMD's sixth-generation EPYC processors at AMD Advancing AI 2026, targeting enterprise AI, agentic AI, high-performance computing (HPC), cloud computing, and data-intensive workloads.",
+      "url": "https://www.digitimes.com/news/a20260724PD244/pegatron-amd-hpc-performance-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T05:59:54Z"
+    },
+    {
+      "title": "Chinese AI startup Moonshot dispute puts US-China AI cooperation at risk",
+      "description": "Tensions between the US and China are escalating following allegations that Moonshot AI improperly extracted capabilities from advanced US-developed AI models and accessed export-controlled Nvidia hardware while developing Kimi K3. The model has drawn industr…",
+      "url": "https://www.digitimes.com/news/a20260724VL221.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T05:59:46Z"
+    },
+    {
+      "title": "Rebellions readies Rebel100 shipments as AI inference demand grows",
+      "description": "South Korean AI chip designer Rebellions plans to begin shipping its next-generation Rebel100 accelerator in the second half of 2026, betting that wider use of AI agents and commercial AI services will shift more infrastructure spending from model training to…",
+      "url": "https://www.digitimes.com/news/a20260727VL212/ai-inference-shipments-ai-chip-infrastructure-sk-telecom.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T05:58:27Z"
+    },
+    {
+      "title": "株式会社SEMABIZ「AI推論用GPU向けGDDR7市場シェア分析、業界動向と統計、成長予測 2026-2031年」市場調査レポートの出版・販売開始のご案内",
+      "description": "SEMABIZはMordor Intelligence（モードーインテリジェンス）の英文調査報告書「AI推論用GPU向けGDDR7市場シェア分析、業界動向と統計、成長予測 2026-2031年-GDDR7 For AI Inference GPU - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)」の販売を2026年7月27日に開始いたしま...",
+      "url": "https://japan.cnet.com/release/31192268",
+      "source": "CNET",
+      "publishedAt": "2026-07-27T05:30:00Z"
+    },
+    {
+      "title": "Nvidia In Talks With OpenAI to Guarantee $250 Billion Financing For Data Center",
+      "description": "Nvidiais in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data center project, the Wall Street Journal reported on Sunday. The backstop from Nvidia would help the ChatGPT maker lease a 10-gigawatt project that S…",
+      "url": "https://slashdot.org/submission/17349318/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-27T05:15:53Z"
+    },
+    {
+      "title": "China's memory chipmaker CXMT shares soar in its blockbuster share listing in Shanghai",
+      "description": "CXMT's shares surge after raising $8.6 billion in Shanghai, highlighting China's push for self-sufficiency in memory chip technology.",
+      "url": "https://www.thehindubusinessline.com/markets/chinas-memory-chipmaker-cxmt-shares-soar-in-its-blockbuster-share-listing-in-shanghai/article71271437.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-27T05:14:36Z"
+    },
+    {
+      "title": "WIN Semiconductors sees optical communications ramp accelerate AI revenue contribution",
+      "description": "Gallium arsenide (GaAs) foundry WIN Semiconductors (WIN) expects infrastructure revenue to continue growing in the third quarter of 2026, driven by demand from low Earth orbit (LEO) satellites and other aerospace applications, while shipments of smartphone po…",
+      "url": "https://www.digitimes.com/news/a20260727PD224/revenue-win-semi-communications-gaas-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-27T05:03:14Z"
+    },
+    {
+      "title": "CXMT Chairman Zhu Yiming Amasses $15.9 Billion Fortune By Growing Memory Chip Maker Into Micron Rival",
+      "description": "A Chinese national champion at the forefront of a fierce technology rivalry with the U.S., CXMT is now the country’s largest onshore-listed firm.",
+      "url": "https://www.forbes.com/sites/ywang/2026/07/27/cxmt-chairman-zhu-yiming-amasses-159-billion-fortune-by-growing-memory-chip-maker-into-micron-rival",
+      "source": "Forbes",
+      "publishedAt": "2026-07-27T05:02:38Z"
+    },
+    {
+      "title": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+      "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-27T05:02:07Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "(PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+      "Shanghai Composite Jumps as CXMT Shares Soar 470% and Oil Sinks on Iran-US Truce Hopes in Asia Today",
+      "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO - Bloomberg.com",
+      "Singapore startup Acrab claims 7.5x speed edge over Mac Mini M4 Pro with new AI chip",
+      "Samsung to use 2nm process for HBM5 base die as heat challenge grows"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000041.000039630.html",
+        "https://www.rte.ie/news/business/2026/0727/1585239-nvidia-in-openai-talks-to-guarantee-data-centre-funding",
+        "https://thenextweb.com/news/nvidia-openai-250bn-data-centre-financing-guarantee"
+      ]
+    },
+    {
+      "title": "Memory",
+      "summary": "Grouped stories where \"memory\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/351093/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184716114",
+        "https://www.digitimes.com/news/a20260727VL216/samsung-2nm-hbm-performance-hbm4.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260727VL211/startup-processor-language.html",
+        "https://www.cnet.com/deals/samsungs-newest-watches-are-available-to-preorder-and-you-can-even-score-one-for-free-2",
+        "https://www.vanguardngr.com/2026/07/blue-chip-stocks-add-n2-5trn-to-market-capitalisation-as-rally-continues"
+      ]
+    },
+    {
+      "title": "Cxmt",
+      "summary": "Grouped stories where \"cxmt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/asian-markets-rally-oil-prices-drop-us-iran-ceasefire-1873007",
+        "https://biztoc.com/x/f3737746938af79a"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thorvg-janitor.vercel.app/",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-oil-falls-before-key-earnings/articleshow/132654861.cms",
+        "https://siliconangle.com/2026/07/27/vultr-bets-amd-open-stacks-win-cloud-ai-infrastructure-amdadvancingai"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: (PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: (PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: (PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: (PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: (PR) Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
