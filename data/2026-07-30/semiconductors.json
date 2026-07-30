@@ -1,0 +1,394 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-07-30",
+  "last_updated_utc": "2026-07-30T08:15:28.858Z",
+  "news": [
+    {
+      "title": "Nikkei Falls Again as AI Selling Offsets Broader Market Recovery",
+      "description": "Tokyo stocks diverged sharply on July 29, with the Nikkei 225 closing at 61,434.19, down 930.73 points, or 1.49%, as selling in artificial intelligence and semiconductor-related heavyweights continued, while the broader TOPIX rose as investors bought back ban…",
+      "url": "https://newsonjapan.com/article/150151.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-07-29T08:14:33Z"
+    },
+    {
+      "title": "DIY Steam Machine: Minisforum AtomMan G7PT, Ryzen 9 Specs and Gaming Benchmarks",
+      "description": "The AtomMan G7PT, developed by Minisforum, has emerged as a standout in the mini PC market, offering a significant leap in performance over Valve’s Steam Machine. Equipped with a Ryzen 9 7945HX processor and a Radeon RX 7600M XT GPU, this compact device deliv…",
+      "url": "https://www.geeky-gadgets.com/atomman-g7pt-steamos-mini-pc",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-29T08:13:00Z"
+    },
+    {
+      "title": "South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surge - AP News",
+      "description": "South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surgeAP News Asian Stocks Eye Gains as Oil Offsets Chip Selloff: Markets WrapBloomberg South Korea $2 trillion stock rout breaks records as SK Hynix results disappointReut…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184746206",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-29T08:12:29Z"
+    },
+    {
+      "title": "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
+      "description": "SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.",
+      "url": "https://biztoc.com/x/b8a82e574093b1dd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T08:08:04Z"
+    },
+    {
+      "title": "AMD Radeon RX 9050 officially unveiled",
+      "description": "AMD has officially unveiled the Radeon RX 9050, expanding its Radeon RX 9000 desktop graphics card lineup with a new...\nThe post AMD Radeon RX 9050 officially unveiled appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/amd-radeon-rx-9050-official-specs-price",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-07-29T08:03:40Z"
+    },
+    {
+      "title": "(PR) COLORFUL Launches the Rimbook L1 Plus Laptop",
+      "description": "Colorful Technology Company Limited, a leading brand in gaming PC components, gaming laptops, and Hi-fi audio products, proudly announces the COLORFUL Rimbook L1 Plus, powered by an AMD Ryzen processor. Designed for students, professionals, creators, and ever…",
+      "url": "https://www.techpowerup.com/351180/colorful-launches-the-rimbook-l1-plus-laptop",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-07-29T08:03:28Z"
+    },
+    {
+      "title": "ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China",
+      "description": "In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASM…",
+      "url": "https://warontherocks.com/cogs-of-war/asmls-extreme-ultraviolet-lithography-and-the-limits-of-reverse-engineering-in-china",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-07-29T08:00:20Z"
+    },
+    {
+      "title": "Nvidia RTX Gaming Laptop Deals at Best Buy: Up to $1,200 off + free shipping",
+      "description": "Best Buy has discounted a range of gaming laptops from brands like HP OMEN, Alienware, ASUS ROG, and HyperX. Prices start at $679.99 for an HP Victus with an NVIDIA GeForce RTX 3050, while higher-end options include OLED displays, RTX 5080 graphics, and confi…",
+      "url": "https://www.dealnews.com/Nvidia-RTX-Gaming-Laptop-Deals-at-Best-Buy-Up-to-1-200-off-free-shipping/21945746.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-07-29T07:59:54Z"
+    },
+    {
+      "title": "Aewin expands AMD EPYC 9006 server lineup for AI, storage and enterprise workloads",
+      "description": "Aewin Technologies has introduced a four-product server lineup built around AMD's newly launched EPYC 9006 processor family, targeting AI, general-purpose computing and storage workloads. The launch comes as demand for server architectures continues to fragme…",
+      "url": "https://www.digitimes.com/news/a20260729PD227/amd-aewin-demand-training.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T07:53:32Z"
+    },
+    {
+      "title": "Mend.io enhances application security with AI runtime protection and faster zero-day response",
+      "description": "Mend.io has announced new capabilities across Mend AI and Mend AppSec to help organizations respond faster to both application risk and the expanding attack surface created by AI. Mend.io’s latest enhancements help teams identify meaningful risk, reduce manua…",
+      "url": "https://www.helpnetsecurity.com/2026/07/29/mend-io-runtime-protection",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-29T07:49:10Z"
+    },
+    {
+      "title": "China's glass substrate supply chain takes shape for AI chip packaging",
+      "description": "Intel's recent memorandum of understanding with Lens Technology to collaborate on through-glass via (TGV) advanced packaging has been widely viewed as an important step towards the industrialisation of glass core substrates.",
+      "url": "https://www.digitimes.com/news/a20260729PD219/china-glass-substrate-packaging-equipment-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T07:38:54Z"
+    },
+    {
+      "title": "Bitcoin slips near $63K as chip stock sell-off, ETF outflows, $510 million liquidations and Fed uncertainty weigh on sentiment",
+      "description": "Bitcoin traded near $63,000 on Wednesday as $510 million in liquidations, chip stock sell-offs, and US spot ETF outflows weighed on sentiment. Investors remain cautious ahead of the US Federal Reserve's rate decision and legislative delays surrounding the CLA…",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-near-63k-as-chip-stock-sell-off-etf-outflows-510-million-liquidations-and-fed-uncertainty-weigh-on-sentiment/articleshow/132705492.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T07:37:08Z"
+    },
+    {
+      "title": "NVIDIA is giving away 3-Month Discord Nitro subscriptions to all GeForce gamers",
+      "description": "All GeForce GTX 10 Series and above PC or laptop gamers are eligible for the latest GeForce Reward, three months of Discord Nitro.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112898/nvidia-is-giving-away-3-month-discord-nitro-subscriptions-to-all-geforce-gamers/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-29T07:25:10Z"
+    },
+    {
+      "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+      "description": "South Korea's finance minister apologized on Wednesday after retail investors racked up heavy losses from leveraged bets on stocks, following rule changes earlier this year.\nThe May 27 introduction of single-stock leveraged Exchange Traded Funds has seen Kore…",
+      "url": "https://biztoc.com/x/d9fe26fad67bf532",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T07:22:17Z"
+    },
+    {
+      "title": "Nvidia's Jensen Huang warns US officials about banning Chinese open-weight models",
+      "description": "Nvidia CEO Jensen Huang once again voiced his support for open-weight and open-source AI, a form of model that has caught official attention in Washington after the release of the powerful Kimi K3 model from Chinese startup Moonshot AI. His comments added ano…",
+      "url": "https://www.digitimes.com/news/a20260729VL221/nvidia-jensen-huang-ceo-kimi-k3-moonshot.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T07:20:28Z"
+    },
+    {
+      "title": "Infoblox enters EASM market with attack surface and supply chain risk tools",
+      "description": "Infoblox has announced its entry into the external attack surface management (EASM) market. Together, with the introduction of Supply Chain Intelligence, the launch expands the Infoblox Exposure Management portfolio, helping organizations identify, prioritize…",
+      "url": "https://www.helpnetsecurity.com/2026/07/29/infoblox-enters-easm-market-with-attack-surface-and-supply-chain-risk-tools",
+      "source": "Help Net Security",
+      "publishedAt": "2026-07-29T07:08:18Z"
+    },
+    {
+      "title": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+      "description": "Korean retail investors have racked up heavy losses from leveraged bets on stocks, following rule changes earlier this year.",
+      "url": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-29T07:01:28Z"
+    },
+    {
+      "title": "AMD Software Adrenalin 26.7.1 WHQL driver adds support for a brand-new RDNA 4 GPU",
+      "description": "AMD Software: Adrenalin Edition 26.7.1 Driver adds support for the new entry-level Radeon RX 9050 GPU and the upcoming Gears of War: E-Day Open Beta.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112897/amd-software-adrenalin-26-7-1-whql-driver-adds-support-for-a-brand-new-rdna-4-gpu/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-29T06:56:08Z"
+    },
+    {
+      "title": "Oil jumps after Iran attempts ‘surprise attack’; chip stocks slump further as AI sell-off continues – business live",
+      "description": "Rolling coverage of the latest economic and financial news\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nOil is rising again this morning after the US military said it knocked down an Iranian missi…",
+      "url": "https://biztoc.com/x/9459d626ec3b8a03",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T06:51:16Z"
+    },
+    {
+      "title": "16th century bell foundry adds modern technology to keep casting process alive",
+      "description": "Austria's Grassmayr Bell Foundry has been casting massive bells for churches and cathedrals around the globe for more than 400 years",
+      "url": "https://abcnews.com/International/wireStory/austrias-16th-century-bell-foundry-adds-modern-technology-135179503",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-29T06:45:06Z"
+    },
+    {
+      "title": "Former intel officials want to probe Trump's dump. Doesn't sound like a very smart idea, considering they probably don't have any hazardous material handling expertise [Obvious]",
+      "description": "Former intel officials want to probe Trump's dump. Doesn't sound like a very smart idea, considering they probably don't have any hazardous material handling expertise",
+      "url": "https://www.fark.com/comments/14145626/Former-intel-officials-want-to-probe-Trumps-dump-Doesnt-sound-like-a-very-smart-idea-considering-they-probably-dont-have-any-hazardous-material-handling-expertise",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-29T06:43:48Z"
+    },
+    {
+      "title": "Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan",
+      "description": "Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee stock incentive plan.\nThe goal marked …",
+      "url": "https://biztoc.com/x/1e34040bc12190ec",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T06:36:28Z"
+    },
+    {
+      "title": "Intel Foundry completes US microelectronics prototype program",
+      "description": "Intel Foundry has completed a US defense-backed semiconductor prototype program that could have implications for supply chain resilience, national security, and global access to advanced chips. The work, tied to Intel 18A technology, aims to expand trusted do…",
+      "url": "https://www.digitimes.com/news/a20260729PR204/intel-foundry-intel-technology-supply-chain-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T06:30:00Z"
+    },
+    {
+      "title": "Lenovo releases new 14-inch laptop globally with 32 GB RAM, Intel Panther Lake and over 20 hours battery life",
+      "description": "Lenovo has finally released one of its latest 14-inch laptops globally. A convertible laptop, the ThinkBook 14 2-in-1 G6 IPL combines Intel Panther Lake processors with upgradeable SODIMM RAM and a battery that is said to last over 20 hours in official tests.",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-globally-with-32-GB-RAM-Intel-Panther-Lake-and-over-20-hours-battery-life.1354387.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-29T06:19:00Z"
+    },
+    {
+      "title": "Apple briefly tops $5 trillion market value",
+      "description": "Apple's market capitalisation briefly surpassed $5 trillion for the first time yesterday, making it only the second company ever to achieve that milestone after Nvidia.",
+      "url": "https://www.rte.ie/news/business/2026/0729/1585556-apple-briefly-tops-5-trillion-market-value",
+      "source": "RTE",
+      "publishedAt": "2026-07-29T06:09:40Z"
+    },
+    {
+      "title": "Apple MacBooks, iPads & more at Woot: Up to 75% off + extra 10% off + free shipping w/ Prime",
+      "description": "Woot's Apple sale covers a wide range of products, from refurbished iPads starting around $97 to MacBook Pro and MacBook Air laptops with M1 and M1 Pro chips. Accessories like AirPods Pro, Apple Pencil, and charging cables round out the lineup at lower price …",
+      "url": "https://www.dealnews.com/Apple-Mac-Books-iPads-more-at-Woot-Up-to-75-off-extra-10-off-free-shipping-w-Prime/21944198.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-07-29T06:07:29Z"
+    },
+    {
+      "title": "Apple tops $5 trillion market cap in trading, retakes world’s most valuable company title",
+      "description": "Apple briefly crossed the $5 trillion market cap milestone after overtaking Nvidia, becoming only the second company to reach the historic valuation.",
+      "url": "https://www.thehindubusinessline.com/markets/apple-tops-5-trillion-market-cap-in-trading-retakes-worlds-most-valuable-company-title/article71280064.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-29T06:04:24Z"
+    },
+    {
+      "title": "Chinese Memory Chip Maker CXMT Delivers Blockbuster IPO",
+      "description": "ChangXin Memory Technologies (CXMT), China’s largest producer of dynamic random-access memory (DRAM) chips, saw its shares surge 466% in its market debut on the Shanghai Stock Exchange’s STAR Market on Monday, July 27 – making it mainland China’s most valuabl…",
+      "url": "https://www.naturalnews.com/2026-07-29-chinese-chip-maker-cxmt-delivers-blockbuster-ipo.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-29T06:00:00Z"
+    },
+    {
+      "title": "Silicon Valley Startups Urge Trump to Avoid Ban on Chinese AI Models",
+      "description": "A coalition of technology companies has urged the Trump administration not to impose broad restrictions on Chinese open-weight artificial intelligence models, warning that such a ban could undermine innovation and raise costs for U.S. startups, according to a…",
+      "url": "https://www.naturalnews.com/2026-07-29-silicon-valley-startups-trump-avoid-chinese-ai-ban.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-29T06:00:00Z"
+    },
+    {
+      "title": "Why the Korean Stock Market Crash Is a Warning We Should All Heed",
+      "description": "The Collapse of This Semiconductor Tulip Mania Was Inevitable I’ve been watching the Korean stock market bubble inflate for months, and I’ve warned repeatedly that a reckoning was coming. Now it’s here. The KOSPI index has plunged repeatedly, losing nearly 10…",
+      "url": "https://www.naturalnews.com/2026-07-29-korean-stock-market-crash-is-a-warning.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-29T06:00:00Z"
+    },
+    {
+      "title": "ASRock, PowerColor, and SAPPHIRE launch new entry-level Radeon RX 9050 GPUs",
+      "description": "AMD has launched a new entry-level RDNA 4 GPU, the Radeon RX 9050 8GB. And with that, here's a look at options from ASRock, PowerColor, and SAPPHIRE.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/112899/asrock-powercolor-and-sapphire-launch-new-entry-level-radeon-rx-9050-gpus/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-07-29T05:58:09Z"
+    },
+    {
+      "title": "[AC] $74 | AMD Ryzen 5 5500 6-Core/12-Thread Desktop Processor (with Wraith Stealth Cooler) at Amazon",
+      "description": "Amazon [amazon.com] has *AMD Ryzen 5 5500 6-Core/12-Thread Desktop Processor *(with Wraith Stealth Cooler) for $81.99 - $7.99 when you 'clip' the coupon on product page = *$74*. \n*Shipping is free*....",
+      "url": "https://slickdeals.net/f/19820400-ac-74-amd-ryzen-5-5500-6-core-12-thread-desktop-processor-with-wraith-stealth-cooler-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-07-29T05:53:53Z"
+    },
+    {
+      "title": "Austria's 16th century bell foundry adds modern technology to keep the casting process alive",
+      "description": "Wearing protective gear to shield from the extreme heat of molten bronze, workers at one of the last bell foundries in Europe are casting bells weighing several tons.\nOne after another, the artisans carefully pour the molten metal into special-shaped molds he…",
+      "url": "https://biztoc.com/x/9fc29ca739d93fc6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T05:52:32Z"
+    },
+    {
+      "title": "Why SK Hynix shares crashed despite record Q2 earnings",
+      "description": "South Korean memory chip giant SK Hynix saw its shares plunge sharply after reporting record second-quarter earnings. Despite a more than six-fold jump in operating profit, investors focused on weaker-than-expected results, delays in next-generation AI memory…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/why-sk-hynix-shares-crashed-despite-record-q2-earnings/record-profits-fail-to-impress-investors/slideshow/132702719.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-07-29T05:51:44Z"
+    },
+    {
+      "title": "Tech rout roils markets after SK Hynix profits disappoint",
+      "description": "South Korean chip giant misses analyst expectations but insists risk of memory oversupply remains ‘limited’",
+      "url": "https://biztoc.com/x/0346121488f6bb3f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T05:51:09Z"
+    },
+    {
+      "title": "Analysis: What Seagate's blowout quarter signals about the next two years of AI infrastructure demand",
+      "description": "Seagate's fiscal fourth quarter was by almost every measure its strongest in over a decade — US$3.6 billion in revenue, US$1.1 billion in free cash flow, and gross margins pushing toward 53%. But for supply chain watchers, the more important story is what the…",
+      "url": "https://www.digitimes.com/news/a20260729VL220/seagate-demand-infrastructure-revenue-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T05:49:18Z"
+    },
+    {
+      "title": "Global Market: Japan's Nikkei swings between gains and losses as AI stock selloff persists",
+      "description": "Japan's Nikkei index saw mixed trading as investors awaited major US tech earnings. AI and chip-related stocks continued to face pressure, tracking global weakness. Geopolitical tensions in the Middle East also contributed to market uncertainty and rising oil…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-swings-between-gains-and-losses-as-ai-stock-selloff-persists/articleshow/132702082.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T05:46:49Z"
+    },
+    {
+      "title": "Kumamoto quake hits electronics cluster, but impact remains concentrated in inspection-related stoppages",
+      "description": "Electronics suppliers across Japan's Kumamoto semiconductor cluster halted production, evacuated employees, or began safety inspections after a magnitude 7.1 earthquake struck the prefecture at 4:27 p.m. on July 28.",
+      "url": "https://www.digitimes.com/news/a20260729VL217/kumamoto-earthquake-jasm-fab-production-japan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T05:45:00Z"
+    },
+    {
+      "title": "Analysis-AI race redraws Asian air cargo, replacing e-commerce as growth engine",
+      "description": "By Julie Zhu and Lisa Baertlein\nHONG KONG/LOS ANGELES, July 29 (Reuters) - The global race to build artificial intelligence is redrawing Asia's air cargo map, prompting airlines to redesign networks around growing semiconductor manufacturing hubs as cross-bor…",
+      "url": "https://biztoc.com/x/09b3b16c977e386e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T05:37:17Z"
+    },
+    {
+      "title": "South Korean stocks collapse amid Asian tech rout",
+      "description": "South Korean stocks suffered one of their steepest plunges Wednesday, with the blood-letting that has battered chip firms over the past month deepening as nervous investors unwound their bets on the AI boom.\nThe tech sector came under assault as traders fret …",
+      "url": "https://biztoc.com/x/a05f3b9044607317",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T05:37:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nikkei Falls Again as AI Selling Offsets Broader Market Recovery",
+      "DIY Steam Machine: Minisforum AtomMan G7PT, Ryzen 9 Specs and Gaming Benchmarks",
+      "South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surge - AP News",
+      "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
+      "AMD Radeon RX 9050 officially unveiled"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184746206",
+        "https://biztoc.com/x/b8a82e574093b1dd",
+        "https://www.digitimes.com/news/a20260729PD219/china-glass-substrate-packaging-equipment-supply-chain.html"
+      ]
+    },
+    {
+      "title": "Investors",
+      "summary": "Grouped stories where \"investors\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newsonjapan.com/article/150151.php"
+      ]
+    },
+    {
+      "title": "Amd",
+      "summary": "Grouped stories where \"amd\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.yugatech.com/news/amd-radeon-rx-9050-official-specs-price",
+        "https://www.techpowerup.com/351180/colorful-launches-the-rimbook-l1-plus-laptop",
+        "https://www.digitimes.com/news/a20260729PD227/amd-aewin-demand-training.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/atomman-g7pt-steamos-mini-pc",
+        "https://warontherocks.com/cogs-of-war/asmls-extreme-ultraviolet-lithography-and-the-limits-of-reverse-engineering-in-china",
+        "https://www.dealnews.com/Nvidia-RTX-Gaming-Laptop-Deals-at-Best-Buy-Up-to-1-200-off-free-shipping/21945746.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nikkei Falls Again as AI Selling Offsets Broader Market Recovery. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nikkei Falls Again as AI Selling Offsets Broader Market Recovery. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nikkei Falls Again as AI Selling Offsets Broader Market Recovery. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nikkei Falls Again as AI Selling Offsets Broader Market Recovery. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nikkei Falls Again as AI Selling Offsets Broader Market Recovery. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

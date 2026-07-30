@@ -1,0 +1,297 @@
+{
+  "theme": "ai",
+  "date": "2026-07-30",
+  "last_updated_utc": "2026-07-30T08:15:11.226Z",
+  "news": [
+    {
+      "title": "AI Company Employees Petition US Government For Regulation",
+      "description": "AI company employees petition US government for regulation\nA thousand workers from OpenAI, Anthropic, Google, Meta and more have signed the letter.\nA collection of employees at major artificial intelligence firms has created a petition asking for the federal …",
+      "url": "https://biztoc.com/x/b47ec15f42f906df",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T02:34:27Z"
+    },
+    {
+      "title": "Massive Data Center Project Could Cost $500B",
+      "description": "OpenAI may be about to plant one of the world's priciest AI stakes in southern Ohio. The company is nearing a deal to lease a data center project valued at roughly $500 billion, with Nvidia in talks to provide a $250 billion financial backstop, the Wall Stree…",
+      "url": "https://biztoc.com/x/30ec08a7bc866cc0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T02:04:00Z"
+    },
+    {
+      "title": "Apple iOS 26.6: Anthropic used Claude to find a Safari flaw",
+      "description": "Two Anthropic researchers used Claude to find a flaw in Safari. Apple closed it with iOS 26.6 and iPadOS 26.6 and names the AI model in its acknowledgments. In total the update fixes 87 vulnerabilities. Apple also explains why your iPhone runs warmer right af…",
+      "url": "https://www.notebookcheck.net/Apple-iOS-26-6-Anthropic-used-Claude-to-find-a-Safari-flaw.1354503.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-29T07:47:12Z"
+    },
+    {
+      "title": "BlackRock Will Own 80% Of Meta's Massive New AI Data Center In El Paso",
+      "description": "Topline\nBlackRock is set to take an 80% ownership stake in one of the biggest artificial intelligence data center campuses in the country—Meta's $14 billion, one gigawatt project in El Paso—in one of the clearest signs yet that Wall Street is becoming a major…",
+      "url": "https://biztoc.com/x/02b17c0b250190cc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T06:51:35Z"
+    },
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "description": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack.\n\nThe…",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "source": "Internet",
+      "publishedAt": "2026-07-29T06:45:02Z"
+    },
+    {
+      "title": "Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan",
+      "description": "Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee stock incentive plan.\nThe goal marked …",
+      "url": "https://biztoc.com/x/1e34040bc12190ec",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T06:36:28Z"
+    },
+    {
+      "title": "Anthropic says Claude uncovers cryptographic weaknesses, advances AI-assisted security research",
+      "description": "The company noted that while modern cryptographic systems remain highly secure, AI models are increasingly capable of assisting researchers in analyzing complex cryptographic constructions",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-29T05:24:19Z"
+    },
+    {
+      "title": "Anthropic says Claude uncovers cryptographic weaknesses, advances AI-assisted security research",
+      "description": "The company said Claude was able to identify novel attacks against cryptographic schemes submitted to international standardisation efforts, with its findings subsequently reviewed and validated by human experts. According to Anthropic, the research demonstra…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/articleshow/132700437.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T04:25:50Z"
+    },
+    {
+      "title": "SK Hynix's record profit misses forecasts; shares slump 10% despite robust AI chip demand",
+      "description": "The Nvidia supplier's quarterly operating profit soared more than sixfold to a record high, but it said delays in shipments of some advanced products limited price gains for its mainstay dynamic random access memory (DRAM) chips. Shares in SK Hynix tumbled 10…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T02:50:48Z"
+    },
+    {
+      "title": "Nvidia And OpenAI Discussing $500 Billion Data Center—Here’s What We Know",
+      "description": "Nvidia and OpenAI have held talks to spend roughly $500 billion on a data center in southern Ohio, potentially becoming the ...",
+      "url": "https://biztoc.com/x/f5cb79ec10d07362",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-29T02:23:19Z"
+    },
+    {
+      "title": "OpenAI models hacked Hugging Face: human minds must figure out how to make the world safer",
+      "description": "Fears of rogue artificial intelligence (AI) were revived last week by news of OpenAI’s models escaping their testing enclosures to hack another firm’s digital systems. How to optimize controls is a stiff challenge, but here’s what might work.",
+      "url": "https://www.livemint.com/opinion/online-views/openai-models-hacked-hugging-face-artificial-intelligence-digital-security-anthropic-11785247438818.html",
+      "source": "Livemint",
+      "publishedAt": "2026-07-29T02:01:07Z"
+    },
+    {
+      "title": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリース",
+      "description": "OpenAIが文字起こしAI「GPT Transcribe」と「GPT Live Transcribe」をリリースしました。両モデルは専門用語を含む音声でも文脈を理解できるほか、ノイズが含まれる音声でも高精度な文字起こしが可能とアピールされています。Transcription | OpenAI APIhttps://developers.openai.com/api/docs/guides/transcriptionWe're introducing two new transcription models in…",
+      "url": "https://news.livedoor.com/article/detail/31938434",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-29T01:39:00Z"
+    },
+    {
+      "title": "China's glass substrate supply chain takes shape for AI chip packaging",
+      "description": "Intel's recent memorandum of understanding with Lens Technology to collaborate on through-glass via (TGV) advanced packaging has been widely viewed as an important step towards the industrialisation of glass core substrates.",
+      "url": "https://www.digitimes.com/news/a20260729PD219/china-glass-substrate-packaging-equipment-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T07:38:54Z"
+    },
+    {
+      "title": "【楽天市場50%OFFセール】6点部品付属のAIタブレット「POCKAM P10PRO」7/31まで17,400円 Android 16×Gemini AI×8800mAh、ケース+キーボードなど",
+      "description": "[深圳市新义腾飞电子商务有限公司]\n[画像1: https://prcdn.freetls.fastly.net/release_image/182214/74/182214-74-3c0799330a725db736e35ffd2296959a-1942x809.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000182214.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-29T06:12:43Z"
+    },
+    {
+      "title": "Comprinno Joins the OpenAI Partner Network as a Select Partner to Accelerate Enterprise AI Adoption",
+      "description": "Comprinno Joins the OpenAI Partner Network as a Select Partner to Accelerate Enterprise AI Adoption",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/comprinno-joins-the-openai-partner-network-as-a-select-partner-to-accelerate-enterprise-ai-adoption/article71280141.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-29T06:00:49Z"
+    },
+    {
+      "title": "Renewable Energy Growth Trails Data Center Demand, Analysts Say",
+      "description": "The rapid expansion of artificial intelligence computing and data centers is driving electricity demand at a pace that renewable energy generation has not matched, according to multiple industry reports and grid operator data. Analysts project that U.S. data …",
+      "url": "https://www.naturalnews.com/2026-07-29-renewable-energy-growth-trails-data-service-demand.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-29T06:00:00Z"
+    },
+    {
+      "title": "Artificial intelligence drives Asia’s air cargo growth, replacing e-commerce shipments",
+      "description": "AI-driven semiconductor demand is reshaping Asia's air cargo industry as airlines expand chip logistics while cross-border e-commerce shipments decline.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/artificial-intelligence-drives-asias-air-cargo-growth-replacing-e-commerce-shipments/article71279981.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-29T05:33:31Z"
+    },
+    {
+      "title": "Siri AI vs Gemini: Examining the Current AI Competition",
+      "description": "In the rapidly advancing landscape of personal assistants, Siri AI and Google Gemini stand out as two prominent contenders. Each assistant brings unique strengths and capabilities to the table, catering to different user needs and preferences. The video below…",
+      "url": "https://www.geeky-gadgets.com/siri-ai-vs-gemini-comparison",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-29T05:30:00Z"
+    },
+    {
+      "title": "US FCC Blacklists Foreign Robots on Huawei List as Surveillance Fears Grow – Striking NVIDIA Partner Unitree As Well",
+      "description": "In a major development, the US government has banned imports of certain foreign-made robots and power equipment to protect the ongoing AI infrastructure buildout in America. The restrictions were unveiled by the Federal Communications Commission (FCC) through…",
+      "url": "https://wccftech.com/fcc-blacklists-foreign-robots-on-huawei-list-as-surveillance-fears-grow-striking-nvidia-partner-unitree-as-well",
+      "source": "Wccftech",
+      "publishedAt": "2026-07-29T05:27:55Z"
+    },
+    {
+      "title": "Country icon Willie Nelson slams plans for massive AI data center near his Texas hometown: 'The last thing we need'",
+      "description": "The 93-year-old was famously born and raised in the small rural city of Abbott, Texas, which is just 0.6 square miles and has a reported population of 352 people.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16012537/willie-nelson-slams-plans-ai-data-center-texas-hometown.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-29T05:15:55Z"
+    },
+    {
+      "title": "Dragon Quest Expands Google Gemini Partnership With New AI-Powered Event in Japan",
+      "description": "Square Enix is deepening its collaboration with Google by launching a new Dragon Quest-themed event centered around the Gemini AI assistant, just months after announcing plans to integrate Gemini into Dragon Quest X Online as an AI-powered companion. Square E…",
+      "url": "https://news.sankakucomplex.com/n/saDUZXpzjc6JZScWEK8inA",
+      "source": "Sankakucomplex.com",
+      "publishedAt": "2026-07-29T05:00:08Z"
+    },
+    {
+      "title": "NXP finds new AI data center role beyond GPUs",
+      "description": "NXP Semiconductors' physical AI strategy extends beyond vehicles, factories and robots. The same control, connectivity and real-time processing capabilities are also giving the company a larger role in AI data center infrastructure, where it is targeting the …",
+      "url": "https://www.digitimes.com/news/a20260729VL215/nxp-data-center-infrastructure-automotive-security.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T04:44:16Z"
+    },
+    {
+      "title": "Moonshot AI reportedly eyes more Nvidia Blackwell chips for Kimi K4 despite US export curbs",
+      "description": "Chinese AI startup Moonshot AI is planning its next frontier model, Kimi K4, and is seeking additional access to Nvidia's advanced Blackwell GPUs despite US export restrictions intended to keep such chips out of China, according to The Information. The report…",
+      "url": "https://www.digitimes.com/news/a20260729VL210/nvidia-moonshot-blackwell-chips-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T03:39:57Z"
+    },
+    {
+      "title": "Corning bets on SiPh and CPO to drive AI data center growth",
+      "description": "Corning expects AI infrastructure to become an increasingly powerful growth engine, outlining how its glass technologies will move beyond traditional optical fiber and into silicon photonics (SiPh) and co-packaged optics (CPO) for next-generation AI data cent…",
+      "url": "https://www.digitimes.com/news/a20260729VL213/corning-siph-growth-cpo-photonics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-29T03:23:16Z"
+    },
+    {
+      "title": "Sarah Connor and the AI Data Center Meme",
+      "description": "A decades-old horror-thriller punchline is finding new life online as communities push back against real-world AI infrastructure. In the 1984 movie, Sarah Connor gets locked in a psychiatric ward for insisting machines will take over.",
+      "url": "https://thoughtcatalog.com/nadia-santiago/2026/07/sarah-connor-and-the-ai-data-center-meme",
+      "source": "Thoughtcatalog.com",
+      "publishedAt": "2026-07-29T02:53:01Z"
+    },
+    {
+      "title": "Health in ChatGPT: Future of Healthcare 2026",
+      "description": "Discover how Health in ChatGPT is transforming healthcare in 2026 with AI-powered patient care, clinical workflows, and medical innovation. Learn more.",
+      "url": "https://kumdi.com/technology/health-in-chatgpt-future-of-healthcare",
+      "source": "Kumdi.com",
+      "publishedAt": "2026-07-29T02:25:08Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI Company Employees Petition US Government For Regulation",
+      "Massive Data Center Project Could Cost $500B",
+      "Apple iOS 26.6: Anthropic used Claude to find a Safari flaw",
+      "BlackRock Will Own 80% Of Meta's Massive New AI Data Center In El Paso",
+      "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/30ec08a7bc866cc0",
+        "https://biztoc.com/x/02b17c0b250190cc",
+        "https://biztoc.com/x/f5cb79ec10d07362"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/b47ec15f42f906df",
+        "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+        "https://www.livemint.com/opinion/online-views/openai-models-hacked-hugging-face-artificial-intelligence-digital-security-anthropic-11785247438818.html"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1e34040bc12190ec",
+        "https://www.thehindubusinessline.com/economy/logistics/artificial-intelligence-drives-asias-air-cargo-growth-replacing-e-commerce-shipments/article71279981.ece"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Apple-iOS-26-6-Anthropic-used-Claude-to-find-a-Safari-flaw.1354503.0.html",
+        "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/articleshow/132700437.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI Company Employees Petition US Government For Regulation. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI Company Employees Petition US Government For Regulation. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI Company Employees Petition US Government For Regulation. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI Company Employees Petition US Government For Regulation. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI Company Employees Petition US Government For Regulation. Main topic cluster: Data. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
