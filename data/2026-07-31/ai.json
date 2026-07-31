@@ -1,0 +1,314 @@
+{
+  "theme": "ai",
+  "date": "2026-07-31",
+  "last_updated_utc": "2026-07-31T08:41:38.661Z",
+  "news": [
+    {
+      "title": "Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA",
+      "description": "Nvidia's power in AI has never rested on GPU performance alone — it has also depended on the CUDA software ecosystem. That moat is now facing a new variable as AMD deepens its challenge through software, systems, and partnerships with Anthropic.",
+      "url": "https://www.digitimes.com/news/a20260730PD221/amd-nvidia-cuda-software-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-30T05:56:09Z"
+    },
+    {
+      "title": "OpenAI and Anthropic staff ask Washington to slow AI down",
+      "description": "On July 28, more than 1,290 employees from OpenAI, Anthropic, Google DeepMind, and Meta signed the open letter “Pacing the Frontier.” They are asking the U.S. government to develop tools to verifiably slow down AI development. Signatories also include Anthrop…",
+      "url": "https://www.notebookcheck.net/OpenAI-and-Anthropic-staff-ask-Washington-to-slow-AI-down.1355593.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-30T07:54:00Z"
+    },
+    {
+      "title": "'Corporate majdoor celebrating Guru Purnima': Viral Instagram video shows employees 'worshipping' ChatGPT, Claude and Gemini",
+      "description": "Instagram Viral Video: Social media shows professionals treating AI tools as modern gurus this year. Employees are humorously offering digital tributes to platforms like ChatGPT and Gemini.  This trend reflects AI's growing role in daily work tasks and proble…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/corporate-majdoor-celebrating-guru-purnima-viral-instagram-video-shows-employees-worshipping-chatgpt-claude-and-gemini/articleshow/132729782.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-30T06:52:09Z"
+    },
+    {
+      "title": "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
+      "description": "OpenAI's revenue growth has surpassed second-quarter levels, driven by new product launches.  The company is expanding its customer base to support significant AI infrastructure investments.  OpenAI aims for substantial compute spending by 2030 and seeks Nvid…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-30T05:41:41Z"
+    },
+    {
+      "title": "One AI app, many tools—including ChatGPT & Claude—just $70 for lifetime access",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR: Get the 1min.AI Advanced Business Plan Lifetime Subscription for $69.97 (reg. $540) through Aug. 9 and access leading AI models plus writing, image, video, audio, and document tools—all in one app.\r\n\n\n\n\nDoes your AI workflow involve op…",
+      "url": "https://www.macworld.com/article/3201090/one-ai-app-many-tools-including-chatgpt-claude-just-70-for-lifetime-access.html",
+      "source": "Macworld",
+      "publishedAt": "2026-07-30T08:00:00Z"
+    },
+    {
+      "title": "Banten ready to welcome China's data center and AI investments",
+      "description": "The Banten Provincial Government has expressed readiness to accommodate data center and artificial intelligence (AI) investments from China, following a visit ...",
+      "url": "https://en.antaranews.com/news/424608/banten-ready-to-welcome-chinas-data-center-and-ai-investments",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-07-30T07:31:35Z"
+    },
+    {
+      "title": "Google Search Indexes Public Claude AI Chat Links, Privacy Researchers Report",
+      "description": "Google Search has indexed publicly shared chat links from Anthropic’s Claude AI – exposing sensitive user conversations including health records and private company documents, according to multiple reports published over the weekend. Security researchers and …",
+      "url": "https://www.naturalnews.com/2026-07-30-google-search-indexes-public-claude-chat-links.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-30T06:00:00Z"
+    },
+    {
+      "title": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
+      "description": "Nvidia (NASDAQ: NVDA) recently gave up its seat as the world's most valuable company. That title now belongs to Apple, whose shares are up 25% in 2026 (as of July 28). This significantly exceeds the artificial intelligence (AI) stock's muted 6% gain this year…",
+      "url": "https://biztoc.com/x/c3588f14e270bd6d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-30T04:35:04Z"
+    },
+    {
+      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+      "description": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。How GPT-5.6 fuses frontier intelligence with frontier efficiency | OpenAIhttps://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/After dep…",
+      "url": "https://news.livedoor.com/article/detail/31947878",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-30T04:30:00Z"
+    },
+    {
+      "title": "Advantest lifts fiscal 2026 forecast as AI chip test demand surges",
+      "description": "Advantest raised its outlook for the fiscal year ending March 2027 after demand for chip-test equipment tied to AI data centers strengthened, pushing results above market expectations. According to Bloomberg and Nikkei, the Japanese semiconductor equipment ma…",
+      "url": "https://www.digitimes.com/news/a20260730PD220/advantest-demand-2026-forecast-outlook.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-30T04:03:02Z"
+    },
+    {
+      "title": "Microsoft Extends Data Center Lifespans to Soften AI Buildout Costs",
+      "description": "Microsoft reported strong growth in its cloud and artificial intelligence businesses while also working to moderate the impact of capital expenditures.\nThe company said in a Wednesday (July 29) earnings release that during the quarter ended June 30, its Intel…",
+      "url": "https://biztoc.com/x/aaa46477f047f1ca",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-30T02:32:34Z"
+    },
+    {
+      "title": "Revolut partners with OpenAI to bundle ChatGPT Go into its subscriptions",
+      "description": "Revolut is handing its customers free access to ChatGPT, the result of a new partnership with OpenAI. The fintech, which says it now serves more than 75 million people worldwide, is bundling OpenAI’s ChatGPT Go into its subscription plans, giving anywhere fro…",
+      "url": "https://thenextweb.com/news/revolut-openai-free-chatgpt-go",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-30T08:33:47Z"
+    },
+    {
+      "title": "Trends in Perception of Generative AI in Healthcare by US Adult Demographics and Political Identity",
+      "description": "Emerging divides suggest receptivity to genAI in healthcare may become increasingly shaped by political identity rather than clinical evidence or personal experience, complicating equitable deployment.",
+      "url": "https://www.rand.org/pubs/external_publications/EP71364.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-07-30T08:15:00Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Haiku 4.5 + Bootstrap – Use UXPin Merge!",
+      "description": "Use AI to draft copy and Bootstrap HTML, then build a responsive landing page and prototype with code-backed components for faster handoff.\nThe post How to build a landing page using Claude Haiku 4.5 + Bootstrap – Use UXPin Merge! appeared first on Studio by …",
+      "url": "https://www.uxpin.com/studio/blog/build-landing-page-claude-haiku-4-5-bootstrap-uxpin-merge",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-30T07:44:54Z"
+    },
+    {
+      "title": "Rolls-Royce jumps 4% as it sees boost from both the defense boom and AI data center buildout",
+      "description": "Rolls-Royce on Thursday hiked its full-year profit and cash flow guidance after strong earnings for the first half of the year, with the British engineering group benefiting from robust demand across its civil aerospace, defense and power systems businesses.\n…",
+      "url": "https://biztoc.com/x/b7c3a0fa5487bb1d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-30T07:34:30Z"
+    },
+    {
+      "title": "Rolls-Royce jumps 4% as it sees boost from both the defense boom and AI data center buildout",
+      "description": "Orders in the company's data center power business grew more than 50% in the first half of the year.",
+      "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-30T07:17:34Z"
+    },
+    {
+      "title": "The copyright case of ANI versus OpenAI: ‘fair dealing’ harbour or an overstretch of the law?",
+      "description": "The Delhi high court’s rejection of news agency ANI’s charge of copyright infringement against OpenAI sits uneasily with the conventional reading of this law. But balancing creator rights with AI imperatives should be a job for lawmakers.",
+      "url": "https://www.livemint.com/opinion/online-views/copyright-case-ani-versus-openai-fair-dealing-harbour-law-artificial-intelligence-11785313237556.html",
+      "source": "Livemint",
+      "publishedAt": "2026-07-30T07:00:47Z"
+    },
+    {
+      "title": "静岡市、庁内情報照会システムとしてAllganizeの生成AIプラットフォーム「Alli LLM App Market」を採用",
+      "description": "[Allganize Japan]\n[画像: https://prcdn.freetls.fastly.net/release_image/34106/104/34106-104-2796c2b3a51b0a44002af1780905cced-1920x421.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000104.000034106.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-30T06:00:00Z"
+    },
+    {
+      "title": "Adding a custom MCP server to Claude and ChatGPT",
+      "description": "I've started exploring MCP in more detail. The web chat UIs for both Claude and ChatGPT can access MCP servers but it's not obvious how to set them up. Here's what I figured out.",
+      "url": "https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt",
+      "source": "Simonwillison.net",
+      "publishedAt": "2026-07-30T05:47:01Z"
+    },
+    {
+      "title": "Simon Willison's Weblog: Discovering cryptographic weaknesses with Claude",
+      "description": "The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither …",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude",
+      "source": "Simonwillison.net",
+      "publishedAt": "2026-07-30T05:47:01Z"
+    },
+    {
+      "title": "Google Gemini Spark arrives in Malaysia: How agentic AI will handle your daily digital chores",
+      "description": "Google has officially launched Gemini Spark in Malaysia, expanding its next-generation agentic AI capabilities to local users. Powered by Gemini 3.6 Flash, Gemini Spark moves AI beyond reactive chat windows and turns it into an active partner capable of handl…",
+      "url": "https://soyacincau.com/2026/07/30/google-gemini-spark-arrives-in-malaysia-how-agentic-ai-will-handle-your-daily-digital-chores",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-07-30T05:32:42Z"
+    },
+    {
+      "title": "OMODA Debuts Super AI Cockpit in Southeast Asia: Powered by ByteDance Seed LLM, Defining a New Era of Youth-Centric Mobility",
+      "description": "OMODA & JAECOO officially unveiled its next-generation Super AI Cockpit in Southeast Asia at the “SUPER AI NIGHT” event in Indonesia. ...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/30/3335730/0/en/OMODA-Debuts-Super-AI-Cockpit-in-Southeast-Asia-Powered-by-ByteDance-Seed-LLM-Defining-a-New-Era-of-Youth-Centric-Mobility.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-30T04:43:00Z"
+    },
+    {
+      "title": "UK slows AI data center roll-out over energy crunch",
+      "description": "The UK’s energy regulator Ofgem has proposed new grid connection fees for AI data center developers to remove speculative projects amid soaring electricity demand",
+      "url": "https://www.rt.com/news/643638-uk-ai-data-center-energy-crunch",
+      "source": "RT",
+      "publishedAt": "2026-07-30T04:13:54Z"
+    },
+    {
+      "title": "OpenAI’s ChatGPT reaches the coupon stage of building an ad business",
+      "description": "OpenAI just hit the coupon phase of building an ads business. It’s the stage every platform before it has run through, whereby they hand advertisers credits to get them spending more, testing budgets, and building habits on the platform.\nOne example of the pr…",
+      "url": "https://biztoc.com/x/72c65debae2301e0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-30T04:03:31Z"
+    },
+    {
+      "title": "OpenAI’s ChatGPT reaches the coupon stage of building an ad business",
+      "description": "The company is preparing to offer promotional ad credits to advertisers to encourage more marketers to test its ChatGPT ads offering.",
+      "url": "http://digiday.com/marketing/openais-chatgpt-reaches-the-coupon-stage-of-building-an-ad-business",
+      "source": "Digiday",
+      "publishedAt": "2026-07-30T04:01:00Z"
+    },
+    {
+      "title": "Samsung Q2 results: Tech giant posts record high $62 billion profit on AI chip boom",
+      "description": "Samsung Electronics achieved its highest-ever quarterly operating profit, fueled by strong AI chip demand. Rival SK Hynix also reported record revenue, reflecting industry strength. However, investor sentiment declined due to expansion plans and Chinese compe…",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/samsung-q2-results-tech-giant-posts-record-high-62-billion-profit-on-ai-chip-boom/articleshow/132726122.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-30T03:47:59Z"
+    },
+    {
+      "title": "AIスタートアップ・Thinking Machines labの共同創業者リリアン・ウェンが退職してOpenAIに再合流",
+      "description": "元OpenAI・CTOのミラ・ムラティ氏らが創業したAIスタートアップ・Thinking Machines Labの共同創業者で、同じく元OpenAIのリリアン・ウェン氏が健康上の問題を理由として、退職を表明しました。なお、OpenAIがウェン氏の再入社を明らかにしています。Exclusive: Thinking Machines Cofounder to Return to OpenAI - The Informationhttps://www.theinformation.com/briefings/thin…",
+      "url": "https://news.livedoor.com/article/detail/31947530",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-30T03:40:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA",
+      "OpenAI and Anthropic staff ask Washington to slow AI down",
+      "'Corporate majdoor celebrating Guru Purnima': Viral Instagram video shows employees 'worshipping' ChatGPT, Claude and Gemini",
+      "GPT-5.6, ChatGPT Work lift OpenAI’s July ARR over Q2",
+      "One AI app, many tools—including ChatGPT & Claude—just $70 for lifetime access"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/OpenAI-and-Anthropic-staff-ask-Washington-to-slow-AI-down.1355593.0.html",
+        "https://economictimes.indiatimes.com/tech/technology/gpt-5-6-chatgpt-work-lift-openais-july-arr-over-q2/articleshow/132728105.cms",
+        "https://news.livedoor.com/article/detail/31947878"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/new-updates/corporate-majdoor-celebrating-guru-purnima-viral-instagram-video-shows-employees-worshipping-chatgpt-claude-and-gemini/articleshow/132729782.cms",
+        "https://www.macworld.com/article/3201090/one-ai-app-many-tools-including-chatgpt-claude-just-70-for-lifetime-access.html",
+        "https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-30-google-search-indexes-public-claude-chat-links.html",
+        "https://www.uxpin.com/studio/blog/build-landing-page-claude-haiku-4-5-bootstrap-uxpin-merge",
+        "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/c3588f14e270bd6d",
+        "https://biztoc.com/x/aaa46477f047f1ca",
+        "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260730PD221/amd-nvidia-cuda-software-anthropic.html",
+        "https://en.antaranews.com/news/424608/banten-ready-to-welcome-chinas-data-center-and-ai-investments",
+        "https://www.digitimes.com/news/a20260730PD220/advantest-demand-2026-forecast-outlook.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
