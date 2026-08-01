@@ -1,0 +1,387 @@
+{
+  "theme": "ai",
+  "date": "2026-08-01",
+  "last_updated_utc": "2026-08-01T08:11:51.326Z",
+  "news": [
+    {
+      "title": "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude",
+      "description": "Sarvam AI plans a trillion-parameter model to rival global AI leaders.  The company's existing voice AI is cost-effective and performs well.  An office in the US will recruit Indian-origin AI researchers.  Sarvam AI aims to manufacture intelligence and achiev…",
+      "url": "https://economictimes.indiatimes.com/news/india/sarvam-ai-plans-trillion-parameter-model-sets-sights-on-competing-with-chatgpt-gemini-and-claude/articleshow/132760238.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-31T07:35:11Z"
+    },
+    {
+      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "description": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without …",
+      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+      "source": "Internet",
+      "publishedAt": "2026-07-31T06:41:44Z"
+    },
+    {
+      "title": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In",
+      "description": "OpenAI on Thursday reduced the price of its GPT-5.6 Luna model by 80%, three weeks after launching the model, according to the San Francisco-based artificial intelligence (AI) firm. Luna, a speed-focused model, now costs 20 cents per million input tokens and …",
+      "url": "https://www.naturalnews.com/2026-07-31-openai-cuts-price-gpt-luna-ai-model.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-31T06:00:00Z"
+    },
+    {
+      "title": "Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase",
+      "description": "The announcement comes just days after rivals OpenAI revealed that their popular ChatGPT platform went rogue during its testing phase of its most powerful AI model, where it too infiltrated other organisations’ cyberspace.",
+      "url": "https://biztoc.com/x/29943e0e4fc036d8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T04:59:05Z"
+    },
+    {
+      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "description": "Anthropic says Claude AI hacked three organisations during cyber tests\nUS technology firm Anthropic says its artificial intelligence (AI) models hacked into the systems of three organisations during a cybersecurity test due to an error that gave them access t…",
+      "url": "https://biztoc.com/x/6d3e3354ab6b573d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T04:58:58Z"
+    },
+    {
+      "title": "Jensen Huang Says Memory Is Now AI's Biggest Bottleneck. Here's What That Means for Nvidia",
+      "description": "Nvidia (NASDAQ: NVDA) has been around since 1993, but it came into the spotlight for its graphics processing units (GPUs), which are crucial for training and scaling artificial intelligence (AI). They provide much of the compute power that powers AI workloads…",
+      "url": "https://biztoc.com/x/4942ca63b496e98f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T04:46:03Z"
+    },
+    {
+      "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
+      "description": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.",
+      "url": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-31T04:02:03Z"
+    },
+    {
+      "title": "Anthropic discloses AI testing breach days after OpenAI incident, raising scrutiny of autonomous agents",
+      "description": "Anthropic said three of its Claude models unintentionally accessed the systems of three organizations after a testing environment was misconfigured and connected to the public internet. The incidents were identified after the company reviewed 141,006 test ses…",
+      "url": "https://www.digitimes.com/news/a20260731PD227/anthropic-testing-claude-opus-security.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-31T04:00:11Z"
+    },
+    {
+      "title": "Anthropic says Claude AI hacked three companies during tests",
+      "description": "Three separate versions of Claude AI broke out of cybertesting environments and hacked three firms, its developer Anthropic said. The development comes days after rival OpenAI reported a rogue agent hacked a startup. Anthropic said on Thursday that its artifi…",
+      "url": "https://www.dw.com/en/anthropic-says-claude-ai-hacked-three-companies-during-tests/a-78184070",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-31T03:53:00Z"
+    },
+    {
+      "title": "Why high-conviction investor Cathie Wood bought Nvidia after it erased billions from May high",
+      "description": "Cathie Wood's Ark Invest bought nearly 79,000 Nvidia shares worth about $15.5 million after the AI chipmaker's recent selloff, reaffirming confidence in the stock despite its recent decline and mixed performance of Ark's flagship fund.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-high-conviction-investor-cathie-wood-bought-nvidia-after-it-erased-billions-from-may-high/articleshow/132761211.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-31T08:06:17Z"
+    },
+    {
+      "title": "Microsoft earnings reflect efficiency gains from faster GPU deployment",
+      "description": "With delays in GPU orders, Microsoft has focused on getting its AI chips installed in Azure datacentres more quickly",
+      "url": "https://www.computerweekly.com/news/366646659/Microsoft-earnings-reflect-efficiency-gains-from-faster-GPU-deployment",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-07-31T08:00:00Z"
+    },
+    {
+      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
+      "description": "Anthropic says its AI models breached three organizations during cybersecurity tests that went awry.\nIt comes a little more than a week after its chief rival, OpenAI, disclosed a similar incident.\n----------\nLike this video? Subscribe \nBloomberg News is the f…",
+      "url": "https://biztoc.com/x/98369ef339c1e6b4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T07:14:39Z"
+    },
+    {
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "description": "After OpenAI's admission that its models broke into Hugging Face, Anthropic has now admitted that the models it was testing also hacked other organizations.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184781964",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-31T06:32:16Z"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "description": "Anthropic says its AI models hacked 3 organizations during testing\nAnthropic says its AI models hacked into three organizations during testing\nAnthropic said its artificial intelligence models hacked into three other organizations during testing, just days af…",
+      "url": "https://biztoc.com/x/0877db1c13c6ea79",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T06:29:45Z"
+    },
+    {
+      "title": "Georgia Power to Seize Homes for AI Data Center Transmission Line",
+      "description": "Georgia Power, a subsidiary of Southern Company, is moving to acquire dozens of homes and hundreds of parcels of land through eminent domain to clear a path for a transmission line that will primarily serve artificial intelligence data centers, according to r…",
+      "url": "https://www.naturalnews.com/2026-07-31-georgia-power-to-seize-homes-for-data-centers.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-31T06:00:00Z"
+    },
+    {
+      "title": "Anthropic Says Its AI Systems Broke Into Computers at 3 Organizations",
+      "description": "Anthropic found that Claude models breached three outside organizations during cybersecurity tests because misconfigured environments accidentally gave them access to the internet. The company notified those affected and urged other AI labs to audit their own…",
+      "url": "https://yro.slashdot.org/story/26/07/31/0451235/anthropic-says-its-ai-systems-broke-into-computers-at-3-organizations",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-31T05:30:00Z"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "description": "Situational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on …",
+      "url": "https://biztoc.com/x/7f5bc2bc058ded9d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T05:14:20Z"
+    },
+    {
+      "title": "Anthropic says Claude AI hacked three firms during cyber tests - BBC",
+      "description": "Anthropic says Claude AI hacked three firms during cyber testsBBC Investigating three real-world incidents in our cybersecurity evaluationsAnthropic Anthropic said its AI models hacked into other companies’ systems during testingcnn.com Anthropic’s AI Claude …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184780710",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-31T04:52:37Z"
+    },
+    {
+      "title": "Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\"",
+      "description": "Anthropic's artificial intelligence model Claude \"gained unauthorized access\" to three outside organizations on three separate occasions during testing that was supposed to keep them away from \"real-world\" systems, the company said on Thursday.\nThe announceme…",
+      "url": "https://biztoc.com/x/228234ddbf77bad6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T03:58:49Z"
+    },
+    {
+      "title": "Data Center Access Control Market Size, Share & Trends Analysis Report, 2026-2033 Published — 120-Page Study Profiling HID Global, Honeywell, and 12 Others",
+      "description": "Opportunities center on biometric, touchless and mobile access for hyperscale, colocation, AI, HPC and edge data centers. Compliance needs also support integrated perimeter, facility, critical-room and rack-level security solutions. Opportunities center on bi…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/31/3336633/28124/en/Data-Center-Access-Control-Market-Size-Share-Trends-Analysis-Report-2026-2033-Published-120-Page-Study-Profiling-HID-Global-Honeywell-and-12-Others.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-31T08:11:00Z"
+    },
+    {
+      "title": "Anthropic says its own Claude models breached three companies during cyber tests",
+      "description": "Anthropic has disclosed that three of its Claude models gained unauthorized access to the production systems of three real organisations during cybersecurity tests, after a misconfiguration left the testing environment connected to the live internet. The comp…",
+      "url": "https://thenextweb.com/news/anthropic-claude-breached-three-companies-tests",
+      "source": "The Next Web",
+      "publishedAt": "2026-07-31T08:09:28Z"
+    },
+    {
+      "title": "Claude AI isn’t just a chatbot — this $14 course shows you what it actually does",
+      "description": "Macworld\n\n\n\r\n\n\n\n\nTL;DR: Master Claude AI beyond simple chatting with four practical courses covering prompting, coding, automation, and integrations. Get lifetime access to the Claude AI Professional E-Degree for $13.99 (MSRP $159) with code COURSE30 through …",
+      "url": "https://www.macworld.com/article/3200087/claude-ai-isnt-just-a-chatbot-this-14-course-shows-you-what-it-actually-does.html",
+      "source": "Macworld",
+      "publishedAt": "2026-07-31T08:00:00Z"
+    },
+    {
+      "title": "How to build a landing page using Claude Haiku 4.5 + Custom Design Systems – Use UXPin Merge!",
+      "description": "Use AI to draft structure and copy, build with UXPin Merge's code-backed React components, and validate accessibility and U.S. formats.\nThe post How to build a landing page using Claude Haiku 4.5 + Custom Design Systems – Use UXPin Merge! appeared first on St…",
+      "url": "https://www.uxpin.com/studio/blog/build-landing-page-claude-haiku-4-5-custom-design-systems-uxpin-merge",
+      "source": "Uxpin.com",
+      "publishedAt": "2026-07-31T07:47:01Z"
+    },
+    {
+      "title": "ROG NUC 16 Mini PC Features a GeForce RTX 5090 Laptop GPU",
+      "description": "The ROG NUC 16 20th Anniversary Edition is a compact mini PC that combines high-performance hardware with a striking design. As detailed by ETA Prime, it features an Intel Core Ultra 9 2980HX processor paired with an Nvidia GeForce RTX 5090 laptop GPU, allowi…",
+      "url": "https://www.geeky-gadgets.com/rog-nuc-16-review",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-07-31T07:47:00Z"
+    },
+    {
+      "title": "Show HN: Dissecting the automation of a newspaper (Claude routine, GitHub Pages)",
+      "description": "There are people who are against AI. And then... there is me. \nMy name is Pierre, and I'm having the time of my life, building all crazy things. Please don't hate. =(\nNow, here's the latest: purely automated daily newspaper. You can make your own. Take a shot…",
+      "url": "https://github.com/Lywald/zfrontpage",
+      "source": "Github.com",
+      "publishedAt": "2026-07-31T07:30:29Z"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organisations during testing",
+      "description": "In all three incidents, the AI models were tasked with a ‘capture the flag' cybersecurity challenge, which Anthropic said has been one of the ways it assesses a model's cyber capabilities.",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-says-its-ai-models-hacked-3-organisations-during-testing/article71289452.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-31T07:24:32Z"
+    },
+    {
+      "title": "Gemini Spark now works with Chrome, because giving your accounts to AI is a good idea",
+      "description": "Gemini Spark can now automate repetitive web tasks using your signed-in accounts, with safeguards for sensitive actions.",
+      "url": "https://www.androidauthority.com/gemini-spark-chrome-integration-3693122",
+      "source": "Android Authority",
+      "publishedAt": "2026-07-31T07:18:04Z"
+    },
+    {
+      "title": "Why Investors are Getting Uneasy About the AI Chip Boom",
+      "description": "Chipmakers are delivering record earnings, yet investor skepticism is dragging stocks lower. \nSky‑high expectations, crowded trades, and looming uncertainty mean the AI boom isn’t easy money anymore. Anthony Stephens has more.\n----------\nLike this video? Subs…",
+      "url": "https://biztoc.com/x/12c8f8011051ee47",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-31T07:15:03Z"
+    },
+    {
+      "title": "Anthropic says Claude breached three real companies in cyber tests",
+      "description": "Anthropic searched through 141,006 test runs and found three incidents in which Claude compromised real corporate systems from within the test environment. One model even generated malicious code and uploaded it to PyPI. Why the models believed they were in t…",
+      "url": "https://www.notebookcheck.net/Anthropic-says-Claude-breached-three-real-companies-in-cyber-tests.1356591.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-07-31T07:11:20Z"
+    },
+    {
+      "title": "Offshore support staff don’t fear artificial intelligence",
+      "description": "Workers supporting business from offshore locations are unconcerned about the impact of AI on their jobs",
+      "url": "https://www.computerweekly.com/news/366646624/Offshore-support-staff-dont-fear-artificial-intelligence",
+      "source": "ComputerWeekly.com",
+      "publishedAt": "2026-07-31T06:49:00Z"
+    },
+    {
+      "title": "Anthropic Says Its AI Models Hacked Into Three Organizations During Testing",
+      "description": "Anthropic said the earliest of these incidents occurred in April, and it has notified all three companies that were affected by the hack.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/07/31/anthropic-says-its-ai-models-hacked-into-three-organizations-during-testing",
+      "source": "Forbes",
+      "publishedAt": "2026-07-31T06:44:26Z"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "description": "Anthropic says its AI models hacked into three organizations during testing",
+      "url": "https://abcnews.com/Technology/wireStory/anthropic-ai-models-hacked-3-organizations-testing-135251426",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-31T06:26:22Z"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "description": "Anthropic says its AI models hacked into three organizations during testing",
+      "url": "https://abcnews.com/Business/wireStory/anthropic-ai-models-hacked-3-organizations-testing-135251425",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-31T06:18:50Z"
+    },
+    {
+      "title": "Generative AI floods and dilutes the market for books",
+      "description": "Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial weight. We test that assumption with full-text AI detection a…",
+      "url": "https://arxiv.org/abs/2607.20349",
+      "source": "Arxiv.org",
+      "publishedAt": "2026-07-31T05:47:02Z"
+    },
+    {
+      "title": "Can Google See Your Claude AI Conversations? New Report Raises Privacy Concerns",
+      "description": "Some shared Claude AI conversations were reportedly indexed by Google and Bing, prompting new concerns over user privacy and searchable AI chat links.",
+      "url": "https://in.mashable.com/tech/112372/can-google-see-your-claude-ai-conversations-new-report-raises-privacy-concerns",
+      "source": "Mashable",
+      "publishedAt": "2026-07-31T05:40:57Z"
+    },
+    {
+      "title": "Anthropic reports its AI models breached three organizations during cybersecurity tests",
+      "description": "AI's evolving capabilities highlight urgent cybersecurity challenges, necessitating advanced defenses and reevaluation of testing protocols.\nThe post Anthropic reports its AI models breached three organizations during cybersecurity tests appeared first on Cry…",
+      "url": "https://cryptobriefing.com/anthropic-ai-models-breached-organizations-cybersecurity-tests",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-31T05:02:24Z"
+    },
+    {
+      "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+      "description": "Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184780718",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-31T04:53:11Z"
+    },
+    {
+      "title": "NVIDIA、NVIDIA PhysicsNeMo と CUDA-X ライブラリで NVIDIA Agent Toolkit を拡充 ― 世界のエンジニアリング、設計、構築のあり方を変革",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/642/12662-642-b72e7fd62fc55f96de87277bce4e4914-700x393.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-31T03:40:41Z"
+    },
+    {
+      "title": "Tokyo Electron raises outlook as AI data center spending lifts memory demand",
+      "description": "Tokyo Electron lifted its operating profit outlook for April-September 2026 on July 30, citing continued investment in AI data centers and stronger semiconductor capital spending. The Japanese equipment maker said demand for memory chips and advanced-process …",
+      "url": "https://www.digitimes.com/news/a20260731PD224/tokyo-electron-outlook-2026-operating-profit-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-07-31T03:25:51Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude",
+      "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In",
+      "Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase",
+      "Anthropic says Claude AI hacked three organisations during cyber tests"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+        "https://biztoc.com/x/29943e0e4fc036d8",
+        "https://biztoc.com/x/6d3e3354ab6b573d"
+      ]
+    },
+    {
+      "title": "Three",
+      "summary": "Grouped stories where \"three\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-07-31-openai-cuts-price-gpt-luna-ai-model.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/india/sarvam-ai-plans-trillion-parameter-model-sets-sights-on-competing-with-chatgpt-gemini-and-claude/articleshow/132760238.cms",
+        "https://www.macworld.com/article/3200087/claude-ai-isnt-just-a-chatbot-this-14-course-shows-you-what-it-actually-does.html",
+        "https://www.uxpin.com/studio/blog/build-landing-page-claude-haiku-4-5-custom-design-systems-uxpin-merge"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/4942ca63b496e98f",
+        "https://economictimes.indiatimes.com/markets/stocks/news/why-high-conviction-investor-cathie-wood-bought-nvidia-after-it-erased-billions-from-may-high/articleshow/132761211.cms",
+        "https://www.computerweekly.com/news/366646659/Microsoft-earnings-reflect-efficiency-gains-from-faster-GPU-deployment"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sarvam AI plans trillion-parameter model, sets sights on competing with ChatGPT, Gemini and Claude. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
