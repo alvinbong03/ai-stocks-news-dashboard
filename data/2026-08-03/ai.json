@@ -1,0 +1,175 @@
+{
+  "theme": "ai",
+  "date": "2026-08-03",
+  "last_updated_utc": "2026-08-03T09:33:18.556Z",
+  "news": [
+    {
+      "title": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
+      "description": "Nvidia's supply constraints amid soaring AI GPU demand could solidify its market dominance, but long-term growth hinges on supply chain agility.\nThe post Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-02T09:11:28Z"
+    },
+    {
+      "title": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck'",
+      "description": "METR's CEO, Beth Barnes, and president, Chris Painter.\nMETR\nMETR, a Berkeley lab started by an ex-OpenAI researcher, has grown into a prominent AI umpire.\nThe nonprofit works with OpenAI, Anthropic, and governments to evaluate cutting-edge models.\nMETR says t…",
+      "url": "https://biztoc.com/x/e135180e9adfc293",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-02T09:04:32Z"
+    },
+    {
+      "title": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck'",
+      "description": "METR, a Berkeley lab started by an ex-OpenAI researcher, has become a prominent AI umpire. CEO Beth Barnes says AI safety research needs more people.",
+      "url": "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-02T09:00:01Z"
+    },
+    {
+      "title": "As a human D&D Dungeon Master, AI will never replace me — but I wanted to see whether ChatGPT or Gemini were getting close",
+      "description": "I've been a Dungeons & Dragons DM for 12 years — and I'm judging whether ChatGPT or Gemini is the better virtual Dungeon Master.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/as-a-human-d-and-d-dungeon-master-ai-will-never-replace-me-but-i-wanted-to-see-whether-chatgpt-or-gemini-were-getting-close",
+      "source": "TechRadar",
+      "publishedAt": "2026-08-02T08:45:00Z"
+    },
+    {
+      "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
+      "description": "Wanna hear about Connes’s rigidity conjecture? No? Okay, what about a major new AI model?",
+      "url": "https://gizmodo.com/openai-smuggled-the-announcement-of-astra-its-next-ai-model-into-a-blog-post-about-math-2000793689",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-08-02T09:00:45Z"
+    },
+    {
+      "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August",
+      "description": "With August here, we're well over the halfway point in 2026. That may be a scary proposition, but it should also have investors hunting for bargain opportunities. I think there are several out there, and now is the perfect time to pounce on them before the ma…",
+      "url": "https://biztoc.com/x/d3529f1c6f02d57b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-02T08:49:28Z"
+    },
+    {
+      "title": "Galaxy Digital (NasdaqGS:GLXY) Buys 500 Acre Texas Site For AI Data Center Campus",
+      "description": "Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St.\n- Galaxy Digital acquired a 500 acre site in McGregor, Texas, for a new AI and high performance computing data center campus. \n- The compan…",
+      "url": "https://biztoc.com/x/5a87d03de721fea8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-02T08:34:41Z"
+    },
+    {
+      "title": "Week in review: Claude breached three companies during tests, AD CS domain-takeover PoC released",
+      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Nono: Open-source sandbox for AI agents AI coding agents run with the same permissions as their users, meaning they can access sensitive files, credentials, and …",
+      "url": "https://www.helpnetsecurity.com/2026/08/02/week-in-review-claude-breached-three-companies-during-tests-ad-cs-domain-takeover-poc-released",
+      "source": "Help Net Security",
+      "publishedAt": "2026-08-02T08:00:17Z"
+    },
+    {
+      "title": "Orchestrating docs instead of writing them yourself — podcast with Sarah Deaton of Anthropic",
+      "description": "In this podcast, co-host Fabrizio Ferri-Benedetti and I chat with Sarah Deaton, a technical writer at Anthropic who works on the Claude Code docs, about what documentation work looks like when much of it is automated. We discuss orchestrating docs through ski…",
+      "url": "https://idratherbewriting.com/blog/podcast-deaton-anthropic-tw-automation",
+      "source": "Idratherbewriting.com",
+      "publishedAt": "2026-08-02T07:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
+      "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck'",
+      "As a human D&D Dungeon Master, AI will never replace me — but I wanted to see whether ChatGPT or Gemini were getting close",
+      "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math",
+      "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e135180e9adfc293",
+        "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+        "https://gizmodo.com/openai-smuggled-the-announcement-of-astra-its-next-ai-model-into-a-blog-post-about-math-2000793689"
+      ]
+    },
+    {
+      "title": "500",
+      "summary": "Grouped stories where \"500\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/5a87d03de721fea8"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/ai-platforms-assistants/as-a-human-d-and-d-dungeon-master-ai-will-never-replace-me-but-i-wanted-to-see-whether-chatgpt-or-gemini-were-getting-close",
+        "https://biztoc.com/x/d3529f1c6f02d57b",
+        "https://www.helpnetsecurity.com/2026/08/02/week-in-review-claude-breached-three-companies-during-tests-ad-cs-domain-takeover-poc-released"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
