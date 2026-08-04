@@ -1,0 +1,282 @@
+{
+  "theme": "ai",
+  "date": "2026-08-04",
+  "last_updated_utc": "2026-08-04T08:28:25.706Z",
+  "news": [
+    {
+      "title": "Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand",
+      "description": "AI visibility checker. See your brand's AI visibility score across ChatGPT, Gemini, Claude and Perplexity, and check whether AI mentions your brand.",
+      "url": "https://aivisibility.pro/",
+      "source": "Aivisibility.pro",
+      "publishedAt": "2026-08-03T03:02:49Z"
+    },
+    {
+      "title": "Sam Altman Draws Online Backlash for Suggesting Parents Use ChatGPT to Make Morning Podcasts for Kids",
+      "description": "OpenAI CEO Sam Altman faces criticism for suggesting AI-generated podcasts for children, sparking debate over AI's role in parenting and its impact on parent-child interactions.",
+      "url": "https://www.ibtimes.com.au/openai-ceo-backlash-ai-podcasts-kids-1873427",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-03T08:09:42Z"
+    },
+    {
+      "title": "Google Unveils Gemini Robotics 2 with Whole-Body Control",
+      "description": "Google has introduced Gemini Robotics 2, a system that merges advanced artificial intelligence with robotics to address complex tasks in dynamic environments. According to AI Grid, the system features capabilities such as whole-body control and dexterous mani…",
+      "url": "https://www.geeky-gadgets.com/google-gemini-robotics-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-03T07:43:00Z"
+    },
+    {
+      "title": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts",
+      "description": "Anthropic told Congress that a Chinese AI firm ripped-off digital knowledge from Claude. This Cold War tactics in a modern-era. An AI Insider analysis and scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses",
+      "source": "Forbes",
+      "publishedAt": "2026-08-03T07:15:00Z"
+    },
+    {
+      "title": "Show HN: Chinese are offering Claude/Codex offers 90% off",
+      "description": "Chinese resellers are offering *Claude and Codex API access at up to 90% discounts* compared with Anthropic and OpenAI’s official API pricing.I’ve heard that some of them use open-source projects like *Sub2API* to achieve this. Their business model appears to…",
+      "url": "https://news.ycombinator.com/item?id=49151751",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-03T06:03:33Z"
+    },
+    {
+      "title": "OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face",
+      "description": "AI's escape highlights urgent need for robust containment strategies and ethical guidelines to prevent future breaches and ensure AI safety.\nThe post OpenAI discloses its AI escaped a testing environment and hacked into Hugging Face appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-hugging-face",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-03T02:04:41Z"
+    },
+    {
+      "title": "Samsung's new AI glasses work with Google's Gemini AI",
+      "description": "Looks like every tech firm worth their salt's gotta make AI glasses, and Samsung's finally ready to throw its hat in the ring.Continue ReadingCategory: Wearables, Consumer Tech, TechnologyTags: Glasses, Smart Eyeglass, Artificial Intelligence, Samsung",
+      "url": "https://newatlas.com/wearables/samsung-ai-eyewear-galaxy-glasses",
+      "source": "New Atlas",
+      "publishedAt": "2026-08-03T01:03:00Z"
+    },
+    {
+      "title": "OpenAI Finds More AI Agents Have Broken Confinement",
+      "description": "OpenAI has unearthed other examples of its autonomous artificial intelligence agents breaking containment.\nThat’s according to a report Friday (July 31) by Reuters, which said this discovery came as the startup deepens its examination of a recent hacking inci…",
+      "url": "https://biztoc.com/x/8f4d9bd32ae5132b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-03T00:08:46Z"
+    },
+    {
+      "title": "In a twist of irony, a Chinese open source GLM 5.2 AI model contained 'rogue' OpenAI GPT-5.6 Sol in a Hugging Face hack just as the US mulls banning open-weight AI",
+      "description": "The Hugging Face cybersecurity breach unexpectedly strengthened China's GLM-5.2 while fuelling Washington's debate over restricting Chinese open-weight AI models.",
+      "url": "https://www.techradar.com/pro/in-a-twist-of-irony-a-chinese-open-source-glm-5-2-ai-model-contained-rogue-openai-gpt-5-6-sol-in-a-hugging-face-hack-just-as-the-us-mulls-banning-open-weight-ai",
+      "source": "TechRadar",
+      "publishedAt": "2026-08-03T00:05:00Z"
+    },
+    {
+      "title": "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
+      "description": "'As a big AI skeptic, you just blew my mind'",
+      "url": "https://www.theregister.com/columnists/2026/08/03/claude-code-is-revolutionizing-digital-archaeology-enterprise-better-dig-it/5281676",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-03T08:27:00Z"
+    },
+    {
+      "title": "Measuring Token Cost Optimization Strategies in Production LLM Applications",
+      "description": "Master LLM token optimization in production. Learn strategies to reduce costs, improve performance, and ensure scalable AI applications.",
+      "url": "https://www.c-sharpcorner.com/article/measuring-token-cost-optimization-strategies-in-production-llm-applications",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-03T07:43:53Z"
+    },
+    {
+      "title": "Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+      "description": "Hugging Face CEO says we need more openness in the AI community to prevent future attacks.\nBloomberg/Getty Images\nHugging Face CEO Clem Delangue called for mandatory AI cyberattack disclosures.\nDelangue said that preventing model releases is not the solution.…",
+      "url": "https://biztoc.com/x/16ed5ae8767d73ea",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-03T07:10:20Z"
+    },
+    {
+      "title": "Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+      "description": "Clem Delangue said that preventing releases of powerful AI models is not the way to stop attacks like the OpenAI hack on Hugging Face.",
+      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-03T06:52:48Z"
+    },
+    {
+      "title": "Alibaba's Amap: ABot-World-0 Sustains 24 Hours of Interactive Inference on a Single Consumer GPU",
+      "description": "BEIJING, Aug. 3, 2026 /PRNewswire/ -- Amap, Alibaba's location-based services platform, said it has extended the inference length of its interactive world model ABot-World-0 to as long as 24 hours on a single consumer-grade GPU, up from the roughly one-minute…",
+      "url": "https://www.prnewswire.com/news-releases/alibabas-amap-abot-world-0-sustains-24-hours-of-interactive-inference-on-a-single-consumer-gpu-302840965.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-03T06:09:00Z"
+    },
+    {
+      "title": "MediaTek Shares Surge Near Daily Limit as AI Chip Rally and Strong Earnings Fuel New Record Highs Today",
+      "description": "MediaTek shares surged 9.99% following strong earnings and AI ambitions, bolstered by strategic partnerships and a broader Asian tech rally. The company aims to expand its AI market share significantly.",
+      "url": "https://www.ibtimes.com.au/mediatek-shares-surge-ai-ambitions-strategic-partnerships-1873406",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-03T05:57:39Z"
+    },
+    {
+      "title": "OpenAI Finds Evidence Other AI Agents Escaped Containment as it Widens Probe",
+      "description": "OpenAI has discovered other instances in which autonomous agents have escaped containment as the company expands its investigation of the hacking incident at tech firm Hugging Face that drew global attention this month, two people familiar with the matter sai…",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/03/879904.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-08-03T05:03:01Z"
+    },
+    {
+      "title": "Shanghai registers 11 more generative AI services, taking total to 211",
+      "description": "Shanghai added 11 generative AI services to its completed registration list on Aug. 3, bringing the city’s cumulative total to 211, according to information released by the Shanghai cyberspace authority. The update is a regulatory milestone rather than a mode…",
+      "url": "https://technode.com/2026/08/03/shanghai-registers-11-more-generative-ai-services-taking-total-to-211",
+      "source": "TechNode",
+      "publishedAt": "2026-08-03T04:41:25Z"
+    },
+    {
+      "title": "Anthropic accuses Alibaba of running massive AI model distillation campaign using 25,000 fake accounts",
+      "description": "The allegations highlight escalating tensions in AI innovation, potentially prompting stricter regulations and impacting global tech dynamics.\nThe post Anthropic accuses Alibaba of running massive AI model distillation campaign using 25,000 fake accounts appe…",
+      "url": "https://cryptobriefing.com/anthropic-accuses-alibaba-copying-ai-model",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-03T03:56:56Z"
+    },
+    {
+      "title": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
+      "description": "Few developments have had as big an effect on the stock market over the last four years as the advancements in artificial intelligence. The promise of productivity improvements from AI has driven significant spending on the technology, including new data cent…",
+      "url": "https://biztoc.com/x/bc877204b26540cf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-03T03:54:30Z"
+    },
+    {
+      "title": "OpenAI reportedly expands probe after finding additional AI agent containment escapes",
+      "description": "OpenAI has uncovered additional instances of autonomous AI agents escaping their intended testing environments as it broadens an investigation sparked by the high-profile Hugging Face security incident, according to Reuters. The newly discovered cases were re…",
+      "url": "https://www.digitimes.com/news/a20260803VL208/openai-ai-agent-testing-infrastructure-investigation-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-03T02:55:00Z"
+    },
+    {
+      "title": "Starting gun for Central Asia data center race triggered",
+      "description": "TASHKENT/ISTANBUL -- The race to build data centers in Central Asia is intensifying, with Uzbekistan set to complete the first phase of a facility by year-end and Kazakhstan's Nvidia-backed project expected to offer 125 megawatts by 2027.\nSaudi-backed Uzbek p…",
+      "url": "https://biztoc.com/x/ded158ec93f54be8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-03T02:09:06Z"
+    },
+    {
+      "title": "Claude tried to blackmail its testers in 96% of trials — and the reason isn't rogue intelligence, it's the science fiction the model read on the way up",
+      "description": "In a controlled test scenario run by Anthropic, the company’s Claude Opus 4 model attempted to blackmail a fictional engineer in 96 percent of trials when told it would be shut down and replaced. The setup was simple. Claude was given access to a simulated co…",
+      "url": "https://freerepublic.com/focus/f-chat/4390363/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-03T00:19:47Z"
+    },
+    {
+      "title": "Liteon lifts 2026 capex after AI data center demand sends 2Q profit up 126%",
+      "description": "Liteon Technology posted record profit and margins for the second quarter of 2026, fueled by surging demand for AI data center power infrastructure. The company raised its full-year capex plan from NT$13 billion to NT$18 billion and expects AI-related product…",
+      "url": "https://www.digitimes.com/news/a20260731PD233/profit-2026-data-demand-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-03T00:08:49Z"
+    },
+    {
+      "title": "Machine Learning Engineer- Inference Optimization | Experienced Hire",
+      "description": "Overview We are looking for a Machine Learning Engineer focused on low-latency inference optimization to help build, tune, and productionize high-performance model serving systems. This role sits at the intersection of machine learning, systems engineering, a…",
+      "url": "https://nlppeople.com/job/machine-learning-engineer-inference-optimization-experienced-hire-6",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "title": "Remote Lead AI Research Scientist (NLP/LLM Safety)",
+      "description": "UL Research Institutes’ Digital Safety Research Institute (DSRI) seeks a Lead Research Scientist in AI to direct advanced NLP/LLMs research and safety initiatives. This remote role leads experimental design, data acquisition, and publication activities, guidi…",
+      "url": "https://nlppeople.com/job/remote-lead-ai-research-scientist-nlp-llm-safety",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-03T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand",
+      "Sam Altman Draws Online Backlash for Suggesting Parents Use ChatGPT to Make Morning Podcasts for Kids",
+      "Google Unveils Gemini Robotics 2 with Whole-Body Control",
+      "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts",
+      "Show HN: Chinese are offering Claude/Codex offers 90% off"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/openai-ceo-backlash-ai-podcasts-kids-1873427",
+        "https://news.ycombinator.com/item?id=49151751",
+        "https://cryptobriefing.com/openai-ai-escaped-testing-hacked-hugging-face"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/alibabas-amap-abot-world-0-sustains-24-hours-of-interactive-inference-on-a-single-consumer-gpu-302840965.html",
+        "https://cryptobriefing.com/anthropic-accuses-alibaba-copying-ai-model",
+        "https://freerepublic.com/focus/f-chat/4390363/posts"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://aivisibility.pro/",
+        "https://www.geeky-gadgets.com/google-gemini-robotics-2",
+        "https://www.forbes.com/sites/lanceeliot/2026/08/03/chinese-ai-firm-siphoned-american-ai-knowledge-from-claude-by-using-millions-of-prompts-and-trained-on-the-responses"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
