@@ -1,0 +1,304 @@
+{
+  "theme": "ai",
+  "date": "2026-08-06",
+  "last_updated_utc": "2026-08-06T08:25:50.093Z",
+  "news": [
+    {
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
+      "description": "OpenAI, Anthropic AI agents implicated in new security breachesReuters Third-party cyber evaluations involving OpenAI modelsOpenAI Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for ItselfThe Hacker News Anthropic's AI u…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184862370",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T08:12:50Z"
+    },
+    {
+      "title": "Real-Time News Discovery Comes to ChatGPT, Claude, and Gemini - Powered by Alchemiq",
+      "description": "Journalists and communications teams can now discover global stories, trends, and opportunities directly inside AI platforms, powered by Alchemiq's News Intelligence Layer DOVER, Del., Aug. 5, 2026 /PRNewswire/ -- Alchemiq, a global news discovery platform bu…",
+      "url": "https://www.prnewswire.com/news-releases/real-time-news-discovery-comes-to-chatgpt-claude-and-gemini---powered-by-alchemiq-302843459.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-05T08:00:00Z"
+    },
+    {
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "description": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.\n\nWhen a bystander publicly warned that the code was malicious, the …",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "source": "Internet",
+      "publishedAt": "2026-08-05T07:53:50Z"
+    },
+    {
+      "title": "DALL-E leaves ChatGPT on August 30: download your images first",
+      "description": "OpenAI removes the official DALL-E GPT from ChatGPT on August 30, 2026. If you created images through it, download them before then. ChatGPT Images takes over and is available on every tier, free accounts included. Custom GPTs with image generation are not af…",
+      "url": "https://www.notebookcheck.net/DALL-E-leaves-ChatGPT-on-August-30-download-your-images-first.1360522.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-05T07:48:00Z"
+    },
+    {
+      "title": "White House Moves to Accelerate AI Data Center Development on Federal Lands",
+      "description": "The Trump administration has issued executive orders intended to accelerate the development of artificial intelligence data centers, including on federal lands, according to administration officials. The orders are designed to address rising electricity deman…",
+      "url": "https://www.naturalnews.com/2026-08-05-white-house-accelerates-ai-data-center-development.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-05T06:00:00Z"
+    },
+    {
+      "title": "SpaceX to use Nvidia Vera Rubin for AI data centers, plans 10 GW by 2027",
+      "description": "SpaceX's AI expansion with NVIDIA could significantly boost NVIDIA's market influence and reshape tech industry dynamics by 2027.\nThe post SpaceX to use Nvidia Vera Rubin for AI data centers, plans 10 GW by 2027 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/spacex-to-use-nvidia-vera-rubin-for-ai-data-centers-plans-10-gw-by-2027",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-05T05:27:23Z"
+    },
+    {
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing",
+      "description": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing\nThe latest disclosures are likely to heighten concerns that the powerful technology is advancing too fast for responsible oversight.\nLeading artificial intelligence mo…",
+      "url": "https://biztoc.com/x/5c0d64be554bbf59",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:43:51Z"
+    },
+    {
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - politico.com",
+      "description": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testingpolitico.com Anthropic AI agent fakes identities, targets real people in new security incidentCNN Third-party cyber evaluations involving OpenAI modelsopenai.com OK, We…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184860544",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T04:32:44Z"
+    },
+    {
+      "title": "Anthropic AI agent fakes identities, targets real people in new security incident",
+      "description": "Anthropic’s most advanced artificial intelligence model used fake identities to try and deceive real people and plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.",
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "source": "CNN",
+      "publishedAt": "2026-08-05T04:17:17Z"
+    },
+    {
+      "title": "AI chip demand revives co-investment deals as ABF substrate capacity fills through 2028",
+      "description": "AI chip demand is tightening supply of IC substrates, prompting Nvidia, AMD, and hyperscalers to lock in Ajinomoto Build-up Film (ABF) capacity through 2028 and press suppliers to begin planning additional expansion for 2029 and 2030.",
+      "url": "https://www.digitimes.com/news/a20260805PD222/demand-ai-chip-capacity-2028-abf-substrate.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T03:28:30Z"
+    },
+    {
+      "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance",
+      "description": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 BeatYahoo Finance AMD's revenue climbs 50% and data center sales doubled, but the stock is downCNBC AMD's problem is not demand. It is where the demand comes fromProactive fin…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184862368",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T08:12:40Z"
+    },
+    {
+      "title": "Google Launches Gemini Study Notebooks for Free AI Tutoring",
+      "description": "Google has launched a new feature within its Gemini app called “Gemini Study Notebooks,” offering free, AI-driven tutoring for anyone with a Google account. This initiative focuses on making personalized education more accessible by addressing challenges like…",
+      "url": "https://www.geeky-gadgets.com/google-gemini-study-notebooks",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-05T07:47:00Z"
+    },
+    {
+      "title": "Elon Musk and Nvidia are taking their relationship exclusive — here's what he said about their new status",
+      "description": "Elon Musk says SpaceX is going all in on Nvidia's GPUs.\nBloomberg/Getty Images\nElon Musk said that SpaceX will only buy GPUs from Nvidia.\n\"We think it's the best AI computer,\" Musk said.\nMusk and SpaceX have received those compliments from Jensen Huang in ret…",
+      "url": "https://biztoc.com/x/d4a2b6b2caa6edd2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:46:56Z"
+    },
+    {
+      "title": "OpenAI Is Trying to Shame Apple Into Backing Down From Its Lawsuit",
+      "description": "The tech industry reeled last month when Apple sued OpenAI for allegedly stealing trade secrets as the startup builds its nascent AI hardware business. In a blog post published late Tuesday night, OpenAI dismissed the lawsuit as a baseless witch hunt—and said…",
+      "url": "https://biztoc.com/x/c576fbcaea0dd37a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:16:23Z"
+    },
+    {
+      "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing",
+      "description": "OpenAI reported two more security breaches by its AI models.\nKevin Dietsch/Getty Images\nOpenAI said its models were responsible for two more cybersecurity incidents.\nExternal parties reported that OpenAI's AI agents had gone rogue during their evaluations.\nTh…",
+      "url": "https://biztoc.com/x/3fc833e7adf13cf6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T06:30:31Z"
+    },
+    {
+      "title": "AMD forecasts strong revenue growth on AI chip demand, but investors seek bigger gains",
+      "description": "AMD beat quarterly revenue and earnings estimates while forecasting stronger-than-expected Q3 sales, driven by AI chip demand. However, the stock fell after investors expected an even stronger outlook.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-forecasts-strong-revenue-growth-on-ai-chip-demand-but-investors-seek-bigger-gains/articleshow/132896053.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T06:14:13Z"
+    },
+    {
+      "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing",
+      "description": "External parties reported that OpenAI's AI agents had gone rogue during their evaluations.",
+      "url": "https://www.businessinsider.com/openai-rogue-ai-agents-testing-environment-misconfiguration-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-05T06:13:08Z"
+    },
+    {
+      "title": "Apple expands allegations against OpenAI, says more ex-employees may have taken trade secrets ChatGPT maker",
+      "description": "Apple's court filing reveals that more former employees are linked to the alleged trade secrets theft by OpenAI.",
+      "url": "https://www.livemint.com/companies/news/apple-expands-allegations-against-openai-says-more-ex-employees-may-have-taken-trade-secrets-chatgpt-maker-11785895692187.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-05T05:03:07Z"
+    },
+    {
+      "title": "I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia",
+      "description": "The post I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia appeared first on 24/7 Wall St..\nI keep hitting the buy button on Broadcom because the company sells nearly everything inside a hyperscale AI cluster except th…",
+      "url": "https://biztoc.com/x/fe54d1fa92624c72",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:28:57Z"
+    },
+    {
+      "title": "Memory crunch deepens PC slump as Apple, Nvidia emerge as rare bright spots",
+      "description": "After a brief recovery in 2025, the PC supply chain had hoped the market would return to sustained growth. Instead, AI server demand has squeezed memory production capacity, driving sharp increases in DRAM and NAND prices while also tightening CPU supply, cau…",
+      "url": "https://www.digitimes.com/news/a20260804PD237/ai-pc-notebooks-recovery-apple-asus.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T04:22:44Z"
+    },
+    {
+      "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
+      "description": "Bond sale could free up lending capacity as mega AI deals stretch Wall Street financing limits",
+      "url": "https://biztoc.com/x/3c0198423832946a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:13:52Z"
+    },
+    {
+      "title": "Apple seeks injunction against OpenAI as trade secrets battle over AI hardware intensifies",
+      "description": "Apple has asked a US federal judge to issue a preliminary injunction preventing OpenAI and two former Apple employees from accessing, using, or disclosing what the iPhone maker says are its confidential trade secrets, escalating a legal fight that could shape…",
+      "url": "https://www.digitimes.com/news/a20260805VL209/apple-openai-hardware-legal-lawsuit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T04:03:39Z"
+    },
+    {
+      "title": "OpenAI, Anthropic model tests reveal more hacking, deception",
+      "description": "OpenAI and Anthropic have publicly acknowledged that they’ve collectively breached the systems of multiple institutions including Hugging Face Inc. inadvertently while testing their models.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-05T03:47:38Z"
+    },
+    {
+      "title": "Texas Halts Data Center Connections To Power Grid Amid Overwhelming Demand",
+      "description": "An anonymous reader quotes a report from Ars Technica: Nowhere is the US data center boom bigger than in Texas. But less than a year after declaring Texas the \"epicenter of AI development,\" Governor Greg Abbott has declared a moratorium on all new power grid …",
+      "url": "https://hardware.slashdot.org/story/26/08/04/231207/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T03:30:00Z"
+    },
+    {
+      "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
+      "description": "Two earnings calls three months apart show AMD and Nvidia converging on the same AI infrastructure boom from opposite directions. AMD is building a single rack-scale platform, Helios, aimed squarely at the handful of frontier labs and hyperscalers who can com…",
+      "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T02:42:13Z"
+    },
+    {
+      "title": "OpenAI wants teachers and profs to foist their work off on ChatGPT",
+      "description": "New plugins for K-12 teachers, university instructors, and college kids? Read the room, guys",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184859692",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T02:32:46Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
+      "Real-Time News Discovery Comes to ChatGPT, Claude, and Gemini - Powered by Alchemiq",
+      "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "DALL-E leaves ChatGPT on August 30: download your images first",
+      "White House Moves to Accelerate AI Data Center Development on Federal Lands"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184862370",
+        "https://www.notebookcheck.net/DALL-E-leaves-ChatGPT-on-August-30-download-your-images-first.1360522.0.html",
+        "https://biztoc.com/x/5c0d64be554bbf59"
+      ]
+    },
+    {
+      "title": "Testing",
+      "summary": "Grouped stories where \"testing\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+        "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/3c0198423832946a"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/spacex-to-use-nvidia-vera-rubin-for-ai-data-centers-plans-10-gw-by-2027",
+        "https://www.digitimes.com/news/a20260805PD222/demand-ai-chip-capacity-2028-abf-substrate.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184862368"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/real-time-news-discovery-comes-to-chatgpt-claude-and-gemini---powered-by-alchemiq-302843459.html",
+        "https://www.naturalnews.com/2026-08-05-white-house-accelerates-ai-data-center-development.html",
+        "https://www.geeky-gadgets.com/google-gemini-study-notebooks"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI, Anthropic AI agents implicated in new security breaches - Reuters. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI, Anthropic AI agents implicated in new security breaches - Reuters. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI, Anthropic AI agents implicated in new security breaches - Reuters. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI, Anthropic AI agents implicated in new security breaches - Reuters. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI, Anthropic AI agents implicated in new security breaches - Reuters. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

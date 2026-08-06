@@ -1,0 +1,418 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-06",
+  "last_updated_utc": "2026-08-06T08:26:07.186Z",
+  "news": [
+    {
+      "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance",
+      "description": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 BeatYahoo Finance AMD's revenue climbs 50% and data center sales doubled, but the stock is downCNBC AMD's problem is not demand. It is where the demand comes fromProactive fin…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184862368",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-05T08:12:40Z"
+    },
+    {
+      "title": "Samsung unveils groundbreaking storage chip with over 400 layers",
+      "description": "Alongside the zHBM concept, Samsung Electronics unveiled its V10 BV-NAND storage chip at the Future of Memory and Storage (FMS) 2026 expo today. It uses the company's 10th-generation vertical NAND flash memory architecture and represents a major technical upg…",
+      "url": "https://www.sammobile.com/news/samsung-unveils-v10-bv-nand-flash-storage-chip-400-layers",
+      "source": "SamMobile",
+      "publishedAt": "2026-08-05T08:12:01Z"
+    },
+    {
+      "title": "What lies ahead for AMD shares after its record-breaking earnings?",
+      "description": "Advanced Micro Devices (AMD) delivered its strongest-ever quarterly performance, reporting record second-quarter revenue of $11.54 billion, up 50% year-on-year, while adjusted earnings per share climbed to $1.66, beating Wall Street expectations. The strong p…",
+      "url": "https://m.economictimes.com/markets/stocks/news/what-lies-ahead-for-amd-shares-after-its-record-breaking-earnings/amd-posts-record-q2-as-ai-business-powers-growth/slideshow/132905573.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-08-05T07:59:24Z"
+    },
+    {
+      "title": "Foxconn's monthly revenue hits record in July on AI demand",
+      "description": "​Nvidia ​and ​Apple ⁠supplier Foxconn's monthly revenue  hit ‌a ⁠record in ⁠July, ​surpassing T$900 ​billion ($27.93 billion) for ​the ⁠first time ‌on ​strong ​AI ⁠demand, the Taiwanese ​company said ​on Wednesday.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand/articleshow/132904566.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T07:57:12Z"
+    },
+    {
+      "title": "SpaceX and Nvidia are taking their relationship exclusive — here's what Musk said about their new status",
+      "description": "On SpaceX's earnings call on Wednesday, CEO Elon Musk said that his company was committed to buying graphics processing units from Nvidia only.",
+      "url": "https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-05T07:49:54Z"
+    },
+    {
+      "title": "Elon Musk and Nvidia are taking their relationship exclusive — here's what he said about their new status",
+      "description": "Elon Musk says SpaceX is going all in on Nvidia's GPUs.\nBloomberg/Getty Images\nElon Musk said that SpaceX will only buy GPUs from Nvidia.\n\"We think it's the best AI computer,\" Musk said.\nMusk and SpaceX have received those compliments from Jensen Huang in ret…",
+      "url": "https://biztoc.com/x/d4a2b6b2caa6edd2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:46:56Z"
+    },
+    {
+      "title": "Beyond the Gates S02E139 1080p WEB h264-EDITH",
+      "description": "Season , Episode – Hayley's forced to pivot when Bill gives her a health update; Naomi snoops; Chelsea gathers intel from Caroline; Kat tries to enlist Tomas for help; Kial surprises Nicole; Leslie gets to know Noah. Links: HOMEPAGE – TVMBeyond.The.Gates.S02E…",
+      "url": "https://post.rlsbb.cc/beyond-the-gates-s02e139-1080p-web-h264-edith",
+      "source": "Rlsbb.cc",
+      "publishedAt": "2026-08-05T07:38:52Z"
+    },
+    {
+      "title": "Palantir Is Winning: Rapid AIP Adoption, Margin Expansion, Soaring FCF",
+      "description": "Software analytics company Palantir (PLTR) had another record-breaking quarter in Q2'26, driven by accelerating adoption of its Foundry platforms and AIP, Palantir's Artificial Intelligence Platform. Because Palantir crushed top and bottom line estimates for …",
+      "url": "https://biztoc.com/x/d8ef640a53752aaa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:31:57Z"
+    },
+    {
+      "title": "Samsung, SK Hynix expansion puts Korea's chip supply chain to the test",
+      "description": "Daeduck Electronics plans to invest KRW497 billion(US$349.50 million) in semiconductor production facilities through 2027, its second major expansion announcement this year, Seoul Economic Daily reported, citing a regulatory filing with South Korea's Financia…",
+      "url": "https://www.digitimes.com/news/a20260805VL221/samsung-expansion-sk-hynix-production-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T07:22:50Z"
+    },
+    {
+      "title": "SK Hynix to hold late-August groundbreaking for US$3.9 billion Indiana chip packaging plant",
+      "description": "SK Hynix plans to hold a formal groundbreaking ceremony in late August for its US$3.9 billion advanced chip packaging facility in West Lafayette, Indiana, as the memory maker expands its ability to serve US customers.",
+      "url": "https://www.digitimes.com/news/a20260805VL222/sk-hynix-packaging-plant-hbm-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T07:13:27Z"
+    },
+    {
+      "title": "German chipmaker Infineon posts record revenue as AI fuels growth",
+      "description": "German semiconductor manufacturer Infineon reported record third-quarter revenue on Wednesday, driven by booming demand from AI data centres and a recovery in automotive orders.\nRevenue rose 13% year-on-year to a record €4.2 billion ($4.8 billion) in the thre…",
+      "url": "https://biztoc.com/x/39a113a7b178f1f3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:03:05Z"
+    },
+    {
+      "title": "Asian shares jump on AI trade revival despite SpaceX, AMD setbacks, as oil prices dip – business live",
+      "description": "Technology stocks booming again while Brent crude trades below $80 a barrel amid hopes for a Middle East interim deal\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nTechnology stocks are booming aga…",
+      "url": "https://biztoc.com/x/3e9c03af5943c74f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T07:01:01Z"
+    },
+    {
+      "title": "Airoha optical comms revenue doubles as broadband lands CSPs",
+      "description": "Airoha sees faster growth ahead as AI infrastructure, optical networking, and wireless edge products expand across global supply chains. The chip designer said its 2026 product mix is shifting structurally, with addressable markets broadening in wired and wir…",
+      "url": "https://www.digitimes.com/news/a20260805PD215/airoha-broadband-wireless-revenue-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T06:59:56Z"
+    },
+    {
+      "title": "Samsung unveils zHBM memory chip concept with 8x speed compared to HBM5",
+      "description": "Samsung, the world's biggest memory chip maker, has unveiled a new memory chip concept called zHBM for future AI servers. It promises extremely high data-transfer speeds and memory density compared to even HBM5 chips, which have not yet launched. At the Futur…",
+      "url": "https://www.sammobile.com/news/samsung-zhbm-memory-chip-concept-8x-speed-versus-hbm5",
+      "source": "SamMobile",
+      "publishedAt": "2026-08-05T06:57:43Z"
+    },
+    {
+      "title": "Raveling Melany by Zarma Type Foundry",
+      "description": "Free download of Raveling Melany Font Family with 2 styles. Released in 2026 by Zarma Type Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/raveling-melany-font-f167391",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-08-05T06:57:08Z"
+    },
+    {
+      "title": "AI ecosystem's 'circular' investment: risk or advantage?",
+      "description": "Amid talk of an AI sector bubble, one aspect is under scrutiny. Many big AI players are invested in smaller ones, who then buy the bigger firm's products. This brings risks and advantages. Reports that Nvidia is in talks to give financial guarantees of almost…",
+      "url": "https://www.dw.com/en/ai-ecosystems-circular-investment-risk-or-advantage/a-78186917",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-05T06:57:00Z"
+    },
+    {
+      "title": "Anthropic's scramble for compute is reshaping how AI labs finance their chips",
+      "description": "Anthropic's US$10 billion computing agreement with seven-month-old startup Volta Infra Holdings Ltd. is the latest sign that the Claude developer is treating compute procurement less like a vendor relationship and more like a hedging strategy.",
+      "url": "https://www.digitimes.com/news/a20260805VL205/anthropic-chips-infrastructure-startup-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T06:55:00Z"
+    },
+    {
+      "title": "Never said ‘good job’: Jensen Huang reveals the Asian parenting lesson that helped shape Nvidia’s CEO",
+      "description": "Nvidia CEO Jensen Huang reveals how his Asian upbringing, where constant criticism replaced praise, shaped his approach to feedback, leadership and success. \"Once you've been raised by Asian parents, you need therapy for life,\" he said.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/never-said-good-job-jensen-huang-reveals-the-asian-parenting-lesson-that-helped-shape-nvidias-ceo/articleshow/132896605.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T06:54:25Z"
+    },
+    {
+      "title": "London BTC returns 143 g/t gold from Nevada rock chips",
+      "description": "London BTC Company Ltd (LSE:BTC, OTCQB:VINZF) has reported a rock chip sample grading 143.1 grams of gold per tonne from its Amonett-Frank project in Nevada, the highest grade returned so far across its US portfolio.\nThe main market-listed company, chaired by…",
+      "url": "https://biztoc.com/x/50ea83ccedd4c4a1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T06:47:27Z"
+    },
+    {
+      "title": "Kioxia Corporationキオクシア：Super High IOPS SSD「KIOXIA GPシリーズ」が「FMS：the Future of Memory and Storage」の「Best of Show Award」を受賞",
+      "description": "【画像： https://www.kioxia.com/ja-jp/top.htmlhttps://kyodonewsprwire.jp/img/202608053723-O1-0Zla1zL1】   キオクシア：GPUダイレクトアクセスに向けて設計された業界初Super High IOPS SSD「KIOXIA GPシリーズ」が「FMS：the Future of Memory and Storage」の「Best of Show Award」を受賞   東京--...",
+      "url": "https://japan.cnet.com/release/31195398",
+      "source": "CNET",
+      "publishedAt": "2026-08-05T06:43:00Z"
+    },
+    {
+      "title": "Global Market: China stocks hit one-week high as chip rally offsets optical module slump",
+      "description": "Chinese equities climbed to a one-week high, led by semiconductor stocks, while Hong Kong shares edged higher. Improving global risk sentiment amid easing Middle East tensions also supported markets. Chip stocks gained after reports that Samsung Electronics a…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hit-one-week-high-as-chip-rally-offsets-optical-module-slump/articleshow/132898221.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T06:40:25Z"
+    },
+    {
+      "title": "Samsung, SK Hynix reportedly evaluate Chinese AMEC tools for China fabs",
+      "description": "Samsung Electronics and SK Hynix are evaluating chipmaking equipment from China’s Advanced Micro-Fabrication Equipment Inc. (AMEC) for possible use at their Chinese factories, three people familiar with the matter said. The reported evaluations come as the So…",
+      "url": "https://technode.com/2026/08/05/samsung-sk-hynix-reportedly-evaluate-chinese-amec-tools-for-china-fabs",
+      "source": "TechNode",
+      "publishedAt": "2026-08-05T06:38:21Z"
+    },
+    {
+      "title": "CXMT Becomes World’s Fastest-Growing DRAM Maker as Revenue Explodes 716% – China’s Memory Champion Charges at the Big Three Club",
+      "description": "Chinese memory manufacturer CXMT was the fastest-growing memory company in the world in the second quarter, according to the latest data from Counterpoint Research. Like China's Semiconductor Manufacturing International Corporation (SMIC), CXMT has also shape…",
+      "url": "https://wccftech.com/cxmt-becomes-worlds-fastest-growing-dram-maker-as-revenue-explodes-716-chinas-memory-champion-charges-at-the-big-three-club",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-05T06:35:55Z"
+    },
+    {
+      "title": "AMD says server CPU market to hit US$220B by 2030",
+      "description": "AMD expects the market for server central processing units (CPUs) to reach approximately US$220 billion by 2030, up from an estimate of more than US$120 billion three months earlier, as the company sees agentic artificial intelligence (AI) creating a new clas…",
+      "url": "https://www.digitimes.com/news/a20260805VL219/amd-market-2030-cpu-earnings.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T06:23:20Z"
+    },
+    {
+      "title": "AMD forecasts strong revenue growth on AI chip demand, but investors seek bigger gains",
+      "description": "AMD beat quarterly revenue and earnings estimates while forecasting stronger-than-expected Q3 sales, driven by AI chip demand. However, the stock fell after investors expected an even stronger outlook.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-forecasts-strong-revenue-growth-on-ai-chip-demand-but-investors-seek-bigger-gains/articleshow/132896053.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T06:14:13Z"
+    },
+    {
+      "title": "Risky Business #847 -- Oops! Claude's accidental hacking spree",
+      "description": "On this week’s show Patrick Gray, and James Wilson are joined by bearded man of leisure Adam Boileau to discuss the week’s cybersecurity news, including:\n\n<ul>\n <li>Accidental AI agent hacking sprees have the world’s media freaking out, but we think it’s all …",
+      "url": "https://risky.biz/RB847",
+      "source": "Risky.biz",
+      "publishedAt": "2026-08-05T06:10:19Z"
+    },
+    {
+      "title": "GIGABYTE AERO X16: 16\" WQXGA 165Hz IPS, Ryzen Al 7 350, RTX 5070, 32GB DDR5, 1TB SSD $1329.99 (2 replies)",
+      "description": "SPECS:16\" 2560 x 1600 400-nits 165Hz IPS panel, 100% sRGB\nAMD Ryzen AI 7 350 8-Core / 16 Thread 2GHz (5GHz max boost) Processor\n32GB DDR5-5600 Memory (2 SODIMM Slots)\n1TB M.2 2280 Gen4 NVMe SSD +",
+      "url": "https://slickdeals.net/f/19845141-gigabyte-aero-x16-16-wqxga-165hz-ips-ryzen-al-7-350-rtx-5070-32gb-ddr5-1tb-ssd-1329-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-05T06:05:09Z"
+    },
+    {
+      "title": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand",
+      "description": "It expects revenue of roughly €16.3 billion for the current fiscal year as the race to build AI infrastructure keeps adding fuel to red-hot semiconductor demand.",
+      "url": "https://biztoc.com/x/f235e34ca211d7f0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T05:59:57Z"
+    },
+    {
+      "title": "TSMC’s 2nm monthly capacity to reach 100,000 wafers",
+      "description": "As AI customers increasingly shift to more advanced 3nm and 2nm process technologies in pursuit of higher performance and lower power consumption, the surge in demand has prompted the world’s largest semiconductor foundry to adjust its production capacity pla…",
+      "url": "https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers",
+      "source": "TechNode",
+      "publishedAt": "2026-08-05T05:55:28Z"
+    },
+    {
+      "title": "Free 45g Chips with Any Sub @ Subway (App Required)",
+      "description": "Free chips with any sub Yep, you read that right – a free packet of chips with your sub for lunch. Only available on the Subway® app. Here now, ends Sunday. *Available from 05/08/2026 to …",
+      "url": "https://www.ozbargain.com.au/node/970307",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-08-05T05:51:08Z"
+    },
+    {
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "description": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\nAccording to Fortinet FortiGuard Labs, t…",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "source": "Internet",
+      "publishedAt": "2026-08-05T05:47:19Z"
+    },
+    {
+      "title": "Taiwan probes 17 China-funded firms over high-tech talent poaching",
+      "description": "Taiwan is a powerhouse in the global semiconductor industry, producing nearly all of the most advanced chips for companies including Nvidia and Apple. \nThe post Taiwan probes 17 China-funded firms over high-tech talent poaching appeared first on Digital Journ…",
+      "url": "https://www.digitaljournal.com/article/taiwan-probes-17-china-funded-firms-over-high-tech-talent-poaching",
+      "source": "Digital Journal",
+      "publishedAt": "2026-08-05T05:45:09Z"
+    },
+    {
+      "title": "Are Wall Street Analysts Bullish on Texas Instruments Stock?",
+      "description": "Texas Instruments Incorporated (TXN) is one of the world’s largest analog semiconductor companies, designing and manufacturing analog and embedded processing chips used in everything from automobiles and industrial equipment to consumer electronics. With a ma…",
+      "url": "https://biztoc.com/x/70b2b25731d16afd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T05:44:54Z"
+    },
+    {
+      "title": "Huawei's 18-tier pagoda challenges Nvidia's chip-scaling playbook",
+      "description": "Huawei is arguing that the next phase of semiconductor performance will depend less on transistor shrinkage and more on system architecture, faster data movement and tighter coordination between chips, software and AI models.",
+      "url": "https://www.digitimes.com/news/a20260805VL208/huawei-nvidia-performance-software-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T05:30:00Z"
+    },
+    {
+      "title": "Samsung, SK Hynix test Chinese chip tools as hedge against U.S. risks",
+      "description": "They are wary that future ⁠restrictions could extend beyond new equipment ​to the servicing, repair or replacement of Western tools already installed at their Chinese plants.",
+      "url": "https://biztoc.com/x/a6cf48b62d9f74d5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T05:29:41Z"
+    },
+    {
+      "title": "SpaceX to use Nvidia Vera Rubin for AI data centers, plans 10 GW by 2027",
+      "description": "SpaceX's AI expansion with NVIDIA could significantly boost NVIDIA's market influence and reshape tech industry dynamics by 2027.\nThe post SpaceX to use Nvidia Vera Rubin for AI data centers, plans 10 GW by 2027 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/spacex-to-use-nvidia-vera-rubin-for-ai-data-centers-plans-10-gw-by-2027",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-05T05:27:23Z"
+    },
+    {
+      "title": "Global Market: China optical stocks sink on reports of potential US import ban",
+      "description": "Chinese optical stocks tumbled after a Reuters report said the Trump administration was considering a ban on U.S. imports of new Chinese data centre components. Export-focused firms led the decline, while domestic chipmakers gained. Analysts said the proposed…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-optical-stocks-sink-on-reports-of-potential-us-import-ban/articleshow/132893182.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-05T05:24:10Z"
+    },
+    {
+      "title": "Morning Bid: Semis fly again as AI capex shoots the moon",
+      "description": "SpaceX shares fall on AI spending concerns; Musk says $1 trln revenue possible\nAugust 5 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.\nAsian markets have followed through on Wall Street’s record close with gains in the maj…",
+      "url": "https://biztoc.com/x/09636911d4639f40",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:59:14Z"
+    },
+    {
+      "title": "Core DNA: Coreweave and Nebius Couldn’t Be More Different and Why It Matters",
+      "description": "The post Core DNA: Coreweave and Nebius Couldn’t Be More Different and Why It Matters appeared first on 24/7 Wall St..\nCoreWeave (NASDAQ: CRWV) and Nebius Group (NASDAQ: NBIS) just delivered Q1 2026 results that look similar on the surface: both are NVIDIA-ba…",
+      "url": "https://biztoc.com/x/77c59a144df7933b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:59:03Z"
+    },
+    {
+      "title": "Macroblock returns to profit as display demand and new products support outlook",
+      "description": "Macroblock's return to profitability in the second quarter points to a steadier recovery in the LED display supply chain, with implications for customers and competitors across Asia, Europe, and North America. The Taiwanese chip designer said improving produc…",
+      "url": "https://www.digitimes.com/news/a20260805PD218/macroblock-display-profit-demand-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-05T04:48:07Z"
+    },
+    {
+      "title": "I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia",
+      "description": "The post I’m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn’t Go To Nvidia appeared first on 24/7 Wall St..\nI keep hitting the buy button on Broadcom because the company sells nearly everything inside a hyperscale AI cluster except th…",
+      "url": "https://biztoc.com/x/fe54d1fa92624c72",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:28:57Z"
+    },
+    {
+      "title": "AMD Vs. Broadcom: Why Broadcom is Actually Nvidia’s Biggest Problem",
+      "description": "The post AMD Vs. Broadcom: Why Broadcom is Actually Nvidia’s Biggest Problem appeared first on 24/7 Wall St..\nBroadcom (NASDAQ: AVGO) and AMD (NASDAQ: AMD) both closed earnings season with data center results that force a rethink of Nvidia’s real competition.…",
+      "url": "https://biztoc.com/x/da6299afe36cdee1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-05T04:28:32Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance",
+      "Samsung unveils groundbreaking storage chip with over 400 layers",
+      "What lies ahead for AMD shares after its record-breaking earnings?",
+      "Foxconn's monthly revenue hits record in July on AI demand",
+      "SpaceX and Nvidia are taking their relationship exclusive — here's what Musk said about their new status"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184862368",
+        "https://economictimes.indiatimes.com/tech/technology/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand/articleshow/132904566.cms",
+        "https://www.businessinsider.com/elon-musk-spacex-will-only-buy-from-nvidia-2026-8"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.sammobile.com/news/samsung-unveils-v10-bv-nand-flash-storage-chip-400-layers",
+        "https://www.digitimes.com/news/a20260805VL221/samsung-expansion-sk-hynix-production-investment.html",
+        "https://www.digitimes.com/news/a20260805VL222/sk-hynix-packaging-plant-hbm-production.html"
+      ]
+    },
+    {
+      "title": "Revenue",
+      "summary": "Grouped stories where \"revenue\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://m.economictimes.com/markets/stocks/news/what-lies-ahead-for-amd-shares-after-its-record-breaking-earnings/amd-posts-record-q2-as-ai-business-powers-growth/slideshow/132905573.cms",
+        "https://biztoc.com/x/39a113a7b178f1f3",
+        "https://wccftech.com/cxmt-becomes-worlds-fastest-growing-dram-maker-as-revenue-explodes-716-chinas-memory-champion-charges-at-the-big-three-club"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://technode.com/2026/08/05/tsmcs-2nm-monthly-capacity-to-reach-100000-wafers",
+        "https://biztoc.com/x/70b2b25731d16afd"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://post.rlsbb.cc/beyond-the-gates-s02e139-1080p-web-h264-edith",
+        "https://biztoc.com/x/d8ef640a53752aaa",
+        "https://biztoc.com/x/3e9c03af5943c74f"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
