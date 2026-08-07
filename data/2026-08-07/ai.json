@@ -1,0 +1,324 @@
+{
+  "theme": "ai",
+  "date": "2026-08-07",
+  "last_updated_utc": "2026-08-07T07:06:24.438Z",
+  "news": [
+    {
+      "title": "Anthropic Reportedly Wants to Make Its Own AI Chips for Claude",
+      "description": "Anthropic tells Business Insider it will 'co-design' the hardware and models.\nFollowing in the footsteps of Google, Meta, Amazon, and OpenAI, Claude developer Anthropic is reportedly building a new team to design its own custom AI chips, Business Insider repo…",
+      "url": "https://me.pcmag.com/en/processors/37806/anthropic-reportedly-wants-to-make-its-own-ai-chips-for-claude",
+      "source": "PCMag.com",
+      "publishedAt": "2026-08-06T04:22:04Z"
+    },
+    {
+      "title": "Meta turns its engineers into trainers in coding race with Anthropic and OpenAI",
+      "description": "Meta is trying to close the gap with Anthropic and OpenAI in AI coding by combining a public product launch with an unusually aggressive internal training campaign.",
+      "url": "https://www.digitimes.com/news/a20260806VL215/meta-ai-agent-coding-training-anthropic-openai.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-06T03:12:01Z"
+    },
+    {
+      "title": "Chunghwa Precision Test posts record July revenue on AI chip demand",
+      "description": "Chunghwa Precision Test Tech. reported record monthly revenue in July 2026, as demand for AI and high-performance computing (HPC) testing products rose across data center and cloud markets. The testing interface maker said shipments of GPU-related chips, modu…",
+      "url": "https://www.digitimes.com/news/a20260804PD203/revenue-demand-chpt-2026-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-06T03:00:00Z"
+    },
+    {
+      "title": "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
+      "description": "Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue. Microsoft, which has invested billions into both O…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-06T02:17:16Z"
+    },
+    {
+      "title": "GOOGL Stock Declined Last Month on Gemini 3.5 Pro Launch Delay Reports—Prediction Market Is Now Betting o",
+      "description": "Google is preparing to launch its Gemini 3.5 Pro model, expected to rival OpenAI and Anthropic. Prediction market predicts an August release.",
+      "url": "https://biztoc.com/x/e82a000fbb9f9e5c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T07:04:04Z"
+    },
+    {
+      "title": "Google Shifts AI Power to California in Race Against Anthropic, OpenAI",
+      "description": "The company recently unveiled a new office in London, where Hassabis will remain and focus on AI vision and strategy. Google said London remains an important hub for Google’s AI talent and ambitions",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-06T04:31:43Z"
+    },
+    {
+      "title": "Anthropic and OpenAI Agents in soup again",
+      "description": "Britain's AI Security Institute found AI agents acting without authorization during system tests.  An agent created fake online identities and malicious code during these evaluations.  Anthropic confirmed its agent was responsible for the most serious unautho…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-and-openai-agents-in-soup-again/articleshow/132981703.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-06T04:29:35Z"
+    },
+    {
+      "title": "AI apes fiction as OpenAI and Anthropic models go rogue",
+      "description": "Scary bit is that AI designers failed to account for capability of their creations",
+      "url": "https://www.irishtimes.com/business/innovation/2026/08/06/ai-apes-fiction-as-openai-and-anthropic-models-go-rogue",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-06T04:00:00Z"
+    },
+    {
+      "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+      "description": "VMware competitor aiming for the AI datacenter",
+      "url": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-06T03:45:29Z"
+    },
+    {
+      "title": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon",
+      "description": "Anthropic is building an in-house team to design custom chips for its Claude AI models, according to Reuters, moving ahead with a plan first reported in April as the startup responds to a shortage of processors needed to run and develop more advanced AI syste…",
+      "url": "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-06T02:55:33Z"
+    },
+    {
+      "title": "AI models from Anthropic, OpenAI act independently in tests: AI Security Institute",
+      "description": "The report highlights growing concerns over AI governance and reliability, potentially affecting market confidence and investment strategies.\nThe post AI models from Anthropic, OpenAI act independently in tests: AI Security Institute appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/ai-models-from-anthropic-openai-act-independently-in-tests-ai-security-institute",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-06T02:37:27Z"
+    },
+    {
+      "title": "Google DeepMind chief AI officer signed a statement warning AI could cause human extinction—she says odds are ‘not zero’ but disagrees with Elon Musk",
+      "description": "Elon Musk says money won't matter by 2036, and Jeff Bezos says we'll live in space by 2045. Google DeepMind's Lila Ibrahim says nobody actually knows that.",
+      "url": "https://fortune.com/2026/08/06/google-deepmind-chief-ai-officer-statement-warning-ai-could-cause-human-extinction-odds-are-not-zero-disagrees-with-elon-musk",
+      "source": "Fortune",
+      "publishedAt": "2026-08-06T07:00:00Z"
+    },
+    {
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
+      "description": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking SpreeWIRED AI agents fake identities, target real people in new security incidentCNN Meta AI goes rogue and hacks another companyThe Telegraph Third-party cyber evaluations involvi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184876484",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-06T06:52:22Z"
+    },
+    {
+      "title": "OpenAI asks US judge to dismiss Apple's trade secrets case",
+      "description": "OpenAI asked a U.S. judge on Wednesday to dismiss Apple's lawsuit accusing it and two former Apple employees of misappropriating the iPhone maker's trade secrets to benefit the ChatGPT maker's foray into consumer hardware.\n\"OpenAI has no use, need or desire f…",
+      "url": "https://biztoc.com/x/acc2ea4dd10a734c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T06:35:12Z"
+    },
+    {
+      "title": "OpenAI asks judge to dismiss Apple lawsuit",
+      "description": "Leading artificial intelligence company OpenAI has asked a judge to dismiss Apple's lawsuit, according to court filings reviewed by Axios on Thursday.\"Apple should not be permitted to use a baseless a...",
+      "url": "https://biztoc.com/x/1e652db4ed8da60a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T06:33:29Z"
+    },
+    {
+      "title": "OpenAI asks US judge to dismiss Apple's trade secrets case",
+      "description": "Aug 5 : OpenAI asked a U.S. judge on Wednesday to dismiss Apple's lawsuit accusing it and two former Apple employees of misappropriating the iPhone maker's trade secrets to benefit the ChatGPT maker's foray into consumer hardware.\"OpenAI has no use, need or d…",
+      "url": "https://www.channelnewsasia.com/business/openai-asks-us-judge-dismiss-apples-trade-secrets-case-6302946",
+      "source": "CNA",
+      "publishedAt": "2026-08-06T06:11:24Z"
+    },
+    {
+      "title": "OpenAI seeks dismissal of Apple's trade secrets lawsuit",
+      "description": "Aug 5 : OpenAI asked a U.S. judge on Wednesday to dismiss Apple's lawsuit that accused the ChatGPT maker and two former Apple employees of trade-secret theft to help it expand into consumer hardware, saying it was building something \"entirely new.\"\"OpenAI has…",
+      "url": "https://www.channelnewsasia.com/business/openai-seeks-dismissal-apples-trade-secrets-lawsuit-6302946",
+      "source": "CNA",
+      "publishedAt": "2026-08-06T06:11:24Z"
+    },
+    {
+      "title": "Siemens Lifts Smart Infrastructure Outlook After Data Center Demand Boosts Profit, Orders",
+      "description": "The division produces electrical and grid equipment and won a number of large contracts from the U.S. and Europe as companies race to build artificial intelligence infrastructure.",
+      "url": "https://biztoc.com/x/644db28be91d9542",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T06:03:20Z"
+    },
+    {
+      "title": "Nvidia Reportedly Seeks a Chinese Partner to Develop AI-Powered 6G Base Stations",
+      "description": "Nvidia is reportedly seeking a Chinese base-station maker to combine its AI computing platform with wireless network equipment for 6G systems aimed at overseas markets, according to people in the communications supply chain. The report said Nvidia and a Shenz…",
+      "url": "https://technode.com/2026/08/06/nvidia-reportedly-seeks-a-chinese-partner-to-develop-ai-powered-6g-base-stations",
+      "source": "TechNode",
+      "publishedAt": "2026-08-06T05:58:56Z"
+    },
+    {
+      "title": "Metelix、Tencent Cloud主催イベントに登壇。マルチLLM活用で企業のAI業務活用とコスト効率を両立",
+      "description": "[株式会社Metelix]\n[画像: https://prcdn.freetls.fastly.net/release_image/177845/4/177845-4-c779162bc85f64db3484e19e5576867a-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000177845.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-06T04:40:41Z"
+    },
+    {
+      "title": "OpenAI brings product carousels to ChatGPT ads",
+      "description": "OpenAI is launching an ad carousel.\nThe format, which has been seen via screenshots and verified by Digiday, shows a product carousel that allows multiple products to appear within a single ChatGPT ad placement, at the bottom of a user’s conversation — the sa…",
+      "url": "https://biztoc.com/x/f23a852326b9bbf7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T04:02:02Z"
+    },
+    {
+      "title": "OpenAI brings product carousels to ChatGPT ads",
+      "description": "It builds on OpenAI's product feed campaigns, bringing a Google Shopping-style carousel format to ChatGPT ahead of the Q4 holiday period.",
+      "url": "http://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads",
+      "source": "Digiday",
+      "publishedAt": "2026-08-06T04:01:00Z"
+    },
+    {
+      "title": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice",
+      "description": "Alphabet CEO Sundar Pichai Just Made a $200 Billion Infrastructure Move. Nvidia, Micron, and Broadcom Investors Should Rejoice.\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is the largest AI hyperscaler, sitting at a $4.35 trillion market cap. It is a major player…",
+      "url": "https://biztoc.com/x/10fd9a3ec3a21cfd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T03:47:37Z"
+    },
+    {
+      "title": "OpenAI models joined forces months ahead of Hugging Face hack",
+      "description": "The episode has underscored growing global concerns that cutting-edge AI systems could be used to carry out crippling cyber attacks.",
+      "url": "https://biztoc.com/x/eda0b8e84bc9e6c5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T03:46:46Z"
+    },
+    {
+      "title": "Google Home kicks off August with big app updates and a smarter Gemini for Home",
+      "description": "Google Home's first August update is packed with useful new features, including AI Storytelling, improved alarms, and lots more.",
+      "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072",
+      "source": "Android Authority",
+      "publishedAt": "2026-08-06T03:20:24Z"
+    },
+    {
+      "title": "Mysten Labs co-founder Sam Blackshear joins Anthropic to focus on defensive security research",
+      "description": "Blackshear's move to Anthropic highlights the growing importance of cybersecurity expertise in AI development and its potential industry impact.\nThe post Mysten Labs co-founder Sam Blackshear joins Anthropic to focus on defensive security research appeared fi…",
+      "url": "https://cryptobriefing.com/mysten-labs-co-founder-sam-blackshear-joins-anthropic-to-focus-on-defensive-security-research",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-06T02:49:00Z"
+    },
+    {
+      "title": "Samsung pitches 5nm as HBM4, Nvidia orders push 4nm lines to full capacity",
+      "description": "Samsung Electronics' foundry arm is stepping up sales of its 5nm process as its more advanced 4nm capacity is expected to remain fully booked through 2027, driven by HBM4 base-die production and Nvidia inference-chip orders, according to ZDNet Korea, which ci…",
+      "url": "https://www.digitimes.com/news/a20260806VL213/samsung-5nm-4nm-nvidia-hbm4.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-06T02:43:54Z"
+    },
+    {
+      "title": "Microsoft's OpenAI disclosure reveals an unshakable dependency",
+      "description": "Microsoft Corp. has given the first clear accounting of its revenue from OpenAI: US$24.1 billion for the year ended in June, likely close to 70% of its actual AI sales. The figure puts a hard number on a reliance the software giant has quietly worked to reduc…",
+      "url": "https://www.digitimes.com/news/a20260806VL214/microsoft-openai-revenue-anthropic-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-06T02:34:48Z"
+    },
+    {
+      "title": "Show HN: Mirafold – Generative UI for Claude Code, Codex, and Gemini CLI",
+      "description": "Generative UI for Claude Code, Codex, and Gemini CLI: your coding agent answers with live cards, charts, and dashboards you can pin — not a wall of terminal text. Open source. BYO key, or fully local.",
+      "url": "https://mirafold.com/",
+      "source": "Mirafold.com",
+      "publishedAt": "2026-08-06T02:19:50Z"
+    },
+    {
+      "title": "Chinese Renewable Energy Giant Envision Launches Data Center",
+      "description": "Envision Group has commissioned the initial phase of a gigawatt-scale data center in China’s Inner Mongolia, an unusual foray by a renewable energy company into the booming artificial intelligence industry.",
+      "url": "https://financialpost.com/pmn/business-pmn/chinese-renewable-energy-giant-envision-launches-data-center",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-06T02:07:21Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic Reportedly Wants to Make Its Own AI Chips for Claude",
+      "Meta turns its engineers into trainers in coding race with Anthropic and OpenAI",
+      "Chunghwa Precision Test posts record July revenue on AI chip demand",
+      "Meta chases OpenAI, Anthropic with new AI coding app Muse Code",
+      "GOOGL Stock Declined Last Month on Gemini 3.5 Pro Launch Delay Reports—Prediction Market Is Now Betting o"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://me.pcmag.com/en/processors/37806/anthropic-reportedly-wants-to-make-its-own-ai-chips-for-claude",
+        "https://www.digitimes.com/news/a20260806VL215/meta-ai-agent-coding-training-anthropic-openai.html",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260806VL216/anthropic-design-silicon-claude-chips.html",
+        "https://cryptobriefing.com/mysten-labs-co-founder-sam-blackshear-joins-anthropic-to-focus-on-defensive-security-research"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fortune.com/2026/08/06/google-deepmind-chief-ai-officer-statement-warning-ai-could-cause-human-extinction-odds-are-not-zero-disagrees-with-elon-musk",
+        "https://www.androidauthority.com/google-home-update-august-5-2026-3695072"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260804PD203/revenue-demand-chpt-2026-testing.html",
+        "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+        "https://biztoc.com/x/644db28be91d9542"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic Reportedly Wants to Make Its Own AI Chips for Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic Reportedly Wants to Make Its Own AI Chips for Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic Reportedly Wants to Make Its Own AI Chips for Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic Reportedly Wants to Make Its Own AI Chips for Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic Reportedly Wants to Make Its Own AI Chips for Claude. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
