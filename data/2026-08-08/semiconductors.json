@@ -1,0 +1,403 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-08",
+  "last_updated_utc": "2026-08-08T06:42:01.614Z",
+  "news": [
+    {
+      "title": "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+      "description": "US President Donald Trump's new import rules on polysilicon, ingots, wafers, and solar products could ripple through global clean energy and semiconductor markets, affecting pricing, sourcing, and investment decisions far beyond the US. South Korean producers…",
+      "url": "https://www.digitimes.com/news/a20260807PD240/polysilicon-low-priced-solar-tariffs-usa.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T06:40:11Z"
+    },
+    {
+      "title": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
+      "description": "Microsoft released a dedicated AI Gateway tier of Azure API Management in public preview, with a control plane built around models, MCP servers and tools rather than APIs. It fronts Foundry, Bedrock, Vertex AI and OpenAI behind one endpoint, with policy cards…",
+      "url": "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-08-07T06:35:00Z"
+    },
+    {
+      "title": "Sysadmin summoned to explain italics – to a user with at least two degrees",
+      "description": "MOST POPULAR\n- \n \n AI and ML How the famed USENIX Security conf is managing a flood of papers in the AI eraAI usage is evident but isn't yet a serious problem \n- \n \n AI and ML AMD acquires AI chip startup Taalas to boost inference performance by etching model…",
+      "url": "https://biztoc.com/x/d53e7b76a389c8db",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T06:33:08Z"
+    },
+    {
+      "title": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+      "description": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited IncursionWSJ Ukraine war live: Putin could target Nato member to test alliance, US intel warnsThe Independent Garry Kasparov warns of Russian incursion into Poland or BalticsTVP World A…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184888480",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-07T06:33:06Z"
+    },
+    {
+      "title": "Terafab Rendered in a Video",
+      "description": "Terafab will close the gap between today’s chip production and the future’s demand — a future among the stars. Terafab Texas will be the largest and most valuable building on Earth by far. And it will be stunningly beautiful. pic.twitter.com/4NweOqTL7y — Elon…",
+      "url": "https://www.nextbigfuture.com/2026/08/terafab-rendered-in-a-video.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-08-07T06:29:27Z"
+    },
+    {
+      "title": "Galaxy S26 FE has an interesting Exynos and Snapdragon mix",
+      "description": "Samsung could unveil the Galaxy S26 FE next month, and the device is expected to exclusively use the company's in-house Exynos chipset. However, the phone's Federal Communications Commission (FCC) certification has revealed an interesting mix of Samsung and Q…",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-exynos-snapdragon-mix-interesting",
+      "source": "SamMobile",
+      "publishedAt": "2026-08-07T06:29:05Z"
+    },
+    {
+      "title": "Proxmox Virtual Environment Officially Runs on ARM64, But Your Raspberry Pi Isn't Supported Yet",
+      "description": "The release is powered by Debian 13.5 and Linux 7.0, with NVIDIA Grace and Vera systems fully supported.",
+      "url": "https://itsfoss.com/news/proxmox-virtual-environment-arm64-support",
+      "source": "Itsfoss.com",
+      "publishedAt": "2026-08-07T06:22:08Z"
+    },
+    {
+      "title": "Samsung’s new memory chip could make Nvidia’s AI chips faster",
+      "description": "Anyone who has bought a fast new laptop only to watch it freeze while a file loads knows the frustration.\nThe processor is not the problem. It is waiting on memory that cannot feed it fast enough, and that same bottleneck now sits between AI companies and fas…",
+      "url": "https://biztoc.com/x/4c4921ee5e023a7d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T06:19:04Z"
+    },
+    {
+      "title": "npm Staged Publishing Available, Adding a Human Approval Step Before Packages Go Live",
+      "description": "npm has introduced staged publishing for Node.js, requiring maintainer approval before a version is installable. Versions are queued and must pass a two-factor authentication challenge for release. This feature aims to enhance security amid rising supply chai…",
+      "url": "https://www.infoq.com/news/2026/08/npm-stage-available",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-08-07T06:12:00Z"
+    },
+    {
+      "title": "Controlled scarcity: MP Materials builds America's rare earth answer while China keeps the heavies at home",
+      "description": "MP Materials' second quarter is best read as a status report on an industrial contest. On the one hand, China has tightened its grip on the parts of the rare earth chain that matter most for defense and high-performance motors. On the other hand, the US is pa…",
+      "url": "https://www.digitimes.com/news/a20260807VL211/industrial-revenue-supply-chain-capacity-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T05:57:17Z"
+    },
+    {
+      "title": "Samsung sounds out Novatek for Galaxy S28 Ultra DDI",
+      "description": "Samsung Electronics is considering opening its flagship Galaxy S display driver IC (DDI) supply chain to an outside supplier, a move that could break System LSI's long-standing exclusive hold on the business.",
+      "url": "https://www.digitimes.com/news/a20260807VL213/samsung-galaxy-ddi-novatek-supplier.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T05:56:00Z"
+    },
+    {
+      "title": "Global Market: Japan stocks fall over 1% as chip shares tumble, SoftBank declines despite earnings beat",
+      "description": "Japan's Nikkei fell over 1% on Friday, dragged down by a selloff in AI and semiconductor stocks, even as the broader Topix stayed roughly flat. SoftBank Group was a key laggard, dropping 4.3% despite posting a smaller-than-expected 18% profit decline for the …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-fall-over-1-as-chip-shares-tumble-softbank-declines-despite-earnings-beat/articleshow/133023202.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T05:45:20Z"
+    },
+    {
+      "title": "The Asus ROG NUC 16 now comes with RTX 5070 Ti and 32GB RAM, but it costs over $3,100",
+      "description": "Asus has released a new ROG NUC 16 configuration with an RTX 5070 Ti Laptop GPU and 32GB of RAM. Starting at $3,116.60, it slots between the RTX 5060 ($2,499) and RTX 5080 ($3,799) options, offering a middle ground between price and performance.",
+      "url": "https://www.notebookcheck.net/The-Asus-ROG-NUC-16-now-comes-with-RTX-5070-Ti-and-32GB-RAM-but-it-costs-over-3-100.1361288.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-07T05:29:00Z"
+    },
+    {
+      "title": "SpaceX to build $16.8 billion chip plant in Texas, create over 3,000 jobs",
+      "description": "SpaceX announces a $16.8 billion AI chip plant in Texas, creating over 3,000 jobs and addressing global chip supply needs.",
+      "url": "https://www.thehindubusinessline.com/info-tech/spacex-to-build-168-billion-chip-plant-in-texas-create-over-3000-jobs/article71316332.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-07T05:21:16Z"
+    },
+    {
+      "title": "$1 billion in TSMC chips for Apple's new iPhone 18 are reportedly sitting on shelves, waiting for DRAM",
+      "description": "Apple is reportedly scrambling to secure memory for its iPhone 18 launch, with TSMC sitting on $1 billion+ of 'excess inventory' awaiting DRAM.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113035/dollars1-billion-in-tsmc-chips-for-apples-new-iphone-18-are-reportedly-sitting-on-shelves-waiting-for-dram/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-08-07T05:04:12Z"
+    },
+    {
+      "title": "AMD Is Focused Correctly So I Continue Loading Up",
+      "description": "The post AMD Is Focused Correctly So I Continue Loading Up appeared first on 24/7 Wall St..\nI keep hitting the buy button on Advanced Micro Devices (NASDAQ:AMD), and after this latest quarter I am not close to stopping. My conviction rests on one idea: Lisa S…",
+      "url": "https://biztoc.com/x/f7442ff1f8b260e8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T05:02:15Z"
+    },
+    {
+      "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
+      "description": "The post Is Broadcom the Best Chip Stock to Own Now? Maybe appeared first on 24/7 Wall St..\nI keep hitting the buy button on Broadcom, and after the latest quarter I have no interest in stopping.\nWhat pulls me back is the shape of this business. Broadcom (NAS…",
+      "url": "https://biztoc.com/x/a18332da198074b2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T05:02:07Z"
+    },
+    {
+      "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
+      "description": "The post How Will Intel Really Be Able to Beat TSMC in The Next Year? appeared first on 24/7 Wall St..\nIntel (NASDAQ: INTC) and Taiwan Semiconductor Manufacturing (NYSE: TSM) both delivered Q2 2026 results that expose a widening gap between an incumbent and a…",
+      "url": "https://biztoc.com/x/fe6fa5448453b57c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T05:01:58Z"
+    },
+    {
+      "title": "NVIDIA Says It “Continually Optimizes Compute, Networking, Memory” To Deliver Best Performance & Efficiency To Its Customers Amidst Vera and Rubin Ultra “Downgrade” Rumors",
+      "description": "NVIDIA's Rubin Ultra & Vera chips are subject to various \"downgrade\" rumors, but the company says that it is part of its optimization strategy. NVIDIA Rubin Ultra AI Chips & Vera CPUs Feature Optimized Memory Configurations For Performance & Scale Recently, t…",
+      "url": "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-07T05:00:02Z"
+    },
+    {
+      "title": "NTA's own experts leaked NEET-UG papers for cash, CBI chargesheet alleges",
+      "description": "The CBI has filed a chargesheet naming thirteen individuals in a paper leak conspiracy. NTA subject experts allegedly accessed and shared confidential examination questions illegally. A chain of intermediaries then distributed these leaked papers to candidate…",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/ntas-own-experts-leaked-neet-ug-papers-for-cash-cbi-chargesheet-alleges/articleshow/133021401.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T04:57:41Z"
+    },
+    {
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year",
+      "description": "Nvidia just doesn't make GPUs and the various supporting equipment for these computing units. It's also an active investor. When it comes across a company it likes, it isn't afraid to invest. One company Nvidia has taken a major stake in is Nebius (NASDAQ: NB…",
+      "url": "https://biztoc.com/x/f2f116e99b10998a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T04:48:09Z"
+    },
+    {
+      "title": "US optical transceiver ban risks slowing AI data center build-out",
+      "description": "A proposed US ban on new Chinese optical transceivers could disrupt the build-out of AI data centers before Western suppliers have enough capacity to replace Chinese production, raising the risk of higher costs, delayed cluster deployments and stranded GPU ca…",
+      "url": "https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:44:33Z"
+    },
+    {
+      "title": "China launches mysterious probe into security of Palo Alto Networks' products",
+      "description": "MOST POPULAR\n- \n \n AI and ML How the famed USENIX Security conf is managing a flood of papers in the AI eraAI usage is evident but isn't yet a serious problem \n- \n \n AI and ML AMD acquires AI chip startup Taalas to boost inference performance by etching model…",
+      "url": "https://biztoc.com/x/79e19e6d43dbd49c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T04:32:06Z"
+    },
+    {
+      "title": "ShieldFont fights AI scraping by handing crawlers the wrong words",
+      "description": "Isaque Seneda and Gabriel Abrucio built a web font that draws one set of words on screen and leaves a different set in the page’s source code. A person reading in a browser sees the writing as written. A scraper pulling the HTML gets different words in the sa…",
+      "url": "https://www.helpnetsecurity.com/2026/08/07/shieldfont-ai-scraping-protection",
+      "source": "Help Net Security",
+      "publishedAt": "2026-08-07T04:30:47Z"
+    },
+    {
+      "title": "At QuakeCon, Nvidia Has a Crazy Idea: Selling Its GPUs for Their Launch Prices",
+      "description": "You know it's bad when this seems like a great deal.\nBuying a graphics card at its recommended retail price is tough in 2026, so Nvidia is at QuakeCon with boxed GPUs ready to sell at their MSRP. That's $999 for an RTX 5080 (approximately AED 3,666 / SAR 3,74…",
+      "url": "https://me.pcmag.com/en/graphics-cards/37810/at-quakecon-nvidia-has-a-crazy-idea-selling-its-gpus-for-their-launch-prices",
+      "source": "PCMag.com",
+      "publishedAt": "2026-08-07T04:17:17Z"
+    },
+    {
+      "title": "Exclusive: STATS ChipPAC readies broad packaging price hikes on AI-driven OSAT squeeze",
+      "description": "AI chip demand is sustaining a global rise in semiconductor packaging and testing prices, with STATS ChipPAC preparing a broad round of price increases for the second half of 2026. Some customers have recently received notices of varying adjustments from the …",
+      "url": "https://www.digitimes.com/news/a20260807PD226/packaging-osat-demand-stats-chippac-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:15:00Z"
+    },
+    {
+      "title": "Interview: Nvidia exec on progress of CPO production and pluggable optics",
+      "description": "Nvidia Senior Vice President of Networking Gilad Shainer said the company is building the key network architecture and optical interconnect technologies needed for AI factory deployments at scale, in a DIGITIMES interview ahead of the OCP APAC Summit on Augus…",
+      "url": "https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:12:18Z"
+    },
+    {
+      "title": "China exports in July beat forecasts on robust high-tech demand",
+      "description": "China’s exports expanded 23.9 per cent year on year in in July, with chip shipments almost doubling. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand",
+      "source": "The Straits Times",
+      "publishedAt": "2026-08-07T04:05:37Z"
+    },
+    {
+      "title": "Solar tariffs will hurt America’s allies, not China",
+      "description": "Proposed US tariffs on polysilicon will harm domestic and allied solar industries.  China dominates low-cost solar polysilicon production due to scale advantages.  US solar manufacturing has struggled despite past protectionist measures.  US companies pivot t…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/solar-tariffs-will-hurt-americas-allies-not-china/articleshow/133020502.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T03:58:18Z"
+    },
+    {
+      "title": "Proxmox VE now officially supports 64-bit Arm (Aarch64) targets",
+      "description": "Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built …",
+      "url": "https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets",
+      "source": "CNX Software",
+      "publishedAt": "2026-08-07T03:55:58Z"
+    },
+    {
+      "title": "LG plans three-tier AI chips for appliances, home robots",
+      "description": "LG Electronics plans to develop premium, midrange and entry-level on-device AI chips for products ranging from refrigerators and washing machines to smart-home hubs and service robots, according to ETNews.",
+      "url": "https://www.digitimes.com/news/a20260806VL219/chips-lg-lg-electronics-on-device-ai-soc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T03:49:57Z"
+    },
+    {
+      "title": "Analysis: SpaceX's Nvidia exclusivity isn't a knock on AMD — it's a land grab in orbit",
+      "description": "SpaceX's earnings call — the first since its IPO disclosure — beat expectations on Aug 4, but the line that moved markets wasn't a revenue figure.",
+      "url": "https://www.digitimes.com/news/a20260806VL225/spacex-nvidia-amd-earnings-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T03:49:24Z"
+    },
+    {
+      "title": "Inside Terafab: Musk's US$16.8B bet to turn AI chip shortages into a homegrown supply chain",
+      "description": "Elon Musk's ambitions across AI, robotics and space infrastructure are moving into a new phase following the unveiling of Terafab, an ambitious semiconductor manufacturing complex designed to secure the compute capacity required by Tesla, SpaceX and xAI.",
+      "url": "https://www.digitimes.com/news/a20260807VL203/manufacturing-elon-musk-infrastructure-robotics-tesla.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T03:47:09Z"
+    },
+    {
+      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+      "description": "Toronto-based Taalas develops specialized silicon designed to reduce computing and memory bottlenecks in AI ‌inference, the ⁠process ⁠of running trained AI models to generate responses or predictions.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/amd-deepens-ai-inference-bet-with-taalas-deal-as-chip-race-heats-up/articleshow/133020434.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T03:43:58Z"
+    },
+    {
+      "title": "Panel makers turn old fabs into AI-advanced packaging hubs",
+      "description": "AI-driven demand for advanced packaging is giving old-generation panel fabs and equipment new value. As Taiwan's panel makers accelerate the phaseout of LCD capacity at the 5.5 generation and below, they are splitting into two tracks: selling factories to fou…",
+      "url": "https://www.digitimes.com/news/a20260807PD224/packaging-panel-demand-capacity-innolux.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T03:30:00Z"
+    },
+    {
+      "title": "Trump imposes 15% tariff on key chip and solar panel material",
+      "description": "Trump imposes 15% tariff on key chip material to counter China\nUS President Donald Trump signed an executive order on Thursday that imposes a 15% tariff on imported products made from polysilicon, a crucial material used in semiconductors and solar panels.\nTh…",
+      "url": "https://biztoc.com/x/c0140430cc9590b5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T03:17:07Z"
+    },
+    {
+      "title": "Nikkei Falls 0.7%, Dragged by Chip-Related Stocks",
+      "description": "Japanese stocks were lower in early trade as uncertainty over the Middle East conflict and energy costs persist.",
+      "url": "https://biztoc.com/x/175f1243271bea36",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T03:16:58Z"
+    },
+    {
+      "title": "U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion",
+      "description": "The new assessment updates past forecasts that Russia’s leader wouldn’t provoke the alliance during the Ukraine war.",
+      "url": "https://biztoc.com/x/6f48c8c260fcb2fc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T03:16:33Z"
+    },
+    {
+      "title": "Trump imposes 15% tariff on key chip and solar panel material - BBC",
+      "description": "Trump imposes 15% tariff on key chip and solar panel materialBBC Trump Issues Tariffs on Key Ingredient for Electronics and Solar PanelsThe New York Times Trump unveils trade actions to compete with China on solar and chipsReuters Trump to Impose 15% Tariff, …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184887474",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-07T03:12:28Z"
+    },
+    {
+      "title": "Firmus nearly doubles valuation to over $10.5 billion in 4 months with Nvidia-backed fundraise",
+      "description": "Firmus secured two billion dollars in equity funding this week.  This investment brings the company's valuation to over ten point five billion dollars.  The funds will accelerate AI factory build-outs in Australia and Asia.  Nvidia and Coatue Management parti…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/firmus-nearly-doubles-valuation-to-over-10-5-billion-in-4-months-with-nvidia-backed-fundraise/articleshow/133019688.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T02:54:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "South Korea welcomes Trump polysilicon rules as boost to non-China suppliers",
+      "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools",
+      "Sysadmin summoned to explain italics – to a user with at least two degrees",
+      "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+      "Terafab Rendered in a Video"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/d53e7b76a389c8db",
+        "https://www.nextbigfuture.com/2026/08/terafab-rendered-in-a-video.html",
+        "https://biztoc.com/x/4c4921ee5e023a7d"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://itsfoss.com/news/proxmox-virtual-environment-arm64-support",
+        "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors",
+        "https://biztoc.com/x/f2f116e99b10998a"
+      ]
+    },
+    {
+      "title": "China",
+      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260807PD240/polysilicon-low-priced-solar-tariffs-usa.html",
+        "https://www.digitimes.com/news/a20260807VL211/industrial-revenue-supply-chain-capacity-demand.html",
+        "https://economictimes.indiatimes.com/news/international/global-trends/solar-tariffs-will-hurt-americas-allies-not-china/articleshow/133020502.cms"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/fe6fa5448453b57c"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.infoq.com/news/2026/08/azure-apim-ai-gateway-tier",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184888480",
+        "https://www.sammobile.com/news/galaxy-s26-fe-exynos-snapdragon-mix-interesting"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: South Korea welcomes Trump polysilicon rules as boost to non-China suppliers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: South Korea welcomes Trump polysilicon rules as boost to non-China suppliers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: South Korea welcomes Trump polysilicon rules as boost to non-China suppliers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: South Korea welcomes Trump polysilicon rules as boost to non-China suppliers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: South Korea welcomes Trump polysilicon rules as boost to non-China suppliers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

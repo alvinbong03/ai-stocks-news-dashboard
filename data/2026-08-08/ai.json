@@ -1,0 +1,335 @@
+{
+  "theme": "ai",
+  "date": "2026-08-08",
+  "last_updated_utc": "2026-08-08T06:41:44.887Z",
+  "news": [
+    {
+      "title": "Applied Machine Learning Research Scientist",
+      "description": "Cerebras Systems builds the world’s largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. This order of…",
+      "url": "https://nlppeople.com/job/applied-machine-learning-research-scientist",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Engineer | Python | Pytorch | Natural Language Processing | LLM | Langua",
+      "description": "Position: Machine Learning Engineer | Python | Pytorch | Natural Language Processing | LLM | Large Langua[…] Machine Learning Engineer | Python | Pytorch | Natural Language Processing | LLM | Large Language Models | Remote, EuropeAbout UsWe build AI assistant…",
+      "url": "https://nlppeople.com/job/machine-learning-engineer-python-pytorch-natural-language-processing-llm-langua-8",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "U.K. Agency: OpenAI and Anthropic Models Created Fake Profiles, Tried to Trick Humans in Cyber Evaluation",
+      "description": "Artificial intelligence models from Anthropic and OpenAI took unsanctioned actions targeting real people and organizations during a cyber evaluation by the U.K. AI Security Institute (AISI), according to an Aug. 4 report from the agency. AISI said Tuesday tha…",
+      "url": "https://www.naturalnews.com/2026-08-07-uk-agency-openai-anthropic-models-created-fake-profiles.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-07T06:00:00Z"
+    },
+    {
+      "title": "ByteDance said to build larger AI model to rival Anthropic",
+      "description": "ByteDance is training a new artificial intelligence model that could approach the scale of Anthropic's most advanced Mythos system, the Financial Times reported on Friday, citing people familiar with ...",
+      "url": "https://biztoc.com/x/9690cf3b4e90c3c5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T05:17:32Z"
+    },
+    {
+      "title": "Chinese AI firms shift toward monetization as LLM providers reportedly signal price increases",
+      "description": "Chinese large language model (LLM) developers are beginning to move away from aggressive price competition, with leading players reportedly introducing higher prices and new commercial licensing models as they seek more sustainable returns on growing AI inves…",
+      "url": "https://www.digitimes.com/news/a20260807VL208/china-llm-price-commercial-licensing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:48:23Z"
+    },
+    {
+      "title": "Nvidia tests leaner Rubin Ultra memory designs with 2027 HBM supply in question",
+      "description": "Nvidia is testing sharply lower-memory versions of its next-generation Rubin Ultra GPU, a sign that the worsening high-bandwidth memory (HBM) shortage is beginning to reshape the specifications of even the AI chip leader's most advanced products. The potentia…",
+      "url": "https://www.digitimes.com/news/a20260807VL204/nvidia-rubin-hbm-2027-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T02:02:21Z"
+    },
+    {
+      "title": "Stop burning your AI budget: Optimize GPU usage and model deployment with workflow navigator",
+      "description": "Uber burned through its entire 2026 AI tools budget by April. Microsoft faced a similar crisis, pulling Claude Code licenses because the tool worked too well and people used it too much. Even OpenAI's chief executive officer (CEO), Sam Altman, has called toke…",
+      "url": "https://www.redhat.com/en/blog/stop-burning-your-ai-budget-optimize-gpu-usage-and-model-deployment-workflow-navigator",
+      "source": "Redhat.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "OpenAI expands ChatGPT free access with GPT-5.6 Luna",
+      "description": "OpenAI is expanding ChatGPT Free and Go access with unlimited text chats, a new Think button, and GPT-5.6 Luna as...\nThe post OpenAI expands ChatGPT free access with GPT-5.6 Luna appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-expands-chatgpt-free-access-with-gpt-5-6-luna",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-08-07T05:04:55Z"
+    },
+    {
+      "title": "NVIDIA Says It “Continually Optimizes Compute, Networking, Memory” To Deliver Best Performance & Efficiency To Its Customers Amidst Vera and Rubin Ultra “Downgrade” Rumors",
+      "description": "NVIDIA's Rubin Ultra & Vera chips are subject to various \"downgrade\" rumors, but the company says that it is part of its optimization strategy. NVIDIA Rubin Ultra AI Chips & Vera CPUs Feature Optimized Memory Configurations For Performance & Scale Recently, t…",
+      "url": "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-07T05:00:02Z"
+    },
+    {
+      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year",
+      "description": "Nvidia just doesn't make GPUs and the various supporting equipment for these computing units. It's also an active investor. When it comes across a company it likes, it isn't afraid to invest. One company Nvidia has taken a major stake in is Nebius (NASDAQ: NB…",
+      "url": "https://biztoc.com/x/f2f116e99b10998a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T04:48:09Z"
+    },
+    {
+      "title": "US optical transceiver ban risks slowing AI data center build-out",
+      "description": "A proposed US ban on new Chinese optical transceivers could disrupt the build-out of AI data centers before Western suppliers have enough capacity to replace Chinese production, raising the risk of higher costs, delayed cluster deployments and stranded GPU ca…",
+      "url": "https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:44:33Z"
+    },
+    {
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "description": "First OpenAI, now Meta - why do AI hacks keep happening?\nOver the last fortnight, reports of AI models going beyond their expected bounds - be that technically or morally - have been seemingly unavoidable.\nWhat started with a trickle - ChatGPT-maker OpenAI ad…",
+      "url": "https://biztoc.com/x/f27f8bbf898af639",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T03:46:36Z"
+    },
+    {
+      "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限",
+      "description": "ChatGPTのデフォルトモデルが「GPT-5.5 Instant」から「GPT-5.6 Luna」へと変更されました。GPT-5.5 Instantと比較して間違いが減るとのことです。Improving GPT‑5.6 Sol in ChatGPT-and expanding access to GPT-5.6 Luna for free users | OpenAIhttps://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/We’re making be…",
+      "url": "https://news.livedoor.com/article/detail/32008888",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-07T01:49:00Z"
+    },
+    {
+      "title": "AMD Buys AI Chip Startup Taalas That Hardwires AI Models Into Its Silicon",
+      "description": "On Thursday, AMD said it’s entered into an agreement to acquire Taalas, a Toronto-based startup that makes chips for inference. Taalas’ accelerators are customized, or hard-wired for a single AI model, rather than being general purpose. In exchange for that l…",
+      "url": "https://slashdot.org/submission/17349656/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-07T01:05:24Z"
+    },
+    {
+      "title": "Gavin Baker highlights Anthropic’s lower cost per token than OpenAI",
+      "description": "Anthropic's cost efficiency could reshape AI competition, forcing rivals to innovate or cut prices, impacting long-term market dynamics.\nThe post Gavin Baker highlights Anthropic’s lower cost per token than OpenAI appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/gavin-baker-anthropic-lower-cost-openai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-07T00:39:56Z"
+    },
+    {
+      "title": "Nvidia seeks China AI-RAN partners to bring GPU computing into 6G networks",
+      "description": "Nvidia is seeking Chinese telecom equipment partners to develop 6G AI radio access network base stations for overseas markets, according to Chinese media reports, as the chipmaker looks to extend its computing platform beyond data centres and into wireless ne…",
+      "url": "https://www.digitimes.com/news/a20260806VL221/nvidia-6g-equipment-gpu-telecom.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T00:05:24Z"
+    },
+    {
+      "title": "Google just extended Gemini Omni’s surprisingly generous free offer",
+      "description": "Google has extended free access to Gemini Omni until August 11, letting anyone create up to 10 videos without a Google AI subscription.",
+      "url": "https://www.androidauthority.com/free-gemini-omni-videos-3695658",
+      "source": "Android Authority",
+      "publishedAt": "2026-08-07T06:32:49Z"
+    },
+    {
+      "title": "不用關掉 ChatGPT，Adobe 一口氣整合 70 項自家工具進 AI",
+      "description": "Adobe 宣布推出全新的 Adobe for ChatGPT 統一外掛（Plugin），將原本分散的 Photoshop、Adobe Express、Acrobat 等 ChatGPT 整合服務，進一步整合為單一入口，並將 Photoshop、Firefly、Premiere、Lightroom、...",
+      "url": "https://technews.tw/2026/08/07/adobe-for-chatgpt-plugin",
+      "source": "Technews.tw",
+      "publishedAt": "2026-08-07T04:57:15Z"
+    },
+    {
+      "title": "Interview: Nvidia exec on progress of CPO production and pluggable optics",
+      "description": "Nvidia Senior Vice President of Networking Gilad Shainer said the company is building the key network architecture and optical interconnect technologies needed for AI factory deployments at scale, in a DIGITIMES interview ahead of the OCP APAC Summit on Augus…",
+      "url": "https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T04:12:18Z"
+    },
+    {
+      "title": "Inside Terafab: Musk's US$16.8B bet to turn AI chip shortages into a homegrown supply chain",
+      "description": "Elon Musk's ambitions across AI, robotics and space infrastructure are moving into a new phase following the unveiling of Terafab, an ambitious semiconductor manufacturing complex designed to secure the compute capacity required by Tesla, SpaceX and xAI.",
+      "url": "https://www.digitimes.com/news/a20260807VL203/manufacturing-elon-musk-infrastructure-robotics-tesla.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-07T03:47:09Z"
+    },
+    {
+      "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch",
+      "description": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency.",
+      "url": "http://9to5google.com/2026/08/06/gemini-overlay-wear-os",
+      "source": "9to5google.com",
+      "publishedAt": "2026-08-07T03:10:33Z"
+    },
+    {
+      "title": "OpenAI Aims to Redefine Smart Speakers With First AI Device",
+      "description": "OpenAI‘s upcoming portable smart speaker, the company’s first device, will be doughnut-shaped, the size of a hockey puck, will have moving parts and likely cost between $300 and $400, Bloomberg reported Thursday (Aug. 6), citing unnamed sources.\nThe design of…",
+      "url": "https://biztoc.com/x/549bab3aaccb6bd7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-07T03:01:02Z"
+    },
+    {
+      "title": "Firmus nearly doubles valuation to over $10.5 billion in 4 months with Nvidia-backed fundraise",
+      "description": "Firmus secured two billion dollars in equity funding this week.  This investment brings the company's valuation to over ten point five billion dollars.  The funds will accelerate AI factory build-outs in Australia and Asia.  Nvidia and Coatue Management parti…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/firmus-nearly-doubles-valuation-to-over-10-5-billion-in-4-months-with-nvidia-backed-fundraise/articleshow/133019688.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-07T02:54:05Z"
+    },
+    {
+      "title": "OpenAI Aims to Redefine Smart Speakers With First AI Device",
+      "description": "OpenAI‘s upcoming portable smart speaker, the company’s first device, will be doughnut-shaped, the size of a hockey puck, will have moving parts and likely cost between $300 and $400, Bloomberg reported Thursday (Aug. 6), citing unnamed sources. The design of…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-redefine-smart-speakers-with-first-ai-device",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-07T02:12:48Z"
+    },
+    {
+      "title": "OpenAI faces technical issues with ChatGPT desktop app update",
+      "description": "OpenAI's rushed update risks eroding user trust, highlighting the delicate balance between innovation and maintaining user satisfaction.\nThe post OpenAI faces technical issues with ChatGPT desktop app update appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-chatgpt-desktop-app-issues",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-07T01:17:19Z"
+    },
+    {
+      "title": "Machine Learning Research Engineer – NLP / LLM",
+      "description": "Machine Learning Research Engineer – NLP / LLM An incredible opportunity for a Machine Learning Research Engineer to work on researching and investigating new concepts for an industry-leading, machine-learning software company in Cambridge, UK. This unique op…",
+      "url": "https://nlppeople.com/job/machine-learning-research-engineer-nlp-llm-15",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Scientist/Senior Machine Learning Scientist – Synthesis Planning and Optimization, AI for Drug Discovery",
+      "description": "The PositionA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love…",
+      "url": "https://nlppeople.com/job/machine-learning-scientist-senior-machine-learning-scientist-synthesis-planning-and-optimization-ai-for-drug-discovery-6",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Deploying Red Hat AI with the NVIDIA DSX™ Platform for scalable AI clouds",
+      "description": "AI clouds have advanced beyond initial pilot testing, and the challenge now isn’t simply configuring the physical hardware. Organizations must focus on operating an efficient shared platform that provides predictable operating costs, access to the latest comp…",
+      "url": "https://www.redhat.com/en/blog/deploying-red-hat-ai-nvidia-dsxtm-platform-scalable-ai-clouds",
+      "source": "Redhat.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Research Engineer – NLP / LLM",
+      "description": "Machine Learning Research Engineer – NLP / LLM An incredible opportunity for a Machine Learning Research Engineer to work on researching and investigating new concepts for an industry-leading, machine-learning software company in Cambridge, UK. This unique op…",
+      "url": "https://nlppeople.com/job/machine-learning-research-engineer-nlp-llm-14",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+      "description": "The PositionA healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love…",
+      "url": "https://nlppeople.com/job/machine-learning-scientist-scientific-reasoning-models-ai-for-drug-discovery-28",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Applied Machine Learning Research Scientist",
+      "Machine Learning Engineer | Python | Pytorch | Natural Language Processing | LLM | Langua",
+      "U.K. Agency: OpenAI and Anthropic Models Created Fake Profiles, Tried to Trick Humans in Cyber Evaluation",
+      "ByteDance said to build larger AI model to rival Anthropic",
+      "Chinese AI firms shift toward monetization as LLM providers reportedly signal price increases"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-08-07-uk-agency-openai-anthropic-models-created-fake-profiles.html",
+        "https://www.redhat.com/en/blog/stop-burning-your-ai-budget-optimize-gpu-usage-and-model-deployment-workflow-navigator",
+        "https://www.yugatech.com/news/openai-expands-chatgpt-free-access-with-gpt-5-6-luna"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/nvidia-optimizes-compute-memory-to-deliver-best-performance-efficiency-to-its-customers-amidst-vera-rubin-ultra-rumors",
+        "https://biztoc.com/x/f2f116e99b10998a",
+        "https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260807VL204/nvidia-rubin-hbm-2027-testing.html",
+        "https://www.digitimes.com/news/a20260806VL221/nvidia-6g-equipment-gpu-telecom.html",
+        "https://www.redhat.com/en/blog/deploying-red-hat-ai-nvidia-dsxtm-platform-scalable-ai-clouds"
+      ]
+    },
+    {
+      "title": "Access",
+      "summary": "Grouped stories where \"access\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidauthority.com/free-gemini-omni-videos-3695658",
+        "https://nlppeople.com/job/machine-learning-scientist-senior-machine-learning-scientist-synthesis-planning-and-optimization-ai-for-drug-discovery-6",
+        "https://nlppeople.com/job/machine-learning-scientist-scientific-reasoning-models-ai-for-drug-discovery-28"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nlppeople.com/job/applied-machine-learning-research-scientist",
+        "https://nlppeople.com/job/machine-learning-engineer-python-pytorch-natural-language-processing-llm-langua-8",
+        "https://biztoc.com/x/9690cf3b4e90c3c5"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Applied Machine Learning Research Scientist. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Applied Machine Learning Research Scientist. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Applied Machine Learning Research Scientist. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Applied Machine Learning Research Scientist. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Applied Machine Learning Research Scientist. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
