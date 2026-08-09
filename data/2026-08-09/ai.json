@@ -1,0 +1,210 @@
+{
+  "theme": "ai",
+  "date": "2026-08-09",
+  "last_updated_utc": "2026-08-09T06:45:53.160Z",
+  "news": [
+    {
+      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
+      "description": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that the LLM had solved 10…",
+      "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-08T00:58:53Z"
+    },
+    {
+      "title": "Apple and OpenAI escalate legal battle over devices",
+      "description": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by a group of former O…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-08T04:58:41Z"
+    },
+    {
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+      "description": "Or how I learned to stop worrying and love dangerous AI",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184896228",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-08T04:32:10Z"
+    },
+    {
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+      "description": "After acknowledging last month that unreleased AI models committed what for human perpetrators would be computer crimes, OpenAI now says it cannot rule out the possibility that Astra, a pending model release not involved in its Hugging Face hack, might posses…",
+      "url": "https://biztoc.com/x/5b11b9bbc6432d4c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T02:29:25Z"
+    },
+    {
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+      "description": "Or how I learned to stop worrying and love dangerous AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/openai-pledges-to-add-astra-security-as-anthropic-loosens-fables-leash/5285161",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-07T23:41:07Z"
+    },
+    {
+      "title": "OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development",
+      "description": "OpenAI's Astra pause highlights the urgent need for robust AI safety measures to prevent potential cybersecurity threats from advanced models.\nThe post OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development appeared firs…",
+      "url": "https://cryptobriefing.com/openai-astra-critical-cybersecurity-risk",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-07T23:10:36Z"
+    },
+    {
+      "title": "Machine learning powered protein engineering lab could accelerate biotech innovation",
+      "description": "Artificial intelligence is no longer simply being used to analyse scientific data. Increasingly, AI is becoming integrated into the entire scientific workflow, from hypothesis generation and experimental design to automated execution and interpretation.\nThe p…",
+      "url": "https://www.digitaljournal.com/article/machine-learning-powered-protein-engineering-lab-could-accelerate-biotech-innovation",
+      "source": "Digital Journal",
+      "publishedAt": "2026-08-07T22:52:06Z"
+    },
+    {
+      "title": "Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)",
+      "description": "Six measured collapses — Stack Overflow, Chegg, Shutterstock, Fiverr, Quora, Getty — as AI answers the questions, makes the images, and does the work. Every number from a public source.",
+      "url": "https://www.harperflow.io/dead-internet",
+      "source": "Harperflow.io",
+      "publishedAt": "2026-08-08T06:43:32Z"
+    },
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "description": "OpenAI has paused some internal development and trigger safety protocols of its upcoming AI model, Astra owing to \"critical\" cybersecurity risks",
+      "url": "https://www.thehindubusinessline.com/companies/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/article71320579.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-08T05:28:07Z"
+    },
+    {
+      "title": "Ajinomoto raises prices 30% amid AI chip supply shortage",
+      "description": "Ajinomoto's price hike highlights the critical role of supply chain bottlenecks in shaping AI chip costs and market dynamics globally.\nThe post Ajinomoto raises prices 30% amid AI chip supply shortage appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ajinomoto-abf-price-hike-ai-chip-shortage",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-08T01:46:57Z"
+    },
+    {
+      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "description": "Aug 7 : Nvidia will invest up to $3 billion in power infrastructure developer Lancium, the company behind the Stargate data center campus in Texas, the Information reported on Friday.• The chipmaker will invest an initial $2 billion for a stake of roughly 20 …",
+      "url": "https://www.channelnewsasia.com/business/nvidia-invest-up-3-billion-in-stargate-data-center-developer-lancium-information-reports-6307196",
+      "source": "CNA",
+      "publishedAt": "2026-08-08T01:42:11Z"
+    },
+    {
+      "title": "Nvidia could boost Lancium stake to 30% with $1B investment",
+      "description": "Nvidia's investment in Lancium highlights the strategic importance of securing energy infrastructure to support AI growth, reshaping tech capital allocation.\nThe post Nvidia could boost Lancium stake to 30% with $1B investment appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/nvidia-lancium-stake-1b-investment",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-08T01:33:47Z"
+    },
+    {
+      "title": "ChatGPT Ads Are Here. Now Comes the Hard Part.",
+      "description": "If you’ve been wondering whether ChatGPT advertising is ready for your media plan, the answer is more complicated than a simple yes or no. On this episode of Inside the Stack, AdExchanger speaks with Mary Gabrielyan, Chief Strategy Officer at AI Digital, abou…",
+      "url": "http://www.adexchanger.com/inside-the-stack/chatgpt-ads-are-here-now-comes-the-hard-part",
+      "source": "AdExchanger",
+      "publishedAt": "2026-08-08T00:17:03Z"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans | Claude by Anthropic",
+      "description": "We're making auto mode the default in Claude Code. Starting on August 14, new sessions on Pro, Max, and Team plans will run in auto mode. If you've already set a different default yourself, you may get a one-time prompt asking whether you want to switch to au…",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "Claude.com",
+      "publishedAt": "2026-08-07T23:44:42Z"
+    },
+    {
+      "title": "Bot False Flags, Flock Camera Misinformation, Data Center Protests, More: ResearchBuzz AI Update, August 7, 2026",
+      "description": "AI PROBLEMS TechSpot: Amazon is blocking some users from seeing reviews after mistaking them for AI bots. “WTF?! Amazon is restricting access to customer reviews for some shoppers after mistakenly identifying them […]",
+      "url": "https://researchbuzz.me/2026/08/07/bot-false-flags-flock-camera-misinformation-data-center-protests-more-researchbuzz-ai-update-august-7-2026",
+      "source": "Researchbuzz.me",
+      "publishedAt": "2026-08-07T23:12:03Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
+      "Apple and OpenAI escalate legal battle over devices",
+      "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+      "OpenAI flags critical cybersecurity risk in upcoming Astra model, pauses internal development",
+      "Machine learning powered protein engineering lab could accelerate biotech innovation"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities",
+        "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184896228"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://claude.com/blog/auto-mode-default-in-claude-code"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitaljournal.com/article/machine-learning-powered-protein-engineering-lab-could-accelerate-biotech-innovation",
+        "https://www.harperflow.io/dead-internet",
+        "https://cryptobriefing.com/ajinomoto-abf-price-hike-ai-chip-shortage"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
