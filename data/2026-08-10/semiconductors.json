@@ -1,0 +1,342 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-10",
+  "last_updated_utc": "2026-08-10T07:20:52.938Z",
+  "news": [
+    {
+      "title": "Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping",
+      "description": "This Lenovo Chromebook Plus is $699, down from $999. It's one of the first Chromebooks built around MediaTek's Kompanio Ultra 910 chip, a processor that reviewers found handled everyday tasks with a responsiveness usually associated with Intel or AMD machines…",
+      "url": "https://www.dealnews.com/Lenovo-Chromebook-Plus-Media-Tek-Kompanio-Ultra-910-14-Laptop-for-699-free-shipping/21993912.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-08-09T07:19:12Z"
+    },
+    {
+      "title": "Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta’s earnings miss",
+      "description": "ARK Invest's strategic shift towards semiconductors amid tech volatility highlights a long-term bet on AI infrastructure's growth potential.\nThe post Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta’s earnings miss appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/ark-invest-nvidia-tsmc-meta-earnings",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-09T07:11:12Z"
+    },
+    {
+      "title": "Intel Foundry Lands a Major New Client Worth Watching",
+      "description": "Last month, Intel's (NASDAQ: INTC) foundry business landed Fortinet as a client. Admittedly, since investors tend to focus on advanced nodes with near exclusivity, many of them might have missed this news.\nStill, investors should probably take this news more …",
+      "url": "https://biztoc.com/x/b644d8dad8b3c6b2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T06:45:19Z"
+    },
+    {
+      "title": "Intel Diamond Rapids “Xeon 7” To Reach 256 P-Cores To Match AMD’s EPYC Venice, Yet Trails On Timeline",
+      "description": "Intel Diamond Rapids \"Xeon 7\" CPUs will offer up to 256 cores based on the next-gen P-Core technology to tackle AMD EPYC Venice. Intel & AMD Will Battle Out In The 200+ Core Count \"Data Center\" CPU Segment, As Diamond Rapids \"Xeon 7\" Set To Launch In 2027 The…",
+      "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-to-reach-256-p-cores-to-match-amds-epyc-venice",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-09T06:40:42Z"
+    },
+    {
+      "title": "Intel Foundry secures Fortinet as its first named corporate client under new CEO",
+      "description": "Intel's partnership with Fortinet signals a strategic shift, enhancing its competitive edge in the semiconductor industry and diversifying its client base.\nThe post Intel Foundry secures Fortinet as its first named corporate client under new CEO appeared firs…",
+      "url": "https://cryptobriefing.com/intel-foundry-fortinet-first-named-client",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-09T06:16:40Z"
+    },
+    {
+      "title": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
+      "description": "SEOUL -- The South Korean cosmetics industry's rise to the world's second-largest exporter of beauty products has been driven by contract manufacturers that help quickly bring new products to market, much like chipmaker Taiwan Semiconductor Manufacturing Co. …",
+      "url": "https://biztoc.com/x/0dcc027f8d1016f2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T06:14:24Z"
+    },
+    {
+      "title": "Intel, Nvidia and the wild swings beneath a calm market",
+      "description": "Investors are displaying an unusual willingness to rapidly change their minds",
+      "url": "https://www.irishtimes.com/your-money/2026/08/09/intel-nvidia-and-the-wild-swings-beneath-a-calm-market",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-09T06:10:00Z"
+    },
+    {
+      "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+      "description": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now engineered that atomic interface to protect electron flow w…",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
+      "source": "Science Daily",
+      "publishedAt": "2026-08-09T06:05:43Z"
+    },
+    {
+      "title": "Intel Nova Lake 16-Core CPU Pushes 154W PL2, While its Integrated 12 Xe3P GPU Alone Eats 40 Watts",
+      "description": "Intel Nova Lake-S Desktop CPUs are going to rock some impressive iGPU capabilities, with up to 40 Watts being dedicated to graphics alone. Intel Is Aiming To Tackle AMD's Ryzen APUs With Its 12Xe3-Class Nova Lake-S Desktop CPUs The Intel Nova Lake-S (Core Ult…",
+      "url": "https://wccftech.com/intel-nova-lake-16-core-cpu-pushes-154w-pl2-integrated-12-xe3p-gpu-eats-40-watts",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-09T06:00:17Z"
+    },
+    {
+      "title": "Samsung Galaxy A18 benchmark leak confirms recycled chip and a surprising software upgrade",
+      "description": "Same processor as last year, but Android 17 right out of the box — is that enough?",
+      "url": "https://www.intomobile.com/2026/08/08/samsung-galaxy-a18-benchmark-leak-confirms-recycled-chip-and-a-surprising-software-upgrade",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-08-09T05:53:58Z"
+    },
+    {
+      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+      "description": "A humble exploratory PoC for a hardware-native, optical timing-frozen control plane engine. Fuses inline CUDA PTX, RAII memory tunnels, and 4D JAX shard_map structures to investigate 0ns-overhead f...",
+      "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
+      "source": "Github.com",
+      "publishedAt": "2026-08-09T05:22:44Z"
+    },
+    {
+      "title": "Is Down 18.4% After Mixed Q2 Results And Supply-Constrained Q3 Guidance",
+      "description": "In August 2026, nLIGHT, Inc. reported second-quarter results showing revenue of US$82.59 million and a reduced net loss of US$1.34 million, while guiding third-quarter 2026 revenue to a range of US$63 million to US$73 million amid supply chain constraints. \n-…",
+      "url": "https://biztoc.com/x/b944b9f0a3c674fa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T05:14:00Z"
+    },
+    {
+      "title": "SK hynix weighs stake sale in China chip packaging plant, report says",
+      "description": "SK hynix is reportedly considering selling a stake in its Chongqing, China, semiconductor packaging plant as part of a possible business restructuring. The facility could be valued at about $3 billion, though the company says nothing has been decided.",
+      "url": "https://www.koreajoongangdaily.com/business/sk-hynix-weighs-stake-sale-in-china-packaging-plant-report/12814960",
+      "source": "Koreajoongangdaily.com",
+      "publishedAt": "2026-08-09T05:03:51Z"
+    },
+    {
+      "title": "Samsung Galaxy A18 appears on Geekbench with key specs",
+      "description": "Samsung is rumored to unveil the Galaxy A18 in the coming weeks. While there's no word from the Korean brand about the Galaxy A18 yet, the smartphone has appeared on Geekbench, which reveals its key specs.\n\nThe Geekbench database reveals that the Samsung Gala…",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_key_specs_geekbench-news-74083.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-08-09T05:01:02Z"
+    },
+    {
+      "title": "Wakefit eyes furniture as top business in three years with jumbo stores",
+      "description": "Wakefit is investing roughly  ₹100 crore in each jumbo store while strengthening its manufacturing, supply chain and installation capabilities to support the format, says co-founder and CEO Ankit Garg.",
+      "url": "https://www.livemint.com/companies/news/wakefit-jumbo-stores-furniture-business-growth-fy29-11786097216954.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-09T04:56:41Z"
+    },
+    {
+      "title": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade",
+      "description": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.\nNvidia (NASDAQ: NVDA) CEO Jensen Huang recently told Y Combinator's Startup School attendees that artificial intelligence (AI) isn't going to eliminate jobs…",
+      "url": "https://biztoc.com/x/ee9d8b01ec15d5c0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T04:44:38Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Pro 5: 16\" 2.8K OLED 120Hz, Ryzen AI 7 350, RTX 5050, 16GB LPDDR5, 1TB SSD $1069 (1 replies)",
+      "description": "SPECS:2.0 GHz AMD Ryzen AI 7 350 8-Core\n16GB LPDDR5x | 1TB M.2 NVMe SSD\n16\" 2880 x 1800 OLED 120 Hz Display\nNVIDIA GeForce RTX 5050 (8GB GDDR7)\nWi-Fi 7 (802.11be) | Bluetooth 5.4\nHDMI 2.1 | USB-C",
+      "url": "https://slickdeals.net/f/19857975-lenovo-ideapad-pro-5-16-2-8k-oled-120hz-ryzen-ai-7-350-rtx-5050-16gb-lpddr5-1tb-ssd-1069",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-09T04:23:24Z"
+    },
+    {
+      "title": "Write Alabama Off If You Want, But I Think This Crimson Tide Team Can Win a National Championship",
+      "description": "Dismiss the doubters and the preseason hype. Despite roster turnover, a lethal combination of elite blue-chip talent and veteran leadership positions Kalen DeBoer for a title run.",
+      "url": "https://roundtable.io/sports/ncaa/alabama/opinion/write-alabama-off-if-you-want-but-i-think-this-crimson-tide-team-can-win-a-national-championship",
+      "source": "Roundtable.io",
+      "publishedAt": "2026-08-09T03:57:33Z"
+    },
+    {
+      "title": "Apple iPhone 17 price drops to Rs 32,885 on Flipkart? Check Flipkart Freedom Sale offers, exchange deal and bank discounts",
+      "description": "Grab the chance to purchase the Apple iPhone 17 at a special price during the Flipkart Freedom Sale. This stunning smartphone showcases a 6.3-inch OLED display driven by Apple's advanced A19 chip. You can enhance your savings further by trading in your iPhone…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/apple-iphone-17-price-drops-to-rs-32885-on-flipkart-check-flipkart-freedom-sale-offers-exchange-deal-and-bank-discounts/articleshow/133061882.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-09T03:48:58Z"
+    },
+    {
+      "title": "The YouTuber Who Exposed the LAX People Mover Fiasco",
+      "description": "When plans for an LAX people mover were announced in 2018, Angelenos released a collective sigh of relief. The city’s blue-chip airport was finally being brought into the 21st century, with the transit infrastructure it deserved. The sleek, driverless, elevat…",
+      "url": "https://biztoc.com/x/88c9638b13c60bdb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T02:57:38Z"
+    },
+    {
+      "title": "China PPI jumps 3.5% year over year in July, says National Bureau of Statistics",
+      "description": "Rising PPI in China signals potential global supply chain cost pressures, impacting competitiveness and pricing strategies across industries.\nThe post China PPI jumps 3.5% year over year in July, says National Bureau of Statistics appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/china-ppi-july-year-over-year",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-09T02:49:52Z"
+    },
+    {
+      "title": "SK Hynix employee sentenced to 18 months for leaking chip technology to Chinese firm",
+      "description": "The case underscores the critical intersection of corporate security and national security, highlighting the geopolitical tensions in tech industries.\nThe post SK Hynix employee sentenced to 18 months for leaking chip technology to Chinese firm appeared first…",
+      "url": "https://cryptobriefing.com/sk-hynix-employee-sentenced-technology-leak",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-09T02:34:46Z"
+    },
+    {
+      "title": "The First Snapdragon C Laptop Just Showed Up, and It Isn’t $300",
+      "description": "Qualcomm’s pitch for Snapdragon C was simple. Put a modern Arm chip inside a Windows laptop cheap enough to sit next to Chromebooks on the same shelf. The first machine built on that platform, Aspire Go 15 AG15-Q31P, is now up for pre-order with a real price …",
+      "url": "https://the-gadgeteer.com/2026/08/08/acer-aspire-go-15-ag15-q31p-snapdragon-c",
+      "source": "The Gadgeteer",
+      "publishedAt": "2026-08-09T01:00:12Z"
+    },
+    {
+      "title": "This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",
+      "description": "GPUs are already pricey, but this special edition is going for up to $10,000. There's even a more expensive showpiece made from $500,000 worth of gold.",
+      "url": "https://www.bgr.com/2228668/nvidia-gpu-gold-plated-asus-rog-astral-5090-dhahab",
+      "source": "BGR",
+      "publishedAt": "2026-08-09T00:47:00Z"
+    },
+    {
+      "title": "Intel Nova Lake-S 12Xe3P iGPU leak reveals PL2 power limits and L2 cache sizes",
+      "description": "A leaked Nova Lake-S SKU (12 Xe3P cores, 40 W iGPU PL2, 154 W chip-wide PL2) reportedly needs a 65 W-class power-delivery segment for full graphics performance.",
+      "url": "https://www.notebookcheck.net/Intel-Nova-Lake-S-12Xe3P-iGPU-leak-reveals-PL2-power-limits-and-L2-cache-sizes.1363897.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-09T00:45:00Z"
+    },
+    {
+      "title": "Asus ROG gaming laptop with 16-core Ryzen AI Max APU and 64 GB RAM scores $900 discount",
+      "description": "Deal | The Asus ROG Flow Z13 is an impressively powerful 13-inch gaming laptop with a Surface Pro-style form factor that is now on sale. Courtesy of the Ryzen AI Max+ 395 APU with the powerful Radeon 8060S iGPU, the gaming laptop can handle almost any CPU or …",
+      "url": "https://www.notebookcheck.net/Asus-ROG-gaming-laptop-with-16-core-Ryzen-AI-Max-APU-and-64-GB-RAM-scores-900-discount.1363763.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-08T23:51:00Z"
+    },
+    {
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "description": "A Macintosh System 1-style graphical OS for the Intel 8086/8088. Real-mode assembly, boots from floppy, runs in 256KB. Free to download.",
+      "url": "https://os8088.com/",
+      "source": "Os8088.com",
+      "publishedAt": "2026-08-08T23:37:27Z"
+    },
+    {
+      "title": "Onto Innovation Q2 Earnings Call Highlights",
+      "description": "The Nasdaq's Historic Rally Doesn't Mean the Risk Is Gone \nOnto Innovation (NYSE:ONTO) reported second-quarter 2026 results above the high end of its guidance range, with revenue, margins and earnings supported by demand for semiconductor process-control syst…",
+      "url": "https://biztoc.com/x/88647d8bdb56a971",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T23:27:16Z"
+    },
+    {
+      "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "description": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies\nNvidia: Maintaining Consistent Upward Momentum and Expanding Scale in Quarterly Revenue\nNvidia (NASDAQ:NVDA) primarily generates it…",
+      "url": "https://biztoc.com/x/6ef08023841aca0d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T23:27:06Z"
+    },
+    {
+      "title": "Commentary: From free flow to tight control — how tech talent became a national security asset",
+      "description": "Tech talent has moved from being simply a hiring priority to a matter of national security. As major economies increasingly tie talent to competitiveness and national security, control over its cross-border movement is tightening. That shift is visible today:…",
+      "url": "https://www.digitimes.com/news/a20260807PD244/talent-taiwan-security-technology-management.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-08T23:19:00Z"
+    },
+    {
+      "title": "Greenfiltec posts first-half loss as activated carbon costs squeeze margins",
+      "description": "Greenfiltec reported first-half 2026 consolidated revenue of NT$311 million, up 18.35% from a year earlier, but the Taiwan-based airborne molecular contamination (AMC) filter supplier swung to a net loss of NT$140 million. The company said higher shipments of…",
+      "url": "https://www.digitimes.com/news/a20260807PD203/2026-loss-revenue-price-equipment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-08T23:18:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping",
+      "Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta’s earnings miss",
+      "Intel Foundry Lands a Major New Client Worth Watching",
+      "Intel Diamond Rapids “Xeon 7” To Reach 256 P-Cores To Match AMD’s EPYC Venice, Yet Trails On Timeline",
+      "Intel Foundry secures Fortinet as its first named corporate client under new CEO"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.dealnews.com/Lenovo-Chromebook-Plus-Media-Tek-Kompanio-Ultra-910-14-Laptop-for-699-free-shipping/21993912.html",
+        "https://www.intomobile.com/2026/08/08/samsung-galaxy-a18-benchmark-leak-confirms-recycled-chip-and-a-surprising-software-upgrade",
+        "https://www.koreajoongangdaily.com/business/sk-hynix-weighs-stake-sale-in-china-packaging-plant-report/12814960"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/b644d8dad8b3c6b2",
+        "https://wccftech.com/intel-diamond-rapids-xeon-7-to-reach-256-p-cores-to-match-amds-epyc-venice",
+        "https://cryptobriefing.com/intel-foundry-fortinet-first-named-client"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/ark-invest-nvidia-tsmc-meta-earnings",
+        "https://cryptobriefing.com/china-ppi-july-year-over-year",
+        "https://www.digitimes.com/news/a20260807PD203/2026-loss-revenue-price-equipment.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/ee9d8b01ec15d5c0",
+        "https://slickdeals.net/f/19857975-lenovo-ideapad-pro-5-16-2-8k-oled-120hz-ryzen-ai-7-350-rtx-5050-16gb-lpddr5-1tb-ssd-1069",
+        "https://www.bgr.com/2228668/nvidia-gpu-gold-plated-asus-rog-astral-5090-dhahab"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0dcc027f8d1016f2",
+        "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
+        "https://github.com/PJHkorea/photonic-mesh-fng-router"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free shipping. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,234 @@
+{
+  "theme": "ai",
+  "date": "2026-08-10",
+  "last_updated_utc": "2026-08-10T07:20:35.671Z",
+  "news": [
+    {
+      "title": "Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT",
+      "description": "Apple is bringing AI to Siri this fall. Here's how it compares with ChatGPT on writing, web search, personal data and productivity. #apple #openai #ai #business #technology #news #usa \nRead more: \n----------\nLike this video? Subscribe \nBloomberg News is the f…",
+      "url": "https://biztoc.com/x/89f8d0c87ba3066b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T00:25:59Z"
+    },
+    {
+      "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+      "description": "Runware, the AI inference startup founded by Romanian developers Flaviu Radulescu and Ioana Hreninciuc, has launched Sonic Inference Pods, a network of modular data centers built specifically for AI inference. Each Pod packs roughly 1,200 GPUs and one megawat…",
+      "url": "https://biztoc.com/x/dbebac58041110bf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T23:11:55Z"
+    },
+    {
+      "title": "AMD just made bold move to challenge Nvidia",
+      "description": "Advanced Micro Devices (AMD) has spent 2026 proving it can compete with Nvidia in the artificial intelligence race.\nIts stock has more than doubled this year, and its data center business is growing fast.\nNow AMD is trying something different.\nThe company jus…",
+      "url": "https://biztoc.com/x/36b78e029fa09665",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T22:26:38Z"
+    },
+    {
+      "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role - The Guardian",
+      "description": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI roleThe Guardian The next chapter of our AI momentumblog.google Gemini is Cooked but GCP is CookingSemiAnalysis 4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI StartupW…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184900726",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-08T20:12:32Z"
+    },
+    {
+      "title": "Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) just announced an acquisition that could give major competition to NVIDIA Corporation (NASDAQ:NVDA) in AI-inference. On August 6, AMD said it has agreed to buy chip startup Taalas as specialized inference chips become…",
+      "url": "https://biztoc.com/x/80ddc5de4e5be0fa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T20:11:03Z"
+    },
+    {
+      "title": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) just announced an acquisition that could give major competition to NVIDIA Corporation (NASDAQ:NVDA) in AI-inference...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-08T19:46:09Z"
+    },
+    {
+      "title": "Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta’s earnings miss",
+      "description": "ARK Invest's strategic shift towards semiconductors amid tech volatility highlights a long-term bet on AI infrastructure's growth potential.\nThe post Ark Invest boosts stakes in Nvidia, Taiwan Semiconductor after Meta’s earnings miss appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/ark-invest-nvidia-tsmc-meta-earnings",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-09T07:11:12Z"
+    },
+    {
+      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+      "description": "A humble exploratory PoC for a hardware-native, optical timing-frozen control plane engine. Fuses inline CUDA PTX, RAII memory tunnels, and 4D JAX shard_map structures to investigate 0ns-overhead f...",
+      "url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
+      "source": "Github.com",
+      "publishedAt": "2026-08-09T05:22:44Z"
+    },
+    {
+      "title": "This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",
+      "description": "GPUs are already pricey, but this special edition is going for up to $10,000. There's even a more expensive showpiece made from $500,000 worth of gold.",
+      "url": "https://www.bgr.com/2228668/nvidia-gpu-gold-plated-asus-rog-astral-5090-dhahab",
+      "source": "BGR",
+      "publishedAt": "2026-08-09T00:47:00Z"
+    },
+    {
+      "title": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "description": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies\nNvidia: Maintaining Consistent Upward Momentum and Expanding Scale in Quarterly Revenue\nNvidia (NASDAQ:NVDA) primarily generates it…",
+      "url": "https://biztoc.com/x/6ef08023841aca0d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T23:27:06Z"
+    },
+    {
+      "title": "Nevada energy company sues data center in first-of-its-kind fight over who should pay for AI buildout",
+      "description": "The largest energy provider in Nevada, NV Energy, is suing data center developer Tract, accusing the company of trying to pass costs onto consumers.\nAt issue is who pays to expand energy infrastructure when a data center needs as much electricity as a midsize…",
+      "url": "https://biztoc.com/x/1061e32c9e2b6467",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T22:40:32Z"
+    },
+    {
+      "title": "AMD just made bold move to challenge Nvidia",
+      "description": "Advanced Micro Devices (AMD) has spent 2026 proving it can compete with Nvidia in the artificial intelligence race. Its stock has more than doubled this year...",
+      "url": "https://www.thestreet.com/investing/stocks/amd-acquires-taalas-ai-inference-chips-nvidia-amd",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-08T22:07:00Z"
+    },
+    {
+      "title": "Show HN: Find out how ChatGPT describes your brand, then fix it",
+      "description": "Track how your brand appears across leading AI engines, then find the sources, competitors and gaps shaping those answers.",
+      "url": "https://pallix.in/",
+      "source": "Pallix.in",
+      "publishedAt": "2026-08-08T21:58:33Z"
+    },
+    {
+      "title": "Pairs AI Chip Boom With A Software Security Push",
+      "description": "Broadcom (NASDAQ:AVGO) has drawn significant market attention in 2026 for its custom AI chips. But the company's August 6 announcement of new VMware vDefend and Avi Load Balancer capabilities is a reminder that its infrastructure software business, the one bu…",
+      "url": "https://biztoc.com/x/1f801f869c4b5329",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T21:11:06Z"
+    },
+    {
+      "title": "Generative AI Could 'Invent' Biological Discoveries That Don't Exist",
+      "description": "An expert explains the risks. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "url": "https://www.sciencealert.com/generative-ai-could-invent-biological-discoveries-that-dont-exist",
+      "source": "ScienceAlert",
+      "publishedAt": "2026-08-08T21:00:00Z"
+    },
+    {
+      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+      "description": "Broadcom (NASDAQ:AVGO) has drawn significant market attention in 2026 for its custom AI chips. But the company’s August 6 announcement of new VMware vDefend...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-08T20:42:34Z"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "description": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT.\nThe NextSlide website currently displays a note from founder Ahmed Beshry describing the startup’s product as one “that could turn prom…",
+      "url": "https://biztoc.com/x/37a7e14252b414b3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-08T19:54:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT",
+      "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+      "AMD just made bold move to challenge Nvidia",
+      "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role - The Guardian",
+      "Buys Taalas: Is AI Inference the Next Battleground With Nvidia?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/36b78e029fa09665",
+        "https://biztoc.com/x/80ddc5de4e5be0fa",
+        "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html"
+      ]
+    },
+    {
+      "title": "Nasdaq",
+      "summary": "Grouped stories where \"nasdaq\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1f801f869c4b5329",
+        "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/89f8d0c87ba3066b",
+        "https://biztoc.com/x/dbebac58041110bf",
+        "https://biztoc.com/x/1061e32c9e2b6467"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184900726",
+        "https://github.com/PJHkorea/photonic-mesh-fng-router",
+        "https://pallix.in/"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Apple vs. OpenAI: How Siri Stacks Up Against New ChatGPT. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
