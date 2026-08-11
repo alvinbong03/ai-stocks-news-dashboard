@@ -1,0 +1,217 @@
+{
+  "theme": "ai",
+  "date": "2026-08-11",
+  "last_updated_utc": "2026-08-11T06:57:33.176Z",
+  "news": [
+    {
+      "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
+      "description": "Nvidia will reportedly invest US$2 billion into energy technology and infrastructure developer Lancium, which is building the Stargate data center campus in Texas. This deal illustrates how AI bottlenecks have expanded to include not only chips used for compu…",
+      "url": "https://www.digitimes.com/news/a20260810VL207/nvidia-infrastructure-texas-data-center-electricity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-10T06:29:30Z"
+    },
+    {
+      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+      "description": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks. The ChatGPT maker said on Friday it “cannot rule …",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/10/880806.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-08-10T05:21:01Z"
+    },
+    {
+      "title": "Nvidia reportedly weighs up to US$3B stake in Lancium",
+      "description": "Nvidia is in investment talks with Texas power infrastructure developer Lancium as AI data center buildouts strain access to electricity and grid connections. The proposed deal could give Nvidia a 20% to 30% stake and would mark a push into the energy infrast…",
+      "url": "https://www.digitimes.com/news/a20260810PD229/nvidia-investment-infrastructure-data-center-texas.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-10T03:50:00Z"
+    },
+    {
+      "title": "OpenAI Picks Up AI Presentation Creator NextSlide",
+      "description": "OpenAI has acquired NextSlide, a startup that uses artificial intelligence to help workers develop presentations.\nThe deal happened earlier this year but was announced Friday (Aug. 7) by Ahmed Beshry, NextSlide’s founder, on his LinkedIn page. NextSlide’s web…",
+      "url": "https://biztoc.com/x/69eb5c06aef26b04",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-10T00:55:32Z"
+    },
+    {
+      "title": "OpenAI Picks Up AI Presentation Creator NextSlide",
+      "description": "OpenAI has acquired NextSlide, a startup that uses artificial intelligence to help workers develop presentations. The deal happened earlier this year but was announced Friday (Aug. 7) by Ahmed Beshry, NextSlide’s founder, on his LinkedIn page. NextSlide’s web…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-picks-up-ai-presentation-creator-nextslide",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-10T00:20:07Z"
+    },
+    {
+      "title": "OpenAI Halts New Model Rollout Due to Security Worries",
+      "description": "OpenAI is pausing internal activity related to a new artificial intelligence model due to security concerns.\nThe AI startup announced this decision on its blog Friday (Aug. 7) after an in-house evaluation of its Astra model caused the company to realize it co…",
+      "url": "https://biztoc.com/x/c71ce1f8de5a2124",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T23:24:53Z"
+    },
+    {
+      "title": "OpenAI Halts New Model Rollout Due to Security Worries",
+      "description": "OpenAI is pausing internal activity related to a new artificial intelligence model due to security concerns. The AI startup announced this decision on its blog Friday (Aug. 7) after an in-house evaluation of its Astra model caused the company to realize it co…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-halts-new-model-rollout-due-to-security-worries",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-09T22:17:04Z"
+    },
+    {
+      "title": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle",
+      "description": "just extended its grip on artificial intelligence (AI) computing with plans to go where no chipmaker has gone before: orbit. On Aug. 4, SpaceX (SPCX) and Nvidia announced they are partnering to design the compute payload for the Starmind AI1 satellite, which …",
+      "url": "https://biztoc.com/x/b2b3e45c9bef059b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T20:23:01Z"
+    },
+    {
+      "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
+      "description": "Article URL: https://github.com/memcode-ai/memcode\nComments URL: https://news.ycombinator.com/item?id=49239401\nPoints: 2\n# Comments: 0",
+      "url": "https://github.com/memcode-ai/memcode",
+      "source": "Github.com",
+      "publishedAt": "2026-08-10T05:06:05Z"
+    },
+    {
+      "title": "I've always disliked running, but here's how Gemini and Garmin made me actually enjoy it for the first time",
+      "description": "Google Gemini helped make my training more sustainable, while Garmin’s Forerunner 170 Music let me leave my phone at home during runs.",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/ive-always-disliked-running-but-heres-how-gemini-and-garmin-made-me-actually-enjoy-it-for-the-first-time",
+      "source": "TechRadar",
+      "publishedAt": "2026-08-10T03:49:50Z"
+    },
+    {
+      "title": "Moore Threads eyes HK listing after 147% revenue surge, AI GPU expansion",
+      "description": "Chinese AI GPU developer Moore Threads is preparing a Hong Kong listing after first-half revenue jumped 147.42% year on year to CNY1.74 billion (approx. US$258 million), supported by stronger AI infrastructure demand and faster commercialization of its comput…",
+      "url": "https://www.digitimes.com/news/a20260810VL202/moore-threads-ai-gpu-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-10T03:42:06Z"
+    },
+    {
+      "title": "Cambricon AI chip revenue doubles as China demand surges, supply capacity holds key",
+      "description": "Cambricon Technologies has largely settled the question of whether China's AI chip champion can make money. First-half 2026 revenue rose 108.13% to CNY6 billion (approx. US$890 million), attributable net profit climbed 122.61% to CNY2.31 billion, and adjusted…",
+      "url": "https://www.digitimes.com/news/a20260810VL203/cambricon-ai-chip-revenue-capacity-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-10T03:39:46Z"
+    },
+    {
+      "title": "Interview: Nvidia sees Taiwan as more than an assembler — an engineering partner",
+      "description": "Taiwan's role in the global AI supply chain is shifting from manufacturing toward engineering, Nvidia networking senior vice president Gilad Shainer told DIGITIMES in an interview. The island, he said, is increasingly serving as an engineering partner for nex…",
+      "url": "https://www.digitimes.com/news/a20260810PD224/taiwan-nvidia-manufacturing-supply-chain-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-10T03:07:42Z"
+    },
+    {
+      "title": "OpenAI is cleaning up a risk it helped create",
+      "description": "As headlines pile up of AI models going rogue, OpenAI is laying its cards on the table.\nOn Friday, the company revealed that its latest internal evaluation of Astra, one of its upcoming models, indic...",
+      "url": "https://biztoc.com/x/301ce45ae7744ec6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-10T01:56:15Z"
+    },
+    {
+      "title": "Mark Cuban compares Nvidia to dot-com IPO machine, warning of AI sector fragility",
+      "description": "Cuban's warning highlights potential instability in AI investments, urging caution as financial practices reminiscent of the dot-com era resurface.\nThe post Mark Cuban compares Nvidia to dot-com IPO machine, warning of AI sector fragility appeared first on Cr…",
+      "url": "https://cryptobriefing.com/mark-cuban-nvidia-dot-com-ai-stocks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-10T00:35:08Z"
+    },
+    {
+      "title": "Amazon is building a new AI data center in Texas that could become the country’s largest source of carbon emissions",
+      "description": "A data center facility currently being constructed by Amazon.com Inc. to host workloads for Amazon Web Services is set to become the single-largest source of pollution in the entire U.S., according to a report by the New York Times Saturday. The company, whic…",
+      "url": "https://siliconangle.com/2026/08/09/amazon-building-new-ai-data-center-texas-become-countrys-largest-source-carbon-emissions",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-09T23:43:43Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
+      "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+      "Nvidia reportedly weighs up to US$3B stake in Lancium",
+      "OpenAI Picks Up AI Presentation Creator NextSlide",
+      "OpenAI Halts New Model Rollout Due to Security Worries"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.insurancejournal.com/news/national/2026/08/10/880806.htm",
+        "https://biztoc.com/x/69eb5c06aef26b04",
+        "https://www.pymnts.com/news/artificial-intelligence/2026/openai-picks-up-ai-presentation-creator-nextslide"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/b2b3e45c9bef059b"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260810VL207/nvidia-infrastructure-texas-data-center-electricity.html",
+        "https://www.digitimes.com/news/a20260810PD229/nvidia-investment-infrastructure-data-center-texas.html",
+        "https://github.com/memcode-ai/memcode"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
