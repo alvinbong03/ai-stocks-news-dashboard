@@ -1,0 +1,418 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-12",
+  "last_updated_utc": "2026-08-12T07:16:43.985Z",
+  "news": [
+    {
+      "title": "Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU",
+      "description": "Meta has released Muse Glimmer, a 30-billion-parameter open-weight AI model that runs on a Mac or PC with a single consumer graphics card.\nThank you for being a Ghacks reader. The post Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model Th…",
+      "url": "https://www.ghacks.net/2026/08/11/meta-releases-muse-glimmer-a-30-billion-parameter-open-weight-ai-model-that-runs-on-a-single-consumer-gpu",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-08-11T07:11:27Z"
+    },
+    {
+      "title": "TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He",
+      "description": "TSMC has been roughly doubling its CoWoS and SoIC capacity annually for the past several years, and is running CoWoS at better than 98% yield — sometimes 99% — on multiple AI customer products already in high-volume manufacturing. By Jun He's account, that is…",
+      "url": "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T07:07:55Z"
+    },
+    {
+      "title": "Flipkart deepens Tamil Nadu partnership, expands digital commerce, tech, supply-chain footprint",
+      "description": "Flipkart says that nearly 70,000 sellers from TN are using its platform to access customers nationwide, reflecting Tamil Nadu’s importance in the e-commerce giant’s long-term growth story",
+      "url": "https://www.thehindubusinessline.com/companies/flipkart-deepens-tamil-nadu-partnership-expands-digital-commerce-tech-supply-chain-footprint/article71331322.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-11T07:00:41Z"
+    },
+    {
+      "title": "Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute",
+      "description": "Microsoft plans to unveil its new Maia 300 accelerator chip this fall, with a public announcement possible as early as next month, according to The Information. Although Microsoft has lagged Google and Amazon in scaling its in-house AI chips, it is targeting …",
+      "url": "https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T06:57:15Z"
+    },
+    {
+      "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
+      "description": "The latest indication of global demand for AI hardware comes not from a hyperscaler capex presentation, but from unaudited monthly filings in Taipei. Major Taiwanese companies across the AI server supply chain, including server assembly, cooling, power, netwo…",
+      "url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T06:55:02Z"
+    },
+    {
+      "title": "Taiwan, South Korea drive Asian equity outflows in July as AI worries bite",
+      "description": "Wall Street ends slightly lower, taking a beat after its best week since April\nAug 11 (Reuters) - Foreign investors sold Asian equities on a net basis for a ninth consecutive month in July, with heavy selling in Taiwan and South Korea as concerns over AI spen…",
+      "url": "https://biztoc.com/x/83b2f7957a7af4c8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T06:45:56Z"
+    },
+    {
+      "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+      "description": "Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructure\nNvidia ⁠has partnered with six major Wall Street financial institutions to raise ⁠more than $500bn (£370bn) capital for artificial intelligence infrastructure.\n…",
+      "url": "https://biztoc.com/x/a033faca56e1d7bf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T06:45:49Z"
+    },
+    {
+      "title": "Spy Cams On UK Navy Drones Secretly Transmitted Data To China",
+      "description": "Spy Cams On UK Navy Drones Secretly Transmitted Data To China\n \nAn investigation into surveillance equipment fitted to Royal Navy unmanned vessels has raised concerns over military supply-chain security after cameras containing Chinese-made components were fo…",
+      "url": "https://biztoc.com/x/92ab85aec35d3f2f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T06:45:45Z"
+    },
+    {
+      "title": "HP OmniDesk Desktop (Cert. Refurb): Ryzen 7 8700G, 32GB DDR5, 1TB SSD $697",
+      "description": "Sold by *Prycedin via eBay.* \n \n\"2-year warranty: This item has a 2-year warranty serviced by Allstate.\" \n \n*SPECS:* \n* AMD Ryzen 7 8700G 8-Core 16-Thread Processor, 4.2GHz Base / 5.1GHz Boost \n* AMD...",
+      "url": "https://slickdeals.net/f/19865835-hp-omnidesk-desktop-cert-refurb-ryzen-7-8700g-32gb-ddr5-1tb-ssd-697",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-11T06:44:50Z"
+    },
+    {
+      "title": "Gemtek, CyberTAN see YoY growth turn positive in July",
+      "description": "As supply chain turbulence is easing, network equipment makers are starting to report better revenues. Gemtek Technology and CyberTAN both saw year-over-year revenue growth turn positive in July. However, the memory price rally continues to cloud the outlook …",
+      "url": "https://www.digitimes.com/news/a20260811PD225/cybertan-gemtek-network-equipment-growth-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T06:24:57Z"
+    },
+    {
+      "title": "Nvidia, finance firms to raise $500bn for AI build-out",
+      "description": "Nvidia said it has partnered with six major financial ⁠institutions to launch compute financing platforms aimed at raising over $500 billion in third-party capital for AI infrastructure.",
+      "url": "https://www.rte.ie/news/business/2026/0811/1587364-nvidia-finance-funding",
+      "source": "RTE",
+      "publishedAt": "2026-08-11T06:12:35Z"
+    },
+    {
+      "title": "Apple Reportedly Faces a Major iPhone 18 Pro Max Setback",
+      "description": "Apple is confronting a significant hurdle as it prepares to launch the highly anticipated iPhone 18 Pro Max. A global shortage of memory chips, particularly DRAM components, is threatening to disrupt production schedules, delay product availability, and poten…",
+      "url": "https://www.geeky-gadgets.com/iphone-18-pro-max-delay",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-11T06:00:54Z"
+    },
+    {
+      "title": "Kelly Earley: Is the success of the spice bag rooted in a culture of fussy eating?",
+      "description": "The spice bag has become Ireland’s de facto national dish, but is that down to a generation of fussy eaters, reared on more affordable dishes like chicken goujons and chips?",
+      "url": "https://www.thejournal.ie/readme/spice-bag-and-food-ireland-7126541-Aug2026",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-08-11T06:00:38Z"
+    },
+    {
+      "title": "Race to Reopen the Strait of Hormuz Intensifies as Supply Chain Stress Persists",
+      "description": "Shipping transits through the Strait of Hormuz remained largely uninterrupted on Monday morning, according to Bloomberg data cited by Zero Hedge, even as Iran and Oman reportedly moved closer to a deal. Brent crude futures traded near $85 a barrel as markets …",
+      "url": "https://www.naturalnews.com/2026-08-11-race-reopen-hormuz-intensifies-supply-chain-stress-persists.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-11T06:00:00Z"
+    },
+    {
+      "title": "Wall Street Titans Join Nvidia in $500B AI Infrastructure Push",
+      "description": "Wall Street is getting out its biggest checkbook yet for artificial intelligence—and Nvidia is holding the pen, the Financial Times reports. The chipmaker says it has lined up memorandums of understanding with six major financial players—Blackstone, BlackRock…",
+      "url": "https://www.newser.com/story/394423/wall-street-titans-join-nvidia-in-500b-ai-infrastructure-push.html",
+      "source": "Newser",
+      "publishedAt": "2026-08-11T06:00:00Z"
+    },
+    {
+      "title": "Nvidia taps Wall Street for US$500B AI infrastructure financing network",
+      "description": "Nvidia is teaming up with six of the world's largest investment and financial groups to mobilize more than US$500 billion in third-party capital for AI infrastructure, creating dedicated financing platforms designed to make large-scale computing capacity easi…",
+      "url": "https://www.digitimes.com/news/a20260811VL204/nvidia-infrastructure-financing-investment-ceo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T05:55:00Z"
+    },
+    {
+      "title": "Intel plans $15 billion share sale as turnaround rally lifts stock - Reuters",
+      "description": "Intel plans $15 billion share sale as turnaround rally lifts stockReuters Intel plans $15 billion stock offering as AI demand acceleratesCNBC Intel Is Said to Near Share Sale Upsize to Raise $20 BillionBloomberg.com Tech stocks today: Meta lays out new AI pat…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184925084",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-11T05:52:08Z"
+    },
+    {
+      "title": "Google’s August 12 Event Could Show Whether Gemini Is Ready to Run Your Whole Home",
+      "description": "Google’s August 12 event, scheduled for 6:00 p.m. EDT, arrives as a physical anchor for a massive, forced migration of the Android ecosystem. Beyond the expected reveal of the Pixel 11 lineup and the Tensor G6 chip, the event’s subtext is the definitive end o…",
+      "url": "https://forkast.news/googles-august-12-event-could-show-whether-gemini-is-ready-to-run-your-whole-home",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-11T05:51:26Z"
+    },
+    {
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "description": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.\n\n\"Unlike traditional software supply …",
+      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "source": "Internet",
+      "publishedAt": "2026-08-11T05:48:44Z"
+    },
+    {
+      "title": "Acer Swift 16 AI (Cert. Refurb): 16\" 3K 120Hz OLED Touch, Intel Ultra 7 256V, 16GB LPDDR5, 1TB SSD $629.99",
+      "description": "Cheaper than the previous thumbed up deal. \n \nSold by *Acer via eBay;* Apply the eCoupon BRANDS20 at checkout \n \n\"2-year warranty: This item has a 2-year warranty serviced by Allstate.\" \n \n*SPECS:*",
+      "url": "https://slickdeals.net/f/19865685-acer-swift-16-ai-cert-refurb-16-3k-120hz-oled-touch-intel-ultra-7-256v-16gb-lpddr5-1tb-ssd-629-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-11T05:48:39Z"
+    },
+    {
+      "title": "Nvidia partners with Wall Street giants to mobilize $500B for AI infrastructure",
+      "description": "This partnership could accelerate AI infrastructure growth, potentially boosting Nvidia's market position and influencing industry trends.\nThe post Nvidia partners with Wall Street giants to mobilize $500B for AI infrastructure appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/nvidia-partners-with-wall-street-giants-to-mobilize-500b-for-ai-infrastructure",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-11T05:47:49Z"
+    },
+    {
+      "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
+      "description": "Taiwan Semiconductor Manufacturing (TSM) on Monday reported that its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips. But TSM stock wavered. The world's largest contract chipmaker, better known as TSMC, talli…",
+      "url": "https://biztoc.com/x/fbb1d3842f18bea2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T05:44:46Z"
+    },
+    {
+      "title": "Forget gold and stocks: Nvidia CEO Jensen Huang aims to make chips an investable asset, lines up $500 bn in financing",
+      "description": "Nvidia CEO Jensen Huang said AI compute is emerging as a new investable asset class as the chipmaker partners with six major financial firms to establish financing platforms. The initiative aims to mobilise over $500 billion in third-party capital for AI infr…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T05:22:50Z"
+    },
+    {
+      "title": "Wicked Nugget Pack for $12.95 Pickup @ KFC (App/Online Order Only)",
+      "description": "For just $12.95, snag twenty golden nuggets, thick-cut chips dipped in tangy limited-time Wicked Sauce. Offer ends 12/08/26 10:00pm AEST. 1 redemption. Online only, excludes delivery.",
+      "url": "https://www.ozbargain.com.au/node/970960",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-08-11T05:17:56Z"
+    },
+    {
+      "title": "The all-glass 20th anniversary iPhone is dead, one analyst thinks",
+      "description": "Ever since last year, we've been hearing persistent rumors about Apple working on an \"all-glass\" 20th anniversary iPhone, due to be launched next year, which is, incidentally, the 20th anniversary of the original iPhone. This mythical device has taken all kin…",
+      "url": "https://www.gsmarena.com/the_allglass_20th_anniversary_iphone_is_dead_one_analyst_thinks-news-74100.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-08-11T05:17:03Z"
+    },
+    {
+      "title": "Here’s Why Nvidia Stock Is Down Today",
+      "description": "Topline\nNvidia shares dropped about 2.5% on Monday after the Financial Times reported the AI darling was working with some of Wall Street’s largest financial firms to create a $500 billion AI infrastructure funding package, which has drawn concern over concen…",
+      "url": "https://biztoc.com/x/163c68eb52190aa9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T05:14:36Z"
+    },
+    {
+      "title": "Muse Glimmer 30B: Meta bets on open AI models that can run on Macs and PCs",
+      "description": "Meta has released the weights of Muse Glimmer, a 30-billion-parameter model built for local AI agents, coding and tool use, and designed to run on a Mac or PC with a single consumer GPU",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/technology-tech-news-meta-muse-glimmer-30b-open-weight-ai-model-local-pc-mac-agents-126081100419_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-11T05:09:59Z"
+    },
+    {
+      "title": "Fragrance Testers and Gift Sets! at Woot! (1 replies)",
+      "description": "Can someone please invent a perfume that smells like mint chocolate chip ice cream?Eclat De Arpege/Lanvin EDP Splash 0.15 Oz [woot.com] - $15.99\nChloe Love Story EDP Unboxed Women 2.5 oz. [woot.com] -",
+      "url": "https://slickdeals.net/f/19865529-fragrance-testers-and-gift-sets-at-woot",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-11T05:00:59Z"
+    },
+    {
+      "title": "Nvidia turns to Wall Street giants to raise $500bn for AI infrastructure | The National",
+      "description": "Nvidia turns to Wall Street giants to raise $500bn for AI infrastructure | The Nationalthenationalnews.com",
+      "url": "https://www.thenationalnews.com/business/markets/2026/08/11/nvidia-turns-to-wall-street-giants-to-raise-500bn-for-ai-infrastructure",
+      "source": "Thenationalnews.com",
+      "publishedAt": "2026-08-11T05:00:07Z"
+    },
+    {
+      "title": "Here’s Why Nvidia Stock Is Down Today - Forbes",
+      "description": "Here’s Why Nvidia Stock Is Down TodayForbes Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’CNBC Nvidia becomes the bank of AIFinancial Times NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfie…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184924850",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-11T04:52:30Z"
+    },
+    {
+      "title": "Oil prices rise, Asia stocks drift amid US-Iran stalemate - Reuters",
+      "description": "Oil prices rise, Asia stocks drift amid US-Iran stalemateReuters Live updates: Hopes for imminent Strait of Hormuz deal fade as new conditions come into playCNN S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lowerCNBC Former…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184924782",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-11T04:32:39Z"
+    },
+    {
+      "title": "AI infrastructure moves toward scale-across; demand for coherent optics supply chain heats up",
+      "description": "AI infrastructure moves toward scale-across; demand for coherent optics supply chain heats up",
+      "url": "https://www.digitimes.com/reports/item.php?id=20260731RS403",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T04:31:35Z"
+    },
+    {
+      "title": "Column: The everyday philosophy of supply chain resilience",
+      "description": "When people talk about responding to supply chain shocks, the instinct is often to stockpile inventory or build backup production lines. However, after visiting Inner Mongolia Shuangjie Saidu Electric with a delegation in June 2026, I came away with a differe…",
+      "url": "https://www.digitimes.com/news/a20260811PD218/manufacturing-inventory-production-business-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T04:25:17Z"
+    },
+    {
+      "title": "Retail investors make Rs 18,000 crore bold contra bet on 6 falling bluechip stocks. Will it pay off?",
+      "description": "In a bold move, retail investors invested a whopping Rs 18,000 crore in six blue-chip stocks that were on a downward trend. They scooped up shares of Infosys, Reliance Industries, TCS, Wipro, HCL Technologies, and ITC during the June quarter. While retail pla…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-make-rs-18000-crore-bold-contra-bet-on-6-falling-bluechip-stocks-will-it-pay-off/articleshow/133142033.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T04:24:35Z"
+    },
+    {
+      "title": "Refurb: Acer Nitro 60 Desktop: i7-14700F, RTX 5070, 32GB DDR5, 1TB SSD $1270 + Free S&H",
+      "description": "*Acer ebay Store*: https://www.ebay.com/itm/267490948937 \n \n*Coupon*: 20% OFF via BRANDS20 \n \n*Warranty*: 2 Years AllState Warranty (US Only) \n \n*Spec*:[LIST][*]Windows 11 Home[*]Intel Core i7-14700F...",
+      "url": "https://slickdeals.net/f/19863618-acer-nitro-60-desktop-cert-refurb-i7-14700f-rtx-5070-32gb-ddr5-1tb-ssd-850w-psu-win11h-1270-f-s",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-11T04:19:03Z"
+    },
+    {
+      "title": "Amkor reportedly weighs China stake sale as multinationals reassess footprint",
+      "description": "Amkor Technology is exploring options, including the sale of a stake in its China business, according to people familiar with the matter, adding the US chip packaging and testing giant to a growing list of multinationals reassessing their presence in the coun…",
+      "url": "https://www.digitimes.com/news/a20260811VL209/amkor-packaging-business-testing-arizona.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T04:16:54Z"
+    },
+    {
+      "title": "Apple’s Supply Chain Woes Threaten All-Glass iPhone",
+      "description": "Apple’s Supply Chain Woes Threaten All-Glass iPhone\nSupply chain checks reveal that Apple has likely scrapped plans for its much-rumored “all-glass iPhone,” Jefferies says.\nSign up for smart news, insights, and analysis on the biggest financial stories of the…",
+      "url": "https://biztoc.com/x/62143ce4a97906d0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T04:13:53Z"
+    },
+    {
+      "title": "$500 billion AI boom: Nvidia, Wall Street giants join hands for chip, data centre push",
+      "description": "Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billi…",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/500-billion-ai-boom-nvidia-wall-street-giants-join-hands-for-chip-data-centre-push/articleshow/133141372.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T04:11:46Z"
+    },
+    {
+      "title": "NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure",
+      "description": "NVIDIA has partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create AI compute financing platforms. The platforms aim to mobilise over $500 billion in third-party capital over time to fund AI infrastructure globally.",
+      "url": "https://www.livemint.com/companies/nvidia-partners-with-apollo-blackrock-blackstone-kkr-and-others-to-mobilise-over-500-billion-for-ai-infrastructure-11786419485171.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-11T04:10:35Z"
+    },
+    {
+      "title": "Interview: Nvidia says networking is the core of AI computing as AI factories scale",
+      "description": "Global AI computing is rapidly moving beyond single-GPU systems toward AI Factory architectures, where agentic AI and inference workloads are pushing data centers to rely on networking, optics, packaging, cooling, power delivery and software co-design rather …",
+      "url": "https://www.digitimes.com/news/a20260811PD228/nvidia-data-infrastructure-ethernet-gpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T04:07:14Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE specs leak in full: here's what will change and what will stay the same",
+      "description": "There have been several major leaks surrounding the upcoming Samsung Galaxy S26 FE, but now we have the full picture thanks to WinFuture. Don’t worry, it’s not just you – we find it pretty hard to spot the differences between this and the S25 FE picture too.\n…",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_specs_leak_in_full_heres_what_will_change_and_what_will_stay_the_same-news-74096.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-08-11T04:01:02Z"
+    },
+    {
+      "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
+      "description": "Following growing momentum behind large-scale infrastructure buildouts in South Korea, the industry is witnessing an aggressive wave of AI-related initiatives aimed at expanding the nation's semiconductor production capacity. But the broader objective extends…",
+      "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T03:53:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU",
+      "TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He",
+      "Flipkart deepens Tamil Nadu partnership, expands digital commerce, tech, supply-chain footprint",
+      "Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute",
+      "Taiwan's AI server supply chain posts record July as growth spreads down the component tier"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/a033faca56e1d7bf",
+        "https://www.rte.ie/news/business/2026/0811/1587364-nvidia-finance-funding",
+        "https://www.newser.com/story/394423/wall-street-titans-join-nvidia-in-500b-ai-infrastructure-push.html"
+      ]
+    },
+    {
+      "title": "Infrastructure",
+      "summary": "Grouped stories where \"infrastructure\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/reports/item.php?id=20260731RS403",
+        "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ghacks.net/2026/08/11/meta-releases-muse-glimmer-a-30-billion-parameter-open-weight-ai-model-that-runs-on-a-single-consumer-gpu",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184925084",
+        "https://www.business-standard.com/technology/artificial-intelligence/technology-tech-news-meta-muse-glimmer-30b-open-weight-ai-model-local-pc-mac-agents-126081100419_1.html"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/companies/flipkart-deepens-tamil-nadu-partnership-expands-digital-commerce-tech-supply-chain-footprint/article71331322.ece",
+        "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html",
+        "https://biztoc.com/x/92ab85aec35d3f2f"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html",
+        "https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html",
+        "https://biztoc.com/x/83b2f7957a7af4c8"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

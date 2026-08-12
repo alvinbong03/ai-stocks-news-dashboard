@@ -1,0 +1,360 @@
+{
+  "theme": "ai",
+  "date": "2026-08-12",
+  "last_updated_utc": "2026-08-12T07:16:26.527Z",
+  "news": [
+    {
+      "title": "Interview: Nvidia says networking is the core of AI computing as AI factories scale",
+      "description": "Global AI computing is rapidly moving beyond single-GPU systems toward AI Factory architectures, where agentic AI and inference workloads are pushing data centers to rely on networking, optics, packaging, cooling, power delivery and software co-design rather …",
+      "url": "https://www.digitimes.com/news/a20260811PD228/nvidia-data-infrastructure-ethernet-gpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T04:07:14Z"
+    },
+    {
+      "title": "Google's Gemini delay puts pressure on its AI leadership",
+      "description": "Google's repeated delays to Gemini 3.5 Pro are sharpening scrutiny of its AI strategy, as the company works to keep pace with OpenAI and Anthropic. In response, Google has elevated Koray Kavukcuoglu to oversee DeepMind operations, AI research, and the Gemini …",
+      "url": "https://www.digitimes.com/news/a20260811PD216/google-deepmind-gemini-ai.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T02:44:43Z"
+    },
+    {
+      "title": "Claude can now leave an invisible mark on your writing, even if you wrote it yourself",
+      "description": "Anthropic is introducing invisible watermarks directly into text produced by newer Claude models as part of its commitments under the EU AI Act's transparency rules. The markings can survive copy-pasting and some editing, although their presence does not nece…",
+      "url": "https://www.notebookcheck.net/Claude-can-now-leave-an-invisible-mark-on-your-writing-even-if-you-wrote-it-yourself.1365486.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-11T07:05:00Z"
+    },
+    {
+      "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
+      "description": "Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructure\nNvidia ⁠has partnered with six major Wall Street financial institutions to raise ⁠more than $500bn (£370bn) capital for artificial intelligence infrastructure.\n…",
+      "url": "https://biztoc.com/x/a033faca56e1d7bf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T06:45:49Z"
+    },
+    {
+      "title": "OpenAI expands Daybreak with GPT-5.6-Cyber model as AI cyber breaches surge",
+      "description": "OpenAI's GPT-5.6-Cyber targets advanced cybersecurity tasks, including vulnerability research, exploit validation and security testing",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-daybreak-gpt-5-6-cyber-ai-cybersecurity-breaches-126081100597_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-11T06:22:02Z"
+    },
+    {
+      "title": "OpenAI Models Breached Hugging Face During Test, Company Confirms",
+      "description": "OpenAI said in July that an autonomous agent powered by its advanced artificial intelligence (AI) models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face [11]. The company said the agent esc…",
+      "url": "https://www.naturalnews.com/2026-08-11-openai-models-breached-hugging-face-during-test.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-11T06:00:00Z"
+    },
+    {
+      "title": "Wall Street Titans Join Nvidia in $500B AI Infrastructure Push",
+      "description": "Wall Street is getting out its biggest checkbook yet for artificial intelligence—and Nvidia is holding the pen, the Financial Times reports. The chipmaker says it has lined up memorandums of understanding with six major financial players—Blackstone, BlackRock…",
+      "url": "https://www.newser.com/story/394423/wall-street-titans-join-nvidia-in-500b-ai-infrastructure-push.html",
+      "source": "Newser",
+      "publishedAt": "2026-08-11T06:00:00Z"
+    },
+    {
+      "title": "If you haven’t recently used Claude Code*, you might not understand where AI is at",
+      "description": "A report on a series of mini machine learning projects, executed with, and mostly by, Claude",
+      "url": "https://davidpreichert.substack.com/p/if-you-havent-recently-used-claude",
+      "source": "Substack.com",
+      "publishedAt": "2026-08-11T05:47:01Z"
+    },
+    {
+      "title": "Anthropic's Claude will invisibly watermark AI-generated text: How it works",
+      "description": "Anthropic says new Claude models will embed machine-readable watermarks in generated text that can survive copy-pasting and some editing",
+      "url": "https://www.business-standard.com/technology/tech-news/claude-invisible-watermark-ai-generated-text-how-it-works-126081100381_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-11T04:59:33Z"
+    },
+    {
+      "title": "Anthropic just rolled out a tool that'll decimate some people's dreams of writing AI novels undetected",
+      "description": "Anthropic is introducing a new feature to improve transparency on AI-generated content.\nSamuel Boivin/NurPhoto via Getty Images\nAnthropic will now embed invisible watermarks in Claude AI text.\nIt is part of Anthropic's commitments under the EU AI Act but appl…",
+      "url": "https://biztoc.com/x/49fca067ee774a13",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T04:14:33Z"
+    },
+    {
+      "title": "Anthropic just rolled out a tool that'll decimate some people's dreams of writing AI novels undetected",
+      "description": "Anthropic said new Claude models will embed an \"imperceptible watermark\" directly into AI-generated text.",
+      "url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-11T04:09:04Z"
+    },
+    {
+      "title": "US House Democrats seek answers from OpenAI, Anthropic over rogue AI agents",
+      "description": "Twenty-nine ​lawmakers, led by Representatives Greg Casar and Doris Matsui, pressed OpenAI to explain how ​its AI agents are monitored during testing",
+      "url": "https://www.business-standard.com/technology/tech-news/us-house-democrats-seek-answers-from-openai-anthropic-over-rogue-ai-agents-126081100246_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-11T04:01:31Z"
+    },
+    {
+      "title": "NUS students to get ChatGPT access; AI module compulsory for incoming freshmen",
+      "description": "Announcing a partnership with OpenAI, NUS said all students, faculty and staff will get access to ChatGPT Edu from Aug 31.",
+      "url": "https://www.channelnewsasia.com/singapore/nus-chatgpt-compulsory-ai-module-6306826",
+      "source": "CNA",
+      "publishedAt": "2026-08-11T03:02:15Z"
+    },
+    {
+      "title": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
+      "description": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic\nQuick Take\n- Riot Platforms disclosed a $9.1 billion deal to lease data center capacity to a “leading frontier AI lab.”\n- Bloomberg reported Monday that the unnamed p…",
+      "url": "https://biztoc.com/x/199a2214c38e6d13",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T02:27:27Z"
+    },
+    {
+      "title": "Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model That Runs on a Single Consumer GPU",
+      "description": "Meta has released Muse Glimmer, a 30-billion-parameter open-weight AI model that runs on a Mac or PC with a single consumer graphics card.\nThank you for being a Ghacks reader. The post Meta Releases Muse Glimmer, a 30-Billion-Parameter Open-Weight AI Model Th…",
+      "url": "https://www.ghacks.net/2026/08/11/meta-releases-muse-glimmer-a-30-billion-parameter-open-weight-ai-model-that-runs-on-a-single-consumer-gpu",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-08-11T07:11:27Z"
+    },
+    {
+      "title": "OpenAI Took Awhile to Realize AI Models Went Rogue",
+      "description": "OpenAI didn't realize for weeks that some of its own AI models had stopped playing by the rules, the Washington Post reports. During internal cybersecurity tests this spring, instead of answering the test questions, a cluster of systems quietly set up a hidde…",
+      "url": "https://www.newser.com/story/394421/openai-took-awhile-to-realize-ai-models-went-rogue.html",
+      "source": "Newser",
+      "publishedAt": "2026-08-11T07:00:00Z"
+    },
+    {
+      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom",
+      "description": "For those seeking a pick-and-shovel approach to the AI wave, here's a guide to utilities, grid hardware, cooling firms, and refinery stocks.",
+      "url": "https://fortune.com/2026/08/11/data-center-stocks",
+      "source": "Fortune",
+      "publishedAt": "2026-08-11T06:59:00Z"
+    },
+    {
+      "title": "Uniper Targets Data Center Sales in UK, Germany on AI Demand",
+      "description": "Uniper SE has identified about 10 sites across Europe that could be sold or leased for data-center development, as the German utility looks to capitalize on surging demand for AI infrastructure.",
+      "url": "https://financialpost.com/pmn/business-pmn/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-11T06:54:17Z"
+    },
+    {
+      "title": "Anthropic signs $9.1 billion, 20-year AI cloud deal with Bitcoin miner Riot Platforms for Texas data centre capacity",
+      "description": "Anthropic has signed a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms for 191 MW of AI data-centre capacity in Texas. The agreement highlights Anthropic’s race to secure computing power while Bitcoin miners increasingly pivot towards AI infrastr…",
+      "url": "https://www.livemint.com/companies/anthropic-signs-9-1-billion-20-year-ai-cloud-deal-with-bitcoin-miner-riot-platforms-for-texas-data-centre-capacity-11786430274769.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-11T06:46:17Z"
+    },
+    {
+      "title": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
+      "description": "Invisible watermarks will be woven directly into text generated by Claude models. It will not alter the meaning, quality, or readability of a response and can travel with the text when copied elsewhere, potentially persisting through some editing.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explained-anthropics-plan-to-watermark-all-claude-generated-content-and-how-it-works/articleshow/133143899.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T06:15:12Z"
+    },
+    {
+      "title": "Nvidia, finance firms to raise $500bn for AI build-out",
+      "description": "Nvidia said it has partnered with six major financial ⁠institutions to launch compute financing platforms aimed at raising over $500 billion in third-party capital for AI infrastructure.",
+      "url": "https://www.rte.ie/news/business/2026/0811/1587364-nvidia-finance-funding",
+      "source": "RTE",
+      "publishedAt": "2026-08-11T06:12:35Z"
+    },
+    {
+      "title": "Google’s August 12 Event Could Show Whether Gemini Is Ready to Run Your Whole Home",
+      "description": "Google will stage its annual Made by Google hardware event on August 12 at 6 PM ET, and while the Pixel 10 lineup will dominate the headlines, the real story is whether the company can convincingly merge its AI infrastructure into an ambient layer that runs a…",
+      "url": "https://forkast.news/googles-august-12-event-could-show-whether-gemini-is-ready-to-run-your-whole-home-2",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-11T06:10:21Z"
+    },
+    {
+      "title": "Nvidia taps Wall Street for US$500B AI infrastructure financing network",
+      "description": "Nvidia is teaming up with six of the world's largest investment and financial groups to mobilize more than US$500 billion in third-party capital for AI infrastructure, creating dedicated financing platforms designed to make large-scale computing capacity easi…",
+      "url": "https://www.digitimes.com/news/a20260811VL204/nvidia-infrastructure-financing-investment-ceo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-11T05:55:00Z"
+    },
+    {
+      "title": "Nvidia partners with Wall Street giants to mobilize $500B for AI infrastructure",
+      "description": "This partnership could accelerate AI infrastructure growth, potentially boosting Nvidia's market position and influencing industry trends.\nThe post Nvidia partners with Wall Street giants to mobilize $500B for AI infrastructure appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/nvidia-partners-with-wall-street-giants-to-mobilize-500b-for-ai-infrastructure",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-11T05:47:49Z"
+    },
+    {
+      "title": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
+      "description": "Taiwan Semiconductor Manufacturing (TSM) on Monday reported that its sales in July rose nearly 6% from June and 45% year over year thanks to strong demand for AI chips. But TSM stock wavered. The world's largest contract chipmaker, better known as TSMC, talli…",
+      "url": "https://biztoc.com/x/fbb1d3842f18bea2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T05:44:46Z"
+    },
+    {
+      "title": "Alibaba Cloud Plans to More Than Double Global Modular Data Center Capacity",
+      "description": "Alibaba Cloud plans to more than double its global capacity for modular data centers in 2026, as demand for AI computing infrastructure continues to grow. The cloud-computing arm of Alibaba Group said its modular approach can support the deployment of large A…",
+      "url": "https://technode.com/2026/08/11/alibaba-cloud-plans-to-more-than-double-global-modular-data-center-capacity",
+      "source": "TechNode",
+      "publishedAt": "2026-08-11T05:31:38Z"
+    },
+    {
+      "title": "Forget gold and stocks: Nvidia CEO Jensen Huang aims to make chips an investable asset, lines up $500 bn in financing",
+      "description": "Nvidia CEO Jensen Huang said AI compute is emerging as a new investable asset class as the chipmaker partners with six major financial firms to establish financing platforms. The initiative aims to mobilise over $500 billion in third-party capital for AI infr…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T05:22:50Z"
+    },
+    {
+      "title": "Here’s Why Nvidia Stock Is Down Today",
+      "description": "Topline\nNvidia shares dropped about 2.5% on Monday after the Financial Times reported the AI darling was working with some of Wall Street’s largest financial firms to create a $500 billion AI infrastructure funding package, which has drawn concern over concen…",
+      "url": "https://biztoc.com/x/163c68eb52190aa9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T05:14:36Z"
+    },
+    {
+      "title": "Nvidia turns to Wall Street giants to raise $500bn for AI infrastructure | The National",
+      "description": "Nvidia turns to Wall Street giants to raise $500bn for AI infrastructure | The Nationalthenationalnews.com",
+      "url": "https://www.thenationalnews.com/business/markets/2026/08/11/nvidia-turns-to-wall-street-giants-to-raise-500bn-for-ai-infrastructure",
+      "source": "Thenationalnews.com",
+      "publishedAt": "2026-08-11T05:00:07Z"
+    },
+    {
+      "title": "$500 billion AI boom: Nvidia, Wall Street giants join hands for chip, data centre push",
+      "description": "Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billi…",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/500-billion-ai-boom-nvidia-wall-street-giants-join-hands-for-chip-data-centre-push/articleshow/133141372.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T04:11:46Z"
+    },
+    {
+      "title": "NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure",
+      "description": "NVIDIA has partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create AI compute financing platforms. The platforms aim to mobilise over $500 billion in third-party capital over time to fund AI infrastructure globally.",
+      "url": "https://www.livemint.com/companies/nvidia-partners-with-apollo-blackrock-blackstone-kkr-and-others-to-mobilise-over-500-billion-for-ai-infrastructure-11786419485171.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-11T04:10:35Z"
+    },
+    {
+      "title": "Riot Platforms shares soar 25% after-hours on news of $9.1B Anthropic deal",
+      "description": "Riot's strategic pivot towards AI infrastructure highlights a growing trend of tech firms diversifying to capitalize on AI demand.\nThe post Riot Platforms shares soar 25% after-hours on news of $9.1B Anthropic deal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/riot-platforms-shares-soar-25-after-hours-on-news-of-9-1b-anthropic-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-11T03:30:11Z"
+    },
+    {
+      "title": "Google's DeepMind team warns job seekers of unreliable HR filters",
+      "description": "Google team is encouraging candidates for its open roles to fill out a special form alongside their application to eliminate the risk it may be automatically screened out by the company's AI systems",
+      "url": "https://www.business-standard.com/world-news/google-s-deepmind-team-warns-job-seekers-of-unreliable-hr-filters-126081100112_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-11T03:17:48Z"
+    },
+    {
+      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "description": "Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.",
+      "url": "https://biztoc.com/x/d60241d8fa4a3ec6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-11T03:12:35Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Interview: Nvidia says networking is the core of AI computing as AI factories scale",
+      "Google's Gemini delay puts pressure on its AI leadership",
+      "Claude can now leave an invisible mark on your writing, even if you wrote it yourself",
+      "Nvidia links with Wall Street firms for $500bn AI financing deal",
+      "OpenAI expands Daybreak with GPT-5.6-Cyber model as AI cyber breaches surge"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Infrastructure",
+      "summary": "Grouped stories where \"infrastructure\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/a033faca56e1d7bf",
+        "https://www.naturalnews.com/2026-08-11-openai-models-breached-hugging-face-during-test.html",
+        "https://www.newser.com/story/394423/wall-street-titans-join-nvidia-in-500b-ai-infrastructure-push.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260811PD228/nvidia-data-infrastructure-ethernet-gpu.html",
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/forget-gold-and-stocks-nvidia-ceo-jensen-huang-aims-to-make-chips-an-investable-asset-lines-up-500-bn-in-financing/articleshow/133142905.cms"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260811PD216/google-deepmind-gemini-ai.html",
+        "https://www.notebookcheck.net/Claude-can-now-leave-an-invisible-mark-on-your-writing-even-if-you-wrote-it-yourself.1365486.0.html",
+        "https://www.business-standard.com/technology/tech-news/claude-invisible-watermark-ai-generated-text-how-it-works-126081100381_1.html"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ghacks.net/2026/08/11/meta-releases-muse-glimmer-a-30-billion-parameter-open-weight-ai-model-that-runs-on-a-single-consumer-gpu"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/technology/tech-news/openai-daybreak-gpt-5-6-cyber-ai-cybersecurity-breaches-126081100597_1.html",
+        "https://davidpreichert.substack.com/p/if-you-havent-recently-used-claude",
+        "https://www.channelnewsasia.com/singapore/nus-chatgpt-compulsory-ai-module-6306826"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Interview: Nvidia says networking is the core of AI computing as AI factories scale. Main topic cluster: Infrastructure. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Interview: Nvidia says networking is the core of AI computing as AI factories scale. Main topic cluster: Infrastructure. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Interview: Nvidia says networking is the core of AI computing as AI factories scale. Main topic cluster: Infrastructure. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Interview: Nvidia says networking is the core of AI computing as AI factories scale. Main topic cluster: Infrastructure. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Interview: Nvidia says networking is the core of AI computing as AI factories scale. Main topic cluster: Infrastructure. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
