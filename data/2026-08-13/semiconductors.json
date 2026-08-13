@@ -1,0 +1,410 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-13",
+  "last_updated_utc": "2026-08-13T07:18:34.531Z",
+  "news": [
+    {
+      "title": "Foxconn posts quarterly profit surge on AI server demand",
+      "description": "The company said net profit for April-June reached NT$59.97 billion ($1.86 billion), up 35% from the previous year. Foxconn, whose official name is Hon Hai Precision Industry, has gone beyond assembling low-margin iPhones to making AI servers for US tech gian…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-posts-quarterly-profit-surge-on-ai-server-demand/articleshow/133174561.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-12T07:15:31Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning Delivers 4X AI Throughput",
+      "description": "NVIDIA’s Nemotron 3.5 Lightning is an AI model designed for execution-layer tasks, emphasizing speed and efficiency in workflows that require high throughput. According to Sam Witteveen, the model employs a hybrid member transformer architecture with an activ…",
+      "url": "https://www.geeky-gadgets.com/nemotron-3-5-lightning-model",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-12T07:15:00Z"
+    },
+    {
+      "title": "iPhone Ultra Fold Leaks: 7.8-Inch Folding Screen, A20 Chip, and No Face ID",
+      "description": "Apple is gearing up to make a significant impact in the tech industry with its highly anticipated September event. At the forefront of this event is the expected unveiling of the company’s first-ever foldable smartphone, the iPhone Ultra. This launch marks Ap…",
+      "url": "https://www.geeky-gadgets.com/rumored-foldable-iphone-ultra-2",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-12T07:00:02Z"
+    },
+    {
+      "title": "OCP APAC 2026: Nvidia SVP Shainer on taking CPO to mass production: 'cannot release something just because it's cool'",
+      "description": "Nvidia's Spectrum-6 co-packaged optics (CPO) switches are in production and shipping, Gilad Shainer, senior vice president of networking at Nvidia, stated at the OCP APAC Summit 2026 — and the manufacturing chain behind them runs heavily through Taiwan.",
+      "url": "https://www.digitimes.com/news/a20260812VL220/nvidia-cpo-packaging-copper-ocp.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T07:00:00Z"
+    },
+    {
+      "title": "Woot MSI Gaming Laptops Sale for From $770 + free shipping w/ Prime",
+      "description": "Woot's MSI Gaming Laptops sale covers factory reconditioned models ranging from the $770 MSI Katana 15 HX up to the $3,299 MSI Raider 18 HX AI with a UHD+ display. The lineup spans multiple MSI series like Vector, Stealth, Raider, and Cyborg, with graphics op…",
+      "url": "https://www.dealnews.com/Woot-MSI-Gaming-Laptops-Sale-for-From-770-free-shipping-w-Prime/22011854.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-08-12T06:58:12Z"
+    },
+    {
+      "title": "Rio Terminal Emulator for Linux: Speed Up Your Command-Line Workflow",
+      "description": "The post Rio Terminal Emulator for Linux: Speed Up Your Command-Line Workflow first appeared on Tecmint: Linux Howtos, Tutorials & Guides .Rio is a GPU-accelerated terminal emulator written in Rust that gives you built-in tabs, splits, and a command palette. …",
+      "url": "https://www.tecmint.com/rio-terminal-emulator-for-linux",
+      "source": "Tecmint.com",
+      "publishedAt": "2026-08-12T06:56:29Z"
+    },
+    {
+      "title": "Nvidia reportedly planning trillion-parameter Nemotron 4 in open-source push",
+      "description": "Nvidia is intensifying its open-source strategy through its upcoming trillion-parameter model in the Nemotron 4 family, which is meant to compete with the world's leading open-source models, according to The Information. While this may put it in the awkward p…",
+      "url": "https://www.digitimes.com/news/a20260812VL221/nvidia-openai-sales-competition.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T06:55:00Z"
+    },
+    {
+      "title": "Foxconn posts quarterly profit surge on AI server demand",
+      "description": "Foxconn, whose official name is Hon Hai Precision Industry, has gone beyond assembling low-margin iPhones to making AI servers for US tech giant Nvidia, along with electric vehicles and robots.\nThe post Foxconn posts quarterly profit surge on AI server demand…",
+      "url": "https://www.digitaljournal.com/article/foxconn-posts-quarterly-profit-surge-on-ai-server-demand",
+      "source": "Digital Journal",
+      "publishedAt": "2026-08-12T06:50:09Z"
+    },
+    {
+      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "description": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation\n\n As autonomous vehicle capabilities advance, the safe evaluation of driving policies in long-tail scenarios remains a critical bottleneck. In closed-loop simula…",
+      "url": "https://research.nvidia.com/publication/2026-06_nvidia-omnidreams-real-time-generative-world-model-closed-loop-autonomous",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-08-12T06:47:36Z"
+    },
+    {
+      "title": "Snack & Candy Favorites at Woot for From $2 + free shipping w/ Prime",
+      "description": "Woot's Snack & Candy Favorites sale covers a wide range of chips, cookies, candy, and jerky from brands like Simple Mills, SkinnyPop, and Jack Link's. Discounts run up to 40% off reference prices, with items like Sarah's Candy Factory Mints down to $8.91 and …",
+      "url": "https://www.dealnews.com/Snack-Candy-Favorites-at-Woot-for-From-2-free-shipping-w-Prime/22011851.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-08-12T06:47:22Z"
+    },
+    {
+      "title": "CXMT DDR5 yield tops 90%, narrowing gap with Samsung",
+      "description": "China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening its position in the global PC memory supply chain.",
+      "url": "https://www.digitimes.com/news/a20260812PD226/cxmt-samsung-ddr5-dram-pc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T06:45:00Z"
+    },
+    {
+      "title": "1 Semiconductor Stock for Long-Term Investors and 2 Facing Challenges",
+      "description": "Semiconductors are the silicon backbone of the digital revolution. The amount of data we ingest is also increasing exponentially, leading to elevated demand for chips with more processing power. This secular trend bodes well for the industry, which has posted…",
+      "url": "https://biztoc.com/x/57f2eadf1bc71be1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T06:35:16Z"
+    },
+    {
+      "title": "Concierges, Adjunct Professors, Potato Chip Tasters: US Employers Are Relying More and More on ‘Disposable’ Workers",
+      "description": "Yves here. While I was aware that more and more workers were being shifted into non-employee status, even if they were coming to the same site and performing the same duties every day, I had no idea that they now account for more than 1/3 of total positions. …",
+      "url": "https://biztoc.com/x/d5f578e8b7c1b2de",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T06:18:59Z"
+    },
+    {
+      "title": "Concierges, Adjunct Professors, Potato Chip Tasters: US Employers Are Relying More and More on ‘Disposable’ Workers",
+      "description": "No wonder workers have so little bargaining power. The boss class has gotten better at making them disposable.",
+      "url": "https://www.nakedcapitalism.com/2026/08/concierges-adjunct-professors-potato-chip-tasters-us-employers-are-relying-more-and-more-on-disposable-workers.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-12T06:08:44Z"
+    },
+    {
+      "title": "SK Hynix reportedly revives China NAND expansion as YMTC and global rivals race to meet AI storage demand",
+      "description": "SK Hynix is restarting a long-frozen expansion of its Dalian, China, NAND flash plant, adding capacity that will lift output at the site by roughly 50%. The move comes as the AI boom turns memory chips into one of the tightest-supplied components in the indus…",
+      "url": "https://www.digitimes.com/news/a20260812VL205/sk-hynix-nand-expansion-dalian-ymtc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T06:05:00Z"
+    },
+    {
+      "title": "TERRAMASTER F4 SSD NAS Storage - 4Bay All SSD NAS Server N95 Qua… $671.99 (RRP $839.99) Delivered @ Amazon AU",
+      "description": "TERRAMASTER F4 SSD 4-Bay All SSD NAS, Intel N95 QuadCore CPU, 8GB DDR5, 20% off, $671.99 Features: Unleash Ultimate Performance: The F4 SSD is a full-SSD NAS server with a …",
+      "url": "https://www.ozbargain.com.au/node/971068",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-08-12T05:57:48Z"
+    },
+    {
+      "title": "Intel's Israel fab stirs back to life, but case for 14A remains unconfirmed",
+      "description": "Intel appears to be restarting work on Fab 38, its long-idle facility in Kiryat Gat, Israel, though how far the project will go — and whether it will ultimately run the company's bleeding-edge 14A process — remains speculative rather than confirmed.",
+      "url": "https://www.digitimes.com/news/a20260812VL209/intel-israel-fab-expansion-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T05:52:24Z"
+    },
+    {
+      "title": "NVIDIA-NeMo/Switchyard",
+      "description": "Contribute to NVIDIA-NeMo/Switchyard development by creating an account on GitHub.",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "source": "Github.com",
+      "publishedAt": "2026-08-12T05:47:01Z"
+    },
+    {
+      "title": "Japan's US$430B 2040 chip plan hinges on Rapidus 2nm",
+      "description": "Japan has drawn up a plan for more than JPY370 trillion (approx. US$2.33 trillion) in combined public and private investment across 17 strategic sectors, including AI and space, through fiscal 2040, which runs from April 2040 to March 2041.",
+      "url": "https://www.digitimes.com/news/a20260812PD231/rapidus-2nm-government-investment-japan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T05:40:03Z"
+    },
+    {
+      "title": "OCP APAC 2026: Microsoft leans on Taiwan supply chain for 'silicon-to-systems' AI buildout",
+      "description": "Microsoft sources roughly 70% of the hardware content in its cloud infrastructure from Taiwan and the wider Asia-Pacific region, executives said at the OCP APAC 2026 summit here. The company is shifting from buying discrete components to co-designing entire A…",
+      "url": "https://www.digitimes.com/news/a20260812VL217/microsoft-2026-hardware-apac-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T05:40:00Z"
+    },
+    {
+      "title": "Show HN: Tynx - train ONNX models with a PyTorch-shaped API (",
+      "description": "Tynx is a small, self-contained ONNX runtime with a PyTorch-shaped API for inference and training.The .whl is less than 20MB. GPU execution uses Burn/CubeCL + wgpu enabling it to run across OSes and GPUs, without requiring any extra libraries. $ pip install t…",
+      "url": "https://github.com/blaind/tynx",
+      "source": "Github.com",
+      "publishedAt": "2026-08-12T05:31:36Z"
+    },
+    {
+      "title": "After Meta, Nvidia releases 30B open-weight AI model for agentic tasks",
+      "description": "Nvidia Nemotron 3.5 Lightning: Nvidia has introduced Nemotron 3.5 Lightning, a 30-billion-parameter open model for agentic workloads, as Nvidia, Meta and others back a broader industry push for open-weight AI",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-30b-open-weight-ai-model-nemotron-3-5-lightning-agentic-tasks-126081200561_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-12T05:25:17Z"
+    },
+    {
+      "title": "Nvidia partners with Wall Street giants to raise $500 bn for AI buildout",
+      "description": "Big Tech companies have signaled that spending on AI would not slow down, with combined outlays set to surpass $730 billion this year",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-partners-with-wall-street-giants-to-raise-500-bn-for-ai-buildout-126081200519_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-12T05:20:36Z"
+    },
+    {
+      "title": "Zhipu’s API User Base Nears 7 Million as It Adds 50,000-Plus Chinese AI Chips",
+      "description": "Zhipu’s MaaS open platform is reported to have nearly 7 million registered API users, about 2 million more than in early July. The figure refers to users of the platform’s model APIs. The company has also newly activated more than 50,000 domestically develope…",
+      "url": "https://technode.com/2026/08/12/zhipus-api-user-base-nears-7-million-as-it-adds-50000-plus-chinese-ai-chips",
+      "source": "TechNode",
+      "publishedAt": "2026-08-12T05:18:40Z"
+    },
+    {
+      "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival leading AI models",
+      "description": "The company has not set a release date for Nemotron 4 and has ‌yet to complete final training",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-building-1-trillion-parameter-nemotron-4-to-rival-leading-ai-models-126081200516_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-12T05:14:40Z"
+    },
+    {
+      "title": "MediaTek, Realtek, Himax, Elan eye optical communications boom in 2027",
+      "description": "The use of optical communications in cloud AI data-center interconnect architectures is rising sharply, and Taiwan IC design firms including MediaTek, Realtek Semiconductor, Himax Technologies, and Elan Microelectronics are moving into the market from differe…",
+      "url": "https://www.digitimes.com/news/a20260812PD221/optical-communications-mediatek-realtek-himax-elan-2027.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T05:00:14Z"
+    },
+    {
+      "title": "Ryzen AI 9-Powered \"Piston V\" Mystery Mini PC Dual-Boots Bazzite and Windows",
+      "description": "It seems as though mini PCs have never been more popular, with brands like Minisforum and Geekom releasing new models at an almost alarming rate. A new video by ETA Prime on YouTube, however, has shown off something different: an unbranded, mystery mini PC th…",
+      "url": "https://www.techpowerup.com/351535/ryzen-ai-9-powered-piston-v-mystery-mini-pc-dual-boots-bazzite-and-windows",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-08-12T04:48:12Z"
+    },
+    {
+      "title": "TSMC approves $29.44 billion capital budget for capacity expansion amid AI demand",
+      "description": "Taiwan Semiconductor Manufacturing Co. (TSMC) approved a capital budget of about USD 29.44 billion for expansion amid the ongoing artificial intelligence boom, according to a news report by Focus Taiwan.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-approves-29-44-billion-capital-budget-for-capacity-expansion-amid-ai-demand/articleshow/133170405.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-12T04:39:59Z"
+    },
+    {
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+      "description": "Executives involved are hailing it as a new asset class, but critics have concerns about using chips as collateral.",
+      "url": "https://biztoc.com/x/f3148a8d3e1291fa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T04:32:45Z"
+    },
+    {
+      "title": "Global Market: Norway sovereign fund reveals stake in Musk’s SpaceX",
+      "description": "Norway’s $2.3 trillion sovereign wealth fund held a 0.05% stake in SpaceX worth $1.22 billion as of June 30, marking its first public disclosure of an investment in the private space company. The fund also holds major stakes in Nvidia, Apple, Alphabet and Mic…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-norway-sovereign-fund-reveals-stake-in-musks-spacex/articleshow/133170032.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-12T04:32:36Z"
+    },
+    {
+      "title": "Bird Flock Hummingbird 2026 by Unluck Software",
+      "description": "An optimized, drag-and-drop bird flock prefabs with landing spots and obstacle avoidance. Features custom baked animations, remastered textures, and high-performance scripts for great frame rates. BIRD FLOCK HUMMINGBIRD 2026—————————————————————————————An e…",
+      "url": "https://assetstore.unity.com/packages/3d/characters/animals/birds/bird-flock-hummingbird-2026-398508",
+      "source": "Unity.com",
+      "publishedAt": "2026-08-12T04:26:27Z"
+    },
+    {
+      "title": "Nvidia, Broadcom diverge on how to scale AI networks beyond the rack",
+      "description": "Nvidia and Broadcom outlined different paths for scaling AI networks at the OCP APAC Summit in Taipei on Aug. 11, as clusters expand from rack-scale systems to entire data centers and across multiple sites.",
+      "url": "https://www.digitimes.com/news/a20260812VL216/nvidia-broadcom-ethernet-cpo-ocp-taipei.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T04:25:15Z"
+    },
+    {
+      "title": "Norway wealth fund holds $1.2 bln stake in SpaceX",
+      "description": "It held a ​1.28% stake worth $62 billion in Nvidia, a 1.24% stake worth $52 billion in Apple, a 1.17% stake worth $50 billion in ​Alphabet, a 1.27% stake worth $35 billion in ⁠Microsoft and a ‌1.7% stake worth $34 billion in Taiwan Semiconductor ​Manufacturin…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/norway-wealth-fund-holds-1-2-bln-stake-in-spacex/articleshow/133169605.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-12T04:09:23Z"
+    },
+    {
+      "title": "DB HiTek profit jumps 43% as TSMC, Samsung scale back 8-inch capacity",
+      "description": "DB HiTek posted a 43% jump in second-quarter operating profit as tighter 8-inch foundry supply and stronger power semiconductor demand kept its fabs running near full capacity, with industry reports saying the company plans another round of price increases in…",
+      "url": "https://www.digitimes.com/news/a20260812VL212/capacity-tsmc-samsung-demand-operating-profit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-12T04:08:21Z"
+    },
+    {
+      "title": "Nvidia’s half-trillion-dollar AI investment fund could impact enterprise chip pricing, availability",
+      "description": "The partnership with a half-dozen major finance firms wants to make AI chip financing easier, but its impact for enterprise IT operations is tricky to predict.",
+      "url": "https://www.networkworld.com/article/4208360/nvidias-half-trillion-dollar-ai-investment-fund-could-impact-enterprise-chip-pricing-availability.html",
+      "source": "Network World",
+      "publishedAt": "2026-08-12T04:07:33Z"
+    },
+    {
+      "title": "SOXX vs. FTEC: Should Investors Choose Semiconductor Stocks or Tech Sector Diversification?",
+      "description": "The iShares Semiconductor ETF (NASDAQ:SOXX) and the Fidelity MSCI Information Technology Index ETF (NYSEMKT:FTEC) both target the technology sector, but their underlying mechanics differ.\nWhile one focuses exclusively on the critical hardware that powers mode…",
+      "url": "https://biztoc.com/x/be683f896ace1b03",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T04:04:20Z"
+    },
+    {
+      "title": "Nvidia Underscores Support for Open-Source AI, a Boon for Hardware Spending",
+      "description": "Nvidia Underscores Support for Open-Source AI, a Boon for Hardware Spending\nBack in March, CEO Jensen Huang spent Nvidia’s developers conference saying its chips are the perfect infrastructure for open source tools.\nSign up for smart news, insights, and analy…",
+      "url": "https://biztoc.com/x/1afc12388850a90d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T04:02:10Z"
+    },
+    {
+      "title": "Intelligent Supply Chain Infrastructure Trust reports consolidated net profit of Rs 2.49 crore in the June 2026 quarter",
+      "description": "Sales rise 0.09% to Rs 344.91 crore",
+      "url": "https://www.business-standard.com/markets/capital-market-news/intelligent-supply-chain-infrastructure-trust-reports-consolidated-net-profit-of-rs-2-49-crore-in-the-june-2026-quarter-126081200320_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-12T04:00:59Z"
+    },
+    {
+      "title": "Google Pixel Watch 5",
+      "description": "The Google Pixel Watch 5 keeps the familiar rounded design of its predecessor but puts most of the upgrades underneath. Available in 41mm and 45mm sizes, it uses Google’s 3,000-nit Actua 360 domed display and an aerospace-grade aluminium case, with new finish…",
+      "url": "https://www.blessthisstuff.com/stuff/wear/watches/google-pixel-watch-5",
+      "source": "Blessthisstuff.com",
+      "publishedAt": "2026-08-12T04:00:00Z"
+    },
+    {
+      "title": "Insta360 X6 Action Camera",
+      "description": "The Insta360 X6 pushes 360-degree action cameras into more serious imaging territory with dual 1/1.1-inch sensors developed with Sony and a new triple-chip processing system. It can capture 8K 360 video at up to 50fps, giving users more freedom to reframe foo…",
+      "url": "https://www.blessthisstuff.com/stuff/technology/digital-camcorders/insta360-x6-action-camera",
+      "source": "Blessthisstuff.com",
+      "publishedAt": "2026-08-12T04:00:00Z"
+    },
+    {
+      "title": "Global Market: Kospi extends winning streak as AI optimism lifts chip stocks",
+      "description": "South Korean shares rose for a third straight session, with the Kospi gaining 3.46% as chipmakers rallied on optimism over strong AI infrastructure demand. Samsung Electronics jumped 6.16% and SK Hynix 3.86%. Foreign investors bought Korean equities worth 899…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-extends-winning-streak-as-ai-optimism-lifts-chip-stocks/articleshow/133169264.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-12T03:54:15Z"
+    },
+    {
+      "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
+      "description": "Hello and welcome to Eye on AI. Beatrice Nolan here, filling in for Jeremy. In this edition:\n- AI-generated content might soon get easier to spot.\n- OpenAI’s Brad Lightcap is leaving\n- Nvidia and Wall Street’s biggest names team up on a $500 billion AI financ…",
+      "url": "https://biztoc.com/x/cbcb93a7fbca00d5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-12T03:47:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Foxconn posts quarterly profit surge on AI server demand",
+      "NVIDIA Nemotron 3.5 Lightning Delivers 4X AI Throughput",
+      "iPhone Ultra Fold Leaks: 7.8-Inch Folding Screen, A20 Chip, and No Face ID",
+      "OCP APAC 2026: Nvidia SVP Shainer on taking CPO to mass production: 'cannot release something just because it's cool'",
+      "Woot MSI Gaming Laptops Sale for From $770 + free shipping w/ Prime"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/nemotron-3-5-lightning-model",
+        "https://www.digitimes.com/news/a20260812VL220/nvidia-cpo-packaging-copper-ocp.html",
+        "https://www.digitimes.com/news/a20260812VL221/nvidia-openai-sales-competition.html"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/technology/foxconn-posts-quarterly-profit-surge-on-ai-server-demand/articleshow/133174561.cms",
+        "https://www.geeky-gadgets.com/rumored-foldable-iphone-ultra-2",
+        "https://www.digitimes.com/news/a20260812VL209/intel-israel-fab-expansion-2026.html"
+      ]
+    },
+    {
+      "title": "Demand",
+      "summary": "Grouped stories where \"demand\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/57f2eadf1bc71be1",
+        "https://www.digitimes.com/news/a20260812VL205/sk-hynix-nand-expansion-dalian-ymtc.html",
+        "https://economictimes.indiatimes.com/tech/technology/tsmc-approves-29-44-billion-capital-budget-for-capacity-expansion-amid-ai-demand/articleshow/133170405.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.dealnews.com/Woot-MSI-Gaming-Laptops-Sale-for-From-770-free-shipping-w-Prime/22011854.html",
+        "https://www.tecmint.com/rio-terminal-emulator-for-linux",
+        "https://www.dealnews.com/Snack-Candy-Favorites-at-Woot-for-From-2-free-shipping-w-Prime/22011851.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Foxconn posts quarterly profit surge on AI server demand. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Foxconn posts quarterly profit surge on AI server demand. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Foxconn posts quarterly profit surge on AI server demand. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Foxconn posts quarterly profit surge on AI server demand. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Foxconn posts quarterly profit surge on AI server demand. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
