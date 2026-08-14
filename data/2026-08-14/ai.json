@@ -1,0 +1,312 @@
+{
+  "theme": "ai",
+  "date": "2026-08-14",
+  "last_updated_utc": "2026-08-14T07:16:35.912Z",
+  "news": [
+    {
+      "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "description": "Decart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with the matter. Anthrop…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T03:39:11Z"
+    },
+    {
+      "title": "Explaining Anthropic’s New Watermarking Of Claude AI-Generated Outputs And What It Signifies For Society",
+      "description": "Anthropic announced they are turning on watermarking for their Claude AI-generated outputs. This is significant. An AI Insider analysis and scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society",
+      "source": "Forbes",
+      "publishedAt": "2026-08-13T07:15:00Z"
+    },
+    {
+      "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+      "description": "Nvidia (NASDAQ: NVDA) continues to be a dominant force in the artificial intelligence (AI) boom, thanks largely to its industry-leading graphics processing units (GPUs). But another type of technology is becoming increasingly important to the company's growth…",
+      "url": "https://biztoc.com/x/40710ee313a1bfee",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T07:07:38Z"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "description": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated.\nAnthropic rolled out this new policy to satisfy the EU AI Act’s Transparency Code, which now require…",
+      "url": "https://biztoc.com/x/acba5e06429d4160",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T07:05:39Z"
+    },
+    {
+      "title": "Amazon is using Twitch to train generative AI",
+      "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo",
+      "source": "BBC News",
+      "publishedAt": "2026-08-13T07:04:31Z"
+    },
+    {
+      "title": "L&T secures mega order to build India’s largest NVIDIA B300 AI Factory",
+      "description": "Larsen & Toubro will build India's largest single-cluster artificial intelligence infrastructure facility. This project marks the company's entry into the AI Factory business. The facility will house ten thousand NVIDIA B300 GPUs for AI workloads. It will com…",
+      "url": "https://economictimes.indiatimes.com/news/india/lt-secures-mega-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133202427.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T06:36:08Z"
+    },
+    {
+      "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ",
+      "description": "EUで施行される法律に基づき、AnthropicはAIが生成するコンテンツに「透かし(ウォーターマーク)」を入れることを決定しました。この決定に、一部のAIユーザーが反発しています。Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes | TechCrunchhttps://techcrunch.com/2026/08/12/some-claude-user…",
+      "url": "https://news.livedoor.com/article/detail/32057171",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-13T06:00:00Z"
+    },
+    {
+      "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
+      "description": "SpaceXAIは2026年8月12日にAIモデル「Grok 4.6」を発表しました。Grok 4.5をベースに同じ価格で大幅な改善を示しており、長時間実行されるAIエージェントの作業や、より高度なインタラクティブなビジュアル処理に重点を置いています。Introducing Grok 4.6 | SpaceXAIhttps://x.ai/news/grok-4-6Introducing Grok 4.6.It delivers frontier intelligence and is a significant …",
+      "url": "https://news.livedoor.com/article/detail/32056560",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-13T04:33:00Z"
+    },
+    {
+      "title": "AI Data Center Boom Is ‘Maxing Out’ P&C Insurers, AIG CEO Says",
+      "description": "American International Group Inc. Chief Executive Officer Eric Andersen said that while the artificial intelligence buildout presents a “great opportunity” for the insurance industry, it’s also pushing property and casualty providers to their limits. AI data …",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/13/881302.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-08-13T04:08:52Z"
+    },
+    {
+      "title": "DeepSeek forms team to challenge Anthropic’s Claude Code with new AI agents",
+      "description": "DeepSeek's strategic expansion into AI agents could intensify market competition, challenging existing leaders and reshaping industry dynamics.\nThe post DeepSeek forms team to challenge Anthropic’s Claude Code with new AI agents appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/deepseek-forms-team-to-challenge-anthropics-claude-code-with-new-ai-agents",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-13T04:03:44Z"
+    },
+    {
+      "title": "Nvidia seeks to ease credit risk concerns over US$500B AI financing plan",
+      "description": "Nvidia CEO Jensen Huang has sought to reassure investors over the chipmaker's exposure to a newly announced initiative designed to mobilize more than US$500 billion in third-party capital for artificial intelligence infrastructure.",
+      "url": "https://www.digitimes.com/news/a20260812VL226/nvidia-financing-ceo-jensen-huang-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T02:45:05Z"
+    },
+    {
+      "title": "OpenAI ad service can bill customers for up to one day after they pause campaigns",
+      "description": "ChatGPT Ads, I wish I knew how to quit you",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184948700",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-13T07:12:05Z"
+    },
+    {
+      "title": "Alphabet's DeepMind shake-up caps months of AI stumbles",
+      "description": "Alphabet's decision to shift day-to-day control of Google DeepMind from Demis Hassabis to his deputy, Koray Kavukcuoglu, was not sudden—it capped a difficult year in which Google lost ground to rivals in the AI race, Reuters reported, citing people familiar w…",
+      "url": "https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T06:59:56Z"
+    },
+    {
+      "title": "MakerSkills: Add AI Agent Skills to Claude Code on Linux",
+      "description": "The post MakerSkills: Add AI Agent Skills to Claude Code on Linux first appeared on Tecmint: Linux Howtos, Tutorials & Guides .makerskills is an open-source pack of AI agent skills for Claude Code. This walkthrough covers how to install it on\nThe post MakerSk…",
+      "url": "https://www.tecmint.com/makerskills-claude-code-linux",
+      "source": "Tecmint.com",
+      "publishedAt": "2026-08-13T06:55:52Z"
+    },
+    {
+      "title": "Visual Studio Code 1.133 brings flexibility to Claude sessions",
+      "description": "VS Code model picker now allows users to switch between Anthropic and Copilot providers between turns reconfiguring the agent host.",
+      "url": "https://www.infoworld.com/article/4208799/visual-studio-code-1-133-brings-flexibility-to-claude-sessions.html",
+      "source": "InfoWorld",
+      "publishedAt": "2026-08-13T06:39:42Z"
+    },
+    {
+      "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+      "description": "Larsen and Toubro on Thursday said it secured an order to build an AI factory for Nvidia.\nThe order is in the range of 100 billion rupees to 150 billion rupees (($1.05 billion - $1.57 billion), the company said.\n($1 = 95.3600 Indian rupees)\n(Reporting by Mrid…",
+      "url": "https://biztoc.com/x/e297492981b12cfc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T06:38:09Z"
+    },
+    {
+      "title": "NVIDIA Ditches AC Power For 800 VDC AI Factories To Scale Up Compute, Backed By Microsoft, Google and 80 Ecosystem Firms For 2H 2026",
+      "description": "NVIDIA is spearheading the race to roll out its first 800 VDC platforms with the backing of Google & Microsoft in the second half of this year. NVIDIA's 800 VDC AI Factories Break Past The \"Power Wall\", Unleashing Scaled-Up Compute Performance By Effectively …",
+      "url": "https://wccftech.com/nvidia-800-vdc-platforms-break-past-traditional-power-distros-to-scale-up-performance",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-13T06:25:10Z"
+    },
+    {
+      "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+      "description": "Aug 13 : Larsen and Toubro on Thursday said it secured an order to build an AI factory for Nvidia.The order is in the range of 100 billion rupees to 150 billion rupees (($1.05 billion - $1.57 billion), the company said.($1 = 95.3600 Indian rupees)",
+      "url": "https://www.channelnewsasia.com/business/indias-larsen-and-toubro-secures-order-build-ai-factory-nvidia-6316756",
+      "source": "CNA",
+      "publishedAt": "2026-08-13T06:19:14Z"
+    },
+    {
+      "title": "L&T bags mega ₹10,000-15,000 crore order to build India’s largest NVIDIA B300 AI factory",
+      "description": "Larsen & Toubro will build India's largest AI infrastructure for Together AI. This mega order involves deploying ten thousand NVIDIA B300 GPUs in Chennai. The project marks L&T's significant entry into the AI Factory business sector. This facility will suppor…",
+      "url": "https://economictimes.indiatimes.com/news/india/lt-bags-mega-10000-15000-crore-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133200156.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T06:13:45Z"
+    },
+    {
+      "title": "Worth Reading: LLM Prompts for Network Engineers",
+      "description": "Tony Mattke put together a long list of recommendations that might help you get more out of your LLM tokens.\nDefinitely worth reading instead of yelling at the stupid AI.",
+      "url": "https://blog.ipspace.net/2026/08/worth-reading-llm-prompts-for-network-engineers",
+      "source": "Ipspace.net",
+      "publishedAt": "2026-08-13T06:07:00Z"
+    },
+    {
+      "title": "Nvidia Stock Loses $130 Billion in Market Value as AI Selloff Deepens",
+      "description": "Nvidia Corp. lost approximately $130 billion in market value in a single trading session as a selloff in artificial-intelligence-related equities deepened, according to financial reports. Nvidia shares closed sharply lower on the Nasdaq exchange, with the dec…",
+      "url": "https://www.naturalnews.com/2026-08-13-nvidia-stock-loses-market-value-ai-selloff.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-13T06:00:00Z"
+    },
+    {
+      "title": "Anthropic investors bet on $2tn valuation in record IPO",
+      "description": "Rapid revenue growth fuels hope that the Claude-maker can overcome challenges to become the biggest listing in history",
+      "url": "https://biztoc.com/x/8dc1cdd0ce4c8f54",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T05:50:29Z"
+    },
+    {
+      "title": "OpenAI-Hugging Face incident raises AI liability concerns",
+      "description": "AI agents create new liability risks for enterprises. CIOs must understand vendor contracts, insurance and governance practices before deploying autonomous systems.",
+      "url": "https://www.techtarget.com/it-strategy/feature/OpenAI-Hugging-Face-incident-raises-AI-liability-concerns",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-08-13T04:43:00Z"
+    },
+    {
+      "title": "Saber CEO Denies Replacing Rideshare Writer With ChatGPT But Says ‘I Would Frankly In Retrospect Have Been Happy To Replace Her With AI’",
+      "description": "Matt Karch said a missing Steam disclosure will be added eventually",
+      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-13T04:42:19Z"
+    },
+    {
+      "title": "Gemini Intelligence brings proactive assistance to Pixel 11, Watch 5, Buds",
+      "description": "Google's Pixel 11 ecosystem brings Gemini deeper into phones, watches and earbuds, building on AI features first previewed at Google I/O 2026 while adding new camera, health and translation tools",
+      "url": "https://www.business-standard.com/technology/tech-news/google-pixel-11-gemini-intelligence-watch-5-buds-made-by-google-2026-126081300397_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-13T04:20:11Z"
+    },
+    {
+      "title": "Commentary: Shut out of Nvidia and AMD, Compal charts a different path to AI servers",
+      "description": "Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has now moved into the middle tier and wants to keep closing the gap with the leaders. However, opportunities to break into Nvidia and AMD's supply chains remain di…",
+      "url": "https://www.digitimes.com/news/a20260812PD237/compal-nvidia-amd-chairman-ray-chen.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:30:00Z"
+    },
+    {
+      "title": "Anthropic in talks to acquire Decart for $6B to boost AI efficiency",
+      "description": "Anthropic's potential acquisition of Decart could significantly enhance its AI capabilities, potentially boosting its market valuation.\nThe post Anthropic in talks to acquire Decart for $6B to boost AI efficiency appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-in-talks-to-acquire-decart-for-6b-to-boost-ai-efficiency",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-13T02:42:14Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "Explaining Anthropic’s New Watermarking Of Claude AI-Generated Outputs And What It Signifies For Society",
+      "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+      "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "Amazon is using Twitch to train generative AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/40710ee313a1bfee",
+        "https://economictimes.indiatimes.com/news/india/lt-secures-mega-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133202427.cms",
+        "https://www.digitimes.com/news/a20260812VL226/nvidia-financing-ceo-jensen-huang-revenue.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+        "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society",
+        "https://biztoc.com/x/acba5e06429d4160"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/32056560",
+        "https://www.insurancejournal.com/news/national/2026/08/13/881302.htm",
+        "https://www.business-standard.com/technology/tech-news/google-pixel-11-gemini-intelligence-watch-5-buds-made-by-google-2026-126081300397_1.html"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tecmint.com/makerskills-claude-code-linux"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184948700",
+        "https://www.digitimes.com/news/a20260813VL203/alphabet-deepmind-google-gemini-anthropic.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic in talks to buy startup Decart AI for $6 billion. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic in talks to buy startup Decart AI for $6 billion. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic in talks to buy startup Decart AI for $6 billion. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic in talks to buy startup Decart AI for $6 billion. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic in talks to buy startup Decart AI for $6 billion. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

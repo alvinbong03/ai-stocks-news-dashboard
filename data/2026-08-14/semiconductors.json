@@ -1,0 +1,433 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-14",
+  "last_updated_utc": "2026-08-14T07:16:53.410Z",
+  "news": [
+    {
+      "title": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+      "description": "Nvidia (NASDAQ: NVDA) continues to be a dominant force in the artificial intelligence (AI) boom, thanks largely to its industry-leading graphics processing units (GPUs). But another type of technology is becoming increasingly important to the company's growth…",
+      "url": "https://biztoc.com/x/40710ee313a1bfee",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T07:07:38Z"
+    },
+    {
+      "title": "Pegatron stocks AI server parts early as shortages spread through supply chain",
+      "description": "Pegatron Corp. said in its second-quarter 2026 results that its server business posted strong gains and that it had already begun preparing for demand in the second half of 2026 while building inventory for the first half of 2027. The Taiwan-based electronics…",
+      "url": "https://www.digitimes.com/news/a20260813PD201/pegatron-ai-server-supply-chain-demand-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:05:09Z"
+    },
+    {
+      "title": "Samsung delays High-NA EUV adoption until 1nm production in 2030",
+      "description": "Samsung Electronics plans to introduce high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into mass production at its 1nm node around 2030, according to South Korean media reports. The move signals that the foundry giant is continuing work …",
+      "url": "https://www.digitimes.com/news/a20260813PD213/samsung-high-na-euv-production-1nm-2030.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:04:51Z"
+    },
+    {
+      "title": "LandMark Optoelectronics posts surge in profit on silicon photonics demand",
+      "description": "LandMark Optoelectronics Corp. reported a sharp jump in revenue, margins, and profit in the second quarter of 2026, driven by strong demand for silicon photonics products and higher shipment volumes. The optical communications epitaxial wafer maker also said …",
+      "url": "https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:04:32Z"
+    },
+    {
+      "title": "SK Hynix expands EUV roadmap with High-NA tools and PSM adoption",
+      "description": "SK hynix said it is advancing its use of extreme ultraviolet (EUV) lithography for the mass production of next-generation DRAM, with high-numerical-aperture (High-NA) EUV equipment introduced in the second half of 2025 and related research and development beg…",
+      "url": "https://www.digitimes.com/news/a20260813PD214/euv-sk-hynix-high-na-high-na-euv-dram.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:03:56Z"
+    },
+    {
+      "title": "Foxconn broadens beyond AI servers with EVs, robotics and Japan chip fab above 90% utilisation",
+      "description": "Foxconn used its second-quarter 2026 earnings conference on August 12 to detail progress beyond its fast-growing AI server business, spanning cloud and data centre solutions, electric vehicles, robotics, semiconductors, satellite communications and AI platfor…",
+      "url": "https://www.digitimes.com/news/a20260812PD246/foxconn-earnings-ev-robotics-fab-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:02:11Z"
+    },
+    {
+      "title": "Samsung SDI-GM battery reset shows how ESS is reshaping the US EV supply chain",
+      "description": "Samsung SDI is ending its battery manufacturing partnership with General Motors (GM) in Indiana, terminating a major EV joint venture — and sending ripples across the supply chain.",
+      "url": "https://www.digitimes.com/news/a20260812VL225/samsung-sdi-supply-chain-samsung-general-motors-joint-venture.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T07:01:32Z"
+    },
+    {
+      "title": "Lenovo India Q1 result: Revenue rises 18% on strong demand for AI solutions",
+      "description": "Lenovo India on Thursday reported an 18 per cent year-on-year growth in revenue for the first quarter ended June 30, 2026, driven by strong demand for artificial intelligence (AI) integrated solutions.\nThe company, however, did not disclose the specific reven…",
+      "url": "https://www.business-standard.com/companies/quarterly-results/lenovo-india-q1-result-revenue-rises-18-on-strong-demand-for-ai-solutions-126081300767_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-13T07:01:05Z"
+    },
+    {
+      "title": "Google Pixel 11 Pro Fold Malaysia: Thinner, lighter foldable with Tensor G6, priced from RM7,999",
+      "description": "Google has also refreshed its foldable smartphone lineup with the Pixel 11 Pro Fold and it is officially coming to Malaysia alongside the rest of the Pixel 11 series next week. The new bookstyle foldable Made by Google gets a thinner and lighter design, impro…",
+      "url": "https://soyacincau.com/2026/08/13/google-pixel-11-pro-fold-malaysia-price-specs",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-08-13T06:57:37Z"
+    },
+    {
+      "title": "PC 2H26 pull-forward correction hits peripheral chip makers",
+      "description": "As 2026 enters its second half, the PC market is facing pressure from both demand and supply. Rising memory and CPU prices are pushing up system prices and weighing on end-market demand, while AI data centers are crowding out memory capacity and reducing allo…",
+      "url": "https://www.digitimes.com/news/a20260811PD241/pc-2026-demand-market-shipments.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T06:55:00Z"
+    },
+    {
+      "title": "LX Semicon starts mass producing automotive MCU for Hyundai Motor, Kia",
+      "description": "LX Semicon has begun mass production of an automotive microcontroller unit (MCU) and started supplying the chip to Hyundai Motor and Kia, marking the first time the two automakers will use a South Korean-made MCU in vehicles. The move also marks LX Semicon's …",
+      "url": "https://www.digitimes.com/news/a20260811PD249/lx-semicon-hyundai-kia-automotive-mcu-mcu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T06:40:00Z"
+    },
+    {
+      "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+      "description": "Larsen and Toubro on Thursday said it secured an order to build an AI factory for Nvidia.\nThe order is in the range of 100 billion rupees to 150 billion rupees (($1.05 billion - $1.57 billion), the company said.\n($1 = 95.3600 Indian rupees)\n(Reporting by Mrid…",
+      "url": "https://biztoc.com/x/e297492981b12cfc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T06:38:09Z"
+    },
+    {
+      "title": "L&T secures mega order to build India’s largest NVIDIA B300 AI Factory",
+      "description": "Larsen & Toubro will build India's largest single-cluster artificial intelligence infrastructure facility. This project marks the company's entry into the AI Factory business. The facility will house ten thousand NVIDIA B300 GPUs for AI workloads. It will com…",
+      "url": "https://economictimes.indiatimes.com/news/india/lt-secures-mega-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133202427.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T06:36:08Z"
+    },
+    {
+      "title": "Lenovo launches affordable Intel-powered laptop with 14-inch display",
+      "description": "The Lecoo 14 Core Edition with Intel Core i5 13420H is a newly introduced laptop in China. Lenovo has paired it with 16GB of RAM, and the system features a 14-inch display that has a rather boring set of specs. It has an affordable launch price, CNY 3,999, ar…",
+      "url": "https://www.notebookcheck.net/Lenovo-launches-affordable-Intel-powered-laptop-with-14-inch-display.1366601.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-13T06:33:00Z"
+    },
+    {
+      "title": "NVIDIA Ditches AC Power For 800 VDC AI Factories To Scale Up Compute, Backed By Microsoft, Google and 80 Ecosystem Firms For 2H 2026",
+      "description": "NVIDIA is spearheading the race to roll out its first 800 VDC platforms with the backing of Google & Microsoft in the second half of this year. NVIDIA's 800 VDC AI Factories Break Past The \"Power Wall\", Unleashing Scaled-Up Compute Performance By Effectively …",
+      "url": "https://wccftech.com/nvidia-800-vdc-platforms-break-past-traditional-power-distros-to-scale-up-performance",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-13T06:25:10Z"
+    },
+    {
+      "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia",
+      "description": "Aug 13 : Larsen and Toubro on Thursday said it secured an order to build an AI factory for Nvidia.The order is in the range of 100 billion rupees to 150 billion rupees (($1.05 billion - $1.57 billion), the company said.($1 = 95.3600 Indian rupees)",
+      "url": "https://www.channelnewsasia.com/business/indias-larsen-and-toubro-secures-order-build-ai-factory-nvidia-6316756",
+      "source": "CNA",
+      "publishedAt": "2026-08-13T06:19:14Z"
+    },
+    {
+      "title": "L&T bags mega ₹10,000-15,000 crore order to build India’s largest NVIDIA B300 AI factory",
+      "description": "Larsen & Toubro will build India's largest AI infrastructure for Together AI. This mega order involves deploying ten thousand NVIDIA B300 GPUs in Chennai. The project marks L&T's significant entry into the AI Factory business sector. This facility will suppor…",
+      "url": "https://economictimes.indiatimes.com/news/india/lt-bags-mega-10000-15000-crore-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133200156.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T06:13:45Z"
+    },
+    {
+      "title": "Nvidia Stock Loses $130 Billion in Market Value as AI Selloff Deepens",
+      "description": "Nvidia Corp. lost approximately $130 billion in market value in a single trading session as a selloff in artificial-intelligence-related equities deepened, according to financial reports. Nvidia shares closed sharply lower on the Nasdaq exchange, with the dec…",
+      "url": "https://www.naturalnews.com/2026-08-13-nvidia-stock-loses-market-value-ai-selloff.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-13T06:00:00Z"
+    },
+    {
+      "title": "Coldcard: the technical autopsy of an entropy failure | Wizardsardine",
+      "description": "For 1,978 days, Coldcard shipped a regression that cut the real space of some Mk3 seeds down to just 2^22 states, sweepable in under an hour on a single GPU. A walk through the exact code path, the entropy actually available, the seed collision risk, the func…",
+      "url": "https://wizardsardine.com/blog/coldcard-vuln-deep-dive",
+      "source": "Wizardsardine.com",
+      "publishedAt": "2026-08-13T05:47:01Z"
+    },
+    {
+      "title": "Jio Financial gains 3% as JV with BofA seen boosting capital base, growth",
+      "description": "Jio Financial Share Price: The blue-chip stock with a market cap of ₹1.7 trillion has risen 11 per cent in the last three months. However, it is down 13 per cent on a year-to-date basis.",
+      "url": "https://www.business-standard.com/markets/news/jio-financial-gains-3-as-jv-with-bofa-seen-boosting-capital-base-growth-126081300634_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-13T05:29:17Z"
+    },
+    {
+      "title": "Intel CEO Hints Chipzilla’s Return To Making Memory, As He Teases “New Memory Architecture” & 3D Stacking To Tackle The DRAM Wall",
+      "description": "Intel has hinted at a return to the memory segment as CEO Lip-Bu says that memory is no longer a commodity business and holds tremendous innovation potential. Intel Started As A Memory Business & Today's Crisis May Once Again See The Reopening of the DRAM Doo…",
+      "url": "https://wccftech.com/intel-ceo-hints-that-chipzilla-might-return-to-making-memory",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-13T05:15:40Z"
+    },
+    {
+      "title": "Lenovo is reportedly building its own colorful MacBook Neo rival",
+      "description": "Leaked renders obtained by Windows Latest show an unannounced Lenovo laptop called the IdeaPad Vibe, positioned as a rival to Apple's MacBook Neo. The leaked images show the laptop in seven colors and reveal file names pointing to both AMD and Qualcomm Snapdr…",
+      "url": "https://www.notebookcheck.net/Lenovo-is-reportedly-building-its-own-colorful-MacBook-Neo-rival.1366879.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-13T05:10:00Z"
+    },
+    {
+      "title": "Costco brings back fan-favorite Kirkland treat after two-year absence",
+      "description": "A fan-favorite Costco baking staple is returning to warehouse shelves after a two-year hiatus, drawing celebrations from shoppers who had been waiting for its comeback.\nCostco has brought back its Kirkland Signature Semi-Sweet Chocolate Chips after removing t…",
+      "url": "https://biztoc.com/x/3c97887627dac399",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T05:05:13Z"
+    },
+    {
+      "title": "South Korea's Kospi swings from bear to bull market in just a month. Is AI trade regaining strength?",
+      "description": "South Korea’s KOSPI has swung from bear to bull market in just a month, surging over 31% from its July low. A sharp rebound in Samsung Electronics and SK Hynix has driven the rally, reviving optimism around AI-linked chip stocks. Analysts see scope for furthe…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-swings-from-bear-to-bull-market-in-just-a-month-is-ai-trade-regaining-strength/articleshow/133198231.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T05:03:34Z"
+    },
+    {
+      "title": "WCH CH32V407/467 RISC-V MCU integrates Fast Ethernet MAC + PHY, 480 Mbps USB 2.0 PHY, up to 8 MB on-chip PSRAM",
+      "description": "WCH CH32V407 and CH32V467 are new 200 MHz RISC-V microcontrollers with a built-in 10/100 Mbps Ethernet MAC + PHY, a USB 2.0 high-speed (480 Mbps) host PHY, up to 8 MB on-chip PSRAM, and a range of peripherals for industrial IoT & edge AI applications. Both ar…",
+      "url": "https://www.cnx-software.com/2026/08/13/wch-ch32v407-467-risc-v-mcu-integrates-fast-ethernet-mac-phy-480-mbps-usb-2-0-phy-up-to-8-mb-on-chip-psram",
+      "source": "CNX Software",
+      "publishedAt": "2026-08-13T04:38:58Z"
+    },
+    {
+      "title": "China's Lenovo posts 43% jump in Q1 revenue",
+      "description": "BANGALORE/BEIJING, Aug 13 (Reuters) - China's Lenovo Group reported a 43% jump in quarterly revenue on Thursday, as the world's largest computer maker rides an AI hardware boom and reaps the benefits of a global memory chip shortage.\nLenovo's revenue rose to …",
+      "url": "https://biztoc.com/x/94d9470e39997f71",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T04:36:59Z"
+    },
+    {
+      "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
+      "description": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors pile back into the country's semiconductor giants that dominate the index.\nThe benchmark has climbed more than 20% from its July low, the commonly …",
+      "url": "https://biztoc.com/x/dcaa2ac759de1363",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T04:34:58Z"
+    },
+    {
+      "title": "Global Market: Japanese stocks rise as chip rally lifts Topix to record high",
+      "description": "Japanese equities gained on Thursday, with the Topix hitting a record high and extending its seven-session winning streak. The Nikkei rose 1.6%, led by semiconductor stocks tracking US peers. Strong corporate earnings outlooks also supported sentiment, while …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-stocks-rise-as-chip-rally-lifts-topix-to-record-high/articleshow/133197670.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T04:22:40Z"
+    },
+    {
+      "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
+      "description": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
+      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-13T04:22:36Z"
+    },
+    {
+      "title": "Intel signals memory push after hiring former SK Hynix CEO",
+      "description": "Intel is signaling a broader push into next-generation memory technologies, with CEO Lip-Bu Tan revealing that the company is exploring new memory architectures after hiring former SK Hynix CEO Seok-Hee Lee.",
+      "url": "https://www.digitimes.com/news/a20260813PD237/intel-ceo-sk-hynix-technology-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T04:15:20Z"
+    },
+    {
+      "title": "China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives",
+      "description": "For years, Elon Musk has dreamed of conquering a range of chronic health conditions by inserting computer chips into the human brain. But that vision could become reality fastest in China, where state authorities are launching a coordinated effort to accelera…",
+      "url": "https://biztoc.com/x/9d9f55c08972687f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T04:04:40Z"
+    },
+    {
+      "title": "Inside Intel: how America’s chip champion came back from the brink",
+      "description": "The group’s shares have quadrupled, but it has yet to prove itself a serious manufacturing competitor to Taiwan’s TSMC",
+      "url": "https://www.irishtimes.com/business/2026/08/13/inside-intel-how-americas-chip-champion-came-back-from-the-brink",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-13T04:03:00Z"
+    },
+    {
+      "title": "Asian shares mostly rise after AI leads rally on Wall Street",
+      "description": "Asian shares mostly rose in early Thursday trading, as global market optimism continued on prospects for AI stocks and the semiconductor sector.\nJapan's benchmark Nikkei 225 jumped 1.6% in early trading to 68,609.92. Australia's S&P/ASX 200 slipped 0.6% to 9,…",
+      "url": "https://biztoc.com/x/95a0cca00827f1df",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T03:51:32Z"
+    },
+    {
+      "title": "Hanmi pulls ahead of Hanwha as HBM4 orders rebound",
+      "description": "South Korea's Hanmi Semiconductor is pulling ahead of rival Hanwha Semitech in thermal compression (TC) bonders for high-bandwidth memory (HBM), as HBM4 equipment orders rebound and Hanmi's growing business with Micron helps reduce its reliance on SK Hynix, a…",
+      "url": "https://www.digitimes.com/news/a20260813VL208/hbm4-hanwha-hanmi-sk-hynix-equipment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:51:21Z"
+    },
+    {
+      "title": "India's state of Odisha sweetens chips, renewable energy incentives to court ISM projects",
+      "description": "Odisha's state cabinet has approved a third amendment to its Semiconductor Manufacturing and Fabless Policy, adding fresh capital support to attract projects backed by India's national chip-making push, according to state officials cited by regional outlets o…",
+      "url": "https://www.digitimes.com/news/a20260813VL207/policy-incentives-manufacturing-india-semiconductor-mission.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:45:00Z"
+    },
+    {
+      "title": "Q1 Results Today Live: TMPV, Page Industries, Solar Ind, LG Electronics, Max Healthcare, GIC, Godrej, Jubilant Foodworks, Amber Enterprises, Indraprastha Gas, Brigade, JSW Cement, Honasa Consumer to announce Q1 results, Tata Motors, HAL, Apollo Hospitals, Grasim, IRCTC, Va Tech shares in focus",
+      "description": "Q1 Results Today, 13th August 2026 Live Updates: Find all the latest Q1 results 2026 updates of First Custodian Fund India, Twentyfirst Century Management Services, 3B BlackBio Dx, Aartech Solonics, Aayush Wellness, Abate As Industries, ABC India, Abhishek In…",
+      "url": "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-13T03:43:06Z"
+    },
+    {
+      "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "description": "Decart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with the matter. Anthrop…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T03:39:11Z"
+    },
+    {
+      "title": "Lightmatter white paper targets fragmented supply chain, barriers to photonic interconnect deployment",
+      "description": "Bijan Nowroozi, Head of Ecosystem Development at Lightmatter, announced at the OCP APAC Summit 2026 that the company has released an infrastructure white paper aimed at building a more unified, less fragmented supply chain for photonic interconnects.",
+      "url": "https://www.digitimes.com/news/a20260813PD223/photonics-data-infrastructure-supply-chain-transmission-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:38:07Z"
+    },
+    {
+      "title": "Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds",
+      "description": "Key Points\n- Cirrus Logic sees growth beyond audio through high-performance mixed-signal products, including additional smartphone content, a 3D-sensing power IC and a fourth-generation camera controller. \n- Supply-chain pressures, OSAT capacity constraints a…",
+      "url": "https://biztoc.com/x/2d88bb58c0a027c4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T03:36:46Z"
+    },
+    {
+      "title": "Siemens EDA unveils AI-Native Design strategy in South Korea",
+      "description": "Siemens EDA has introduced an AI-Native Design strategy in Seoul, aiming to help chipmakers and system designers manage rising complexity while reducing the risk of AI errors. The move could shape how semiconductor tools evolve worldwide, as companies seek fa…",
+      "url": "https://www.digitimes.com/news/a20260813PD218/siemens-eda-ic-design-chipmakers-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:32:16Z"
+    },
+    {
+      "title": "Commentary: Shut out of Nvidia and AMD, Compal charts a different path to AI servers",
+      "description": "Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has now moved into the middle tier and wants to keep closing the gap with the leaders. However, opportunities to break into Nvidia and AMD's supply chains remain di…",
+      "url": "https://www.digitimes.com/news/a20260812PD237/compal-nvidia-amd-chairman-ray-chen.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:30:00Z"
+    },
+    {
+      "title": "Synopsys pushes into system design as Nvidia, AMD and Broadcom move up the stack",
+      "description": "Nvidia, AMD and Broadcom are moving beyond chip-level design into subsystems and complete systems, a shift that is increasing the need to account for thermal, electrical, mechanical and other physical effects earlier in the design process, according to Synops…",
+      "url": "https://www.digitimes.com/news/a20260813PD226/synopsys-design-nvidia-amd-broadcom.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:23:41Z"
+    },
+    {
+      "title": "NXP expands Malaysia factory to bolster global chip supply resilience",
+      "description": "NXP Semiconductors has begun expanding its Petaling Jaya assembly and test site in Malaysia, a move that could support semiconductor supply chains worldwide by adding capacity, automation, and geographic diversification. The project is part of a broader effor…",
+      "url": "https://www.digitimes.com/news/a20260813PR201/nxp-manufacturing-production-capacity-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-13T03:20:00Z"
+    },
+    {
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+      "description": "BEIJING — Yangtze Memory Technologies is rapidly gaining market share in a critical chip sector, according to Counterpoint Research.\nThe company, also known as YMTC, landed in third place by shipments globally in the second quarter, behind South Korea's Samsu…",
+      "url": "https://biztoc.com/x/dd49ceb667a51a75",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-13T03:03:47Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+      "Pegatron stocks AI server parts early as shortages spread through supply chain",
+      "Samsung delays High-NA EUV adoption until 1nm production in 2030",
+      "LandMark Optoelectronics posts surge in profit on silicon photonics demand",
+      "SK Hynix expands EUV roadmap with High-NA tools and PSM adoption"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260812PD246/foxconn-earnings-ev-robotics-fab-2026.html",
+        "https://www.digitimes.com/news/a20260811PD241/pc-2026-demand-market-shipments.html",
+        "https://www.digitimes.com/news/a20260811PD249/lx-semicon-hyundai-kia-automotive-mcu-mcu.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/40710ee313a1bfee",
+        "https://biztoc.com/x/e297492981b12cfc",
+        "https://economictimes.indiatimes.com/news/india/lt-secures-mega-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133202427.cms"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/companies/quarterly-results/lenovo-india-q1-result-revenue-rises-18-on-strong-demand-for-ai-solutions-126081300767_1.html",
+        "https://www.digitimes.com/news/a20260813PD237/intel-ceo-sk-hynix-technology-packaging.html",
+        "https://www.digitimes.com/news/a20260813PD223/photonics-data-infrastructure-supply-chain-transmission-2026.html"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260813PD201/pegatron-ai-server-supply-chain-demand-2026.html",
+        "https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html",
+        "https://www.thehindubusinessline.com/markets/q1-results-today-live-updates-solar-ind-tmpv-lg-electronics-max-healthcare-gic-godrej-ind-jubilant-foodworks-amber-enterprises-brigade-jsw-cement-honasa-consumer-tmcv-hal-results-13-august-2026/article71335955.ece"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260813PD213/samsung-high-na-euv-production-1nm-2030.html",
+        "https://www.digitimes.com/news/a20260813PD214/euv-sk-hynix-high-na-high-na-euv-dram.html",
+        "https://www.digitimes.com/news/a20260812VL225/samsung-sdi-supply-chain-samsung-general-motors-joint-venture.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
