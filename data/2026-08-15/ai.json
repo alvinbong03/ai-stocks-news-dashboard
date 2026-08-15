@@ -1,0 +1,312 @@
+{
+  "theme": "ai",
+  "date": "2026-08-15",
+  "last_updated_utc": "2026-08-15T06:27:58.693Z",
+  "news": [
+    {
+      "title": "Report: Anthropic could IPO at record $2t valuation",
+      "description": "Adobe Stock\nChatting with Claude may be more thrilling than watching a SpaceX rocket blast off…at least for Wall Street. Anthropic investors expect the AI giant to hit a valuation of $2 trillion or more during its public debut planned for the fall—which would…",
+      "url": "https://biztoc.com/x/de6d26ec91e67144",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-14T05:41:09Z"
+    },
+    {
+      "title": "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
+      "description": "DeepSeek has opened a developer preview of DeepSeek Harness, an open-source agent harness positioned against Anthropic’s Claude Cowork. The project provides a web interface for running AI agents and uses a plugin-based structure for adding capabilities. The p…",
+      "url": "https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers",
+      "source": "TechNode",
+      "publishedAt": "2026-08-14T05:41:03Z"
+    },
+    {
+      "title": "Measuring Local AI Latency Across CPU, GPU, and NPU Hardware",
+      "description": "Measure local AI inference performance across CPU, GPU, and NPU hardware to compare latency, throughput, power efficiency, and hardware acceleration capabilities.",
+      "url": "https://www.c-sharpcorner.com/article/measuring-local-ai-latency-across-cpu-gpu-and-npu-hardware",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-14T04:25:18Z"
+    },
+    {
+      "title": "IBM and OpenAI partner to accelerate secure enterprise AI deployment",
+      "description": "IBM announced on August 13 a strategic partnership with OpenAI to help global enterprises integrate frontier AI models into core operations, application modernization, and cybersecurity frameworks. By combining OpenAI's advanced technologies, including GPT-5.…",
+      "url": "https://www.digitimes.com/news/a20260814PR202/ibm-openai-partnership-cybersecurity-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-14T03:35:44Z"
+    },
+    {
+      "title": "SMIC plans to single out AI chip revenue as demand outpaces its current reporting categories",
+      "description": "Semiconductor Manufacturing International Corporation (SMIC) is considering disclosing revenue from artificial intelligence (AI)-related \"peripheral chips\" as a standalone line item, possibly from the third quarter of 2026 or later, executives said on the com…",
+      "url": "https://www.digitimes.com/news/a20260814VL208/smic-ai-chip-revenue-capacity-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-14T02:05:11Z"
+    },
+    {
+      "title": "Nvidia Raises RTX Pro 6000 Blackwell Price to $16,000, More Than Double Its Launch Price",
+      "description": "Nvidia has increased the price of its RTX Pro 6000 96GB Blackwell workstation GPU to $16,000, up 110% from its $7,600 preorder price.\nThank you for being a Ghacks reader. The post Nvidia Raises RTX Pro 6000 Blackwell Price to $16,000, More Than Double Its Lau…",
+      "url": "https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-08-14T06:20:15Z"
+    },
+    {
+      "title": "Alibaba Cloud cuts AI data center build time to 100 days, triples global modular capacity",
+      "description": "Alibaba Cloud has cut the delivery cycle for large AI data centers to 100 days with its CUBE 5.0 modular architecture, while lowering construction costs by more than 10% and increasing computing density as demand for AI infrastructure accelerates.",
+      "url": "https://www.digitimes.com/news/a20260814VL207/alibaba-cloud-data-capacity-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-14T06:15:40Z"
+    },
+    {
+      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut - VentureBeat",
+      "description": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cutVentureBeat Introducing Gemini 3.7 Flashblog.google Google announces Gemini 3.7 Flash just three weeks after previous releaseArs Technica Google unveils Gemini 3.7 Flash AI m…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184968401",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-14T06:12:35Z"
+    },
+    {
+      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said",
+      "description": "Anthropic said AI agents deliberately interfered with each other's processes when given the same task.\nIllustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images\nAI agents purposely sabotaged each other when given the same task with incompatible g…",
+      "url": "https://biztoc.com/x/d0fea620256532fd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-14T06:12:00Z"
+    },
+    {
+      "title": "AI Data Center Buildout in Rural U.S. Raises Water, Zoning and Regulatory Questions",
+      "description": "U.S. data centers consumed an estimated 183 terawatt-hours (TWh) of electricity in 2024 – equivalent to more than 4% of the country’s total electricity use – and demand is projected to grow 133% by 2030 to 426 TWh, according to a report from the Kansas Health…",
+      "url": "https://www.naturalnews.com/2026-08-14-data-center-buildout-water-zoning-regulatory-questions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-14T06:00:00Z"
+    },
+    {
+      "title": "Re: LLM-powered AI Agents and the Semantic Web Symbiosis Showcase",
+      "description": "",
+      "url": "https://lists.w3.org/Archives/Public/public-lod/2026Aug/0001.html",
+      "source": "W3.org",
+      "publishedAt": "2026-08-14T05:55:52Z"
+    },
+    {
+      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said",
+      "description": "The AI lab said the models engaged in a \"multiagent turf war\" during a testing session.",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-sabotage-each-other-turf-war-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-14T05:54:47Z"
+    },
+    {
+      "title": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel",
+      "description": "CXMT was worth $540.5 billion, just behind Intel at $552.6 billion and ahead of Chinese tech giant Tencent at $505.8 billion.",
+      "url": "https://www.businessinsider.com/cxmt-stock-price-market-cap-intel-tencent-ai-chips-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-14T05:53:40Z"
+    },
+    {
+      "title": "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
+      "description": "'Computer History' records clicks and typing to build ChatGPT memories",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184968193",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-14T05:52:26Z"
+    },
+    {
+      "title": "tanweai/pua: 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.",
+      "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. - tanweai/pua",
+      "url": "https://github.com/tanweai/pua",
+      "source": "Github.com",
+      "publishedAt": "2026-08-14T05:47:01Z"
+    },
+    {
+      "title": "Show HN: Control Claude Code, Codex, Pi and Gemini CLI from Telegram",
+      "description": "A Telegram bot that drives four local coding CLIs — Claude Code, Codex, Pi, and Gemini — from your phone. macOS daemon with per-chat per-agent sessions, a confirm gate for dangerous commands, respo...",
+      "url": "https://github.com/choiyounggi/cliclaw",
+      "source": "Github.com",
+      "publishedAt": "2026-08-14T05:07:01Z"
+    },
+    {
+      "title": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
+      "description": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at AnthropicWSJ The trillion-dollar IPO vibes continueFinancial Times Anthropic’s ‘First Lady’ Took a Winding Road to the TopThe Information Anthropic CFO Krishna Rao is leading early IPO …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184967689",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-14T04:52:34Z"
+    },
+    {
+      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+      "description": "By Saeed Azhar and Milana Vinn\nNEW YORK, Aug 14 (REUTERS) - Goldman Sachs is in talks with potential investors about participating in Nvidia's $500 billion AI financing initiative, after leveraging its long-standing relationship with the chipmaker to secure a…",
+      "url": "https://biztoc.com/x/fc0e9203eb0ea8d2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-14T04:26:08Z"
+    },
+    {
+      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+      "description": "NEW YORK, Aug 14 (REUTERS) - Goldman Sachs is in talks with potential investors about participating in Nvidia's $500 billion AI financing initiative, after leveraging its long-standing relationship with the chipmaker to secure a coveted role in the deal, peop…",
+      "url": "https://www.channelnewsasia.com/business/goldman-in-talks-investors-nvidia-financing-deal-after-landing-prized-role-sources-say-6319041",
+      "source": "CNA",
+      "publishedAt": "2026-08-14T04:03:52Z"
+    },
+    {
+      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving",
+      "description": "TOKYO, Aug. 14, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the Japan Science and Technology Agency (JST) t…",
+      "url": "https://www.prnewswire.com/news-releases/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving-302850781.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-14T04:00:00Z"
+    },
+    {
+      "title": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
+      "description": "Unprecedented moves in the AI space this week are giving stock market experts flashbacks to one of the most famous corporate scandals in history, stoking fears that we're in line for a similarly catastrophic fallout. The headline-worthy $500 billion that Wall…",
+      "url": "https://freerepublic.com/focus/f-news/4391731/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-14T02:42:35Z"
+    },
+    {
+      "title": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
+      "description": "Unprecedented moves in the AI space this week are giving stock market experts flashbacks to one of the most famous corporate scandals in history, stoking fears that we're in line for a similarly catastrophic fallout. The headline-worthy $500 billion that Wall…",
+      "url": "https://freerepublic.com/focus/f-chat/4391731/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-14T02:42:35Z"
+    },
+    {
+      "title": "IBMとTogether AI、IBM Cloud上のNVIDIA AIインフラストラクチャーを活用し、オープンソースAI推論の大規模展開に向けた複数年契約を締結",
+      "description": "[日本IBM]\n[画像: https://prcdn.freetls.fastly.net/release_image/46783/728/46783-728-44e5497449987c5c3b4a182434249439-1200x627.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000728.000046783.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-14T02:40:40Z"
+    },
+    {
+      "title": "Data center might get tucked away inside downtown Oakland office site",
+      "description": "A data and AI hub could launch on one of the floors of a downtown Oakland office building.",
+      "url": "https://www.mercurynews.com/2026/08/13/tech-oakland-data-property-economy-build-real-estate-internet-develop",
+      "source": "The Mercury News",
+      "publishedAt": "2026-08-14T02:40:29Z"
+    },
+    {
+      "title": "How Indonesia Can Get Ahead in the Artificial Intelligence Race",
+      "description": "The country has the abundant land and energy resources needed to power hyperscale data centers. Can it harness them effectively?",
+      "url": "https://thediplomat.com/2026/08/how-indonesia-can-get-ahead-in-the-artificial-intelligence-race",
+      "source": "The Diplomat",
+      "publishedAt": "2026-08-14T02:08:00Z"
+    },
+    {
+      "title": "AI Shift、サイバーエージェントグループ数千名規模でのClaude活用知見を公開する無料オンラインセミナーを開催",
+      "description": "[株式会社AI Shift]\n[画像: https://prcdn.freetls.fastly.net/release_image/55962/219/55962-219-efedf6aaa402e5b2a870228a6bd60990-3840x2560.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000219.000055962.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-14T01:40:49Z"
+    },
+    {
+      "title": "Anthropic Investors Think It’s Worth $2 Trillion",
+      "description": "Investors in Claude developer Anthropic are reportedly setting a $2 trillion target for its October IPO in an eye-watering and potentially risky play to set a record valuation.\nAccording to the Financial Times, “half a dozen” Anthropic investors confirmed the…",
+      "url": "https://biztoc.com/x/bff088b7485f0f7c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-14T01:21:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Report: Anthropic could IPO at record $2t valuation",
+      "Against Claude Cowork, DeepSeek opens its open-source Harness to developers",
+      "Measuring Local AI Latency Across CPU, GPU, and NPU Hardware",
+      "IBM and OpenAI partner to accelerate secure enterprise AI deployment",
+      "SMIC plans to single out AI chip revenue as demand outpaces its current reporting categories"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/de6d26ec91e67144",
+        "https://technode.com/2026/08/14/against-claude-cowork-deepseek-opens-its-open-source-harness-to-developers",
+        "https://biztoc.com/x/d0fea620256532fd"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/choiyounggi/cliclaw",
+        "https://prtimes.jp/main/html/rd/p/000000219.000055962.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price",
+        "https://biztoc.com/x/fc0e9203eb0ea8d2",
+        "https://www.channelnewsasia.com/business/goldman-in-talks-investors-nvidia-financing-deal-after-landing-prized-role-sources-say-6319041"
+      ]
+    },
+    {
+      "title": "Agents",
+      "summary": "Grouped stories where \"agents\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=184968401",
+        "https://lists.w3.org/Archives/Public/public-lod/2026Aug/0001.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.c-sharpcorner.com/article/measuring-local-ai-latency-across-cpu-gpu-and-npu-hardware",
+        "https://www.digitimes.com/news/a20260814PR202/ibm-openai-partnership-cybersecurity-design.html",
+        "https://www.digitimes.com/news/a20260814VL208/smic-ai-chip-revenue-capacity-demand.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Report: Anthropic could IPO at record $2t valuation. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Report: Anthropic could IPO at record $2t valuation. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Report: Anthropic could IPO at record $2t valuation. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Report: Anthropic could IPO at record $2t valuation. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Report: Anthropic could IPO at record $2t valuation. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
