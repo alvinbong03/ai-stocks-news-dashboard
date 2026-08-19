@@ -1,0 +1,261 @@
+{
+  "theme": "ai",
+  "date": "2026-08-19",
+  "last_updated_utc": "2026-08-19T06:34:34.308Z",
+  "news": [
+    {
+      "title": "Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus",
+      "description": "Nvidia has reached a deal with OpenAI to provide up to US$105 billion in credit guarantees for the AI startup's upcoming 8GW data center campus in Ohio. The support will help OpenAI to secure a lease from SB Energy, while Nvidia will be the facility's exclusi…",
+      "url": "https://www.digitimes.com/news/a20260818VL211/nvidia-openai-data-center-sales-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-18T04:30:10Z"
+    },
+    {
+      "title": "OpenAI commits to massive buildout of Pike County data center campus",
+      "description": "Partnering with the Japanese-owed SB Energy, California-based Nvidia and U.S. Department of Energy, OpenAI, the artificial intelligence company, has pledged to create 35,000 construction jobs in a six-year buildout of the Pike County data center campus that b…",
+      "url": "https://biztoc.com/x/9a917acf6b163875",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-18T02:47:27Z"
+    },
+    {
+      "title": "Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上",
+      "description": "AIアシスタント「Claude」を開発するAnthropicの年換算収益が650億ドル(約10兆円)を突破したことがわかりました。2025年末時点では約90億ドル(約1兆4400億円)だったため、わずか7カ月ほどで約7倍に拡大した計算です。Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter - Bloomberghttps://www.bloomberg.com/news/articles/2026-08-14/anthropi…",
+      "url": "https://news.livedoor.com/article/detail/32096239",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-18T06:20:00Z"
+    },
+    {
+      "title": "Alibaba Qwen 3.8 Rivals Claude Opus with Local 13.5GB RAM Operation",
+      "description": "The latest open source AI models, Qwen 3.8 and GLM 5.3, are making waves in the artificial intelligence landscape by challenging the dominance of closed, proprietary systems. Qwen 3.8, developed by Alibaba, exemplifies this shift with its ability to run local…",
+      "url": "https://www.geeky-gadgets.com/qwen-3-8-glm-5-3-benchmarks",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-18T06:17:00Z"
+    },
+    {
+      "title": "Nvidia Scales Back $250 Billion Guarantee for OpenAI Data Center, Sources Say",
+      "description": "Nvidia has reduced the size of a planned guarantee of up to $250 billion for data center financing tied to OpenAI, according to people familiar with the matter. The revised amount has not been disclosed, and neither Nvidia nor OpenAI has publicly commented on…",
+      "url": "https://www.naturalnews.com/2026-08-18-nvidia-scales-back-guarantee-for-openai-data-center.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - Axios",
+      "description": "OpenAI announces massive data center in Ohio with Nvidia guaranteeAxios Nvidia to Back Ohio Data Center With as Much as $105 BillionThe New York Times OpenAI joins PORTS-Pike projectOpenAI Nvidia backing $105 billion in financing for OpenAI data center in Ohi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185032028",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-18T04:32:25Z"
+    },
+    {
+      "title": "Nvidia vs Broadcom: Dueling AI financing bets, Contrasting risks",
+      "description": "Nvidia has unveiled a US$500 billion artificial intelligence (AI) compute financing plan with six Wall Street giants—Goldman Sachs Group, Blackstone, Apollo Global Management, KKR, BlackRock, and Brookfield—highlighting its push to win new startup customers a…",
+      "url": "https://www.digitimes.com/news/a20260818PD211/nvidia-financing-broadcom-chips-funding.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-18T04:10:22Z"
+    },
+    {
+      "title": "China's Horizon Robotics sets J7 against Nvidia, Tesla",
+      "description": "Horizon Robotics is preparing its next-generation Journey 7 (J7) automotive AI chip family for mass production in 2027, aiming to extend its lead in China's L2+ assisted-driving market into the higher end of autonomous-driving computing.",
+      "url": "https://www.digitimes.com/news/a20260818VL205/horizon-robotics-nvidia-tesla-automotive-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-18T03:55:00Z"
+    },
+    {
+      "title": "Anthropic-powered AI model sends shocking message to employee",
+      "description": "A retail worker in San Francisco showed up late to 17 of 23 shifts. Their manager noticed, issued warnings, provided additional training, and then forgot about it for months.\nThe manager was not a person. It was an AI agent named Luna, built on Anthropic's Cl…",
+      "url": "https://biztoc.com/x/6990836b17e83ea3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-18T02:31:35Z"
+    },
+    {
+      "title": "Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film",
+      "description": "China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just as difficult to replace. Ajinomoto Build-up Film, or ABF, has become the latest pressure point.",
+      "url": "https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-18T06:30:00Z"
+    },
+    {
+      "title": "NEXTDC Receives Frost & Sullivan's 2026 Australia Competitive Strategy Leadership Recognition for Excellence in Data Center Services Innovation and Growth",
+      "description": "Recognition highlights NEXTDC's leadership in AI-ready digital infrastructure, sustainability-driven innovation, and customer-centric data center services across Australia. SAN ANTONIO, Aug. 18, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to announce tha…",
+      "url": "https://www.prnewswire.com/news-releases/nextdc-receives-frost--sullivans-2026-australia-competitive-strategy-leadership-recognition-for-excellence-in-data-center-services-innovation-and-growth-302852677.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-18T06:00:00Z"
+    },
+    {
+      "title": "In-depth look at OpenAI's model training, dangerous decisions, and cluelessness before the HuggingFace hack; despite delaying Astra, OpenAI still doesn't get it (Zvi Mowshowitz/Don't Worry About the Vase)",
+      "description": "Today I am taking the time to write the shorter, simpler version of What Happened.",
+      "url": "https://thezvi.substack.com/p/what-happened-openai-and-huggingface",
+      "source": "Substack.com",
+      "publishedAt": "2026-08-18T05:47:01Z"
+    },
+    {
+      "title": "Global adoption and readiness for artificial intelligence and digital health technologies in infection prevention and control: a World Health Organization global survey",
+      "description": "This global IPC survey identified a substantial gap between awareness and routine implementation of AI-enabled and digital technologies. Adoption remains limited despite favourable perceptions, highlighting workforce capacity, funding, and system integration …",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42134474",
+      "source": "National Institutes of Health",
+      "publishedAt": "2026-08-18T04:59:17Z"
+    },
+    {
+      "title": "Anthropic revenue run rate tops $65 billion",
+      "description": "The ‌AI startup's ⁠latest ⁠revenue run rate - a metric that projects annual performance ​by extrapolating current sales levels - was up from the $47 billion ​in May and an extraordinary jump from about $9 billion at the end of 2025.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-revenue-run-rate-tops-65-billion/articleshow/133309969.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-18T02:48:12Z"
+    },
+    {
+      "title": "Anthropic nears $6B deal for Israeli AI startup Decart, creating new billionaires",
+      "description": "Anthropic's acquisition of Decart could significantly boost its AI capabilities, potentially reshaping market dynamics and investor confidence.\nThe post Anthropic nears $6B deal for Israeli AI startup Decart, creating new billionaires appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/anthropic-nears-6b-deal-for-israeli-ai-startup-decart-creating-new-billionaires",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-18T02:09:41Z"
+    },
+    {
+      "title": "Why AMD still owns US$565M of SpaceX shares after Musk chose Nvidia",
+      "description": "Elon Musk has made SpaceX's AI hardware strategy unusually clear: future infrastructure will rely exclusively on Nvidia chips and technology. Yet AMD, Nvidia's largest rival in AI accelerators, still owns roughly 3.3 million SpaceX shares worth more than US$5…",
+      "url": "https://www.digitimes.com/news/a20260818PD208/amd-spacex-ai-chip-hardware.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-18T02:07:07Z"
+    },
+    {
+      "title": "OpenAI president’s blog pushing agentic AI most notable for what it did not say",
+      "description": "OpenAI president Greg Brockman on Sunday warned enterprise CISOs that they need to more aggressively embrace agents if they want to survive upcoming cyberattacks. \r\n\n\n\n\nBrockman said in a blog post that it has become “increasingly clear” that company systems …",
+      "url": "https://www.computerworld.com/article/4210729/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say.html",
+      "source": "Computerworld",
+      "publishedAt": "2026-08-18T01:11:31Z"
+    },
+    {
+      "title": "JVNDB-2026-028713:NVIDIAのtriton inference serverにおけるパストラバーサルの脆弱性",
+      "description": "",
+      "url": "http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2026-028713_AD_1.html",
+      "source": "Jpcert.or.jp",
+      "publishedAt": "2026-08-18T01:00:43Z"
+    },
+    {
+      "title": "Machine Learning Research Engineer – NLP / LLM",
+      "description": "Machine Learning Research Engineer – NLP / LLM An incredible opportunity for a Machine Learning Research Engineer to work on researching and investigating new concepts for an industry-leading, machine-learning software company in Cambridge, UK. This unique op…",
+      "url": "https://nlppeople.com/job/machine-learning-research-engineer-nlp-llm-18",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "title": "Applied AI ML Engineer Director – NLP / LLM and Graphs",
+      "description": "The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm’s data and analytics journey. This includes ensuring the quality, integrity, and security of the company’s data, as well as leveraging this data to generate in…",
+      "url": "https://nlppeople.com/job/applied-ai-ml-engineer-director-nlp-llm-and-graphs-3",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning & AI Materials Scientist",
+      "description": "As a Machine Learning & AI Materials Scientist, you will be a part of Dassault Systèmes Gen7 vision and actively contribute towards its implementation. Materials AI is a strategically important, rapidly growing, and evolving core technology Company: Dassault …",
+      "url": "https://nlppeople.com/job/machine-learning-ai-materials-scientist-2",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus",
+      "OpenAI commits to massive buildout of Pike County data center campus",
+      "Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上",
+      "Alibaba Qwen 3.8 Rivals Claude Opus with Local 13.5GB RAM Operation",
+      "Nvidia Scales Back $250 Billion Guarantee for OpenAI Data Center, Sources Say"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260818VL211/nvidia-openai-data-center-sales-chips.html",
+        "https://biztoc.com/x/9a917acf6b163875",
+        "https://www.naturalnews.com/2026-08-18-nvidia-scales-back-guarantee-for-openai-data-center.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thezvi.substack.com/p/what-happened-openai-and-huggingface",
+        "https://www.computerworld.com/article/4210729/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say.html"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/nextdc-receives-frost--sullivans-2026-australia-competitive-strategy-leadership-recognition-for-excellence-in-data-center-services-innovation-and-growth-302852677.html",
+        "https://nlppeople.com/job/applied-ai-ml-engineer-director-nlp-llm-and-graphs-3"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/32096239",
+        "https://www.geeky-gadgets.com/qwen-3-8-glm-5-3-benchmarks",
+        "https://biztoc.com/x/6990836b17e83ea3"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
