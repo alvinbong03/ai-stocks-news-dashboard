@@ -1,0 +1,355 @@
+{
+  "theme": "ai",
+  "date": "2026-08-20",
+  "last_updated_utc": "2026-08-20T06:36:37.906Z",
+  "news": [
+    {
+      "title": "OpenAI paused some AI training runs over cybersecurity concerns",
+      "description": "OpenAI Group PBC recently paused some of its artificial intelligence training workloads over concerns that they could cause cybersecurity issues. The ChatGPT developer disclosed the move in a blog post published today. According to the company, the pause is p…",
+      "url": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-19T01:18:39Z"
+    },
+    {
+      "title": "OpenAI slows model training to bolster security after Hugging Face hack",
+      "description": "The AI research lab behind ChatGPT said ‌it paused its model testing for two weeks and is ​adding other AI systems to monitor the activities ​of AI agents in testing",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-slows-model-training-to-bolster-security-after-hugging-face-hack-126081900246_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-19T04:33:46Z"
+    },
+    {
+      "title": "Google and AMD target post-GPU era with Frozen v2 and Taalas",
+      "description": "Advanced Micro Devices (AMD) recently announced its acquisition of Canadian AI chip startup Taalas to sharpen its competitive edge in AI inference. Taalas' core technology bakes model weights directly onto the silicon rather than relying on traditional high-b…",
+      "url": "https://www.digitimes.com/news/a20260819PD214/google-amd-ai-inference-acquisition-gpu.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-19T03:39:12Z"
+    },
+    {
+      "title": "Anthropic Q2 revenue doubles to $12B, surpasses OpenAI for first time",
+      "description": "Anthropic's revenue surge may accelerate its valuation growth, attracting more investments and reshaping competitive dynamics in AI.\nThe post Anthropic Q2 revenue doubles to $12B, surpasses OpenAI for first time appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-q2-revenue-doubles-to-12b-surpasses-openai-for-first-time",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-19T05:07:50Z"
+    },
+    {
+      "title": "Tatung to complete self-built AI data center PoC by September, secures edge AI order",
+      "description": "Taiwan's Tatung held an earnings call on August 18, during which company president Sung-pin Chang stated that the group's self-built artificial intelligence (AI) data center proof of concept (PoC) has entered the manufacturing stage, with units being sent to …",
+      "url": "https://www.digitimes.com/news/a20260818PD233/tatung-ai-data-center-business-earnings.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-19T04:26:14Z"
+    },
+    {
+      "title": "OpenAI makes AI safety changes in wake of Hugging Face breach",
+      "description": "The latest disclosures serve as fresh evidence that AI agents are capable of acting autonomously in ways that even researchers trained to root out vulnerabilities in the technology can no longer anticipate.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-19T04:17:18Z"
+    },
+    {
+      "title": "China said to allow small shipments of Nvidia H200 chips",
+      "description": "Beijing has let small shipments of Nvidia's H200 chips enter mainland China in a bid to help its artificial intelligence (AI) companies compete with US rivals, the Financial Times reported, citing two...",
+      "url": "https://biztoc.com/x/521640bbc8f200c7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T03:37:13Z"
+    },
+    {
+      "title": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference",
+      "description": "Key Points\n- Cerebras unveiled its CS-4 AI system, which is expected to deliver up to twice the token-generation speed of CS-3, six times higher system-level performance and up to 10 times more tokens per watt in select applications. \n- The company highlighte…",
+      "url": "https://biztoc.com/x/c7d599824337cdb9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T02:23:42Z"
+    },
+    {
+      "title": "OpenAI slows advanced AI development after cyberattack",
+      "description": "ChatGPT creator OpenAI said Tuesday that it was tapping the brakes on development of its most advanced AI model and tightening internal controls, a month after revealing a cyberattack carried out by one of its rogue models. OpenAI also said Tuesday that it wa…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-slows-advanced-ai-development-after-cyberattack/articleshow/133335485.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-19T02:23:23Z"
+    },
+    {
+      "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
+      "description": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With AnthropicWSJ OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenueCNBC OpenAI’s Annualized Revenue Tops $40 Billion Ahead of IPOBloomberg AI: Ope…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185045958",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-19T01:53:07Z"
+    },
+    {
+      "title": "OpenAI halts testing, slows development after model went rogue",
+      "description": "OpenAI has announced it is slowing the pace of its AI development and pausing its model testing for two weeks while its research and training systems are overhauled.",
+      "url": "https://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-19T01:46:40Z"
+    },
+    {
+      "title": "OpenAI’s junior version of ChatGPT with guardrails has launched",
+      "description": "OpenAI Group PBC today announced that it is rolling out a stricter version of its ChatGPT chatbot created for younger users. The announcement of “ChatGPT for Teens” follows scrutiny over how generative artificial intelligence, whether the products of OpenAI o…",
+      "url": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-19T01:43:18Z"
+    },
+    {
+      "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
+      "description": "OpenAI Group PBC is falling further behind its rival Anthropic PBC, if its latest financials are any indication. The artificial intelligence model maker told investors that its revenue rose 18% on a sequential basis, from the first to the second quarter, but …",
+      "url": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-19T01:25:23Z"
+    },
+    {
+      "title": "OpenAI Halts Its Largest Frontier Training Run, Turning Pacing Rhetoric Into Operational Reality",
+      "description": "On July 28, Sam Altman told a podcast audience that OpenAI might need to pace the rate of AI development. Three weeks later, the company did something more concrete than pace. OpenAI has formally paused its largest planned reinforcement learning training run …",
+      "url": "https://forkast.news/openai-halts-its-largest-frontier-training-run-turning-pacing-rhetoric-into-operational-reality",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-19T01:19:41Z"
+    },
+    {
+      "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors",
+      "description": "Nvidia (NVDA -2.34%) said on Monday that it will back as much as $105 billion in financing for a massive OpenAI data center campus in Ohio. The chipmaker will also invest $1.5 billion into SB Energy, the SoftBank unit developing the site.\nIn return, OpenAI co…",
+      "url": "https://biztoc.com/x/caddfddfa78cf15c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T01:06:24Z"
+    },
+    {
+      "title": "OpenAI slows the frontier to regain control",
+      "description": "OpenAI is hitting the brakes on developing its most powerful and capable models.\nOn Tuesday, the AI lab announced that it is implementing safeguards \"across all stages of the training process,\" which...",
+      "url": "https://biztoc.com/x/41a05d5c4d560745",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T00:50:21Z"
+    },
+    {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+      "description": "The competition is heating up for Nvidia (NVDA), as AI chipmaker Cerebras (CBRS) unveiled its newest rack-scale system, which it claims offers 30x the tokens per second per user compared with graphics processing units.\nCalled the Cerebras CS-4, the system pac…",
+      "url": "https://biztoc.com/x/053e3e589ed95e32",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T00:22:03Z"
+    },
+    {
+      "title": "ChatGPT to launch ads in 31 European countries",
+      "description": "OpenAI announced on Wednesday that it will launch ChatGPT Ads in 31 European countries next week, including Germany, France, Spain, Italy, and Scandinavian countries.The company noted that ads will be...",
+      "url": "https://biztoc.com/x/ce3619cd16f36dbd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T06:23:58Z"
+    },
+    {
+      "title": "Alibaba Cloud adds a third data center in South Korea",
+      "description": "Alibaba Cloud has brought its third data center in South Korea online, adding enterprise cloud services and six Agentic AI services for local customers, according to the announcement. The new site expands Alibaba Cloud’s infrastructure in one of Asia’s major …",
+      "url": "https://technode.com/2026/08/19/alibaba-cloud-adds-a-third-data-center-in-south-korea",
+      "source": "TechNode",
+      "publishedAt": "2026-08-19T06:02:43Z"
+    },
+    {
+      "title": "C3.ai vs. Lumentum: What Recent Revenue Trajectories Tell Investors About These Artificial Intelligence Companies",
+      "description": "C3.ai vs. Lumentum: What Recent Revenue Trajectories Tell Investors About These Artificial Intelligence Companies\nC3.ai: Sustained Revenue Declines Over the Past Year\nC3.ai (NYSE:AI) primarily generates revenue by providing specialized enterprise artificial i…",
+      "url": "https://biztoc.com/x/70fb81ef6166cbf7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T05:54:59Z"
+    },
+    {
+      "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+      "description": "The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-19T04:06:16Z"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had alr…",
+      "url": "https://biztoc.com/x/c0f4f9b88b4afd0b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T02:21:39Z"
+    },
+    {
+      "title": "China eases Nvidia H200 chip restrictions for ByteDance, Tencent: FT",
+      "description": "China's strategic chip policy shift may boost its AI competitiveness, impacting global tech dynamics and Nvidia's market influence.\nThe post China eases Nvidia H200 chip restrictions for ByteDance, Tencent: FT appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/china-eases-nvidia-h200-chip-restrictions-for-bytedance-tencent-ft",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-19T02:16:47Z"
+    },
+    {
+      "title": "Anthropic plans super-voting shares for CEO ahead of potential IPO this year",
+      "description": "Anthropic's governance strategy may bolster market confidence, potentially enhancing IPO success and influencing AI sector investment trends.\nThe post Anthropic plans super-voting shares for CEO ahead of potential IPO this year appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/anthropic-plans-super-voting-shares-for-ceo-ahead-of-potential-ipo-this-year",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-19T02:06:22Z"
+    },
+    {
+      "title": "Reddit’s ChatGPT Search citations drop 86% in August, raising questions about AI traffic fragility",
+      "description": "The sudden drop in Reddit citations highlights the vulnerability of web platforms to backend changes by AI systems, impacting traffic dynamics.\nThe post Reddit’s ChatGPT Search citations drop 86% in August, raising questions about AI traffic fragility appeare…",
+      "url": "https://cryptobriefing.com/reddit-chatgpt-search-citations-drop",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-19T01:26:04Z"
+    },
+    {
+      "title": "Anthropic Beats OpenAI in Revenue for First Time",
+      "description": "Anthropic’s sales topped those of OpenAI for the first time in the second quarter, The Wall Street Journal reported Tuesday (Aug. 18), citing figures obtained from unnamed sources.\nOpenAI told investors that its revenue grew by 18% in the second quarter, comp…",
+      "url": "https://biztoc.com/x/7ed03f80f098835f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-19T01:20:46Z"
+    },
+    {
+      "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets - Yahoo Finance",
+      "description": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle MarketsYahoo Finance Why Micron Stock and Its Memory Peers Are FallingBarron's AI, Electronics Firms Lead Stock Market Sell-Off; Is It Time To Deploy Cash Into Energy Firms?Investor's Busine…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185044916",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-19T00:33:12Z"
+    },
+    {
+      "title": "Anthropic Beats OpenAI in Revenue for First Time",
+      "description": "Anthropic’s sales topped those of OpenAI for the first time in the second quarter, The Wall Street Journal reported Tuesday (Aug. 18), citing figures obtained from unnamed sources. OpenAI told investors that its revenue grew by 18% in the second quarter, comp…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-beats-openai-in-revenue-for-first-time",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-19T00:30:40Z"
+    },
+    {
+      "title": "Nvidia wants to stop AI costs skyrocketing with its new software router — but will it really make a difference?",
+      "description": "Nvidia says its new router cuts AI costs by up to 74%, but the partner that measured it says it couldn't prove the router beat using the cheaper model.",
+      "url": "https://www.techradar.com/pro/nvidia-wants-to-stop-ai-costs-skyrocketing-with-its-new-software-router-but-will-it-really-make-a-difference",
+      "source": "TechRadar",
+      "publishedAt": "2026-08-19T00:10:00Z"
+    },
+    {
+      "title": "Scaling agentic AI: How llm-d enables infrastructure sovereignty",
+      "description": "AI is entering the era of large-scale, distributed, agentic systems. Applications coordinate multiple models, tools, and services, process millions of requests, and demand enormous amounts of computer capacity. At the same time, infrastructure costs continue …",
+      "url": "https://www.redhat.com/en/blog/scaling-agentic-ai-how-llm-d-enables-infrastructure-sovereignty",
+      "source": "Redhat.com",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+      "description": "Cerebras debuts a new rackscale system it says is the fastest AI accelerator in the industry.",
+      "url": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "title": "Principal Machine Learning Data Scientist, Gen AI",
+      "description": "Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their busine…",
+      "url": "https://nlppeople.com/job/principal-machine-learning-data-scientist-gen-ai-8",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "title": "Prospective evaluation of a large language model clinical decision support system in the emergency department",
+      "description": "A pilot implementation study of a large language model clinical decision support system in a tertiary emergency department showed safe integration but steadily declining clinical adoption over 4 weeks.",
+      "url": "https://www.nature.com/articles/s41591-026-04601-5",
+      "source": "Nature.com",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI paused some AI training runs over cybersecurity concerns",
+      "OpenAI slows model training to bolster security after Hugging Face hack",
+      "Google and AMD target post-GPU era with Frozen v2 and Taalas",
+      "Anthropic Q2 revenue doubles to $12B, surpasses OpenAI for first time",
+      "Tatung to complete self-built AI data center PoC by September, secures edge AI order"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns",
+        "https://www.business-standard.com/technology/tech-news/openai-slows-model-training-to-bolster-security-after-hugging-face-hack-126081900246_1.html",
+        "https://cryptobriefing.com/anthropic-q2-revenue-doubles-to-12b-surpasses-openai-for-first-time"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260819PD214/google-amd-ai-inference-acquisition-gpu.html",
+        "https://www.techradar.com/pro/nvidia-wants-to-stop-ai-costs-skyrocketing-with-its-new-software-router-but-will-it-really-make-a-difference",
+        "https://www.nature.com/articles/s41591-026-04601-5"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion",
+        "https://cryptobriefing.com/anthropic-plans-super-voting-shares-for-ceo-ahead-of-potential-ipo-this-year"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/521640bbc8f200c7",
+        "https://biztoc.com/x/053e3e589ed95e32",
+        "https://cryptobriefing.com/china-eases-nvidia-h200-chip-restrictions-for-bytedance-tencent-ft"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260818PD233/tatung-ai-data-center-business-earnings.html",
+        "https://technode.com/2026/08/19/alibaba-cloud-adds-a-third-data-center-in-south-korea",
+        "https://biztoc.com/x/70fb81ef6166cbf7"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI paused some AI training runs over cybersecurity concerns. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI paused some AI training runs over cybersecurity concerns. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI paused some AI training runs over cybersecurity concerns. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI paused some AI training runs over cybersecurity concerns. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI paused some AI training runs over cybersecurity concerns. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
