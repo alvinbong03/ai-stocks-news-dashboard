@@ -1,0 +1,375 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-21",
+  "last_updated_utc": "2026-08-21T06:36:52.668Z",
+  "news": [
+    {
+      "title": "Representative Line: We All Register This",
+      "description": "Today's maybe more of a \"representative data sheet entry\" than anything else.\nEvery developer has the experience of reading the documentation. If you've been at this for some time, you've probably read bad documentation. Documentation that is incomplete, inac…",
+      "url": "https://thedailywtf.com/articles/we-all-register-this",
+      "source": "Thedailywtf.com",
+      "publishedAt": "2026-08-20T06:30:00Z"
+    },
+    {
+      "title": "AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan",
+      "description": "Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an etch specialist into a broader semiconductor equipment supp…",
+      "url": "https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T06:20:00Z"
+    },
+    {
+      "title": "Intel Arc B580 Achieves Native SteamOS 3.9 Compatibility",
+      "description": "Intel’s Arc B580 GPU has reached a new milestone by achieving compatibility with SteamOS 3.9, eliminating the need for complex workarounds or manual configurations. As demonstrated by ETA Prime, the GPU delivers notable stability and competitive 1440p perform…",
+      "url": "https://www.geeky-gadgets.com/intel-arc-b580-steamos-performance",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-20T06:17:00Z"
+    },
+    {
+      "title": "Qualcomm just teased two new Snapdragon 8 Elite chips",
+      "description": "Qualcomm has just teased \"dual 8 Elites\" arriving next month, complete with \"extraordinary\" GPU performance.",
+      "url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828",
+      "source": "Android Authority",
+      "publishedAt": "2026-08-20T06:15:50Z"
+    },
+    {
+      "title": "Nvidia data centers exceed utility power promises, raising concerns about AI’s energy appetite",
+      "description": "The rising energy demands of AI data centers could strain power grids, impacting infrastructure development and energy policy priorities.\nThe post Nvidia data centers exceed utility power promises, raising concerns about AI’s energy appetite appeared first on…",
+      "url": "https://cryptobriefing.com/nvidia-data-centers-power-demand-concerns",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-20T06:12:36Z"
+    },
+    {
+      "title": "Skeptical Science New Research for Week #34 2026",
+      "description": "Open access notables\n\nMarine Heatwaves Overwhelm the Buffering Benefits of Marine Protected Areas: Two Decades of Collapse in a Mediterranean Gorgonian, Zentner et al., Global Change Biology\n\nMarine heatwaves (MHWs) are driving mass mortalities of coastal fou…",
+      "url": "https://skepticalscience.com/new_research_2026_34.html",
+      "source": "Skepticalscience.com",
+      "publishedAt": "2026-08-20T06:08:59Z"
+    },
+    {
+      "title": "The Compute Famine Isn’t an Accident â It’s an Engineered Crisis to Strip You of Power, AI, and Freedom",
+      "description": "The Engineered Compute Famine Is Already Here Over the last three years, I have built AI systems from the ground up, curating knowledge bases and training models on a network of GPU-powered workstations. I use AI every day to create free knowledge tools for t…",
+      "url": "https://www.naturalnews.com/2026-08-20-the-compute-famine-isnt-an-accident.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "JPMorgan warns of potential 2027 global food crisis driven by Hormuz disruptions and El NiÃ±o",
+      "description": "JPMorgan economists warn that a “compounding storm” of war, extreme weather and supply chain fragility could trigger a global food crisis by 2027. The bank projects global food inflation will accelerate to 5% by the first half of next year, driven by Strait o…",
+      "url": "https://www.naturalnews.com/2026-08-20-jpmorgan-warns-of-potential-2027-global-food-crisis.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-20T06:00:00Z"
+    },
+    {
+      "title": "AI drives network equipment demand as parts shortages deepen",
+      "description": "AI data center expansion and rising demand for enterprise network upgrades continue to lift the network equipment market, giving several vendors better order visibility. But surging prices for key components such as memory and PCBs, along with hyperscalers dr…",
+      "url": "https://www.digitimes.com/news/a20260820PD214/network-equipment-expansion-materials-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T05:55:00Z"
+    },
+    {
+      "title": "GPU Suffers From Thermal Degradation Just Because GIGABYTE Forgot To Remove The Protective Film; Company Dismisses User’s Concerns Over Warranty Status",
+      "description": "The user only found it when he opened up his GPU, but it was too late since the protective film had already caused thermal degradation. User Says RTX 3070 Suffered From Thermal Degradation for Nearly Five Years as GIGABYTE Forgot to Remove Protective Film Fro…",
+      "url": "https://wccftech.com/gpu-suffers-from-thermal-degradation-just-because-gigabyte-forgot-to-remove-the-protective-film",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-20T05:49:30Z"
+    },
+    {
+      "title": "SK Hynix's new HBM team lands in Nvidia and AMD's backyard — co-design is becoming the way to win HBM4 orders",
+      "description": "SK Hynix is reported to be assembling a high-bandwidth memory (HBM) design team in Silicon Valley, a move that would deepen its co-design work with major US chip customers. Analysts see it as evidence that HBM competition is shifting into a customized, jointl…",
+      "url": "https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T05:44:00Z"
+    },
+    {
+      "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains - CNBC",
+      "description": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gainsCNBC See more headlines &amp; perspectives on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185062658",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-20T05:32:38Z"
+    },
+    {
+      "title": "Worked 8-hour shifts at Intel, then studied after work: How this IIT Delhi engineer cracked ISRO recruitment with AIR 7 for Scientist 'A'",
+      "description": "Hemant Kumar Bhukar transitioned from Intel engineer to ISRO scientist after diligent preparation. He secured All India Rank 7 for Scientist 'A' while working full-time. Bhukar's journey highlights dedication and leveraging prior experience for new goals. His…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/worked-8-hour-shifts-at-intel-then-studied-after-work-how-this-iit-delhi-engineer-cracked-isro-recruitment-with-air-7-for-scientist-a/articleshow/133364974.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-20T05:25:05Z"
+    },
+    {
+      "title": "Samsung will now charge more to make 5nm or better chips for its clients",
+      "description": "Samsung makes advanced semiconductor chips not only for itself but also for other companies. Its contract chipmaking business faced a lot of issues over the past four to five years, but it has picked up so much momentum in the past year that the company, whic…",
+      "url": "https://www.sammobile.com/news/samsung-will-now-charge-more-to-make-5nm-or-better-chips-for-its-clients",
+      "source": "SamMobile",
+      "publishedAt": "2026-08-20T05:16:55Z"
+    },
+    {
+      "title": "LG - gram Pro 16\" 144Hz 2.5K Laptop AMD Ryzen AI 7 Processor 450 with 32GB RAM - 2TB SSD - Copilot + PC - Aerominum White $1799.99 Bestbuy.com (3 replies)",
+      "description": "https://www.bestbuy.com/product/l...JJ8VPZZGTV",
+      "url": "https://slickdeals.net/f/19900143-lg-gram-pro-16-144hz-2-5k-laptop-amd-ryzen-ai-7-processor-450-with-32gb-ram-2tb-ssd-copilot-pc-aerominum-white-1799-99-bestbuy-com",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-20T05:05:01Z"
+    },
+    {
+      "title": "10-Ct HOUSE AGAIN 3\" Magnetic Stainless Steel Chip Clips w/ Silicone Grips (5 Colors) $8",
+      "description": "House Again via Amazon [amazon.com] has *10-Count HOUSE AGAIN 3\" Magnetic Stainless Steel Chip Clips w/ Silicone Grips (5 Colors)* on sale for $15.99 - 50% off when you apply promo code DWZRRW8N at...",
+      "url": "https://slickdeals.net/f/19898559-10-count-house-again-3-magnetic-stainless-steel-chip-clips-w-silicone-grips-5-colors-7-99-free-shipping-w-prime-or-on-35",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-20T05:02:52Z"
+    },
+    {
+      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme: Report",
+      "description": "Samsung Electronics plans a shareholder return policy exceeding one hundred trillion won.  This significant announcement follows record profits driven by an AI chip supercycle.  The company will allocate fifty percent of its free cash flow to this new program…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-electroncis-to-announce-more-than-72-billion-shareholder-return-programme-report/articleshow/133364754.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-20T04:58:26Z"
+    },
+    {
+      "title": "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling",
+      "description": "Absolute zero inside is much cooler than Intel inside",
+      "url": "https://www.theregister.com/systems/2026/08/20/ibm-says-super-chill-boxes-that-connect-through-cryogenic-tunnels-will-get-quantum-computers-scaling/5290067",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-20T04:57:58Z"
+    },
+    {
+      "title": "AMD inches closer to its goal of making AI suck less ... energy",
+      "description": "House of Zen claims latest systems already 4x more efficient than two years ago",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185062188",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-20T04:52:06Z"
+    },
+    {
+      "title": "Samsung Electroncis to announce more than $72 billion shareholder return programme, media reports",
+      "description": "SEOUL, Aug 20 : Samsung Electronics is set to announce a new shareholder return policy later this month worth more than 100 trillion won ($71.75 billion), media reported on Thursday, as the company plans to share record profits with shareholders amid an AI-dr…",
+      "url": "https://www.channelnewsasia.com/business/samsung-electroncis-announce-more-72-billion-shareholder-return-programme-media-reports-6330341",
+      "source": "CNA",
+      "publishedAt": "2026-08-20T04:44:25Z"
+    },
+    {
+      "title": "Jusung, PSK China sales plunge over 40% amid China's chip self-sufficiency drive",
+      "description": "Jusung Engineering and PSK each lost more than 40% of their China revenue in 2025. The similarity ends there.",
+      "url": "https://www.digitimes.com/news/a20260820VL207/psk-sales-equipment-revenue-self-sufficiency.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T04:21:34Z"
+    },
+    {
+      "title": "[SnS, AC] $6.21* | 20-Ct 1-Oz Nabisco Snacks Variety Pack (Oreo, Chips Ahoy, Nutter Butter & More) at Amazon",
+      "description": "Amazon [amazon.com] has *20-Ct 1-Oz Nabisco Snacks Variety Pack *(Oreo, Chips Ahoy, Nutter Butter & More) for $8.87 - 25% when you 'clip' the coupon on product page - 5% when you check out via...",
+      "url": "https://slickdeals.net/f/19899987-sns-ac-6-21-20-ct-1-oz-nabisco-snacks-variety-pack-oreo-chips-ahoy-nutter-butter-more-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-20T04:17:34Z"
+    },
+    {
+      "title": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
+      "description": "Strong AI demand is driving a wave of high profitability across the semiconductor supply chain, with equipment and materials suppliers increasingly joining a \"high-margin club.\" Trailing only Nvidia's 75% gross margin in the fiscal first quarter of 2027 (whic…",
+      "url": "https://www.digitimes.com/news/a20260820PD209/gross-margin-nvidia-tsmc-demand-profit.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T04:14:57Z"
+    },
+    {
+      "title": "Global Market: Japan shares rally as US debt buybacks ease bond market concerns",
+      "description": "Japan’s Nikkei rose 1% to 65,982.49 as falling global bond yields improved investor sentiment and revived risk appetite. U.S. Treasury plans to double long-duration debt buybacks helped ease borrowing-cost pressures. Gains broadened beyond AI and semiconducto…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-shares-rally-as-us-debt-buybacks-ease-bond-market-concerns/articleshow/133363726.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-20T04:02:19Z"
+    },
+    {
+      "title": "KAGA FEI ES4L15MA1 is a ridiculously small, ready-to-use BLE 6.0 module based on Nordic nRF54L15 SoC",
+      "description": "Japanese company KAGA FEI has introduced another incredibly small ES4L15MA1 Bluetooth LE 6.0 module based on Nordic Semiconductor's nRF54L15 ultra-low-power Cortex-M33 wireless MCU. Launched alongside the larger EC4L15MA1 module, the ES4L15MA1 module appears …",
+      "url": "https://www.cnx-software.com/2026/08/20/kaga-fei-es4l15ma1-is-a-ridiculously-small-ready-to-use-ble-6-0-module-based-on-nordic-nrf54l15-soc",
+      "source": "CNX Software",
+      "publishedAt": "2026-08-20T03:58:44Z"
+    },
+    {
+      "title": "Global Market: South Korean shares surge 6% as chip stocks rebound",
+      "description": "South Korean shares surged over 6%, led by chipmakers SK Hynix and Samsung Electronics, after a steep previous-session selloff. The KOSPI triggered a volatility curb, while foreign investors bought shares. Broader gains included Hyundai Motor, Kia and LG Ener…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-surge-6-as-chip-stocks-rebound/articleshow/133363418.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-20T03:50:02Z"
+    },
+    {
+      "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+      "description": "Semiconductor shipments continued to power Japan's exports in July, helping clock the fastest growth since October 2022, beating expectations.\nExports growth accelerated for a fifth straight month, coming in at 23.2%. Economists polled by Reuters had estimate…",
+      "url": "https://biztoc.com/x/5e7d858311a9d4dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-20T03:39:33Z"
+    },
+    {
+      "title": "Japan exports grow at fastest pace since 2022 on chip demand, cars and weak yen",
+      "description": "The data shows that Japan's manufacturers have largely managed to navigate the fallout from the Middle East conflict so far.",
+      "url": "https://biztoc.com/x/822e14dd295ee6e8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-20T03:39:24Z"
+    },
+    {
+      "title": "Analysis: Unitree IPO exposes the economics behind China's humanoid robot boom",
+      "description": "Unitree Robotics' August 19 debut on Shanghai's STAR Market did more than crown China's first mainland-listed humanoid robot maker. It marked a shift in the industry from competition between robot brands to a harder contest over supply-chain cost, AI capabili…",
+      "url": "https://www.digitimes.com/news/a20260820VL202/robot-ipo-shanghai-cost-commercial.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T03:25:17Z"
+    },
+    {
+      "title": "Kenya tourist helicopter crash kills 7, including Americans and Ecuador intel chief",
+      "description": "A tourist helicopter crashed in Kenya's Samburu county on Wednesday. Seven people, including five Americans and Ecuador's intelligence chief, died in the incident. The aircraft was en route to the Loisaba Conservancy wildlife reserve when it went down. The U.…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/kenya-tourist-helicopter-crash-kills-7-including-americans-and-ecuador-intel-chief/articleshow/133362951.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-20T03:14:46Z"
+    },
+    {
+      "title": "Cathie Wood Bets Big on Broadcom and Cerebras, Trims AMD Stock for Third Straight Day",
+      "description": "On Wednesday, Cathie Wood-led Ark Invest executed significant trades involving Broadcom Inc. (NASDAQ:AVGO), Cerebras Systems Inc. (NASDAQ:CBRS), and Advanced Micro Devices, Inc. (NASDAQ:AMD).\nThe Broadcom Trade\nArk Invest made a notable purchase of Broadcom s…",
+      "url": "https://biztoc.com/x/68f02012e5207e4d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-20T03:09:31Z"
+    },
+    {
+      "title": "LG acquires Mexico TV parts plant to cut production costs",
+      "description": "LG Electronics has acquired a local TV parts factory in Mexico. The move strengthens cost competitiveness and tightens control over its supply chain at one of its key North American production bases. It also gives the company an existing manufacturing facilit…",
+      "url": "https://www.digitimes.com/news/a20260820PD208/production-tv-lg-lg-electronics-mexico.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T03:04:27Z"
+    },
+    {
+      "title": "SoftBank’s Masayoshi Son holds 67% of US stock portfolio in Intel, didn’t buy a single share last quarter",
+      "description": "SoftBank's heavy Intel investment highlights potential market volatility and strategic risks tied to concentrated portfolio management.\nThe post SoftBank’s Masayoshi Son holds 67% of US stock portfolio in Intel, didn’t buy a single share last quarter appeared…",
+      "url": "https://cryptobriefing.com/softbank-intel-67-percent-portfolio",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-20T02:58:38Z"
+    },
+    {
+      "title": "AMD Ryzen 7 9800X3D + MSI B850 GAMING PLUS Board + Cooler Master AIO Cooler $461",
+      "description": "Newegg has AMD Ryzen 7 9800X3D Processor + MSI B850 GAMING PLUS WIFI 6E ATX Motherboard + Cooler Master Elite Liquid 240 CPU AIO Cooler Bundle on sale for $508.99 - $50 with promo code BTS22 in cart =",
+      "url": "https://slickdeals.net/f/19898370-amd-ryzen-7-9800x3d-processor-msi-b850-gaming-plus-wifi-6e-atx-motherboard-cooler-master-elite-liquid-240-cpu-aio-cooler-458-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-20T02:54:34Z"
+    },
+    {
+      "title": "AI robotics opens a bigger prize for Taiwan's precision manufacturing supply chain",
+      "description": "Intelligent Asia 2026 opened on August 19 at TaiNEX 1 and TaiNEX 2 in Taipei, with industry and government speakers repeatedly returning to one theme: Taiwan should use its manufacturing depth to anchor more production locally while connecting domestic suppli…",
+      "url": "https://www.digitimes.com/news/a20260820PD212/taiwan-manufacturing-robotics-asia-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T02:52:58Z"
+    },
+    {
+      "title": "Kenmec subsidiaries target SiC, AIDC growth",
+      "description": "Kenmec Group founder and president Frank Hsieh said on August 19 that two of the company's new businesses have taken shape, with Taisic Materials focusing on silicon carbide (SiC), a third-generation semiconductor material, and Kentec targeting the AI data ce…",
+      "url": "https://www.digitimes.com/news/a20260820PD204/kenmec-aidc-chairman-ceo-sic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T02:50:21Z"
+    },
+    {
+      "title": "Taiwan chip designers see automotive demand rebound",
+      "description": "Major European and US companies and Taiwan-based IC design firms are seeing a notable recovery in automotive chip demand so far in 2026, spanning smart cockpit platforms, advanced driver-assistance systems (ADAS), analog ICs, display driver ICs (DDIs), Ethern…",
+      "url": "https://www.digitimes.com/news/a20260820PD207/demand-automotive-ic-design-chips-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-20T02:44:38Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Representative Line: We All Register This",
+      "AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan",
+      "Intel Arc B580 Achieves Native SteamOS 3.9 Compatibility",
+      "Qualcomm just teased two new Snapdragon 8 Elite chips",
+      "Nvidia data centers exceed utility power promises, raising concerns about AI’s energy appetite"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html",
+        "https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185062658"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/gpu-suffers-from-thermal-degradation-just-because-gigabyte-forgot-to-remove-the-protective-film",
+        "https://www.sammobile.com/news/samsung-will-now-charge-more-to-make-5nm-or-better-chips-for-its-clients",
+        "https://www.channelnewsasia.com/business/samsung-electroncis-announce-more-72-billion-shareholder-return-programme-media-reports-6330341"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thedailywtf.com/articles/we-all-register-this",
+        "https://cryptobriefing.com/nvidia-data-centers-power-demand-concerns",
+        "https://www.digitimes.com/news/a20260820PD214/network-equipment-expansion-materials-demand.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.geeky-gadgets.com/intel-arc-b580-steamos-performance",
+        "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828",
+        "https://skepticalscience.com/new_research_2026_34.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Representative Line: We All Register This. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Representative Line: We All Register This. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Representative Line: We All Register This. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Representative Line: We All Register This. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Representative Line: We All Register This. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
