@@ -1,0 +1,298 @@
+{
+  "theme": "ai",
+  "date": "2026-08-22",
+  "last_updated_utc": "2026-08-22T06:30:14.008Z",
+  "news": [
+    {
+      "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging",
+      "description": "OpenAI says that it’s slowing down development and release of new models due to security and alignment concerns.\nThe ChatGPT maker announced the decision in a Tuesday blog post, citing two events as drivers of the indefinite training halt. One was the recent …",
+      "url": "https://biztoc.com/x/e1d9f7f696a6a725",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T00:53:29Z"
+    },
+    {
+      "title": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+      "description": "Broadcom Inc. is reportedly seeking to borrow up to $100 billion as part of a new artificial intelligence chip financing deal.  Bloomberg today cited sources as saying that the debt is intended to support the growth efforts of Anthropic PBC and unnamed “other…",
+      "url": "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-21T00:36:48Z"
+    },
+    {
+      "title": "Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training",
+      "description": "These lawsuits could reshape data privacy norms, emphasizing stricter consent and transparency requirements for AI training practices.\nThe post Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training appeared first o…",
+      "url": "https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T04:37:35Z"
+    },
+    {
+      "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+      "description": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T03:05:17Z"
+    },
+    {
+      "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
+      "description": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。Claude.ai · Claude Academyhttps://academy.claude.com/products/claudeClaude Academy is now live.Whether you're figuring out wh…",
+      "url": "https://news.livedoor.com/article/detail/32121667",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-21T02:42:00Z"
+    },
+    {
+      "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree",
+      "description": "Nvidia (NASDAQ: NVDA), AMD (NASDAQ: AMD), and Intel (NASDAQ: INTC) are three of the most popular artificial intelligence (AI) stock picks in the market. While Nvidia has been a top pick since the AI arms race began in 2023, it hasn't done nearly as well as th…",
+      "url": "https://biztoc.com/x/e52f2a1687218524",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T02:41:12Z"
+    },
+    {
+      "title": "Anthropic venture acquires Casper Studios to expand enterprise AI services",
+      "description": "Ode with Anthropic, an Anthropic venture arm, said it has acquired Casper Studios, a move that expands its enterprise artificial intelligence services as companies worldwide look for practical ways to deploy AI inside existing workflows. The deal underscores …",
+      "url": "https://www.digitimes.com/news/a20260821PR203/anthropic-business-claude-worldwide-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T02:21:08Z"
+    },
+    {
+      "title": "ChatGPTでAppleのメッセージアプリを管理できる「Apple Messages Plugin」が登場、メッセージの返信・分類・管理が可能",
+      "description": "OpenAIの開発するチャットAIのChatGPTが、新しいプラグインの「Apple Messages Plugin」を発表しました。Apple Messages Pluginを利用することで、Mac上のChatGPTでメッセージアプリを管理することが可能となります。ChatGPT Can Now Access and Send Messages in Apple’s iMessage App - Bloomberghttps://www.bloomberg.com/news/articles/2026-08-2…",
+      "url": "https://news.livedoor.com/article/detail/32121025",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-21T01:33:00Z"
+    },
+    {
+      "title": "Nvidia pushes back on report of China-specific AI chip in the works",
+      "description": "Nvidia's denial highlights ongoing challenges in regaining China's AI market share amid US export restrictions and competitive pressures.\nThe post Nvidia pushes back on report of China-specific AI chip in the works appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-denies-china-ai-chip-rollout",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T01:15:07Z"
+    },
+    {
+      "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
+      "description": "With Private Safety Processing, AI biz promises discreet, automated prompt surveillance",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185076086",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T00:33:17Z"
+    },
+    {
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "description": "A frontier language model is only one component of an AI agent. The surrounding agent system—often called a harness—determines how the model receives context…",
+      "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-08-21T00:03:25Z"
+    },
+    {
+      "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size - Bloomberg.com",
+      "description": "Anthropic Expects to Match or Top SpaceX’s Record IPO SizeBloomberg.com Anthropic’s Revenue Run Rate Just Hit $65 Billion. SpaceX and Amazon May Be the Biggest Winners.The Motley Fool The Math Of The AI Bubble Is ChangingSeeking Alpha Anthropic could publicly…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185078958",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T05:32:34Z"
+    },
+    {
+      "title": "OpenAI IPO pause raises questions about Anthropic’s public offering plans",
+      "description": "OpenAI's IPO pause may signal broader market or regulatory challenges, potentially affecting Anthropic's valuation and strategic decisions.\nThe post OpenAI IPO pause raises questions about Anthropic’s public offering plans appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-ipo-pause-raises-questions-about-anthropics-public-offering-plans",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T05:30:28Z"
+    },
+    {
+      "title": "Anthropic expects to match or top SpaceX’s record IPO size",
+      "description": "Anthropic aims to surpass SpaceX's record IPO, fueled by strong investor demand in the booming AI industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-21T04:56:32Z"
+    },
+    {
+      "title": "Anthropic plans to change data retention policy for advanced AI",
+      "description": "Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-21T04:39:09Z"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Experience designed for Teens",
+      "description": "OpenAI recently launched ChatGPT for Teens, which is a variant of ChatGPT intended for users between the ages of 13...\nThe post OpenAI launches ChatGPT Experience designed for Teens appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/news/openai-launches-chatgpt-experience-designed-for-teens",
+      "source": "Yugatech.com",
+      "publishedAt": "2026-08-21T03:39:51Z"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in - TechCrunch",
+      "description": "ChatGPT can now send texts for you with new Apple Messages plug-inTechCrunch ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy ConcernsYahoo Finance ChatGPT Can Now Read and Send iMessages on MacMacRumors OpenAI Connects ChatGPT to Apple Mes…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185077804",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T03:32:26Z"
+    },
+    {
+      "title": "ChatGPT can now control iMessage, raising potential Apple privacy concerns",
+      "description": "The new feature, available for ChatGPT on the Mac, allows the OpenAI system to take actions such as reading, writing and sending text messages",
+      "url": "https://www.business-standard.com/technology/tech-news/chatgpt-can-now-control-imessage-raising-potential-apple-privacy-concerns-126082100104_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-21T03:10:45Z"
+    },
+    {
+      "title": "Anthropic expects to match or top SpaceX’s record IPO size",
+      "description": "The Claude developer is running the numbers as it prepares to file publicly for its potential mega-IPO as soon as the end of this month, sources say.",
+      "url": "https://biztoc.com/x/d774bf345ddb4e36",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T02:23:59Z"
+    },
+    {
+      "title": "ChatGPT can now control iMessage, potentially raising Apple privacy concerns",
+      "description": "OpenAI rolled out support on Thursday for controlling Apple’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.\nThe new feature, available for ChatGPT on the Mac, allows the OpenAI system to take actions s…",
+      "url": "https://biztoc.com/x/bec6392766efb871",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T02:08:26Z"
+    },
+    {
+      "title": "ChatGPT can now control iMessage, potentially raising Apple privacy concerns",
+      "description": "An OpenAI tool that could upload Apple customer data to that company's network is likely to spark questions.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/21/tech/chatgpt-imessage-apple-privacy",
+      "source": "The Japan Times",
+      "publishedAt": "2026-08-21T02:04:00Z"
+    },
+    {
+      "title": "Berkshire Hathaway Just Bought More of This Brilliant Artificial Intelligence (AI) Stock",
+      "description": "While Warren Buffett may no longer be the CEO of Berkshire Hathaway (NYSE: BRKA) (NYSE: BRKB), it remains a very popular company to follow because it still adheres to his principles. Furthermore, Buffett still sits on the board of directors, so if he doesn't …",
+      "url": "https://biztoc.com/x/a8dabceae1f1fa5d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T01:55:51Z"
+    },
+    {
+      "title": "Show HN: Pigame – pi+LLM plays black-box browser games via observe/move tools",
+      "description": "If we compress LLMs into neuromorphic chips to reduce inference latency, would it be relatively easy to achieve low-cost autonomous driving?\n\nComments URL: https://news.ycombinator.com/item?id=49382504\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/ifoxhz/pigame",
+      "source": "Github.com",
+      "publishedAt": "2026-08-21T01:20:26Z"
+    },
+    {
+      "title": "経営者限定「AIを使わない会社は、終わる。Claude Code経営実装セミナー」を11月25日に沖縄で開催",
+      "description": "[NEXT INNOVAITION株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/175627/42/175627-42-175bbe2f94f7e948cb621954b1ce9aba-1254x1254.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000175627.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-21T00:49:09Z"
+    },
+    {
+      "title": "Nvidia pays $6B to license AI models from Poolside, invests $1B in the startup",
+      "description": "Nvidia's investment in Poolside highlights the escalating value and strategic importance of AI talent and technology in software development.\nThe post Nvidia pays $6B to license AI models from Poolside, invests $1B in the startup appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/nvidia-6b-poolside-ai-licensing-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T00:03:03Z"
+    },
+    {
+      "title": "Applied AI ML Engineer Director – NLP / LLM and Graphs",
+      "description": "The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm’s data and analytics journey. This includes ensuring the quality, integrity, and security of the company’s data, as well as leveraging this data to generate in…",
+      "url": "https://nlppeople.com/job/applied-ai-ml-engineer-director-nlp-llm-and-graphs-5",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-21T00:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging",
+      "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+      "Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training",
+      "Nvidia denies report it is rolling out China AI chip by year-end",
+      "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e1d9f7f696a6a725",
+        "https://news.livedoor.com/article/detail/32121025",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185076086"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal",
+        "https://news.livedoor.com/article/detail/32121667",
+        "https://www.digitimes.com/news/a20260821PR203/anthropic-business-claude-worldwide-demand.html"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa",
+        "https://cryptobriefing.com/nvidia-denies-china-ai-chip-rollout",
+        "https://cryptobriefing.com/nvidia-6b-poolside-ai-licensing-deal"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
+        "https://biztoc.com/x/e52f2a1687218524",
+        "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

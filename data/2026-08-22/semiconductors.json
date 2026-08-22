@@ -1,0 +1,426 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-22",
+  "last_updated_utc": "2026-08-22T06:30:30.920Z",
+  "news": [
+    {
+      "title": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
+      "description": "The global memory market is entering a sharp upcycle as cloud providers boost capital spending and demand for AI infrastructure lifts DRAM, NAND, and HBM prices. According to DIGITIMES, the three largest upstream memory chip makers are headed for a more than …",
+      "url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T06:24:31Z"
+    },
+    {
+      "title": "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
+      "description": "Bosch Rexroth, the industrial technology subsidiary of Bosch, showcased advanced semiconductor and smart manufacturing solutions at the 2026 Taipei International Industrial Automation Exhibition, held from August 19 to 22.",
+      "url": "https://www.digitimes.com/news/a20260821PD214/bosch-equipment-taiwan-growth-cowos.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T06:20:00Z"
+    },
+    {
+      "title": "Beelink intros affordable Intel-powered mini PC with built-in PSU",
+      "description": "The Beelink EQi13 now has a new and affordable configuration, and it features the Intel Core i5 13420H instead of the 13500H that the mini PC initially released with. All the other specs remain pretty much the same, and the launch price is $499.",
+      "url": "https://www.notebookcheck.net/Beelink-intros-affordable-Intel-powered-mini-PC-with-built-in-PSU.1374080.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-21T06:19:00Z"
+    },
+    {
+      "title": "Alibaba expects second-generation T-Head chip to tape out and enter production this year",
+      "description": "Alibaba CEO Eddie Wu said on Aug. 20 that the company’s second-generation T-Head chip is expected to begin tape-out and production in the second half of this year. Alibaba said the chip will offer stronger computing performance and interconnect bandwidth, and…",
+      "url": "https://technode.com/2026/08/21/alibaba-expects-second-generation-t-head-chip-to-tape-out-and-enter-production-this-year",
+      "source": "TechNode",
+      "publishedAt": "2026-08-21T06:08:37Z"
+    },
+    {
+      "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
+      "description": "Alibaba has revealed margins from its cloudy AI operation are rising so quickly it will be able to achieve return on investment for new hardware purchases faster than previously planned. Speaking on the company’s earnings call yesterday, CFO Toby Xu said the …",
+      "url": "https://biztoc.com/x/caf6f22b3e9730a0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T05:55:55Z"
+    },
+    {
+      "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5",
+      "description": "MOST POPULAR\n- \n \n DEVOPS Go updates may delight diehard gophers but displease AI overlordsv 1.27 expands generics to support methods \n- \n \n EDGE AND IOT Waymo has designed a robocar chip to stay ahead of Tesla5 nm ML accelerators promise 1,000+ TOPS, ultra-l…",
+      "url": "https://biztoc.com/x/8420732b210e9530",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T05:55:54Z"
+    },
+    {
+      "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
+      "description": "Supermicro has fired some staff after conducting an investigation into allegations that its execs participated in a scheme to ship $2.5 billion worth of servers packing Nvidia GPUs to China, in violation of US export controls. In March, the US Department of J…",
+      "url": "https://biztoc.com/x/22ccb648ecb63c1c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T05:55:40Z"
+    },
+    {
+      "title": "NuGet Trusted Publishing: Designing Keyless Package Releases for .NET",
+      "description": "Learn how NuGet Trusted Publishing enables keyless .NET package releases using modern identity-based authentication to reduce long-lived credential and supply chain risks.",
+      "url": "https://www.c-sharpcorner.com/article/nuget-trusted-publishing-designing-keyless-package-releases-for-net",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-21T05:46:32Z"
+    },
+    {
+      "title": "His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years",
+      "description": "Unitree CEO says general-purpose robots are still bottlenecked.\nKevin Frayer/Getty Images\nUnitree Robotics CEO Wang Xingxing predicts a major robotics breakthrough in two to five years.\nUnitree Robotics raised $900 million in its Shanghai IPO this week.\nNvidi…",
+      "url": "https://biztoc.com/x/84f600788c60b612",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T05:40:19Z"
+    },
+    {
+      "title": "CORSAIR 3200D RS ARGB Mid-Tower PC Case â 3X RS120 ARGB PWM Fans Included, GPU Anti-sag Stabilization Arm, ASUS BTF, MSI Project Zero, Gigabyte Project Stealth $55.99 (1 replies)",
+      "description": "Use code: SUPERSAVING \n\nhttps://computers.woot.com/offers...nt_wp_0_16",
+      "url": "https://slickdeals.net/f/19905063-corsair-3200d-rs-argb-mid-tower-pc-case-3x-rs120-argb-pwm-fans-included-gpu-anti-sag-stabilization-arm-asus-btf-msi-project-zero-gigabyte-project-stealth-55-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-21T05:37:13Z"
+    },
+    {
+      "title": "Claude in Microsoft Foundry: Benchmarking Tool Search vs Static Tools",
+      "description": "Compare Claude tool search with static tool loading in Microsoft Foundry and measure tool selection accuracy, latency, token usage, and agent performance.",
+      "url": "https://www.c-sharpcorner.com/article/claude-in-microsoft-foundry-benchmarking-tool-search-vs-static-tools",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-21T05:32:54Z"
+    },
+    {
+      "title": "Microsoft Foundry Claude Agents: Testing Web Search, Web Fetch, and Tool Use",
+      "description": "Learn how to build and test Claude agents in Microsoft Foundry using web search, web fetch, MCP connectors, tool search, and structured outputs.",
+      "url": "https://www.c-sharpcorner.com/article/microsoft-foundry-claude-agents-testing-web-search-web-fetch-and-tool-use",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-08-21T05:28:35Z"
+    },
+    {
+      "title": "South Korea plans chip windfall fund to support youth, AI investment",
+      "description": "South Korea's strategic fund aims to transform tech windfalls into long-term economic resilience, focusing on youth, AI, and global supply chains.\nThe post South Korea plans chip windfall fund to support youth, AI investment appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/south-korea-chip-windfall-fund-youth-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T05:25:59Z"
+    },
+    {
+      "title": "Strikes in the Gulf changing rules behind India’s big-money bets",
+      "description": "India Private Equity Investment 2026: Geopolitical risks now shape private equity deal considerations in India.  Investors increasingly focus on resilience and supply-chain stability for investments.  Capital deployment concentrates on manufacturing and finan…",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/india-private-equity-investment-2026-geopolitical-risks-gulf-war-pe-deals-investment-strategy-resilience-deloitte-report-bain-capital-limited-partners/articleshow/133393403.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T05:21:44Z"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE launch set for August 27: Expected specs and features",
+      "description": "Samsung will host its Galaxy Event on August 27, where it is expected to unveil the Galaxy S26 FE with an Exynos 2500 chip, new AI features, upgraded cameras and Android 17-based One UI",
+      "url": "https://www.business-standard.com/technology/tech-news/samsung-galaxy-s26-fe-launch-set-for-august-27-expected-specs-and-features-126082100294_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-21T05:15:57Z"
+    },
+    {
+      "title": "Viewpoint: If AI Compute Is an Investable Asset, AI Agency Must Become Insurable",
+      "description": "NVIDIA has just made an argument that should matter far beyond the semiconductor industry. In a recent post, the company described AI-factory compute as an emerging investable infrastructure asset, supported by financing platforms with Apollo, BlackRock, Blac…",
+      "url": "https://www.insurancejournal.com/news/national/2026/08/21/882374.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-08-21T05:11:07Z"
+    },
+    {
+      "title": "Retro style meets AMD power: Acemagic Retro X3 mini-PC currently still available at a discount",
+      "description": "The Acemagic Retro X3 is an unusual mini-PC that immediately catches the eye with its iconic retro design. Beneath its nostalgic exterior lies modern hardware that makes this compact computer a versatile companion for everyday use, multimedia, and light gamin…",
+      "url": "https://www.notebookcheck.net/Retro-style-meets-AMD-power-Acemagic-Retro-X3-mini-PC-currently-still-available-at-a-discount.1372557.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-21T05:11:00Z"
+    },
+    {
+      "title": "South Korea plans chip windfall fund to back youth, AI investment",
+      "description": "The proposed \"Future Response Fund\" would finance programmes aimed at helping young people find jobs, buy ‌homes and ⁠start families, ⁠while also supporting investments in AI, regional development and talent development, according to a ​ministry press release.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/articleshow/133393709.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T05:02:19Z"
+    },
+    {
+      "title": "Lenovo Chromebook Plus 2-in-1 Laptop: 14\" Touchscreen FHD Touchscreen, Intel Core 3 N355 CPU, 8GB RAM, Intel Graphics, 128GB SSD $399 + Free Shipping",
+      "description": "Best Buy [bestbuy.com] has *Lenovo Chromebook Plus 2-in-1 Laptop* for *$399*. *Shipping is free*. Otherwise, select free store pickup where available. \n \nSpecs:[list][*]14\" IPS touchscreen, WUXGA...",
+      "url": "https://slickdeals.net/f/19904910-lenovo-chromebook-plus-2-in-1-laptop-14-touchscreen-fhd-touchscreen-intel-core-3-n355-cpu-8gb-ram-intel-graphics-128gb-ssd-399-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-21T05:00:59Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3i (2026): 15.3\" FHD+ IPS 120Hz Touch, Intel Core 7 350, 16GB DDR5, 512GB SSD $699.99 + Free Shipping",
+      "description": "Best Buy [bestbuy.com] has *Lenovo IdeaPad Slim 3i* (2026) for *$699.99*. *Shipping is free*. Otherwise, select free store pickup where available. \n \nSpecs:[list][*]15.3\" IPS touchscreen, FHD (1920 x...",
+      "url": "https://slickdeals.net/f/19904895-lenovo-ideapad-slim-3i-2026-15-3-fhd-ips-120hz-touch-intel-core-7-350-16gb-ddr5-512gb-ssd-699-99-free-shipping",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-08-21T05:00:40Z"
+    },
+    {
+      "title": "iPhone 18 Pro and Pro Max Price Increases: What You’ll Actually Pay",
+      "description": "Apple’s highly anticipated iPhone 18 Pro is facing significant challenges due to a global memory chip shortage. While Apple has successfully developed its advanced 2-nanometer A20 Pro processors, the company is struggling to secure adequate supplies of DRAM, …",
+      "url": "https://www.geeky-gadgets.com/iphone-18-pro-chip-shortage",
+      "source": "Geeky Gadgets",
+      "publishedAt": "2026-08-21T05:00:14Z"
+    },
+    {
+      "title": "16-inch HP OmniBook X Flip with OLED display, AMD APU and 16 GB RAM scores $630 discount",
+      "description": "Deal | The well-equipped 16-inch HP OmniBook X Flip 2-in-1 laptop is now available with a substantial 47% discount on Best Buy, sporting a Ryzen AI 5 430 APU paired with 16 GB of RAM and 512 GB storage.",
+      "url": "https://www.notebookcheck.net/16-inch-HP-OmniBook-X-Flip-with-OLED-display-AMD-APU-and-16-GB-RAM-scores-630-discount.1374692.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-21T04:54:00Z"
+    },
+    {
+      "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
+      "description": "Cloudy AI is Chinese giant’s ‘most certain’ path to growth as e-commerce slows",
+      "url": "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-21T04:38:53Z"
+    },
+    {
+      "title": "Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training",
+      "description": "These lawsuits could reshape data privacy norms, emphasizing stricter consent and transparency requirements for AI training practices.\nThe post Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training appeared first o…",
+      "url": "https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T04:37:35Z"
+    },
+    {
+      "title": "MPD-2047 proposes 41-62 acres for Delhi's semiconductor, drone, AI hubs",
+      "description": "Delhi's IT department has sought 41-62 acres for four technology projects under MPD-2047, including semiconductor and electronics, drone innovation, a digital hub, and AI-enabled data infrastructure",
+      "url": "https://www.business-standard.com/india-news/mpd-2047-proposes-41-62-acres-for-delhi-s-semiconductor-drone-ai-hubs-126082100193_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-21T04:30:36Z"
+    },
+    {
+      "title": "Foundry releases Nuke 17.1",
+      "description": "Check out the changes to the compositing software, including relighting Gaussian splats and Hydra 2.0 support in the 3D viewer.",
+      "url": "https://www.cgchannel.com/2026/08/foundry-releases-nuke-17-1",
+      "source": "Cgchannel.com",
+      "publishedAt": "2026-08-21T04:30:07Z"
+    },
+    {
+      "title": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
+      "description": "Key Points\n- AI-driven optical demand is fueling Fabrinet's growth: Data center interconnect products such as 400ZR, 800ZR and ZR+ reached a $1 billion annualized revenue run rate, with management expecting strong demand for several years. \n- Fabrinet is dive…",
+      "url": "https://biztoc.com/x/dcfea2d6fdb3da3e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T04:26:37Z"
+    },
+    {
+      "title": "South Korea plans chip windfall fund to back youth, AI investment",
+      "description": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation\nSEOUL, Aug 21 (Reuters) - South Korea plans to create a new fund to channel tax windfalls from the country’s semiconductor boom into supporting younger generations and invest in…",
+      "url": "https://biztoc.com/x/f27e63b4d86f8fd8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T04:24:42Z"
+    },
+    {
+      "title": "Savage Mobile Vlogging Kit on sale for $14.99 USD",
+      "description": "The Savage Mobile Vlogging Kit is on sale for $14.99 USD, which is a discount of $40 USD. The Savage Mobile Vlogging Kit includes a supercardioid shotgun mic, a combination pistol-grip and tripod stand, an adjustable cell phone/smart device holder, 36-chip LE…",
+      "url": "https://www.newsshooter.com/2026/08/20/savage-mobile-vlogging-kit-on-sale-for-14-99-usd",
+      "source": "Newsshooter",
+      "publishedAt": "2026-08-21T04:19:15Z"
+    },
+    {
+      "title": "Global Market: KOSPI gains on chip boost; foreigners turn net buyers",
+      "description": "South Korean shares rose on Friday, led by gains in Samsung Electronics and SK Hynix after U.S. semiconductor stocks advanced, though the KOSPI remained on track for a weekly decline. Foreign investor inflows and a stronger won supported sentiment, while broa…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-gains-on-chip-boost-foreigners-turn-net-buyers/articleshow/133392890.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T04:17:08Z"
+    },
+    {
+      "title": "Google, Marvell long-term deal keeps Broadcom at bay, limits MediaTek impact",
+      "description": "Marvell filed a Form 8-K with the US Securities and Exchange Commission on August 19, 2026, revealing that it signed a commercial agreement with Google on July 29 to develop custom chips. The move has drawn close attention across Taiwan's chip supply chain, e…",
+      "url": "https://www.digitimes.com/news/a20260821PD211/marvell-google-mediatek-broadcom-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T04:17:03Z"
+    },
+    {
+      "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+      "description": "The Taiwanese government's double-digit GDP forecast growth in 2026 may reflect optimism in the artificial-intelligence economy, but growth is likely to moderate over time given risks of capex slowdown and macroeconomic downturns, and with its high concentrat…",
+      "url": "https://biztoc.com/x/6738bb89c75bff6d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T04:09:15Z"
+    },
+    {
+      "title": "Power supply lags behind AI compute growth: chips, optical interconnects battle for energy efficiency",
+      "description": "At the \"AI on Chips: Semiconductor Industry Trends Forum\" hosted by DIGITIMES in Taipei on August 20, semiconductor, investment, and financial executives gathered to discuss the industry's next frontier. During the event, DIGITIMES deputy director Jason Tsai …",
+      "url": "https://www.digitimes.com/news/a20260821PD216/efficiency-chips-growth-digitimes-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T04:08:47Z"
+    },
+    {
+      "title": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
+      "description": "Xiaomi is preparing to take its in-house smartphone silicon further upmarket, with founder and chairman Lei Jun confirming that a new generation of its Xring chip is on the way. Supply-chain sources say the chip has already returned from fabrication, complete…",
+      "url": "https://www.digitimes.com/news/a20260821VL206/xiaomi-xring-launch-silicon-testing-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T04:08:08Z"
+    },
+    {
+      "title": "Spel Semiconductor reports standalone net loss of Rs 1.34 crore in the June 2026 quarter",
+      "description": "Sales decline 95.85% to Rs 0.08 crore",
+      "url": "https://www.business-standard.com/markets/capital-market-news/spel-semiconductor-reports-standalone-net-loss-of-rs-1-34-crore-in-the-june-2026-quarter-126082100163_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-21T04:01:02Z"
+    },
+    {
+      "title": "9-Pack: DJ&A Veggie Crisps 9 for $19.99",
+      "description": "<ul>\n<li>Veggies, but make them a snack</li>\n<li>Great for adding onto salads (or not adding onto salads)</li>\n<li>Really, just eat 'em straight out of the bag</li>\n<li>Everything from mushrooms to potato wedges</li>\n<li>Can they make a margarita: No, but if …",
+      "url": "https://meh.com/deals/9-pack-dj-a-veggie-crisps",
+      "source": "Meh.com",
+      "publishedAt": "2026-08-21T04:00:00Z"
+    },
+    {
+      "title": "Workplace mood-monitoring tech may not be something to smile about",
+      "description": "Microsoft, Amazon, Nvidia and Meta are among companies interested in collecting data on how people feel at work",
+      "url": "https://www.irishtimes.com/business/work/2026/08/21/workplace-mood-monitoring-tech-may-not-be-something-to-smile-about",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-21T04:00:00Z"
+    },
+    {
+      "title": "Samsung’s latest AI move could make your next phone more expensive",
+      "description": "The next time you upgrade your phone, the extra expense may not be for an improved camera, a brighter display, or some other AI function.\nIt could be coming from the plant that creates the chips inside it.\nSamsung Electronics has hiked pricing on some sophist…",
+      "url": "https://biztoc.com/x/3e3368f78284648a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T03:56:11Z"
+    },
+    {
+      "title": "Broccoli and Cauliflower Chips Sold on Amazon Are Recalled Over Gluten That Was Not on the Label",
+      "description": "Momchipz Veggie Chips sold to 49 US buyers on Amazon were recalled for undeclared gluten. The best-before date has not passed yet.",
+      "url": "https://www.medicaldaily.com/momchipz-veggie-chips-recall-undeclared-gluten-amazon-477592",
+      "source": "Medical Daily",
+      "publishedAt": "2026-08-21T03:35:28Z"
+    },
+    {
+      "title": "Are You Sure You Want a Car With a Giant Touch Screen?",
+      "description": "RAMageddon could soon push car prices higher as modern vehicles rely on ever more RAM and powerful centralized computers to run everything from infotainment to driver-assistance systems. Analysts cited by The Atlantic estimate the shortage could add a few per…",
+      "url": "https://tech.slashdot.org/story/26/08/20/2030251/are-you-sure-you-want-a-car-with-a-giant-touch-screen",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T03:30:00Z"
+    },
+    {
+      "title": "SK hynix weighs Japan memory fab in Miyagi, but says no investment is final",
+      "description": "SK hynix is considering a large-scale memory semiconductor investment in Japan, with Miyagi Prefecture emerging as a potential site, although the company has stressed that no decision has been finalized.",
+      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T03:27:33Z"
+    },
+    {
+      "title": "AI paid user conversion rate in US only 3% as rising token costs fuel edge AI server demand",
+      "description": "At the \"AI on Chips: Semiconductor Industry Trends Forum\" hosted by DIGITIMES, industry experts highlighted that the massive volume of tokens consumed by AI services has become a growing financial burden for companies relying on AI integration. Meanwhile, alt…",
+      "url": "https://www.digitimes.com/news/a20260821PD212/ai-server-market-digitimes-growth-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T03:22:19Z"
+    },
+    {
+      "title": "Analyst: 2028 key year for optical interconnects in AI racks",
+      "description": "Optical communications will likely enter AI server racks in 2028, DIGITIMES analyst Joyce Chen said on August 20 at a semiconductor industry forum in Taipei, as rising AI cluster scale drives demand for faster data transfer, lower latency, and higher-bandwidt…",
+      "url": "https://www.digitimes.com/news/a20260821PD210/communications-2028-digitimes-ai-server-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-21T03:16:24Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
+      "CoWoS boom lifts Taiwan semiconductor equipment makers, Bosch Rexroth targets 2027 volume growth",
+      "Beelink intros affordable Intel-powered mini PC with built-in PSU",
+      "Alibaba expects second-generation T-Head chip to tape out and enter production this year",
+      "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html",
+        "https://technode.com/2026/08/21/alibaba-expects-second-generation-t-head-chip-to-tape-out-and-enter-production-this-year",
+        "https://biztoc.com/x/8420732b210e9530"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260821PD214/bosch-equipment-taiwan-growth-cowos.html",
+        "https://www.insurancejournal.com/news/national/2026/08/21/882374.htm",
+        "https://www.business-standard.com/india-news/mpd-2047-proposes-41-62-acres-for-delhi-s-semiconductor-drone-ai-hubs-126082100193_1.html"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/banking/finance/india-private-equity-investment-2026-geopolitical-risks-gulf-war-pe-deals-investment-strategy-resilience-deloitte-report-bain-capital-limited-partners/articleshow/133393403.cms",
+        "https://slickdeals.net/f/19904895-lenovo-ideapad-slim-3i-2026-15-3-fhd-ips-120hz-touch-intel-core-7-350-16gb-ddr5-512gb-ssd-699-99-free-shipping",
+        "https://biztoc.com/x/6738bb89c75bff6d"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/caf6f22b3e9730a0",
+        "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
+        "https://biztoc.com/x/3e3368f78284648a"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Beelink-intros-affordable-Intel-powered-mini-PC-with-built-in-PSU.1374080.0.html",
+        "https://biztoc.com/x/22ccb648ecb63c1c",
+        "https://www.c-sharpcorner.com/article/nuget-trusted-publishing-designing-keyless-package-releases-for-net"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
