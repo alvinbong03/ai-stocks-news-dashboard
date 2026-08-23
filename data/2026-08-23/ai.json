@@ -1,0 +1,305 @@
+{
+  "theme": "ai",
+  "date": "2026-08-23",
+  "last_updated_utc": "2026-08-23T06:31:29.459Z",
+  "news": [
+    {
+      "title": "OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%",
+      "description": "The price ​cuts are effective on OpenAI's application programming interface, or ​API, and are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work and Codex",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-22T03:20:07Z"
+    },
+    {
+      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "description": "The price cuts ​are effective on OpenAI's application programming interface, or API, and ​are rolling out across eligible plans for credits on its agentic AI product ChatGPT Work ​and its coding tool Codex, ⁠OpenAI said.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-developer-pricing-for-frontier-gpt-5-6-sol-model-by-more-than-20/articleshow/133416508.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-22T03:07:52Z"
+    },
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "description": "Anthropic is poised to hit the public market at a time when an increasing number of Americans are worried about artificial intelligence and are loudly opposing new data centers. That backlash is expected to be a key risk factor in Anthropic's IPO prospectus, …",
+      "url": "https://biztoc.com/x/5f388a53b4e82e9d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T21:52:14Z"
+    },
+    {
+      "title": "vLLM’s Disaggregated Serving Cuts GPU Interference, Delivering 2.5x Higher Goodput on the Same Hardware",
+      "description": "The Problem: Prefill and Decode Fighting Over the Same GPUs Standard LLM inference collocates two fundamentally different workloads on the same GPU resources. Prefill is compute-bound—it processes the entire input prompt in parallel using large matrix multipl…",
+      "url": "https://forkast.news/vllms-disaggregated-serving-cuts-gpu-interference-delivering-2-5x-higher-goodput-on-the-same-hardware",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-22T03:14:16Z"
+    },
+    {
+      "title": "Anthropic’s Q2 Revenue Overtook OpenAI for the First Time – And Reached Its First Positive Operating Income",
+      "description": "The frontier of artificial intelligence has reached a definitive inflection point. For the first time, Anthropic has surpassed OpenAI in quarterly revenue, a shift that signals more than just a change in market leadership-it marks the maturation of the agent-…",
+      "url": "https://forkast.news/anthropics-q2-revenue-overtook-openai-for-the-first-time-and-reached-its-first-positive-operating-income",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-22T01:57:16Z"
+    },
+    {
+      "title": "Nscale Targets $3 Billion IPO as AI Data Center Demand Soars",
+      "description": "Nscale, a developer of artificial intelligence (AI) data centers, aims to raise as much as $3 billion in an initial public offering that could take place as soon as September, Bloomberg reported Friday (Aug. 21), citing unnamed sources.\nDeliberations are ongo…",
+      "url": "https://biztoc.com/x/633ea99407a0d3d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-22T01:10:34Z"
+    },
+    {
+      "title": "Nscale Targets $3 Billion IPO as AI Data Center Demand Soars",
+      "description": "Nscale, a developer of artificial intelligence (AI) data centers, aims to raise as much as $3 billion in an initial public offering that could take place as soon as September, Bloomberg reported Friday (Aug. 21), citing unnamed sources. Deliberations are ongo…",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/nscale-targets-3-billion-ipo-as-ai-data-center-demand-soars",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-21T23:59:25Z"
+    },
+    {
+      "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
+      "description": "Nv's new chips need new datacenters, but you can't have bit barns without power",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185092154",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T23:52:16Z"
+    },
+    {
+      "title": "ChatGPT Can Take Over Your iMessages. But Do You Really Want That?",
+      "description": "OpenAI has a new feature that allows its AI chatbot to read your texts and write new ones.",
+      "url": "https://www.cnet.com/tech/services-and-software/chatgpt-take-over-imessage",
+      "source": "CNET",
+      "publishedAt": "2026-08-21T23:47:28Z"
+    },
+    {
+      "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+      "description": "The semiconductor industry is benefiting from the terrific demand for artificial intelligence (AI) chips. Nvidia (NASDAQ: NVDA) has been one of the biggest beneficiaries of the phenomenal growth in this sector in recent years.\nNvidia's dominance in the graphi…",
+      "url": "https://biztoc.com/x/b2efe4d9fee0d4cf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T23:41:26Z"
+    },
+    {
+      "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
+      "description": "Nv's new chips need new datacenters, but you can't have bit barns without power",
+      "url": "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369",
+      "source": "Theregister.com",
+      "publishedAt": "2026-08-21T23:00:18Z"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "description": "Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers.\nCloverleaf was founded in …",
+      "url": "https://biztoc.com/x/afb9780f441748b1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T22:53:20Z"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf | TechCrunch",
+      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T22:37:38Z"
+    },
+    {
+      "title": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears",
+      "description": "OpenAI has imposed a two-week pause on frontier-model development after internal signals indicated that an upcoming system known as Astra could reach a \"Crit...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-hits-brakes-frontier-ai-223142230.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-21T22:31:42Z"
+    },
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "description": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-21T21:49:29Z"
+    },
+    {
+      "title": "Opinion: There are lies, damned lies and AI: why I despise ‘artificial intelligence’",
+      "description": "Quackery, fakery and deceit are all too obvious in this modern frontier of machine-learning",
+      "url": "https://www.irishtimes.com/opinion/2026/08/22/there-are-lies-damned-lies-and-ai-why-i-despise-artificial-intelligence",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-22T05:00:00Z"
+    },
+    {
+      "title": "As Nvidia prepares to report earnings, growth-rate must slow down sooner or later",
+      "description": "European Central Bank’s recent warning about the AI boom singled out American tech company",
+      "url": "https://www.irishtimes.com/your-money/2026/08/22/as-nvidia-prepares-to-report-earnings-growth-rate-must-slow-down-sooner-or-later",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-22T04:36:00Z"
+    },
+    {
+      "title": "Anthropic taps Google chip veteran Amir Salek as part of push into hardware",
+      "description": "Anthropic, which buys chips from a variety of sources, including Nvidia Corp., Google and Amazon.com Inc., has indicated recently that it wants to build an in-house silicon business",
+      "url": "https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-22T02:56:53Z"
+    },
+    {
+      "title": "Broadcom CDS surges to record 122 basis points amid massive off-balance-sheet AI chip debt deal",
+      "description": "Broadcom's massive AI chip debt gamble highlights the precarious balance between innovation-driven growth and financial risk exposure.\nThe post Broadcom CDS surges to record 122 basis points amid massive off-balance-sheet AI chip debt deal appeared first on C…",
+      "url": "https://cryptobriefing.com/broadcom-cds-record-debt-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-22T01:58:26Z"
+    },
+    {
+      "title": "AI data center builder Nscale reportedly seeking $3B IPO",
+      "description": "Nscale Global Holdings Ltd. reportedly plans to raise $3 billion in an initial public offering that could take place as soon as next month. Bloomberg today cited sources as saying that the London-based company intends to list its shares on a U.S. stock exchan…",
+      "url": "https://siliconangle.com/2026/08/21/ai-data-center-builder-nscale-reportedly-seeking-3b-ipo",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-08-22T00:59:08Z"
+    },
+    {
+      "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
+      "description": "Nvidia has made its fortune on the AI boom, but the company has a problem. It faces a growing number of roadblocks which, if left unchecked, could pop the bubble. Thus, the AI arms dealer has been forced to play a game of Whac-a-Mole, shoring up the foundatio…",
+      "url": "https://biztoc.com/x/0ca56d246396e7e5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-22T00:55:24Z"
+    },
+    {
+      "title": "Linus Torvalds fixes Intel Xe GPU bug with AI assistance, calls it a useful but flawed debugging partner",
+      "description": "AI's role in debugging highlights its potential to assist developers, yet underscores the necessity of human oversight and expertise in problem-solving.\nThe post Linus Torvalds fixes Intel Xe GPU bug with AI assistance, calls it a useful but flawed debugging …",
+      "url": "https://cryptobriefing.com/linus-torvalds-ai-gpu-bug-fix",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T23:43:25Z"
+    },
+    {
+      "title": "OpenAI’s ChatGPT Can Now Read And Send iMessages Using Your Mac",
+      "description": "OpenAI’s ChatGPT can now read, search, draft, and send iMessages, SMS, and RCS messages through the Messages app on Apple Silicon Macs.\nThe post OpenAI’s ChatGPT Can Now Read And Send iMessages Using Your Mac first appeared on Redmond Pie.",
+      "url": "https://www.redmondpie.com/openais-chatgpt-can-now-read-and-send-imessages-using-your-mac",
+      "source": "redmondpie.com",
+      "publishedAt": "2026-08-21T23:03:15Z"
+    },
+    {
+      "title": "Microsoft receives first production Vera Rubin systems from Nvidia",
+      "description": "Microsoft's acquisition of Nvidia's Vera Rubin systems could significantly lower AI costs, enabling broader deployment of advanced AI applications.\nThe post Microsoft receives first production Vera Rubin systems from Nvidia appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/microsoft-nvidia-vera-rubin-production",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T22:37:36Z"
+    },
+    {
+      "title": "OpenAI calls for stronger AI laws in California",
+      "description": "OpenAI's advocacy for unified AI laws in California highlights the need for consistent regulations to streamline compliance and enhance safety.\nThe post OpenAI calls for stronger AI laws in California appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-california-ai-laws",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T22:37:25Z"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch",
+      "description": "Nvidia just showed that the harness, not the AI model, is now the real heroTechCrunch NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical BlogNVIDIA Developer …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185090904",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-21T21:52:58Z"
+    },
+    {
+      "title": "Anthropic IPO filing to list AI backlash as risk factor, sources say",
+      "description": "Anthropic's IPO highlights growing investor caution towards AI controversies, potentially affecting market dynamics and future valuations.\nThe post Anthropic IPO filing to list AI backlash as risk factor, sources say appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-ipo-filing-to-list-ai-backlash-as-risk-factor-sources-say",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T21:52:03Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%",
+      "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "vLLM’s Disaggregated Serving Cuts GPU Interference, Delivering 2.5x Higher Goodput on the Same Hardware",
+      "Anthropic’s Q2 Revenue Overtook OpenAI for the First Time – And Reached Its First Positive Operating Income"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185092154",
+        "https://biztoc.com/x/b2efe4d9fee0d4cf",
+        "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/5f388a53b4e82e9d",
+        "https://biztoc.com/x/633ea99407a0d3d1",
+        "https://www.pymnts.com/news/investment-tracker/ipo/2026/nscale-targets-3-billion-ipo-as-ai-data-center-demand-soars"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-developer-pricing-for-frontier-gpt-5-6-sol-model-by-more-than-20/articleshow/133416508.cms",
+        "https://forkast.news/anthropics-q2-revenue-overtook-openai-for-the-first-time-and-reached-its-first-positive-operating-income"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://forkast.news/vllms-disaggregated-serving-cuts-gpu-interference-delivering-2-5x-higher-goodput-on-the-same-hardware",
+        "https://www.irishtimes.com/opinion/2026/08/22/there-are-lies-damned-lies-and-ai-why-i-despise-artificial-intelligence",
+        "https://cryptobriefing.com/broadcom-cds-record-debt-deal"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI cuts developer pricing for GPT-5.6 Sol model by more than 20%. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
