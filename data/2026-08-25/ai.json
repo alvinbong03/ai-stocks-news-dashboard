@@ -1,0 +1,319 @@
+{
+  "theme": "ai",
+  "date": "2026-08-25",
+  "last_updated_utc": "2026-08-25T06:36:29.949Z",
+  "news": [
+    {
+      "title": "Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times",
+      "description": "Fadu is betting that the next wave of artificial intelligence (AI) data centers will reshape the role of flash memory, unveiling a broader technolo...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260824/fadu-showcases-ai-data-center-ambitions-at-ocp-korea-tech-day",
+      "source": "코리아타임스",
+      "publishedAt": "2026-08-24T06:30:55Z"
+    },
+    {
+      "title": "Nvidia reportedly weighs Perplexity investment as AI strategy expands beyond chips",
+      "description": "Nvidia is reportedly in discussions to invest in artificial intelligence startup Perplexity as part of a funding round that would value the company at more than US$30 billion, underscoring the chipmaker's increasingly aggressive effort to deepen its influence…",
+      "url": "https://www.digitimes.com/news/a20260824VL208/nvidia-investment-chips-software-startup.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T05:59:58Z"
+    },
+    {
+      "title": "Nvidia Q2 Earnings: Can the AI chip giant beat sky-high expectations?",
+      "description": "Nvidia is set to report its fiscal second-quarter 2027 results on Wednesday, August 26, after the U.S. market close. Wall Street expects another quarter of exceptional growth, driven by strong AI data-centre spending. The results could set the tone for the br…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/nvidia-q2-earnings-can-the-ai-chip-giant-beat-sky-high-expectations/nvidia-earnings-the-ai-markets-biggest-test/slideshow/133453352.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-08-24T05:25:40Z"
+    },
+    {
+      "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで～失敗例から学ぶAIネイティブな採用組織への第一歩～｜9/11（金）・9/18（金）開催",
+      "description": "[株式会社overflow]\n[画像1: https://prcdn.freetls.fastly.net/release_image/53307/335/53307-335-55bdbd0d3c238276e4a56a0b2743ed78-1200x630.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000335.000053307.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-24T03:40:40Z"
+    },
+    {
+      "title": "Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration",
+      "description": "DIGITIMES has observed that Siri AI is built around four core layers - devices, models, reasoning and applications - and is designed to transform Siri from a voice assistant into an AI agent capable of executing tasks",
+      "url": "https://www.digitimes.com/reports/item.php?id=20260817RS400",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T02:57:35Z"
+    },
+    {
+      "title": "Interview: Inside Foxconn's playbook for the sovereign AI data center race",
+      "description": "Foxconn is repositioning its AI data center business around system integration, modular deployment, and sovereign computing, as the rapid growth of GPU infrastructure changes how customers design and procure computing capacity.",
+      "url": "https://www.digitimes.com/news/a20260824PD211/foxconn-data-center-infrastructure-manufacturing-business.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T02:32:36Z"
+    },
+    {
+      "title": "OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks",
+      "description": "One of OpenAI’s leading executives says people should prepare themselves for routine artificial intelligence-related cyberattacks.\nChris Lehane, the AI startup’s chief global affairs officer, gave this warning to The Guardian on Sunday (Aug. 23), days after h…",
+      "url": "https://biztoc.com/x/1362cb1b18f6032f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-24T00:09:22Z"
+    },
+    {
+      "title": "OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks",
+      "description": "One of OpenAI’s leading executives says people should prepare themselves for routine artificial intelligence-related cyberattacks. Chris Lehane, the AI startup’s chief global affairs officer, gave this warning to The Guardian on Sunday (Aug. 23), days after h…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-exec-tells-people-to-expect-routine-ai-driven-cyberattacks",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-23T23:47:43Z"
+    },
+    {
+      "title": "UAE weighs investment in 500 MW AI data center plan in Japan",
+      "description": "The United Arab Emirates is considering backing a proposed 500 MW AI data center in Akita prefecture, Japan, after local officials met with the UAE ambassador on Aug. 19. The project, which could begin operations as early as 2030, is being positioned as one o…",
+      "url": "https://www.digitimes.com/news/a20260824PD225/data-center-uae-investment-offshore-wind.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T06:35:00Z"
+    },
+    {
+      "title": "Nvidia earnings and Warsh’s Jackson Hole debut set to test a market already rotating away from AI",
+      "description": "Market dynamics may shift as Nvidia's earnings and Warsh's policy stance could influence tech investment and broader economic strategies.\nThe post Nvidia earnings and Warsh’s Jackson Hole debut set to test a market already rotating away from AI appeared first…",
+      "url": "https://cryptobriefing.com/nvidia-warsh-stock-market-rotation",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-24T06:33:32Z"
+    },
+    {
+      "title": "Exploring new frontiers of AI and games research — Google DeepMind",
+      "description": "Our latest research partnership with Fenris Creations, the independent studio behind the EVE Universe, represents a new chapter in our history of AI research in games.\n\nFenris Creations has spent more than two decades building one of the most extraordinary pe…",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source": "Deepmind.google",
+      "publishedAt": "2026-08-24T05:47:01Z"
+    },
+    {
+      "title": "Claude faces another outage as errors hit multiple models",
+      "description": "Anthropic is investigating elevated errors affecting several Claude models, including Opus 5, after another service disruption on August 24. The outage also hit Claude Code and follows multiple incidents recorded earlier this month at once.",
+      "url": "https://www.notebookcheck.net/Claude-faces-another-outage-as-errors-hit-multiple-models.1376666.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-24T05:31:00Z"
+    },
+    {
+      "title": "Global Market: Japan’s Nikkei swings as AI stocks slip ahead of Nvidia results",
+      "description": "Japan’s Nikkei swung between gains and losses on Monday as investors turned cautious ahead of Nvidia’s earnings this week. AI-related stocks came under pressure amid concerns over rising costs, while higher bond yields and inflation worries added to uncertain…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-swings-as-ai-stocks-slip-ahead-of-nvidia-results/articleshow/133451438.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T04:50:35Z"
+    },
+    {
+      "title": "Up 15% in 2026! Why Nvidia shares could be in for a huge week",
+      "description": "The AI behemoth heads into earnings with expectations already running very high.\nThe post Up 15% in 2026! Why Nvidia shares could be in for a huge week appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2026/08/24/up-15-in-2026-why-nvidia-shares-could-be-in-for-a-huge-week",
+      "source": "Motley Fool Australia",
+      "publishedAt": "2026-08-24T04:36:02Z"
+    },
+    {
+      "title": "US Stock Market: Nvidia earnings, Jackson Hole to test strength of AI-led stock rally",
+      "description": "Nvidia’s earnings and Fed Chair Kevin Warsh’s Jackson Hole debut are poised to test the AI-driven stock rally. Rising Treasury yields, inflation concerns and shifting rate expectations have increased market uncertainty, while investors await Nvidia’s outlook …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nvidia-earnings-jackson-hole-to-test-strength-of-ai-led-stock-rally/articleshow/133451150.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T04:31:37Z"
+    },
+    {
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
+      "description": "Nvidia is discussing investing in Perplexity as part of an equity round that would value the AI startup at more than $30 billion, the Information reported on Sunday citing people with knowledge of the discussion.\nReuters could not immediately verify the repor…",
+      "url": "https://biztoc.com/x/9b3eb1db036ed355",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-24T03:44:07Z"
+    },
+    {
+      "title": "Fujifilm opens new post-CMP cleaner plant at Oita to meet AI chip demand",
+      "description": "Fujifilm has completed a new production building at its Oita Factory in Japan to make post-CMP cleaners, expanding capacity for materials used in advanced semiconductors amid rising global demand for AI chips. For readers worldwide, the move underscores how c…",
+      "url": "https://www.digitimes.com/news/a20260824PD222/fujifilm-materials-capacity-demand-semiconductors.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T03:33:42Z"
+    },
+    {
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation",
+      "description": "Nvidia ​is discussing ​investing in Perplexity as ‌part ⁠of ⁠an ​equity round that would ​value the ​AI startup ⁠at ‌more ​than $30 ​billion, ⁠the Information reported on ​Sunday citing ​people with knowledge of ‌the discussion.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation/articleshow/133450280.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T03:24:57Z"
+    },
+    {
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
+      "description": "Aug 23 : Nvidia is discussing investing in Perplexity as part of an equity round that would value the AI startup at more than $30 billion, the Information reported on Sunday citing people with knowledge of the discussion.Reuters could not immediately verify t…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-information-reports-6336911",
+      "source": "CNA",
+      "publishedAt": "2026-08-24T03:18:37Z"
+    },
+    {
+      "title": "Nvidia discusses funding with Perplexity AI at $30B valuation",
+      "description": "Nvidia's potential partnership with Perplexity AI could significantly accelerate AI innovation and reshape the competitive landscape in tech.\nThe post Nvidia discusses funding with Perplexity AI at $30B valuation appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-perplexity-ai-30b-valuation-talks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-24T03:13:59Z"
+    },
+    {
+      "title": "Nvidia server prices to rise up to 17% as memory costs climb",
+      "description": "Prices for some Nvidia-based server systems due for delivery in 2027 are set to rise by more than 15%, with certain flagship configurations increasing about 17%, as higher memory and other component costs feed through to next-generation data center infrastruc…",
+      "url": "https://www.digitimes.com/news/a20260824VL206/nvidia-data-center-2027-dram-bloomberg.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T03:05:00Z"
+    },
+    {
+      "title": "Anthropic makes quiet move Nvidia investors must consider",
+      "description": "Amir Salek spent four years doing something that looked a lot like walking away from the chip business.\nAfter founding and running Google's Tensor Processing Unit program from 2013 to 2022 and shipping seven generations of the custom silicon that now powers m…",
+      "url": "https://biztoc.com/x/51985a844984eac5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-24T02:58:37Z"
+    },
+    {
+      "title": "AI chip roadmaps force faster changes in data-center design, Cadence says",
+      "description": "Rapid changes in the power and thermal requirements of AI accelerators are forcing data-center designers to incorporate chip-level information earlier in the planning process, according to Cadence Design Systems. This is narrowing a gap that once separated se…",
+      "url": "https://www.digitimes.com/news/a20260824VL205/cadence-design-cooling-accelerator-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-24T02:45:00Z"
+    },
+    {
+      "title": "SoftBank plans record ¥1T bond sale to fund OpenAI investments",
+      "description": "SoftBank's massive bond sale to fund OpenAI investments highlights its aggressive strategy, potentially reshaping AI industry dynamics and investor confidence.\nThe post SoftBank plans record ¥1T bond sale to fund OpenAI investments appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/softbank-record-bond-sale-openai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-24T01:55:00Z"
+    },
+    {
+      "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
+      "description": "Nvidia’s results could send shock waves through the tech sector—and the broader stock market.",
+      "url": "https://biztoc.com/x/7ae66b81483657da",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-24T01:10:36Z"
+    },
+    {
+      "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
+      "description": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include: Health, dental, vision, life, disability insurance Retirement Benefits: 401…",
+      "url": "https://nlppeople.com/job/software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "source": "Nlppeople.com",
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "title": "AI chip boom lifts South Korean semiconductor materials makers' profits in 2Q26",
+      "description": "The AI semiconductor investment boom is increasingly spilling over into the materials supply chain. South Korea's major semiconductor materials suppliers broadly improved profitability in the second quarter of 2026, as stronger demand for advanced materials d…",
+      "url": "https://www.digitimes.com/news/a20260821PD233/materials-investment-revenue-operating-profit-growth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-23T23:40:11Z"
+    },
+    {
+      "title": "Anthropic makes quiet move Nvidia investors must consider",
+      "description": "Amir Salek spent four years doing something that looked a lot like walking away from the chip business.\nAfter founding and running Google’s Tensor Processing Unit program from 2013 to 2022 and shipping seven generations of the custom silicon that now powers m…",
+      "url": "https://biztoc.com/x/4fbca8f6d235854c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-23T23:39:02Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times",
+      "Nvidia reportedly weighs Perplexity investment as AI strategy expands beyond chips",
+      "Nvidia Q2 Earnings: Can the AI chip giant beat sky-high expectations?",
+      "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで～失敗例から学ぶAIネイティブな採用組織への第一歩～｜9/11（金）・9/18（金）開催",
+      "Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260824VL208/nvidia-investment-chips-software-startup.html",
+        "https://m.economictimes.com/markets/us-stocks/news/nvidia-q2-earnings-can-the-ai-chip-giant-beat-sky-high-expectations/nvidia-earnings-the-ai-markets-biggest-test/slideshow/133453352.cms",
+        "https://cryptobriefing.com/nvidia-warsh-stock-market-rotation"
+      ]
+    },
+    {
+      "title": "Investment",
+      "summary": "Grouped stories where \"investment\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260824PD225/data-center-uae-investment-offshore-wind.html",
+        "https://www.digitimes.com/news/a20260821PD233/materials-investment-revenue-operating-profit-growth.html"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.koreatimes.co.kr/business/companies/20260824/fadu-showcases-ai-data-center-ambitions-at-ocp-korea-tech-day",
+        "https://www.digitimes.com/news/a20260824PD211/foxconn-data-center-infrastructure-manufacturing-business.html",
+        "https://www.digitimes.com/news/a20260824VL205/cadence-design-cooling-accelerator-infrastructure.html"
+      ]
+    },
+    {
+      "title": "Startup",
+      "summary": "Grouped stories where \"startup\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1362cb1b18f6032f",
+        "https://www.pymnts.com/news/artificial-intelligence/2026/openai-exec-tells-people-to-expect-routine-ai-driven-cyberattacks"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000335.000053307.html",
+        "https://www.digitimes.com/reports/item.php?id=20260817RS400",
+        "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Fadu showcases AI data center ambitions at OCP Korea Tech Day - The Korea Times. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
