@@ -1,0 +1,261 @@
+{
+  "theme": "ai",
+  "date": "2026-08-26",
+  "last_updated_utc": "2026-08-26T06:38:20.055Z",
+  "news": [
+    {
+      "title": "OpenAI to build world's biggest AI data center in Ohio. What we know",
+      "description": "A massive data center for OpenAI, the artificial intelligence company that created ChatGPT, is planned for Southern Ohio.\nThe San Francisco-based company announced Aug. 17 it will lease space for its hyperscale, 8-gigawatt data center at the PORTS-Pike Techno…",
+      "url": "https://biztoc.com/x/a16db4b624fac089",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-25T01:50:03Z"
+    },
+    {
+      "title": "Taiwan Indicts 9, Including Nvidia Manager, Over GPU Smuggling Case",
+      "description": "Prosecutors in Taiwan also indicted two employees of Nvidia partner Supermicro.\nProsecutors in Taiwan have indicted an Nvidia manager, along with eight others, for violating export controls and smuggling cutting-edge AI chips to China. On Monday, Taiwan's Kee…",
+      "url": "https://me.pcmag.com/en/processors/37871/taiwan-indicts-9-including-nvidia-manager-over-gpu-smuggling-case",
+      "source": "PCMag.com",
+      "publishedAt": "2026-08-25T04:35:06Z"
+    },
+    {
+      "title": "OpenAI narrows gap as Anthropic's Fable 5 loses enterprise momentum",
+      "description": "OpenAI has been gaining ground on Anthropic in enterprise AI spending, while Anthropic's flagship Claude Fable 5 has delivered less market traction than expected. The shift comes as Ramp analyzed usage across more than 70,000 US companies through its bill pay…",
+      "url": "https://www.digitimes.com/news/a20260825PD205/openai-anthropic-data-market-flagship.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-25T02:03:26Z"
+    },
+    {
+      "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) has finally landed the kind of AI customers investors spent years waiting for. OpenAI and Meta have committed to massive deployments of AMD Instinct GPUs, helping validate the company as the clearest large-scale alter…",
+      "url": "https://biztoc.com/x/c6c4d875cab6d7d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-25T04:52:02Z"
+    },
+    {
+      "title": "Claude will now watermark all content generated using its tools",
+      "description": "Roughly three-quarters of newly published web pages now carry some machine-written text, according to a 2025 Ahrefs analysis of around 900,000 pages. This figure doesn’t account for offline documents. It also only covers text. Generative AI now produces music…",
+      "url": "https://newatlas.com/ai-humanoids/claude-will-now-watermark-all-content-generated-using-its-tools",
+      "source": "New Atlas",
+      "publishedAt": "2026-08-25T04:20:23Z"
+    },
+    {
+      "title": "WikiHow sues OpenAI for scraping over 11,000 articles without permission",
+      "description": "This lawsuit could redefine AI training practices, impacting how companies balance innovation with respecting intellectual property rights.\nThe post WikiHow sues OpenAI for scraping over 11,000 articles without permission appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/wikihow-sues-openai-scraping-articles-copyright",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-25T04:06:34Z"
+    },
+    {
+      "title": "Unreleased Anthropic Mythos 2 and Mythos 3 and OpenAI Astra",
+      "description": "Semianalysis reports Mythos 2 is done training and Anthropic are not releasing the model. Anthropic’s August 2026 Risk Report describes an unreleased internal model it calls Model 2. It is more capable than Mythos 5, with no current plan to release it externa…",
+      "url": "https://www.nextbigfuture.com/2026/08/unreleased-anthropic-mythos-2-and-mythos-3-and-openai-astra.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-08-25T03:23:13Z"
+    },
+    {
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+      "description": "Last week, IPO-bound OpenAI said it would slow the ‌pace of model development ⁠while ⁠overhauling its research and training systems after company officials were caught unawares when an AI agent ​being tested hacked Hugging Face.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alabama-launches-probe-into-openai-after-hugging-face-breach/articleshow/133488741.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-25T03:04:18Z"
+    },
+    {
+      "title": "Google DeepMind paper reveals recirculation method improves transformer context handling",
+      "description": "Recirculation's enhancement of transformer models could revolutionize AI efficiency, reducing complexity and costs while boosting performance.\nThe post Google DeepMind paper reveals recirculation method improves transformer context handling appeared first on …",
+      "url": "https://cryptobriefing.com/deepmind-recirculation-transformer-context",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-25T02:12:07Z"
+    },
+    {
+      "title": "Nvidia shares set for $280 billion price swing after earnings, options show - Reuters",
+      "description": "Nvidia shares set for $280 billion price swing after earnings, options showReuters Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?Yahoo Finance Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Bo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185142672",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-25T06:33:16Z"
+    },
+    {
+      "title": "Nvidia Price Hikes Hit Hyperscalers as Memory Costs Surge, Driving AI Infrastructure Inflation",
+      "description": "Nvidia has informed its largest hyperscaler customers – including Microsoft, Google and Oracle – of a planned 15% price increase on Vera Rubin and Grace Blackwell processors, according to sources cited by Bloomberg. The increase, reported to take effect next …",
+      "url": "https://www.naturalnews.com/2026-08-25-nvidia-increases-hit-hyperscalers-driving-infrastructure-inflation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z"
+    },
+    {
+      "title": "Google Gemini can now diagnose your Pixel and fix it for you",
+      "description": "Device Help is the AI assistant feature Pixel owners have actually needed",
+      "url": "https://www.intomobile.com/2026/08/24/google-gemini-can-now-diagnose-your-pixel-and-fix-it-for-you",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-08-25T05:27:14Z"
+    },
+    {
+      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "description": "Wall Street ends mixed amid fall in tech stocks, rising U.S.-Canada trade tensions\nAug 25 (Reuters) - A look at the day ahead in European and global markets from Rae Wee\nIt’s been a muted start to the session in Asia on Tuesday, with stocks drifting ahead of …",
+      "url": "https://biztoc.com/x/c801deb5143a5936",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-25T04:50:34Z"
+    },
+    {
+      "title": "Global Market: Kospi drops 2% as chip stocks tumble ahead of Nvidia earnings",
+      "description": "South Korea’s KOSPI fell nearly 2% as semiconductor stocks declined ahead of Nvidia’s earnings, reflecting investor caution over AI investment returns. Samsung Electronics and SK Hynix led losses, while foreign investors sold heavily. The won strengthened mod…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-drops-2-as-chip-stocks-tumble-ahead-of-nvidia-earnings/articleshow/133490877.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-25T04:13:03Z"
+    },
+    {
+      "title": "Nvidia just sent a huge signal to investors ahead of earnings",
+      "description": "Nvidia has spent the past two years building the hardware behind almost every major AI breakthrough. Increasingly, it has also been writing checks to the companies using that hardware, turning itself into one of the most active investors in the entire AI ecos…",
+      "url": "https://biztoc.com/x/7bfb1ca156f2e503",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-25T03:51:42Z"
+    },
+    {
+      "title": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year: Elon Musk",
+      "description": "Resharing an Nvidia post, Musk said the system will see significant scale-up in 2028 as SpaceXAI is expanding its AI infrastructure",
+      "url": "https://www.thehindubusinessline.com/news/science/spacex-nvidia-develop-space-optimised-ai-system-for-orbital-launch-next-year-elon-musk/article71387191.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-25T03:50:12Z"
+    },
+    {
+      "title": "SpaceX, Nvidia develop space-optimized AI system for orbital launch next year",
+      "description": "SpaceX and Nvidia have developed a space-optimized Vera Rubin NVL72 AI system that is planned for launch into orbit in the fourth quarter of 2027, said Elon Musk.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-nvidia-develop-space-optimized-ai-system-for-orbital-launch-next-year/articleshow/133488899.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-25T03:09:00Z"
+    },
+    {
+      "title": "Energy law amendments lift AI data center storage demand in Taiwan",
+      "description": "AI data centers will increasingly rely on energy storage because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-based battery energy storage system integrator (BESSI) which has seen overseas project revenue…",
+      "url": "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-25T03:01:38Z"
+    },
+    {
+      "title": "Nokia China exit deepens telecom split as Nvidia bets on 6G AI - Asia Times",
+      "description": "Nokia is walking away from mainland China after two decades of building out its networks there, closing nearly every site by year-end",
+      "url": "https://asiatimes.com/2026/08/nokia-china-exit-deepens-telecom-split-as-nvidia-bets-on-6g-ai",
+      "source": "Asia Times",
+      "publishedAt": "2026-08-25T02:45:25Z"
+    },
+    {
+      "title": "China-based Guangyu Xinchen says 3D-stacked edge AI chip has entered mass-production deployment",
+      "description": "According to 36Kr, Shanghai Guangyu Xinchen Technology says its TC1000 series of 3D-stacked near-memory-computing AI processors has moved from silicon validation to mass-production deployment, marking a claimed acceleration in the commercialization of memory-…",
+      "url": "https://www.digitimes.com/news/a20260825VL202/ai-memory-chips-silicon-data-shanghai.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-08-25T02:39:35Z"
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX が量産開始、エージェント型 AI 向けに世界トップクラスの処理速度を実現",
+      "description": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/648/12662-648-a48509fab7336a40595b1cfd4b79449f-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000648.000012662.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-25T02:03:41Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI to build world's biggest AI data center in Ohio. What we know",
+      "Taiwan Indicts 9, Including Nvidia Manager, Over GPU Smuggling Case",
+      "OpenAI narrows gap as Anthropic's Fable 5 loses enterprise momentum",
+      "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+      "Claude will now watermark all content generated using its tools"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://me.pcmag.com/en/processors/37871/taiwan-indicts-9-including-nvidia-manager-over-gpu-smuggling-case",
+        "https://biztoc.com/x/c6c4d875cab6d7d1",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185142672"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/a16db4b624fac089",
+        "https://www.digitimes.com/news/a20260825PD205/openai-anthropic-data-market-flagship.html",
+        "https://cryptobriefing.com/wikihow-sues-openai-scraping-articles-copyright"
+      ]
+    },
+    {
+      "title": "While",
+      "summary": "Grouped stories where \"while\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/deepmind-recirculation-transformer-context"
+      ]
+    },
+    {
+      "title": "According",
+      "summary": "Grouped stories where \"according\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newatlas.com/ai-humanoids/claude-will-now-watermark-all-content-generated-using-its-tools",
+        "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
+        "https://www.digitimes.com/news/a20260825VL202/ai-memory-chips-silicon-data-shanghai.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to build world's biggest AI data center in Ohio. What we know. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to build world's biggest AI data center in Ohio. What we know. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to build world's biggest AI data center in Ohio. What we know. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to build world's biggest AI data center in Ohio. What we know. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI to build world's biggest AI data center in Ohio. What we know. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
