@@ -1,0 +1,438 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-08-27",
+  "last_updated_utc": "2026-08-27T17:14:36.009Z",
+  "news": [
+    {
+      "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear",
+      "description": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earningsMarketWatch Fed’s preferred inflation gauge shows core prices rose 3.3% annually in JulyCNBC Key i…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185194356",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-26T17:13:57Z"
+    },
+    {
+      "title": "Meet The Apple M6 and M5 Ultra",
+      "description": "Apple have impressed everyone with the performance of their M-series of CPUs after dumping Intel for their own internal design in 2020.  They've pretty much been on a yearly cadence since then,…",
+      "url": "https://pcper.com/2026/08/meet-the-apple-m6-and-m5-ultra",
+      "source": "PC Perspective",
+      "publishedAt": "2026-08-26T17:12:27Z"
+    },
+    {
+      "title": "In 2025, First Solar began production at a 2.4-million-square-foot Louisiana plant. 1 year later, it can turn raw glass into 12 finished panels every minute",
+      "description": "A massive Louisiana solar panel factory operates independently of new import tariffs. This plant produces panels using a unique cadmium telluride semiconductor technology. While free from polysilicon tariffs, it still needs Chinese tellurium for production. T…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/science-in-2025-first-solar-began-production-at-a-2-4-million-square-foot-louisiana-plant-1-year-later-it-can-turn-raw-glass-into-12-finished-panels-every-minute/articleshow/133540793.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-26T17:12:11Z"
+    },
+    {
+      "title": "“Move Away From Use Cases”: BMO Executive Issues Critical Warning Ahead of Nvidia Earnings",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20dab48f-9f92-4777-9c2d-e20f3daa58e4",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-26T17:10:36Z"
+    },
+    {
+      "title": "1 Wall Street Analyst Just Upgraded AMD Stock and Estimates 30% Upside. Here's Why He's Bullish on This Semiconductor Stock",
+      "description": "1 Wall Street Analyst Just Upgraded AMD Stock and Estimates 30% Upside. Here's Why He's Bullish on This Semiconductor Stock.\nAdvanced Micro Devices (NASDAQ: AMD) stock recently received a big upgrade, as Raymond James analyst Simon Leopold slapped a strong bu…",
+      "url": "https://biztoc.com/x/0d9d2f34e743549f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T17:07:36Z"
+    },
+    {
+      "title": "Experiment with Qwen3.8-Flash-Next 176B Model on NVIDIA GB300 NVL72 for Agentic Coding",
+      "description": "Alibaba released the model weights for Qwen3.8-Flash-Next as a preview of the upcoming Qwen4 architecture for developers to experiment with and evaluate. It’s...",
+      "url": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-08-26T17:07:31Z"
+    },
+    {
+      "title": "AMD vs. Marvell: Which Is the Better AI Chip Stock to Own for the Next 5 Years?",
+      "description": "Two top-performing artificial intelligence (AI) semiconductor stocks over the past year have been Advanced Micro Devices (NASDAQ: AMD) and Marvell Technology (NASDAQ: MRVL). AMD shares have climbed around 185% over the past year, while Marvell shares are up m…",
+      "url": "https://biztoc.com/x/de5fb9f7ad3e96c2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T17:07:25Z"
+    },
+    {
+      "title": "WLFI CEO Zach Witkoff Swears People Are Using USD1",
+      "description": "THE GIST\nOur analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\nWorld Liberty Financial (WLFI), the Trump family-tied crypto firm and soon-to-be bank, swears the…",
+      "url": "https://biztoc.com/x/c8d1c6e0abfbf849",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T17:07:19Z"
+    },
+    {
+      "title": "Proxmox VE 9.2 Adds Official arm64 Support, Fully Backing NVIDIA Grace Hopper and Vera",
+      "description": "Proxmox rolled out version 9.2 of its virtualization platform at the start of this month, which adds official support for 64-bit ARM (arm64/aarch64). Previously, Proxmox VE was available only for x86-64 (amd64). With this release, arm64 builds share the same …",
+      "url": "https://www.storagereview.com/news/proxmox-ve-9-2-adds-official-arm64-support-fully-backing-nvidia-grace-hopper-and-vera",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-08-26T17:07:02Z"
+    },
+    {
+      "title": "Stock Market Midday, Aug. 26: Markets Muted as Investors Await Nvidia Earnings",
+      "description": "As of 11:47 AM ET, the S&P 500 (SNPINDEX:^GSPC) is up 0.01% to 7,678, while the Nasdaq Composite (NASDAQINDEX:^IXIC) has fallen 0.12% to 26,117, and the Dow Jones Industrial Average (DJINDICES:^DJI) is trading 0.18% lower at 53,480 as traders react to sticky …",
+      "url": "https://biztoc.com/x/4e4217cdabf73f38",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T17:06:49Z"
+    },
+    {
+      "title": "Dow Jones Today LIVE: Index Falls 0.04% as Hotter Inflation Fuels Fed Rate-Hike Bets, Oil Slides & Nvidia Earnings Loom; Check What Investors Should Watch",
+      "description": "Dow Jones Today LIVE: Index Falls 0.04% as Hotter Inflation Fuels Fed Rate-Hike Bets, Oil Slides & Nvidia Earnings Loom; Check What Investors Should Watchsundayguardianlive.com",
+      "url": "https://sundayguardianlive.com/business/dow-jones-today-live-index-falls-004-as-hotter-inflation-fuels-fed-rate-hike-bets-oil-slides-nvidia-earnings-loom-check-what-investors-should-watch-270633",
+      "source": "The Sunday Guardian",
+      "publishedAt": "2026-08-26T17:05:56Z"
+    },
+    {
+      "title": "US stocks drift as investors await Nvidia earnings and digest Fed inflation data",
+      "description": "Investor uncertainty grows as inflation data and Nvidia's earnings influence rate hike expectations, impacting tech sector dynamics.\nThe post US stocks drift as investors await Nvidia earnings and digest Fed inflation data appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-stocks-drift-nvidia-earnings-fed-data",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-26T17:05:15Z"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
+      "description": "On August 13, 2026, Advanced Micro Devices, Inc. (NASDAQ:AMD) launched a four-part bond offering that could raise between $4 billion and $5 billion. The firm...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-26T17:02:03Z"
+    },
+    {
+      "title": "Xiaomi's upcoming wide 18 Fold leaks in new images",
+      "description": "Xiaomi announced that its Xiaomi 18 Fold would be coming with its Xring O3 chip, and now a leak shows off what could be a prototype version of the phone. Much like the Galaxy Z Fold 8 Ultra, the Xiaomi 18 Fold could spot the new wide design that's getting pop…",
+      "url": "https://www.notebookcheck.net/Xiaomi-s-upcoming-wide-18-Fold-leaks-in-new-images.1379420.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-08-26T17:01:00Z"
+    },
+    {
+      "title": "The Supply Chain Operating Model After AI",
+      "description": "For the past several years, the enterprise AI discussion has focused heavily on capability. Can a model forecast more accurately, summarize information, identify an exception, write code, reason through a problem, or operate an agent? Those questions mattered…",
+      "url": "https://logisticsviewpoints.com/2026/08/26/the-supply-chain-operating-model-after-ai",
+      "source": "Logisticsviewpoints.com",
+      "publishedAt": "2026-08-26T17:00:00Z"
+    },
+    {
+      "title": "Europe’s Heatwaves Are Putting Nuclear Power Under Pressure",
+      "description": "Europe’s energy sector is facing a stress test unlike any it has ever seen before. Not only are the markets being battered by the latest in a long succession of geopolitical supply chain snags thanks to the war in Iran, but the continent is also facing bliste…",
+      "url": "https://oilprice.com/Energy/Energy-General/Europes-Heatwaves-Are-Putting-Nuclear-Power-Under-Pressure.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-26T17:00:00Z"
+    },
+    {
+      "title": "Applied Materials faces worsening challenges in China operations as export controls bite harder",
+      "description": "Export controls may shift global semiconductor market dynamics, challenging US firms while boosting non-US competitors' market positions.\nThe post Applied Materials faces worsening challenges in China operations as export controls bite harder appeared first o…",
+      "url": "https://cryptobriefing.com/applied-materials-china-export-controls-challenges",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-26T16:58:46Z"
+    },
+    {
+      "title": "European shares flat ahead of Nvidia earnings",
+      "description": "By Tharuniyaa Lakshmi Aug 26 (Reuters) - European shares were largely flat on Wednesday as investors braced for Nvidia's earnings report, while hopes that the Strait of Hormuz may reopen",
+      "url": "https://lufkindailynews.com/news_reuters/business/european-shares-flat-ahead-of-nvidia-earnings/article_dfb23532-9d5b-5dfe-b9ea-5f25e2ac7445.html",
+      "source": "Lufkindailynews.com",
+      "publishedAt": "2026-08-26T16:55:23Z"
+    },
+    {
+      "title": "Applied Materials’ China Problem Is Getting Worse",
+      "description": "The post Applied Materials’ China Problem Is Getting Worse appeared first on 24/7 Wall St..\nChina has directed semiconductor manufacturers to use at least 50% domestically produced equipment when adding new capacity, according to a Reuters report citing peopl…",
+      "url": "https://biztoc.com/x/243c1ccc6f841b86",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:47:56Z"
+    },
+    {
+      "title": "AMDのWebサイトに“AM5 Olympic Ridge”と“AM5 Medusa1”の記述",
+      "description": "AMD confirms Zen 6 Medusa1 APUs and Olympic Ridge CPUs for AM5 socket（VideoCardz）AMD Confirms Zen 6 “Ryzen” Desktop & Mobile CPU Families: Olympic Ridge & Medusa1 on AM5, Medusa1 & Medusa2 on FP10（WCCF Tech）技術資料ポータル（AMD）AMDが同社の公式Webサイトで、“Zen 6”のコンシューマ向け製品がSoc…",
+      "url": "https://northwood.blog.fc2.com/blog-entry-13191.html",
+      "source": "Fc2.com",
+      "publishedAt": "2026-08-26T16:45:12Z"
+    },
+    {
+      "title": "Applied Materials’ China Problem Is Getting Worse",
+      "description": "China just unveiled domestic immersion DUV lithography systems, and semiconductor equipment stocks sold off hard, but the companies actually in the crosshair...",
+      "url": "https://247wallst.com/investing/2026/08/26/applied-materials-china-problem-is-getting-worse",
+      "source": "24/7 Wall St.",
+      "publishedAt": "2026-08-26T16:42:07Z"
+    },
+    {
+      "title": "AMD Confirms AM5 Compatibility with \"Olympic Ridge\" Desktop \"Zen 6\"",
+      "description": "AMD's technical documentation page was updated today to emphasize ongoing compatibility with the AM5 platform. For the upcoming Ryzen 10000 series \"Olympic Ridge\" desktop processors, the company confirmed that these CPUs will also be compatible with the AM5 p…",
+      "url": "https://www.techpowerup.com/351994/amd-confirms-am5-compatibility-with-olympic-ridge-desktop-zen-6",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-08-26T16:39:45Z"
+    },
+    {
+      "title": "US economy growth sluggish at 1.5% in Q2, consumer spending rises 3.4%",
+      "description": "The US economy grew at a sluggish 1.5 per cent pace from April through June. But consumer spending stayed strong.\nThe Commerce Department reported Wednesday that growth in gross domestic product - the nation's output of a goods and services - decelerated from…",
+      "url": "https://www.business-standard.com/world-news/us-economy-growth-sluggish-at-1-5-in-q2-consumer-spending-rises-3-4-126082601046_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-26T16:35:19Z"
+    },
+    {
+      "title": "Leaked Images Give First Look at Apple's AI Servers",
+      "description": "Images claiming to show the inside of an Apple-made AI server, believed to power Private Cloud Compute, surfaced online this week, offering a first look at how the hardware is laid out.\n\n\n\n\n\nThe images were shared earlier this week by the X user @hsuchingpo, …",
+      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers",
+      "source": "MacRumors",
+      "publishedAt": "2026-08-26T16:34:32Z"
+    },
+    {
+      "title": "Memory crunch: Cloud operators may be pushed to splurge 68% of capex on DRAM and NAND",
+      "description": "The rising cost of contract prices for memory chips could see DRAM and NAND flash account for more than two-thirds of the capital expenditure of cloud service providers (CSPs) by next year. Taiwan-based market watcher TrendForce forecasts that total capex by …",
+      "url": "https://biztoc.com/x/2a00810c722fc731",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:34:08Z"
+    },
+    {
+      "title": "Goldman Sachs analyst highlights notable tech de-risking ahead of Nvidia earnings",
+      "description": "The tech de-risking trend could trigger a market reevaluation, impacting AI stocks broadly if Nvidia's earnings surprise investors.\nThe post Goldman Sachs analyst highlights notable tech de-risking ahead of Nvidia earnings appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/goldman-sachs-tech-de-risking-nvidia-earnings",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-26T16:34:03Z"
+    },
+    {
+      "title": "Stock Market Today: Meta Stock Slips; Investors Await Nvidia Earnings — Live Updates - WSJ",
+      "description": "Stock Market Today: Meta Stock Slips; Investors Await Nvidia Earnings — Live UpdatesWSJ S&P 500 futures fall slightly after report showing sticky inflation: Live updatesCNBC Wall Street muted as hot inflation fuels rate-hike betsThe Detroit News Stock market …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185193182",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-26T16:33:19Z"
+    },
+    {
+      "title": "Russia weighs ballistic missile strikes on Kyiv as peace talks collapse",
+      "description": "Wall Street muted amid mixed PCE data, caution ahead of Nvidia test\nInvesting.com -- Russia is actively planning to intensify ballistic missile strikes on Kyiv’s city centre as Moscow concludes that peace negotiations have reached a dead end, Bloomberg report…",
+      "url": "https://biztoc.com/x/b7d90e331dbd8bba",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:32:31Z"
+    },
+    {
+      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+      "description": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5 LoRA fine-tune, showing how SourceCode syn…",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3",
+      "source": "Amazon.com",
+      "publishedAt": "2026-08-26T16:31:32Z"
+    },
+    {
+      "title": "Hot Chips 2026: Nvidia presents Groq 3 LPX architecture and unveils its first third-party inference benchmark — LP30-based rack already in production, company says",
+      "description": "Igor Arsovski, now Nvidia's VP of hardware, presented the Groq 3 LPX rack's architecture and published the first third-party benchmark of the hardware.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-presents-groq-3-lpx-architecture-and-unveils-its-first-third-party-inference-benchmark",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-08-26T16:23:37Z"
+    },
+    {
+      "title": "Nikkei Reclaims 66,000 as Nvidia Caution Keeps Trading Thin",
+      "description": "Tokyo stocks rose on August 26, with the Nikkei 225 closing at 66,262.16, up 405.73 points, or 0.62%, as investors bought back selected semiconductor and financial shares, although trading was thin ahead of Nvidia’s earnings and uncertainty remained over arti…",
+      "url": "https://newsonjapan.com/article/150520.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-08-26T16:21:50Z"
+    },
+    {
+      "title": "Do Wall Street Analysts Like Keysight Technologies Stock?",
+      "description": "Santa Rosa, California-based Keysight Technologies, Inc. (KEYS) provides electronic design and test solutions to commercial communications, networking, aerospace, defense and government, automotive, energy, semiconductor, electronic, and education industries.…",
+      "url": "https://biztoc.com/x/334be71aea41ac62",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:21:18Z"
+    },
+    {
+      "title": "Ahead of Marvell Technology Earnings, Here's What Barchart Data Says Comes Next for MRVL Stock",
+      "description": "Barchart’s data remains largely bullish on Marvell Technology (MRVL) shares ahead of the custom chips manufacturer’s fiscal Q2 earnings scheduled for Aug. 27 after market close.\nThe consensus estimate for MRVL’s earnings per share (EPS) is set at $0.65 as of …",
+      "url": "https://biztoc.com/x/157b3ad9f084e2a9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:21:06Z"
+    },
+    {
+      "title": "Fujitsu’s Monaka Chip 3D Stacks 2nm “144-Core CPU” With 5nm “SRAM” Dies While Monaka-X Eyes 2029 Release on 1.4nm & NVLink Fusion",
+      "description": "Fujitsu's Monaka CPU launches in 2027 with 144 cores, 2.9 GHz, 500W TDP, & 2x AI performance using Arm v9.3-A architecture and 3D chiplets. Fujitsu's Monaka Stacks a 2nm 144-Core CPU Atop 5nm SRAM Dies, Cutting Silicon Area 30% for 2027 Launch Fujitsu is prep…",
+      "url": "https://wccftech.com/fujitsus-monaka-chip-3d-stacks-2nm-cpu-5nm-sram-dies-monaka-x-eyes-2029-1-4nm-nvlink-fusion",
+      "source": "Wccftech",
+      "publishedAt": "2026-08-26T16:20:13Z"
+    },
+    {
+      "title": "Australia used concentrated sunlight to split water directly into hydrogen without an electrolyzer; SunHydrogen’s coaster-sized module hit 10.8%, while its 1,200-cm² version reached 9%",
+      "description": "SunHydrogen and Australia’s Sparc Hydrogen are cutting out traditional electrolyzers to make green hydrogen. By placing semiconductor absorbers directly into water, their panels use sunlight to generate fuel on-site. A small module hit 10.8% efficiency, while…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/science-australia-used-concentrated-sunlight-to-split-water-directly-into-hydrogen-without-an-electrolyzer-sunhydrogens-coaster-sized-module-hit-10-8-while-its-1200-cm-version-reached-9/articleshow/133541690.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-26T16:18:25Z"
+    },
+    {
+      "title": "Xiaomi's Xring O3 examined - at least a two-generations leap in power efficiency",
+      "description": "Xiaomi announced that the upcoming Xiaomi 18 Fold will be powered by the in-house Xring O3 chip, the successor to the Xring O1. What happened to the O2? Well, the O3 is so good, that Xiaomi skipped a number – that’s only partially a joke as Geekerwan examined…",
+      "url": "https://www.gsmarena.com/xiaomis_xring_o3_examined__at_least_a_twogenerations_leap_in_power_efficiency-news-74348.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-08-26T16:18:02Z"
+    },
+    {
+      "title": "Nvidia Is Held by 803 ETFs, Making Its Q2 Earnings Tonight the Most Important Report of the Cycle",
+      "description": "The post Nvidia Is Held by 803 ETFs, Making Its Q2 Earnings Tonight the Most Important Report of the Cycle appeared first on 24/7 Wall St..\nSpotGamma founder Brent Kochuba appeared on CNBC on Wednesday morning to share his belief that NVIDIA’s (NASDAQ:NVDA) Q…",
+      "url": "https://biztoc.com/x/dcb4328f5653be5c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:17:34Z"
+    },
+    {
+      "title": "Nvidia forecasts first $100B quarter amid AI demand",
+      "description": "Nvidia's unprecedented growth trajectory underscores the transformative impact of AI on the semiconductor industry, reshaping market expectations.\nThe post Nvidia forecasts first $100B quarter amid AI demand appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-forecasts-first-100b-quarter",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-26T16:16:27Z"
+    },
+    {
+      "title": "Nvidia reports Q2 earnings as rising memory costs and AI demand collide",
+      "description": "Nvidia's earnings highlight the AI sector's growth potential but rising memory costs could pressure margins, impacting the entire AI supply chain.\nThe post Nvidia reports Q2 earnings as rising memory costs and AI demand collide appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/nvidia-q2-earnings-memory-prices-ai-outlook",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-26T16:11:58Z"
+    },
+    {
+      "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+      "description": "Follow Nvidia’s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.",
+      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-26T16:09:20Z"
+    },
+    {
+      "title": "A Leading Hedge Fund Just Placed Massive Bets on Broadcom and Intel Stocks. Should You Follow Suit?",
+      "description": "Broadcom (NASDAQ: AVGO) and Intel (NASDAQ: INTC) have produced quite different results for their shareholders so far in 2026. Broadcom is lagging the market with a gain of just 3%. Meanwhile, Intel has soared by over 135%. However, what matters for investors …",
+      "url": "https://biztoc.com/x/0e3161965398f03e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T16:05:35Z"
+    },
+    {
+      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
+      "description": "Apple plans to hold its annual iPhone-centric event on Wednesday, September 9 at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, with select members of the media invited to attend.\n\n\n\n\n\nThe September 2026 iPhon…",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026",
+      "source": "MacRumors",
+      "publishedAt": "2026-08-26T16:02:48Z"
+    },
+    {
+      "title": "Nvidia Is Held by 803 ETFs, Making Its Q2 Earnings Tonight the Most Important Report of the Cycle",
+      "description": "",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1fc7cf2e-dc40-41fc-a973-207e275e5e12",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-26T16:02:43Z"
+    },
+    {
+      "title": "The Economics of Agent Optimization: Four ways to lower the cost",
+      "description": "Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes.\nThe post The Economics of Agent Optimization: Four ways to lower the cost appeared first on Microsoft Azure Blog.",
+      "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost",
+      "source": "Microsoft.com",
+      "publishedAt": "2026-08-26T16:00:00Z"
+    },
+    {
+      "title": "The Mountain West should be eager to prove itself in 2026",
+      "description": "At this time of year, every team is starting to get restless, ready for games to finally begin. The teams in the Mountain West are no different, and four of them get to start early, playing in Week 0 games on Saturday. But collectively, all ten Mountain West …",
+      "url": "https://www.mwcconnection.com/mountain-west-football/90806/mountain-west-conference-football-season-preview-2026",
+      "source": "Mwcconnection.com",
+      "publishedAt": "2026-08-26T16:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear",
+      "Meet The Apple M6 and M5 Ultra",
+      "In 2025, First Solar began production at a 2.4-million-square-foot Louisiana plant. 1 year later, it can turn raw glass into 12 finished panels every minute",
+      "“Move Away From Use Cases”: BMO Executive Issues Critical Warning Ahead of Nvidia Earnings",
+      "1 Wall Street Analyst Just Upgraded AMD Stock and Estimates 30% Upside. Here's Why He's Bullish on This Semiconductor Stock"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185194356",
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20dab48f-9f92-4777-9c2d-e20f3daa58e4",
+        "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding"
+      ]
+    },
+    {
+      "title": "Earnings",
+      "summary": "Grouped stories where \"earnings\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/157b3ad9f084e2a9"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/international/us/science-in-2025-first-solar-began-production-at-a-2-4-million-square-foot-louisiana-plant-1-year-later-it-can-turn-raw-glass-into-12-finished-panels-every-minute/articleshow/133540793.cms",
+        "https://cryptobriefing.com/applied-materials-china-export-controls-challenges",
+        "https://biztoc.com/x/243c1ccc6f841b86"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0d9d2f34e743549f",
+        "https://biztoc.com/x/de5fb9f7ad3e96c2",
+        "https://247wallst.com/investing/2026/08/26/applied-materials-china-problem-is-getting-worse"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://pcper.com/2026/08/meet-the-apple-m6-and-m5-ultra",
+        "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html",
+        "https://www.notebookcheck.net/Xiaomi-s-upcoming-wide-18-Fold-leaks-in-new-images.1379420.0.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia ear. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
