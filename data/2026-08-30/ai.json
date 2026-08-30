@@ -1,0 +1,283 @@
+{
+  "theme": "ai",
+  "date": "2026-08-30",
+  "last_updated_utc": "2026-08-30T11:05:20.013Z",
+  "news": [
+    {
+      "title": "ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them",
+      "description": "Regardless of what chatbot you use, there's one thing you should do regularly if you want to ensure the best possible AI experience.",
+      "url": "https://www.androidauthority.com/chatgpt-gemini-claude-memory-cleanup-how-3701167",
+      "source": "Android Authority",
+      "publishedAt": "2026-08-29T09:00:23Z"
+    },
+    {
+      "title": "This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo",
+      "description": "Anthropic and OpenAI have partnered with influencers for paid promotions. Their comments sections are filling with a chorus of boos.\nBloomberg/Getty Images\nEmma Orhun was caught in a hailstorm of negative comments after partnering with Anthropic.\n\"I was nervo…",
+      "url": "https://biztoc.com/x/48a7847504d5e593",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T08:47:59Z"
+    },
+    {
+      "title": "One $30 subscription gets you GPT, Claude, Gemini & Sonar for a year",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: New users pay $29.99 for one year of ChatOn AI’s multi-model AI access, real-time web search, 100-plus prompts, document tools, and image and video creation.\r\n\n\n\n\nKeeping several AI tools open at once can make a simple task feel lik…",
+      "url": "https://www.macworld.com/article/3221484/one-30-subscription-gets-you-gpt-claude-gemini-sonar-for-a-year.html",
+      "source": "Macworld",
+      "publishedAt": "2026-08-29T08:00:00Z"
+    },
+    {
+      "title": "ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers",
+      "description": "Do artificial intelligence tools such as ChatGPT eliminate jobs, create new ones, or both? There’s a lot of speculation regarding this question, but little solid data in the U.S. to answer it.\nI’m a sociologist who researches AI, among other topics. Seeking a…",
+      "url": "https://biztoc.com/x/ca35f0e1b376443a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T10:18:57Z"
+    },
+    {
+      "title": "Compare ChatGPT, Gemini, DeepSeek, & more for life for a one-time $79",
+      "description": "TL;DR: ChatPlayground AI lets you compare responses from multiple AI models in one window, with lifetime Unlimited Plan access available for $79.\r\n\n\n\n\nEvery AI model has its own way of answering a prompt. One might write cleaner code, another may deliver a cl…",
+      "url": "https://www.pcworld.com/article/3222339/compare-chatgpt-gemini-deepseek-more-for-life-for-a-one-time-79.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-08-29T08:00:00Z"
+    },
+    {
+      "title": "Modder Makes NVIDIA DLSS 5 Neural Rendering Work On GeForce RTX 40 Series Through A Simple CUDA Binaries Swap - Wccftech",
+      "description": "Modder Makes NVIDIA DLSS 5 Neural Rendering Work On GeForce RTX 40 Series Through A Simple CUDA Binaries SwapWccftech DLSS 5 Gets Modded Into Skyrim With Dramatic Changes to Lighting and Character FacesTechPowerUp DLSS 5 leaked and modders are putting Nvidia’…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185266056",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-29T04:52:15Z"
+    },
+    {
+      "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines and 1.5M-gallon LNG tank — issues with $19.4B facility range from illegal construction to noise pollution",
+      "description": "The community surrounding the DataOne data center in Vineland, New Jersey, are complaining about the Microsoft-linked project. The company's deployment of several unpermitted gas turbines is just one of the issues that has been hounding the project, with pote…",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-08-29T11:00:00Z"
+    },
+    {
+      "title": "ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers",
+      "description": "The nationally representative poll of 1,250 employed adults also found 6% landed AI-created roles and 9% got AI-linked promotions between 2023 and 2026.",
+      "url": "https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026",
+      "source": "Fortune",
+      "publishedAt": "2026-08-29T10:00:00Z"
+    },
+    {
+      "title": "FDA seeks public input on regulating generative AI medical devices as healthcare enters a new era",
+      "description": "As generative AI becomes increasingly embedded within healthcare delivery, the success of that balancing act may determine how quickly patients gain access to powerful new technologies and whether society feels confident enough to embrace them.\nThe post FDA s…",
+      "url": "https://www.digitaljournal.com/article/fda-seeks-public-input-on-regulating-generative-ai-medical-devices-as-healthcare-enters-a-new-era",
+      "source": "Digital Journal",
+      "publishedAt": "2026-08-29T09:51:57Z"
+    },
+    {
+      "title": "Should Eaton’s AI Data Center and Healthcare Deals With Trane Signal a Strategic Shift for ETN Investors?",
+      "description": "Should Eaton’s AI Data Center and Healthcare Deals With Trane Signal a Strategic Shift for ETN Investors?\n- In August 2026, Trane Technologies announced a collaboration with Eaton to integrate advanced electrical and thermal systems for AI-focused data center…",
+      "url": "https://biztoc.com/x/80c0178954fc090d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T09:33:40Z"
+    },
+    {
+      "title": "Debian Linux developers vote to allow \"Responsible Use of Generative AI\"",
+      "description": "The flood gates for generative AI in Debian Linux are now seemingly open, with the results from a recent vote now available.Read the full article on GamingOnLinux.",
+      "url": "https://www.gamingonlinux.com/2026/08/debian-linux-developers-vote-to-allow-responsible-use-of-generative-ai",
+      "source": "Gamingonlinux.com",
+      "publishedAt": "2026-08-29T09:06:06Z"
+    },
+    {
+      "title": "This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
+      "description": "The internet is getting their digital pitchforks out for influencers who promote AI. We spoke to a creator who was \"micro-canceled.\"",
+      "url": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-29T08:37:01Z"
+    },
+    {
+      "title": "SpaceX vs. Alphabet: Which Is the Best Artificial Intelligence (AI) Stock to Buy Now?",
+      "description": "While investors may think of Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) as an artificial intelligence (AI) stock, Space Exploration Technologies (NASDAQ: SPCX) could also be considered one as well. SpaceX has a quickly growing AI business that puts some of the g…",
+      "url": "https://biztoc.com/x/34e44316a59dbc4a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T08:33:18Z"
+    },
+    {
+      "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider",
+      "description": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contractsBusiness Insider Our decision on Cursor following its acquisition by SpaceXOpenAI OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman cl…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185269796",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-29T08:12:27Z"
+    },
+    {
+      "title": "5 lessons from the OpenAI / Hugging Face incident",
+      "description": "In July, in an incident that has the whole AI community on edge, OpenAI’s AI systems hacked Hugging Face, and on July 21 OpenAI came out and revealed that they were responsible for the attack. This was made possible by the fact that OpenAI had disabled the no…",
+      "url": "https://biztoc.com/x/7e7635d3d16374e8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T07:16:53Z"
+    },
+    {
+      "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」",
+      "description": "OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。Our decision on Cursor following its acquisition by SpaceX | OpenAIhttps://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/We’re ending…",
+      "url": "https://news.livedoor.com/article/detail/32190781",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-29T06:45:00Z"
+    },
+    {
+      "title": "OpenAI ends Cursor partnership after SpaceX acquisition",
+      "description": "OpenAI's decision highlights the growing need for stringent compliance measures in AI partnerships, especially with rapidly evolving technologies.\nThe post OpenAI ends Cursor partnership after SpaceX acquisition appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-ends-cursor-partnership-after-spacex-acquisition",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-29T04:47:22Z"
+    },
+    {
+      "title": "Nvidia Just Locked In a $279 Billion Bet on Memory Chips",
+      "description": "Nvidia (NASDAQ: NVDA) just told the market that it is willing to lock down more than a quarter-trillion dollars' worth of critical components to scale its data center empire. During second-quarter earnings, Nvidia CFO Colette Kress revealed that the company w…",
+      "url": "https://biztoc.com/x/e7e5cdc2b2b9f815",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T04:45:58Z"
+    },
+    {
+      "title": "Cursor co-founder says speaking with OpenAI team",
+      "description": "Cursor co-founder Michael Truell said he's speaking with the OpenAI team after the ChatGPT maker announced earlier that it plans to cut the coding startup's access to its models.\"We're sorry to see th...",
+      "url": "https://biztoc.com/x/274d13c9575857a0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T04:45:11Z"
+    },
+    {
+      "title": "OpenAI to end partnership with SpaceX's Cursor - Reuters",
+      "description": "OpenAI to end partnership with SpaceX's CursorReuters Our decision on Cursor following its acquisition by SpaceXOpenAI Michael Truell: The 100 Most Influential People in AI 2026Time Magazine OpenAI says it's ending its deal with Cursor because of Elon Musk's …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185265874",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-29T04:33:12Z"
+    },
+    {
+      "title": "Many of the Chinese bots X says posted anti-data-center content had no followers or engagement, a researcher found",
+      "description": "China is trying to influence the AI data center debate in the United States. How effective it's been is another question.\nX said on Thursday that it uncovered a 200,000-strong Chinese bot farm and that a couple hundred of those accounts posted disparaging con…",
+      "url": "https://biztoc.com/x/6557e72fb29d851e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T04:14:23Z"
+    },
+    {
+      "title": "OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it",
+      "description": "OpenAI CEO Sam Altman\nBloomberg/Getty Images\nOpenAI and other tech giants issued a warning about the growing threat of AI-driven cyberattacks.\nThe companies urged organizations and the government to work together to shore up cyber defense.\nCybersecurity exper…",
+      "url": "https://biztoc.com/x/46f453c1d70aff1b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T04:14:19Z"
+    },
+    {
+      "title": "OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it.",
+      "description": "OpenAI warned AI is making cyber attacks ore sophisticated and widespread. Cybersecurity experts say there are steps you can take to protect yourself.",
+      "url": "https://www.businessinsider.com/what-you-can-do-openai-cyber-defense-warning-ai-phishing-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-29T04:01:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them",
+      "This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo",
+      "One $30 subscription gets you GPT, Claude, Gemini & Sonar for a year",
+      "ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers",
+      "Compare ChatGPT, Gemini, DeepSeek, & more for life for a one-time $79"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/48a7847504d5e593",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185269796",
+        "https://biztoc.com/x/7e7635d3d16374e8"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidauthority.com/chatgpt-gemini-claude-memory-cleanup-how-3701167",
+        "https://biztoc.com/x/ca35f0e1b376443a",
+        "https://www.pcworld.com/article/3222339/compare-chatgpt-gemini-deepseek-more-for-life-for-a-one-time-79.html"
+      ]
+    },
+    {
+      "title": "Time",
+      "summary": "Grouped stories where \"time\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macworld.com/article/3221484/one-30-subscription-gets-you-gpt-claude-gemini-sonar-for-a-year.html"
+      ]
+    },
+    {
+      "title": "One",
+      "summary": "Grouped stories where \"one\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+        "https://biztoc.com/x/34e44316a59dbc4a"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185266056",
+        "https://www.digitaljournal.com/article/fda-seeks-public-input-on-regulating-generative-ai-medical-devices-as-healthcare-enters-a-new-era",
+        "https://biztoc.com/x/80c0178954fc090d"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ChatGPT, Gemini, and Claude quietly get worse over time. This hidden setting fixes them. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
