@@ -1,0 +1,319 @@
+{
+  "theme": "ai",
+  "date": "2026-09-02",
+  "last_updated_utc": "2026-09-02T10:27:04.927Z",
+  "news": [
+    {
+      "title": "Washington to press G20 on light-touch AI regulation",
+      "description": "Tech bosses including Elon Musk, Nvidia's Jensen Huang and OpenAI's Sam Altman are participating in a G20 meeting in North Carolina this week amid a global debate on how governments should address the dangers of artificial intelligence.",
+      "url": "https://www.hurriyetdailynews.com/washington-to-press-g20-on-light-touch-ai-regulation-226299",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-01T06:16:00Z"
+    },
+    {
+      "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "description": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially …",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T08:46:25Z"
+    },
+    {
+      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+      "description": "Shares of MediaTek closed 10% higher on Tuesday after the Taiwanese chip firm announced a partnership with Nvidia, bolstering its push into the data center market.\nNvidia invested $3.5 billion in convertible bonds issued by MediaTek as part of the deal, the c…",
+      "url": "https://biztoc.com/x/c9324e826236619a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T08:14:37Z"
+    },
+    {
+      "title": "OpenAI’s ChatGPT Mil launches on secure U.S. military AI platform for 3 million personnel",
+      "description": "OpenAI’s ChatGPT Mil is now available to more than 3 million U.S. military members and civilian defense employees through the secure GenAI.mil platform. The IL5-accredited service brings ChatGPT’s familiar interface to Controlled Unclassified Information (CUI…",
+      "url": "https://4sysops.com/archives/openais-chatgpt-mil-launches-on-secure-u-s-military-ai-platform-for-3-million-personnel",
+      "source": "4sysops.com",
+      "publishedAt": "2026-09-01T09:52:10Z"
+    },
+    {
+      "title": "Why OpenAI and Anthropic are risky for different reasons than their Chinese AI rivals",
+      "description": "OpenAI CEO Sam Altman.\nBloomberg/Getty Images\nResearchers spent six days inside OpenAI, investigating this summer's Hugging Face hack.\nOpen models get a lot of attention when it comes to AI risks. This hack was a frontier lab problem.\nTwo of the researchers e…",
+      "url": "https://biztoc.com/x/2eed45ca059102f1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T09:12:43Z"
+    },
+    {
+      "title": "Why OpenAI and Anthropic are risky for different reasons than their Chinese AI rivals",
+      "description": "Researchers point to key distinctions between Anthropic and OpenAI's risks and those of their open-weight AI rivals.",
+      "url": "https://www.businessinsider.com/openai-anthropic-risky-different-open-weight-rivals-china-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-01T09:00:01Z"
+    },
+    {
+      "title": "Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing",
+      "description": "A lightweight, local-first Chrome sidepanel extension to test and evaluate LLM prompt fixtures across OpenAI, Anthropic, and OpenRouter. Features direct browser-to-API requests, real-time token tra...",
+      "url": "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser",
+      "source": "Github.com",
+      "publishedAt": "2026-09-01T08:33:50Z"
+    },
+    {
+      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+      "description": "The two companies will work on integrating Nvidia technology with MediaTek's custom AI chip business as well as other areas such as PCs and cars.",
+      "url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-01T08:00:23Z"
+    },
+    {
+      "title": "Sony and Warner Music sue Anthropic over alleged theft of ‘tens of thousands’ of songs, including ‘I Am the Walrus’ and ‘Hallelujah’",
+      "description": "Last month, Anthropic was at the center of public backlash for a plan, called “Project Panama,” to “destructively scan all the books in the world” to train its Claude AI models. Now, the AI company finds itself again facing the (copyright) music.\nSony Music a…",
+      "url": "https://biztoc.com/x/b2dc6062ba109b42",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T07:32:31Z"
+    },
+    {
+      "title": "Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast",
+      "description": "Marvell (NASDAQ:MRVL) just told Wall Street its AI growth story keeps getting bigger rather than settling down. On its second-quarter fiscal 2027 earnings call, held August 27, the chipmaker posted record revenue of $2.739 billion, up 37% year over year, whil…",
+      "url": "https://biztoc.com/x/ca3e603f1d48d2ec",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T10:13:41Z"
+    },
+    {
+      "title": "US to urge hands-off AI regulation at G-20, official says",
+      "description": "Leaders are convening at a key moment in the AI sector's development and the global debate over how to govern it, and as the US faces an increasing threat from China for AI supremacy.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-urge-hands-off-ai-regulation-at-g-20-official-says/articleshow/133677167.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T10:10:59Z"
+    },
+    {
+      "title": "“A Cute Little LibGen Babysitter”: Music Publishers Sue Anthropic Founders Over Torrenting Spree",
+      "description": "Anthropic's bulk torrenting of pirated books from shadow libraries LibGen and Pirate Library Mirror continues to generate new lawsuits. A group of major publishers, including Sony Music and Warner Chappell, have sued the AI company and its co-founders, allegi…",
+      "url": "https://torrentfreak.com/a-cute-little-libgen-babysitter-music-publishers-sue-anthropic-founders-over-torrenting-spree",
+      "source": "Torrentfreak.com",
+      "publishedAt": "2026-09-01T10:10:07Z"
+    },
+    {
+      "title": "Infostealers are hijacking Claude accounts at users’ expense",
+      "description": "Anthropic has warned that infostealers are stealing Claude session cookies to access users’ accounts and consume usage at their expense.",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense",
+      "source": "Malwarebytes.com",
+      "publishedAt": "2026-09-01T10:08:28Z"
+    },
+    {
+      "title": "Nvidia to invest $1.5B in SB Energy as part of massive Ohio AI campus deal",
+      "description": "Nvidia's investment in Ohio's AI campus signals a transformative shift in AI infrastructure, potentially boosting regional economies and tech innovation.\nThe post Nvidia to invest $1.5B in SB Energy as part of massive Ohio AI campus deal appeared first on Cry…",
+      "url": "https://cryptobriefing.com/nvidia-sb-energy-investment-ohio-ai-campus",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-01T10:08:28Z"
+    },
+    {
+      "title": "Marvell raises fiscal 2027 and 2028 revenue outlooks amid data center growth",
+      "description": "Marvell's revenue growth underscores the escalating demand for AI infrastructure, highlighting the strategic importance of custom silicon in tech.\nThe post Marvell raises fiscal 2027 and 2028 revenue outlooks amid data center growth appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/marvell-raises-revenue-outlook-data-center-growth",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-01T10:01:49Z"
+    },
+    {
+      "title": "Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast",
+      "description": "Marvell (NASDAQ:MRVL) just told Wall Street its AI growth story keeps getting bigger rather than settling down. On its second-quarter fiscal 2027 earnings ca...",
+      "url": "https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-01T09:43:01Z"
+    },
+    {
+      "title": "Anthropic agrees to $35bn cloud contract with Lambda",
+      "description": "Anthropic has entered into a cloud-computing agreement valued at $35bn with Lambda, a cloud provider supported by Nvidia, Reuters reported, citing a source familiar with the matter.\nThe deal covers a data centre project in Nueces County, Texas, developed by H…",
+      "url": "https://biztoc.com/x/bf99e6be4c2ded60",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T09:30:33Z"
+    },
+    {
+      "title": "Swaps Bitcoin Rigs For Microsoft’s (MSFT) GPU Contracts",
+      "description": "IREN (NASDAQ:IREN) spent years mining Bitcoin. On August 27, the company told investors that the chapter is closing for good. Fourth-quarter AI cloud revenue more than doubled to $70.5 million, and IREN now has $4 billion in contracted revenue booked against …",
+      "url": "https://biztoc.com/x/0777aef84ec05a45",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T09:15:55Z"
+    },
+    {
+      "title": "Lawfare Daily: How Terrorist Groups are Using Artificial Intelligence",
+      "description": "Lawfare Foreign Policy Editor Daniel Byman sits down with Tricia Bacon, professor at American University, and Antonia Juelich, International Security Lead at the Cambridge Programme on AI Science & Policy (CASP), to talk about how different terrorist groups a…",
+      "url": "https://shows.acast.com/lawfare/episodes/lawfare-daily-how-terrorist-groups-are-using-artificial-inte",
+      "source": "Acast.com",
+      "publishedAt": "2026-09-01T09:00:00Z"
+    },
+    {
+      "title": "IREN (IREN) Swaps Bitcoin Rigs For Microsoft’s (MSFT) GPU Contracts",
+      "description": "IREN (NASDAQ:IREN) spent years mining Bitcoin. On August 27, the company told investors that the chapter is closing for good. Fourth-quarter AI cloud revenue...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-swaps-bitcoin-rigs-083947823.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-01T08:39:47Z"
+    },
+    {
+      "title": "Show HN: Strunk – revise Google Docs from Claude without breaking comments",
+      "description": "Reviewers comment in Google Docs. Strunk brings those comments back into Claude, ChatGPT, or Codex and applies your approved revisions on the exact spans, without breaking a single comment.",
+      "url": "https://strunk.io/",
+      "source": "Strunk.io",
+      "publishedAt": "2026-09-01T08:32:12Z"
+    },
+    {
+      "title": "Anthropic agrees to $35bn cloud contract with Lambda",
+      "description": "Anthropic has entered into a cloud-computing agreement valued at $35bn with Lambda, a cloud provider supported by Nvidia.",
+      "url": "https://www.verdict.co.uk/anthropic-cloud-contract-lambda",
+      "source": "Verdict",
+      "publishedAt": "2026-09-01T08:18:52Z"
+    },
+    {
+      "title": "The Failure of Generative AI: More Communication Does Not Equal Better Communication",
+      "description": "How to navigate the AI Age of Brevity.",
+      "url": "https://biztoc.com/x/e930a74216525861",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T08:15:03Z"
+    },
+    {
+      "title": "SalesforceとAnthropic、Claudeforceを発表：「世界No.1のAI」と「世界No.1のAI CRM」が融合",
+      "description": "[株式会社セールスフォース・ジャパン]\n[画像: https://prcdn.freetls.fastly.net/release_image/41550/393/41550-393-868ba550a69f435b572e20f0e57d716e-602x339.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000393.000041550.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-01T07:41:14Z"
+    },
+    {
+      "title": "Anthropic has signed a $35bn cloud deal with Nvidia-backed Lambda",
+      "description": "Anthropic has committed $35bn to a cloud provider most people have never heard of, for capacity in a Texas data centre being built by a former bitcoin miner. The Wall Street Journal reported the Lambda agreement on Monday, and Reuters confirmed it with a pers…",
+      "url": "https://thenextweb.com/news/anthropic-lambda-35bn-cloud-deal",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-01T07:33:28Z"
+    },
+    {
+      "title": "NVIDIA GPU Frame Interpolation Support Lands in FFmpeg",
+      "description": "NVIDIA's GPU-accelerated frame interpolation support has been integrated into FFmpeg through a Vulkan API, as announced by the project's developers. For those unfamiliar, FFmpeg is a widely used software suite that powers much of the world's modern multimedia…",
+      "url": "https://www.techpowerup.com/352206/nvidia-gpu-frame-interpolation-support-lands-in-ffmpeg",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-01T07:21:15Z"
+    },
+    {
+      "title": "Artificial intelligence and the left",
+      "description": "Bernie Sanders wants America's largest firms to put half their stock into a sovereign wealth fund. But could an AI socialism also transform the technology into a collective resource?\n\n-\n2026/09\n\n/ \narticle",
+      "url": "https://mondediplo.com/2026/09/12ai",
+      "source": "Mondediplo.com",
+      "publishedAt": "2026-09-01T07:02:42Z"
+    },
+    {
+      "title": "AMD vs. Nvidia: SpaceX and Tesla CEO Elon Musk Weighs In on His Top Pick",
+      "description": "AMD (NASDAQ: AMD) and Nvidia (NASDAQ: NVDA) are recognized as two of the top computing unit manufacturers in the AI arms race. While Nvidia got off to a hot start and dominated the initial build-out, AMD has made up some ground recently, although Nvidia still…",
+      "url": "https://biztoc.com/x/50da7b14e3c2e306",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T06:24:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Washington to press G20 on light-touch AI regulation",
+      "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+      "OpenAI’s ChatGPT Mil launches on secure U.S. military AI platform for 3 million personnel",
+      "Why OpenAI and Anthropic are risky for different reasons than their Chinese AI rivals"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.hurriyetdailynews.com/washington-to-press-g20-on-light-touch-ai-regulation-226299",
+        "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+        "https://biztoc.com/x/c9324e826236619a"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/2eed45ca059102f1",
+        "https://www.businessinsider.com/openai-anthropic-risky-different-open-weight-rivals-china-2026-9",
+        "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/ca3e603f1d48d2ec",
+        "https://cryptobriefing.com/marvell-raises-revenue-outlook-data-center-growth",
+        "https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://4sysops.com/archives/openais-chatgpt-mil-launches-on-secure-u-s-military-ai-platform-for-3-million-personnel"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-urge-hands-off-ai-regulation-at-g-20-official-says/articleshow/133677167.cms",
+        "https://biztoc.com/x/0777aef84ec05a45",
+        "https://shows.acast.com/lawfare/episodes/lawfare-daily-how-terrorist-groups-are-using-artificial-inte"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Washington to press G20 on light-touch AI regulation. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Washington to press G20 on light-touch AI regulation. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Washington to press G20 on light-touch AI regulation. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Washington to press G20 on light-touch AI regulation. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Washington to press G20 on light-touch AI regulation. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
