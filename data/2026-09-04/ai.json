@@ -1,0 +1,325 @@
+{
+  "theme": "ai",
+  "date": "2026-09-04",
+  "last_updated_utc": "2026-09-04T10:34:18.825Z",
+  "news": [
+    {
+      "title": "US Government Backs OpenAI in New York Times Copyright Case",
+      "description": "The Trump administration has filed a brief supporting OpenAI in its dispute with the New York Times NYT.N and other newspapers over the company’s use of their work to train the large language models behind ChatGPT, saying AI training generally …",
+      "url": "https://www.insurancejournal.com/news/national/2026/09/03/883738.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-03T05:16:41Z"
+    },
+    {
+      "title": "U.S. government sides with OpenAI in New York Times copyright lawsuit",
+      "description": "U.S. President Donald Trump’s administration sided with OpenAI in a lawsuit brought by the New York Times, defending training AI models on copyrighted works, according to a court document filed Tuesday. In late 2023, the New York Times sued ChatGPT-maker Open…",
+      "url": "https://www.digitaljournal.com/article/u-s-government-sides-with-openai-in-new-york-times-copyright-lawsuit",
+      "source": "Digital Journal",
+      "publishedAt": "2026-09-03T09:25:09Z"
+    },
+    {
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "description": "The Trump Administration just took OpenAI’s side in the artificial intelligence company’s legal battle with the New York Times.\nThe media juggernaut sued OpenAI and Microsoft in 2023, alleging that the companies had violated copyright law by training their AI…",
+      "url": "https://biztoc.com/x/605326c10b29978c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T07:19:06Z"
+    },
+    {
+      "title": "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike",
+      "description": "A union representing 14,000 security staff said it authorized a strike that could impact the California offices of AI firms including Google and Meta.",
+      "url": "https://www.businessinsider.com/security-workers-union-strike-silicon-valley-offices-openai-anthropic-google-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-03T10:29:54Z"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "description": "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs.\n“The United States has a strong interest in continu…",
+      "url": "https://biztoc.com/x/72980e69158d08a9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T08:50:34Z"
+    },
+    {
+      "title": "US sides with OpenAI in New York Times copyright lawsuit",
+      "description": "The US Justice Department has sided with OpenAI in the New York Times’ copyright lawsuit, defending AI model training on copyrighted works.\n\nRead More: https://punchng.com/us-sides-with-openai-in-new-york-times-copyright-lawsuit/",
+      "url": "https://punchng.com/us-sides-with-openai-in-new-york-times-copyright-lawsuit",
+      "source": "The Punch",
+      "publishedAt": "2026-09-03T08:32:17Z"
+    },
+    {
+      "title": "CrowdStrike put OpenAI in the product and Anthropic at the checkout",
+      "description": "CrowdStrike said on Wednesday that it will run OpenAI’s GPT-5.6 Cyber inside a purpose-built cyber harness. That word is doing a great deal of work. It is also the word that made this week’s other cybersecurity story alarming. The expanded OpenAI partnership,…",
+      "url": "https://thenextweb.com/news/crowdstrike-openai-gpt-5-6-cyber-anthropic-claude-marketplace",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-03T08:19:35Z"
+    },
+    {
+      "title": "Cango Inc.'s AI Subsidiary, EcoHash, Announces Operational Milestones: Completes Dedicated AI Infrastructure Modification at Georgia Facility and Begins Commercial GPU Compute Services Using First Batch of GPU Servers",
+      "description": "DALLAS, Sept. 3, 2026 /PRNewswire/ -- Cango Inc. (NYSE: CANG) (\"Cango\" or the \"Company\"), a leading Bitcoin miner leveraging its global operations to develop an integrated energy and AI compute platform, today announced that its high-performance computing (HP…",
+      "url": "https://www.prnewswire.com/news-releases/cango-incs-ai-subsidiary-ecohash-announces-operational-milestones-completes-dedicated-ai-infrastructure-modification-at-georgia-facility-and-begins-commercial-gpu-compute-services-using-first-batch-of-gpu-servers-302868744.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-03T10:30:00Z"
+    },
+    {
+      "title": "Nvidia is driving the AI boom. Good",
+      "description": "The chipmaker’s enormous bets are how capitalism is supposed to work",
+      "url": "https://biztoc.com/x/dbe86f4cb8a1a09b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T10:22:14Z"
+    },
+    {
+      "title": "Trump Admin Tells Court: Let OpenAI Rip Off The Intercept’s Articles",
+      "description": "President Donald Trump’s Justice Department took the side of tech giant OpenAI in its court battle with The Intercept and other media companies over the company’s use of others’ creative work to train its artificial intelligence tools.\nIn a federal court fili…",
+      "url": "https://biztoc.com/x/66872d285322d6f5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T10:22:00Z"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "description": "But will its loans prove sound?",
+      "url": "https://biztoc.com/x/797735e8e3de9a02",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T10:21:54Z"
+    },
+    {
+      "title": "Broadcom Earnings: AI Chip Sales Tripled. Here’s the $34.8 Billion Number Investors Need to Watch. - The Motley Fool",
+      "description": "Broadcom Earnings: AI Chip Sales Tripled. Here’s the $34.8 Billion Number Investors Need to Watch.The Motley Fool 28 Analysts Share Their Broadcom Stock Forecast Before Q3 EarningsYahoo Finance Broadcom Third-Quarter Profit Soars on Growing Custom Chip Demand…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185398638",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-03T10:12:27Z"
+    },
+    {
+      "title": "Chinese supercomputer manufacturer reveals the 'world's first' 64-thread mobile workstation for AI — domestic CPU paired with mystery GPU with 16GB of VR",
+      "description": "Sugon has released a teaser of an upcoming mobile workstation with a 64-thread processor and 16GB of VRAM to tackle AI models.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185398634",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-03T10:12:05Z"
+    },
+    {
+      "title": "I tried Claude Code, Codex, and Lovable, but this underrated tool is the true king of vibe coding",
+      "description": "The ideal balance of AI control.",
+      "url": "https://www.xda-developers.com/tried-claude-code-codex-lovable-but-tool-perfect-example-of-vibe-coding",
+      "source": "XDA Developers",
+      "publishedAt": "2026-09-03T10:00:15Z"
+    },
+    {
+      "title": "Chinese supercomputer manufacturer reveals the 'world's first' 64-thread mobile workstation for AI — domestic CPU paired with mystery GPU with 16GB of VRAM promises cloud-level performance",
+      "description": "Sugon has released a teaser of an upcoming mobile workstation with a 64-thread processor and 16GB of VRAM to tackle AI models.",
+      "url": "https://www.tomshardware.com/laptops/chinese-supercomputer-manufacturer-reveals-the-worlds-first-64-thread-mobile-workstation-for-ai-domestic-cpu-paired-with-mystery-gpu-with-16gb-of-vram-promises-cloud-level-performance",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-03T10:00:00Z"
+    },
+    {
+      "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+      "description": "American reliance on China for key components used to power data centers is coming under increasing scrutiny as Washington and Beijing battle for AI supremacy, raising the prospect of higher costs and worsening supply chain shortages for the AI buildout.\nU.S.…",
+      "url": "https://biztoc.com/x/b00e13f3c05faefa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T09:51:26Z"
+    },
+    {
+      "title": "Gemini 3.8 Flash bets on low cost to challenge top AI models",
+      "description": "Google’s Gemini 3.8 Flash is not the strongest model across every test, but its combination of software-engineering performance and low pricing makes it a serious enterprise contender. Matthew Berman highlights especially strong results in DeepSWE, legal rese…",
+      "url": "https://4sysops.com/archives/gemini-3-8-flash-bets-on-low-cost-to-challenge-top-ai-models",
+      "source": "4sysops.com",
+      "publishedAt": "2026-09-03T09:43:52Z"
+    },
+    {
+      "title": "Linux Foundation takes over NVIDIA-founded Open Secure AI Alliance",
+      "description": "The Linux Foundation has formally taken over the Open Secure AI Alliance (OSAA) from NVIDIA, giving the month-old AI security consortium a vendor-neutral home. The move advances the alliance’s work on open tools and standards, including the SAFE framework for…",
+      "url": "https://4sysops.com/archives/linux-foundation-takes-over-nvidia-founded-open-secure-ai-alliance",
+      "source": "4sysops.com",
+      "publishedAt": "2026-09-03T09:40:04Z"
+    },
+    {
+      "title": "The Fight for Serious AI Regulation Just Won a Big Victory in Massachusetts",
+      "description": "John Nichols\n\n\n\nAfter his primary win, Ed Markey says he’s ready to take on “the criminal enterprises” of Big Tech.\r\n\n\r\n\n\nThe post The Fight for Serious AI Regulation Just Won a Big Victory in Massachusetts appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=608600",
+      "source": "Thenation.com",
+      "publishedAt": "2026-09-03T09:31:00Z"
+    },
+    {
+      "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+      "description": "U.S. AI data centers rely on China-linked supplies of transformers, batteries and optical gear as Washington moves to tighten restrictions on foreign equipment.",
+      "url": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-03T09:29:04Z"
+    },
+    {
+      "title": "Anthropic files for US IPO, valued at $965B: NYT",
+      "description": "Anthropic's IPO could significantly boost investor confidence in AI ventures, potentially reshaping market dynamics and investment strategies.\nThe post Anthropic files for US IPO, valued at $965B: NYT appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-files-for-us-ipo-valued-at-965b-nyt",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-03T09:07:56Z"
+    },
+    {
+      "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+      "description": "Becoming a millionaire through artificial intelligence (AI) investing doesn't necessarily mean betting on the next big chipmaker; it could mean finding the companies solving the infrastructure bottlenecks behind the boom. These three stocks are powering the A…",
+      "url": "https://biztoc.com/x/8b9db5a7d3aede33",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T09:07:56Z"
+    },
+    {
+      "title": "Lawfare Daily: Peter Salib on the Legal and Policy Ramifications of the OpenAI-Hugging Face Postmortems",
+      "description": "Peter Salib, Associate Professor at the UH Law Center and co-Director of the Center on AI Law & Risk, joins Kevin Frazier, Director of the AI Innovation and Law Program at the University of Texas School of Law and Senior Editor at Lawfare, to break down the p…",
+      "url": "https://shows.acast.com/lawfare/episodes/lawfare-daily-peter-salib-on-the-legal-and-policy-ramificati",
+      "source": "Acast.com",
+      "publishedAt": "2026-09-03T09:00:00Z"
+    },
+    {
+      "title": "OpenAI Astra: new safeguards can stop your ChatGPT task mid-run",
+      "description": "OpenAI has rated its upcoming Astra model Critical for cybersecurity, the first model to reach that bar. It can find unknown flaws and build working exploits without a person guiding each step. The safeguards that ship with it will also flag ordinary work, so…",
+      "url": "https://www.notebookcheck.net/OpenAI-Astra-new-safeguards-can-stop-your-ChatGPT-task-mid-run.1387259.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-03T08:14:00Z"
+    },
+    {
+      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "description": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185397130",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-03T07:53:09Z"
+    },
+    {
+      "title": "FCEL Q2 Deep Dive: AI Data Center Momentum Overshadowed by Production Cost Pressures",
+      "description": "Carbonate fuel cell technology developer FuelCell Energy (NASDAQ:FCEL) missed Wall Street's revenue expectations in Q2 CY2026, with sales falling 29.4% year on year to $33 million. Its non-GAAP loss of $0.64 per share was 62.2% below analysts' consensus estim…",
+      "url": "https://biztoc.com/x/2410f614d4feedb6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T07:50:28Z"
+    },
+    {
+      "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac - 9to5Mac",
+      "description": "Anthropic upgrades Claude’s computer use to run in the background on Mac9to5Mac Anthropic adds built-in browser to Claude Cowork, ending extension dependencyvarindia.com Claude Native Built-in Browser: Auto Form Filling, Data Extraction & Dedicated Workstatio…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185391510",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-03T06:33:08Z"
+    },
+    {
+      "title": "Broadcom’s AI chip boom powers record quarter, shares waver",
+      "description": "Broadcom delivered strong fiscal third-quarter results, driven by a sharp surge in AI semiconductor revenue and rising demand for custom AI accelerators and networking chips. Despite beating estimates, shares came under pressure as investors looked for strong…",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/broadcoms-ai-chip-boom-powers-record-quarter-shares-waver/broadcoms-ai-boom-hits-another-gear/slideshow/133728007.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-09-03T06:25:54Z"
+    },
+    {
+      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
+      "description": "ai and ml Zuck's Muse to Spark joy with open weights release 'soon'While you wait, Meta says it’s taught the model to stop wasting tokens and ask for help a bit more often\n- \n \n ai and ml With Gemini 3.8 Flash, Google reminds everyone it's still in the raceAI…",
+      "url": "https://biztoc.com/x/b3cea826721a2975",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-03T06:18:17Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says this is the ‘most noble’ career in the AI era",
+      "description": "Nvidia CEO Jensen Huang has called engineering the “most noble” profession, saying it provides the foundation for modern society. Reflecting on his own career, Huang said engineering combines mathematics and science with problem-solving, persistence and the a…",
+      "url": "https://timesofindia.indiatimes.com/education/news/nvidia-ceo-jensen-huang-says-this-is-the-most-noble-career-in-the-ai-era/articleshow/133726125.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-03T05:23:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "US Government Backs OpenAI in New York Times Copyright Case",
+      "U.S. government sides with OpenAI in New York Times copyright lawsuit",
+      "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "Office security workers for OpenAI, Anthropic, and other tech firms authorize a strike",
+      "US government sides with OpenAI on issue of training LLMs on copyrighted material"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.insurancejournal.com/news/national/2026/09/03/883738.htm",
+        "https://www.digitaljournal.com/article/u-s-government-sides-with-openai-in-new-york-times-copyright-lawsuit",
+        "https://biztoc.com/x/605326c10b29978c"
+      ]
+    },
+    {
+      "title": "Work",
+      "summary": "Grouped stories where \"work\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/dbe86f4cb8a1a09b",
+        "https://4sysops.com/archives/linux-foundation-takes-over-nvidia-founded-open-secure-ai-alliance"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/cango-incs-ai-subsidiary-ecohash-announces-operational-milestones-completes-dedicated-ai-infrastructure-modification-at-georgia-facility-and-begins-commercial-gpu-compute-services-using-first-batch-of-gpu-servers-302868744.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185398634",
+        "https://www.tomshardware.com/laptops/chinese-supercomputer-manufacturer-reveals-the-worlds-first-64-thread-mobile-workstation-for-ai-domestic-cpu-paired-with-mystery-gpu-with-16gb-of-vram-promises-cloud-level-performance"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/797735e8e3de9a02",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185398638",
+        "https://www.xda-developers.com/tried-claude-code-codex-lovable-but-tool-perfect-example-of-vibe-coding"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US Government Backs OpenAI in New York Times Copyright Case. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US Government Backs OpenAI in New York Times Copyright Case. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US Government Backs OpenAI in New York Times Copyright Case. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US Government Backs OpenAI in New York Times Copyright Case. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US Government Backs OpenAI in New York Times Copyright Case. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
