@@ -1,0 +1,445 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-05",
+  "last_updated_utc": "2026-09-05T09:51:45.233Z",
+  "news": [
+    {
+      "title": "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
+      "description": "DeepSeek is preparing a large order of Huawei AI chips for a new data centre, according to Bloomberg. Neither the size of the order nor the chip model has been disclosed, and DeepSeek has not confirmed the plan. The data centre has been reported since the sum…",
+      "url": "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-04T09:45:31Z"
+    },
+    {
+      "title": "Is CoreWeave At The Mercy Of The Bond Market?",
+      "description": "CoreWeave, which rents GPU computing capacity to AI labs and hyperscalers, sits at the heart of a circular financing story that worries some investors. CoreWeave's total debt sits at $35 billion as of June 30, up sharply from $21 billion at year-end 2025. Fur…",
+      "url": "https://realinvestmentadvice.com/resources/blog/is-coreweave-at-the-mercy-of-the-bond-market",
+      "source": "Realinvestmentadvice.com",
+      "publishedAt": "2026-09-04T09:37:00Z"
+    },
+    {
+      "title": "Nissan's AI-powered factory robots can haul 4,000 pounds — and call each other for backup",
+      "description": "Nissan has been ramping up its in-factory AI efforts.\nNissan\nNissan's Smyrna, Tennessee, plant is using autonomous AI robots to move heavy objects.\nThe rollout will move 64 forklift and tug operators into other plant jobs.\nThis article is part of \"How AI Is C…",
+      "url": "https://biztoc.com/x/8fd58b2c8cc7d467",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T09:36:10Z"
+    },
+    {
+      "title": "NVIDIA Releases GeForce 616.64 WHQL Game Ready Drivers",
+      "description": "NVIDIA late Thursday released the latest version of its GeForce Game Ready drivers. Version 616.64 adds day-zero (Game Ready) optimization for \"NBA 2K27.\" Besides this little change, the company did not fix any new issues with this release, but identified a c…",
+      "url": "https://www.techpowerup.com/352335/nvidia-releases-geforce-616-64-whql-game-ready-drivers",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-04T09:30:56Z"
+    },
+    {
+      "title": "South Korea confirms chip investment talks with US as tariff threat grows",
+      "description": "South Korea negotiated tariff protection for its chipmakers, and Washington is pressing for American factories anyway. Semiconductor investment is now part of the broader talks between the two governments, a presidential official in Seoul has confirmed. The c…",
+      "url": "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-04T09:28:30Z"
+    },
+    {
+      "title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
+      "description": "TSMC is calling for future HBM and DRAM designs to become more compatible with X-ray inspection, as increasingly complex advanced packaging makes buried defects harder to detect while raising concerns over radiation exposure to sensitive memory devices.",
+      "url": "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T09:19:18Z"
+    },
+    {
+      "title": "NVIDIA Confirms DLSS 5 Support Extends To RTX 40 GPUs, But First Focusing On Model Optimization on RTX 50 Series - Wccftech",
+      "description": "NVIDIA Confirms DLSS 5 Support Extends To RTX 40 GPUs, But First Focusing On Model Optimization on RTX 50 SeriesWccftech ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOWNVIDIA Blog Nvidia will officially bring DLSS 5 to older GPUs — but …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185422560",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-04T09:12:30Z"
+    },
+    {
+      "title": "Commentary: Apple shifts to smart vehicle software layer as Ternus era arrives",
+      "description": "When Apple abandoned Project Titan, automotive supply chain insiders predicted the tech giant wouldn't bow out of the smart vehicle market entirely; it would simply approach the market from a different angle. Judging by its recent collaboration with Ford Moto…",
+      "url": "https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T09:06:20Z"
+    },
+    {
+      "title": "From chips to physical AI: Experts urge Taiwan-US push for trusted drone supply chains at Semicon Taiwan 2026",
+      "description": "Trustworthy supply chain concerns are extending beyond semiconductors to drones and other autonomous systems, now emerging as national strategic industries. At a Semicon Taiwan 2026 side forum, defense and industry experts from Taiwan and the US called for st…",
+      "url": "https://www.digitimes.com/news/a20260904PD218/drone-semiconductors-government-semicon-taiwan-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T09:05:00Z"
+    },
+    {
+      "title": "Lawfare Daily: Mike Schmidt Talks CHIPS and U.S. Industrial Policy",
+      "description": "When Congress passed the CHIPS Act in 2022, it was the first major piece of U.S. industrial policy legislation in decades and was intended to expand America's ability to manufacture the computer chips that are vital for everything from AI to phones and modern…",
+      "url": "https://shows.acast.com/lawfare/episodes/lawfare-daily-mike-schmidt-talks-chips-and-us-industrial-pol",
+      "source": "Acast.com",
+      "publishedAt": "2026-09-04T09:00:00Z"
+    },
+    {
+      "title": "Nikkei Rebounds 806 Points as SoftBank and AI Shares Rally",
+      "description": "Tokyo stocks rebounded on September 4, with the Nikkei 225 closing at 65,020.94, up 806.46 points, or 1.26%, as buying returned to artificial intelligence and semiconductor-related shares after a Wall Street rally, while investors waited for U.S. jobs data an…",
+      "url": "https://newsonjapan.com/article/150630.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-09-04T08:48:27Z"
+    },
+    {
+      "title": "Instead of Stripping This Vintage Dresser, She Painted It Deep Blue and Kept the Wood Top",
+      "description": "Yellow paint covered the curved drawer fronts, broad top, center cabinet, and low base of this vintage dresser, with chips and worn spots exposing parts of the surface beneath. The finish needed work, yet the wave-shaped drawers, framed center door, original …",
+      "url": "https://www.homedit.com/instead-of-stripping-this-vintage-dresser-she-painted-it-deep-blue-and-kept-the-wood-top",
+      "source": "Homedit.com",
+      "publishedAt": "2026-09-04T08:45:23Z"
+    },
+    {
+      "title": "Insurance, healthcare and energy metering deals round out the week; A&D in focus in They Said It",
+      "description": "VIPR’s platform processes around 500,000 bordereaux annually, representing about $12 billion of gross written premium, across a base of blue-chip customers.\nThe post Insurance, healthcare and energy metering deals round out the week; A&D in focus in They Said…",
+      "url": "https://www.pehub.com/insurance-healthcare-and-energy-metering-deals-round-out-the-week-ad-in-focus-in-they-said-it",
+      "source": "Pehub.com",
+      "publishedAt": "2026-09-04T08:36:24Z"
+    },
+    {
+      "title": "The 'Copper Wall': inside the physical bottlenecks threatening to melt AI supercomputing boom",
+      "description": "A decade ago, when Nvidia CEO Jensen Huang was developing the world's first NVLink-enabled deep learning system, the DGX-1, the tech industry was deeply skeptical about the future of artificial intelligence (AI).",
+      "url": "https://www.digitimes.com/news/a20260903VL226/quanta-copper-ai-semicon-taiwan-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T08:35:50Z"
+    },
+    {
+      "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
+      "description": "Nvidia has become one of the world's largest strategic tech backers as the value of its equity investments soared more than tenfold in the past year to $99 billion, with the chip giant increasingly looking to leverage its huge capital reserves to bolster the …",
+      "url": "https://biztoc.com/x/cf51193d775660f0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T08:35:02Z"
+    },
+    {
+      "title": "Jane Street signs $13bn five-year AI cloud deal with Crusoe",
+      "description": "A proprietary trading firm has just signed one of the largest AI cloud contracts of the year. Jane Street is committing roughly $13bn over five years to Crusoe, the data centre company, for clusters of AI chips and the infrastructure around them. The terms we…",
+      "url": "https://thenextweb.com/news/crusoe-jane-street-13-billion-ai-cloud-deal",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-04T08:30:47Z"
+    },
+    {
+      "title": "How agentic AI and 'AI physics' are reshaping chip design",
+      "description": "As semiconductor designs advance toward trillion-transistor packages, the traditional engineering playbook of simply adding more personnel or running legacy software faster has hit a wall, a top Nvidia executive warned Tuesday.",
+      "url": "https://www.digitimes.com/news/a20260903VL227/ai-agent-eda-design-hardware-software-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T08:20:00Z"
+    },
+    {
+      "title": "Refurb Alienware 16 Aurora Core 7 240H 16\" Gaming Laptop for $927 + free shipping w/ Prime",
+      "description": "At Woot, use promo code \"WOOTALIEN\" to get this refurb Alienware 16 Aurora Core 7 240H 16\" Gaming Laptop for $927. That's $322 less than the price of a new one elsewhere. A 1-year Alienware warranty is included. Coupon ends September 8. Buy Now at Woot! An Am…",
+      "url": "https://www.dealnews.com/Refurb-Alienware-16-Aurora-Core-7-240-H-16-Gaming-Laptop-for-927-free-shipping-w-Prime/22142297.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-04T08:13:02Z"
+    },
+    {
+      "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
+      "description": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-04T08:08:51Z"
+    },
+    {
+      "title": "Nvidia buys open-source AI co. Hugging Face for $13b",
+      "description": "Nvidia is putting Hugging Face in a tight corporate embrace: The AI chip giant said yesterday that it’s buying the platform housing open-source AI models for $12.9303 billion—a price tag derived from the emoji identification number for  (really).\nWhat’s in …",
+      "url": "https://biztoc.com/x/cd6dc378ec6fdb8c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T08:04:40Z"
+    },
+    {
+      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "description": "Amazon SageMaker AI now supports Amazon EC2 G6e instances for batch transform. Batch Transform enables you to run predictions on datasets stored in Amazon S3 and is suited for large datasets that do not require a persistent inference endpoint.\nAmazon EC2 G6e …",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances",
+      "source": "Amazon.com",
+      "publishedAt": "2026-09-04T08:00:00Z"
+    },
+    {
+      "title": "The price of diesel hits a record high",
+      "description": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain.\n(Image credit: Brandon Bell)",
+      "url": "https://biztoc.com/x/9f8175a9efcfb646",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T07:49:23Z"
+    },
+    {
+      "title": "The price of diesel hits a record high",
+      "description": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain.",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
+      "source": "NPR",
+      "publishedAt": "2026-09-04T07:44:21Z"
+    },
+    {
+      "title": "How to build a secure-by-default AI coding agent",
+      "description": "Ryan chats with Greg Jennings, VP of Engineering for AI Products at Anaconda, about what it takes to build a secure-by-default AI coding agent, why prompts shouldn't be treated as strict security guardrails, and how Anaconda is using strategic acquisitions to…",
+      "url": "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent",
+      "source": "Stackoverflow.blog",
+      "publishedAt": "2026-09-04T07:40:00Z"
+    },
+    {
+      "title": "Oriental Rail Infrastructure enters technology collaboration with Russia-based UWC",
+      "description": "Oriental Rail Infrastructure, through its wholly owned subsidiary Oriental Foundry, has entered into a Technology Development Agreement with the All Union Research and Development Centre for Transportation Technology (VNICTT), the design and engineering centr…",
+      "url": "https://www.business-standard.com/markets/capital-market-news/oriental-rail-infrastructure-enters-technology-collaboration-with-russia-based-uwc-126090400481_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-04T07:34:11Z"
+    },
+    {
+      "title": "[SnS] $10.10* | 18-ct 1-oz Boulder Canyon Avocado Oil Kettle Style Potato Chips (Variety Pack) at Amazon (56.1￠ each)",
+      "description": "Amazon [amazon.com] has *18-ct 1-oz Boulder Canyon Avocado Oil Kettle Style Potato Chips *(Variety Pack) for $10.63 - 5% when you check out via Subscribe & Save = *$10.10*. \n*Shipping is free* with...",
+      "url": "https://slickdeals.net/f/19969482-sns-10-10-18-ct-1-oz-boulder-canyon-avocado-oil-kettle-style-potato-chips-variety-pack-at-amazon-56-1-each",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-04T07:32:39Z"
+    },
+    {
+      "title": "Broadcom's Artificial Intelligence (AI) Chip Sales Surged 221% to $16.7 Billion Last Quarter: Is the Stock a Screaming Buy Right Now?",
+      "description": "Broadcom's Artificial Intelligence (AI) Chip Sales Surged 221% to $16.7 Billion Last Quarter: Is the Stock a Screaming Buy Right Now?\nBroadcom (NASDAQ: AVGO) just announced some simply incredible news: Its AI semiconductor revenue grew at a 221% pace to $16.7…",
+      "url": "https://biztoc.com/x/71a74ee35297450d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T07:20:47Z"
+    },
+    {
+      "title": "South Korea taps chip windfall for next tech push",
+      "description": "South Korea is turning a semiconductor-driven tax windfall into a broader technology investment push, directing record fiscal firepower toward chips, Nvidia's Vera Rubin computing platform, AI data centers, robotics and the power and water infrastructure need…",
+      "url": "https://www.digitimes.com/news/a20260903VL219/south-korea-technology-budget-infrastructure-2027.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T07:16:16Z"
+    },
+    {
+      "title": "Hugging Face founders each worth $1.8 billion after Nvidia deal: Who are Clement Delangue, Julien Chaumond, Thomas Wolf?",
+      "description": "Clement “Clem” Delangue, 38, Julien Chaumond, 42, and Thomas Wolf, 41, will each have a net worth of about $1.8 billion, according to the Bloomberg Billionaires Index, which valued their fortunes for the first time.",
+      "url": "https://www.livemint.com/companies/people/hugging-face-founders-each-worth-1-8-billion-after-nvidia-deal-who-are-clement-delangue-julien-chaumond-thomas-wolf-11788503545063.html",
+      "source": "Livemint",
+      "publishedAt": "2026-09-04T07:16:14Z"
+    },
+    {
+      "title": "Samsung turns to chips, OLED for next phase of Vietnam expansion",
+      "description": "Samsung is expanding its Vietnam footprint beyond smartphones, with semiconductor testing, high-end chip substrates, OLED displays and R&D emerging as the next pillars of its presence in one of its largest global manufacturing bases.",
+      "url": "https://www.digitimes.com/news/a20260903VL220/samsung-vietnam-expansion-investment-manufacturing-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T07:03:18Z"
+    },
+    {
+      "title": "D-Robotics at IFA 2026: The Computing Platform Powering the Next Generation of Home Robots",
+      "description": "From TCL's hey AiMe family companion robot and Vbot's household quadruped to the xLean TR1 floor washer, D-Robotics' AI chips and robotics developer kits now power hundreds of robot products worldwide. BERLIN, Sept. 4, 2026 /PRNewswire/ -- When IFA 2026 opens…",
+      "url": "https://www.prnewswire.com/news-releases/d-robotics-at-ifa-2026-the-computing-platform-powering-the-next-generation-of-home-robots-302869818.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-04T07:00:00Z"
+    },
+    {
+      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
+      "description": "Nvidia buying artificial intelligence platform Hugging Face for $13 billion\nNvidia is buying artificial intelligence software platform Hugging Face for $12.93 billion\nChipmaker Nvidia is buying artificial intelligence software platform Hugging Face for $12.93…",
+      "url": "https://biztoc.com/x/cf03c4c9194ec8d6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T06:48:37Z"
+    },
+    {
+      "title": "NVIDIA Confirms DLSS 5 for GeForce RTX 40-Series is Coming",
+      "description": "NVIDIA has officially confirmed that the company is working to bring DLSS 5 neural rendering to the previous-generation GeForce RTX 40-Series \"Ada Lovelace.\" Previously, it was believed that DLSS 5 technology would be exclusive to the latest GeForce RTX 50-Se…",
+      "url": "https://www.techpowerup.com/352330/nvidia-confirms-dlss-5-for-geforce-rtx-40-series-is-coming",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-04T06:32:02Z"
+    },
+    {
+      "title": "MSScorps August revenue hits new high on silicon photonics gains",
+      "description": "MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-performance computing (HPC), advanced packaging, and high-speed o…",
+      "url": "https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T06:31:46Z"
+    },
+    {
+      "title": "Nvidia to buy Hugging Face for nearly $13 billion",
+      "description": "Nvidia will buy popular developer platform Hugging Face for $12.93 billion, using its growing AI war chest to expand its influence in the booming market for open-source models that can nearly match the best from OpenAI and Anthropic at lower costs.",
+      "url": "https://www.rte.ie/news/business/2026/0904/1590285-nvidia-to-buy-hugging-face",
+      "source": "RTE",
+      "publishedAt": "2026-09-04T06:29:40Z"
+    },
+    {
+      "title": "AFLplusplus v5.03c",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "url": "https://kitploit.com/en/posts/github-aflplusplus-aflplusplus-v503c",
+      "source": "Kitploit.com",
+      "publishedAt": "2026-09-04T06:11:27Z"
+    },
+    {
+      "title": "Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp",
+      "description": "Trusval Technology is riding AI- and high-performance computing-driven semiconductor expansion overseas, but Taiwan's fab engineering firms face tougher labor shortages, regulations, materials constraints and rising costs abroad. Co-CEO Chu-chiao Kung said th…",
+      "url": "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T06:11:06Z"
+    },
+    {
+      "title": "Lenovo, Acer to launch Nvidia RTX Spark-powered Windows PCs in October",
+      "description": "Nvidia's RTX Spark platform will power Windows PCs from Lenovo and Acer in October, bringing local AI capabilities to developers, creators and enthusiasts, alongside AI agents and gaming",
+      "url": "https://www.business-standard.com/technology/tech-news/lenovo-acer-to-launch-nvidia-rtx-spark-powered-windows-pcs-in-october-126090400378_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-04T06:04:01Z"
+    },
+    {
+      "title": "Nvidia Spends Big With Billion-Dollar Acquisition of Hugging Face",
+      "description": "Nvidia Corp. announced on Tuesday, Sept. 2, an agreement to acquire Hugging Face Inc., an open platform for artificial intelligence (AI) developers, for $12.9 billion, according to a statement released by the company. The deal, which has been anticipated for …",
+      "url": "https://www.naturalnews.com/2026-09-04-nvidia-spends-big-with-hugging-face-acquisition.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z"
+    },
+    {
+      "title": "ChangXin Memory’s STAR Market IPO enters the inquiry stage",
+      "description": "ChangXin Memory’s IPO review status on Shanghai’s STAR Market has changed to “inquiry,” according to information from the Shanghai Stock Exchange. The update moves the Chinese memory-chip maker further into the exchange’s review process. The change is an IPO …",
+      "url": "https://technode.com/2026/09/04/changxin-memorys-star-market-ipo-enters-the-inquiry-stage",
+      "source": "TechNode",
+      "publishedAt": "2026-09-04T05:51:02Z"
+    },
+    {
+      "title": "SEMICON Taiwan 2026: QuantumDiamonds cracks the hybrid bonding blind spot with new inline metrology",
+      "description": "TAIPEI, Taiwan — The global semiconductor industry is hitting a physical wall. As artificial intelligence demands push architectures toward three-dimensional packaging, high-bandwidth memory (HBM) stacks, and complex hybrid bonding, traditional inspection too…",
+      "url": "https://www.digitimes.com/news/a20260904VL212/taiwan-2026-metrology-semiconductor-industry-wafer.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-04T05:50:12Z"
+    },
+    {
+      "title": "South Korea says chip investments under discussion with US amid tariff concerns",
+      "description": "SEOUL: South Korea and the United States are discussing semiconductor investments in the US as part of broader bilateral talks, a Seoul official told reporters on Friday (Sep 4).The presidential official was responding to a question about whether planned tari…",
+      "url": "https://www.channelnewsasia.com/business/south-korea-says-chip-investments-under-discussion-us-amid-tariff-concerns-6362261",
+      "source": "CNA",
+      "publishedAt": "2026-09-04T05:45:00Z"
+    },
+    {
+      "title": "PAIR tool from Nvidia lets you run AI agents on a personal AI data centre",
+      "description": "How Work Nvidia PAIR:  Nvidia's open-source Personal AI Router (PAIR) can connect compatible PCs on a local network and use their idle computing power to run AI workloads in parallel",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-pair-idle-pcs-macs-personal-ai-data-centre-126090400348_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-04T05:42:29Z"
+    },
+    {
+      "title": "Nvidia DLSS 5 on an RTX 5090 laptop: Our initial impressions",
+      "description": "We put Nvidia DLSS 5 through its paces in NBA 2K27 using an RTX 5090-powered Lenovo Legion Pro 7 laptop. Our 1440p and 4K testing shows a substantial performance penalty from DLSS 5 neural rendering, while Multi Frame Generation can claw back performance and …",
+      "url": "https://www.notebookcheck.net/Nvidia-DLSS-5-on-an-RTX-5090-laptop-Our-initial-impressions.1387695.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-04T05:37:00Z"
+    },
+    {
+      "title": "Nvidia vs. Micron: Which Is the Better AI Semiconductor Stock to Own for the Next 5 Years?",
+      "description": "Artificial intelligence (AI) infrastructure stocks are still one of the biggest driving forces in the market. While Nvidia (NASDAQ: NVDA) helped lead the early charge, other stocks, like Micron (NASDAQ: MU), have greatly outperformed the AI leader over the pa…",
+      "url": "https://biztoc.com/x/d2b9ea98c832929f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-04T05:34:07Z"
+    },
+    {
+      "title": "McDonald’s – “100% Sviy” Ukrainian Weeks campaign",
+      "description": "Contributed by Svitlana Tolmach (Rentafont)Source: www.mcdonalds.com McDonald’s. License: All Rights Reserved. For the “100% Sviy” (“100% Ours / Local”) promotional campaign, McDonald’s Ukraine launched a special menu inspired by traditional Ukrainian culinar…",
+      "url": "https://fontsinuse.com/uses/79438/mcdonald-s-100-sviy-ukrainian-weeks-campaign",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-09-04T05:08:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "DeepSeek plans large Huawei chip order for new Inner Mongolia data centre",
+      "Is CoreWeave At The Mercy Of The Bond Market?",
+      "Nissan's AI-powered factory robots can haul 4,000 pounds — and call each other for backup",
+      "NVIDIA Releases GeForce 616.64 WHQL Game Ready Drivers",
+      "South Korea confirms chip investment talks with US as tariff threat grows"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/352335/nvidia-releases-geforce-616-64-whql-game-ready-drivers",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185422560",
+        "https://www.digitimes.com/news/a20260903VL226/quanta-copper-ai-semicon-taiwan-2026.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/deepseek-huawei-ai-chip-order-data-centre",
+        "https://thenextweb.com/news/south-korea-us-chip-investment-tariff-talks",
+        "https://www.pehub.com/insurance-healthcare-and-energy-metering-deals-round-out-the-week-ad-in-focus-in-they-said-it"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://realinvestmentadvice.com/resources/blog/is-coreweave-at-the-mercy-of-the-bond-market",
+        "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newsonjapan.com/article/150630.php",
+        "https://www.digitimes.com/news/a20260904VL212/taiwan-2026-metrology-semiconductor-industry-wafer.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/8fd58b2c8cc7d467",
+        "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
+        "https://www.digitimes.com/news/a20260904PD234/apple-vehicle-software-google-automotive-supply-chain.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: DeepSeek plans large Huawei chip order for new Inner Mongolia data centre. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: DeepSeek plans large Huawei chip order for new Inner Mongolia data centre. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: DeepSeek plans large Huawei chip order for new Inner Mongolia data centre. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: DeepSeek plans large Huawei chip order for new Inner Mongolia data centre. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: DeepSeek plans large Huawei chip order for new Inner Mongolia data centre. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
