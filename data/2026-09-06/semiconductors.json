@@ -1,0 +1,403 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-06",
+  "last_updated_utc": "2026-09-06T10:08:28.529Z",
+  "news": [
+    {
+      "title": "CoreWeave Is More Than A GPU Rental Company",
+      "description": "CoreWeave operates as an emerging contracted AI utility with developing software capabilities. Find out why CRWV stock is a buy.",
+      "url": "https://seekingalpha.com/article/4943322-coreweave-more-than-gpu-rental-company",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-09-05T10:05:05Z"
+    },
+    {
+      "title": "Saturday Night Live UK logo and titles",
+      "description": "Contributed by Mario Julian GutierrezSource: www.instagram.com License: All Rights Reserved. Serial B is used for the logo of Saturday Night Live UK, with initials added from various sources. Art director Emma Judd comments:\n\n\nLive, loud and unapologetically …",
+      "url": "https://fontsinuse.com/uses/79224/saturday-night-live-uk-logo-and-titles",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-09-05T09:48:00Z"
+    },
+    {
+      "title": "Jensen Huang Just Sent a Signal That Could Matter More Than the September Effect",
+      "description": "Historically, September has been a difficult month for Wall Street. The S&P 500 has fallen by an average of about 1.1% during the month from 1926 through 2024. Yet Nvidia (NASDAQ: NVDA) stock has gained ground in seven of the past 10 Septembers, with a median…",
+      "url": "https://biztoc.com/x/89538c0001ad604d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T09:29:47Z"
+    },
+    {
+      "title": "South Korea exports surpass annual record as AI chip boom drives shipments",
+      "description": "Investing.com -- South Korea's exports have reached $709.4 billion so far this year, already surpassing the country's full-year record set in 2025 as booming global demand for artificial intelligence chips fuels semiconductor shipments, Reuters reported on Sa…",
+      "url": "https://biztoc.com/x/bc5e02d7a1837b07",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T09:29:39Z"
+    },
+    {
+      "title": "NVIDIA Rolls Out Hotfix 616.86 To Kill Three Bugs As Users Still Wait On The 8-Bit Flickering Fix",
+      "description": "The new hotfix driver supposedly fixes several bugs, but it doesn't appear to target the monitor flickering we reported about. NVIDIA Rolls Out GeForce Hotfix Driver 616.86, Fixing Intermittent Browser Flickering and RDP Black Screens We were waiting for NVID…",
+      "url": "https://wccftech.com/nvidia-rolls-out-hotfix-616-86",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-05T09:13:40Z"
+    },
+    {
+      "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
+      "description": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+      "source": "Bloomberg",
+      "publishedAt": "2026-09-05T08:51:36Z"
+    },
+    {
+      "title": "Broadcom: The Market Has It Wrong",
+      "description": "Summary\n- Broadcom is upgraded to Strong Buy after a post-earnings selloff, with valuation now compelling versus growth prospects.\n- Q4 guidance implies 93% sales growth, with AI semiconductor revenue set to reach $21.7B, up 236% Y/Y, and FY2026 AI revenue ta…",
+      "url": "https://biztoc.com/x/f42bd07d28040d1e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T07:44:00Z"
+    },
+    {
+      "title": "Micron: AI Fatigue Into A Big Day (NASDAQ:MU)",
+      "description": "Well, folks, if you have been invested in the semiconductor space recently, you already know that AI and related names have been very volatile. From a massive spring surge to an early summer selloff and choppy action since, it's\nSummary\n- Micron Technology, I…",
+      "url": "https://biztoc.com/x/8c2583eacb16aadf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T07:43:21Z"
+    },
+    {
+      "title": "MCExtractor r352",
+      "description": "Intel, AMD, VIA & Freescale Microcode Extraction Tool",
+      "url": "https://kitploit.com/en/posts/github-platomav-mcextractor-r352",
+      "source": "Kitploit.com",
+      "publishedAt": "2026-09-05T07:41:15Z"
+    },
+    {
+      "title": "Show HN: ForgeGuardian – Open-source software supply-chain security scanner",
+      "description": "1. Why you built itForgeGuardian was built in order to discover the threats that software supply chain has other than those detected by the regular CVE scanning process.2. What problem it solves\nInclude:Malicious packages\nTyposquatting\nDependency attacks\nBeha…",
+      "url": "https://github.com/Mah3Sec/ForgeGuardian",
+      "source": "Github.com",
+      "publishedAt": "2026-09-05T07:28:40Z"
+    },
+    {
+      "title": "Show HN: I Wrote a WAF in Rust with Pingora",
+      "description": "The WAF is in good condition, this is my starting point:\nshadow mode with reporting, replay of captured traffic\nbot detection (fingerprint header)\nintel threats (AbuseIPDB, AlienVault)\nGraphQL: depth, complexity, batch, introspection\nOpenAPI: request validati…",
+      "url": "https://github.com/theghostshinobi/shibuya",
+      "source": "Github.com",
+      "publishedAt": "2026-09-05T07:02:25Z"
+    },
+    {
+      "title": "Slate Money - The $12.93 Billion Emoji Joke",
+      "description": "This week: Nvidia joined Silicon Valley’s A.I. investment frenzy and bought Hugging Face for $12.93 billion. Felix Salmon, Elizabeth Spiers, and Emily Peck discuss what this deal signals about the astounding amounts of money being thrown around the relatively…",
+      "url": "https://shows.acast.com/slate-money/episodes/6a9b27ef2a7730b8966c1bde",
+      "source": "Acast.com",
+      "publishedAt": "2026-09-05T07:00:00Z"
+    },
+    {
+      "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+      "description": "South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said on Saturday, as the economy rides high on booming global demand for AI chips.\nThe country's exports hit $709.3 billion last year,…",
+      "url": "https://biztoc.com/x/ba79774bd04381b0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T06:43:23Z"
+    },
+    {
+      "title": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
+      "description": "Lam Research chief legal officer Ava Harter sold 5,000 shares at $302.46 on August 31, generating about $1.51 million and leaving her with 42,462 shares. The filing says the sale followed a Rule 10b5-1 plan adopted on April 28. On August 6, CEO Timothy Archer…",
+      "url": "https://biztoc.com/x/e29d689d32805a86",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T06:43:20Z"
+    },
+    {
+      "title": "Cloud infrastructure provider Nscale seeks about $3.5 billion pre-IPO funding",
+      "description": "Nscale intends to sell as much as $1.5 billion of convertible ‌notes to ⁠a ⁠group of investors and aims to secure about $2 billion from Nvidia, ​the source said.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nscale-seeks-about-3-5-billion-pre-ipo-funding/articleshow/133791341.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T06:42:03Z"
+    },
+    {
+      "title": "Broadcom: The Market Has It Wrong",
+      "description": "Broadcom's Q4 guidance implies 93% sales growth, with AI semiconductor revenue set to reach $21.7B, up 236% Y/Y. Read why AVGO stock is upgraded to strong buy.",
+      "url": "https://seekingalpha.com/article/4943290-broadcom-the-market-has-it-wrong",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-09-05T06:37:59Z"
+    },
+    {
+      "title": "Fuel supports among main topics of IRHA annual conference",
+      "description": "Fuel supports, transport regulation, decarbonisation and the future of Ireland's supply chain are set to be the focus of the second day of the Irish Road Haulage Association's (IRHA) annual conference.",
+      "url": "https://www.rte.ie/news/ireland/2026/0905/1590418-irha-annual-conference",
+      "source": "RTE",
+      "publishedAt": "2026-09-05T06:36:42Z"
+    },
+    {
+      "title": "How Trump is using 'chip diplomacy' and dangling precious AI technology to stop wars... and one of the world's richest men is reaping the rewards",
+      "description": "A US-brokered peace agreement was initialed by their leaders last August following intervention by the White House and it has since emerged that so-called 'chip diplomacy' played a large part.",
+      "url": "https://www.dailymail.com/news/article-16106859/trump-chip-diplomacy-AI-war-rich-men.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-05T06:34:51Z"
+    },
+    {
+      "title": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
+      "description": "Lam Research chief legal officer Ava Harter sold 5,000 shares at $302.46 on August 31, generating about $1.51 million and leaving her with 42,462 shares. The...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lam-research-legal-chief-sold-062159762.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-05T06:21:59Z"
+    },
+    {
+      "title": "Nebius: Surging Spot Prices Has Me Bullish For Next Year",
+      "description": "Nebius' unit economics are improving, with GPU price hikes passed through to contracts, shielding margins. Find out why NBIS stock is a buy.",
+      "url": "https://seekingalpha.com/article/4943285-nebius-surging-spot-prices-has-me-bullish-for-next-year",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-09-05T06:19:50Z"
+    },
+    {
+      "title": "Wendell Berry's Eternal Story - First Things",
+      "description": "\"Ten years ago, an editor at Penguin approached me to ask if I would like to edit a collection of essays by Wendell Berry for a British audience. Berry’s essays had never been published in book form in the U.K.; the editor had only recently discovered his wri…",
+      "url": "https://firstthings.com/wendell-berrys-eternal-story",
+      "source": "Firstthings.com",
+      "publishedAt": "2026-09-05T05:47:01Z"
+    },
+    {
+      "title": "Dell XPS 13 13.4\" 2.5k Touch Laptop (Intel Core 5 - 320 / 512GB / 16GB] $1,499 (Was $1699) @ JB Hi-Fi",
+      "description": "Was able to get down to $1485 via online chat. Key Features 13.4\" 2.5K (2560 x 1600) Touch WLED display with 30-120Hz VRR Intel Core 5 - 320 6 core processor (6MB cache, up to 4.6GHz) 512GB …",
+      "url": "https://www.ozbargain.com.au/node/973996",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-09-05T05:33:31Z"
+    },
+    {
+      "title": "NVDA Stock On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’ - Yahoo Finance",
+      "description": "NVDA Stock On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’Yahoo Finance Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chipsCNBC Why this veteran tech CEO is impressed by Nvidi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185437454",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-05T05:33:00Z"
+    },
+    {
+      "title": "Japan, U.S. advance $550 billion investment pact with AI, chips in focus",
+      "description": "Investing.com -- Japan is making progress on a $550 billion investment initiative with the United States, with artificial intelligence and semiconductor projects expected to play a central role in the next phase of the agreement, Bloomberg reported on Friday.…",
+      "url": "https://biztoc.com/x/fec5ce2a22dd22dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T04:27:50Z"
+    },
+    {
+      "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
+      "description": "Oil prices have surged dramatically this week amidst escalating military tensions between the U.S. and Iran. Record-high retail diesel prices in the U.S. are fueling global inflation concerns. Supply chain disruptions in the Middle East are dealing a blow to …",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ends-week-higher-on-renewed-us-iran-strikes-diesel-hits-record/articleshow/133786882.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T03:58:45Z"
+    },
+    {
+      "title": "Nvidia Wants to Turn Your Idle PCs Into a Personal Home Data Center With 'PAIR'",
+      "description": "Nvidia's PAIR links your unused laptops, desktops, and Macs together to run agentic AI locally without subscription fees or cloud privacy risks.\nNvidia's latest offering isn't a flagship GPU or a giant AI model, but a free, open-source software tool called PA…",
+      "url": "https://me.pcmag.com/en/ai/37971/nvidia-wants-to-turn-your-idle-pcs-into-a-personal-home-data-center-with-pair",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-05T03:52:51Z"
+    },
+    {
+      "title": "AMD Creates a Threadripper Desktop PC for AI Models",
+      "description": "AMD’s Threadripper Halo Station is poised to compete with Nvidia’s DGX Station tower PCs. Expect exorbitant pricing.\nAt IFA in Berlin this week, AMD introduced a new powerhouse desktop PC line, Threadripper Halo Station, designed to run AI models locally. \"Th…",
+      "url": "https://me.pcmag.com/en/processors/37969/amd-creates-a-threadripper-desktop-pc-for-ai-models",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-05T03:49:19Z"
+    },
+    {
+      "title": "Nvidia: DLSS 5 Is Coming to RTX 4000 GPUs, Too",
+      "description": "Nvidia confirms that the photorealistic DLSS 5 tech won't be exclusive to the RTX 5000 series, but you should expect a significant performance hit on older cards.\nGood news for owners of RTX 4000 GPUs: You're getting access to Nvidia’s DLSS 5 tech too, no mod…",
+      "url": "https://me.pcmag.com/en/pc-games/37968/nvidia-dlss-5-is-coming-to-rtx-4000-gpus-too",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-05T03:48:00Z"
+    },
+    {
+      "title": "I Tested Nvidia's DLSS 5 in NBA 2K27. AI Slop It Is Not",
+      "description": "With DLSS 5 AI models, Nvidia claims to significantly boost in-game image quality, but how does it really look? I tried out NBA 2K27 with an RTX 5090 and can confidently say that DLSS 5 shows massive improvement over earlier versions. Check out my in-game scr…",
+      "url": "https://me.pcmag.com/en/graphics-cards/37967/i-tested-nvidias-dlss-5-in-nba-2k27-ai-slop-it-is-not",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-05T03:45:25Z"
+    },
+    {
+      "title": "Jensen Huang’s Net Worth Nears $200 Billion After Nvidia Says It Will Acquire Hugging Face - Forbes",
+      "description": "Jensen Huang’s Net Worth Nears $200 Billion After Nvidia Says It Will Acquire Hugging FaceForbes Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chipsCNBC Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hug…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185436260",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-05T03:12:18Z"
+    },
+    {
+      "title": "Japan says progress made on $550 billion investment pact with U.S",
+      "description": "Trade minister Ryosei Akazawa declined to comment in detail, but said discussions on AI and chips will carry \"very significant weight.\"",
+      "url": "https://biztoc.com/x/74ffe3317b921dab",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T03:09:52Z"
+    },
+    {
+      "title": "Micron and Western Digital Shares Skyrocket, What You Need To Know",
+      "description": "What Happened?\nA number of stocks jumped in the afternoon session after investors shrugged off interest rate hike expectations following the August jobs report and unwound defensive positioning in beaten-down chip designers, according to Bloomberg. The U.S. B…",
+      "url": "https://biztoc.com/x/652df1babec4ea72",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T02:41:28Z"
+    },
+    {
+      "title": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
+      "description": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is in talks to raise between $5 billion and $6 billion at a pre-money valuation of at least $40 billion. Nvidia is separately in discussions to invest approximately $2.5 billion, …",
+      "url": "https://forkast.news/thinking-machines-lab-seeks-40b-valuation-as-nvidia-extends-its-capital-allocator-role-into-model-space",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-05T02:24:14Z"
+    },
+    {
+      "title": "RTX 5070 Ti, 16-core AMD Ryzen 9: Asus ROG Strix G16 gaming laptop scores $550 discount",
+      "description": "Deal | Gamers on the lookout for a powerful gaming laptop would be pleased to note that the RTX 5070 Ti-powered Asus ROG Strix G16 is now available with a pretty decent $550 discount on Best Buy.",
+      "url": "https://www.notebookcheck.net/RTX-5070-Ti-16-core-AMD-Ryzen-9-Asus-ROG-Strix-G16-gaming-laptop-scores-550-discount.1388835.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-05T02:18:00Z"
+    },
+    {
+      "title": "Baffled WSJ flings Trump's own words back in his face after major heel turn",
+      "description": "President Donald Trump is trying once again to impose massive new taxes on businesses that hire foreign workers by executive decree — and it cuts directly against what he ran on, the Wall Street Journal editorial board wrote on Friday.The administration previ…",
+      "url": "https://www.rawstory.com/trump-wsj-2677822802",
+      "source": "Raw Story",
+      "publishedAt": "2026-09-05T01:50:01Z"
+    },
+    {
+      "title": "Amazon - ASRock B550M-ITX/AC Supports 3rd Gen AMD AM4 Ryzenâ¢ / Future AMD Ryzenâ¢ Processors motherboard Mini ITX - $89.99 (2 replies)",
+      "description": "Amazon has ASRock B550M-ITX/AC Supports 3rd Gen AMD AM4 Ryzen™ / Future AMD Ryzen™ Processors motherboard Mini ITX for $89.99\n\nhttps://www.amazon.com/ASRock-B55...r=8-1&th=1",
+      "url": "https://slickdeals.net/f/19973640-amazon-asrock-b550m-itx-ac-supports-3rd-gen-amd-am4-ryzen-future-amd-ryzen-processors-motherboard-mini-itx-89-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-05T01:42:42Z"
+    },
+    {
+      "title": "Pimco's Top-Performing 60/40 Fund Bets AI's Next Winners Are In Asia, From Chips To Rare Earths",
+      "description": "Pimco's Top-Performing 60/40 Fund Bets AI's Next Winners Are In Asia, From Chips To Rare Earths\n \nEmmanuel Sharef, who oversees Pacific Investment Management Co.'s flagship Balanced Income and Growth Fund, spoke with Bloomberg about how the next leg of the ar…",
+      "url": "https://biztoc.com/x/1c0f20265e44e0e3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T01:23:22Z"
+    },
+    {
+      "title": "Hyundai Steel Celebrates Louisiana EAF Steel Mill Project Launch, Driving Growth for U.S. Manufacturing",
+      "description": "$5.8 billion investment part of Hyundai Motor Group's $26 billion U.S. commitment, strengthening local supply chain and industrial resilience Commercial production to begin in 2029 with 2.7 million metric tons annual capacity, supporting 5,400 jobs including …",
+      "url": "https://www.prnewswire.com/news-releases/hyundai-steel-celebrates-louisiana-eaf-steel-mill-project-launch-driving-growth-for-us-manufacturing-302870544.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-05T00:33:00Z"
+    },
+    {
+      "title": "DGX Spark Windows Clue: This Week’s Firmware Adds a Windows Boot Certificate as NVIDIA Details October RTX Spark PCs",
+      "description": "NVIDIA used IFA in Berlin to put Windows at the center of its local AI story. The company’s September 3 post covers a new Windows Agent framework for agents that run in the background under OS control, one-click Windows setups for OpenClaw and Nous Research’s…",
+      "url": "https://www.storagereview.com/news/dgx-spark-windows-clue-firmware-adds-windows-boot-certificate-as-nvidia-details-october-rtx-spark-pcs",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-09-05T00:25:04Z"
+    },
+    {
+      "title": "U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal",
+      "description": "Negotiators offered access to advanced AI hardware to help secure a preliminary agreement last year to end decades of conflict, the latest example of chip diplomacy.",
+      "url": "https://biztoc.com/x/92d1dee8c2f3fe9b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T00:22:41Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "CoreWeave Is More Than A GPU Rental Company",
+      "Saturday Night Live UK logo and titles",
+      "Jensen Huang Just Sent a Signal That Could Matter More Than the September Effect",
+      "South Korea exports surpass annual record as AI chip boom drives shipments",
+      "NVIDIA Rolls Out Hotfix 616.86 To Kill Three Bugs As Users Still Wait On The 8-Bit Flickering Fix"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/89538c0001ad604d",
+        "https://wccftech.com/nvidia-rolls-out-hotfix-616-86",
+        "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/bc5e02d7a1837b07",
+        "https://biztoc.com/x/ba79774bd04381b0",
+        "https://biztoc.com/x/fec5ce2a22dd22dc"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e29d689d32805a86",
+        "https://www.dailymail.com/news/article-16106859/trump-chip-diplomacy-AI-war-rich-men.html",
+        "https://finance.yahoo.com/technology/ai/articles/lam-research-legal-chief-sold-062159762.html"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1c0f20265e44e0e3"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://seekingalpha.com/article/4943322-coreweave-more-than-gpu-rental-company",
+        "https://fontsinuse.com/uses/79224/saturday-night-live-uk-logo-and-titles",
+        "https://biztoc.com/x/f42bd07d28040d1e"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: CoreWeave Is More Than A GPU Rental Company. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: CoreWeave Is More Than A GPU Rental Company. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: CoreWeave Is More Than A GPU Rental Company. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: CoreWeave Is More Than A GPU Rental Company. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: CoreWeave Is More Than A GPU Rental Company. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
