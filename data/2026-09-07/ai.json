@@ -1,0 +1,310 @@
+{
+  "theme": "ai",
+  "date": "2026-09-07",
+  "last_updated_utc": "2026-09-07T11:23:22.095Z",
+  "news": [
+    {
+      "title": "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+      "description": "By most measures, Cerebras Systems (NASDAQ:CBRS) delivered an outstanding second quarter.\nThe artificial intelligence (AI) computing specialist grew its non-GAAP (adjusted) revenue 103% year over year to $209.9 million. Its inference cloud business nearly qua…",
+      "url": "https://biztoc.com/x/d56dab798456715a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T23:58:35Z"
+    },
+    {
+      "title": "Nvidia-backed AI company reveals staggering $103 billion number",
+      "description": "Artificial intelligence companies are racing to secure one increasingly valuable resource: computing power.\nThat race has resulted in massive investment in Nvidia (NVDA) processors, data centers, and power. It has also spawned a new breed of specialist cloud …",
+      "url": "https://biztoc.com/x/bacf1e52f87f20e2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T23:42:28Z"
+    },
+    {
+      "title": "Use OpenAI models in Claude Code",
+      "description": "Created the connector between 2 agents that allows using 2 subscriptions\nSee https://github.com/umum-ai/claude-codex-bridge",
+      "url": "https://rubyflow.com/p/eh3nk3-use-openai-models-in-claude-code",
+      "source": "Rubyflow.com",
+      "publishedAt": "2026-09-06T09:18:17Z"
+    },
+    {
+      "title": "Investigations Show AI Agents in OpenAI Breach Knew They Were Cheating",
+      "description": "The artificial intelligence (AI) “agents” involved in OpenAI’s July breach of Hugging Face were aware that their actions violated the rules of the evaluation test they were supposed to be completing, according to parallel investigations by OpenAI and the inde…",
+      "url": "https://www.naturalnews.com/2026-09-06-investigations-show-agents-openai-breach-aware-cheating.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-06T06:00:00Z"
+    },
+    {
+      "title": "OpenAI apologises after messy rollout of GPT-6 Astra leaves paying users waiting | The Eastleigh Voice",
+      "description": "OpenAI says GPT-6 Astra delivers major advances in coding, research and computer use, but its launch has been overshadowed by access delays and growing.",
+      "url": "https://eastleighvoice.co.ke/business/397575/openai-apologises-after-messy-rollout-of-gpt-6-astra-leaves-paying-users-waiting",
+      "source": "Eastleighvoice.co.ke",
+      "publishedAt": "2026-09-06T11:00:38Z"
+    },
+    {
+      "title": "OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63-acre Moon Camp shoreline at Big Bear Lake, stopping a planned 50-home marina near the Jackie and Shadow bald eagle nest",
+      "description": "An AI executive's $5.5 million gift saves a California lakeside nesting ground from development, protecting the eagles whose livestreamed lives captivate millions.\nThe post OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63…",
+      "url": "https://spacedaily.com/j-openai-cofounder-greg-brockman-anna-5-5-million-moon-camp-big-bear-jackie-shadow",
+      "source": "Space Daily",
+      "publishedAt": "2026-09-06T10:56:44Z"
+    },
+    {
+      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it",
+      "description": "The Allen family in Rayville, Louisiana, owns Holy Tacos.\nTim Allen\nMeta is building its largest AI data center in Holly Ridge, Louisiana.\nThe decision inspired Tim Allen and his family to open their restaurant, Holy Tacos.\nAllen said the construction has hel…",
+      "url": "https://biztoc.com/x/dcb25b5049312e29",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T09:49:17Z"
+    },
+    {
+      "title": "Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now)",
+      "description": "Nvidia (NASDAQ: NVDA) is the world's largest company. It got that way, in part, by partnering with several of the world's fastest-growing companies to fuel an AI-powered future. Through these interactions, Nvidia also identifies businesses it thinks are worth…",
+      "url": "https://biztoc.com/x/da6e82e7b9e7a5f8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T09:34:38Z"
+    },
+    {
+      "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue",
+      "description": "OpenAI responds after report exposed another incident in which its AI agents went rogue\nReuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.\nOpenAI says it chose not to publicly disclose a rec…",
+      "url": "https://biztoc.com/x/5cfe7b6509c4419d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T09:34:07Z"
+    },
+    {
+      "title": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it.",
+      "description": "Tim Allen and his family decided to open a restaurant after Meta announced plans to build an AI data center near their hometown in rural Louisiana.",
+      "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-economy-taco-restaurant-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-06T09:31:01Z"
+    },
+    {
+      "title": "Morgan Stanley breaks down the midterm races it's watching with implications for AI and the data center boom",
+      "description": "Data center developers have run into local opposition across the US this year. Market pros say the bottleneck could be a threat to the AI trade.",
+      "url": "https://www.businessinsider.com/midterm-elections-data-centers-texas-mighigan-ai-morgan-stanley-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-06T09:20:01Z"
+    },
+    {
+      "title": "Could Be 39% Undervalued As Nvidia Tie Up Lifts Interest",
+      "description": "stock is in focus after the company announced support for NVIDIA Jetson Orin Nano 2, extending its collaboration on edge AI platforms for drones, robotics and other autonomous systems.\nThe Aptiv announcement comes after a tough stretch for the stock, with the…",
+      "url": "https://biztoc.com/x/c08519339607f5d2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T08:34:00Z"
+    },
+    {
+      "title": "(VIDEO) Apple's Sept. 9 iPhone Event To Reshape Market With Gemini AI, First Foldable, Split Launch Strategy",
+      "description": "Apple's upcoming event will unveil new iPhones, including a foldable model, highlight AI integration with Google, and introduce a staggered release strategy, potentially reshaping the smartphone industry landscape.",
+      "url": "https://www.ibtimes.com.au/apples-iphone-launch-ai-foldables-strategic-shifts-1875075",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-06T08:27:26Z"
+    },
+    {
+      "title": "Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast",
+      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Anthropic locks out Claude users after infostealers hijack login sessions Anthropic has started locking users out of their Claude accounts due to their login ses…",
+      "url": "https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-06T08:00:56Z"
+    },
+    {
+      "title": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns",
+      "description": "In the wake of fresh reporting about more of OpenAI’s AI agents misbehaving on the public internet, OpenAI says the AI world lacks standards for when and how to report such incidents. It is “past time for us to define standards for when and how we share misal…",
+      "url": "https://biztoc.com/x/a70418f0dc635399",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T07:32:30Z"
+    },
+    {
+      "title": "OpenAI acknowledges 'wiki incident'; plans framework to report unintended AI behaviour",
+      "description": "Recently a research found that a group of rogue OpenAI agents took control of a German website this spring and turned it into a message board for other AI agents",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-acknowledges-wiki-incident-plans-framework-to-report-unintended-ai-behaviour/article71434529.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-06T06:59:03Z"
+    },
+    {
+      "title": "AI-Powered Digital Marketing: How Artificial Intelligence Is Changing Google Ads and Business Decision-Making",
+      "description": "Research Article Author: Sharon Macklow Topic: Artificial Intelligence, Digital Marketing, Google Ads & Business Strategy Date: September 2025 Abstract Artificial Intelligence (AI) is changing the way businesses approach digital advertising, customer acquisit…",
+      "url": "https://www.linkedin.com/pulse/ai-powered-digital-marketing-how-artificial-changing-google-mack-0dxif",
+      "source": "Linkedin.com",
+      "publishedAt": "2026-09-06T06:52:57Z"
+    },
+    {
+      "title": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - Gizmodo",
+      "description": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment MeltdownsGizmodo EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this springReuters Why the Hugging Face Hack Should Make You Worry More About A.I.The …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185459082",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-06T06:33:17Z"
+    },
+    {
+      "title": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue - Engadget",
+      "description": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went RogueEngadget Why the Hugging Face Hack Should Make You Worry More About A.I.The New York Times OpenAI acknowledges 'wiki incident' and need for more transparency around uninten…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185457808",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-06T04:52:51Z"
+    },
+    {
+      "title": "Anthropic delays its IPO plans, listing expected in November",
+      "description": "Anthropic has delayed its initial public offering marketing to mid-October at the earliest, with completion targeted just before the US midterm elections in November. The potential $2 trillion AI listing was pushed back as the company works to finalise a $15 …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-06T04:28:33Z"
+    },
+    {
+      "title": "24_Che_RR_IIT Madras professor Ravindran is appointed to UN panel on artificial intelligence",
+      "description": "IIT Madras professor B Ravindran joins UN Independent International Scientific Panel on AI to assess AI’s societal impacts and support global governance.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/24_che_rr_iit-madras-professor-ravindran-is-appointed-to-un-panel-on-artificial-intelligence/articleshow/133823003.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-06T02:24:26Z"
+    },
+    {
+      "title": "Talking About OpenAI Astra AKA GPT 6 and AGI",
+      "description": "OpenAI GPT 6 is a next generation model. It is built different. Theo says it is the best model ever.",
+      "url": "https://www.nextbigfuture.com/2026/09/talking-about-openai-astra-aka-gpt-6-and-agi.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-09-06T02:20:35Z"
+    },
+    {
+      "title": "Sam Altman wants OpenAI to build the computer that comes after the smartphone",
+      "description": "OpenAI's push for AI-native devices could redefine human-computer interaction, but faces challenges in execution, competition, and legal hurdles.\nThe post Sam Altman wants OpenAI to build the computer that comes after the smartphone appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/openai-altman-consumer-devices-ai-hardware",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-05T23:41:00Z"
+    },
+    {
+      "title": "Nvidia-backed AI company Nscale reveals staggering $103B contracted revenue ahead of IPO",
+      "description": "Nscale's massive contracted revenue highlights the escalating demand for AI infrastructure, potentially reshaping the tech investment landscape.\nThe post Nvidia-backed AI company Nscale reveals staggering $103B contracted revenue ahead of IPO appeared first o…",
+      "url": "https://cryptobriefing.com/nscale-103-billion-contracted-revenue-ipo",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-05T23:35:31Z"
+    },
+    {
+      "title": "Nvidia-backed AI company reveals staggering $103 billion number",
+      "description": "The company reveals how big AI infrastructure is getting",
+      "url": "https://www.thestreet.com/investing/nvidia-backed-ai-startup-nscale-reveals-103-billion-contracted-revenue",
+      "source": "TheStreet",
+      "publishedAt": "2026-09-05T23:17:00Z"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.\nA lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond repair.” …",
+      "url": "https://biztoc.com/x/2fc50a84ade0dc9e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-05T22:55:47Z"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft | TechCrunch",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-05T22:51:53Z"
+    },
+    {
+      "title": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported",
+      "description": "A new tool called DLSS 5 Swapper, published on GitHub by developer rakanki911, automates installing DLSS 5's Neural Rendering into games, including ones that never officially got support for it. Users can drag and drop a game into the app, or let it scan the …",
+      "url": "https://www.techpowerup.com/352395/new-dlss-5-swapper-tool-brings-neural-rendering-to-games-nvidia-never-supported",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-05T22:49:28Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It",
+      "Nvidia-backed AI company reveals staggering $103 billion number",
+      "Use OpenAI models in Claude Code",
+      "Investigations Show AI Agents in OpenAI Breach Knew They Were Cheating",
+      "OpenAI apologises after messy rollout of GPT-6 Astra leaves paying users waiting | The Eastleigh Voice"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/d56dab798456715a",
+        "https://rubyflow.com/p/eh3nk3-use-openai-models-in-claude-code",
+        "https://www.naturalnews.com/2026-09-06-investigations-show-agents-openai-breach-aware-cheating.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/bacf1e52f87f20e2",
+        "https://biztoc.com/x/da6e82e7b9e7a5f8",
+        "https://biztoc.com/x/c08519339607f5d2"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/dcb25b5049312e29",
+        "https://www.businessinsider.com/meta-ai-data-center-louisiana-economy-taco-restaurant-2026-9",
+        "https://www.businessinsider.com/midterm-elections-data-centers-texas-mighigan-ai-morgan-stanley-2026-9"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Cerebras Has a $25.4 Billion Backlog, and One OpenAI Agreement Is Behind Much of It. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
