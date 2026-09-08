@@ -1,0 +1,425 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-08",
+  "last_updated_utc": "2026-09-08T10:28:03.609Z",
+  "news": [
+    {
+      "title": "Google to build new AI chip in Israel, tapping Hailo talent",
+      "description": "The tech giant is assembling a team led by former Hailo executive Guy Kaminitz to develop chips for robots and autonomous systems. It has also hired former Pliops CEO Ido Bukspan to lead data networking chip development",
+      "url": "https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-09-07T10:13:38Z"
+    },
+    {
+      "title": "Huawei's $3,000 device leads China's answer to Apple's foldable iPhone",
+      "description": "The new foldable is significant for ushering in Huawei's LogicFolding chip design philosophy, with its Kirin 9050 Pro processor the first silicon to be developed under that program",
+      "url": "https://www.business-standard.com/world-news/huawei-s-3-000-device-leads-china-s-answer-to-apple-s-foldable-iphone-126090700760_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-07T10:09:14Z"
+    },
+    {
+      "title": "UK food supply chain at risk from hostile attacks",
+      "description": "Defending against cyber foes is among factors hitting food price inflation, report finds",
+      "url": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
+      "source": "Theregister.com",
+      "publishedAt": "2026-09-07T10:06:10Z"
+    },
+    {
+      "title": "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up",
+      "description": "Jensen Huang confirms Nvidia's plans to buy Hugging Face in its biggest-ever acquisition.",
+      "url": "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-07T10:05:00Z"
+    },
+    {
+      "title": "Vishay Adds Higher-Power RF Resistors for Compact Designs - MyChesCo",
+      "description": "MALVERN, PA — Vishay Intertechnology Inc. (NYSE: VSH) introduced a new line of thin-film chip resistors designed to handle more power at high frequencies in compact electronic systems, targeting telecommunications, …",
+      "url": "https://www.mychesco.com/a/news/business/products-services/vishay-adds-higher-power-rf-resistors-for-compact-designs",
+      "source": "Mychesco.com",
+      "publishedAt": "2026-09-07T10:04:50Z"
+    },
+    {
+      "title": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone - Bloomberg.com",
+      "description": "Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhoneBloomberg.com Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats upReuters Huawei Mate XT 2 launches today: how to watchtech-ish.com Huawei launches Mate XT 2 tri-fol…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185488008",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T09:52:15Z"
+    },
+    {
+      "title": "Huawei Mate XT 2 tri-fold is here with a privacy screen that actually does something",
+      "description": "New Kirin 9050 Pro chip, hardware-level privacy display, and the first tri-fold phone with serious water resistance",
+      "url": "https://www.intomobile.com/2026/09/07/huawei-mate-xt-2-tri-fold-is-here-with-a-privacy-screen-that-actually-does-something",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-09-07T09:50:56Z"
+    },
+    {
+      "title": "China’s AI capex jumps 105% YoY, but Jefferies says US cloud giants face greater risks",
+      "description": "Chinese tech giants sharply increased AI capital expenditure in Q2 2026, driven by inference demand and chip availability. However, Jefferies sees greater sustainability risks in US cloud spending, highlighting rising capex relative to revenue and the challen…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-ai-capex-jumps-105-yoy-but-jefferies-says-us-cloud-giants-face-greater-risks/articleshow/133874769.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T09:49:29Z"
+    },
+    {
+      "title": "Samsung’s Exynos 2700 just posted some serious benchmark numbers",
+      "description": "Early Geekbench results for the Galaxy S27's chip look promising, but there's more going on under the hood than just raw scores",
+      "url": "https://www.intomobile.com/2026/09/07/samsungs-exynos-2700-just-posted-some-serious-benchmark-numbers",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-09-07T09:48:05Z"
+    },
+    {
+      "title": "NVIDIA DLSS 5 Cripples Most PCs in Modded Games, but DLSS 5 Autopilot Restores Playable Performance",
+      "description": "Following its reveal earlier this year, NVIDIA DLSS 5 Neural Rendering is officially available, though only in a single game so far, NBA 2K27, which generally does a great job showcasing how the new tech can work wonders in games with realistic visuals. Still…",
+      "url": "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-07T09:47:59Z"
+    },
+    {
+      "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up - reuters.com",
+      "description": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats upreuters.com Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhoneBloomberg.com Huawei Mate XT 2 launches today: how to watchtech-ish.com Huawei launches Mate XT 2 tri…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185487670",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T09:32:48Z"
+    },
+    {
+      "title": "Honda Japan workers to take 14 extra days off amid parts shortages",
+      "description": "Production at Honda’s Saitama and Suzuka plants will pause for 14 additional days between June and August 2011 as the company manages earthquake-related supply chain disruption.",
+      "url": "https://www.inautonews.com/japan-honda-workers-to-take-14-extra-days-off",
+      "source": "Inautonews.com",
+      "publishedAt": "2026-09-07T09:30:57Z"
+    },
+    {
+      "title": "Australian Supplier Shutdown Puts Ford and GM Holden Production at Risk",
+      "description": "The collapse of two key Australian parts suppliers in 2012 forced Ford to halt production and threatened to shut down GM Holden lines within days, exposing deep vulnerabilities in the local supply chain.",
+      "url": "https://www.inautonews.com/australian-supplier-shutdown-threatens-gm-and-ford",
+      "source": "Inautonews.com",
+      "publishedAt": "2026-09-07T09:30:57Z"
+    },
+    {
+      "title": "Nvidia's purchase of Hugging Face will strengthen its model-agnostic position in the AI market",
+      "description": "The acquisition grants Nvidia a near-perfect hedge against risks to its core business. It puts the AI chipmaker at the centre of the AI open-weight model distribution ecosystem. However, Nvidia's handling of Hugging Face will need to be delicate.",
+      "url": "https://www.livemint.com/opinion/online-views/nvidia-hugging-face-purchase-will-strengthen-its-model-agnostic-position-in-the-ai-market-11788699724219.html",
+      "source": "Livemint",
+      "publishedAt": "2026-09-07T09:30:25Z"
+    },
+    {
+      "title": "Mondelēz shifts European biscuit packaging from plastic trays to paper",
+      "description": "The switch applies to more than 115 products sold under eight brands. These include Cadbury, Chips Ahoy!, Freia, Lacta and Marabou.",
+      "url": "https://www.packaging-gateway.com/news/mondelez-european-biscuit-paper-packaging",
+      "source": "Packaging-gateway.com",
+      "publishedAt": "2026-09-07T09:28:23Z"
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "description": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and benchmark results.",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "Vllm.ai",
+      "publishedAt": "2026-09-07T09:26:41Z"
+    },
+    {
+      "title": "Preferred Networks seeks IPO to mass-produce AI chips that could outpace Nvidia’s GPUs",
+      "description": "Preferred Networks' IPO could disrupt the AI chip market, challenging Nvidia's dominance and potentially reshaping global semiconductor dynamics.\nThe post Preferred Networks seeks IPO to mass-produce AI chips that could outpace Nvidia’s GPUs appeared first on…",
+      "url": "https://cryptobriefing.com/preferred-networks-ipo-ai-chips",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-07T09:18:44Z"
+    },
+    {
+      "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
+      "description": "AMD gained 4.7% and Intel rose 4.5% on September 4, while Nvidia added only 0.8%. The one-session gap is consistent with investors widening the AI trade beyond Nvidia, but it cannot identify buyer motive or prove a lasting rotation. Advanced Micro Devices, In…",
+      "url": "https://biztoc.com/x/742c5c91b19d021d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T09:16:56Z"
+    },
+    {
+      "title": "Just Blew Past $250M In Quarterly Sales",
+      "description": "On August 6, Nova (NASDAQ:NVMI) reported second-quarter 2026 results for the three months ended June 30, and the numbers marked a new high point for the semiconductor metrology company. Revenue hit $255.0 million, up 8% from the first quarter of 2026 and 16% …",
+      "url": "https://biztoc.com/x/cfb27437b00e4278",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T09:16:52Z"
+    },
+    {
+      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
+      "description": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?\nHewlett Packard Enterprise said on September 2 that Oracle may deploy its Juniper networking equipment across Oracle Cloud Infrastructu…",
+      "url": "https://biztoc.com/x/e3d922abc76fc907",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T09:16:48Z"
+    },
+    {
+      "title": "How UC Santa Cruz's Silicon Valley lab is reverse-engineering the human brain to solve AI's chip power crisis",
+      "description": "As the global race for artificial intelligence (AI) consumes vast oceans of electricity and pushes modern utility grids to the brink, a team of California researchers is looking to biological neuroscience to build an entirely new class of energy-efficient mic…",
+      "url": "https://www.digitimes.com/news/a20260906VL202/ai-chip-california-electricity-hardware-silicon-valley-academia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T09:08:28Z"
+    },
+    {
+      "title": "Taiwan pledges $20bn more in US chip investment while courting the EU, Reuters reports",
+      "description": "Taiwan spent this week’s SEMICON trade show in Taipei making the same argument twice over, once to Washington and once to Brussels: that its chips arrive with democratic governance attached. The commercial half of that argument came with a number, and economy…",
+      "url": "https://thenextweb.com/news/taiwan-chip-diplomacy-semicon-20bn-us-investment",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-07T09:06:31Z"
+    },
+    {
+      "title": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging",
+      "description": "The largest engineering school on the US West Coast by enrollment is training engineers for Taiwan Semiconductor Manufacturing Co. (TSMC) and pioneering advanced 3D packaging design.",
+      "url": "https://www.digitimes.com/news/a20260904VL221/tsmc-taiwan-packaging-design-training.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T09:04:12Z"
+    },
+    {
+      "title": "Prison staff detained over 2011 death of former intel official",
+      "description": "Authorities on Sept. 7 ordered the detention of 11 prison officials over the 2011 death of a former intelligence officer, Kaşif Kozinoğlu, whose case was recently reopened.",
+      "url": "https://www.hurriyetdailynews.com/prison-staff-detained-over-2011-death-of-former-intel-official-226562",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-07T09:02:00Z"
+    },
+    {
+      "title": "Concierges, adjunct professors, potato chip tasters: US employers rely on ‘disposable’ workers",
+      "description": "When I leave my Boston condo every day, I say good morning to the concierge, who works for a contracting company providing staff to residential buildings. When I conduct an interview in a nearby building, the people who clean that office at night are contract…",
+      "url": "https://biztoc.com/x/e91eb5f8a228209a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T09:00:19Z"
+    },
+    {
+      "title": "South Korea secures US$2B from Air Products, Axcelis, Corning, Pacifico Energy to bolster supply chains",
+      "description": "Four major US technology companies have committed a combined US$2 billion to investments across South Korea's semiconductor materials, equipment, and clean energy sectors. The move is expected to reinforce critical supply chain resilience between the US and S…",
+      "url": "https://www.digitimes.com/news/a20260907PD233/technology-corning-axcelis-investment-materials.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T08:59:32Z"
+    },
+    {
+      "title": "Huawei Kirin 9050 Pro revives flagship chip launches with reported LogicFolding architecture in Mate XT 2",
+      "description": "Huawei has unveiled the Kirin 9050 Pro in its new Mate XT 2 tri-fold smartphone, marking the commercial debut of the LogicFolding architecture behind its Tau Scaling Law and Huawei's first new high-performance Kirin chip introduced at a flagship launch in six…",
+      "url": "https://www.digitimes.com/news/a20260907VL215/huawei-kirin-flagship-smartphone-launch-performance.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T08:54:05Z"
+    },
+    {
+      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
+      "description": "Hewlett Packard Enterprise said on September 2 that Oracle may deploy its Juniper networking equipment across Oracle Cloud Infrastructure data centers under...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-putting-hpe-juniper-gear-083309249.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-07T08:33:09Z"
+    },
+    {
+      "title": "クオンタムソリューションズ、AIDC事業の本格展開に向け第一弾となる最新世代・高密度GPUコンピューティング基盤の調達契約を締結",
+      "description": "[クオンタムソリューションズ株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/77168/64/77168-64-44f656dd853a633f02b662c377f5b497-1632x640.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000077168.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-07T08:30:12Z"
+    },
+    {
+      "title": "Nikkei Jumps 1,378 Points as Chip Shares Lead Rebound",
+      "description": "Tokyo stocks rose sharply on September 7, with the Nikkei 225 closing at 66,399, up 1,378 points, or 2.12%, as buying in artificial intelligence and semiconductor-related shares lifted the headline index, even though more stocks fell than rose across the Prim…",
+      "url": "https://newsonjapan.com/article/150650.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-09-07T08:29:18Z"
+    },
+    {
+      "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed?",
+      "description": "AMD gained 4.7% and Intel rose 4.5% on September 4, while Nvidia added only 0.8%. The one-session gap is consistent with investors widening the AI trade beyo...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-soared-nvidia-lagged-082539405.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-07T08:25:39Z"
+    },
+    {
+      "title": "India frames its chip build-out as redundancy for the world, and Taiwan as its partner in building it",
+      "description": "India's most senior semiconductor policymakers came to Taipei with an argument aimed squarely at the Taiwanese supply chain: the country's chip program is meant to add redundancy to an over-concentrated global industry, not to substitute imports behind a wall…",
+      "url": "https://www.digitimes.com/news/a20260904VL222/india-semiconductors-supply-chain-packaging-taipei-taiwan-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T08:23:36Z"
+    },
+    {
+      "title": "SEMICON Taiwan 2027 moves to August, aligning with TSMC's 40th anniversary",
+      "description": "SEMICON Taiwan, one of Taiwan's key semiconductor industry events, will move its 2027 edition forward by nearly a month to August 18-20, departing from its traditional early-to-mid-September schedule. The rapidly expanding exhibition, whose agenda increasingl…",
+      "url": "https://www.digitimes.com/news/a20260907PD232/taiwan-2027-tsmc-ceo-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T08:17:26Z"
+    },
+    {
+      "title": "Nvidia just sent a strong signal to AMD and Intel investors",
+      "description": "Nvidia’s latest earnings report was supposed to be about one thing: artificial intelligence chips. Instead, buried inside the numbers was a threat aimed squarely at two companies that have never had to worry much about Nvidia before.\nThe chipmaker is quietly …",
+      "url": "https://biztoc.com/x/8af357d9daa4965c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T08:15:19Z"
+    },
+    {
+      "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up",
+      "description": "Huawei unveiled its new foldable smartphone, the Mate XT2, on Monday. This device features a dual-folding screen and the Kirin 9050 Pro chip. The new chip offers improved computing power and reduced electricity consumption. Xiaomi is launching a rival folding…",
+      "url": "https://economictimes.indiatimes.com/news/international/business/huawei-launches-new-foldable-smartphone-as-competition-with-xiaomi-apple-heats-up/articleshow/133869910.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T08:08:00Z"
+    },
+    {
+      "title": "Samsung Foundry Allocates Half of 4 nm Capacity for HBM4 Base Dies",
+      "description": "According to Korean media, Samsung Foundry, a division that operates silicon manufacturing as a subsidiary of Samsung Electronics, is reportedly allocating significant capacity for HBM4 base die manufacturing. For HBM4, Samsung is producing the base die on a …",
+      "url": "https://www.techpowerup.com/352432/samsung-foundry-allocates-half-of-4-nm-capacity-for-hbm4-base-dies",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-07T08:07:20Z"
+    },
+    {
+      "title": "Nvidia's Toughest Competition in 2028 May Be the Chips It Already Sold",
+      "description": "Nvidia (NASDAQ:NVDA) can't build artificial intelligence (AI) hardware fast enough for its customers. But the chips it has already delivered aren't going anywhere.\nNvidia's data center business generated $47.5 billion of revenue in fiscal 2024. In fiscal 2025…",
+      "url": "https://biztoc.com/x/401f6f6ebf465e97",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T08:00:29Z"
+    },
+    {
+      "title": "NVIDIA’s $12.93B Hugging Face Acquisition Becomes Definitive",
+      "description": "NVIDIA announced on September 3, 2026, that it will acquire Hugging Face for $12.93 billion, a deal structured as approximately $11.9 billion in cash and up to $1 billion in equity retention for staff. As detailed in the official announcement, this acquisitio…",
+      "url": "https://forkast.news/nvidias-12-93b-hugging-face-acquisition-becomes-definitive",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-07T07:54:56Z"
+    },
+    {
+      "title": "Yaho rides TSMC, Micron expansion wave to tap facility integration, equipment installation market",
+      "description": "Artificial intelligence (AI) and high-performance computing (HPC) are driving the global semiconductor industry into a new expansion cycle, with fabs extending from Taiwan to the US, Japan, Singapore, and Europe. Demand is rising for facility engineering serv…",
+      "url": "https://www.digitimes.com/news/a20260906PD200/equipment-expansion-market-tsmc-micron.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-07T07:53:24Z"
+    },
+    {
+      "title": "Malaysia considers Huawei’s AI chips for sovereign AI initiatives",
+      "description": "Malaysia's AI strategy highlights its balancing act between global tech powers, aiming for digital sovereignty while boosting its semiconductor role.\nThe post Malaysia considers Huawei’s AI chips for sovereign AI initiatives appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/malaysia-huawei-ai-chips-sovereign-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-07T07:34:22Z"
+    },
+    {
+      "title": "AMD's Threadripper Halo Station is an 'AI Workstation' with up to 576GB of HBM3e GPU memory",
+      "description": "AMD's new Threadripper Halo Station is on track for 2027, an AI workstation with a Ryzen Threadripper PRO 9995WX processor and AMD Instinct-class GPUs.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113434/amds-threadripper-halo-station-is-an-ai-workstation-with-up-to-576gb-of-hbm3e-gpu-memory/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-07T07:32:11Z"
+    },
+    {
+      "title": "China to impose security deposits on Japanese dichlorosilane imports starting September 8",
+      "description": "China's move could strain semiconductor supply chains, prompting Japanese firms to reassess market strategies and potentially impact global tech production.\nThe post China to impose security deposits on Japanese dichlorosilane imports starting September 8 app…",
+      "url": "https://cryptobriefing.com/china-security-deposit-japanese-dichlorosilane-imports",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-07T07:28:07Z"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Max release date, expected price, specifications: All you need to know",
+      "description": "Apple is expected to unveil the iPhone 18 Pro Max at its September 9 \"Surprise and shine\" event, with leaks pointing to an A20 Pro chip built on TSMC's 2nm process, a variable-aperture camera, a larger 5,391mAh battery and improved cooling. Design changes rem…",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/apple-iphone-18-pro-max-release-date-expected-price-specifications-all-you-need-to-know/articleshow/133868933.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T07:25:07Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Google to build new AI chip in Israel, tapping Hailo talent",
+      "Huawei's $3,000 device leads China's answer to Apple's foldable iPhone",
+      "UK food supply chain at risk from hostile attacks",
+      "'The planets aligned': Nvidia confirms $12.9bn Hugging Face deal in potentially huge AI shake-up",
+      "Vishay Adds Higher-Power RF Resistors for Compact Designs - MyChesCo"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000",
+        "https://www.business-standard.com/world-news/huawei-s-3-000-device-leads-china-s-answer-to-apple-s-foldable-iphone-126090700760_1.html",
+        "https://www.mychesco.com/a/news/business/products-services/vishay-adds-higher-power-rf-resistors-for-compact-designs"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/cfb27437b00e4278",
+        "https://www.digitimes.com/news/a20260907PD233/technology-corning-axcelis-investment-materials.html",
+        "https://www.digitimes.com/news/a20260907PD232/taiwan-2027-tsmc-ceo-technology.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/the-planets-aligned-nvidia-confirms-usd12-9bn-hugging-face-deal-in-potentially-huge-ai-shake-up",
+        "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance",
+        "https://www.livemint.com/opinion/online-views/nvidia-hugging-face-purchase-will-strengthen-its-model-agnostic-position-in-the-ai-market-11788699724219.html"
+      ]
+    },
+    {
+      "title": "September",
+      "summary": "Grouped stories where \"september\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e3d922abc76fc907",
+        "https://finance.yahoo.com/technology/ai/articles/oracle-putting-hpe-juniper-gear-083309249.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185488008",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185487670"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google to build new AI chip in Israel, tapping Hailo talent. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google to build new AI chip in Israel, tapping Hailo talent. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google to build new AI chip in Israel, tapping Hailo talent. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google to build new AI chip in Israel, tapping Hailo talent. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google to build new AI chip in Israel, tapping Hailo talent. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
