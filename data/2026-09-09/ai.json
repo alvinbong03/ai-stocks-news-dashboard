@@ -1,0 +1,298 @@
+{
+  "theme": "ai",
+  "date": "2026-09-09",
+  "last_updated_utc": "2026-09-09T10:38:35.220Z",
+  "news": [
+    {
+      "title": "OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court",
+      "description": "Over the past three years, authors have filed a series of lawsuits accusing AI companies of training their models on pirated books.\nSome of those cases have already produced rulings, with a bittersweet victory for Meta in California for example.\nIn New York, …",
+      "url": "https://biztoc.com/x/90d570f65037926e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T07:48:02Z"
+    },
+    {
+      "title": "Claude on CarPlay: five AI assistants in the car, but not Gemini",
+      "description": "Anthropic added CarPlay support to the Claude app without announcing it. Claude answers by voice in the car and does nothing else. It cannot touch vehicle controls, and only Siri responds to a wake word. CarPlay now supports five AI assistants. Google's Gemin…",
+      "url": "https://www.notebookcheck.net/Claude-on-CarPlay-five-AI-assistants-in-the-car-but-not-Gemini.1393195.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-08T07:29:00Z"
+    },
+    {
+      "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "description": "The U.S. military’s desire for an AI tool with “minimal refusal rates” was revealed through a FOIA lawsuit filed by The Intercept.\nThe post The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract",
+      "source": "The Intercept",
+      "publishedAt": "2026-09-08T10:00:00Z"
+    },
+    {
+      "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+      "description": "No trend has fueled Wall Street's nearly four-year bull market quite like the evolution of artificial intelligence (AI). Empowering software and systems with the tools to make autonomous, split-second decisions is a multitrillion-dollar addressable opportunit…",
+      "url": "https://biztoc.com/x/fe0149361ae7c0b8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T09:49:40Z"
+    },
+    {
+      "title": "The House Democrat who's making AI regulation her No. 1 priority",
+      "description": "Rep. Lori Trahan’s decision last week to forgo a leadership bid to instead focus on developing artificial intelligence policy surprised some of her colleagues. It also left some of them wondering whether her thwarted attempt to work across the aisle on the su…",
+      "url": "https://biztoc.com/x/b5782f3552d9aa34",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T08:48:48Z"
+    },
+    {
+      "title": "SEMIFIVE Commences Mass Production of HyperAccel's LLM AI Inference Accelerator 'Bertha' on Samsung 4nm, Spurring Growth Momentum",
+      "description": "Secures initial mass production contract for HyperAccel's AI inference accelerator, Bertha, with follow-on purchase orders anticipated as services expand Delivers a complete turnkey solution for a large-area \"Big Die\" chip of more than 500 mm², validating cut…",
+      "url": "https://www.prnewswire.com/news-releases/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm-spurring-growth-momentum-302871908.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-08T05:20:00Z"
+    },
+    {
+      "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
+      "description": "OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control,and said he expects AI labs to voluntarily slow development for safety reasons. In a relative…",
+      "url": "https://www.insurancejournal.com/news/national/2026/09/08/884280.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-08T05:10:53Z"
+    },
+    {
+      "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local",
+      "description": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 &mdash; bus-powered model looking for a use case in local LLM work\n                                                                                  …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185520740",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T10:32:05Z"
+    },
+    {
+      "title": "Is the AI chip dead? What Arm’s new CPUs mean for your next Android phone",
+      "description": "Arm's new C2-Ultra CPU boasts impressive performance gains for AI, and it's coming to your next smartphone.",
+      "url": "https://www.androidauthority.com/arm-c2-ultra-explained-3706334",
+      "source": "Android Authority",
+      "publishedAt": "2026-09-08T10:30:47Z"
+    },
+    {
+      "title": "ASML to partner with major chipmakers for next-generation tools for larger data center chips - The Tribune",
+      "description": "Dutch semiconductor equipment manufacturer ASML plans to collaborate with its major customers to deploy its most advanced tools for producing large data center chips designed by firms such as Nvidia, according to a news report by Reuters.",
+      "url": "https://www.tribuneindia.com/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips",
+      "source": "The Tribune India",
+      "publishedAt": "2026-09-08T10:17:50Z"
+    },
+    {
+      "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "description": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "url": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-08T10:15:00Z"
+    },
+    {
+      "title": "ASML to partner with major chipmakers for next-generation tools for larger data center chips",
+      "description": "Dutch semiconductor equipment manufacturer ASML plans to collaborate with its major customers to deploy its most advanced tools for producing large data center chips designed by firms such as Nvidia, according to a news report by Reuters.",
+      "url": "https://www.aninews.in/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips20260908142344",
+      "source": "ANI News",
+      "publishedAt": "2026-09-08T09:26:07Z"
+    },
+    {
+      "title": "Blue Owl Plans $6.5B Seed for Data Center REIT",
+      "description": "Blue Owl is considering a public data center REIT seeded with about $6.5B of assets as AI infrastructure spending draws more IPO capital.",
+      "url": "https://www.credaily.com/briefs/blue-owl-plans-6-5b-seed-for-data-center-reit",
+      "source": "Credaily.com",
+      "publishedAt": "2026-09-08T08:52:02Z"
+    },
+    {
+      "title": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS Gain - TechPowerUp",
+      "description": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS GainTechPowerUp ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOWNVIDIA Blog New DLSS 5 Swapper tool can mod DLSS 5 into games that don't support DLSS at allTweakTo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185517364",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T08:32:50Z"
+    },
+    {
+      "title": "What Chuck Schumer Has Said About Data Centers as Daughter Joins OpenAI",
+      "description": "The recent expansion of OpenAI's policy team has drawn attention in Washington after the company told Axios it has hired Jessica Schumer, the daughter of Senate Minority Leader Chuck Schumer, to oversee policy and partnerships in the U.S. Northeast.\nThe move …",
+      "url": "https://biztoc.com/x/b7ce02bd1bfa878f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T08:03:20Z"
+    },
+    {
+      "title": "41% of Millennials Use ChatGPT for Product Discovery",
+      "description": "Millennial shopping is producing a split between where buying decisions begin and where purchases ultimately happen. The PYMNTS Intelligence report “The Millennial Shopping Map: How AI, Search and Stores Compete Before Checkout” found in July that Google rema…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/41percent-millennials-use-chatgpt-product-discovery",
+      "source": "pymnts.com",
+      "publishedAt": "2026-09-08T08:00:12Z"
+    },
+    {
+      "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks",
+      "description": "OpenAI failed to disclose an incident in which a swarm of its AI agents hijacked a German wiki site earlier this year in events that closely paralleled the sequence of events that in July resulted in another group of OpenAI’s agents launching cyberattacks aga…",
+      "url": "https://biztoc.com/x/90ef5390b8c2e627",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T07:18:12Z"
+    },
+    {
+      "title": "39 congressional candidates reported paying for OpenAI subscriptions this cycle",
+      "description": "The increasing use of AI tools in campaigns highlights a growing transparency gap and potential conflicts with ethical guidelines in politics.\nThe post 39 congressional candidates reported paying for OpenAI subscriptions this cycle appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/congressional-candidates-openai-subscriptions-2026",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-08T07:05:20Z"
+    },
+    {
+      "title": "transcosmos launches trans-AI Chat, a generative AI chatbot, in Indonesia",
+      "description": "Reinforcing its commitment to transforming CX through AI-powered dynamic, human-like responses TOKYO, Sept. 8, 2026 /PRNewswire/ -- transcosmos today announced the official launch of trans-AI Chat, a generative AI-powered chatbot, in Indonesia. Unlike convent…",
+      "url": "https://www.prnewswire.com/news-releases/transcosmos-launches-trans-ai-chat-a-generative-ai-chatbot-in-indonesia-302871869.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-08T07:00:00Z"
+    },
+    {
+      "title": "Anthropic has walked away from its $6bn Decart deal, Bloomberg reports",
+      "description": "Anthropic has decided against buying Decart AI, Bloomberg reported, citing people familiar with the matter who asked not to be identified. The company had explored a deal and completed due diligence before walking away, and one of those people said the two ma…",
+      "url": "https://thenextweb.com/news/anthropic-walks-away-decart-6bn-acquisition",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-08T06:51:06Z"
+    },
+    {
+      "title": "OpenAI Confirms Departure of Data Center Head Chris Malone Amid Continued Executive Turnover",
+      "description": "OpenAI has confirmed the departure of Chris Malone, the company’s former head of data centers, according to a statement provided to TechCrunch. Malone left the company in August, as first reported by the Wall Street Journal (WSJ) [1]. OpenAI’s statement said …",
+      "url": "https://www.naturalnews.com/2026-09-08-openai-confirms-departure-chris-malone-continued-turnover.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-08T06:00:00Z"
+    },
+    {
+      "title": "‘Defend workplaces’: Protesting robots take to Warsaw streets to demand AI regulation",
+      "description": "Europe News: Waving flags, “chanting” slogans and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in fr.",
+      "url": "https://timesofindia.indiatimes.com/world/europe/defend-workplaces-protesting-robots-take-to-warsaw-streets-to-demand-ai-regulation/articleshow/133910122.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-08T05:56:42Z"
+    },
+    {
+      "title": "Nuix Expands Generative AI for Legal Review, Debuts AI Chat for Case Data",
+      "description": "Nuix announced the general availability (GA) of its Generative AI (Gen AI) capabilities in Nuix Discover SaaS on September 4. Bringing Document Summaries, ...",
+      "url": "https://en.antaranews.com/news/430349/nuix-expands-generative-ai-for-legal-review-debuts-ai-chat-for-case-data",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-09-08T05:46:40Z"
+    },
+    {
+      "title": "Seattle Times, Newsday Sue OpenAI, Microsoft, Alleging Copyright Infringement",
+      "description": "The Seattle Times and Newsday sued OpenAI and Microsoft on Friday, alleging in federal court that the tech companies copied the newspapers’ journalism without permission to train their AI systems. The suit in the U.S. District Court for the Southern …",
+      "url": "https://www.insurancejournal.com/news/national/2026/09/08/884277.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-08T05:24:47Z"
+    },
+    {
+      "title": "Nvidia reportedly shifts Rubin Ultra toward 8-high HBM as memory costs rise",
+      "description": "Nvidia is reportedly shifting its Rubin Ultra AI accelerator toward an eight-high high-bandwidth memory (HBM) configuration, down from an earlier 12-high design, as rising memory costs put greater emphasis on bandwidth efficiency and overall system economics.",
+      "url": "https://www.digitimes.com/news/a20260908VL207/nvidia-rubin-hbm-capacity-bandwidth.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-08T04:50:52Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court",
+      "Claude on CarPlay: five AI assistants in the car, but not Gemini",
+      "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+      "The House Democrat who's making AI regulation her No. 1 priority"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/90d570f65037926e",
+        "https://theintercept.com/2026/09/08/pentagon-openai-military-contract",
+        "https://www.insurancejournal.com/news/national/2026/09/08/884280.htm"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/fe0149361ae7c0b8",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185520740",
+        "https://www.tribuneindia.com/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.credaily.com/briefs/blue-owl-plans-6-5b-seed-for-data-center-reit",
+        "https://en.antaranews.com/news/430349/nuix-expands-generative-ai-for-legal-review-debuts-ai-chat-for-case-data"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/b5782f3552d9aa34",
+        "https://www.pymnts.com/news/artificial-intelligence/2026/41percent-millennials-use-chatgpt-product-discovery"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Claude-on-CarPlay-five-AI-assistants-in-the-car-but-not-Gemini.1393195.0.html",
+        "https://www.prnewswire.com/news-releases/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm-spurring-growth-momentum-302871908.html",
+        "https://www.androidauthority.com/arm-c2-ultra-explained-3706334"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

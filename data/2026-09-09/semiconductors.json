@@ -1,0 +1,432 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-09",
+  "last_updated_utc": "2026-09-09T10:38:52.128Z",
+  "news": [
+    {
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "description": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup bui…",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-08T10:36:00Z"
+    },
+    {
+      "title": "Japan protests as China slaps new measures against exports of key chipmaking material",
+      "description": "Japan has protested Chinese controls that will limit its exports of a key chemical used to make computer chips",
+      "url": "https://abcnews.com/Technology/wireStory/japan-protests-china-slaps-new-measures-exports-key-136266889",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-08T10:33:50Z"
+    },
+    {
+      "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local",
+      "description": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 &mdash; bus-powered model looking for a use case in local LLM work\n                                                                                  …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185520740",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T10:32:05Z"
+    },
+    {
+      "title": "Is the AI chip dead? What Arm’s new CPUs mean for your next Android phone",
+      "description": "Arm's new C2-Ultra CPU boasts impressive performance gains for AI, and it's coming to your next smartphone.",
+      "url": "https://www.androidauthority.com/arm-c2-ultra-explained-3706334",
+      "source": "Android Authority",
+      "publishedAt": "2026-09-08T10:30:47Z"
+    },
+    {
+      "title": "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs — stripped-out cards netted fraudster $5,000 despite being worthless",
+      "description": "Graphics card scams without the core and memory chips are spreading worldwide, with the latest report coming from Germany.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-08T10:30:00Z"
+    },
+    {
+      "title": "ASML and TSMC launch initiative to transition EUV masks to 12-inch format",
+      "description": "The transition to 12-inch EUV masks will drive innovation in chip design, impacting the entire semiconductor supply chain and boosting productivity.\nThe post ASML and TSMC launch initiative to transition EUV masks to 12-inch format appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/asml-tsmc-12-inch-euv-mask-initiative",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-08T10:25:11Z"
+    },
+    {
+      "title": "Extraordinary in Hand, Effortless in Control HUAWEI Mate XT 2 | ULTIMATE DESIGN Debuts as the First Smartphone to Feature LogicFolding Tau (τ) Chip and Reach Mass Commercialization",
+      "description": "GUANGZHOU, China, Sept. 8, 2026 /PRNewswire/ -- On September 7, Huawei officially unveiled the latest addition to its tri-fold lineup, the HUAWEI Mate XT 2 | ULTIMATE DESIGN. As the first smartphone to feature the LogicFolding Tau (τ) Chip, HUAWEI Mate XT 2 |…",
+      "url": "https://www.prnewswire.com/news-releases/extraordinary-in-hand-effortless-in-control-huawei-mate-xt-2--ultimate-design-debuts-as-the-first-smartphone-to-feature-logicfolding-tau--chip-and-reach-mass-commercialization-302872159.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-08T10:19:00Z"
+    },
+    {
+      "title": "Top Analyst sets jaw-dropping Broadcom stock target after earnings",
+      "description": "just gave Wall Street numbers big enough to make one analyst rethink the entire investment case.\nThe chipmaker reported earnings on September 2, 2026, and the results came in strong. \nDays later, one of the most closely watched semiconductor analysts responde…",
+      "url": "https://biztoc.com/x/a670192fb66db159",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T10:18:47Z"
+    },
+    {
+      "title": "ASML to partner with major chipmakers for next-generation tools for larger data center chips - The Tribune",
+      "description": "Dutch semiconductor equipment manufacturer ASML plans to collaborate with its major customers to deploy its most advanced tools for producing large data center chips designed by firms such as Nvidia, according to a news report by Reuters.",
+      "url": "https://www.tribuneindia.com/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips",
+      "source": "The Tribune India",
+      "publishedAt": "2026-09-08T10:17:50Z"
+    },
+    {
+      "title": "AMD GPUs are climbing the sales charts as Radeon beats Nvidia on Amazon and in Germany",
+      "description": "The rise of RDNA 4 was highlighted by TechEpiphany on X.Read Entire Article",
+      "url": "https://www.techspot.com/news/113765-rdna-4-dominating-sales-charts-everywhere-httpsxcomtechepiphanyytstatus2096735193339974105.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-09-08T10:17:00Z"
+    },
+    {
+      "title": "TSMC backs ASML’s plan for bigger masks so its newest machines can print AI’s biggest chips",
+      "description": "ASML’s most advanced lithography machines cannot print the largest chips the AI industry currently builds. The company now has a plan to change that, and it has brought TSMC in on it. The initiative was reported by Reuters on Tuesday and confirmed the same da…",
+      "url": "https://thenextweb.com/news/asml-tsmc-12-inch-masks-high-na-euv",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-08T10:16:56Z"
+    },
+    {
+      "title": "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "description": "Small-form-factor, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local LLM work",
+      "url": "https://www.tomshardware.com/pc-components/gpus/one-slot-low-profile-nvidia-rtx-3060-12-gb-with-two-monitor-outputs-breaks-cover-at-newegg-for-usd496-bus-powered-model-looking-for-a-use-case-in-local-llm-work",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-08T10:15:00Z"
+    },
+    {
+      "title": "Apple Outlet Deals at Best Buy: Deals on refurbs, open-box, used + free shipping",
+      "description": "Best Buy's Outlet section includes a wide range of Apple products across refurbished, open-box, clearance, and pre-owned conditions. Deals include a Geek Squad Certified Refurbished Apple Pencil for $59.99, down from $129, and a refurbished Apple Watch Ultra …",
+      "url": "https://www.dealnews.com/Apple-Outlet-Deals-at-Best-Buy-Deals-on-refurbs-open-box-used-free-shipping/22158529.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-08T10:13:18Z"
+    },
+    {
+      "title": "ASML Wins Over Top Chipmakers for New EUV Machines - Bloomberg.com",
+      "description": "ASML Wins Over Top Chipmakers for New EUV MachinesBloomberg.com TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demandCNBC ASML to work with major chipmakers to use latest tools for larger chipsReuters Intel scraps 44-year-old 'Fellow' tit…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185520266",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T10:13:09Z"
+    },
+    {
+      "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China",
+      "description": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chipmaker headed toward bankruptcy.\n       …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185520248",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T10:12:36Z"
+    },
+    {
+      "title": "Welsh club wins best rugby kitchen prize - and a year's supply of chips",
+      "description": "Keith Parry, 84, head of the club's kitchen, says the news came as a \"shock\" but is \"fantastic\".",
+      "url": "https://www.bbc.com/news/articles/ckgwljvlpz9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-09-08T10:11:16Z"
+    },
+    {
+      "title": "Arm targets agentic AI with new data centre and mobile platforms",
+      "description": "Semiconductor design company Arm has introduced two compute platforms, one for data centre silicon aimed at agentic AI and one for mobile devices covering both agentic workloads and neural graphics.\nFor the data centre, the company has launched Neoverse Compu…",
+      "url": "https://biztoc.com/x/5da8b5bf8fabe3e7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T10:05:27Z"
+    },
+    {
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
+      "description": "Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying the potential impact on Japanese companies.\nChina imposed the curb on imports of dichlorosilane from …",
+      "url": "https://biztoc.com/x/a680d8d3b8a0e60b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T10:05:26Z"
+    },
+    {
+      "title": "Episode 828: The Giving Disruption Coming for the Church: Pat Gelsinger on AI and Mental Health",
+      "description": "Listen, subscribe, and leave a review on: Former Intel and VMware CEO Pat Gelsinger talks about what AI is doing to us. He unpacks the mental health toll of social media (and what’s coming next), the job loss scenarios leaders aren’t ready for, how AI will re…",
+      "url": "https://careynieuwhof.com/episode-828",
+      "source": "Careynieuwhof.com",
+      "publishedAt": "2026-09-08T10:05:00Z"
+    },
+    {
+      "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
+      "description": "Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was transferred to a Chinese rival as the Belgian chipmaker headed toward bankruptcy.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-08T09:50:00Z"
+    },
+    {
+      "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+      "description": "No trend has fueled Wall Street's nearly four-year bull market quite like the evolution of artificial intelligence (AI). Empowering software and systems with the tools to make autonomous, split-second decisions is a multitrillion-dollar addressable opportunit…",
+      "url": "https://biztoc.com/x/fe0149361ae7c0b8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T09:49:40Z"
+    },
+    {
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
+      "description": "Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying...",
+      "url": "https://finance.yahoo.com/technology/articles/japan-protests-china-slaps-measures-094505790.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-08T09:45:05Z"
+    },
+    {
+      "title": "South Korea’s AI boom could need 20 new nuclear reactors’ worth of power",
+      "description": "South Korea expects artificial intelligence, and the chip fabs feeding it, to add between 25 and 30 gigawatts to national electricity demand, which by the country’s own reactor standards is roughly 20 nuclear plants. The government now has to decide whether t…",
+      "url": "https://thenextweb.com/news/south-korea-ai-power-demand-nuclear-reactors",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-08T09:39:18Z"
+    },
+    {
+      "title": "AI's left hand begins to take away jobs before its right hand can",
+      "description": "In response to soaring chip prices, Samsung India is downsizing its electronics division. The burgeoning demand for specialized chips fueled by AI advancements is driving up costs for standard memory. As organizations focus their finances on AI infrastructure…",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/samsung-india-layoffs-how-ai-boom-memory-chip-prices-capital-energy-costs-can-drive-job-losses/articleshow/133917946.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-08T09:37:37Z"
+    },
+    {
+      "title": "ASML to partner with major chipmakers for next-generation tools for larger data center chips",
+      "description": "Dutch semiconductor equipment manufacturer ASML plans to collaborate with its major customers to deploy its most advanced tools for producing large data center chips designed by firms such as Nvidia, according to a news report by Reuters.",
+      "url": "https://www.aninews.in/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips20260908142344",
+      "source": "ANI News",
+      "publishedAt": "2026-09-08T09:26:07Z"
+    },
+    {
+      "title": "Yes, You Can Use A PC Without A Dedicated GPU - But Here's Why You Probably Shouldn't",
+      "description": "Most desktops with a decent integrated GPU tend to be less competitive on a performance-for-price ratio than a cheaper CPU paired with a discrete GPU.",
+      "url": "https://www.bgr.com/2250661/is-gpu-required-for-pc-explained",
+      "source": "BGR",
+      "publishedAt": "2026-09-08T09:17:00Z"
+    },
+    {
+      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+      "description": "New CPU and GPU designs chase lower latency and richer games within a 1 W power budget",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185518722",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T09:12:07Z"
+    },
+    {
+      "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+      "description": "Samsung Electronics and ASML today announced an expansion of their long-standing strategic partnership, deepening collaboration on High NA EUV lithography and advanced semiconductor manufacturing technologies that will help drive the next generation of innova…",
+      "url": "https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing",
+      "source": "Samsung.com",
+      "publishedAt": "2026-09-08T09:10:17Z"
+    },
+    {
+      "title": "Lenovo ThinkBook 14 Core Ultra 5 225U 14\" 2-in-1 Laptop PC for $1,000 + free shipping w/ Prime",
+      "description": "This Lenovo ThinkBook 14 2-in-1 is $999.99, down from $1,799. It's the best price we could find by $599. It pairs an Intel Core Ultra 5 processor with 16GB of RAM and a 512GB SSD, along with a touchscreen display that converts between laptop and tablet modes.…",
+      "url": "https://www.dealnews.com/Lenovo-Think-Book-14-Core-Ultra-5-225-U-14-2-in-1-Laptop-PC-for-1-000-free-shipping-w-Prime/22158452.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-08T09:09:55Z"
+    },
+    {
+      "title": "Lenovo IdeaPad 5i Core Ultra 5 225U 16\" 2-in-1 Laptop for $650 + free shipping w/ Prime",
+      "description": "This Lenovo IdeaPad 5i 2-in-1 is $450 off its regular price at Woot, with new customers able to knock off another 10% using promo code \"LENOVOTEN\" at checkout. It's the best deal we could find by $10. The laptop pairs a 16\" WUXGA touchscreen with a 360-degree…",
+      "url": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-5-225-U-16-2-in-1-Laptop-for-650-free-shipping-w-Prime/22158451.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-08T09:08:14Z"
+    },
+    {
+      "title": "Trezor Supply Chain Breach Now Impacts 81,000 Customers",
+      "description": "Crypto wallet-maker Trezor says a data breach at supplier ShipMonk is far worse than originally thought",
+      "url": "https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts",
+      "source": "Infosecurity Magazine",
+      "publishedAt": "2026-09-08T09:08:00Z"
+    },
+    {
+      "title": "OnePlus prepares new flagship phone with three in-house chips",
+      "description": "The OnePlus 16 is set to be among the first flagship phones powered by the next-gen top-end Snapdragon SoC. Per a recent report from Digital Chat Station, a reliable leaker, the company has packed the phone with three self-developed chips, all geared for comp…",
+      "url": "https://www.notebookcheck.net/OnePlus-prepares-new-flagship-phone-with-three-in-house-chips.1393188.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-08T08:52:00Z"
+    },
+    {
+      "title": "CXMT and YMTC Stockpile ASML Tools for Three-Year Expansion Plans",
+      "description": "Chinese memory and storage makers have reportedly stockpiled enough lithography tools from ASML to ensure their expansion plans for the next three years, even if they are cut off from the supply chain. According to a report from the Financial Times, memory ma…",
+      "url": "https://www.techpowerup.com/352461/cxmt-and-ymtc-stockpile-asml-tools-for-three-year-expansion-plans",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-08T08:49:55Z"
+    },
+    {
+      "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+      "description": "Samsung and TSMC, the world's two biggest chipmakers, have committed to using ASML's High NA extreme ultraviolet (EUV) lithography machines, as demand grows for more advanced chips.\nASML's EUV lithography machines are critical tools that are used to print cir…",
+      "url": "https://biztoc.com/x/df5e595c48a596fe",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-08T08:48:26Z"
+    },
+    {
+      "title": "First DLSS 5 game tested: DLSS 5 humbles RTX 5090 with over 50% performance loss",
+      "description": "NBA 2K27 is the first game that officially supports Nvidia's latest DLSS 5. Using AI, DLSS 5 improves the visuals of NBA 2K27. But Digital Foundry shows that DLSS 5 has a huge performance cost.",
+      "url": "https://www.notebookcheck.net/First-DLSS-5-game-tested-DLSS-5-humbles-RTX-5090-with-over-50-performance-loss.1391978.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-08T08:45:00Z"
+    },
+    {
+      "title": "Cardano partners with Blockforce to anchor 500K supply chain records for Brazilian exporters",
+      "description": "Cardano's partnership with Blockforce enhances supply chain transparency, potentially setting a precedent for compliance in global trade regulations.\nThe post Cardano partners with Blockforce to anchor 500K supply chain records for Brazilian exporters appeare…",
+      "url": "https://cryptobriefing.com/cardano-blockforce-supply-chain-brazil",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-08T08:43:20Z"
+    },
+    {
+      "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+      "description": "MA-tek, a semiconductor testing and analysis company, reported August revenue of NT$565 million, up 17.78% from a year earlier and marking a record high for the sixth straight month. Revenue for the first eight months reached NT$4.196 billion, up 17.66% from …",
+      "url": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-08T08:37:45Z"
+    },
+    {
+      "title": "AIDC wins 20-year Bombardier contract to expand business jet work",
+      "description": "Aerospace Industrial Development Corporation (AIDC) said on September 7 that it won a 20-year full-life-cycle contract from Canadian aerospace group Bombardier for the Challenger 3500 business jet. The award was described as AIDC's most important recent break…",
+      "url": "https://www.digitimes.com/news/a20260907PD236/aidc-business-taiwan-award.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-08T08:37:13Z"
+    },
+    {
+      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
+      "description": "New CPU and GPU designs chase lower latency and richer games within a 1 W power budget",
+      "url": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
+      "source": "Theregister.com",
+      "publishedAt": "2026-09-08T08:35:00Z"
+    },
+    {
+      "title": "Samsung monthly updates: September 2026 security patch gets detailed",
+      "description": "Samsung has detailed the September 2026 security patch for Galaxy smartphones, tablets, and smartwatches. It addresses a total of 90 security vulnerabilities. Of these 90 fixes, 58 originate from Google, one from Samsung Semiconductor, and 31 from Samsung Mob…",
+      "url": "https://www.sammobile.com/news/samsung-september-2026-security-patch-detailed",
+      "source": "SamMobile",
+      "publishedAt": "2026-09-08T08:34:35Z"
+    },
+    {
+      "title": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS Gain - TechPowerUp",
+      "description": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS GainTechPowerUp ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOWNVIDIA Blog New DLSS 5 Swapper tool can mod DLSS 5 into games that don't support DLSS at allTweakTo…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185517364",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-08T08:32:50Z"
+    },
+    {
+      "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+      "description": "TSMC and Samsung will adopt ASML’s High NA EUV tools for advanced chipmaking as AI drives demand for smaller, more complex semiconductors.",
+      "url": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-08T08:32:02Z"
+    },
+    {
+      "title": "LG's robot actuator push turns appliance know-how into a physical AI supply-chain bet",
+      "description": "As humanoid robots increasingly move from demonstrations toward factories and commercial deployments, competition is expanding beyond finished robots into the components that determine their cost, weight and ability to move precisely.",
+      "url": "https://www.digitimes.com/news/a20260907VL219/robot-lg-commercial-cost-robotics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-08T08:30:26Z"
+    },
+    {
+      "title": "Global Market | China’s Trade Data: Auto, tech stocks in focus after export surge",
+      "description": "China’s exports surged 25% year-on-year in August, supported by strong overseas demand for automobiles and high-tech goods, while the country’s trade surplus widened to $119.1 billion. Auto exports jumped 43% and semiconductor shipments soared nearly 130%, hi…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-trade-data-auto-tech-stocks-in-focus-after-export-surge/articleshow/133916397.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-08T08:30:18Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "This founder is teaching chips how to recycle (their energy)",
+      "Japan protests as China slaps new measures against exports of key chipmaking material",
+      "One-slot, low-profile Nvidia RTX 3060 12 GB with two monitor outputs breaks cover at Newegg for $496 — bus-powered model looking for a use case in local",
+      "Is the AI chip dead? What Arm’s new CPUs mean for your next Android phone",
+      "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs — stripped-out cards netted fraudster $5,000 despite being worthless"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy",
+        "https://abcnews.com/Technology/wireStory/japan-protests-china-slaps-new-measures-exports-key-136266889",
+        "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/asml-tsmc-12-inch-euv-mask-initiative",
+        "https://biztoc.com/x/a670192fb66db159",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185520248"
+      ]
+    },
+    {
+      "title": "Next",
+      "summary": "Grouped stories where \"next\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidauthority.com/arm-c2-ultra-explained-3706334",
+        "https://careynieuwhof.com/episode-828",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185518722"
+      ]
+    },
+    {
+      "title": "Asml",
+      "summary": "Grouped stories where \"asml\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185520266",
+        "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185520740",
+        "https://www.prnewswire.com/news-releases/extraordinary-in-hand-effortless-in-control-huawei-mate-xt-2--ultimate-design-debuts-as-the-first-smartphone-to-feature-logicfolding-tau--chip-and-reach-mass-commercialization-302872159.html",
+        "https://www.techspot.com/news/113765-rdna-4-dominating-sales-charts-everywhere-httpsxcomtechepiphanyytstatus2096735193339974105.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: This founder is teaching chips how to recycle (their energy). Main topic cluster: Chips. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: This founder is teaching chips how to recycle (their energy). Main topic cluster: Chips. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: This founder is teaching chips how to recycle (their energy). Main topic cluster: Chips. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: This founder is teaching chips how to recycle (their energy). Main topic cluster: Chips. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: This founder is teaching chips how to recycle (their energy). Main topic cluster: Chips. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
