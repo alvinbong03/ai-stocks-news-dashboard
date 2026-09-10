@@ -1,0 +1,380 @@
+{
+  "theme": "ai",
+  "date": "2026-09-10",
+  "last_updated_utc": "2026-09-10T10:26:05.700Z",
+  "news": [
+    {
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "description": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks.\n\nThe a…",
+      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "source": "Internet",
+      "publishedAt": "2026-09-09T09:32:26Z"
+    },
+    {
+      "title": "‘They’re playing with our lives’: AI researcher quits Anthropic",
+      "description": "An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of \"playing with our lives\" in the race to develop AI models capable of self-improvement.\nThe post ‘They’re playing with our …",
+      "url": "https://www.digitaljournal.com/article/theyre-playing-with-our-lives-ai-researcher-quits-anthropic",
+      "source": "Digital Journal",
+      "publishedAt": "2026-09-09T09:35:09Z"
+    },
+    {
+      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
+      "description": "OpenAI says it solved the 90-year-old Navier–Stokes mathematics problem in 88 hours, using 10,000 agents and a new artificial intelligence model.\nIn a release published Tuesday, OpenAI — the company behind the ChatGPT AI chatbot — said it was \"sharing a solut…",
+      "url": "https://biztoc.com/x/002fd565c6670290",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T08:40:58Z"
+    },
+    {
+      "title": "Samsung will make custom AI chips for OpenAI",
+      "description": "OpenAI, the firm behind ChatGPT, is expanding its partnership with Samsung Electronics. The company announced joint research and chip production efforts with the South Korean tech giant, alongside deployment of OpenAI's enterprise software across Samsung. Ope…",
+      "url": "https://www.sammobile.com/news/samsung-make-openai-custom-ai-chips",
+      "source": "SamMobile",
+      "publishedAt": "2026-09-09T08:22:16Z"
+    },
+    {
+      "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ - 9to5Mac",
+      "description": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’9to5Mac ChatGPT Sketch turns your bad drawings into detailed AI imagesThe Verge OpenAI Launches GPT-Image-2.5 with Faster Generation and Enhanced EditingKuCoin OpenAI's ChatGP…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185548692",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-09T08:12:15Z"
+    },
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "description": "OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.\nThe ChatGPT-maker said on Tuesday that by focusing a group of roughly 10,000 AI agents, o…",
+      "url": "https://biztoc.com/x/0e13cba32d373530",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T07:56:17Z"
+    },
+    {
+      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+      "description": "There is more than a 10% chance that artificial intelligence could \"kill all humans,\" an Anthropic safety researcher said on Tuesday, hours after another employee said he was quitting the company over concerns that AI labs are \"gambling with our lives.\"\nThe c…",
+      "url": "https://biztoc.com/x/674693205b2fa86e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T10:11:26Z"
+    },
+    {
+      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",
+      "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence “could kill all humans” by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to …",
+      "url": "https://biztoc.com/x/b4133ae68b2018bd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T10:11:10Z"
+    },
+    {
+      "title": "OpenAI Used Its Own AI Models to Design the Jalapeno Chip – The Compute Landlord Thesis Just Went Recursive",
+      "description": "On September 8, at Goldman Sachs’ Communacopia conference, OpenAI CFO Sarah Friar confirmed that the company utilized its own frontier AI models to design the Jalapeno custom inference chip. This marks the first confirmed instance of a leading AI lab leveragi…",
+      "url": "https://forkast.news/openai-used-its-own-ai-models-to-design-the-jalapeno-chip-the-compute-landlord-thesis-just-went-recursive",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-09T09:56:54Z"
+    },
+    {
+      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",
+      "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge",
+      "publishedAt": "2026-09-09T09:56:28Z"
+    },
+    {
+      "title": "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says — departing employee says AI companies are 'gambli",
+      "description": "Anthropic AI safety researcher has warned there's a more than 10% chance AI could kill all humans.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185550646",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-09T09:33:11Z"
+    },
+    {
+      "title": "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says — departing employee says AI companies are 'gambling with our lives'",
+      "description": "Anthropic AI safety researcher has warned there's a more than 10% chance AI could kill all humans.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-10-percent-chance-ai-could-kill-all-humans-in-the-next-10-years-anthropic-safety-researcher-says-departing-employee-says-ai-companies-are-gambling-with-our-lives",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-09T09:26:28Z"
+    },
+    {
+      "title": "AI researcher resigns, warns OpenAI and Anthropic on super-intelligence risks",
+      "description": "The resignation underscores the critical need for balancing AI advancement with safety, impacting market confidence and strategic AI development.\nThe post AI researcher resigns, warns OpenAI and Anthropic on super-intelligence risks appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/ai-researcher-resigns-warns-openai-and-anthropic-on-super-intelligence-risks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T09:16:08Z"
+    },
+    {
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T08:59:52Z"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/ckgwy1k42w4o",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T08:59:52Z"
+    },
+    {
+      "title": "Anthropic delays IPO to mid-October amid $15B credit facility news",
+      "description": "Anthropic's IPO delay and credit facility news may reshape AI market dynamics, impacting investor confidence and competitive positioning.\nThe post Anthropic delays IPO to mid-October amid $15B credit facility news appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-delays-ipo-to-mid-october-amid-15b-credit-facility-news",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:23:19Z"
+    },
+    {
+      "title": "AMD and Nvidia face unprecedented valuation split amid AI market dynamics",
+      "description": "The valuation gap highlights the market's preference for established dominance over emerging potential, impacting investment strategies in AI.\nThe post AMD and Nvidia face unprecedented valuation split amid AI market dynamics appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-nvidia-valuation-split-ai-market",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:21:17Z"
+    },
+    {
+      "title": "Anthropic insiders warn AI could kill all humans",
+      "description": "Three Anthropic researchers went public last night with chilling concerns about out-of-control AI, warning it could destroy humans this decade.\nAnthropic AI researcher Jacob Coxon wrote on X, after resigning Tuesday to sound the alarm: \"The people building AI…",
+      "url": "https://biztoc.com/x/f7cef9c128e805a6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T10:11:16Z"
+    },
+    {
+      "title": "Arm unveils CSS for Mobile 2 with Mali G2-Ultra NX GPU, C2-Ultra and Pro CPU cores",
+      "description": "Last year, Arm introduced Lumex Compute Subsystem (CSS) – a turnkey solution for chipset designs. Today, the company is unveiling CSS for Mobile 2, an AI-native compute platform for smartphones.\n\n\n\n\nArm CSS for Mobile 2\n\nIt is built around the Arm Mali G2-Ult…",
+      "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-09-09T10:09:02Z"
+    },
+    {
+      "title": "OpenAI says it has solved one of math’s “Millennium Problems” | CNN Business",
+      "description": "OpenAI on Tuesday said its artificial intelligence technology has cracked one of the Millennium Problems –– seven famously difficult and unsolved questions in mathematics that have stumped even the world’s brightest minds.",
+      "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
+      "source": "CNN",
+      "publishedAt": "2026-09-09T10:06:26Z"
+    },
+    {
+      "title": "Zankore secures $3.1B GPU financing to build AI factory in Indonesia",
+      "description": "Zankore's financing could accelerate AI development in Southeast Asia, fostering regional innovation and enhancing global tech competitiveness.\nThe post Zankore secures $3.1B GPU financing to build AI factory in Indonesia appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/zankore-3b-gpu-financing-indonesia-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:05:46Z"
+    },
+    {
+      "title": "Aitech Brings Data-Center-Class AI Performance to Defense Platforms with Next-Generation 3U VPX C530 and SOSA Aligned 3U VPX U-C5300 Rugged AI GPGPU Boards",
+      "description": "Upgraded AI-Enabled 3U VPX GPGPU Boards Deliver Major Gains in AI Inference, Parallel Processing and Real-Time Rendering for Defense and Aerospace Systems CHATSWORTH, Calif., Sept. 9, 2026 /PRNewswire/ -- Aitech, a global leader in AI-powered rugged embedded …",
+      "url": "https://www.prnewswire.com/news-releases/aitech-brings-data-center-class-ai-performance-to-defense-platforms-with-next-generation-3u-vpx-c530-and-sosa-aligned-3u-vpx-u-c5300-rugged-ai-gpgpu-boards-302873157.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-09T10:05:00Z"
+    },
+    {
+      "title": "Mod brings back the golden era of SLI, with DLSS 5 running on its own dedicated GPU for big FPS gains",
+      "description": "A new mod called Neural Coprocessor lets DLSS 5 Neural Rendering run on a second GPU where it's applied to the rendered frame from the first.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113455/mod-brings-back-the-golden-era-of-sli-with-dlss-5-running-on-its-own-dedicated-gpu-for-big-fps-gains/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-09T10:01:11Z"
+    },
+    {
+      "title": "I paid for Gemini, Grok, and Claude for 30 days — only one made me productive",
+      "description": "One subscription earned its price.",
+      "url": "https://www.xda-developers.com/paid-for-gemini-grok-claude-for-30-days-only-one-made-me-productive",
+      "source": "XDA Developers",
+      "publishedAt": "2026-09-09T10:00:15Z"
+    },
+    {
+      "title": "【Amazon限定30％OFF】P12 Pro Android 16 タブレット 12インチ Gemini AI搭載！SIMフリー4G LTE・48GB RAM・256GB ROM・12,000mAh",
+      "description": "[深圳市新义腾飞电子商务有限公司]\n[画像1: https://prcdn.freetls.fastly.net/release_image/182214/103/182214-103-71daca1c6b171bc480986a76a168022c-1942x809.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000182214.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-09T09:59:08Z"
+    },
+    {
+      "title": "Anthropic Employee Warns AI Has 10% Chance Of “Killing All Humans”",
+      "description": "The post Anthropic Employee Warns AI Has 10% Chance Of “Killing All Humans” appeared first on 24/7 Wall St..\nMany people worry AI could take their jobs. So many jobs could be lost that US unemployment could rise enough to cripple US GDP and send the nation in…",
+      "url": "https://biztoc.com/x/0106a0aa6bb46c0b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:56:20Z"
+    },
+    {
+      "title": "Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI",
+      "description": "Plus, see the states on the front lines of the trade war with Canada, and how a restaurant at the top of the World Trade Center changed New York.",
+      "url": "https://biztoc.com/x/e5eb4857b3936df3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:56:07Z"
+    },
+    {
+      "title": "【Amazon限定30％OFF】Android 16搭載12インチタブレット「P12 セット版」Gemini AI・48GB RAM・2.4K高解像度・120Hzディスプレイ搭載モデルを7日間限定販売",
+      "description": "[深圳市道格创想电子商务有限公司]\n[画像1: https://prcdn.freetls.fastly.net/release_image/127114/365/127114-365-953a58e9ff2781425601ecc34f632e91-1942x809.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000365.000127114.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-09T09:40:41Z"
+    },
+    {
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "description": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
+      "url": "https://opusfived.dev/",
+      "source": "Opusfived.dev",
+      "publishedAt": "2026-09-09T09:39:46Z"
+    },
+    {
+      "title": "OpenAI is begging for someone to slow the AI race",
+      "description": "AI leaders are sounding the alarm as their own breakthroughs sharpen an extraordinary dilemma: slow down and risk falling behind, or press ahead and risk losing control.\nWhy it matters: AI executives and researchers increasingly see a race they can't safely s…",
+      "url": "https://biztoc.com/x/3509f8870aedb45b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:25:56Z"
+    },
+    {
+      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+      "description": "A top safety researcher at Anthropic's has warned AI is advancing so quickly there is a greater than 10% chance it \"could kill all humans\" within the next decade.\nEvan Hubinger said in a post on X the risk from the models which currently exist is \"low\", but h…",
+      "url": "https://biztoc.com/x/a8549426dd08540d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:12:04Z"
+    },
+    {
+      "title": "Anthropic researcher says people building AI believe 'it could kill us all'",
+      "description": "A researcher for AI developer Anthropic has quit the company and is one of a growing number of AI experts to call on the industry to slow down.",
+      "url": "https://www.abc.net.au/news/2026-09-09/anthropic-researcher-coxon-quits-over-human-threat/107134164",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-09T09:11:04Z"
+    },
+    {
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "description": "New hires and comments in interviews show that the AI giant is using its capabilities against dissenters.\nThe post Anthropic Is Building a Predictive Surveillance System to Monitor Activists appeared first on The American Prospect.",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
+      "source": "The American Prospect",
+      "publishedAt": "2026-09-09T09:00:00Z"
+    },
+    {
+      "title": "Can AI agents police each other? Google's DeepMind study offers early clues",
+      "description": "A DeepMind study of 100 AI agents found that an exploit could spread rapidly through a multi-agent system, while other agents independently detected cheating, raised alarms and proposed fixes",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/can-ai-agents-police-each-other-google-s-deepmind-study-offers-early-clues-126090900694_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-09T08:45:09Z"
+    },
+    {
+      "title": "Qualcomm Shares Surge Up To 10% On Multi-Year Amazon AI Chip Deal Worth Up To $60 Billion Signed",
+      "description": "Qualcomm partners with Amazon to develop custom silicon and connectivity solutions for AWS's AI infrastructure, boosting Qualcomm's market value and marking a significant move into the AI market.",
+      "url": "https://www.ibtimes.com.au/qualcomm-amazon-ai-infrastructure-partnership-1875230",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-09T08:37:52Z"
+    },
+    {
+      "title": "AI could 'kill all humans' by the end of the decade, Anthropic researcher warns - as he quits over 'out of control' superintelligence race",
+      "description": "Jacob Coxon, a researcher at Anthropic has dramatically quit, following concerns over the 'out of control' superintelligence race.",
+      "url": "https://www.dailymail.com/sciencetech/article-16116721/AI-kill-humans-anthropic-superintelligence.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-09T08:36:31Z"
+    },
+    {
+      "title": "Andrew Garfield plays OpenAI founder Sam Altman in Luca Guadagnino's 'Artificial' trailer as AI drama explores 2023 firing scandal",
+      "description": "The trailer for Luca Guadagnino's film 'Artificial' has been released.  Andrew Garfield stars as OpenAI founder Sam Altman in the drama.  The movie focuses on Altman's sudden firing and quick reinstatement.  It is set against a backdrop of intense artificial …",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/andrew-garfield-plays-openai-founder-sam-altman-in-luca-guadagninos-artificial-trailer-as-ai-drama-explores-2023-firing-scandal/articleshow/133960351.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-09T08:36:29Z"
+    },
+    {
+      "title": "Cambricon wins PyTorch Foundation board seat in bid to strengthen China AI chip software ecosystem",
+      "description": "Chinese AI chip developer Cambricon said on September 8 that it has formally joined the PyTorch Foundation as a platinum member, the organisation's highest membership tier, securing a seat on its governing board.",
+      "url": "https://www.digitimes.com/news/a20260908PD231/cambricon-ai-chip-software-development-chipmakers.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-09T08:35:00Z"
+    },
+    {
+      "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here’s why the market doesn’t care",
+      "description": "AGI, the technology once imagined to both destroy and enrich human civilization, has arrived, Nvidia chief Jensen Huang declared over the weekend.\nOpenAI’s newest model, Astra (“stars” in Latin), has achieved the goal, Huang wrote on X on Sunday, after traini…",
+      "url": "https://biztoc.com/x/7762fa9f1538c6dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T07:56:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "‘They’re playing with our lives’: AI researcher quits Anthropic",
+      "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
+      "Samsung will make custom AI chips for OpenAI",
+      "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ - 9to5Mac"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitaljournal.com/article/theyre-playing-with-our-lives-ai-researcher-quits-anthropic",
+        "https://biztoc.com/x/674693205b2fa86e",
+        "https://biztoc.com/x/b4133ae68b2018bd"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+        "https://biztoc.com/x/002fd565c6670290",
+        "https://biztoc.com/x/0e13cba32d373530"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.sammobile.com/news/samsung-make-openai-custom-ai-chips",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185548692",
+        "https://forkast.news/openai-used-its-own-ai-models-to-design-the-jalapeno-chip-the-compute-landlord-thesis-just-went-recursive"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

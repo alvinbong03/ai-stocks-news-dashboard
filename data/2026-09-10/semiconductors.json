@@ -1,0 +1,403 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-10",
+  "last_updated_utc": "2026-09-10T10:26:22.608Z",
+  "news": [
+    {
+      "title": "US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report",
+      "description": "Sources say the war on Iran and subsequent Iranian retaliations exposed ‘deep vulnerabilities’ within Washington’s regional military infrastructureUS army and intelligence officials have been having “quiet discussions” recently about reducing Washington’s mil…",
+      "url": "https://i-epikaira.blogspot.com/2026/09/us-army-intel-officials-quietly-discuss.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-09T10:25:47Z"
+    },
+    {
+      "title": "AMD and Nvidia face unprecedented valuation split amid AI market dynamics",
+      "description": "The valuation gap highlights the market's preference for established dominance over emerging potential, impacting investment strategies in AI.\nThe post AMD and Nvidia face unprecedented valuation split amid AI market dynamics appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-nvidia-valuation-split-ai-market",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:21:17Z"
+    },
+    {
+      "title": "Defence growth trajectory remains elevated, but execution holds the key",
+      "description": "Rising defence orders and policy support point to strong growth for domestic manufacturers, but supply-chain gaps, lumpy spending and execution remain key risks.",
+      "url": "https://www.business-standard.com/markets/news/defence-growth-trajectory-remains-elevated-but-execution-holds-the-key-126090900977_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-09T10:21:07Z"
+    },
+    {
+      "title": "TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
+      "description": "ASML Holding N.V. (NASDAQ:ASML) and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) have given investors a clearer view of their next manufactu...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-09T10:18:31Z"
+    },
+    {
+      "title": "IonQ unveils Superion roadmap and SkyWater-powered growth strategy at Investor Day",
+      "description": "IonQ's integration of SkyWater's foundry capabilities could significantly enhance its competitive edge and reshape the quantum computing landscape.\nThe post IonQ unveils Superion roadmap and SkyWater-powered growth strategy at Investor Day appeared first on C…",
+      "url": "https://cryptobriefing.com/ionq-superion-roadmap-skywater-growth-strategy",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:17:21Z"
+    },
+    {
+      "title": "Samsung and SK hynix Memory Inventories Crash Below 10 Days as AI Demand Triggers Historic Shortage, Says Report",
+      "description": "Korean memory giants Samsung and SK hynix's memory chip inventories have dropped to as low as ten days, suggests a report from Business Korea. Samsung and SK hynix are at the heart of a historic shortage in the memory chip market as the demand from AI data ce…",
+      "url": "https://wccftech.com/samsung-and-sk-hynix-memory-inventories-crash-below-10-days-as-ai-demand-triggers-historic-shortage-says-report",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-09T10:16:26Z"
+    },
+    {
+      "title": "Arm unveils CSS for Mobile 2 with Mali G2-Ultra NX GPU, C2-Ultra and Pro CPU cores",
+      "description": "Last year, Arm introduced Lumex Compute Subsystem (CSS) – a turnkey solution for chipset designs. Today, the company is unveiling CSS for Mobile 2, an AI-native compute platform for smartphones.\n\n\n\n\nArm CSS for Mobile 2\n\nIt is built around the Arm Mali G2-Ult…",
+      "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-09-09T10:09:02Z"
+    },
+    {
+      "title": "Zankore secures $3.1B GPU financing to build AI factory in Indonesia",
+      "description": "Zankore's financing could accelerate AI development in Southeast Asia, fostering regional innovation and enhancing global tech competitiveness.\nThe post Zankore secures $3.1B GPU financing to build AI factory in Indonesia appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/zankore-3b-gpu-financing-indonesia-ai",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:05:46Z"
+    },
+    {
+      "title": "Mod brings back the golden era of SLI, with DLSS 5 running on its own dedicated GPU for big FPS gains",
+      "description": "A new mod called Neural Coprocessor lets DLSS 5 Neural Rendering run on a second GPU where it's applied to the rendered frame from the first.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113455/mod-brings-back-the-golden-era-of-sli-with-dlss-5-running-on-its-own-dedicated-gpu-for-big-fps-gains/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-09T10:01:11Z"
+    },
+    {
+      "title": "OpenAI Used Its Own AI Models to Design the Jalapeno Chip – The Compute Landlord Thesis Just Went Recursive",
+      "description": "On September 8, at Goldman Sachs’ Communacopia conference, OpenAI CFO Sarah Friar confirmed that the company utilized its own frontier AI models to design the Jalapeno custom inference chip. This marks the first confirmed instance of a leading AI lab leveragi…",
+      "url": "https://forkast.news/openai-used-its-own-ai-models-to-design-the-jalapeno-chip-the-compute-landlord-thesis-just-went-recursive",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-09T09:56:54Z"
+    },
+    {
+      "title": "Notice: Notice to exporters 2026/19: Updated Open General Licence (Global Combat Air Programme) and new Open General Export Licence (Agreement on Defence Export Controls: ‘De-Minimis’ Exports)",
+      "description": "Notice to exporters advising on updates and publication of two Open General Licences",
+      "url": "https://www.gov.uk/government/publications/notice-to-exporters-202619-updated-open-general-licence-global-combat-air-programme-and-new-open-general-export-licence-agreement-on-defence-export-co",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-09T09:56:19Z"
+    },
+    {
+      "title": "Oil rises past $100 a barrel after the latest Middle East attacks",
+      "description": "The price of oil has surpassed $100 a barrel for the first time in almost six weeks after attacks on oil facilities and ships in the Middle East threatened to debilitate an already weakened supply chain. The most heavily traded contract for a barrel of Brent …",
+      "url": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-09T09:41:31Z"
+    },
+    {
+      "title": "Chipotle Canada School Spirit BOGO Promotion: Buy-One-Get-One FREE Entrée",
+      "description": "This Thursday, September the 10th, Chipotle Canada has a buy one get one free offer when you wear school spirit gear. Thursday only, buy one entree and get one free when you visit a participating Chipotle location wearing school apparel or accessories. This o…",
+      "url": "https://smartcanucks.ca/chipotle-canada-school-spirit-bogo-promotion-buy-one-get-one-free-entree",
+      "source": "Smartcanucks.ca",
+      "publishedAt": "2026-09-09T09:40:18Z"
+    },
+    {
+      "title": "AI computing power propels tech sector to US$30 trillion, putting servers at the core of 2027's supply chain",
+      "description": "Taiwan's Market Intelligence & Consulting Institute (MIC) expects servers and data center supply chains to become the primary growth drivers for major information and communications technology (ICT) products in 2027. Global server shipments are projected to i…",
+      "url": "https://www.digitimes.com/news/a20260909PD237/mic-taiwan-2027-supply-chain-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-09T09:37:06Z"
+    },
+    {
+      "title": "Exhumation ordered in renewed probe into death of intel official",
+      "description": "Authorities are set to exhume the body of Kaşif Kozinoğlu, a former senior official at Türkiye’s National Intelligence Organization (MİT), as part of a death investigation that was reopened 15 years later, in an effort to uncover further evidence surrounding …",
+      "url": "https://www.hurriyetdailynews.com/exhumation-ordered-in-renewed-probe-into-death-of-intel-official-226669",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-09T09:28:11Z"
+    },
+    {
+      "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks",
+      "description": "The price of oil surpassed $100 a barrel for the first time in almost six weeks after attacks on oil facilities and ships in the Middle East threatened to debilitate an already weakened supply chain.\nThe most heavily traded contract for a barrel of Brent crud…",
+      "url": "https://biztoc.com/x/9e0e17578e6792a0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:27:26Z"
+    },
+    {
+      "title": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+      "description": "Dow Jones futures were little changed early Wednesday, while S&P 500 futures and Nasdaq futures climbed. Oil prices keep rising, with Brent crude hitting $100. An Apple iPhone event is on tap. The stock market saw losses on the key indexes Tuesday, especially…",
+      "url": "https://biztoc.com/x/bfae1caf9bfe5a7e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T09:27:02Z"
+    },
+    {
+      "title": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+      "description": "Stocks fell Tuesday as oil prices rose, but AMD and HPE flashed buy signals.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event",
+      "source": "Investor's Business Daily",
+      "publishedAt": "2026-09-09T09:09:55Z"
+    },
+    {
+      "title": "Framework shares good news about RAM, CPU for Framework Laptop 13 Pro users",
+      "description": "Framework has shared good news regarding the availability and pricing of the LPCAMM2 RAM modules for the Framework Laptop 13 Pro users. The company has also provided an update on the availability of the Intel Core Ultra X9 CPU option for the Framework Laptop …",
+      "url": "https://www.notebookcheck.net/Framework-shares-good-news-about-RAM-CPU-for-Framework-Laptop-13-Pro-users.1394396.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-09T09:06:00Z"
+    },
+    {
+      "title": "Guidance: Open General Export Licence: Agreement on Defence Export Controls ‘De-Minimis’ Exports",
+      "description": "Licence allowing export and transfer of specified military goods, software and technology under the 'de minimis' provision of the Agreement on Defence Export Control, subject to certain conditions.",
+      "url": "https://www.gov.uk/government/publications/open-general-export-licence-agreement-on-defence-export-controls-de-minimis-exports",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-09T09:00:05Z"
+    },
+    {
+      "title": "GitHub Quietly Fixes One of Dependabot’s Oldest Headaches",
+      "description": "GitHub Dependabot can now authenticate to GitHub-hosted package registries without personal access tokens, reducing credential management and supply chain security risk.",
+      "url": "https://devops.com/github-quietly-fixes-one-of-dependabots-oldest-headaches",
+      "source": "DevOps.com",
+      "publishedAt": "2026-09-09T08:54:59Z"
+    },
+    {
+      "title": "Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters",
+      "description": "Brent crude rises above $100 a barrel as Middle East conflict escalatesReuters Oil Hits $100 a Barrel as Turmoil Intensifies in Middle EastThe New York Times Brent crude nears $100 a barrel as U.S.-Iran tit-for-tat strikes stoke supply worriesCNBC Asian Chip …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185549458",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-09T08:53:38Z"
+    },
+    {
+      "title": "India's new supply-chain wonder is set to shift the gears of growth",
+      "description": "The operationalization of India’s freight corridors marks a transformative step for the nation’s logistics landscape, strategically positioned along major economic routes. These advanced routes not only expedite transport times but also elevate reliability fo…",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/dedicated-freight-corridor-dfc-india-western-eastern-logistics-cost-manufacturing-exports-indian-railways/articleshow/133960637.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-09T08:51:40Z"
+    },
+    {
+      "title": "HSX PromptKinetics 2.5.0",
+      "description": "Description: Build elite AI prompts with guided structure. A modern, local-first AI prompt builder for creating high-quality, structured prompts for chat, coding, image generation, and workflow automation - your prompt library stays on device. What HSX Prompt…",
+      "url": "https://post.rlsbb.cc/hsx-promptkinetics-2-5-0",
+      "source": "Rlsbb.cc",
+      "publishedAt": "2026-09-09T08:50:39Z"
+    },
+    {
+      "title": "Qualcomm Shares Surge Up To 10% On Multi-Year Amazon AI Chip Deal Worth Up To $60 Billion Signed",
+      "description": "Qualcomm partners with Amazon to develop custom silicon and connectivity solutions for AWS's AI infrastructure, boosting Qualcomm's market value and marking a significant move into the AI market.",
+      "url": "https://www.ibtimes.com.au/qualcomm-amazon-ai-infrastructure-partnership-1875230",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-09T08:37:52Z"
+    },
+    {
+      "title": "Jin Lian Cheng expands into semiconductor wafer fab UPS battery recycling",
+      "description": "Jin Lian Cheng Resources completed an upgrade to its desulfurization production line as demand increased for lead-acid battery recycling tied to high-spec uninterruptible power supply (UPS) systems used by semiconductor plants. The Taiwanese waste lead-acid b…",
+      "url": "https://www.digitimes.com/news/a20260908PD205/recycling-ups-fab-wafer-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-09T08:35:00Z"
+    },
+    {
+      "title": "Cambricon wins PyTorch Foundation board seat in bid to strengthen China AI chip software ecosystem",
+      "description": "Chinese AI chip developer Cambricon said on September 8 that it has formally joined the PyTorch Foundation as a platinum member, the organisation's highest membership tier, securing a seat on its governing board.",
+      "url": "https://www.digitimes.com/news/a20260908PD231/cambricon-ai-chip-software-development-chipmakers.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-09T08:35:00Z"
+    },
+    {
+      "title": "Google steps up green power purchases in Taiwan for 24/7 carbon-free electricity",
+      "description": "Over the past half-year, multinational companies and semiconductor suppliers have pressed the government to reduce surplus power conditions. To increase the flexibility of green power transfer and matching, Taiwan Power (Taipower) has planned to launch Sandbo…",
+      "url": "https://www.digitimes.com/news/a20260908PD230/google-taiwan-power-company-renewable-energy-electricity-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-09T08:30:00Z"
+    },
+    {
+      "title": "Should You Buy Intel Stock After a Nearly Fourfold Year?",
+      "description": "Two things at Intel (NASDAQ:INTC) have nearly quadrupled over the past 12 months. One is the quarterly operating income of the chipmaker's data center business. The other is its stock price, which trades near $96 as of this writing, up from a 52-week low of $…",
+      "url": "https://biztoc.com/x/779659f80af75b39",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T08:26:34Z"
+    },
+    {
+      "title": "Samsung will make custom AI chips for OpenAI",
+      "description": "OpenAI, the firm behind ChatGPT, is expanding its partnership with Samsung Electronics. The company announced joint research and chip production efforts with the South Korean tech giant, alongside deployment of OpenAI's enterprise software across Samsung. Ope…",
+      "url": "https://www.sammobile.com/news/samsung-make-openai-custom-ai-chips",
+      "source": "SamMobile",
+      "publishedAt": "2026-09-09T08:22:16Z"
+    },
+    {
+      "title": "Xring O3 outperforms the Snapdragon 8 Elite Gen 5 in hands-on CPU and GPU benchmarks",
+      "description": "Xiaomi's new Xring O3 properly debuted on the Xiaomi Pad 9 Pro Max and Xiaomi 18 Fold days ago. The former has now been put through CPU and GPU benchmarks, showcasing performance superior to chipsets like the Snapdragon 8 Elite Gen 5, especially on the GPU si…",
+      "url": "https://www.notebookcheck.net/Xring-O3-outperforms-the-Snapdragon-8-Elite-Gen-5-in-hands-on-CPU-and-GPU-benchmarks.1393214.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-09T08:19:00Z"
+    },
+    {
+      "title": "AMD Radeon RX 9070 XT is AMD's Most Popular Discrete GPU on Steam Survey",
+      "description": "According to the latest Steam Hardware and Software Survey update, in August, AMD's Radeon RX 9070 XT, the flagship of the RDNA 4 family, became the company's most popular discrete graphics card. With a share of 1.46% among surveyed Steam gamers, the Radeon R…",
+      "url": "https://www.techpowerup.com/352502/amd-radeon-rx-9070-xt-is-amds-most-popular-discrete-gpu-on-steam-survey",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-09T08:01:49Z"
+    },
+    {
+      "title": "SED to Exhibit Advanced Water Recovery Technologies for Semiconductor Manufacturing at SEMICON India 2026",
+      "description": "SED to Exhibit Advanced Water Recovery Technologies for Semiconductor Manufacturing at SEMICON India 2026",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/sed-to-exhibit-advanced-water-recovery-technologies-for-semiconductor-manufacturing-at-semicon-india-2026/article71446405.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-09T08:01:07Z"
+    },
+    {
+      "title": "DB HiTek Completes Reliability Qualification for 8-Inch 1,200 V SiC MOSFET Process",
+      "description": "Establishes World's First Complete 8-Inch SiC Foundry Process Flow Provides First- and Second-Generation PDKs to Customers, with Third-Generation PDK Scheduled for November; Expected to Shorten Product Development Time by More Than One Year SEOUL, South Korea…",
+      "url": "https://www.prnewswire.com/news-releases/db-hitek-completes-reliability-qualification-for-8-inch-1-200-v-sic-mosfet-process-302871084.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-09T08:00:00Z"
+    },
+    {
+      "title": "Washington must not forget the grassroots",
+      "description": "Football is back. The first harbinger of fall is just around the corner, bringing game-day tailgates, late-night bonfires, and hope that this just might be your team’s year to win it all.Fueling this hope is a fresh round of hype videos getting folks excited …",
+      "url": "https://www.theblaze.com/columns/opinion/washington-must-not-forget-the-grassroots",
+      "source": "TheBlaze",
+      "publishedAt": "2026-09-09T08:00:00Z"
+    },
+    {
+      "title": "Want a MacBook Air without the four-figure price tag? This near-mint refurb is just $199.97",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: Pick up a refurbished 2018 Apple MacBook Air for $199.97 (MSRP $1,199). It packs a 13.3-inch Retina display, Intel Core i5 processor, 8GB RAM, 128GB SSD, Touch ID, and up to 12 hours of battery life into a lightweight 2.75-pound des…",
+      "url": "https://www.macworld.com/article/3228734/want-a-macbook-air-without-the-four-figure-price-tag-this-near-mint-refurb-is-just-199-97.html",
+      "source": "Macworld",
+      "publishedAt": "2026-09-09T08:00:00Z"
+    },
+    {
+      "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here’s why the market doesn’t care",
+      "description": "AGI, the technology once imagined to both destroy and enrich human civilization, has arrived, Nvidia chief Jensen Huang declared over the weekend.\nOpenAI’s newest model, Astra (“stars” in Latin), has achieved the goal, Huang wrote on X on Sunday, after traini…",
+      "url": "https://biztoc.com/x/7762fa9f1538c6dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T07:56:11Z"
+    },
+    {
+      "title": "Tokyo Stocks Lose Ground as Exporters Face Stronger Yen",
+      "description": "Tokyo stocks edged lower on September 9, with the Nikkei 225 closing at 65,143, down 126.55 points, as a stronger yen and crude oil’s move toward $100 outweighed support from selected artificial intelligence and semiconductor-related shares. (News On Japan)",
+      "url": "https://newsonjapan.com/article/150690.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-09-09T07:53:51Z"
+    },
+    {
+      "title": "ASUS details ProArt GR1X mini PC with NVIDIA RTX Spark, 128GB unified memory and 10GbE - VideoCardz.com",
+      "description": "ASUS details ProArt GR1X mini PC with NVIDIA RTX Spark, 128GB unified memory and 10GbEVideoCardz.com Nvidia’s RTX Spark could be the future of laptops. That’s exactly why I’d waitPCWorld Lenovo Expands the Yoga Portfolio with New AI PCs and Tablets Built for …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185548428",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-09T07:53:20Z"
+    },
+    {
+      "title": "Broadcom's $230 Billion AI Bet Gets Real",
+      "description": "After Broadcom's (AVGO) Q3 FY2026, the single biggest risk to the bull case no longer concerns the existence of demand for custom AI accelerators. I do not see any particular issue with Broadcom's assumption of\nSummary\n- Broadcom expects AI semiconductor reve…",
+      "url": "https://biztoc.com/x/0b7cb3a680a9086e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-09T07:41:38Z"
+    },
+    {
+      "title": "Show HN: Booley – open-source IDE for agentic chip design",
+      "description": "I am a digital design engineer, and my day job is designing chips (mostly IP blocks, not full chips) in SystemVerilog. At the start of 2026 I started experimenting with LLM agents like Claude and Codex, and realized that they are very capable not just at soft…",
+      "url": "https://github.com/boldaxolotl/booley",
+      "source": "Github.com",
+      "publishedAt": "2026-09-09T07:34:11Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report",
+      "AMD and Nvidia face unprecedented valuation split amid AI market dynamics",
+      "Defence growth trajectory remains elevated, but execution holds the key",
+      "TSMC’s High-NA Plan Gives ASML a Catalyst, but Investors Face Two Different Timelines",
+      "IonQ unveils Superion roadmap and SkyWater-powered growth strategy at Investor Day"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/amd-nvidia-valuation-split-ai-market",
+        "https://cryptobriefing.com/ionq-superion-roadmap-skywater-growth-strategy",
+        "https://cryptobriefing.com/zankore-3b-gpu-financing-indonesia-ai"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/markets/news/defence-growth-trajectory-remains-elevated-but-execution-holds-the-key-126090900977_1.html",
+        "https://www.digitimes.com/news/a20260909PD237/mic-taiwan-2027-supply-chain-market.html",
+        "https://devops.com/github-quietly-fixes-one-of-dependabots-oldest-headaches"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/samsung-and-sk-hynix-memory-inventories-crash-below-10-days-as-ai-demand-triggers-historic-shortage-says-report",
+        "https://www.ibtimes.com.au/qualcomm-amazon-ai-infrastructure-partnership-1875230",
+        "https://www.digitimes.com/news/a20260908PD231/cambricon-ai-chip-software-development-chipmakers.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://i-epikaira.blogspot.com/2026/09/us-army-intel-officials-quietly-discuss.html",
+        "https://finance.yahoo.com/markets/stocks/articles/tsmc-high-na-plan-gives-101831920.html",
+        "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report. Main topic cluster: First. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report. Main topic cluster: First. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report. Main topic cluster: First. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report. Main topic cluster: First. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: US army, intel officials ‘quietly discuss’ reducing presence across West Asia: Report. Main topic cluster: First. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
