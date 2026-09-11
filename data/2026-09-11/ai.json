@@ -1,0 +1,334 @@
+{
+  "theme": "ai",
+  "date": "2026-09-11",
+  "last_updated_utc": "2026-09-11T10:28:40.716Z",
+  "news": [
+    {
+      "title": "Anthropic researcher quits, says AI could kill all humans by end of decade",
+      "description": "An artificial intelligence researcher has resigned from Anthropic, warning that the rapid development of advanced AI could pose an unprecedented threat to humanity. Jacob Coxon, who said he spent the past three years conducting pre-training research at OpenAI…",
+      "url": "https://punchng.com/anthropic-researcher-quits-says-ai-could-kill-all-humans-by-end-of-decade",
+      "source": "The Punch",
+      "publishedAt": "2026-09-10T09:23:58Z"
+    },
+    {
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "description": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI age…",
+      "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "source": "Internet",
+      "publishedAt": "2026-09-10T07:04:01Z"
+    },
+    {
+      "title": "OpenAI Endorses California Safety Bills – The ‘Reverse Federalism’ Regulatory Moat",
+      "description": "On September 9, 2026, OpenAI formally endorsed four specific California AI safety bills currently awaiting action from Governor Gavin Newsom. This legislative package includes SB 813, which mandates independent AI risk assessments; AB 1405, establishing rigor…",
+      "url": "https://forkast.news/openai-endorses-california-safety-bills-the-reverse-federalism-regulatory-moat",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-10T10:24:23Z"
+    },
+    {
+      "title": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify",
+      "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
+      "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-10T10:15:35Z"
+    },
+    {
+      "title": "A New Claude ‘s Sandbox Failure Shows How AI Can Rationalize Real-World Harm",
+      "description": "Claude models compromised real systems during misconfigured security tests, exposing a worrying mix of flawed reasoning, harmful actions and weak safeguards. Anthropic just published one of the more uncomfortable self-assessments a major AI lab has released t…",
+      "url": "https://securityaffairs.com/198814/hacking/a-new-claude-s-sandbox-failure-shows-how-ai-can-rationalize-real-world-harm.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-09-10T09:21:36Z"
+    },
+    {
+      "title": "Amazon and OpenAI Team Up to Target ChatGPT’s US Users",
+      "description": "The ecommerce giant is helping advertisers integrate into the AI answer engine.",
+      "url": "https://www.adweek.com/commerce/amazon-and-openai-team-up-to-target-chatgpts-us-users",
+      "source": "Adweek",
+      "publishedAt": "2026-09-10T09:00:00Z"
+    },
+    {
+      "title": "\"Plainly dishonest\": mathematician says OpenAI lied to him about training on his private chats",
+      "description": "TU Dresden group theorist Andreas Thom says that OpenAI gave him a misleading answer about whether his private ChatGPT sessions fed the training data behind the Astra proof that built the first non-sofic group. OpenAI has not publicly addressed his posts.",
+      "url": "https://www.notebookcheck.net/Plainly-dishonest-mathematician-says-OpenAI-lied-to-him-about-training-on-his-private-chats.1395716.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-10T08:14:00Z"
+    },
+    {
+      "title": "US Justice Department probes Nvidia-Groq deal over antitrust concerns",
+      "description": "The US Department of Justice has opened a probe into Nvidia's deal with AI chip startup Groq, according to reports from The New York Times and Reuters. Regulators are examining whether the transaction was structured to avoid antitrust review, with potential f…",
+      "url": "https://www.digitimes.com/news/a20260910PD234/nvidia-antitrust-groq-probe-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T08:01:14Z"
+    },
+    {
+      "title": "OpenAI asks Congress for mandatory national AI safety rules before it adjourns",
+      "description": "OpenAI has called for mandatory, capability-based national AI safety regulation in the United States, setting out a list of requirements it wants imposed on itself and its competitors, and urging Congress to legislate before it adjourns. The proposal was publ…",
+      "url": "https://thenextweb.com/news/openai-mandatory-national-ai-safety-requirements-congress",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-10T06:59:33Z"
+    },
+    {
+      "title": "OpenAI Wants to Work With Congress on 'Mandatory' National AI Safety Rules — Crypto Punters Raise Odds of Bill Passage",
+      "description": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nCryptocurrency bettors sharply raised odds on Wednesday that the U.S will pass an AI Safety Bill this year following OpenAI's call for mandatory national stan…",
+      "url": "https://biztoc.com/x/c2093d2cf689bb31",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T06:31:53Z"
+    },
+    {
+      "title": "Enflame to list on Septemper 11 as China's four major domestic GPU makers complete IPOs",
+      "description": "Chinese AI chipmaker Enflame will list on the STAR Market of the Shanghai Stock Exchange on September 11, 2026, becoming the last of China's \"four little GPU dragons\" to go public. Enflame is grouped with Moore Threads, MetaX, and Biren Technology as China's …",
+      "url": "https://www.digitimes.com/news/a20260910PD222/gpu-revenue-ai-chip-2026-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T05:54:39Z"
+    },
+    {
+      "title": "OpenAI faces US Senate probe over July Hugging Face breach, rogue AI behaviour",
+      "description": "US News: OpenAI is facing a US Senate investigation into its response to a July cybersecurity incident involving Hugging Face, with a Republican senator demand.",
+      "url": "https://timesofindia.indiatimes.com/world/us/openai-faces-us-senate-probe-over-july-hugging-face-breach-rogue-ai-behaviour/articleshow/134003578.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T10:24:46Z"
+    },
+    {
+      "title": "Adform is One of OpenAI’s Technology Platform Partners as ChatGPT Ads Arrive in Europe",
+      "description": "Adform, the integrated advertising platform built for the agentic age, has been selected as one of the technology platform partners supporting the European rollout of ChatGPT Ads in Europe, offering a new advertising environment for European brands and agenci…",
+      "url": "https://www.exchangewire.com/blog/2026/09/10/adform-is-one-of-openais-technology-platform-partners-as-chatgpt-ads-arrive-in-europe",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-09-10T10:19:15Z"
+    },
+    {
+      "title": "Palantir, Nvidia team up on AI for supply chains",
+      "description": "Palantir Technologies and Nvidia announced on Thursday that they will partner to bring sovereign AI capabilities to critical supply chains, first applied to Nvidia's own complex operations before bein...",
+      "url": "https://biztoc.com/x/36c6b0ef6be1b88d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T09:16:14Z"
+    },
+    {
+      "title": "OpenAI faces Senate probe into Hugging Face hack by rogue AI agents",
+      "description": "Sept 10 : A Republican-led Senate subcommittee responsible for disaster-management oversight is examining OpenAI's response to the July Hugging Face breach, amid increasing scrutiny of the technology after high-profile incidents of AI agents escaping controls…",
+      "url": "https://www.channelnewsasia.com/business/openai-faces-senate-probe-hugging-face-hack-rogue-ai-agents-6375631",
+      "source": "CNA",
+      "publishedAt": "2026-09-10T09:15:11Z"
+    },
+    {
+      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+      "description": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-6928068",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-09-10T09:00:00Z"
+    },
+    {
+      "title": "Nvidia signs eight Australian data centre partners for up to 2GW of AI capacity by 2027",
+      "description": "Nvidia has signed eight Australian data centre and cloud companies to build what it calls AI factory capacity, in an arrangement the chipmaker says could support up to two gigawatts of AI compute in Australia by 2027. The partners named in the announcement ar…",
+      "url": "https://thenextweb.com/news/nvidia-australia-eight-partners-2gw-ai-capacity",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-10T08:37:44Z"
+    },
+    {
+      "title": "Anthropic grants the EU access to Mythos",
+      "description": "The European Commission confirmed on Thursday that the EU's cybersecurity agency, ENISA, has finally been granted access to Anthropic's Claude Mythos 5 and has begun active testing, more than three mo...",
+      "url": "https://biztoc.com/x/d04ec4839c3f7655",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T08:30:46Z"
+    },
+    {
+      "title": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World",
+      "description": "SINGAPORE, Sept. 10, 2026 /PRNewswire/ -- DeepCtrls has completed its Series B+ financing round, led by CATL, with strategic investment from Aramco Ventures, alongside participation from Taiping Innovation Investment, GF Xinde and Fosun Capital. Existing inve…",
+      "url": "https://www.prnewswire.com/news-releases/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world-302875027.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T08:29:00Z"
+    },
+    {
+      "title": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World",
+      "description": "SINGAPORE, Sept. 10, 2026 /PRNewswire/ -- DeepCtrls has completed its Series B+ financing round, led by CATL, with strategic investment from Aramco Ventures, alongside participation from Taiping Innovation Investment, GF Xinde and Fosun Capital. Existing inve…",
+      "url": "https://www.prnewswire.co.uk/news-releases/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world-302875027.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-09-10T08:29:00Z"
+    },
+    {
+      "title": "NVIDIA DGX Spark “AI Supercomputer” Impressions – The Future of AI Computing In Tiny Boxes",
+      "description": "The acceleration within the AI space has sparked a revolution in the PC segment. We have seen major chipmakers embark on the \"AI PC\" journey, which involves dedicated client designs that mix Windows applications with dedicated and local AI subsystems, and the…",
+      "url": "https://wccftech.com/review/nvidia-dgx-spark-ai-supercomputer-impressions-the-future-of-ai-computing-in-tiny-boxes",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-10T08:00:32Z"
+    },
+    {
+      "title": "The Justice Department is investigating whether Nvidia structured its Groq deal to avoid antitrust review",
+      "description": "The US Justice Department is examining whether Nvidia deliberately structured its licensing deal with inference chip designer Groq in a way that avoided antitrust review, according to a New York Times report. The Justice Department opened its inquiry shortly …",
+      "url": "https://thenextweb.com/news/doj-nvidia-groq-licensing-antitrust-review",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-10T07:26:50Z"
+    },
+    {
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "description": "It’s been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major face…",
+      "url": "https://biztoc.com/x/de3bdeb95bccf7c6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T07:15:57Z"
+    },
+    {
+      "title": "(VIDEO) Former Anthropic Researcher Quits, Warning AI Builders Fear It Could Kill Us All by 2030",
+      "description": "Jacob Coxon, a former AI researcher at Anthropic, resigned, warning that AI advancements could pose an existential threat to humanity by 2030, urging for responsible development and coordination among labs.",
+      "url": "https://www.ibtimes.com.au/ai-expert-resigns-warns-human-extinction-2030-1875296",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-10T07:14:53Z"
+    },
+    {
+      "title": "ChatGPT AI prompts for your Ganesh Chaturthi festive fashion ideas- 5 prompts to try for an effortless look",
+      "description": "ChatGPT can help create personalised Ganesh Chaturthi 2026 fashion looks, from sarees and kurtas to jewellery, makeup and accessories. Five useful prompts can generate simple festive outfits, modern-traditional combinations, complete saree styling, accessory …",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/chatgpt-ai-prompts-for-your-ganesh-chaturthi-festive-fashion-ideas-5-prompts-to-try-for-an-effortless-look/articleshow/133996843.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T07:00:38Z"
+    },
+    {
+      "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
+      "description": "The chip company is collaborating with Australian firms like Firmus, CDC, NEXTDC, and AirTrunk to develop up to 2 gigawatts of AI-related capacity by 2027",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-plans-major-expansion-of-data-centre-capacity-in-australia-to-meet-ai-demand/article71450101.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-10T06:33:52Z"
+    },
+    {
+      "title": "Anthropic sees AI driving GDP growth, but warns of job losses, wage pressure for knowledge workers",
+      "description": "The report projects substantial economic gains from faster AI adoption, but cautions that displaced workers could struggle to transition as automation reshapes knowledge-intensive jobs and pushes more income towards capital.",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-sees-ai-driving-gdp-growth-but-warns-of-job-losses-wage-pressure-for-knowledge-workers/article71450165.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-10T06:10:40Z"
+    },
+    {
+      "title": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World",
+      "description": "SINGAPORE, Sept. 10, 2026 /PRNewswire/ -- DeepCtrls recently completed a new Series B+ financing round, led by CATL, with strategic investment from Aramco Ventures, alongside participation from Taiping Innovation Investment, GF Xinde Investment Management and…",
+      "url": "https://www.prnewswire.com/news-releases/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world-302874800.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T06:02:00Z"
+    },
+    {
+      "title": "ChatGPT 1980s AI photo trend: 10 best prompts to turn your photos retro",
+      "description": "ChatGPT 1980s AI Top 10 prompts: The '80s-inspired photo trend is taking social media by storm, as users transform their pictures into nostalgic ChatGPT AI creations inspired by the era's iconic fashion",
+      "url": "https://www.business-standard.com/lifestyle/chatgpt-1980s-ai-photo-trend-10-best-prompts-to-turn-your-photos-retro-look-nc-126091000316_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-10T05:59:52Z"
+    },
+    {
+      "title": "TSMC August 2026 revenue jumps 53.3% as AI chip demand drives record growth",
+      "description": "TSMC reported strong revenue growth in August, underscoring continued momentum in AI-related semiconductor demand. TSMC said consolidated revenue reached NT$514.81 billion (US$16.3 billion) in August, up 10.1% month-over-month and 53.3% year-over-year. Revenu…",
+      "url": "https://www.digitimes.com/news/a20260910VL214/tsmc-revenue-growth-demand-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T05:57:09Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic researcher quits, says AI could kill all humans by end of decade",
+      "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "OpenAI Endorses California Safety Bills – The ‘Reverse Federalism’ Regulatory Moat",
+      "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify",
+      "A New Claude ‘s Sandbox Failure Shows How AI Can Rationalize Real-World Harm"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://punchng.com/anthropic-researcher-quits-says-ai-could-kill-all-humans-by-end-of-decade",
+        "https://forkast.news/openai-endorses-california-safety-bills-the-reverse-federalism-regulatory-moat",
+        "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+        "https://securityaffairs.com/198814/hacking/a-new-claude-s-sandbox-failure-shows-how-ai-can-rationalize-real-world-harm.html",
+        "https://biztoc.com/x/d04ec4839c3f7655"
+      ]
+    },
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260910PD222/gpu-revenue-ai-chip-2026-2025.html",
+        "https://www.prnewswire.com/news-releases/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world-302875027.html",
+        "https://www.prnewswire.co.uk/news-releases/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world-302875027.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260910PD234/nvidia-antitrust-groq-probe-technology.html",
+        "https://biztoc.com/x/36c6b0ef6be1b88d",
+        "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-6928068"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/de3bdeb95bccf7c6",
+        "https://www.business-standard.com/lifestyle/chatgpt-1980s-ai-photo-trend-10-best-prompts-to-turn-your-photos-retro-look-nc-126091000316_1.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic researcher quits, says AI could kill all humans by end of decade. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic researcher quits, says AI could kill all humans by end of decade. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic researcher quits, says AI could kill all humans by end of decade. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic researcher quits, says AI could kill all humans by end of decade. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic researcher quits, says AI could kill all humans by end of decade. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,426 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-11",
+  "last_updated_utc": "2026-09-11T10:28:58.202Z",
+  "news": [
+    {
+      "title": "Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%",
+      "description": "Broadcom's soaring AI semiconductor revenue and substantial RPO highlight its pivotal role in shaping future AI infrastructure and market dynamics.\nThe post Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221% ap…",
+      "url": "https://cryptobriefing.com/broadcom-179b-performance-obligations-ai-revenue",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-10T10:21:00Z"
+    },
+    {
+      "title": "Arm's upcoming GPU for Android claims it can deliver 'desktop-class' graphics—I hope it's true",
+      "description": "Arm says its Mali G2-Ultra NX GPU aims to produce \"desktop-class\" graphics on mobile phones, and it can reportedly keep up with smooth frames—I certainly hope so.",
+      "url": "https://www.androidcentral.com/phones/arms-upcoming-gpu-for-android-claims-it-can-deliver-desktop-class-graphics-i-hope-its-true",
+      "source": "Android Central",
+      "publishedAt": "2026-09-10T10:17:00Z"
+    },
+    {
+      "title": "Here's Where Wall Street Analysts See Nvidia's Share Price Going",
+      "description": "It would be an understatement to say that Wall Street is bullish on Nvidia (NASDAQ: NVDA).\nThe artificial intelligence (AI) chip manufacturer announced its second-quarter results on Aug. 26, and they were stunning. Revenue of $96.2 billion was more than doubl…",
+      "url": "https://biztoc.com/x/f7f2c529d690eb2e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T10:03:10Z"
+    },
+    {
+      "title": "ChipMOS REPORTS 33.3% YoY INCREASE IN AUGUST 2026 REVENUE",
+      "description": "HSINCHU, Sept. 10, 2026 /PRNewswire-FirstCall/ -- ChipMOS TECHNOLOGIES INC. (\"ChipMOS\" or the \"Company\") (Taiwan Stock Exchange: 8150 and Nasdaq: IMOS), an industry leading provider of outsourced semiconductor assembly and test services (\"OSAT\"), today report…",
+      "url": "https://www.prnewswire.com/news-releases/chipmos-reports-33-3-yoy-increase-in-august-2026-revenue-302874510.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T10:00:00Z"
+    },
+    {
+      "title": "ChipMOS to Participate in UBS Taiwan Summit 2026",
+      "description": "HSINCHU, Sept. 10, 2026 /PRNewswire-FirstCall/ -- ChipMOS TECHNOLOGIES INC. (\"ChipMOS\" or the \"Company\") (Taiwan Stock Exchange: 8150 and Nasdaq: IMOS), an industry leading provider of outsourced semiconductor assembly and test services (\"OSAT\"), today announ…",
+      "url": "https://www.prnewswire.com/news-releases/chipmos-to-participate-in-ubs-taiwan-summit-2026-302873463.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T10:00:00Z"
+    },
+    {
+      "title": "EcoVadis Named a Leader in 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software for the second consecutive time",
+      "description": "EcoVadis is recognised for its product innovation, partnerships and integrations, enhancing data connectivity and facilitating more effective supply chain sustainability assessments. PARIS and NEW YORK, Sept. 10, 2026 /PRNewswire/ -- EcoVadis, the global stan…",
+      "url": "https://www.prnewswire.com/news-releases/ecovadis-named-a-leader-in-2026-verdantix-green-quadrant-for-supply-chain-sustainability-software-for-the-second-consecutive-time-302874540.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T10:00:00Z"
+    },
+    {
+      "title": "'The memory chip market is heading toward a severe shortage': analyst firm believes RAM crisis could get far worse in 2027 — and you can blame AI ramping up",
+      "description": "Could the RAM crisis get any gloomier? Yes, it just did, with the latest chatter from analysts turning even more pessimistic.",
+      "url": "https://www.techradar.com/computing/memory/the-memory-chip-market-is-heading-toward-a-severe-shortage-analyst-firm-believes-ram-crisis-could-get-far-worse-in-2027-and-you-can-blame-ai-ramping-up",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-10T09:58:59Z"
+    },
+    {
+      "title": "Bessent Threatens ‘I Am The House’: Bond Traders Should Listen",
+      "description": "At a speech Tuesday night at SMU, Treasury Secretary Scott Bessent threatened currency traders to bet against him on the Japanese yen, claiming, \n\n\n\r\n\nI am the house now, so when we intervene with the Japanese yen, I have pretty good insight into what the Jap…",
+      "url": "https://realinvestmentadvice.com/resources/blog/bessent-threatens-i-am-the-house-bond-traders-should-listen",
+      "source": "Realinvestmentadvice.com",
+      "publishedAt": "2026-09-10T09:44:00Z"
+    },
+    {
+      "title": "Analog Devices to acquire Alif Semiconductor in $1.3bn cash deal",
+      "description": "US-based semiconductor company Analog Devices (ADI) has reached an agreement to acquire Alif Semiconductor in an all-cash transaction valued at $1.35bn.\nThe deal is expected to strengthen Analog Devices' position in providing hardware for AI applications in r…",
+      "url": "https://biztoc.com/x/e1f9aee227bd578c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T09:32:53Z"
+    },
+    {
+      "title": "Palantir, Nvidia team up on AI for supply chains",
+      "description": "Palantir Technologies and Nvidia announced on Thursday that they will partner to bring sovereign AI capabilities to critical supply chains, first applied to Nvidia's own complex operations before bein...",
+      "url": "https://biztoc.com/x/36c6b0ef6be1b88d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-10T09:16:14Z"
+    },
+    {
+      "title": "Kepler Computing Emerges to Build HBM Alternative Using FeRAM",
+      "description": "After seven years of operating in stealth mode, a new startup called Kepler Computing has emerged to address the memory crisis using a custom memory technology. The startup claims to have developed an alternative to HBM using a new 3D stacking technique and n…",
+      "url": "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-10T09:07:42Z"
+    },
+    {
+      "title": "Singular Photonics launches world-first SPAD-based image sensor",
+      "description": "Litavis offers programmable multi-modal capabilities on-chip, accelerating time-to-market for imaging applications EDINBURGH, Scotland, Sept. 10, 2026 /PRNewswire/ -- Singular Photonics, an innovator in single-photon imaging, today announced the launch of its…",
+      "url": "https://www.prnewswire.com/news-releases/singular-photonics-launches-world-first-spad-based-image-sensor-302874988.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T09:04:00Z"
+    },
+    {
+      "title": "Singular Photonics launches world-first SPAD-based image sensor",
+      "description": "Litavis offers programmable multi-modal capabilities on-chip, accelerating time-to-market for imaging applications EDINBURGH, Scotland, Sept. 10, 2026 /PRNewswire/ -- Singular Photonics, an innovator in single-photon imaging, today announced the launch of its…",
+      "url": "https://www.prnewswire.co.uk/news-releases/singular-photonics-launches-world-first-spad-based-image-sensor-302874992.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-09-10T09:04:00Z"
+    },
+    {
+      "title": "Xiaomi’s answer to the iPhone 18 Pro Max surfaces on Geekbench with a 5.11GHz Snapdragon 8 Elite Gen 6 Pro",
+      "description": "A Geekbench listing for the Xiaomi 18 Pro Max, identified by the Chinese model number M1544F, shows a Snapdragon 8 Elite Gen 6 Pro with two cores running at 5.11GHz and an Adreno 850 GPU. The device scored 3,582 in single-core and 12,247 in multi-core on Geek…",
+      "url": "https://www.notebookcheck.net/Xiaomi-s-answer-to-the-iPhone-18-Pro-Max-surfaces-on-Geekbench-with-a-5-11GHz-Snapdragon-8-Elite-Gen-6-Pro.1395673.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-10T09:03:00Z"
+    },
+    {
+      "title": "Xiaomi’s answer to the iPhone 18 Pro Max surfaces on Geekbench with a 5.11GHz Snapdragon",
+      "description": "A Geekbench listing for the Xiaomi 18 Pro Max, identified by the Chinese model number M1544F, shows a Snapdragon 8 Elite Gen 6 Pro with two cores running at 5.11GHz and an Adreno 850 GPU. The device scored 3,582 in single-core and 12,247 in multi-core on Geek…",
+      "url": "https://www.notebookcheck.net/Xiaomi-s-answer-to-the-iPhone-18-Pro-Max-surfaces-on-Geekbench-with-a-5-11GHz-Snapdragon.1395673.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-10T09:03:00Z"
+    },
+    {
+      "title": "Deploying AI You Control Doesn’t Need to be So Hard",
+      "description": "Announcing a collaboration with Palantir to deliver Cisco's Secure AI Factory with NVIDIA as a preferred full-stack foundation for Palantir's Sovereign AI OS.",
+      "url": "https://blogs.cisco.com/?p=497345",
+      "source": "Cisco.com",
+      "publishedAt": "2026-09-10T09:00:50Z"
+    },
+    {
+      "title": "Analog Devices to acquire Alif Semiconductor in $1.3bn cash deal",
+      "description": "Analog Devices has reached an agreement to acquire Alif Semiconductor in an all-cash transaction valued at $1.35bn.",
+      "url": "https://www.verdict.co.uk/analog-devices-to-acquire-alif",
+      "source": "Verdict",
+      "publishedAt": "2026-09-10T09:00:40Z"
+    },
+    {
+      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+      "description": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-6928068",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-09-10T09:00:00Z"
+    },
+    {
+      "title": "クオンタムソリューションズ、AIDC事業向け最新世代・高密度GPUコンピューティング基盤の初回支払いを完了",
+      "description": "[クオンタムソリューションズ株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/77168/66/77168-66-b81ca5e61c28268cfef4bebf98ae0066-1632x640.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000077168.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-10T08:40:09Z"
+    },
+    {
+      "title": "EU Cheerleads Ukraine's Rush to Mobilize Women — Russian Intel",
+      "description": "MOSCOW (Sputnik) - The European Union welcomes the intensification of the discussion on the mobilization of women in Ukraine, the Russian Foreign Intelligence Service (SVR) said on Thursday.",
+      "url": "https://sputnikglobe.com/20260910/eu-cheers-ukraines-rush-to-mobilize-women--russian-intel-1124709589.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-10T08:38:41Z"
+    },
+    {
+      "title": "Nvidia signs eight Australian data centre partners for up to 2GW of AI capacity by 2027",
+      "description": "Nvidia has signed eight Australian data centre and cloud companies to build what it calls AI factory capacity, in an arrangement the chipmaker says could support up to two gigawatts of AI compute in Australia by 2027. The partners named in the announcement ar…",
+      "url": "https://thenextweb.com/news/nvidia-australia-eight-partners-2gw-ai-capacity",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-10T08:37:44Z"
+    },
+    {
+      "title": "STMicroelectronics sets 2027 AI revenue plan with fiber chips at 80%",
+      "description": "STMicroelectronics said in New York on September 9 that about 80% of its target for more than US$2 billion in artificial intelligence data-center revenue in 2027 will come from fiber-optic data transmission chips. The disclosure marked the first time the comp…",
+      "url": "https://www.digitimes.com/news/a20260910PD233/stmicroelectronics-revenue-2027-chips-business.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T08:32:07Z"
+    },
+    {
+      "title": "Michael Burry pulls back on risk, says he’s happy to sit on cash. Is Big Short investor reversing his bearish AI bets?",
+      "description": "Michael Burry is pulling back on portfolio risk, exiting December 2026 put options on Nvidia and Palantir without rolling them over. The ‘Big Short’ investor said he is “happy to sit on cash” while continuing to hold 2027 Palantir puts and QQQ puts, amid rene…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-pulls-back-on-risk-says-hes-happy-to-sit-on-cash-is-big-short-investor-reversing-his-bearish-ai-bets/articleshow/134000079.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T08:29:49Z"
+    },
+    {
+      "title": "Michael Burry pulls back on risk, says he’s happy to sit on cash. Is Big Short investor reversing his bearish AI bets?",
+      "description": "Michael Burry is pulling back on portfolio risk, exiting December 2026 put options on Nvidia and Palantir without rolling them over. The ‘Big Short’ investor said he is “happy to sit on cash” while continuing to hold 2027 Palantir puts and QQQ puts, amid rene…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/michael-burry-pulls-back-on-risk-says-hes-happy-to-sit-on-cash-is-big-short-investor-reversing-his-bearish-ai-bets/articleshow/134000079.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T08:29:49Z"
+    },
+    {
+      "title": "Latest Minisforum M2 Pro Mini PC tested: Small size, plays AAA games, sips power",
+      "description": "ETA Prime has tested the Minisforum M2 Pro Mini PC. The Mini PC is powered by the Intel Core Ultra X7 358H Panther Lake CPU. The Core Ultra X7 358H is a pretty powerful chip with 16 CPU cores and an Intel Arc B390 iGPU capable of driving AAA games.",
+      "url": "https://www.notebookcheck.net/Latest-Minisforum-M2-Pro-Mini-PC-tested-Small-size-plays-AAA-games-sips-power.1395659.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-10T08:25:00Z"
+    },
+    {
+      "title": "Embraer eyes bigger manufacturing footprint in India, looks to deepen local sourcing",
+      "description": "Embraer is set to enhance its local production and sourcing capabilities in India, aligning with initiatives like 'Make in India' and Aatmanirbhar Bharat.  The company is assessing collaborations for aerostructure assembly and component manufacturing, and exp…",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/embraer-eyes-bigger-manufacturing-footprint-in-india-looks-to-deepen-local-sourcing/articleshow/133999745.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T08:18:39Z"
+    },
+    {
+      "title": "US Justice Department probes Nvidia-Groq deal over antitrust concerns",
+      "description": "The US Department of Justice has opened a probe into Nvidia's deal with AI chip startup Groq, according to reports from The New York Times and Reuters. Regulators are examining whether the transaction was structured to avoid antitrust review, with potential f…",
+      "url": "https://www.digitimes.com/news/a20260910PD234/nvidia-antitrust-groq-probe-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T08:01:14Z"
+    },
+    {
+      "title": "NVIDIA DGX Spark “AI Supercomputer” Impressions – The Future of AI Computing In Tiny Boxes",
+      "description": "The acceleration within the AI space has sparked a revolution in the PC segment. We have seen major chipmakers embark on the \"AI PC\" journey, which involves dedicated client designs that mix Windows applications with dedicated and local AI subsystems, and the…",
+      "url": "https://wccftech.com/review/nvidia-dgx-spark-ai-supercomputer-impressions-the-future-of-ai-computing-in-tiny-boxes",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-10T08:00:32Z"
+    },
+    {
+      "title": "ASE August revenue tops NT$80 billion record as AI packaging capacity stays sold out",
+      "description": "ASE Technology Holding's revenue surpassed NT$80 billion (US$2.5 billion) for the first time in August 2026, as AI continued to drive demand for both advanced and conventional semiconductor packaging and testing.",
+      "url": "https://www.digitimes.com/news/a20260910PD228/ase-revenue-packaging-capacity-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T07:41:53Z"
+    },
+    {
+      "title": "OpenAI’s Samsung Pivot: The Reality of Manufacturing Diversification",
+      "description": "At a press conference in Seoul on September 9, 2026, Harrison Kim, General Manager of OpenAI Korea, offered a clear signal regarding the company’s hardware strategy: “One of the areas where we have made the most progress and gained the most recognition with S…",
+      "url": "https://forkast.news/openais-samsung-pivot-the-reality-of-manufacturing-diversification",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-10T07:32:16Z"
+    },
+    {
+      "title": "The Justice Department is investigating whether Nvidia structured its Groq deal to avoid antitrust review",
+      "description": "The US Justice Department is examining whether Nvidia deliberately structured its licensing deal with inference chip designer Groq in a way that avoided antitrust review, according to a New York Times report. The Justice Department opened its inquiry shortly …",
+      "url": "https://thenextweb.com/news/doj-nvidia-groq-licensing-antitrust-review",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-10T07:26:50Z"
+    },
+    {
+      "title": "Maxon releases Redshift 2026.9",
+      "description": "Check out the new features in the GPU production renderer, including updates to new real-time render engine Redshift Live.",
+      "url": "https://www.cgchannel.com/2026/09/maxon-releases-redshift-2026-9",
+      "source": "Cgchannel.com",
+      "publishedAt": "2026-09-10T07:16:05Z"
+    },
+    {
+      "title": "Apple Announces macOS Golden Gate Release Date",
+      "description": "Apple this week announced that macOS 27, also known as macOS Golden Gate, will be released to all users with a compatible Mac on Monday, September 14.\n\n\n\n\n\niOS 27, iPadOS 27, watchOS 27, tvOS 27, and visionOS 27 will be released on the same day.\n\n\n\nmacOS Gold…",
+      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-10T07:15:27Z"
+    },
+    {
+      "title": "iPhone 18 Pro Launching on September 18 With These 10 New Features",
+      "description": "Apple this week unveiled the iPhone 18 Pro and iPhone 18 Pro Max. While the devices look very similar to the iPhone 17 Pro models, there are still quite a few new features and incremental changes compared to the previous generation.\n\n\n\n\n\n\n\nBelow, we have reca…",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-pro-max-10-new-features",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-10T07:05:00Z"
+    },
+    {
+      "title": "Taiyo Holdings Launches Next-generation Semiconductor-packaging Material \"FPIM Series,\" Achieving Its First Three-layer RDL Formation with 700-nm CD on 12-inch Wafers",
+      "description": "- Paper Presented at IEEE ESTC 2026, International Conference on Semiconductor- and Electronic Device-packaging Technologies and Related Materials - TOKYO, Sept. 10, 2026 /PRNewswire/ -- Taiyo Holdings Co., Ltd. (Securities code: 4626; hereinafter \"Taiyo Hold…",
+      "url": "https://www.prnewswire.com/news-releases/taiyo-holdings-launches-next-generation-semiconductor-packaging-material-fpim-series-achieving-its-first-three-layer-rdl-formation-with-700-nm-cd-on-12-inch-wafers-302874600.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-10T07:00:00Z"
+    },
+    {
+      "title": "Nikkei Slips as Oil Above $100 and BOJ Rate Fears Cap Gains",
+      "description": "Tokyo stocks edged lower on September 10, with the Nikkei 225 closing at 65,143, down 0.19%, as gains in selected semiconductor and electronic-component shares faded under pressure from oil above $100, rising global bond yields and expectations that the Bank …",
+      "url": "https://newsonjapan.com/article/150711.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-09-10T06:55:45Z"
+    },
+    {
+      "title": "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
+      "description": "Puts a whole new spin on &lsquo;Cheap as chips&rsquo;",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185577278",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-10T06:52:39Z"
+    },
+    {
+      "title": "Foxsemicon hits record 2Q26 revenue on Thailand ramp-up",
+      "description": "Foxsemicon Integrated Technology (FITI) posted record consolidated revenue of NT$6.3 billion (approx. US$200.0 million) in the second quarter of 2026, up 13.3% quarter-over-quarter and 21.1% year-over-year. The semiconductor equipment maker said second-half o…",
+      "url": "https://www.digitimes.com/news/a20260910PD201/revenue-foxsemicon-2026-equipment-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T06:51:46Z"
+    },
+    {
+      "title": "Jeter August revenue rises on AI server shipments",
+      "description": "Soonest Express, a logistics and freight forwarding provider, reported August 2026 revenue of NT$799 million (approx. US$25.3 million), up 13.53% month on month and 7.80% year on year, a new 2026 high that the company said reflects recovering global supply-ch…",
+      "url": "https://www.digitimes.com/news/a20260909PD228/revenue-logistics-shipments-2026-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T06:51:12Z"
+    },
+    {
+      "title": "AUO matching glass substrate size stokes TSMC collab speculation",
+      "description": "AUO is accelerating its transformation by extending its established large-format panel manufacturing capabilities into advanced semiconductor packaging.",
+      "url": "https://www.digitimes.com/news/a20260910PD226/auo-tsmc-glass-substrate-packaging-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T06:49:11Z"
+    },
+    {
+      "title": "Apple added flat US$100 to every iPhone and rebuilt A20 Pro around memory",
+      "description": "Two things happened at Apple's September 9 launch that belong in the same story: the company raised the price of every iPhone it sells by exactly US$100, and it introduced a chip whose headline improvement is a wider memory interface, without saying how much …",
+      "url": "https://www.digitimes.com/news/a20260910VL213/apple-iphone-dram-price-launch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T06:46:47Z"
+    },
+    {
+      "title": "China's Nvidia rivals raise prices as HBM shortage bites",
+      "description": "Chinese chipmakers challenging Nvidia are sharply raising prices for current and next-generation accelerators as high-bandwidth memory (HBM) becomes scarcer and more expensive, adding another cost constraint to China's push for domestic computing hardware.",
+      "url": "https://www.digitimes.com/news/a20260910VL215/hbm-nvidia-chipmakers-cost-ascend.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-10T06:37:49Z"
+    },
+    {
+      "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
+      "description": "The chip company is collaborating with Australian firms like Firmus, CDC, NEXTDC, and AirTrunk to develop up to 2 gigawatts of AI-related capacity by 2027",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-plans-major-expansion-of-data-centre-capacity-in-australia-to-meet-ai-demand/article71450101.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-10T06:33:52Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%",
+      "Arm's upcoming GPU for Android claims it can deliver 'desktop-class' graphics—I hope it's true",
+      "Here's Where Wall Street Analysts See Nvidia's Share Price Going",
+      "ChipMOS REPORTS 33.3% YoY INCREASE IN AUGUST 2026 REVENUE",
+      "ChipMOS to Participate in UBS Taiwan Summit 2026"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "2026",
+      "summary": "Grouped stories where \"2026\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/chipmos-reports-33-3-yoy-increase-in-august-2026-revenue-302874510.html",
+        "https://www.prnewswire.com/news-releases/chipmos-to-participate-in-ubs-taiwan-summit-2026-302873463.html",
+        "https://www.prnewswire.com/news-releases/ecovadis-named-a-leader-in-2026-verdantix-green-quadrant-for-supply-chain-sustainability-software-for-the-second-consecutive-time-302874540.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/f7f2c529d690eb2e",
+        "https://biztoc.com/x/36c6b0ef6be1b88d",
+        "https://blogs.cisco.com/?p=497345"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/broadcom-179b-performance-obligations-ai-revenue",
+        "https://biztoc.com/x/e1f9aee227bd578c",
+        "https://www.verdict.co.uk/analog-devices-to-acquire-alif"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/computing/memory/the-memory-chip-market-is-heading-toward-a-severe-shortage-analyst-firm-believes-ram-crisis-could-get-far-worse-in-2027-and-you-can-blame-ai-ramping-up",
+        "https://www.notebookcheck.net/Latest-Minisforum-M2-Pro-Mini-PC-tested-Small-size-plays-AAA-games-sips-power.1395659.0.html",
+        "https://www.digitimes.com/news/a20260910VL213/apple-iphone-dram-price-launch.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.androidcentral.com/phones/arms-upcoming-gpu-for-android-claims-it-can-deliver-desktop-class-graphics-i-hope-its-true",
+        "https://realinvestmentadvice.com/resources/blog/bessent-threatens-i-am-the-house-bond-traders-should-listen",
+        "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Broadcom reports remaining performance obligations of $179B as AI semiconductor revenue surges 221%. Main topic cluster: 2026. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
