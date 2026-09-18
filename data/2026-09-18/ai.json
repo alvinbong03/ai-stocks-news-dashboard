@@ -1,0 +1,345 @@
+{
+  "theme": "ai",
+  "date": "2026-09-18",
+  "last_updated_utc": "2026-09-18T10:25:58.216Z",
+  "news": [
+    {
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "description": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
+      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-17T10:15:56Z"
+    },
+    {
+      "title": "OpenAI reveals 6 more incidents of \"unexpected or concerning\" AI behavior",
+      "description": "OpenAI has disclosed six reports of \"unexpected or concerning\" behavior in artificial intelligence models as the debate on AI safety​ becomes increasingly heated.",
+      "url": "https://www.cbsnews.com/news/openai-6-more-incidents-unexpected-or-concerning-ai-behavior",
+      "source": "CBS News",
+      "publishedAt": "2026-09-17T07:57:56Z"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei’s antitrust waiver proposal faces skepticism in Washington",
+      "description": "Skepticism over antitrust waivers highlights the tension between fostering AI safety collaboration and maintaining competitive market dynamics.\nThe post Anthropic CEO Dario Amodei’s antitrust waiver proposal faces skepticism in Washington appeared first on Cr…",
+      "url": "https://cryptobriefing.com/anthropic-amodei-antitrust-waiver-skepticism",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-17T10:17:25Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs call to slow AI development surprises staff: FT",
+      "description": "The unexpected call to slow AI development by OpenAI and Anthropic CEOs may alter market dynamics and future valuation expectations.\nThe post OpenAI, Anthropic CEOs call to slow AI development surprises staff: FT appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-anthropic-ceos-call-to-slow-ai-development-surprises-staff-ft",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-17T10:02:57Z"
+    },
+    {
+      "title": "Hyperscale Data Provides Update on Progress of Michigan AI Data Center; More Than $70 Million Invested in Alliance Cloud Services and the Michigan Facility",
+      "description": "Operations under Previously Announced MSA Expected to Begin in November 2026 LAS VEGAS, Sept. 17, 2026 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or…",
+      "url": "https://www.prnewswire.com/news-releases/hyperscale-data-provides-update-on-progress-of-michigan-ai-data-center-more-than-70-million-invested-in-alliance-cloud-services-and-the-michigan-facility-302881334.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "title": "AMD pivots to China developer ecosystems as Nvidia retreats",
+      "description": "As Nvidia gradually retreats from China's high-end AI accelerator market amid strict US export controls, Advanced Micro Devices (AMD) is deepening its regional AI strategy. Rather than relying solely on traditional CPU and GPU sales, AMD is shifting its focus…",
+      "url": "https://www.digitimes.com/news/a20260917PD233/nvidia-amd-high-end-software-accelerator.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T09:59:19Z"
+    },
+    {
+      "title": "Llm Enhanced Search",
+      "description": "LLM Enhanced Search improves Drupal Search API by using a Large Language Model (LLM) to match natural-language searches with terms from a configured taxonomy vocabulary.\r\n\nUse this module when your site uses controlled taxonomy terms, but users may search usi…",
+      "url": "https://www.drupal.org/project/llm_enhanced_search",
+      "source": "Drupal.org",
+      "publishedAt": "2026-09-17T09:56:42Z"
+    },
+    {
+      "title": "Huawei Speeds Up AI Chip Launch to Challenge Nvidia",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia",
+      "source": "The Information",
+      "publishedAt": "2026-09-17T09:05:30Z"
+    },
+    {
+      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+      "description": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
+      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-17T09:00:01Z"
+    },
+    {
+      "title": "ロックスライフ『AI検索通信簿』で不動産クラウドファンディング10サービスを独自調査、ChatGPTとGeminiで首位が異なる結果に",
+      "description": "[株式会社ロックスライフ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/176171/10/176171-10-09f571d9c57340b42ef63bb6b2f08504-3900x3079.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000176171.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-17T09:00:00Z"
+    },
+    {
+      "title": "King Charles calls on Nvidia, OpenAI chiefs to control AI",
+      "description": "King Charles urges AI leaders to ensure technology remains beneficial and safe, addressing global concerns about its impact on humanity.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+      "source": "Bloomberg",
+      "publishedAt": "2026-09-17T08:55:20Z"
+    },
+    {
+      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+      "description": "OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated.",
+      "url": "https://nypost.com/2026/09/17/tech/openai-flags-new-concerning-ai-behavior-to-track-model-misalignment-regularly",
+      "source": "New York Post",
+      "publishedAt": "2026-09-17T08:35:53Z"
+    },
+    {
+      "title": "How Anthropic brought the public voice into its AI strategy",
+      "description": "Business challenge\nAs artificial intelligence’s impact on the world continues to grow, Anthropic wanted to understand what Americans hope the technology will deliver, what they fear, and how they expect it to be developed and governed.\nAnthropic needed eviden…",
+      "url": "https://biztoc.com/x/ccf3d1c5730115ad",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T08:19:22Z"
+    },
+    {
+      "title": "Huawei quickens AI chip pace, promises next entrant 3 quarters early",
+      "description": "Huawei Technologies said on Thursday that it would launch its next-generation artificial intelligence chip in the first quarter of 2027, moving the target launch forward by nine months as the firm aggressively expands its ecosystem amid China’s self-sufficien…",
+      "url": "https://biztoc.com/x/8e033480b9705a64",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T06:48:47Z"
+    },
+    {
+      "title": "OpenAI reveals six new cases of AI misbehavior, vows transparency",
+      "description": "OpenAI published six reports of unexpected or unauthorized behavior by its artificial intelligence models on Sept. 16 and pledged to disclose such incidents more systematically.",
+      "url": "https://www.hurriyetdailynews.com/openai-reveals-six-new-cases-of-ai-misbehavior-vows-transparency-226975",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-17T06:45:11Z"
+    },
+    {
+      "title": "OpenAI says it found more instances of AI models acting deceptively",
+      "description": "OpenAI found additional incidents of AI models acting deceptively and taking unsanctioned actions during training, the company announced Wednesday. It’s also introducing a new process for the company to publicly report such instances.\nUnder the new system, Op…",
+      "url": "https://biztoc.com/x/31e2c25cebffb763",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T06:34:03Z"
+    },
+    {
+      "title": "JPMorgan sets $2K monthly spending limits for Claude Code use",
+      "description": "JPMorgan's spending cap on AI tools highlights the growing need for financial institutions to balance innovation with cost control and security.\nThe post JPMorgan sets $2K monthly spending limits for Claude Code use appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jpmorgan-claude-code-spending-limits",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-17T10:11:03Z"
+    },
+    {
+      "title": "OpenAI finds 6 new cases of ‘concerning’ AI behavior",
+      "description": "OpenAI also rolled out a new framework to track, investigate and disclose what it describes as \"misalignment\" failures.",
+      "url": "https://www.politico.eu/article/openai-flags-six-new-cases-of-concerning-ai-behavior",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-09-17T09:52:05Z"
+    },
+    {
+      "title": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it",
+      "description": "Open AI CEO Sam Altman speaks during Snowflake Summit 2025 at Moscone Center on June 02, 2025 in San Francisco, California. Snowflake Summit 2025 runs through June 5th.",
+      "url": "https://biztoc.com/x/b0dd8b4aa87a4d59",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T09:50:16Z"
+    },
+    {
+      "title": "Anthropic CEO’s China AI Curbs Draw Criticism as ‘Hostile’ and ‘Groundless’",
+      "description": "US AI company Anthropic CEO Dario Amodei claimed in an article published on Saturday, US time, that \"Chinese lead in AI would pose grave danger for the US and the world\" while calling for a series of measures to restrict China's development in the booming fie…",
+      "url": "https://sputnikglobe.com/20260917/anthropic-ceos-china-ai-curbs-draw-criticism-as-hostile-and-groundless-1124751053.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-17T09:45:34Z"
+    },
+    {
+      "title": "OpenAI flags 6 new incidents of ‘concerning’ behavior and unveils plan to track it",
+      "description": "OpenAI has disclosed six new incidents of “unexpected or concerning” behavior by its artificial intelligence models.",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-new-incidents-concerning-behavior-model-misalignment-rcna598277",
+      "source": "NBC News",
+      "publishedAt": "2026-09-17T09:32:21Z"
+    },
+    {
+      "title": "Think you can spot a ChatGPT image? Take my real-or-AI quiz and see how many fool you",
+      "description": "ChatGPT can now create eerily realistic images. I mixed them with my own travel photos, can you spot the fakes?",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/think-you-can-spot-a-chatgpt-image-take-my-real-or-ai-quiz-and-see-how-many-fool-you",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-17T09:07:39Z"
+    },
+    {
+      "title": "OpenAI Says This Is When and How It Will Announce New Model Misbehavior",
+      "description": "Spooky AI misbehavior stories will now arrive in a more systematized way.",
+      "url": "https://gizmodo.com/openai-says-this-is-when-and-how-it-will-announce-new-model-misbehavior-2000812920",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-09-17T09:00:20Z"
+    },
+    {
+      "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia",
+      "description": "Chinese technology giant Huawei has launched new chip technologies as it challenges leading global companies such as Nvidia",
+      "url": "https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-17T08:57:24Z"
+    },
+    {
+      "title": "RPCS3 announces exciting news for Nvidia GPUs, promises much faster performance",
+      "description": "RPCS3 PlayStation 3 emulator is continuously getting better thanks to the tireless efforts of developers worldwide. The RPCS3 has now announced a massive news for Nvidia GPU owners, as a performance-reducing bug has been resolved.",
+      "url": "https://www.notebookcheck.net/RPCS3-announces-exciting-news-for-Nvidia-GPUs-promises-much-faster-performance.1401635.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-17T08:26:00Z"
+    },
+    {
+      "title": "OpenAI reveals six new cases of AI misbehaviour, vows transparency",
+      "description": "OpenAI has disclosed six new cases of AI misbehaviour and pledged greater transparency, following calls from industry leaders to slow down AI development.\n\nRead More: https://punchng.com/openai-reveals-six-new-cases-of-ai-misbehaviour-vows-transparency/",
+      "url": "https://punchng.com/openai-reveals-six-new-cases-of-ai-misbehaviour-vows-transparency",
+      "source": "The Punch",
+      "publishedAt": "2026-09-17T08:08:02Z"
+    },
+    {
+      "title": "OpenAI reveals 6 more incidents of \"unexpected or concerning\" AI behavior",
+      "description": "OpenAI has disclosed six reports of \"unexpected or concerning\" behavior in models as becomes increasingly heated.\nThe AI company also said Wednesday it was introducing a new framework for tracking, probing and disclosing instances of what it called \"misalignm…",
+      "url": "https://biztoc.com/x/d4f81213852db9da",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T08:04:14Z"
+    },
+    {
+      "title": "Bloomberg: From lignite to artificial intelligence, Kozani is betting on data centers for the new era",
+      "description": "PPC is investing €5.8 billion to transform the former heart of lignite production into a hub for technology and clean energy – The hopes, fears and big gamble of Western Macedonia\nThe post Bloomberg: From lignite to artificial intelligence, Kozani is betting …",
+      "url": "https://en.protothema.gr/2026/09/17/bloomberg-from-lignite-to-artificial-intelligence-kozani-is-betting-on-data-centers-for-the-new-era",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-09-17T08:01:36Z"
+    },
+    {
+      "title": "OpenAI reveals new cases of AI models cheating, going off script - The Washington Post",
+      "description": "OpenAI reveals new cases of AI models cheating, going off scriptThe Washington Post Our framework for reporting model misalignmentOpenAI OpenAI discloses new ‘concerning’ model behaviourFinancial Times OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. B…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185677794",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T07:52:39Z"
+    },
+    {
+      "title": "The Trump-Jensen speakerphone diplomacy: how Nvidia turned political pressure into a seat at the table",
+      "description": "The relationship between Nvidia CEO Jensen Huang and US President Donald Trump has evolved from policy friction to a strategic alignment. The rapid shift in their dynamic reflects how deeply the AI sector has become intertwined with US-China technology rivalr…",
+      "url": "https://www.digitimes.com/news/a20260917PD220/jensen-huang-nvidia-ceo-policy-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T07:34:34Z"
+    },
+    {
+      "title": "ChatGPT stops switching to Thinking by itself on Plus and Pro",
+      "description": "OpenAI has turned off automatic escalation to Thinking for ChatGPT Plus and Pro. Asking the model to think harder no longer changes anything. The stronger answer is still there, but you have to pick the level yourself. Plus accounts also run into a ceiling be…",
+      "url": "https://www.notebookcheck.net/ChatGPT-stops-switching-to-Thinking-by-itself-on-Plus-and-Pro.1401634.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-17T07:05:00Z"
+    },
+    {
+      "title": "OpenAI Admits Six More Instances of AI Models Acting Deceptively",
+      "description": "OpenAI announced Wednesday that \"We do not believe that the AI industry has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.\" \n\n\nBut along with the announcement, OpenAI announced it \"foun…",
+      "url": "https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T07:04:00Z"
+    },
+    {
+      "title": "AppleはNVIDIAのNVLink Fusionを介して接続されたM8 Ultraチップを使用したAIサーバーを開発しており外部に販売することも計画中",
+      "description": "AppleがNVIDIAのNVLink Fusionを用いて接続したM8 Ultraを搭載したAIサーバーを開発していると、The Informationが報じています。Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - The Informationhttps://www.theinformation.com/articles/apple-considers-return-server-mar…",
+      "url": "https://news.livedoor.com/article/detail/32350098",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-17T06:49:00Z"
+    },
+    {
+      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+      "description": "OpenAI has disclosed six reports on unexpected or concerning behavior in artificial-intelligence models. This includes models acting without authorization or evading oversight.",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+      "source": "NPR",
+      "publishedAt": "2026-09-17T06:44:49Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "OpenAI reveals 6 more incidents of \"unexpected or concerning\" AI behavior",
+      "Anthropic CEO Dario Amodei’s antitrust waiver proposal faces skepticism in Washington",
+      "OpenAI, Anthropic CEOs call to slow AI development surprises staff: FT",
+      "Hyperscale Data Provides Update on Progress of Michigan AI Data Center; More Than $70 Million Invested in Alliance Cloud Services and the Michigan Facility"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+        "https://www.cbsnews.com/news/openai-6-more-incidents-unexpected-or-concerning-ai-behavior",
+        "https://cryptobriefing.com/openai-anthropic-ceos-call-to-slow-ai-development-surprises-staff-ft"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/hyperscale-data-provides-update-on-progress-of-michigan-ai-data-center-more-than-70-million-invested-in-alliance-cloud-services-and-the-michigan-facility-302881334.html",
+        "https://biztoc.com/x/ccf3d1c5730115ad",
+        "https://biztoc.com/x/8e033480b9705a64"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/anthropic-amodei-antitrust-waiver-skepticism",
+        "https://www.digitimes.com/news/a20260917PD233/nvidia-amd-high-end-software-accelerator.html",
+        "https://www.drupal.org/project/llm_enhanced_search"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

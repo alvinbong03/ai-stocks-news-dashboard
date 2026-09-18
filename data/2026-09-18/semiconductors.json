@@ -1,0 +1,438 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-18",
+  "last_updated_utc": "2026-09-18T10:26:15.750Z",
+  "news": [
+    {
+      "title": "Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand",
+      "description": "End-to-end autonomous driving has become the mainstream technology path, and the inference demand created by Physical AI in autonomous driving systems is, in turn, reshaping automotive system-on-chip (SoC) design.",
+      "url": "https://www.digitimes.com/reports/item.php?id=20260917RS400",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T10:24:31Z"
+    },
+    {
+      "title": "MediaTek Dimensity 9600M is also official",
+      "description": "Earlier this week, MediaTek announced its latest flagship chipset – the Dimensity 9600 Pro and it turns out that’s not the only new SoC from the maker. The Dimensity 9600M is an upcoming chip that’s bringing some software and AI features from the 9600 Pro to …",
+      "url": "https://www.gsmarena.com/mediatek_dimensity_9600m_is_also_official-news-74657.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-09-17T10:21:02Z"
+    },
+    {
+      "title": "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "description": "Charles will convene senior tech leaders today as the debate around the risks involved in AI development ramps up.",
+      "url": "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-17T10:15:56Z"
+    },
+    {
+      "title": "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
+      "description": "The post 3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again appeared first on 24/7 Wall St..\nThree names have quietly turned patient shareholders into wealthy ones, and each still has a specific forward case worth mapping out heading into …",
+      "url": "https://biztoc.com/x/c401d23c426beabf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T10:05:16Z"
+    },
+    {
+      "title": "EcoVadis and Kearney Report: Unreliable Supplier Data May Cause Companies to Underestimate Supply Chain Emissions by Up to 3x",
+      "description": "As the cost of supply chain disruptions rise, large enterprises using unreliable data for Scope 3 calculations face a blind spot worth an estimated $135 million a year by 2030 PARIS and NEW YORK, Sept. 17, 2026 /PRNewswire/ -- The 2026 Carbon Action Report fr…",
+      "url": "https://www.prnewswire.com/news-releases/ecovadis-and-kearney-report-unreliable-supplier-data-may-cause-companies-to-underestimate-supply-chain-emissions-by-up-to-3x-302881090.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "title": "Anisotropic magnons in the layered honeycomb ferromagnet ${\\mathrm{CrSiTe}}_{3}$",
+      "description": "Recent experimental and theoretical studies have suggested a possible Dirac magnon gap in the two-dimensional ferromagnetic semiconductor ${\\mathrm{CrSiTe}}_{3}$. Detailed neutron scattering measurements were performed to shed light on the existence of the ma…",
+      "url": "https://link.aps.org/doi/10.1103/c7bd-ghcb",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "title": "Transcript: How Purple-State Democrats Should Talk About Trans Issues",
+      "description": "This is a lightly edited transcript of the September 16 edition of Right Now With Perry Bacon. You can watch the video here or by following this show on YouTube or Substack.Perry Bacon: Good morning. I’m Perry Bacon. I’m the host of Right Now on The New Repub…",
+      "url": "https://newrepublic.com/article/215494/transcript-purple-state-democrats-talk-trans-issues",
+      "source": "The New Republic",
+      "publishedAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "title": "AMD pivots to China developer ecosystems as Nvidia retreats",
+      "description": "As Nvidia gradually retreats from China's high-end AI accelerator market amid strict US export controls, Advanced Micro Devices (AMD) is deepening its regional AI strategy. Rather than relying solely on traditional CPU and GPU sales, AMD is shifting its focus…",
+      "url": "https://www.digitimes.com/news/a20260917PD233/nvidia-amd-high-end-software-accelerator.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T09:59:19Z"
+    },
+    {
+      "title": "Modi pitches India as global chipmaking hub",
+      "description": "NEW DELHI: Prime Minister Narendra Modi pitched India as a new global hub for semiconductor production on Thursday (Sep 17), urging technology firms to invest in what he called a \"reliable\" location.\"Chips from Indian plants are reaching customers in India an…",
+      "url": "https://www.channelnewsasia.com/business/modi-pitches-india-global-chipmaking-hub-6391456",
+      "source": "CNA",
+      "publishedAt": "2026-09-17T09:57:06Z"
+    },
+    {
+      "title": "Huawei unveils what it calls the industry’s first NPO-based Ascend 960 supernode",
+      "description": "Huawei said at Huawei Connect 2026 in Shanghai that more than 1,000 Ascend 910C supernodes have been deployed and that Ascend 950 supernodes have entered commercial use. The company also said development of its Ascend 960 chip is ahead of schedule, with the 9…",
+      "url": "https://technode.com/2026/09/17/huawei-npo-based-ascend-960-supernode",
+      "source": "TechNode",
+      "publishedAt": "2026-09-17T09:56:33Z"
+    },
+    {
+      "title": "Japan, US Hold Talks on Potential $19 Billion Semiconductor Plant",
+      "description": "Japan and the U.S. hold talks on a potential $19 billion semiconductor plant, with GlobalFoundries expected to operate the facility.",
+      "url": "https://biztoc.com/x/96373e14cf3c4fc5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T09:50:01Z"
+    },
+    {
+      "title": "Govt to target 200 chip design startups, firms under Semicon 2.0: Vaishnaw",
+      "description": "The government will target at least 200 startups and companies designing chips in India under the next phase of the country's semiconductor mission, Semicon 2.0, Union Minister for Electronics and Information Technology Ashwini Vaishnaw said on Thursday.\nAddr…",
+      "url": "https://www.business-standard.com/industry/news/govt-to-target-200-chip-design-startups-firms-under-semicon-2-0-vaishnaw-126091700606_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T09:28:07Z"
+    },
+    {
+      "title": "SK Hynix looks beyond HBM as inference workloads diversify",
+      "description": "SK Hynix is expanding its memory strategy beyond the conventional GPU-HBM pairing as inference workloads split between latency-sensitive services and capacity-heavy, long-context applications.",
+      "url": "https://www.digitimes.com/news/a20260917VL225/sk-hynix-hbm-data-capacity-cost.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T09:27:29Z"
+    },
+    {
+      "title": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
+      "description": "AMD is preparing for a series of price hikes in response to rising costs of acquiring silicon from its supply chain. According to ChannelGate, AMD is working on a 10% price increase across its products due to the upstream supply chain squeeze. Since most of A…",
+      "url": "https://www.techpowerup.com/352788/amd-plans-10-price-hike-across-gpus-chipsets-and-possibly-cpus",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-17T09:15:22Z"
+    },
+    {
+      "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
+      "description": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185678250",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T09:13:22Z"
+    },
+    {
+      "title": "Huawei Speeds Up AI Chip Launch to Challenge Nvidia",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia",
+      "source": "The Information",
+      "publishedAt": "2026-09-17T09:05:30Z"
+    },
+    {
+      "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia",
+      "description": "Chinese technology giant Huawei has launched new chip technologies as it challenges leading global companies such as Nvidia",
+      "url": "https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-17T08:57:24Z"
+    },
+    {
+      "title": "Lenovo ThinkPad T14 Core Ultra 5 225U 14\" Laptop for $1,409 + free shipping",
+      "description": "Newegg offers the Lenovo ThinkPad T14 Core Ultra 5 225U 14\" Laptop for $1409. That's a savings of $710. Shipping is free. Buy Now at Newegg\r\n Features\r\n <ul> <li>Intel Core Ultra 5 225U processor with integrated Intel graphics</li> <li>32GB DDR5 memory and 1T…",
+      "url": "https://www.dealnews.com/Lenovo-Think-Pad-T14-Core-Ultra-5-225-U-14-Laptop-for-1-409-free-shipping/22192034.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-17T08:57:19Z"
+    },
+    {
+      "title": "King Charles calls on Nvidia, OpenAI chiefs to control AI",
+      "description": "King Charles urges AI leaders to ensure technology remains beneficial and safe, addressing global concerns about its impact on humanity.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+      "source": "Bloomberg",
+      "publishedAt": "2026-09-17T08:55:20Z"
+    },
+    {
+      "title": "He Accidentally Opened the Chips and Salsa for a Birthday Party — The Parents Got Furious, Even With a Discount and Free Replacement",
+      "description": "You just can't please some people. \nThe post He Accidentally Opened the Chips and Salsa for a Birthday Party — The Parents Got Furious, Even With a Discount and Free Replacement appeared first on TwistedSifter.",
+      "url": "https://twistedsifter.com/2026/09/he-accidentally-opened-the-chips-and-salsa-for-a-birthday-party-the-parents-got-furious-even-with-a-discount-and-free-replacement",
+      "source": "Twistedsifter.com",
+      "publishedAt": "2026-09-17T08:55:02Z"
+    },
+    {
+      "title": "India now has five semiconductor units in production, ISM 2.0 to build wider ecosystem: MeitY secretary",
+      "description": "India now has five semiconductor units operational and producing chips.  The India Semiconductor Mission's second phase will build a broader domestic ecosystem.  This expansion focuses on developing capabilities across the entire chip value chain.  SEMICON In…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-now-has-five-semiconductor-units-in-production-ism-2-0-to-build-wider-ecosystem-meity-secretary/articleshow/134306578.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-17T08:54:43Z"
+    },
+    {
+      "title": "Tariffs, supply risks push Indian auto parts makers to build beyond China",
+      "description": "Indian auto parts makers are expanding global manufacturing and engineering capabilities. This shift addresses automakers' needs for diversified sourcing strategies and supply chain flexibility. Companies are developing products in one location and manufactur…",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-components/tariffs-supply-risks-push-indian-auto-parts-makers-to-build-beyond-china/articleshow/134306479.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-17T08:51:44Z"
+    },
+    {
+      "title": "TCS rolls out custom chip design services for automotive, semiconductor sectors",
+      "description": "The custom System-on-Chips will enable automakers to align compute capabilities with software requirements, enhance performance-per-watt, and differentiate user experiences and vehicle applications.",
+      "url": "https://www.thehindubusinessline.com/companies/tcs-rolls-out-custom-chip-design-services-for-automotive-semiconductor-sectors/article71475939.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-17T08:50:50Z"
+    },
+    {
+      "title": "ASUS VY279HGR 27\" 1080p Monitor for $100 + free shipping",
+      "description": "Newegg offers the ASUS VY279HGR 27\" 1080p Monitor for $100. That price matches the all-time low seen on Amazon and beats Amazon's current price of $136.  Buy Now at Newegg\r\n Features\r\n <ul> <li>27\" Full HD 1080P IPS panel with 120Hz overclockable refresh rate…",
+      "url": "https://www.dealnews.com/ASUS-VY279-HGR-27-1080-p-Monitor-for-100-free-shipping/22192032.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-17T08:49:47Z"
+    },
+    {
+      "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
+      "description": "WEDA and ACC simplify development and accelerate scalable Edge AI deployment across diverse hardware platforms TAIPEI, Sept. 17, 2026 /PRNewswire/ -- Advantech Co., Ltd. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI…",
+      "url": "https://www.prnewswire.com/news-releases/advantech-expands-weda-powered-edge-ai-ecosystem-with-intel-qualcomm-and-amd-302881810.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-17T08:47:00Z"
+    },
+    {
+      "title": "Applied Materials to invest $5 billion in India over next decade",
+      "description": "Applied Materials, one of the world's largest semiconductor equipment makers, ​said its India investment will center on research, supply chain scale-up and workforce growth",
+      "url": "https://www.business-standard.com/companies/news/applied-materials-to-invest-5-billion-in-india-over-next-decade-126091700558_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T08:41:11Z"
+    },
+    {
+      "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
+      "description": "GPUzilla woos neoclouds into another walled garden, promising smarter, more efficient, and profitable bit barns",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185678022",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T08:33:41Z"
+    },
+    {
+      "title": "King Charles to urge AI leaders to protect humanity at Scottish meeting",
+      "description": "CUMNOCK, Scotland, Sept 17 : Britain's King Charles will urge leading artificial intelligence executives to ensure the technology remains \"firmly in the service of humanity\" when he meets them in Scotland on Thursday, as warnings mount about AI's potential ri…",
+      "url": "https://www.channelnewsasia.com/business/king-charles-urge-ai-leaders-protect-humanity-scottish-meeting-6391521",
+      "source": "CNA",
+      "publishedAt": "2026-09-17T08:33:05Z"
+    },
+    {
+      "title": "Trumpf eyes glass as AI demand drives packaging innovation",
+      "description": "At the China International Optoelectronic Expo (CIOE), representatives from German laser and plasma generator maker Trumpf offered a glimpse into the company's push to extend its laser solutions to advanced chip packaging, specifically for drilling holes in g…",
+      "url": "https://www.digitimes.com/news/a20260917VL220/packaging-demand-laser-expo-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T08:32:47Z"
+    },
+    {
+      "title": "RPCS3 announces exciting news for Nvidia GPUs, promises much faster performance",
+      "description": "RPCS3 PlayStation 3 emulator is continuously getting better thanks to the tireless efforts of developers worldwide. The RPCS3 has now announced a massive news for Nvidia GPU owners, as a performance-reducing bug has been resolved.",
+      "url": "https://www.notebookcheck.net/RPCS3-announces-exciting-news-for-Nvidia-GPUs-promises-much-faster-performance.1401635.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-17T08:26:00Z"
+    },
+    {
+      "title": "Tata Electronics to sign 16 pacts at SEMICON India, says CEO Thakur",
+      "description": "Tata Electronics will be signing 16 agreements at the SEMICON India conference with players across Europe, Japan, Singapore, and India, CEO Randhir Thakur said on Thursday, adding that the company's 'fab' in Dholera, Gujarat and the packaging facility in Assa…",
+      "url": "https://www.business-standard.com/industry/news/tata-electronics-to-sign-16-pacts-at-semicon-india-says-ceo-thakur-126091700501_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T08:22:32Z"
+    },
+    {
+      "title": "Chip stocks spark up as SEMICON India 2026 kicks off in New Delhi",
+      "description": "Semiconductor and electronics manufacturing stocks were in demand on Thursday, 17 September 2026, as SEMICON India 2026 got underway at Yashobhoomi in New Delhi.",
+      "url": "https://www.business-standard.com/markets/capital-market-news/chip-stocks-spark-up-as-semicon-india-2026-kicks-off-in-new-delhi-126091700546_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T08:20:02Z"
+    },
+    {
+      "title": "Topview sees supply-chain shifts supporting orders as AI investment reshapes its outlook",
+      "description": "Topview Optronics said shifts tied to artificial intelligence are helping it secure orders through the end of 2026, even as it continues to contend with memory shortages and rising component costs. The surveillance equipment maker said it is accelerating its …",
+      "url": "https://www.digitimes.com/news/a20260917PD205/2026-surveillance-production-equipment-component.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T08:20:00Z"
+    },
+    {
+      "title": "US, Japan could build chip factory",
+      "description": "The United States and Japan are discussing opening a semiconductor factory as part of Japan's $550 billion investment agreement with the Trump administration, Nikkei reported on Thursday, citing offic...",
+      "url": "https://biztoc.com/x/c0f1e1de5941e211",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-17T08:19:41Z"
+    },
+    {
+      "title": "CXMT cashes in on the DRAM shortage — and takes aim at HBM",
+      "description": "ChangXin Memory Technologies (CXMT) is emerging from the memory shortage with sharply higher profits and greater pricing power, giving China's largest DRAM maker more resources to expand into LPDDR6 and high-bandwidth memory (HBM) while China's domestic memor…",
+      "url": "https://www.digitimes.com/news/a20260917VL219/cxmt-dram-hbm-supply-chain-emerging-memory.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T08:19:24Z"
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac - The Verge",
+      "description": "Snap is launching a new Specs AI tool, and it’s coming to iOS and MacThe Verge Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and SalesforceCNBC I wore Snap’s $2,200 smart glassesThe Verge Making Computing More Human with SPE…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185677886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-17T08:12:33Z"
+    },
+    {
+      "title": "TSMC reconsiders 12-inch equipment donation as Taiwan overhauls scope of research partnership",
+      "description": "TSMC's planned donation of 12-inch equipment is facing changes as the government adjusts the scope of a semiconductor collaboration project, while Taiwan's National Science and Technology Council (NSTC) has not yet approved the related 2027 budget. NSTC Minis…",
+      "url": "https://www.digitimes.com/news/a20260917PD225/tsmc-equipment-12-inch-taiwan-itri.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T08:11:45Z"
+    },
+    {
+      "title": "Will raise my India allocation once semiconductor stocks peak: Chris Wood",
+      "description": "Over a five- or 10-year view, if I were an Indian mutual fund investor, it makes sense to allocate half of your inflows into small- and mid-cap funds, Wood said.",
+      "url": "https://www.business-standard.com/markets/news/will-raise-my-india-allocation-once-semiconductor-stocks-peak-chris-wood-126091700520_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T08:02:50Z"
+    },
+    {
+      "title": "Sony’s Project Canis PS6 Handheld Leaks Unveil 540p Base Rendering, Yet PSSR 3.0 Nearly Matches PS5 Pro Power",
+      "description": "PC hardware website GameGPU has shared a leak about the PS6 handheld, known by its codename Project Canis and referred to as \"PSP 3\" in the article. The article recaps the handheld console's specs: a custom 3-nanometer AMD Canis processor featuring six Zen 6 …",
+      "url": "https://wccftech.com/sony-project-canis-ps6-handheld-leak-pssr-3-ps5-pro",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-17T08:00:00Z"
+    },
+    {
+      "title": "Memory LTAs lock up 50-70% of capacity",
+      "description": "The memory industry remains in short supply, and major chipmakers are raising the share of capacity committed to long-term supply agreements (LTAs) while extending their duration from three to five years, with many in the industry expecting 2027 to be the tig…",
+      "url": "https://www.digitimes.com/news/a20260917PD213/capacity-demand-2026-2027-market.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T07:51:36Z"
+    },
+    {
+      "title": "The Trump-Jensen speakerphone diplomacy: how Nvidia turned political pressure into a seat at the table",
+      "description": "The relationship between Nvidia CEO Jensen Huang and US President Donald Trump has evolved from policy friction to a strategic alignment. The rapid shift in their dynamic reflects how deeply the AI sector has become intertwined with US-China technology rivalr…",
+      "url": "https://www.digitimes.com/news/a20260917PD220/jensen-huang-nvidia-ceo-policy-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-17T07:34:34Z"
+    },
+    {
+      "title": "US Should Not Fund Ukraine Conflict - Texas Congressman",
+      "description": "WASHINGTON (Sputnik) - The United States should not spend significant financial resources on the conflict in Ukraine, let alone pay for it with the lives of its citizens, Chip Roy, a Republican member of the House of Representatives from Texas, said in an int…",
+      "url": "https://sputnikglobe.com/20260917/us-should-not-fund-ukraine-conflict---texas-congressman-1124749847.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-17T07:18:11Z"
+    },
+    {
+      "title": "India preparing to become trusted hub for global chip manufacturing: Modi",
+      "description": "Prime Minister Narendra Modi on Thursday pitched India as a trusted destination for global chip manufacturing and said the government is taking all measures to ensure the industry's success through enabling policies and frameworks.\nSpeaking at the inauguratio…",
+      "url": "https://www.business-standard.com/industry/news/india-s-semiconductor-ecosystem-expanding-opening-new-opportunities-for-investment-growth-pm-126091700417_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-17T07:09:50Z"
+    },
+    {
+      "title": "Semicon India 2.0: Infineon CEO calls India key semiconductor market, expands workforce by 28%",
+      "description": "Highlighting the vital role of India in the global market, Infineon Technologies CEO Jochen Hanebeck remarked on the exciting advancements within the country's chip ecosystem propelled by robust economic growth. Infineon is increasingly confident in its India…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/semicon-india-2-0-infineon-ceo-calls-india-key-semiconductor-market-expands-workforce-by-28/articleshow/134304509.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-17T07:09:17Z"
+    },
+    {
+      "title": "India prepares to become preferred destination for semiconductor manufacturing: PM",
+      "description": "12 semiconductor projects approved; India Semiconductor Mission 2.0 outlay raised to $13.5 billion",
+      "url": "https://www.thehindubusinessline.com/info-tech/india-prepares-to-become-preferred-destination-for-semiconductor-manufacturing-pm/article71475673.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-17T07:09:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand",
+      "MediaTek Dimensity 9600M is also official",
+      "King Charles to press Nvidia, OpenAI, Anthropic leaders on AI safety at summit",
+      "3 Stocks That Have Made Long-Term Investors Rich and Could Do It Again",
+      "EcoVadis and Kearney Report: Unreliable Supplier Data May Cause Companies to Underestimate Supply Chain Emissions by Up to 3x"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/reports/item.php?id=20260917RS400",
+        "https://www.gsmarena.com/mediatek_dimensity_9600m_is_also_official-news-74657.php",
+        "https://technode.com/2026/09/17/huawei-npo-based-ascend-960-supernode"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://link.aps.org/doi/10.1103/c7bd-ghcb",
+        "https://www.channelnewsasia.com/business/modi-pitches-india-global-chipmaking-hub-6391456",
+        "https://biztoc.com/x/96373e14cf3c4fc5"
+      ]
+    },
+    {
+      "title": "India",
+      "summary": "Grouped stories where \"india\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/industry/news/tata-electronics-to-sign-16-pacts-at-semicon-india-says-ceo-thakur-126091700501_1.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cnbc.com/2026/09/17/king-charles-nvidia-openai-anthropic-ai.html",
+        "https://www.digitimes.com/news/a20260917PD233/nvidia-amd-high-end-software-accelerator.html",
+        "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/c401d23c426beabf",
+        "https://www.prnewswire.com/news-releases/ecovadis-and-kearney-report-unreliable-supplier-data-may-cause-companies-to-underestimate-supply-chain-emissions-by-up-to-3x-302881090.html",
+        "https://newrepublic.com/article/215494/transcript-purple-state-democrats-talk-trans-issues"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
