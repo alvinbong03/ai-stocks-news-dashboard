@@ -1,0 +1,366 @@
+{
+  "theme": "ai",
+  "date": "2026-09-19",
+  "last_updated_utc": "2026-09-19T10:10:30.333Z",
+  "news": [
+    {
+      "title": "OpenAI tightens AI safety rules as Claude exposes flaws in its systems",
+      "description": "Researchers using Anthropic's Claude uncovered vulnerabilities in OpenAI systems, while OpenAI has reported cases of its own models bypassing technical safeguards",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-tightens-ai-safety-rules-as-claude-exposes-flaws-in-its-systems-126091800435_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-18T06:46:12Z"
+    },
+    {
+      "title": "Anthropic eyes IPO despite AI safety warnings",
+      "description": "Anthropic is expected to launch an initial public offering later this year despite warnings about the risks of advanced artificial intelligence, while rival OpenAI has delayed its planned listing until 2027.",
+      "url": "https://www.hurriyetdailynews.com/anthropic-eyes-ipo-despite-ai-safety-warnings-227015",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-18T06:34:57Z"
+    },
+    {
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+      "description": "Anthropic and OpenAI are hunting for smaller AI data center deals, sources told CNBC, as the race to access the infrastructure needed to deploy workloads ramps up.\nThe two AI labs have both inked huge deals for AI data centers in the past year for facilities …",
+      "url": "https://biztoc.com/x/768468be8f4cbd2a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-18T09:46:07Z"
+    },
+    {
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+      "description": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms.",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-18T09:38:17Z"
+    },
+    {
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+      "description": "Anthropic said Claude \"leads\" 26% of the artificial intelligence research and development work inside the company, part of ​new measures that it will publish regularly to show outsiders ‌how quickly AI is building the next generation of ​the technology.",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models/article71479194.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-18T07:34:14Z"
+    },
+    {
+      "title": "Anthropic establishes biology lab for Claude’s drug R&D experiments",
+      "description": "Anthropic's integration of AI in drug R&D could revolutionize treatments for rare diseases, potentially lowering costs and accelerating discovery.\nThe post Anthropic establishes biology lab for Claude’s drug R&D experiments appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-biology-lab-claude-drug-research",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-18T10:08:35Z"
+    },
+    {
+      "title": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/09/18/open-ai-hacked-anthropic-claude-source-code-6500-reward",
+      "source": "Fortune",
+      "publishedAt": "2026-09-18T10:04:54Z"
+    },
+    {
+      "title": "OpenAI, Anthropic eye 20-30 MW AI clusters in UK, Nordics for expansion",
+      "description": "The expansion of AI clusters by OpenAI and Anthropic could reshape competitive dynamics, influencing AI benchmark standings and market perceptions.\nThe post OpenAI, Anthropic eye 20-30 MW AI clusters in UK, Nordics for expansion appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/openai-anthropic-eye-20-30-mw-ai-clusters-in-uk-nordics-for-expansion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-18T09:51:47Z"
+    },
+    {
+      "title": "Anthropic warns AI is getting closer to building its own successor",
+      "description": "Anthropic says its Claude chatbot now leads more than a quarter of the company's research and development, as fears grow that AI systems could soon improve themselves faster than humans can keep up.",
+      "url": "https://biztoc.com/x/54a7d814f3a8621d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-18T09:46:06Z"
+    },
+    {
+      "title": "AI systems moving towards building themselves - Anthropic",
+      "description": "Artificial intelligence giant Anthropic has said that AI systems are increasingly capable of building future versions of themselves, adding to mounting concerns about the dangers of the powerful technology.",
+      "url": "https://www.rte.ie/news/world/2026/0918/1592048-anthropic-ai-us",
+      "source": "RTE",
+      "publishedAt": "2026-09-18T09:42:39Z"
+    },
+    {
+      "title": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude - forbes.com",
+      "description": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claudeforbes.com Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAIWSJ OpenAI breached by researchers using Anthropic modelsFinancial Times This tiny cybersecurity startup managed to hack…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185689926",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-18T09:32:27Z"
+    },
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "description": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The developer likely wrote the malware using a large language model (…",
+      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "source": "Internet",
+      "publishedAt": "2026-09-18T09:18:03Z"
+    },
+    {
+      "title": "White Hat Hackers Breached OpenAI Using Anthropic's Software - Reports",
+      "description": "MOSCOW (Sputnik) - White hat hackers were able to gain access to the internal data of artificial intelligence developer OpenAI using software of its competitor Anthropic, media reported on Friday, citing OpenAI.",
+      "url": "https://sputnikglobe.com/20260918/white-hat-hackers-breached-openai-using-anthropics-software---reports-1124755280.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-18T09:10:50Z"
+    },
+    {
+      "title": "Claude Opus 5 helped researchers hack OpenAI in less than 72 hours",
+      "description": "Security researchers used Anthropic's Claude Opus 5 to help break into OpenAI's systems, access an employee account and expose internal repository access.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113622/claude-opus-5-helped-researchers-hack-openai-in-less-than-72-hours/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-18T07:52:07Z"
+    },
+    {
+      "title": "Anthropic Adds a Coordinator to Claude Projects for Running AI Work in Parallel",
+      "description": "Claude Projects is turning parallel AI coding into an orchestrated development workflow — splitting work across agents, preserving project context and bringing every change back through familiar PR review gates. #Claude #ClaudeCode #Anthropic #AgenticAI #DevO…",
+      "url": "https://devops.com/anthropic-adds-a-coordinator-to-claude-projects-for-running-ai-work-in-parallel",
+      "source": "DevOps.com",
+      "publishedAt": "2026-09-18T07:21:35Z"
+    },
+    {
+      "title": "$4.6 billion NVIDIA importer linked to supply network funneling restricted NVIDIA AI chips into China",
+      "description": "Report reveals how restricted NVIDIA AI GPUs continue reaching China through universities, Southeast Asian trade routes and opaque corporate networks.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113621/dollars4-6-billion-nvidia-importer-linked-to-supply-network-funneling-restricted-nvidia-ai-chips-into-china/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-18T07:20:04Z"
+    },
+    {
+      "title": "This tiny cybersecurity startup managed to hack OpenAI using Claude, and won a $6,500 bounty",
+      "description": "An AI startup found vulnerabilities in OpenAI's infrastructure.\nillustration by Leon Neal/Getty Images\nHacktron, a small cybersecurity startup, hacked into OpenAI's codebase with the help of Claude.\nThe company flagged vulnerabilities in OpenAI's systems and …",
+      "url": "https://biztoc.com/x/1927f272a3e302b2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-18T07:00:03Z"
+    },
+    {
+      "title": "Anthropic Says Claude Now Leads 26% of Its Research",
+      "description": "Anthropic says its Claude chatbot is now a key architect of its own successors, the Washington Post reports. The AI company reported Thursday that Claude is \"leading\" about 26% of its research and development tasks—with humans largely supervising—up from 0% i…",
+      "url": "https://www.newser.com/story/396640/anthropic-says-claude-now-leads-26-of-its-research.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-18T06:15:00Z"
+    },
+    {
+      "title": "Bill Gates Calls for International AI Regulation, Cites “Alien Intelligence” Risk",
+      "description": "Microsoft co-founder Bill Gates said in a Reuters interview published Tuesday, Sept. 15, that no national government is adequately prepared for artificial intelligence (AI) and that an international body should be created to police the technology, according t…",
+      "url": "https://www.naturalnews.com/2026-09-18-bill-gates-calls-for-international-ai-regulation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-18T06:00:00Z"
+    },
+    {
+      "title": "Former Google DeepMind Researcher Resigns, Warns AI Could “Kill Us All”",
+      "description": "Bilal Chughtai, a former researcher at Google DeepMind who worked on artificial general intelligence safety and alignment, resigned from the Google-owned AI lab and published a public warning Monday stating that artificial intelligence could pose an existenti…",
+      "url": "https://www.naturalnews.com/2026-09-18-former-google-deepmind-researcher-resigns-ai-deadly.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-18T06:00:00Z"
+    },
+    {
+      "title": "Exclusive-Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "description": "SAN FRANCISCO, Sept 18 : Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.At a time when fears of AI are gripping the public, the startup has built a wet la…",
+      "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-6394641",
+      "source": "CNA",
+      "publishedAt": "2026-09-18T10:02:55Z"
+    },
+    {
+      "title": "2027 Volvo XC90 – T8 Long Range AWD PHEV from XC60, 162 km WLTP EV range, Google Gemini AI",
+      "description": "Aside from revealing the facelifted XC60, Volvo also announced some changes for the XC90, which receives the same long range plug-in hybrid option from its smaller sibling. This adds to the comprehensive second facelift it […]\nThe post 2027 Volvo XC90 – T8 Lo…",
+      "url": "https://paultan.org/2026/09/18/2027-volvo-xc90-t8-long-range-awd-phev-from-xc60-162-km-wltp-ev-range-google-gemini-ai",
+      "source": "Paul Tan's Automotive News",
+      "publishedAt": "2026-09-18T09:23:41Z"
+    },
+    {
+      "title": "OpenAI is offering engineers up to $500,000 in salary as it pushes into robotics",
+      "description": "OpenAI CEO Sam Altman\nBloomberg/Getty Images\nOpenAI has 27 robotics jobs listed on its careers page, up from 11 in May.\nBase salaries for the roles reach as high as $500,000 a year.\nThe postings point to plans to build robot hardware, data systems, and AI in-…",
+      "url": "https://biztoc.com/x/3bdd0ab62d319bed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-18T09:16:35Z"
+    },
+    {
+      "title": "2026 Utility Innovation Survey: Industry leaders turning more to AI as data-center boom reshapes grid planning",
+      "description": "National Grid Partners survey of U.S. utility innovation leaders finds 78% use artificial intelligence to manage rising power demand, as industry works to keep pace with rapid change BOSTON, Sept. 18, 2026 /PRNewswire/ -- National Grid Partners, the corporate…",
+      "url": "https://www.prnewswire.com/news-releases/2026-utility-innovation-survey-industry-leaders-turning-more-to-ai-as-data-center-boom-reshapes-grid-planning-302883063.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-18T09:00:00Z"
+    },
+    {
+      "title": "OpenAI launches Astra for Law, and its own legal research index",
+      "description": "“As AI becomes more open and interoperable, the value is not in connectivity alone,” said Joel Hron, chief technology officer of Thomson Reuters. “Legal professionals need more than access to information.” He said it in a statement supporting OpenAI, on the d…",
+      "url": "https://thenextweb.com/news/openai-astra-for-law-gpt-6-legal-search-index",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-18T08:53:29Z"
+    },
+    {
+      "title": "Anthropic says its model Claude is helping to build the next version of itself",
+      "description": "Anthropic says its model Claude is helping to build the next version of itselfctpost.com",
+      "url": "https://www.ctpost.com/business/article/anthropic-says-its-model-claude-is-helping-to-22437527.php",
+      "source": "CT Post",
+      "publishedAt": "2026-09-18T08:48:24Z"
+    },
+    {
+      "title": "Analysis: China's 15th five-year plan spotlights diamond for AI chip thermal management",
+      "description": "China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have highlighted ultra-wide bandgap (UWBG) semiconductor materials, including gallium oxide (Ga₂O₃) and synthetic diamond, in their draft deve…",
+      "url": "https://www.digitimes.com/news/a20260918PD222/ai-chip-management-miit-it-materials.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-18T08:15:00Z"
+    },
+    {
+      "title": "Rage Against the Machines: From the Luddites to the AI Data Center Backlash",
+      "description": "One often-repeated anecdote about Milton Friedman has the famous economist visiting a canal under construction in nineteen-sixties China. Noticing the sheer number of human laborers digging away with shovels, he asked the official in charge why they weren’t g…",
+      "url": "https://www.openculture.com/2026/09/rage-against-the-machines-from-the-luddites-to-the-ai-data-center-backlash.html",
+      "source": "Openculture.com",
+      "publishedAt": "2026-09-18T08:00:05Z"
+    },
+    {
+      "title": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: Learn to automate real work with Claude through this Claude AI e-degree, now only $19.99 (reg. $159).\r\n\n\n\n\nMost people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but lear…",
+      "url": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
+      "source": "Macworld",
+      "publishedAt": "2026-09-18T08:00:00Z"
+    },
+    {
+      "title": "Claude Cowork merges into chat, and there is no going back",
+      "description": "Anthropic is folding Claude Cowork into ordinary chat. Pro and Max accounts move first, in stages over the next few weeks. Claude Docs and Claude Slides arrive in beta on the paid plans. Accounts that have moved cannot switch back. Here is how to tell whether…",
+      "url": "https://www.notebookcheck.net/Claude-Cowork-merges-into-chat-and-there-is-no-going-back.1402419.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-18T07:09:00Z"
+    },
+    {
+      "title": "This tiny cybersecurity startup managed to hack OpenAI using Claude, and won a $6,500 bounty",
+      "description": "Hacktron, an SF-based startup, flagged vulnerabilities in OpenAI's systems and was paid $6,500 for the discovery.",
+      "url": "https://www.businessinsider.com/hacktron-ai-cybersecurity-startup-hack-openai-using-claude-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-18T06:46:12Z"
+    },
+    {
+      "title": "China's AI data center token costs hinge on access to advanced GPUs",
+      "description": "China's AI data centers are confronting a severe chip access bottleneck, with the cost of producing tokens shaped less by model design than by geopolitics, according to a recent Caijing analysis. The report said restricted access to high-end GPUs has become t…",
+      "url": "https://www.digitimes.com/news/a20260918PD219/cost-data-center-chips-data-high-end.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-18T06:31:00Z"
+    },
+    {
+      "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
+      "description": "The gathering in Scotland was convened to discuss how AI can benefit society, and comes at a pivotal moment for the technology as debate swirls around whether rapid advances will soon put it beyond the ability of humans to rein it in.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/articleshow/134327598.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-18T06:06:53Z"
+    },
+    {
+      "title": "OpenAI breached by researchers using Anthropic models",
+      "description": "Security Verification\nFor help please visit help.ft.com. We apologise for any inconvenience.\nThe following information can help our support team to resolve this issue.\n- Error Code\n- CG000 / 403\n- Request ID\n- a3ce1f83ff275e37",
+      "url": "https://biztoc.com/x/92b1e21cc09934ed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-18T05:59:28Z"
+    },
+    {
+      "title": "OpenAI launches legal AI platform, escalating race for law firm users",
+      "description": "The launch of Astra for Law marks the latest push by the top AI ‌labs into the legal market, where ​technology companies are racing to ​capture business from law firms and legal departments",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-launches-legal-ai-platform-escalating-race-for-law-firm-users-126091800335_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-18T05:58:31Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI tightens AI safety rules as Claude exposes flaws in its systems",
+      "Anthropic eyes IPO despite AI safety warnings",
+      "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+      "Anthropic says Claude now leads a quarter of work building its next AI models",
+      "Anthropic establishes biology lab for Claude’s drug R&D experiments"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/technology/artificial-intelligence/openai-tightens-ai-safety-rules-as-claude-exposes-flaws-in-its-systems-126091800435_1.html",
+        "https://www.hurriyetdailynews.com/anthropic-eyes-ipo-despite-ai-safety-warnings-227015",
+        "https://biztoc.com/x/768468be8f4cbd2a"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1927f272a3e302b2",
+        "https://biztoc.com/x/3bdd0ab62d319bed",
+        "https://thenextweb.com/news/openai-astra-for-law-gpt-6-legal-search-index"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html"
+      ]
+    },
+    {
+      "title": "Using",
+      "summary": "Grouped stories where \"using\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/113621/dollars4-6-billion-nvidia-importer-linked-to-supply-network-funneling-restricted-nvidia-ai-chips-into-china/index.html",
+        "https://www.naturalnews.com/2026-09-18-bill-gates-calls-for-international-ai-regulation.html",
+        "https://www.naturalnews.com/2026-09-18-former-google-deepmind-researcher-resigns-ai-deadly.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI tightens AI safety rules as Claude exposes flaws in its systems. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI tightens AI safety rules as Claude exposes flaws in its systems. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI tightens AI safety rules as Claude exposes flaws in its systems. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI tightens AI safety rules as Claude exposes flaws in its systems. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI tightens AI safety rules as Claude exposes flaws in its systems. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
