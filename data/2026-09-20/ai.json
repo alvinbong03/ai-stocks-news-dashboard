@@ -1,0 +1,353 @@
+{
+  "theme": "ai",
+  "date": "2026-09-20",
+  "last_updated_utc": "2026-09-20T10:28:59.112Z",
+  "news": [
+    {
+      "title": "Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI",
+      "description": "\"Software security researchers used Anthropic's Claude AI platform to hack OpenAI's ChatGPT tool,\" reports CBS News. \nUsing Claude, \"On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees' ChatGPT accounts,\" write re…",
+      "url": "https://slashdot.org/story/26/09/19/0518206/gemini-breached-three-outside-systems-and-claude-using-researchers-breached-openai",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-19T08:34:00Z"
+    },
+    {
+      "title": "Who is Dario Amodei, the Anthropic CEO pushing independent AI oversight,",
+      "description": "Dario Amodei's plan for \"embedded evaluators\" to supervise AI companies gains new urgency after OpenAI's ChatGPT agents reportedly went rogue.",
+      "url": "https://www.foxnews.com/politics/anthropic-ceo-pushes-independent-ai-oversight-watchdog-example-shares-roots-industry-insiders",
+      "source": "Fox News",
+      "publishedAt": "2026-09-19T10:24:04Z"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the softw…",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "source": "Internet",
+      "publishedAt": "2026-09-19T10:01:10Z"
+    },
+    {
+      "title": "Who is Jacob Coxon, the ex-Anthropic researcher warning AI could kill us all?",
+      "description": "A young researcher named Jacob Coxon resigned from Anthropic after working at OpenAI. He warned that artificial intelligence could end humanity by the decade's end. Coxon's concerns emerged after AI models demonstrated concerning capabilities and escaped test…",
+      "url": "https://timesofindia.indiatimes.com/education/news/who-is-jacob-coxon-the-ex-anthropic-researcher-warning-ai-could-kill-us-all/articleshow/134351018.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T09:41:58Z"
+    },
+    {
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "description": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models \nIn a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurre…",
+      "url": "https://biztoc.com/x/42cdaf860ddf7956",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-19T08:42:38Z"
+    },
+    {
+      "title": "Three researchers used Claude to reach OpenAI’s internal code. OpenAI paid $6,500 and closed the hole in 14 hours.",
+      "description": "Three researchers at Hacktron AI used Anthropic’s Claude to chain two weaknesses and reach OpenAI employee accounts and an internal code repository, in under 72 hours. They disclosed privately, OpenAI patched the single sign-on flaw in about 14 hours, and the…",
+      "url": "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-19T06:27:52Z"
+    },
+    {
+      "title": "Users sue OpenAI, Anthropic, xAI, and Google for alleged AI collusion",
+      "description": "The lawsuit could reshape AI industry dynamics, challenging the balance between innovation and regulation, with potential antitrust implications.\nThe post Users sue OpenAI, Anthropic, xAI, and Google for alleged AI collusion appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/users-sue-openai-anthropic-xai-collusion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-19T10:24:26Z"
+    },
+    {
+      "title": "Three companies hacked using Google Gemini AI",
+      "description": "It is reported that Google's 'Gemini' Artificial Intelligence (AI) model, while undergoing a cybersecurity test, accessed the internet and illegally entered (hacked) the secure computer systems of three other companies. This marks the first time a Google AI s…",
+      "url": "https://english.gossiplankanews.com/2026/09/three-companies-hacked-using-google.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-09-19T09:35:30Z"
+    },
+    {
+      "title": "Google’s Gemini went rogue and breached three companies",
+      "description": "Gemini is the latest major model to escape its containment sandbox during safety testing, following similar incidents involving OpenAI, Anthropic, and Meta.",
+      "url": "https://www.androidcentral.com/apps-software/ai/googles-gemini-went-rogue-and-breached-three-companies",
+      "source": "Android Central",
+      "publishedAt": "2026-09-19T09:24:34Z"
+    },
+    {
+      "title": "OpenAI Rules Out 2026 IPO, Citing Safety Obligations – With $122B, Altman Can Afford to Wait",
+      "description": "OpenAI’s decision to rule out a 2026 initial public offering marks a deliberate pivot toward a governance model that prioritizes long-term AI safety over the immediate fiduciary demands of public markets. In a September 12 interview with Fortune, Sam Altman e…",
+      "url": "https://forkast.news/openai-rules-out-2026-ipo-citing-safety-obligations-with-122b-altman-can-afford-to-wait",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-19T08:46:47Z"
+    },
+    {
+      "title": "AI apocalypse by 2030? Nvidia CEO Jensen Huang says ‘zero percent chance’",
+      "description": "Nvidia CEO Jensen Huang has dismissed fears that artificial intelligence could trigger an extinction-level event, saying there is “zero percent chance” AI will end the world by 2030. His comments push back against calls from some industry leaders, including A…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/ai-apocalypse-by-2030-nvidia-ceo-jensen-huang-says-zero-percent-chance/articleshow/134350736.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:39:20Z"
+    },
+    {
+      "title": "OpenAI forecasts cash burn near $280 billion by 2030",
+      "description": "OpenAI filed confidentially for an IPO in June, but CEO Sam Altman said ​on Saturday the ‌company would not go public in 2026 because of concerns about AI safety",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-forecasts-cash-burn-near-280-billion-by-2030/article71483712.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-19T08:17:12Z"
+    },
+    {
+      "title": "Amazon CEO Andy Jassy affirms long-term reliance on Nvidia chips even as in-house AI silicon scales past $20B",
+      "description": "Amazon's dual strategy of leveraging Nvidia while scaling in-house AI chips could reshape AI compute economics and industry dynamics.\nThe post Amazon CEO Andy Jassy affirms long-term reliance on Nvidia chips even as in-house AI silicon scales past $20B appear…",
+      "url": "https://cryptobriefing.com/amazon-jassy-nvidia-chips-long-term",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-19T08:14:10Z"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "description": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incidents occurred in …",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "source": "Internet",
+      "publishedAt": "2026-09-19T07:51:34Z"
+    },
+    {
+      "title": "Google’s Gemini hacked three companies in new AI safety incident - Financial Times",
+      "description": "Google’s Gemini hacked three companies in new AI safety incidentFinancial Times Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AIwsj.com Google says its Gemini AI model hacked three other companiesThe Guardian Google's Gemini be…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185700652",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-19T06:52:59Z"
+    },
+    {
+      "title": "Report: AI Data Center Boom To Generate “Tsunami” of Toxic E-Waste",
+      "description": "The global push to build thousands of massive data centers for artificial intelligence (AI) will produce a “tsunami” of discarded electronics – putting the world on a course to triple its annual generation of toxic e-waste within 25 years, according to a repo…",
+      "url": "https://www.naturalnews.com/2026-09-19-ai-boom-generate-tsunami-of-toxic-waste.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-19T06:00:00Z"
+    },
+    {
+      "title": "Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development",
+      "description": "According to a news report by Politico, the complaint filed in the Northern District Court of California, claims that public statements made earlier this month amounted to an illegal business agreement between competitors under US antitrust law. The matter be…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T04:27:09Z"
+    },
+    {
+      "title": "Anthropic Gave Claude a Shopping Brain. It Deliberately Left Out the Wallet.",
+      "description": "Anthropic released its open-source Claude Commerce Agents blueprint on September 2, 2026, establishing a formal entry into the reasoning layer of agentic commerce. The release provides two prebuilt agents: a customer-facing tool for catalog search, comparison…",
+      "url": "https://forkast.news/anthropic-gave-claude-a-shopping-brain-it-deliberately-left-out-the-wallet",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-19T10:07:56Z"
+    },
+    {
+      "title": "AMD Targets NVIDIA Vera In Latest EPYC Venice “Agentic AI” Benchmarks, Zen 6 Leads With 20% Higher Per-Core & Over 2x Gains In Platform-Level Performance",
+      "description": "AMD has shared new benchmarks of its 6th Gen EPYC Venice CPUs in Agentic AI workloads against the competition from Intel & NVIDIA. AMD Leads The Agentic AI CPU Race With Strong 6th Gen EPYC Venice Numbers, NVIDIA Vera Targeted In its latest blog post, AMD has…",
+      "url": "https://wccftech.com/amd-targets-nvidia-vera-in-latest-epyc-venice-agentic-ai-benchmarks",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-19T09:40:29Z"
+    },
+    {
+      "title": "Poll: 86% of Game Developer Event's Attendees Say They Use Generative AI",
+      "description": "40% of CEDEC respondents said they do not use generative AI in released products, services",
+      "url": "https://www.animenewsnetwork.com/interest/2026-09-19/poll-86-percent-of-game-developer-event-attendees-say-they-use-generative-ai/.241899",
+      "source": "Anime News Network",
+      "publishedAt": "2026-09-19T09:00:00Z"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "description": "Google's Gemini AI hacked three companies during a cybersecurity test, raising concerns about AI autonomy and security safeguards.",
+      "url": "https://www.thehindubusinessline.com/info-tech/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/article71483729.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-19T08:20:56Z"
+    },
+    {
+      "title": "Google’s Gemini Breached Three Companies in First Known AI Breakout – And the Industry Has a Containment Problem",
+      "description": "In May 2026, Google’s Gemini AI model breached three real companies during a cybersecurity evaluation conducted by Irregular, a Tel Aviv-based frontier AI security lab. The exercise was intended to be a controlled capture-the-flag simulation. Instead, it beca…",
+      "url": "https://forkast.news/googles-gemini-breached-three-companies-in-first-known-ai-breakout-and-the-industry-has-a-containment-problem",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-19T08:06:42Z"
+    },
+    {
+      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
+      "description": "The partnership comes as AI developers face growing pressure from regulators, companies ‌and researchers to ensure their advanced models are safe and reliable",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/article71483693.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-19T07:41:45Z"
+    },
+    {
+      "title": "Google says its Gemini AI model hacked three other companies",
+      "description": "Google felt the hacks that occurred in May during a cybersecurity evaluation by an AI-security firm did not require public disclosure",
+      "url": "https://www.irishtimes.com/technology/big-tech/2026/09/19/google-says-its-gemini-ai-model-hacked-three-other-companies",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-19T06:35:05Z"
+    },
+    {
+      "title": "Google’s Gemini AI carried out cyberattacks, guessed passwords",
+      "description": "Google's consumer AI model Gemini hacked multiple systems through guessing login credentials, the company told AFP on Friday\nThe post Google’s Gemini AI carried out cyberattacks, guessed passwords appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/09/googles-gemini-ai-carried-out-cyberattacks-guessed-passwords",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-19T06:26:28Z"
+    },
+    {
+      "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post",
+      "description": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidentsThe Washington Post Gemini hacked three companies in first known breakout by Google's AIReuters Google says its Gemini AI model hacked three other companiesThe Guardian Google's Gem…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185700384",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-19T06:12:37Z"
+    },
+    {
+      "title": "300 hours: How one ChatGPT conversation spiralled out of control",
+      "description": "AI chatbots can offer advice, companionship and support – but one man's experience shows what can happen when a chatbot repeatedly reinforces something that isn't true",
+      "url": "https://www.rte.ie/news/primetime/2026/0919/1592087-300-hours-how-one-chatgpt-conversation-spiralled-out-of-control",
+      "source": "RTE",
+      "publishedAt": "2026-09-19T06:00:02Z"
+    },
+    {
+      "title": "Google’s Gemini AI carried out cyberattacks, guessed passwords",
+      "description": "Google has confirmed its Gemini AI model carried out cyberattacks in May by guessing login credentials to access multiple systems during a test.\n\nRead More: https://punchng.com/googles-gemini-ai-carried-out-cyberattacks-guessed-passwords/",
+      "url": "https://punchng.com/googles-gemini-ai-carried-out-cyberattacks-guessed-passwords",
+      "source": "The Punch",
+      "publishedAt": "2026-09-19T05:52:00Z"
+    },
+    {
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "description": "Analysis of StepFun's Step 5 Preview and comparison to other AI models across key metrics including quality, price, performance (tokens per second & time to first token), context window & more.",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "source": "Artificialanalysis.ai",
+      "publishedAt": "2026-09-19T05:42:31Z"
+    },
+    {
+      "title": "10 Reliable Machine Learning Development Companies in the USA for AI-Powered Personal Finance Apps in 2026",
+      "description": "Personal finance apps are moving beyond expense tracking and static dashboards. Most of them are now using machine learning to sort transactions, spot unusual activity, forecast cash flow, suggest savings actions, monitor credit health, and answer questions r…",
+      "url": "https://addicted2success.com/ai/best-machine-learning-development-companies-finance-apps",
+      "source": "Addicted2success.com",
+      "publishedAt": "2026-09-19T05:07:07Z"
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "description": "The hacks occurred during a cybersecurity test conducted by an independent evaluation company.",
+      "url": "https://www.abc.net.au/news/2026-09-19/gemini-google-ai-hacks-three-companies/107172128",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-19T04:37:08Z"
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-19T04:27:11Z"
+    },
+    {
+      "title": "Anthropic, Accenture partner for independent frontier AI evaluation",
+      "description": "AI research firm Anthropic is partnering with Accenture for the independent evaluation of frontier AI. Both companies expect to invest at least $1 billion each over five years in this collaborative effort, which will embed external evaluators.",
+      "url": "https://newsable.asianetnews.com/business/anthropic-accenture-partner-for-independent-frontier-ai-evaluation-articleshow-6bite8y",
+      "source": "Asianetnews.com",
+      "publishedAt": "2026-09-19T04:16:23Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI",
+      "Who is Dario Amodei, the Anthropic CEO pushing independent AI oversight,",
+      "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "Who is Jacob Coxon, the ex-Anthropic researcher warning AI could kill us all?",
+      "Google says its Gemini AI model hacked three other companies"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Companies",
+      "summary": "Grouped stories where \"companies\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.foxnews.com/politics/anthropic-ceo-pushes-independent-ai-oversight-watchdog-example-shares-roots-industry-insiders",
+        "https://biztoc.com/x/42cdaf860ddf7956",
+        "https://english.gossiplankanews.com/2026/09/three-companies-hacked-using-google.html"
+      ]
+    },
+    {
+      "title": "Google",
+      "summary": "Grouped stories where \"google\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/users-sue-openai-anthropic-xai-collusion",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms",
+        "https://www.vanguardngr.com/2026/09/googles-gemini-ai-carried-out-cyberattacks-guessed-passwords"
+      ]
+    },
+    {
+      "title": "Gemini",
+      "summary": "Grouped stories where \"gemini\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/story/26/09/19/0518206/gemini-breached-three-outside-systems-and-claude-using-researchers-breached-openai"
+      ]
+    },
+    {
+      "title": "Three",
+      "summary": "Grouped stories where \"three\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+        "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/education/news/who-is-jacob-coxon-the-ex-anthropic-researcher-warning-ai-could-kill-us-all/articleshow/134351018.cms",
+        "https://forkast.news/openai-rules-out-2026-ipo-citing-safety-obligations-with-122b-altman-can-afford-to-wait",
+        "https://economictimes.indiatimes.com/news/international/global-trends/ai-apocalypse-by-2030-nvidia-ceo-jensen-huang-says-zero-percent-chance/articleshow/134350736.cms"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI. Main topic cluster: Companies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI. Main topic cluster: Companies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI. Main topic cluster: Companies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI. Main topic cluster: Companies. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI. Main topic cluster: Companies. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
