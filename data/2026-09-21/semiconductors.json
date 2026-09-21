@@ -1,0 +1,360 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-21",
+  "last_updated_utc": "2026-09-21T11:47:14.690Z",
+  "news": [
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "description": "Google&rsquo;s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185716134",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-20T11:33:30Z"
+    },
+    {
+      "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require",
+      "description": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185716128",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-20T11:32:37Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "description": "With the debate about regulating artificial intelligence raging in Washington this week, President Donald Trump picked up the phone to call his top ally on the subject: Nvidia CEO Jensen Huang.\n\"The robots are not going to be taking over the world,\" Trump tol…",
+      "url": "https://biztoc.com/x/81bbaf3949150d00",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-20T11:22:37Z"
+    },
+    {
+      "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+      "description": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-20T11:20:00Z"
+    },
+    {
+      "title": "Google infiltrated TeamPCP hacker group to disrupt attacks from the inside",
+      "description": "Google's infiltration of TeamPCP highlights the critical need for proactive cybersecurity measures and collaboration to mitigate supply-chain threats.\nThe post Google infiltrated TeamPCP hacker group to disrupt attacks from the inside appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/google-infiltrated-teampcp-hacker-group-disruption",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-20T11:12:44Z"
+    },
+    {
+      "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic",
+      "description": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185716024",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-20T11:12:07Z"
+    },
+    {
+      "title": "AMD’s Newly Launched Ryzen 5 5500F And Ryzen 5 7500 Hit Amazon Shelves At $118 And $209, Respectively",
+      "description": "The recently launched Zen 3 and Zen 4 processors are now available for purchase on Amazon US. AMD Vermeer Ryzen 5 5500F Hits Amazon at $118 While Zen 4-Based Ryzen 5 7500 Launch at $209 AMD recently expanded its Ryzen lineup by adding two new processors in th…",
+      "url": "https://wccftech.com/amd-newly-launched-ryzen-5-5500f-and-ryzen-5-7500-hit-amazon",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-20T11:09:04Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-20T11:00:01Z"
+    },
+    {
+      "title": "Micron workers demand 15% of operating profit as AI boom lifts chip earnings, point to Samsung, SK Hynix",
+      "description": "Micron Technology faces labor unrest as employees reject a proposed bonus of 68 months' salary, threatening strikes. Workers demand a one-time bonus equivalent to 83 months' salary and quarterly bonus distributions amidst rising profits driven by AI technolog…",
+      "url": "https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html",
+      "source": "Livemint",
+      "publishedAt": "2026-09-20T10:56:20Z"
+    },
+    {
+      "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+      "description": "Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-20T10:55:00Z"
+    },
+    {
+      "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
+      "description": "Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing node…",
+      "url": "https://biztoc.com/x/83420040df4e85ff",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-20T10:37:21Z"
+    },
+    {
+      "title": "J.J. Spaun on Presidents Cup snub: “I’m definitely carrying a bit of a chip on my shoulder”",
+      "description": "J. J. Spaun missed out on the Presidents Cup team after Brandt Snedeker chose not to select him for the showdown with the International team.",
+      "url": "https://www.hitc.com/j-j-spaun-on-presidents-cup-snub-im-definitely-carrying-a-bit-of-a-chip-on-my-shoulder",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "publishedAt": "2026-09-20T10:30:00Z"
+    },
+    {
+      "title": "Tessolve in talks to acquire two firms, eyes $500 mn revenue in 3-4 years",
+      "description": "Semiconductor engineering services firm Tessolve, a Hero Electronix venture, is in active talks to acquire two more companies -- one based in the US and another in India -- as it targets annual revenue of over USD 500 million (about Rs 4,700 crore) within the…",
+      "url": "https://www.business-standard.com/companies/news/tessolve-in-talks-to-acquire-two-firms-eyes-500-mn-revenue-in-3-4-years-126092000400_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-20T10:19:14Z"
+    },
+    {
+      "title": "Tessolve in talks to acquire two firms, eyes USD 500 million revenue in 3-4 years",
+      "description": "Hero Electronix's semiconductor engineering arm, Tessolve, is negotiating to acquire two companies in the US and India to expand its global footprint and capabilities. Targeting $500 million ($4,700 crore) in revenue within three to four years, the AI-focused…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tessolve-in-talks-to-acquire-two-firms-eyes-usd-500-million-revenue-in-3-4-years/articleshow/134366485.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-20T10:15:21Z"
+    },
+    {
+      "title": "‘Crisis even bigger than Covid’: American business owners are barely getting by | CNN Business",
+      "description": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
+      "url": "https://www.cnn.com/2026/09/20/economy/covid-diesel-supply-chain",
+      "source": "CNN",
+      "publishedAt": "2026-09-20T10:00:29Z"
+    },
+    {
+      "title": "We Need to Talk About the Apocalypse",
+      "description": "“I thank you, Lord, for regime change in Iran. Yes, Lord, we cry out to you!” Cindy Jacobs’s Texan drawl arcs into an otherworldly howl as she begins to pace across the stage. “We pray for the president that he will not compromise. Father, we cry out, in the …",
+      "url": "https://newrepublic.com/article/215003/christian-dominionism-apocalypse-trump-administration",
+      "source": "The New Republic",
+      "publishedAt": "2026-09-20T10:00:00Z"
+    },
+    {
+      "title": "Intel Ends Its $100,000 Bug Bounty Program",
+      "description": "Intel has officially suspended its Bug Bounty Program, which offered security researchers compensation for finding and reporting security vulnerabilities. The program is now marked as suspended on the Intigriti platform, but Intel has not provided a detailed …",
+      "url": "https://www.techpowerup.com/352872/intel-ends-its-usd-100-000-bug-bounty-program",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-20T09:48:08Z"
+    },
+    {
+      "title": "Solidigm Reportedly Plans Its First NAND Fab in the United States",
+      "description": "SK hynix subsidiary Solidigm is reportedly planning to open its first NAND Flash manufacturing facility in the United States. To address global supply chain challenges, SK hynix is exploring ways to expand its production capabilities worldwide and create a mo…",
+      "url": "https://www.techpowerup.com/352855/solidigm-reportedly-plans-its-first-nand-fab-in-the-united-states",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-20T09:26:37Z"
+    },
+    {
+      "title": "FAMU football QB Dustin Fletcher dealing with a 'thumb issue'",
+      "description": "FAMU football quarterback Dustin Fletcher left the Tennessee State game early with an injury. Head coach Quinn Gray provides intel on what happened.",
+      "url": "https://www.tallahassee.com/story/sports/college/famu/2026/09/20/famu-rattlers-football-qb-dustin-fletcher-thumb-injury-quinn-gray-update/91857521007",
+      "source": "Tallahassee Democrat",
+      "publishedAt": "2026-09-20T09:07:17Z"
+    },
+    {
+      "title": "Watch 2 Texas A&M 2027 5-star commits shine on the field",
+      "description": "2027 Texas A&M commits 5-star LB Kaden Henderson and 5-star WR Eric Mcfarland continue to live up their blue-chip billing.",
+      "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/recruiting/2026/09/20/watch-two-texas-aggies-football-2027-kaden-henderson-eric-mcfarland/91840556007",
+      "source": "USA Today",
+      "publishedAt": "2026-09-20T09:06:16Z"
+    },
+    {
+      "title": "Intel suspends its $100k bug bounty program",
+      "description": "Intel has officially suspended its long-running bug bounty program, eliminating cash payouts of up to $100,000 in favor of a zero-reward vulnerability disclosure system on the Intigriti platform. Launched in 2017, Intel’s bounty initiative was once a cornerst…",
+      "url": "https://www.notebookcheck.net/Intel-suspends-its-100k-bug-bounty-program.1403852.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-20T08:36:00Z"
+    },
+    {
+      "title": "CXMT’s fifth-generation memory chip platform enters mass production, shaking up global DRAM hierarchy",
+      "description": "CXMT's advancements in DRAM technology could disrupt global market dynamics, challenging established players and boosting China's tech influence.\nThe post CXMT’s fifth-generation memory chip platform enters mass production, shaking up global DRAM hierarchy ap…",
+      "url": "https://cryptobriefing.com/cxmt-g5-dram-mass-production",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-20T08:13:38Z"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing captures 73% of foundry revenue as AI demand widens its lead",
+      "description": "TSMC's dominance in the foundry market strengthens its pricing power, impacting global tech industries reliant on advanced chip production.\nThe post Taiwan Semiconductor Manufacturing captures 73% of foundry revenue as AI demand widens its lead appeared first…",
+      "url": "https://cryptobriefing.com/tsmc-73-percent-foundry-market-share",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-20T08:08:10Z"
+    },
+    {
+      "title": "No GPU, No Problem: Flagship LLMs on a GPU-less Teenaged Server",
+      "description": "There are lots of reasons to run LLMs locally, from privacy concerns to just wanting to futz about with the technology, but if you want to run the big models, the standard logic is that you need bi…",
+      "url": "https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server",
+      "source": "Hackaday",
+      "publishedAt": "2026-09-20T08:00:12Z"
+    },
+    {
+      "title": "Elon Musk says AI is riskier than nuclear weapons, backs slowdown",
+      "description": "Elon Musk, Sam Altman and Dario Amodei called for slower AI development over one weekend, sending chip stocks down 5.9% as OpenAI delayed its IPO. Billionaire Elon Musk has thrown his weight behind a call to slow the development of artificial intelligence, re…",
+      "url": "https://freerepublic.com/focus/f-bloggers/4396215/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-20T07:52:06Z"
+    },
+    {
+      "title": "Elon Musk says AI is riskier than nuclear weapons, backs slowdown",
+      "description": "Elon Musk, Sam Altman and Dario Amodei called for slower AI development over one weekend, sending chip stocks down 5.9% as OpenAI delayed its IPO. Billionaire Elon Musk has thrown his weight behind a call to slow the development of artificial intelligence, re…",
+      "url": "https://freerepublic.com/focus/f-news/4396215/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-20T07:52:06Z"
+    },
+    {
+      "title": "Chip majors beeline at Semicon India to build ecosystem with local talent",
+      "description": "Semicon India 2026 attracted huge participation from global semiconductor players looking to collaborate and expand their presence in India by leveraging skilled local talent and supportive central and state government policies.\nLithographic equipment major A…",
+      "url": "https://www.business-standard.com/industry/news/chip-majors-beeline-at-semicon-india-to-build-ecosystem-with-local-talent-126092000222_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-20T07:04:09Z"
+    },
+    {
+      "title": "India semiconductor market projected to touch $200 billion by 2035: EY-IESA Report",
+      "description": "Consumer electronics accounts for 30% of India’s semiconductor market, followed by the automotive sector at 16 per cent and industrial applications at 15%",
+      "url": "https://www.thehindubusinessline.com/info-tech/india-semiconductor-market-projected-to-touch-200-billion-by-2035-ey-iesa-report/article71487208.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-20T06:58:38Z"
+    },
+    {
+      "title": "Vaishnaw cautions industry about cyberattacks, disruption that may target India's growing chip might",
+      "description": "As many countries look to India as a trusted partner and develop and manufacture their products here, the Minister said India cannot afford to take its position lightly and must stay vigilant",
+      "url": "https://www.thehindubusinessline.com/info-tech/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487188.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-20T06:55:40Z"
+    },
+    {
+      "title": "Vaishnaw cautions industry on cyberattacks, threats to India's chip rise",
+      "description": "India's growing semiconductor heft could be seen as a \"threat\" by established interests in the global chip value chain, and the industry must guard against cyberattacks and other disruptions from those opposed to the country's rise, Minister for Electronics a…",
+      "url": "https://www.business-standard.com/industry/news/vaishnaw-cautions-industry-on-cyberattacks-threats-to-india-s-chip-rise-126092000166_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-20T06:06:24Z"
+    },
+    {
+      "title": "‘Be prepared for cyberattacks’: Vaishnaw flags risks to India’s chip push",
+      "description": "India's burgeoning semiconductor sector is viewed as a threat by established global chip industry interests, says Minister Ashwini Vaishnaw. He has urged the industry to remain vigilant against potential cyberattacks and disruptions. The government is activel…",
+      "url": "https://economictimes.indiatimes.com/news/india/be-prepared-for-cyberattacks-vaishnaw-flags-risks-to-indias-chip-push/articleshow/134364195.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-20T05:54:12Z"
+    },
+    {
+      "title": "Apple M6 Pro appears on Geekbench, but there's a catch: it wasn't supposed to exist",
+      "description": "A newly leaked Geekbench listing for Apple's unannounced M6 Pro raises fresh questions about a chip Apple reportedly wasn't even planning to make. We compare it with both the M5 Pro and the freshly launched base M6 to see which story the numbers actually supp…",
+      "url": "https://www.notebookcheck.net/Apple-M6-Pro-appears-on-Geekbench-but-there-s-a-catch-it-wasn-t-supposed-to-exist.1403367.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-09-20T04:50:00Z"
+    },
+    {
+      "title": "Baleine 12\" x 20-Foot Non-Adhesive Shelf Liner for $9 + free shipping w/ Prime",
+      "description": "Cabinet and drawer shelves benefit most, since the non-adhesive design lets you reposition or remove it without leaving residue behind. Apply coupon code \"45IVRYON\" for a savings of $6. Buy Now at Amazon\r\n Features\r\n <ul> <li>Textured surface prevents items f…",
+      "url": "https://www.dealnews.com/products/Baleine/Baleine-12-x-20-Foot-Non-Adhesive-Shelf-Liner/536367.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-20T04:00:00Z"
+    },
+    {
+      "title": "CXMT unveils 24-Gbit LPDDR5X products using new platform",
+      "description": "CXMT's advancements in memory technology could significantly enhance China's position in the global semiconductor market, challenging established leaders.\nThe post CXMT unveils 24-Gbit LPDDR5X products using new platform appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/cxmt-24gbit-lpddr5x-new-platform",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-20T03:57:15Z"
+    },
+    {
+      "title": "Laser Your Way into Debug Mode on the RP2350",
+      "description": "The RP2350 is actually a pretty secure chip, all things considered. It has secure boot, ARMv8’s TrustZone to split secure and non-secure execution, and you can permanently disable debug — …read more",
+      "url": "https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350",
+      "source": "Hackaday",
+      "publishedAt": "2026-09-20T02:00:23Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require",
+      "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+      "Google infiltrated TeamPCP hacker group to disrupt attacks from the inside"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html",
+        "https://biztoc.com/x/83420040df4e85ff",
+        "https://www.hitc.com/j-j-spaun-on-presidents-cup-snub-im-definitely-carrying-a-bit-of-a-chip-on-my-shoulder"
+      ]
+    },
+    {
+      "title": "Global",
+      "summary": "Grouped stories where \"global\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/cons-products/electronics/tessolve-in-talks-to-acquire-two-firms-eyes-usd-500-million-revenue-in-3-4-years/articleshow/134366485.cms",
+        "https://www.techpowerup.com/352855/solidigm-reportedly-plans-its-first-nand-fab-in-the-united-states",
+        "https://cryptobriefing.com/cxmt-24gbit-lpddr5x-new-platform"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/companies/news/tessolve-in-talks-to-acquire-two-firms-eyes-500-mn-revenue-in-3-4-years-126092000400_1.html",
+        "https://www.thehindubusinessline.com/info-tech/india-semiconductor-market-projected-to-touch-200-billion-by-2035-ey-iesa-report/article71487208.ece"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185716134",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185716128",
+        "https://biztoc.com/x/81bbaf3949150d00"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: An undercover Google analyst infiltrated a notorious supply-chain hacking gang. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: An undercover Google analyst infiltrated a notorious supply-chain hacking gang. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: An undercover Google analyst infiltrated a notorious supply-chain hacking gang. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: An undercover Google analyst infiltrated a notorious supply-chain hacking gang. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: An undercover Google analyst infiltrated a notorious supply-chain hacking gang. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
