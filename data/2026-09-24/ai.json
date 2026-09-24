@@ -1,0 +1,311 @@
+{
+  "theme": "ai",
+  "date": "2026-09-24",
+  "last_updated_utc": "2026-09-24T10:59:06.759Z",
+  "news": [
+    {
+      "title": "Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune",
+      "description": "The Gates Foundation is bringing together multiple companies, — inlcuding Anthropic, Microsoft, World Bank Group, Google, the OpenAI Foundation — in a new global coalition to make artificial intelligence (AI) more accessible in underrepresented languages, it …",
+      "url": "https://www.tribuneindia.com/news/business/gates-foundation-forms-global-ai-coalition-to-bridge-language-gap-anthropic-microsoft-google-among-signatories",
+      "source": "The Tribune India",
+      "publishedAt": "2026-09-23T08:30:42Z"
+    },
+    {
+      "title": "Anthropic and OpenAI roll out cheaper models amid intensifying AI race",
+      "description": "Anthropic and OpenAI have launched cheaper AI models, Opus 5.5, and GPT-6 Sol and Luna, as the US firms face growing price pressure from Chinese rivals and demand for lower-cost AI rises",
+      "url": "https://www.business-standard.com/technology/tech-news/anthropic-openai-cheaper-ai-models-opus-5-5-gpt-6-sol-luna-price-war-126092300215_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-23T04:40:10Z"
+    },
+    {
+      "title": "CME Group's GPU futures debut stalls as CFTC flags concerns",
+      "description": "As artificial intelligence transitions into a primary driver of global economic growth, computing power is shifting from a basic cloud utility to an emerging financial asset class. However, Wall Street's first major attempt to turn AI chip rental rates into t…",
+      "url": "https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-23T04:10:24Z"
+    },
+    {
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "description": "Dario Amodei and Sam Altman are expected to join other AI leaders at a UN Security Council meeting focused on artificial intelligence risks and international security.",
+      "url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-09-23T03:33:15Z"
+    },
+    {
+      "title": "Anthropic and OpenEvidence Team to Expand Reach of Medical AI",
+      "description": "Anthropic has reportedly launched a partnership with artificial intelligence (AI)-powered medical search engine provider OpenEvidence. This collaboration is designed to bring AI-driven clinical decisioning help to doctors in places that can’t access the techn…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai",
+      "source": "pymnts.com",
+      "publishedAt": "2026-09-23T10:46:29Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, and xAI slash model costs as safety-first AI development becomes financially viable",
+      "description": "The reduced AI model costs could democratize access, intensify competition, and accelerate the integration of safety measures in AI development.\nThe post OpenAI, Anthropic, and xAI slash model costs as safety-first AI development becomes financially viable ap…",
+      "url": "https://cryptobriefing.com/openai-anthropic-xai-slash-model-costs-ai-safety",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-23T09:09:58Z"
+    },
+    {
+      "title": "Meet the top Anthropic scientist who predicted the core of today’s AI doom debate",
+      "description": "Jared Kaplan, Anthropic's chief science officer, is a crucial figure in AI development. He also foresaw the doom debate hinging on AI training itself.",
+      "url": "https://www.businessinsider.com/jared-kaplan-ai-safety-concerns-last-year-gain-traction-anthropic-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-23T09:00:01Z"
+    },
+    {
+      "title": "Claude Opus 5.5 cuts costs and adds safeguards for autonomous AI",
+      "description": "Claude Opus 5.5 is available across Anthropic’s platforms, Amazon Web Services, Google Cloud and Microsoft Azure. Developers can access it through the Claude Platform using the model name claude-opus-5-5. It includes watermarking measures designed to comply w…",
+      "url": "https://www.helpnetsecurity.com/2026/09/23/anthropic-claude-opus-5-5",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-23T08:30:52Z"
+    },
+    {
+      "title": "Firmus Technologies seeks $10B financing for Nvidia chips",
+      "description": "Firmus Technologies' expansion into AI data centers could significantly boost global AI infrastructure, impacting tech and economic landscapes.\nThe post Firmus Technologies seeks $10B financing for Nvidia chips appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/firmus-technologies-10b-nvidia-chips",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-23T07:59:05Z"
+    },
+    {
+      "title": "Trump Gets AI Right: Don’t Let Anthropic Regulate Away Its Competition",
+      "description": "Trump Gets AI Right: Don’t Let Anthropic Regulate Away Its Competition I have hammered Donald Trump plenty of times in these pages, and I will again. But on artificial intelligence, the man has correctly made the single most important judgment call that will …",
+      "url": "https://www.naturalnews.com/2026-09-23-dont-let-anthropic-regulate-away-its-competition.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-23T06:00:00Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Rejects AI Extinction Claims",
+      "description": "Nvidia CEO Jensen Huang said in a Sept. 17 interview with CBS News that there is a “zero percent chance” that artificial intelligence (AI) will cause human extinction by 2030. During the interview, Huang called warnings from some AI researchers “doomsday narr…",
+      "url": "https://www.naturalnews.com/2026-09-23-nvidia-ceo-huang-rejects-ai-extinction-claims.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-23T06:00:00Z"
+    },
+    {
+      "title": "DeepSeek, Moonshot, the hidden cost of routing China's AI through Claude",
+      "description": "China's internet regulator is reportedly investigating DeepSeek and Moonshot AI over allegations that the two companies routed millions of user interactions, including potentially sensitive government and corporate information, to Anthropic's Claude models wi…",
+      "url": "https://www.digitimes.com/news/a20260923VL212/deepseek-claude-moonshot-data-anthropic.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-23T05:53:20Z"
+    },
+    {
+      "title": "OpenAI says US should lead world in AI regulation",
+      "description": "OpenAI warns differing national rules could fragment evaluations and reporting and make it harder to address risks that cross borders",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-us-should-lead-world-in-ai-regulation/article71498132.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-23T03:58:34Z"
+    },
+    {
+      "title": "Grab partners with OpenAI to train 30,000 driver, delivery, and merchant partners in AI skills across Southeast Asia",
+      "description": "This initiative could significantly enhance operational efficiency and competitiveness for Grab's partners, fostering economic growth in Southeast Asia.\nThe post Grab partners with OpenAI to train 30,000 driver, delivery, and merchant partners in AI skills ac…",
+      "url": "https://cryptobriefing.com/grab-openai-ai-training-southeast-asia",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-23T10:55:33Z"
+    },
+    {
+      "title": "The case for purpose-built generative AI in fraud prevention",
+      "description": "Financial institutions must determine whether the AI they've deployed is built for today's and tomorrow's threat landscape.",
+      "url": "https://www.techradar.com/pro/the-case-for-purpose-built-generative-ai-in-fraud-prevention",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-23T10:30:29Z"
+    },
+    {
+      "title": "Palantir CEO Alex Karp reckons OpenAI will never IPO — mainly due to the huge amount of liability it carries",
+      "description": "Karp thinks liability could push AI labs like OpenAI toward Washington rather than Wall Street, with their planned IPOs never materializing.",
+      "url": "https://www.techradar.com/pro/palantir-ceo-alex-karp-reckons-openai-will-never-ipo-mainly-due-to-the-huge-amount-of-liability-it-carries",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-23T10:27:16Z"
+    },
+    {
+      "title": "Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now \"Ill-Advised.\"",
+      "description": "Sam Altman's OpenAI Is in Talks for a New Funding Round Valuing It at $1.2 Trillion Instead of an IPO. Here's Why He Called Going Public Now \"Ill-Advised.\"\nChatGPT developer OpenAI won't be going public this year after all.\nThat's the latest word from co-foun…",
+      "url": "https://biztoc.com/x/e8718c941189b25b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-23T10:22:01Z"
+    },
+    {
+      "title": "OpenAI Partners With Grab in Southeast Asia for AI Skills Program",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/openai-partners-grab-southeast-asia-ai-skills-program",
+      "source": "The Information",
+      "publishedAt": "2026-09-23T09:21:21Z"
+    },
+    {
+      "title": "Meet the top Anthropic scientist who predicted the core of today’s AI doom debate",
+      "description": "Jared Kaplan, Anthropic's chief science officer.\nBloomberg/Getty Images\nAnthropic cofounder Jared Kaplan foresaw the debate about AI's danger hinging on self-improving AI.\nKaplan leads research and responsible scaling at Anthropic, playing a pivotal role in t…",
+      "url": "https://biztoc.com/x/e5ac0a327910cd79",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-23T09:04:33Z"
+    },
+    {
+      "title": "Anthropic and OpenEvidence to offer free medical AI to doctors in about 100 countries",
+      "description": "OpenEvidence, an AI tool used by American doctors, is now being offered in countries with limited access to medical literature. Reuters reported that the company is working with Anthropic to give clinicians in low- and middle-income countries free access to a…",
+      "url": "https://thenextweb.com/news/anthropic-openevidence-free-medical-ai",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-23T08:52:52Z"
+    },
+    {
+      "title": "TechPowerUp GPU-Z v2.71.0 Released",
+      "description": "TechPowerUp released the latest version of GPU-Z, our lightweight graphics subsystem information, diagnostics, and monitoring utility for gamers, engineers, and enthusiasts. Version 2.71.0 introduces NVIDIA GeForce RTX 50-series \"Blackwell\" hot-spot temperatu…",
+      "url": "https://www.techpowerup.com/352980/techpowerup-gpu-z-v2-71-0-released",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-23T06:10:27Z"
+    },
+    {
+      "title": "Jordan Petridis: The GNOME LLM Policy That I Want",
+      "description": "KDE is on the news because of a controversial proposal to define an official “AI” (LLM) policy. Other projects have tried their hand at similar policies and stances but, in my opinion, they miss the mark about the goal of such initiatives. I think that the po…",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want",
+      "source": "Gnome.org",
+      "publishedAt": "2026-09-23T06:02:20Z"
+    },
+    {
+      "title": "Grassroots resistance blocks $68 billion in AI data center projects during second quarter",
+      "description": "At least 45 U.S. data center projects worth $68 billion were blocked or delayed from April to June 2026. Opposition groups now number 843 across 49 states, with Hawaii the only exception. Roughly 30 statehouses introduced legislation addressing data center si…",
+      "url": "https://www.naturalnews.com/2026-09-23-grassroots-resistance-blocks-68b-ai-data-center-projects.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-23T06:00:00Z"
+    },
+    {
+      "title": "German and Dutch strategic innovation agencies to collaborate on AI chip design",
+      "description": "AMSTERDAM/BERLIN, Sept 23 : A new Dutch government agency set up to achieve strategic innovation will work with its German counterpart to pursue breakthroughs in AI computer chip design, it said on Wednesday, as part of European efforts to reduce reliance on …",
+      "url": "https://www.channelnewsasia.com/business/german-and-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-6404241",
+      "source": "CNA",
+      "publishedAt": "2026-09-23T05:04:23Z"
+    },
+    {
+      "title": "What a task costs on Opus 5.5 | Claude by Anthropic",
+      "description": "The cost of a task, and the cost of a retryYou don't set out to buy millions of tokens. You set out to build a feature, finish a migration, or run a task. The token count is whatever the model needed to get there. Two models with the same cost per token can c…",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "source": "Claude.com",
+      "publishedAt": "2026-09-23T04:27:48Z"
+    },
+    {
+      "title": "Inside AI Prompt Security: Why Stopping Every LLM Exploit Is Impossible",
+      "description": "Because AI understands human language, hackers can trick models using clever phrasing. Here's how developers build defenses—and why attacks still get through.\nIf you've watched an AI presentation recently, you've probably heard a lot about \"guardrails.\" It's …",
+      "url": "https://me.pcmag.com/en/security/38130/inside-ai-prompt-security-why-stopping-every-llm-exploit-is-impossible",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-23T04:21:14Z"
+    },
+    {
+      "title": "Anthropic in Talks to Lease Apollo-Owned Stream Data Centers",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers",
+      "source": "The Information",
+      "publishedAt": "2026-09-23T04:12:07Z"
+    },
+    {
+      "title": "Alibaba accelerates data center expansion in Europe, Middle East as AI arms race goes global",
+      "description": "Alibaba's expansion into Europe and the Middle East enhances its global AI competitiveness, potentially reshaping regional cloud markets.\nThe post Alibaba accelerates data center expansion in Europe, Middle East as AI arms race goes global appeared first on C…",
+      "url": "https://cryptobriefing.com/alibaba-data-center-expansion-europe-middle-east",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-23T03:59:54Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune",
+      "Anthropic and OpenAI roll out cheaper models amid intensifying AI race",
+      "CME Group's GPU futures debut stalls as CFTC flags concerns",
+      "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "Anthropic and OpenEvidence Team to Expand Reach of Medical AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tribuneindia.com/news/business/gates-foundation-forms-global-ai-coalition-to-bridge-language-gap-anthropic-microsoft-google-among-signatories",
+        "https://www.business-standard.com/technology/tech-news/anthropic-openai-cheaper-ai-models-opus-5-5-gpt-6-sol-luna-price-war-126092300215_1.html",
+        "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/openai-says-us-should-lead-world-in-ai-regulation/article71498132.ece",
+        "https://cryptobriefing.com/grab-openai-ai-training-southeast-asia",
+        "https://www.techradar.com/pro/palantir-ceo-alex-karp-reckons-openai-will-never-ipo-mainly-due-to-the-huge-amount-of-liability-it-carries"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260923VL208/gpu-cftc-economic-growth-market-infrastructure.html",
+        "https://www.naturalnews.com/2026-09-23-nvidia-ceo-huang-rejects-ai-extinction-claims.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/firmus-technologies-10b-nvidia-chips",
+        "https://www.techradar.com/pro/the-case-for-purpose-built-generative-ai-in-fraud-prevention",
+        "https://www.techpowerup.com/352980/techpowerup-gpu-z-v2-71-0-released"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Gates Foundation forms global AI coalition to bridge language gap; Anthropic, Microsoft, Google among signatories - The Tribune. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
