@@ -1,0 +1,288 @@
+{
+  "theme": "ai",
+  "date": "2026-09-25",
+  "last_updated_utc": "2026-09-25T10:59:49.077Z",
+  "news": [
+    {
+      "title": "Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: Get 1min.AI Advanced Business Plan for life for just $99.99 (reg. $540), including access to AI models from OpenAI, Anthropic, Google AI, Meta AI, Mistral AI, and Cohere.\r\n\n\n\n\nAI tools are multiplying faster than browser tabs during…",
+      "url": "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html",
+      "source": "Macworld",
+      "publishedAt": "2026-09-24T08:00:00Z"
+    },
+    {
+      "title": "China’s AI surveillance machine: Beijing-linked actors turn Claude against dissidents, religious groups",
+      "description": "Artificial intelligence (AI) is increasingly becoming part of the machinery of intelligence gathering, but a new investigation by US technology company Anthropic shows how quickly that shift can move from theory to operational reality. According to Anthropic’…",
+      "url": "https://english.khabarhub.com/2026/24/569077",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-09-24T10:45:01Z"
+    },
+    {
+      "title": "OpenAI Agent Hacked Australian Government Health Website",
+      "description": "An OpenAI model hacked an Australian government website earlier this year, marking one of the first known cyberattacks by artificial intelligence on a government database. The AI system gained unauthorized access to files on a website for reporting healthcare…",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/24/886664.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-24T10:18:33Z"
+    },
+    {
+      "title": "Anthropic Builds Biology Lab to Test What Claude Can Do in the Real World",
+      "description": "Anthropic has spent years warning about the risks of increasingly capable AI. Now it is testing what those systems can do inside a real biology lab.\nThe Claude maker has established a wet lab in the San Francisco Bay Area where it can conduct physical biologi…",
+      "url": "https://dzone.com/articles/news-anthropic-claude-biology-lab",
+      "source": "Dzone.com",
+      "publishedAt": "2026-09-24T09:22:41Z"
+    },
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google’s DeepMind division, Koray Kavu…",
+      "url": "https://biztoc.com/x/38a5def0353f2b5d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T09:21:54Z"
+    },
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavu…",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T09:04:18Z"
+    },
+    {
+      "title": "OpenAI Agent Bypassed an Australian Government Health Portal During Internal Research",
+      "description": "OpenAI’s AI agent bypassed controls on an Australian health portal, accessed non-public files and triggered a government investigation. An OpenAI AI agent bypassed access controls on an Australian government health statistics portal in June, accessing both pu…",
+      "url": "https://securityaffairs.com/199662/ai/openai-agent-bypassed-an-australian-government-health-portal-during-internal-research.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-09-24T10:31:52Z"
+    },
+    {
+      "title": "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means",
+      "description": "Incident highlights growing concerns about AI's impact on cybersecurity and AI disclosure procedures, say experts.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-24T10:30:02Z"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website, accessed files",
+      "description": "Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorized access to files, in what could be the first known instance of an AI agent hacking a government website.\nThe breach is one of the highest-profile …",
+      "url": "https://biztoc.com/x/726805862c05ed19",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T10:22:41Z"
+    },
+    {
+      "title": "AI could make more companies worth hacking, Anthropic report suggests",
+      "description": "As AI reduces the amount of expertise needed to conduct cyberattacks, it is widening the number of companies that might make tempting targets. \nThat’s one implication of a number of findings from Anthropic’s most recent Threat Intelligence report published ea…",
+      "url": "https://biztoc.com/x/38c273712c0ba682",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T10:21:42Z"
+    },
+    {
+      "title": "AI could make more companies worth hacking, Anthropic report suggests",
+      "description": "Attackers extracted data belonging to roughly 200 customers of a software provider, with AI agents doing nearly all the work, Anthropic says.",
+      "url": "https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests",
+      "source": "Fortune",
+      "publishedAt": "2026-09-24T10:02:07Z"
+    },
+    {
+      "title": "Rogue OpenAI Agent Hacked Australian Government Medical Website",
+      "description": "It’s the first known instance of an agentic AI gaining unauthorized access to a government portal.\nAnother day, another agentic AI hack. The latest disclosure concerns an OpenAI-developed agent that gained unauthorized access to an Australian government healt…",
+      "url": "https://uk.pcmag.com/ai/167475/rogue-openai-agent-hacked-australian-government-medical-website",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-24T09:56:50Z"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked into government website",
+      "description": "By Renju Jose and Chris Thomas SYDNEY, Sept 24 (Reuters) - Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the first known instance of an AI agent hacking a go…",
+      "url": "https://uk.finance.yahoo.com/news/australia-pm-albanese-says-openai-204422718.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-24T09:32:41Z"
+    },
+    {
+      "title": "Jammu & Kashmir working on establishing Artificial Intelligence centre of excellence",
+      "description": "The Jammu and Kashir government plans to establish an Artificial Intelligence Centre of Excellence. The government said it is promoting AI and other emerging technologies in the Union territory as part of its broader digital transformation and technology-enab…",
+      "url": "https://economictimes.indiatimes.com/news/india/jammu-kashmir-working-on-establishing-artificial-intelligence-centre-of-excellence/articleshow/134457481.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-24T09:30:33Z"
+    },
+    {
+      "title": "Albanese criticizes OpenAI for breach of Australian health data portal",
+      "description": "Australian Prime Minister Anthony Albanese says he is extremely concerned about OpenAI's security breach of a government website, and that the artificial intelligence company took too long to reveal the incident",
+      "url": "https://www.wsoctv.com/news/technology/australias-prime/R6AUZGWZCE5YVMC2YMSVSYL2HI",
+      "source": "WSOC Charlotte",
+      "publishedAt": "2026-09-24T09:30:18Z"
+    },
+    {
+      "title": "Australian Prime Minister Says OpenAI Hacked Medicare",
+      "description": "MOSCOW (Sputnik) - Australian Prime Minister Anthony Albanese said that an artificial intelligence agent developed by US tech company OpenAI had hacked the national universal healthcare system, Medicare, in what he described as an \"unacceptable\" situation.",
+      "url": "https://sputnikglobe.com/20260924/australian-prime-minister-says-openai-hacked-medicare-1124780254.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-24T09:29:08Z"
+    },
+    {
+      "title": "OpenAI Agent Hacked Australian Government Health Website",
+      "description": "An OpenAI model hacked an Australian government website earlier this year, marking one of the first known cyberattacks by AI on a government database. Paul Allen has more.\n----------\nLike this video? Subscribe \nBloomberg News is the first word in business new…",
+      "url": "https://biztoc.com/x/3ce616efc2e05fa5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T09:22:05Z"
+    },
+    {
+      "title": "Australia Condemns ‘Unacceptable’ OpenAI Breach of Government Health Portal",
+      "description": "The breach follows a string of incidents involving AI models going rogue.",
+      "url": "https://time.com/article/2026/09/24/australia-condemns-unacceptable-openai-breach-of-government-health-portal",
+      "source": "Time",
+      "publishedAt": "2026-09-24T09:08:54Z"
+    },
+    {
+      "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\"",
+      "description": "President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI \"doomerism\" and a founding father of the effective altruism movement that's come under increasing political fire.\nWhy it matters: The attacks signal that Anthropic could remai…",
+      "url": "https://biztoc.com/x/12bdb149c8302c7b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T09:06:58Z"
+    },
+    {
+      "title": "Beyond ChatGPT: Work smarter with the top AI-powered software to boost efficiency",
+      "description": "Ciara O’Brien takes a look at some of the latest AI-powered productivity and creative tools",
+      "url": "https://www.irishtimes.com/business/2026/09/24/beyond-chatgpt-work-smarter-with-the-top-ai-powered-software-to-boost-efficiency",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-24T09:00:00Z"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website",
+      "description": "Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining ‌unauthorized access to files, in what could be the first known instance of an AI agent hacking a government website.",
+      "url": "https://www.cbc.ca/news/world/openai-agent-hacked-government-website-australia-9.7356351",
+      "source": "CBC News",
+      "publishedAt": "2026-09-24T08:56:40Z"
+    },
+    {
+      "title": "「ChatGPTなどのAIから、あなたの会社はどう見えている？」",
+      "description": "[GovSync株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/191204/1/191204-1-6c33851dfa794bcaa28c199c7b5ee6f6-1672x941.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000191204.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-24T08:40:38Z"
+    },
+    {
+      "title": "SoftBank raises $11bn in record junk bond offering to fund OpenAI bet",
+      "description": "Yields of up to 9.75% seen as indicator of investors’ willingness to keep funding AI boom",
+      "url": "https://biztoc.com/x/ab28fa712b52ad04",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T08:37:00Z"
+    },
+    {
+      "title": "OpenAI agent hacks Australian Medicare portal in first known AI breach of a government system",
+      "description": "OpenAI disclosed the June incident only in September, by email to a public inbox, as Canberra investigates whether three further government websites were affected and the company insists that no patient medical records were accessed\nThe post OpenAI agent hack…",
+      "url": "https://en.protothema.gr/2026/09/24/openai-agent-hacks-australian-medicare-portal-in-first-known-ai-breach-of-a-government-system",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-09-24T08:36:01Z"
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "description": "Last week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This week, the AI giant announced that this lab has already made what it believes is a big discovery: a new enzyme …",
+      "url": "https://biztoc.com/x/4be4ee18cc084c00",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-24T08:07:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox",
+      "China’s AI surveillance machine: Beijing-linked actors turn Claude against dissidents, religious groups",
+      "OpenAI Agent Hacked Australian Government Health Website",
+      "Anthropic Builds Biology Lab to Test What Claude Can Do in the Real World",
+      "Gemini 4 is almost ready, says new Google DeepMind chief"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macworld.com/article/3240487/claude-gemini-gpt-are-all-included-in-this-99-99-lifetime-ai-toolbox.html",
+        "https://www.insurancejournal.com/news/international/2026/09/24/886664.htm",
+        "https://securityaffairs.com/199662/ai/openai-agent-bypassed-an-australian-government-health-portal-during-internal-research.html"
+      ]
+    },
+    {
+      "title": "Government",
+      "summary": "Grouped stories where \"government\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/india/jammu-kashmir-working-on-establishing-artificial-intelligence-centre-of-excellence/articleshow/134457481.cms"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/38a5def0353f2b5d",
+        "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://english.khabarhub.com/2026/24/569077",
+        "https://dzone.com/articles/news-anthropic-claude-biology-lab",
+        "https://biztoc.com/x/38c273712c0ba682"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude, Gemini & GPT are all included in this $99.99 lifetime AI toolbox. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
