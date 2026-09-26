@@ -1,0 +1,426 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-26",
+  "last_updated_utc": "2026-09-26T10:44:47.040Z",
+  "news": [
+    {
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185860452",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T10:32:27Z"
+    },
+    {
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-25T10:30:00Z"
+    },
+    {
+      "title": "Anisotropic magnetic properties of the magnetic semiconductor ${\\mathrm{YbCuS}}_{2}$ with an Yb zigzag chain investigated using twinned crystals",
+      "description": "In magnetically frustrated systems, competing exchange interactions suppress long-range magnetic order and give rise to nontrivial ground states. In this study, we investigate the magnetic semiconductor ${\\text{YbCuS}}_{2}$, which crystallizes in the orthorho…",
+      "url": "https://link.aps.org/doi/10.1103/tdnw-wk8c",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "title": "Interlayer-coupling control of high-harmonic generation in bilayer ${\\mathrm{WS}}_{2}$",
+      "description": "We investigate how interlayer coupling shapes high-harmonic generation (HHG) in AA-stacked bilayer ${\\mathrm{WS}}_{2}$ using real-time time-dependent density functional theory and semiconductor Bloch equations. The bilayer harmonic yield is found to depart fr…",
+      "url": "https://link.aps.org/doi/10.1103/yzdw-vsf5",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "title": "Quantum interference corrections in a magnetic-fluctuation-controlled metallic state of ${\\mathrm{Fe}}_{1−x}{\\mathrm{Cr}}_{x}\\mathrm{Si}$",
+      "description": "We present a comprehensive investigation of the magnetic, thermodynamic, and transport properties of ${\\mathrm{Fe}}_{0.925}{\\mathrm{Cr}}_{0.075}\\mathrm{Si}$ to clarify the origin of its low-temperature metallic behavior. Although Cr substitution introduces a …",
+      "url": "https://link.aps.org/doi/10.1103/3g11-qc9k",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "title": "Mercedes-Benz GLC EV to be assembled in Thailand – GLC300 expected to go for under RM452k when it debuts",
+      "description": "Mercedes-Benz Thailand has announced plans to manufacture the Mercedes-Benz GLC electric in Thailand, using domestically sourced components to strengthen the country’s auto supply chain and bolster its electric vehicle (EV) production, the Bangkok Post report…",
+      "url": "https://paultan.org/2026/09/25/mercedes-benz-glc-ev-to-be-assembled-in-thailand-glc300-expected-to-go-for-under-rm452k-when-it-debuts",
+      "source": "Paul Tan's Automotive News",
+      "publishedAt": "2026-09-25T09:36:55Z"
+    },
+    {
+      "title": "Square Enix’s Vanished Final Fantasy VII Game Has Been Rescued, As Developer Makes It Playable After 20 Years in Limbo",
+      "description": "While many fans of the original Final Fantasy VII don't particularly appreciate the Compilation of Final Fantasy VII titles, there's no denying that they provide a fascinating look at how Square Enix handled direct sequels and prequels for its popular series …",
+      "url": "https://wccftech.com/square-enixs-vanished-final-fantasy-vii-game-rescued-playable",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-25T09:27:00Z"
+    },
+    {
+      "title": "Singapore deepens chip R&D ties with Applied Materials, KLA and GlobalFoundries",
+      "description": "Singapore is deepening semiconductor R&D ties with Applied Materials, KLA, GlobalFoundries (GF) and other industry players across advanced packaging and silicon photonics, as the city-state builds on its manufacturing base to strengthen technology development…",
+      "url": "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-25T09:15:59Z"
+    },
+    {
+      "title": "Dutch PM presses US to avoid tighter ASML China curbs",
+      "description": "Dutch Prime Minister Rob Jetten is pressing Washington to avoid another round of export restrictions on ASML's China business as US lawmakers pursue legislation that could tighten controls on the chip-equipment maker's immersion lithography systems and servic…",
+      "url": "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-25T09:13:40Z"
+    },
+    {
+      "title": "Motorola Signature 27 confirmed to support GrapheneOS - 9to5Google",
+      "description": "Motorola Signature 27 confirmed to support GrapheneOS9to5Google Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone marketCNBC motorola signature 27Motorola News Snapdragon Leads the Agentic AI Age with Two of the World’s Faste…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185859968",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T09:12:27Z"
+    },
+    {
+      "title": "Nvidia's historic stock boom is turning its golden handcuffs into a ticket out the door",
+      "description": "Nvidia CEO Jensen Huang.\nBloomberg/Getty Images\nNvidia's stock boom has turned golden handcuffs into a potential exit ramp.\nSome longtime employees timed their departures around valuable stock vests.\nOthers said age and the job's intensity shaped the decision…",
+      "url": "https://biztoc.com/x/674180809207a8a6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-25T09:08:32Z"
+    },
+    {
+      "title": "Nikkei Climbs 850 Points as Chip Shares and Dividend Buying Lift Tokyo",
+      "description": "Tokyo stocks rose strongly on September 25, with the Nikkei 225 closing at 66,364, up 850 points, as buying in semiconductor and artificial intelligence-related shares combined with demand for dividend-paying financial stocks ahead of the September 28 interim…",
+      "url": "https://newsonjapan.com/article/150860.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-09-25T09:03:49Z"
+    },
+    {
+      "title": "DLSS 5 test on GeForce RTX 5090 shows 16-pin connector hitting 91.7 degrees at 647W",
+      "description": "A new deep dive into DLSS 5 from QuasarZone found that in addition to increasing GPU power draw it also increases 16-pin connector temperatures.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113761/dlss-5-test-on-geforce-rtx-5090-shows-16-pin-connector-hitting-91-7-degrees-at-647w/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-25T08:58:12Z"
+    },
+    {
+      "title": "Project Suncatcher: What Google plans to test by taking AI compute to space",
+      "description": "Google's Project Suncatcher will test AI chips in orbit as the company explores solar-powered satellite clusters as a potential new way to scale AI computing infrastructure",
+      "url": "https://www.business-standard.com/technology/tech-news/project-suncatcher-what-google-plans-to-test-by-taking-ai-compute-to-space-126092500605_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T08:45:38Z"
+    },
+    {
+      "title": "MSI Modern 15 Core i5-1334U 15.6\" Laptop for $577 + free shipping",
+      "description": "A shellshocker deal, Newegg offers the MSI Modern 15 Core i5-1334U 15.6\" Laptop for $577. That's a savings of $172. Shipping is free. Buy Now at Newegg\r\n Features\r\n <ul> <li>Intel Core i5-1334U processor</li> <li>16 GB memory and 512 GB SSD storage</li> <li>1…",
+      "url": "https://www.dealnews.com/MSI-Modern-15-Core-i5-1334-U-15-6-Laptop-for-577-free-shipping/22215920.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-25T08:42:42Z"
+    },
+    {
+      "title": "An open source approach to physical AI from Intrinsic",
+      "description": "Deborah Lupton / Pop Chips / Licenced by CC-BY 4.0 Intrinsic (an AI robotics group at Google) announced that the company is making parts of its platform open source. Intrinsic Core™ is a set of ROS-compatible capabilities for building sophisticated robotic ap…",
+      "url": "https://robohub.org/an-open-source-approach-to-physical-ai-from-intrinsic",
+      "source": "Robohub.org",
+      "publishedAt": "2026-09-25T08:41:15Z"
+    },
+    {
+      "title": "MSMEs must prepare for EU non-tariff rules to gain from FTA: Govt",
+      "description": "Officials and trade experts said lower tariffs alone would not lift exports unless Indian MSMEs can meet EU requirements on ESG, CBAM, certification and supply-chain standards",
+      "url": "https://www.business-standard.com/industry/news/india-eu-fta-msmes-esg-cbam-certification-export-compliance-126092500593_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T08:39:13Z"
+    },
+    {
+      "title": "Future Galaxy flagships could turn into true PC gaming handhelds",
+      "description": "Smartphones have become increasingly powerful these days, but all that raw performance is rarely utilized. Outside of a few mobile games, the processing power of flagship smartphone chips often goes to waste. However, future flagship Galaxy phones with Qualco…",
+      "url": "https://www.sammobile.com/news/future-galaxy-flagships-true-pc-gaming-emulation",
+      "source": "SamMobile",
+      "publishedAt": "2026-09-25T08:36:41Z"
+    },
+    {
+      "title": "NVIDIA files patent for an AI tool that could help developers better optimize PC games",
+      "description": "NVIDIA has filed a patent for a new AI tool to help diagnose GPU-related performance issues, and it could be used for PC game optimization.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113760/nvidia-files-patent-for-an-ai-tool-that-could-help-developers-better-optimize-pc-games/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-25T08:31:14Z"
+    },
+    {
+      "title": "ABS Flux II Aqua Core i5-14400F RTX 5060 Ti Gaming Desktop PC for $1,130 + free shipping",
+      "description": "Using promo code SSF73828, this ABS Flux II Aqua gaming desktop drops to $1,129.99. That makes for a savings of $270 in total. Buy Now at Newegg\r\n Features\r\n <ul> <li>Intel Core i5-14400F processor</li> <li>MSI Shadow 2X OC Plus GeForce RTX 5060 Ti 8GB graphi…",
+      "url": "https://www.dealnews.com/ABS-Flux-II-Aqua-Core-i5-14400-F-RTX-5060-Ti-Gaming-Desktop-PC-for-1-130-free-shipping/22215913.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-25T08:24:37Z"
+    },
+    {
+      "title": "SpaceX Beating Bull Case- Adding 880,000 chips in four month, 500MW Per Month (Elon Confirmed)",
+      "description": "SpaceX will have FIVE Giant AI data centers completed by the end of 2026. The LEAD. SHOCKING NEWS. They are serial producing 450 MW AI data centers taking 4 months to build from start to finish with chips installed. They will work at four at time to complete …",
+      "url": "https://www.nextbigfuture.com/2026/09/spacex-beating-bull-case-adding-880000-chips-in-four-month-500mw-per-month-elon-confirmed.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-09-25T08:04:59Z"
+    },
+    {
+      "title": "PM Modi lauds 'Make in India' success, credits infra, innovation for growth",
+      "description": "Prime Minister Narendra Modi on Friday highlighted the success of his government's 'Make in India' initiative, and said creation of infrastructure, enterprise and innovation allows the country to prosper.\nThe 'Make in India' programme was launched on Septembe…",
+      "url": "https://www.business-standard.com/india-news/pm-modi-lauds-make-in-india-success-credits-infrastructure-innovation-for-national-growth-126092500479_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T08:00:53Z"
+    },
+    {
+      "title": "Raidmax RX-850AED 850W ATX 3.1 Power Supply for $45 + free shipping",
+      "description": "With promo code \"SSF73786\", this Raidmax RX-850AED 850W power supply drops to $44.99. That makes for a savings of $25 in total. Buy Now at Newegg\r\n Features\r\n <ul> <li>850W continuous output with 80+ Gold certified efficiency</li> <li>ATX 3.1 and PCIe Gen 5 r…",
+      "url": "https://www.dealnews.com/Raidmax-RX-850-AED-850-W-ATX-3-1-Power-Supply-for-45-free-shipping/22215901.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-25T07:58:22Z"
+    },
+    {
+      "title": "(PR) NVIDIA GeForce NOW Coming Soon to Googlebooks, Gets Nine New Games This Week",
+      "description": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment's CONTROL Resonant brings Dylan Faden's extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONTROL Resonant Ultimat…",
+      "url": "https://www.techpowerup.com/353083/nvidia-geforce-now-coming-soon-to-googlebooks-gets-nine-new-games-this-week",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-25T07:50:52Z"
+    },
+    {
+      "title": "Win 1 of 3 Prizes from AMD Gaming",
+      "description": "Grand Prize: (1) ROG XBOX Ally X20 Bundle\nFirst Runners Up: (1) ROG Azoth Extreme Edition 20 Keyboard, ROG Harpe II Extreme Edition 20 Mouse, and ROG Keycap Mystery Box Edition 20 Bundle\nSecond Runners Up: (1) ROG SLASH Backpack Edition 20",
+      "url": "https://www.ozbargain.com.au/node/976433",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-09-25T07:45:21Z"
+    },
+    {
+      "title": "Glass Cigar Humidor Jar for $42 + free shipping",
+      "description": "This Glass Cigar Humidor Jar drops to $42 automatically at final checkout, beating our mention from last month by $7. It's the best price we've seen for this humidor. It includes a built-in hygrometer, a refillable humidifier, and two separate glass tubes for…",
+      "url": "https://www.dealnews.com/Glass-Cigar-Humidor-Jar-for-42-free-shipping/22215894.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-25T07:39:44Z"
+    },
+    {
+      "title": "Nintendo Switch 2 developers are using NVIDIA DLSS and AMD FSR Frame Generation to hit 60 FPS",
+      "description": "Stellar Blade and Dragon's Dogma 2 developers are using DLSS Super Resolution and AMD's FSR 3.1 Frame Generation to achieve 60 FPS.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113758/nintendo-switch-2-developers-are-using-nvidia-dlss-and-amd-fsr-frame-generation-to-hit-60-fps/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-25T07:37:13Z"
+    },
+    {
+      "title": "Intel Arc GPU Graphics Drivers 101.9033 Beta Released",
+      "description": "Intel has released its latest Arc GPU graphics drivers, version 101.9033 beta, which brings day-one support for the new game CONTROL Resonant. We conducted an in-depth review of the game's performance on both traditional discrete GPUs and handheld devices wit…",
+      "url": "https://www.techpowerup.com/353081/intel-arc-gpu-graphics-drivers-101-9033-beta-released",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-25T07:36:29Z"
+    },
+    {
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream - The Verge",
+      "description": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dreamThe Verge Inside Snapdragon Summit 2026: Agentic AI PCs, Googlebooks and Linux are hereQualcomm From Audio Glasses to Earbuds With Cameras, Headphones Are Getting a Major AI Rebrand…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185859120",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T07:12:28Z"
+    },
+    {
+      "title": "The new Mac mini and Mac Studio are available today - Apple",
+      "description": "The new Mac mini and Mac Studio are available todayApple Nvidia Slips as Four Macs Attack Cloud Inference Economicsfinance.yahoo.com Apple M6 Mac mini review: $300 price hike spoils a nice upgradeArs Technica With new Macs, Apple aims to take on Microsoft, Nv…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185859118",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T07:12:17Z"
+    },
+    {
+      "title": "Best Prospect In The Sport? UFC Signs Petr Yan’s Undefeated Training Partner",
+      "description": "UFC 333 just scored an incredible new addition. Per a first report from Pelunaton, blue chip prospect Asaf Chopurov has officially signed to the UFC roster. Undefeated at 11-0 as a professional, Chopurov is a primary sparring partner of UFC Bantamweight kingp…",
+      "url": "https://www.mmamania.com/latest-news/474635/best-prospect-in-the-sport-ufc-333-adds-petr-yans-undefeated-training-partner-asaf-chopurov",
+      "source": "MMA Mania",
+      "publishedAt": "2026-09-25T07:00:00Z"
+    },
+    {
+      "title": "We’ve been here before: Qualcomm promises Linux support for Snapdragon X2",
+      "description": "Qualcomm, yesterday, promising Linux support for the new Snapdragon X2 processors: Linux on Snapdragon X2 Series is moving from early bring-up toward a more complete upstream developer experience. Core support is landing, Hexagon NPU and Adreno GPU work is pr…",
+      "url": "https://www.osnews.com/story/146022/weve-been-here-before-qualcomm-promises-linux-support-for-snapdragon-x2",
+      "source": "Osnews.com",
+      "publishedAt": "2026-09-25T06:30:55Z"
+    },
+    {
+      "title": "Waaree Clean Energy Solutions forays into specialty gases biz to",
+      "description": "Aims to become one-stop supplier to the country's semiconductor and solar cell manufacturers",
+      "url": "https://www.business-standard.com/markets/capital-market-news/waaree-clean-energy-solutions-forays-into-specialty-gases-biz-to-126092500380_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T06:20:39Z"
+    },
+    {
+      "title": "Trump-Xi summit leaves rare-earth issue unresolved amid yttrium supply squeeze",
+      "description": "The Trump-Xi summit left rare-earth supplies among the unresolved issues in US-China economic relations, as the US and Japan confront uneven access to yttrium, a little-known rare-earth metal used in heat-resistant coatings for semiconductor manufacturing too…",
+      "url": "https://www.digitimes.com/news/a20260925VL202/manufacturing-materials.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-25T05:18:55Z"
+    },
+    {
+      "title": "The who's who in tech showed up for Trump's glitzy White House dinner with China's leader",
+      "description": "Kevin Dietsch/Getty Images\nDonald Trump is hosting China's leader to discuss tariffs, critical minerals, and AI safety.\nThe attendees included AMD CEO Lisa Su, OpenAI's Sam Altman, and Elon Musk.\nHere are the biggest names in tech who showed up for dinner at …",
+      "url": "https://biztoc.com/x/2eea89e79c60aa41",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-25T04:53:24Z"
+    },
+    {
+      "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+      "description": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-25T04:53:12Z"
+    },
+    {
+      "title": "NVIDIA Jetson AGX Orinの力を、そのまま現場へ～多眼カメラのAI認識、プラグアンドプレイで～",
+      "description": "[Ai Sensing 合同会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/169660/14/169660-14-5482c2001f7cdc0187bd5453dd6d5c23-360x359.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000169660.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-25T04:48:33Z"
+    },
+    {
+      "title": "GIGABYTE GAMING A16 PRO: 16\" QHD+ 165Hz IPS, RTX 5070 Ti, Intel Core 7 240H, 32GB DDR5, 1TB SSD $1449 (1 replies)",
+      "description": "SPECS:Operating system: Windows 11 Home\nProcessor: Intel® Core™ 7 240H\nDisplay: 16.0-inch IPS WQXGA (2560×1600), 165Hz, 3ms, sRGB 100%, 400 nits\nMemory: 16GB x 2 (32GB) DDR5x 5600MHz\nInternal stor",
+      "url": "https://slickdeals.net/f/20059956-gigabyte-gaming-a16-pro-16-qhd-165hz-ips-rtx-5070-ti-intel-core-7-240h-32gb-ddr5-1tb-ssd-1449",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-25T04:41:25Z"
+    },
+    {
+      "title": "Elon Musk plans 660K GB300 GPUs for Colossus 2 by year-end",
+      "description": "Musk's GPU expansion could redefine AI capabilities, but raises concerns over environmental impact and energy demands in tech infrastructure.\nThe post Elon Musk plans 660K GB300 GPUs for Colossus 2 by year-end appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/musk-660k-gb300-gpus-colossus-2",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-25T04:40:43Z"
+    },
+    {
+      "title": "Manipur selects 25 graduates for semiconductor SMT training at IIT Madras",
+      "description": "Manipur has selected 25 graduates from Minority, OBC and SC communities for a 15-day residential Semiconductor Surface Mount Technology (SMT) training programme at IIT Madras. The state government will cover training, accommodation and travel costs, while IIT…",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/manipur-selects-25-graduates-for-semiconductor-smt-training-at-iit-madras/articleshow/134475341.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-25T04:39:39Z"
+    },
+    {
+      "title": "Huawei Mate 90 Pro’s Kirin 9035 chip details just leaked, and it’s looking serious",
+      "description": "A Weibo tipster dropped fresh specs on Huawei's next exclusive mobile chip before the company said a word",
+      "url": "https://www.intomobile.com/2026/09/24/huawei-mate-90-pros-kirin-9035-chip-details-just-leaked-and-its-looking-serious",
+      "source": "Intomobile.com",
+      "publishedAt": "2026-09-25T04:25:14Z"
+    },
+    {
+      "title": "Global Market: Japanese shares rise on AI stocks, dividend buying; Nikkei up 1.2%",
+      "description": "Japanese shares rose on Friday, led by AI and chip stocks, while investors bought shares ahead of Monday’s mid-term dividend eligibility deadline. The Nikkei 225 gained 1.23% and Topix 1.19%. Banking stocks also advanced strongly, although SoftBank fell 2.63%…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-shares-rise-on-ai-stocks-dividend-buying-nikkei-up-1-2/articleshow/134474411.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-25T04:12:33Z"
+    },
+    {
+      "title": "Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen - Engadget",
+      "description": "Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screenEngadget The Xiaomi 18 Pro Max is here with everything it needs to put the Galaxy S26 Ultra in a cornerPhoneArena Xiaomi’s Gorgeous New 18 Series Phones With Triple…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185857086",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T03:52:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "Anisotropic magnetic properties of the magnetic semiconductor ${\\mathrm{YbCuS}}_{2}$ with an Yb zigzag chain investigated using twinned crystals",
+      "Interlayer-coupling control of high-harmonic generation in bilayer ${\\mathrm{WS}}_{2}$",
+      "Quantum interference corrections in a magnetic-fluctuation-controlled metallic state of ${\\mathrm{Fe}}_{1−x}{\\mathrm{Cr}}_{x}\\mathrm{Si}$",
+      "Mercedes-Benz GLC EV to be assembled in Thailand – GLC300 expected to go for under RM452k when it debuts"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20260925PD201/kla-applied-materials-globalfoundries-manufacturing-silicon.html",
+        "https://www.digitimes.com/news/a20260925VL203/dutch-asml-sales-equipment-revenue.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185859968"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185860452",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+        "https://biztoc.com/x/674180809207a8a6"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://link.aps.org/doi/10.1103/tdnw-wk8c",
+        "https://link.aps.org/doi/10.1103/yzdw-vsf5",
+        "https://www.business-standard.com/markets/capital-market-news/waaree-clean-energy-solutions-forays-into-specialty-gases-biz-to-126092500380_1.html"
+      ]
+    },
+    {
+      "title": "Gpu",
+      "summary": "Grouped stories where \"gpu\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/113761/dlss-5-test-on-geforce-rtx-5090-shows-16-pin-connector-hitting-91-7-degrees-at-647w/index.html",
+        "https://www.techpowerup.com/353081/intel-arc-gpu-graphics-drivers-101-9033-beta-released",
+        "https://www.osnews.com/story/146022/weve-been-here-before-qualcomm-promises-linux-support-for-snapdragon-x2"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://link.aps.org/doi/10.1103/3g11-qc9k",
+        "https://paultan.org/2026/09/25/mercedes-benz-glc-ev-to-be-assembled-in-thailand-glc300-expected-to-go-for-under-rm452k-when-it-debuts",
+        "https://wccftech.com/square-enixs-vanished-final-fantasy-vii-game-rescued-playable"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

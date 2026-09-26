@@ -1,0 +1,278 @@
+{
+  "theme": "ai",
+  "date": "2026-09-26",
+  "last_updated_utc": "2026-09-26T10:41:32.331Z",
+  "news": [
+    {
+      "title": "OpenAI has a Mark Zuckerberg-shaped problem",
+      "description": "Meta CEO Mark Zuckerberg.\nBloomberg/Getty Images\nMuse's viral adoption is a threat to ChatGPT, long the face of consumer AI.\nAnalysts expect OpenAI to respond with its own assistant offering.\nOpenAI has led in agentic AI, though it risks falling behind the si…",
+      "url": "https://biztoc.com/x/e081b0894c9e32fd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-25T09:08:45Z"
+    },
+    {
+      "title": "Claude AI discovers CRISPR-like gene-editing system: All you need to know",
+      "description": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory",
+      "url": "https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T09:08:39Z"
+    },
+    {
+      "title": "NVIDIA files patent for an AI tool that could help developers better optimize PC games",
+      "description": "NVIDIA has filed a patent for a new AI tool to help diagnose GPU-related performance issues, and it could be used for PC game optimization.Continue reading at TweakTown",
+      "url": "https://www.tweaktown.com/news/113760/nvidia-files-patent-for-an-ai-tool-that-could-help-developers-better-optimize-pc-games/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-09-25T08:31:14Z"
+    },
+    {
+      "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
+      "description": "ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。Dark Sourcery: How Hackers Manipulate AI to Scam You | by Ariel Simon | Sep, 2026 | Mediumhttps://medium.com/@ari…",
+      "url": "https://news.livedoor.com/article/detail/32408469",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-25T06:10:00Z"
+    },
+    {
+      "title": "School Districts Impose Moratoriums on Generative AI Amid Rising Parent Concerns",
+      "description": "New York City and the Los Angeles Unified School District (LAUSD) have imposed one-year moratoriums on generative artificial intelligence tools (AI) in classrooms, according to district announcements. Officials cited student privacy and learning concerns as p…",
+      "url": "https://www.naturalnews.com/2026-09-25-school-districts-impose-moratoriums-generative-ai-tools.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-25T06:00:00Z"
+    },
+    {
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185860452",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T10:32:27Z"
+    },
+    {
+      "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+      "description": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-25T10:30:00Z"
+    },
+    {
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+      "description": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185860354",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-25T10:12:55Z"
+    },
+    {
+      "title": "The Data Center Debate Taking Over Native American Tribes",
+      "description": "Native candidates are far from unified on AI infrastructure, writes Petala Ironcloud.",
+      "url": "https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes",
+      "source": "Time",
+      "publishedAt": "2026-09-25T10:00:04Z"
+    },
+    {
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+      "description": "Earth-bound data centers are going to be around for a while, but Google is just one company looking to put them into space.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "title": "Effects of generative AI-mediated socratic dialogue on preservice physics teachers’ critical thinking in kinematics",
+      "description": "Author(s): Marcos Guerrero-Zambrano, Bryan Valarezo-Chamba, Leonor Sanchez-Alvarado, and Erick Lamilla-RubioGenerative AI-mediated Socratic dialogue enhances critical thinking in kinematics, driving consistent improvements in student rubric scores and self-ef…",
+      "url": "https://link.aps.org/doi/10.1103/x7vq-17rq",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "title": "AI-Powered CARBONATO Botnet Steals Credentials to Fund Its Own LLM Gateway",
+      "description": "CARBONATO exploits exposed Docker daemons, installs an AI agent, steals API keys and spreads across networks with autonomous command execution. CARBONATO is a Docker-based botnet that has been active since at least October 2024. ThreatDown discovered the oper…",
+      "url": "https://securityaffairs.com/199716/malware/ai-powered-carbonato-botnet-steals-credentials-to-fund-its-own-llm-gateway.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-09-25T09:55:57Z"
+    },
+    {
+      "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble",
+      "description": "OpenAI CEO Sam Altman this month in San Francisco.\nBenjamin Fanjoy/Getty Images\nScott Wilson is the CIO of Washington University's endowment, who made a hugely profitable bet on SpaceX.\nWilson is openly sharing what he admits is his \"unpopular opinion\" about …",
+      "url": "https://biztoc.com/x/4967f7500aec1a09",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-25T09:08:48Z"
+    },
+    {
+      "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble",
+      "description": "The head of a major endowment says frontier labs won't be able to withstand competition from cheaper Chinese open-weight models.",
+      "url": "https://www.businessinsider.com/wash-u-cio-says-openai-and-anthropic-are-in-trouble-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-25T09:01:01Z"
+    },
+    {
+      "title": "OpenAI has a Mark Zuckerberg-shaped problem",
+      "description": "Meta's Muse agent competes with ChatGPT, raising the stakes for OpenAI's DevDay conference. Sam Altman's company is expected to respond.",
+      "url": "https://www.businessinsider.com/meta-muse-rise-ai-poses-threat-to-chatgpt-dominance-2026-9",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-25T09:00:03Z"
+    },
+    {
+      "title": "Former Anthropic researcher Jacob Coxon became a media superstar after going public with his AI fears.",
+      "description": "Former Anthropic researcher Jacob Coxon became a media superstar after going public with his AI fears. He insisted that he wasn't working with any third party organizations. Familiar sources told us a different story: DEY., a PR firm representing many of the …",
+      "url": "https://freerepublic.com/focus/f-chat/4396828/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-25T08:49:16Z"
+    },
+    {
+      "title": "Former Anthropic researcher Jacob Coxon became a media superstar after going public with his AI fears.",
+      "description": "Former Anthropic researcher Jacob Coxon became a media superstar after going public with his AI fears. He insisted that he wasn't working with any third party organizations. Familiar sources told us a different story: DEY., a PR firm representing many of the …",
+      "url": "https://freerepublic.com/focus/f-news/4396828/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-25T08:49:16Z"
+    },
+    {
+      "title": "The \"2026 Sri Lanka Artificial Intelligence Week\" begins today (25)",
+      "description": "ඩිජිටල් ආර්ථික අමාත්‍යාංශය සහ SLT-Mobitel ආයතනය එක්ව සංවිධානය කරනු ලබන \"2026 ශ්‍රී ලංකා කෘත්‍රිම බුද්ධි සතිය\" (Sri Lanka AI Week 2026) සැප්තැම්බර් 25 වැනිදා සිට 30 වැනිදා දක්වා පැවැත්වීමට කටයුතු යොදා ඇත. කොළඹ නගරය මූලික කරගනිමින් පැවැත්වෙන මෙම සුවිශේෂී වැඩසටහ…",
+      "url": "https://english.gossiplankanews.com/2026/09/the-2026-sri-lanka-artificial.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-09-25T08:02:37Z"
+    },
+    {
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+      "description": "The incursion on one of the country's most used government agencies may prompt a tougher stance as Australia readies AI-specific laws starting in 2027, adding pressure to Australia-US relations already tested by Canberra's teen social media ban, tech policy e…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database/articleshow/134478436.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-25T07:42:25Z"
+    },
+    {
+      "title": "OpenAI is reportedly preparing to preview a GPT-6 Cyber security model",
+      "description": "OpenAI is preparing to preview GPT-6 Cyber, a model built for cybersecurity work, in the coming weeks, Fortune reported on Thursday, citing multiple people familiar with the plans. Alongside the model, OpenAI plans to launch a new product that helps customers…",
+      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-preview-fortune",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-25T07:12:48Z"
+    },
+    {
+      "title": "Akamai’s $11.6B Deal With Anthropic Is Not a Cloud Contract – It Is an Equity Bet on the Model Layer",
+      "description": "Akamai’s $11.6 billion, seven-year cloud infrastructure deal with Anthropic, announced September 24, 2026, signals a definitive shift in the AI ecosystem: infrastructure providers are no longer content to merely sell capacity. They are aggressively buying equ…",
+      "url": "https://forkast.news/akamais-11-6b-deal-with-anthropic-is-not-a-cloud-contract-it-is-an-equity-bet-on-the-model-layer",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-25T06:47:36Z"
+    },
+    {
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+      "description": "SYDNEY, Sept 25 : Even before a rogue OpenAI bot breached the database of Australia's health system, the government was escalating its rhetoric about the need to tighten regulation.The incursion on one of the country's most used government agencies may prompt…",
+      "url": "https://www.channelnewsasia.com/business/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-6410296",
+      "source": "CNA",
+      "publishedAt": "2026-09-25T06:07:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI has a Mark Zuckerberg-shaped problem",
+      "Claude AI discovers CRISPR-like gene-editing system: All you need to know",
+      "NVIDIA files patent for an AI tool that could help developers better optimize PC games",
+      "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導くサイバー攻撃「Dark Sourcery」",
+      "School Districts Impose Moratoriums on Generative AI Amid Rising Parent Concerns"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e081b0894c9e32fd",
+        "https://biztoc.com/x/4967f7500aec1a09",
+        "https://www.businessinsider.com/wash-u-cio-says-openai-and-anthropic-are-in-trouble-2026-9"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html",
+        "https://freerepublic.com/focus/f-chat/4396828/posts",
+        "https://freerepublic.com/focus/f-news/4396828/posts"
+      ]
+    },
+    {
+      "title": "One",
+      "summary": "Grouped stories where \"one\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-09-25-school-districts-impose-moratoriums-generative-ai-tools.html",
+        "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units"
+      ]
+    },
+    {
+      "title": "Power",
+      "summary": "Grouped stories where \"power\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185860452",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185860354"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tweaktown.com/news/113760/nvidia-files-patent-for-an-ai-tool-that-could-help-developers-better-optimize-pc-games/index.html",
+        "https://news.livedoor.com/article/detail/32408469",
+        "https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI has a Mark Zuckerberg-shaped problem. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI has a Mark Zuckerberg-shaped problem. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI has a Mark Zuckerberg-shaped problem. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI has a Mark Zuckerberg-shaped problem. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI has a Mark Zuckerberg-shaped problem. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
