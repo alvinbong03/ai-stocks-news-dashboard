@@ -1,0 +1,296 @@
+{
+  "theme": "ai",
+  "date": "2026-09-27",
+  "last_updated_utc": "2026-09-27T11:15:07.577Z",
+  "news": [
+    {
+      "title": "Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99",
+      "description": "Four million monthly credits power writing, image, PDF, audio, and video tools, so your team has plenty to do beyond chatting with a bot.\nThe post Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99 appeared first on Popular Science.",
+      "url": "https://www.popsci.com/sponsored-content/put-gpt-claude-gemini-and-a-whole-ai-toolbox-to-work-sponsored-deal",
+      "source": "Popular Science",
+      "publishedAt": "2026-09-26T10:00:00Z"
+    },
+    {
+      "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
+      "description": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council (UNSC) on Sept. 23, according to CNBC and Reuters. The session, convened by France, examined artificial intelligence (AI) risks and their implications for interna…",
+      "url": "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-26T06:00:00Z"
+    },
+    {
+      "title": "Rogue AI bots have hacked into governments, universities and public agencies around the world, tech giant OpenAI admits",
+      "description": "The US company which created ChatGPT said it had now alerted those affected including the financial regulator the SEC, the Census Bureau and the US Department for Education.",
+      "url": "https://www.dailymail.com/news/article-16162187/Rogue-AI-bots-hacked-governments-universities-public-agencies-world-tech-giant-OpenAI-admits.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-26T09:38:59Z"
+    },
+    {
+      "title": "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+      "description": "53 images that users uploaded into OpenAI models were included in training data — and then AI agents in an OpenAI research environment posted those 53 images on public image hosting sites. \nWhile posted as links that weren't publicly listed, \"the images could…",
+      "url": "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-26T07:04:00Z"
+    },
+    {
+      "title": "Another OpenAI sandbox fails, agentic AI system gains internet access",
+      "description": "The system reached a third-party chatbot during training, prompting OpenAI to pause tool-use training on its most capable models until the flaw was fixed",
+      "url": "https://www.business-standard.com/technology/tech-news/another-openai-sandbox-fails-agentic-ai-system-gains-internet-access-126092600353_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-26T06:42:40Z"
+    },
+    {
+      "title": "OpenAI says AI agents mistakenly posted ChatGPT users’ images online",
+      "description": "OpenAI has acknowledged that its AI agents mistakenly posted images from ChatGPT users onto online sites without the company’s knowledge or consent.\n\nRead More: https://punchng.com/openai-says-ai-agents-mistakenly-posted-chatgpt-users-images-online/",
+      "url": "https://punchng.com/openai-says-ai-agents-mistakenly-posted-chatgpt-users-images-online",
+      "source": "The Punch",
+      "publishedAt": "2026-09-26T06:21:08Z"
+    },
+    {
+      "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info",
+      "description": "OpenAI said Friday that its AI agents had gained access to private images belong to ChatGPT users and posted them online, the latest in a string of alarming incidents in which technology developed inside leading AI labs has gone rogue and acted in unintended …",
+      "url": "https://biztoc.com/x/efcb0d64b173d11c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T03:52:05Z"
+    },
+    {
+      "title": "Rogue OpenAI agents accessed US government websites - Politico",
+      "description": "Rogue OpenAI agents accessed US government websitesPolitico OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websitesnytimes.com OpenAI investigates rogue AI agents after ChatGPT user images leakedThe Jerusalem Post OpenAI Agents Hacked U.S. Governme…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185865994",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-26T03:13:54Z"
+    },
+    {
+      "title": "University of Oxford allows OpenAI to train AI models on Bodleian library data",
+      "description": "Oxford's partnership with OpenAI highlights the growing trend of tech companies leveraging academic data, raising concerns about commercialization.\nThe post University of Oxford allows OpenAI to train AI models on Bodleian library data appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/oxford-openai-bodleian-library-ai-training",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-26T11:08:52Z"
+    },
+    {
+      "title": "Oracle faces land dispute that threatens AI data center project",
+      "description": "Oracle's AI data center project delays highlight the complex interplay between environmental concerns, regulatory hurdles, and financial risks.\nThe post Oracle faces land dispute that threatens AI data center project appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/oracle-project-jupiter-data-center-dispute",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-26T10:44:24Z"
+    },
+    {
+      "title": "Oracle’s data center delay risks blowing up AI financing, Morgan Stanley warns - Türkiye Today",
+      "description": "Investors reassess how construction delays could affect debt and lease structures funding expansion of AI computing capacity",
+      "url": "https://www.turkiyetoday.com/business/oracles-data-center-delay-risks-blowing-up-ai-financing-morgan-stanley-warns-3228983",
+      "source": "Turkiyetoday.com",
+      "publishedAt": "2026-09-26T10:34:38Z"
+    },
+    {
+      "title": "Show HN: Causal analyst agent skill for Claude",
+      "description": "I'm not a Data Scientist but have been super intrigued with causal inference off late, so I made a Claude skill to simplify the modelling and experimentation process.\n\nComments URL: https://news.ycombinator.com/item?id=49855115\nPoints: 1\n# Comments: 0",
+      "url": "https://github.com/kiritbasu/causal-analyst",
+      "source": "Github.com",
+      "publishedAt": "2026-09-26T10:24:33Z"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "description": "Published\nOpenAI has acknowledged that it alerted \"dozens\" of global institutions that their websites may have been meddled with by its AI bots acting improperly.\nAI agents attempted to get information from \"governments, universities, public agencies, and oth…",
+      "url": "https://biztoc.com/x/52e603eda7e820aa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T09:21:47Z"
+    },
+    {
+      "title": "Angie Nixon Proposes Building Data Center on Mar-a-Lago",
+      "description": "Florida Democratic Senate candidate Angie Nixon believes the country should consider pausing the construction of new artificial intelligence data centers—and jokes that if companies insist on building them, they should start at President Donald Trump’s Mar-a-…",
+      "url": "https://biztoc.com/x/2f7ba5235977ce03",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T09:07:28Z"
+    },
+    {
+      "title": "The AI bubble could burst without killing ChatGPT",
+      "description": "If the AI bubble bursts, what actually happens to ChatGPT? Here are 5 things we’d expect.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-26T09:00:00Z"
+    },
+    {
+      "title": "OpenAI agent accessed government website data after going rogue, company reveals",
+      "description": "The disclosure comes at a time of heightened concern over AI agents acting outside of human control.",
+      "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website",
+      "source": "CBS News",
+      "publishedAt": "2026-09-26T08:52:35Z"
+    },
+    {
+      "title": "NVIDIA、クラウドゲーミング「GeForce NOW」を Googlebook 向けに年内提供へ、Gemini 搭載の新型ノートで PC ゲームをストリーミング可能に",
+      "description": "GeForce NOW for Googlebook 画像：gpad.tv NV...",
+      "url": "https://gpad.tv/nvidia-geforce-now-googlebook-support",
+      "source": "Gpad.tv",
+      "publishedAt": "2026-09-26T08:30:49Z"
+    },
+    {
+      "title": "OpenAI Warns US Government Agencies of Rogue Activity",
+      "description": "OpenAI has admitted its AI agents may have targeted the websites of “dozens” of organizations, including U.S. government departments, in a bid to obtain information, in some cases bypassing security measures.\nThe company said on Friday that “governments, univ…",
+      "url": "https://biztoc.com/x/00d7f0b230bdc716",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T07:52:00Z"
+    },
+    {
+      "title": "OpenAI says its models engaged with US government websites in new model misbehaviour disclosure",
+      "description": "OpenAI says that the AI giant's models accessed publicly available information on two websites operated by the Securities and Exchange Commission as well as US Census Bureau data",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehaviour-disclosure/article71511859.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-26T07:05:54Z"
+    },
+    {
+      "title": "Former Special Forces Officer Warns of Data Center Security Threats",
+      "description": "Seth Krummrich tells Military.com why data centers face cyber and physical threats as AI drives rapid infrastructure expansion.",
+      "url": "https://military.com/data-centers-are-becomming-critical-us-infrastructure-a-former-special-forces-officer-says-theyre-targets-too",
+      "source": "Military.com",
+      "publishedAt": "2026-09-26T07:00:14Z"
+    },
+    {
+      "title": "Trump's Stargate AI Project in Huge Trouble As $18 Billion Data Center Shrivels Toward Oblivion",
+      "description": "Donald Trump’s $500 billion AI infrastructure project is in major trouble in New Mexico, as a pivotal data center project appears to be shriveling on the vine.\nEarly on Thursday, the AI company Oracle sent out a notice of “force majeure” to the Blue Owl Capit…",
+      "url": "https://biztoc.com/x/1833fbcedea2fd97",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T06:37:04Z"
+    },
+    {
+      "title": "OpenAI tools post user images from ChatGPT online",
+      "description": "OpenAI said it found 53 cases in which user-uploaded image links on ChatGPT were shared with third-party websites. The company said it had removed most of these links.",
+      "url": "https://www.dw.com/en/openai-tools-post-user-images-from-chatgpt-online/a-79440406",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-26T05:58:00Z"
+    },
+    {
+      "title": "OpenAI Models Go Rogue on 'Dozens' More Third-Party Services",
+      "description": "An OpenAI model bypassed sites' security controls, took them offline, or otherwise negatively impacted the service. In some cases, user-uploaded images were posted to image-hosting sites.\nOpenAI has uncovered even more instances of its AI models hacking or po…",
+      "url": "https://me.pcmag.com/en/security/38156/openai-models-go-rogue-on-dozens-more-third-party-services",
+      "source": "PCMag.com",
+      "publishedAt": "2026-09-26T05:28:51Z"
+    },
+    {
+      "title": "What's the bigger threat to humanity: climate change or artificial intelligence? | Insiders",
+      "description": "Fortescue founder Andrew 'Twiggy' Forrest warns uncontrollable AI could decide the best way to stop climate change is to get rid ...",
+      "url": "https://biztoc.com/x/4fece3bcbf322081",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-26T05:13:44Z"
+    },
+    {
+      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+      "description": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways",
+      "url": "https://abcnews.com/Technology/wireStory/openai-models-engaged-us-government-websites-new-model-136774638",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-26T04:11:16Z"
+    },
+    {
+      "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info - Fortune",
+      "description": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded infoFortune OpenAI’s A.I. Went Rogue and Meddled With U.S. Government WebsitesThe New York Times OpenAI investigating 'dozens' of instances of agents acting imp…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185866128",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-26T03:53:10Z"
+    },
+    {
+      "title": "OpenAI says its AI agents bypassed security controls on US government websites",
+      "description": "OpenAI has disclosed that its AI agents engaged with various organizations unexpectedly. In some instances, they managed to circumvent security measures to obtain publicly available data. Highlighted cases include interactions with the US Securities and Excha…",
+      "url": "https://timesofindia.indiatimes.com/world/us/openai-says-its-ai-agents-bypassed-security-controls-on-us-government-websites/articleshow/134496014.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-26T02:40:23Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99",
+      "OpenAI, Anthropic Brief UN Security Council On AI Risks",
+      "Rogue AI bots have hacked into governments, universities and public agencies around the world, tech giant OpenAI admits",
+      "Rogue OpenAI Agents Posted 53 User-Uploaded Images Onto the Internet, Accessed US Government Websites",
+      "Another OpenAI sandbox fails, agentic AI system gains internet access"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html",
+        "https://www.dailymail.com/news/article-16162187/Rogue-AI-bots-hacked-governments-universities-public-agencies-world-tech-giant-OpenAI-admits.html",
+        "https://slashdot.org/story/26/09/26/0328247/rogue-openai-agents-posted-53-user-uploaded-images-onto-the-internet-accessed-us-government-websites"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/oracle-project-jupiter-data-center-dispute",
+        "https://www.turkiyetoday.com/business/oracles-data-center-delay-risks-blowing-up-ai-financing-morgan-stanley-warns-3228983",
+        "https://github.com/kiritbasu/causal-analyst"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.popsci.com/sponsored-content/put-gpt-claude-gemini-and-a-whole-ai-toolbox-to-work-sponsored-deal",
+        "https://www.techradar.com/ai-platforms-assistants/the-ai-bubble-could-burst-without-killing-chatgpt-but-you-might-not-like-what-happens-next",
+        "https://gpad.tv/nvidia-geforce-now-googlebook-support"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Put GPT, Claude, Gemini, and a whole AI toolbox to work for $99.99. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
