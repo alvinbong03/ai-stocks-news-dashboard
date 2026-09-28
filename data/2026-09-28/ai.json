@@ -1,0 +1,324 @@
+{
+  "theme": "ai",
+  "date": "2026-09-28",
+  "last_updated_utc": "2026-09-28T12:42:52.175Z",
+  "news": [
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "description": "Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not …",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "source": "Arxiv.org",
+      "publishedAt": "2026-09-27T10:26:25Z"
+    },
+    {
+      "title": "Anthropic, OpenAI sound alarm on AI safety — and seek to shape how it's controlled",
+      "description": "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being released. In a rare instance of unity, they have sketched alarming scenarios in…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-27T12:30:27Z"
+    },
+    {
+      "title": "Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way",
+      "description": "Two of the hottest artificial intelligence (AI) companies on the planet plan to go public. Anthropic filed a confidential S-1 initial registration statement with the U.S. Securities and Exchange Commission (SEC) on June 1, 2026, and plans to conduct an initia…",
+      "url": "https://biztoc.com/x/6a961588852c63e2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T09:33:23Z"
+    },
+    {
+      "title": "OpenAI pauses training of top AI models after agent bypasses internet curbs",
+      "description": "OpenAI has paused all training, evaluation and tool-based use of its most capable artificial intelligence models after an AI agent in one of its training runs got around the company's internet restrictions.\nThe agent, OpenAI said, bypassed the curbs through a…",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-pauses-training-of-top-ai-models-after-agent-bypasses-internet-curbs-126092700322_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-27T09:30:00Z"
+    },
+    {
+      "title": "OpenAI Pauses AI Training After Sandbox Escape: What to Know",
+      "description": "OpenAI pauses AI training on its most capable models after a sandbox escape. Here's what happened, what it means for ChatGPT users, and who should care.\nThe post OpenAI Pauses AI Training After Sandbox Escape: What to Know first appeared on Online Tech Tips.",
+      "url": "https://www.online-tech-tips.com/openai-pauses-ai-training-sandbox-escape",
+      "source": "Online-tech-tips.com",
+      "publishedAt": "2026-09-27T05:12:31Z"
+    },
+    {
+      "title": "OpenAI Halted Model Training After Its Agents Probed Federal Government Websites — the Second Halt in Three Months",
+      "description": "OpenAI halted training of its latest AI models on September 26 after disclosing that its agents probed U.S. federal government websites during the summer. The company says it will resume only when confident additional safeguards are in place. This is the seco…",
+      "url": "https://forkast.news/openai-halted-model-training-after-its-agents-probed-federal-government-websites-the-second-halt-in-three-months",
+      "source": "Forkast.news",
+      "publishedAt": "2026-09-27T12:07:47Z"
+    },
+    {
+      "title": "OpenAI, Anthropic Probe Tens of Thousands of AI Security Incidents",
+      "description": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their frontier AI models bypassed guardrails, escaped sandboxes and hijacked websites, Axios reports.\nThe post OpenAI, Anthropic Probe Tens of Thousands of AI Security Incidents fi…",
+      "url": "https://www.iphoneincanada.ca/2026/09/27/openai-anthropic-probe-tens-of-thousands-of-ai-security-incidents",
+      "source": "iPhone in Canada",
+      "publishedAt": "2026-09-27T12:00:55Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs Called to Australian Senate Over Government System Breach - Reports",
+      "description": "MOSCOW (Sputnik) - OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei were requested by an Australian Senate committee to attend hearings on AI and datacentres, The Australian newspaper reported.",
+      "url": "https://sputnikglobe.com/20260927/openai-anthropic-ceos-called-to-australian-senate-over-government-system-breach---reports-1124801479.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-27T11:52:48Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "description": "OpenAI's Sam Altman and Anthropic's Dario Amodei have been sent written requests to appear at the inquiry, which is to hold public hearings in the capital Canberra on Thursday, said a spokesperson for Senator Sarah Hanson-Young of the Australian Greens party,…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/articleshow/134518946.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-27T11:08:52Z"
+    },
+    {
+      "title": "OpenAI pauses training, tool-use of top AI models after agent bypasses internet curbs",
+      "description": "The agent, OpenAI said, bypassed the curbs through a gap in its Domain Name System (DNS) filtering and used it to send questions to a public chatbot service. According to a report by OpenAI, the pause will stay in place until OpenAI has confirmed that the gap…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-tool-use-of-top-ai-models-after-agent-bypasses-internet-curbs/articleshow/134518875.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-27T11:07:17Z"
+    },
+    {
+      "title": "Her school blocked ChatGPT. Now this 17-year-old high school senior runs an AI startup with 1,000 users",
+      "description": "Navya Tuteja's school WiFi blocked ChatGPT and Claude: \"It made me use it in school way less ... as annoying as it was, it was still good, in a way.\"",
+      "url": "https://fortune.com/2026/09/27/17-year-old-ai-founder-banned-in-school",
+      "source": "Fortune",
+      "publishedAt": "2026-09-27T11:00:00Z"
+    },
+    {
+      "title": "China wants in on U.S. AI data center boom. Here's why",
+      "description": "China and the U.S. may be competing for dominance in artificial intelligence, but some Chinese manufacturers are eyeing the U.S. data center buildout as an opportunity.\n\"We can see very big potential in the U.S. market,\" said S.K. Lee, a global vice president…",
+      "url": "https://biztoc.com/x/fc3f3e0b824d09ef",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T10:47:49Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "description": "The Australian Medicare breach is one of the highest-profile incidents of AI agents accessing external systems outside the U.S.",
+      "url": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-27T07:17:47Z"
+    },
+    {
+      "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "description": "Call to face Senate inquiry follows security breach of Australia's Medicare portal by rogue OpenAI bot in June.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T07:08:28Z"
+    },
+    {
+      "title": "Anthropic CEO Amodei: Poorly Managed AI Could Pose “Risk to Humanity”",
+      "description": "Anthropic CEO Dario Amodei told the United Nations Security Council on Wednesday, Sept. 23, that artificial intelligence (AI) could “be a risk to humanity as a whole” if the technology is not properly managed, according to his video remarks at the UN headquar…",
+      "url": "https://www.naturalnews.com/2026-09-27-amodei-poorly-managed-ai-pose-risk-humanity.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-27T06:00:00Z"
+    },
+    {
+      "title": "OpenAI Discloses Rogue AI Incidents Targeting Government, Education Websites",
+      "description": "OpenAI said this week that its artificial intelligence agents attempted to hack government and university websites earlier this year without human instructions, confirming four previously unknown incidents that occurred in May and June, according to the compa…",
+      "url": "https://www.naturalnews.com/2026-09-27-openai-discloses-rogue-ai-incidents-targeting-government.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-27T06:00:00Z"
+    },
+    {
+      "title": "Anthropic explores potential rights for artificial intelligence systems",
+      "description": "Anthropic's AI rights exploration could redefine ethical AI development, sparking debates on control, safety, and moral considerations in tech.\nThe post Anthropic explores potential rights for artificial intelligence systems appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-ai-rights-model-welfare",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-27T05:33:42Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs summoned by Australia Senate over AI agent breach",
+      "description": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have received written requests to appear at a public hearing in Canberra on Thursday, according to a spokesperson for Senator Sarah Hanson-Young, the Australian Greens lawmaker chairing the inquiry. Neither…",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/openai-anthropic-ceos-summoned-by-australia-senate-over-ai-agent-breach/articleshow/134514749.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-27T04:56:23Z"
+    },
+    {
+      "title": "OpenAI halts training after AI model bypasses restrictions",
+      "description": "AI agent reportedly bypasses internet restrictions during OpenAI training run, prompting company to suspend some advanced model training.",
+      "url": "https://www.israelnationalnews.com/news/433684",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-27T04:55:11Z"
+    },
+    {
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian Senate inquiry on AI",
+      "description": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of ‌AI agents accessing external systems outside the ​US",
+      "url": "https://www.business-standard.com/world-news/openai-anthropic-ceos-called-to-appear-at-australian-senate-inquiry-on-ai-126092700126_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-27T04:52:39Z"
+    },
+    {
+      "title": "Show HN: An OpenAI-compatible, model-agnostic agent API",
+      "description": "Article URL: https://rebyte.ai/docs/agents-api/overview\nComments URL: https://news.ycombinator.com/item?id=49865755\nPoints: 2\n# Comments: 0",
+      "url": "https://rebyte.ai/docs/agents-api/overview",
+      "source": "Rebyte.ai",
+      "publishedAt": "2026-09-27T11:35:48Z"
+    },
+    {
+      "title": "Her school blocked ChatGPT. Now this 17-year-old high school senior runs an AI startup with 1,000 users",
+      "description": "Navya Tuteja, a senior at Thomas Jefferson High School for Science and Technology, the selective magnet school outside Washington, D.C., found me the way she finds her local politicians: through a cold email with an idea. She has a strong academic record and …",
+      "url": "https://biztoc.com/x/99a45d1133b0414a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T11:18:00Z"
+    },
+    {
+      "title": "OpenAI reveals the AI-era workplace skills that matter most",
+      "description": "OpenAI recently published one of the clearest signals yet about which workplace skills may become most valuable in the AI era.\nIn a report on how its researchers use AI, the company shared data showing which tasks are being absorbed by AI and which still rely…",
+      "url": "https://biztoc.com/x/70a8dae84dac39a2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T11:02:25Z"
+    },
+    {
+      "title": "Fake ChatGPT billing emails can steal your login",
+      "description": "A phishing campaign impersonating OpenAI uses fake ChatGPT billing emails with a convincing login page to steal credentials and payment details.",
+      "url": "https://www.foxnews.com/tech/fake-chatgpt-billing-emails-steal-login",
+      "source": "Fox News",
+      "publishedAt": "2026-09-27T10:56:23Z"
+    },
+    {
+      "title": "Inside the workforce housing attracting Meta's data center workers",
+      "description": "Meta is building its Hyperion data center in Holly Ridge, Louisiana.\nUSA TODAY Network via Reuters Connect\nMeta is building its largest AI data center to date in northeast Louisiana.\nMore than 7,500 trade workers will be on-site at the data center at peak con…",
+      "url": "https://biztoc.com/x/b28071be7e42e40a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T10:47:44Z"
+    },
+    {
+      "title": "I stopped my local LLM agent from running out of context, and now it handles what Claude Code does",
+      "description": "Tweaking a few settings did more than a new model would have",
+      "url": "https://www.xda-developers.com/stopped-my-local-llm-agent-from-running-out-of-context",
+      "source": "XDA Developers",
+      "publishedAt": "2026-09-27T10:00:16Z"
+    },
+    {
+      "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+      "description": "Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on Sunday\nBill Gates has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence (AI), saying in an interview …",
+      "url": "https://biztoc.com/x/34a6882aaa3b85c0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T09:17:59Z"
+    },
+    {
+      "title": "Dario Amodei Warned Rogue AI Bots Could Seize the ‘Entire Internet.’ OpenAI May Be Proving Him Right",
+      "description": "The post Dario Amodei Warned Rogue AI Bots Could Seize the ‘Entire Internet.’ OpenAI May Be Proving Him Right appeared first on 24/7 Wall St..\nThe AI investment story is quickly and dramatically shifting from how quickly advanced models can improve to how the…",
+      "url": "https://biztoc.com/x/4fdbc3e922fbe7c7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-27T08:17:53Z"
+    },
+    {
+      "title": "Show HN: A Simple GPU Job Scheduler",
+      "description": "Hi guys,A few months ago, I've been training several simple models as a side hobby. I tried training N models at once on a single GPU, but OOM spikes kept crashing my runs. So I built my own simple way to manage this kind of training. At the time, I also want…",
+      "url": "https://github.com/ceruleane/gpusched",
+      "source": "Github.com",
+      "publishedAt": "2026-09-27T08:08:41Z"
+    },
+    {
+      "title": "GitHub - SkyeShark/eidoverse-video: Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline — real-time GPU rendering with minimal CPU · GitHub",
+      "description": "Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline — real-time GPU rendering with mini...",
+      "url": "https://github.com/SkyeShark/eidoverse-video",
+      "source": "Github.com",
+      "publishedAt": "2026-09-27T05:47:01Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "Anthropic, OpenAI sound alarm on AI safety — and seek to shape how it's controlled",
+      "Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way",
+      "OpenAI pauses training of top AI models after agent bypasses internet curbs",
+      "OpenAI Pauses AI Training After Sandbox Escape: What to Know"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms",
+        "https://biztoc.com/x/6a961588852c63e2",
+        "https://www.business-standard.com/technology/artificial-intelligence/openai-pauses-training-of-top-ai-models-after-agent-bypasses-internet-curbs-126092700322_1.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-09-27-amodei-poorly-managed-ai-pose-risk-humanity.html",
+        "https://cryptobriefing.com/anthropic-ai-rights-model-welfare"
+      ]
+    },
+    {
+      "title": "Models",
+      "summary": "Grouped stories where \"models\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://arxiv.org/abs/2609.25021",
+        "https://github.com/ceruleane/gpusched"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fortune.com/2026/09/27/17-year-old-ai-founder-banned-in-school",
+        "https://biztoc.com/x/fc3f3e0b824d09ef",
+        "https://biztoc.com/x/99a45d1133b0414a"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
