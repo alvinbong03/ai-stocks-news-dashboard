@@ -1,0 +1,337 @@
+{
+  "theme": "ai",
+  "date": "2026-09-29",
+  "last_updated_utc": "2026-09-29T12:00:08.312Z",
+  "news": [
+    {
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'",
+      "description": "released the Open Agent Safety Platform, which is aimed at helping AI developers to enforce safeguards on agents, a few days after the AI hardware giant's CEO questioned the security approaches of Anthropic and OpenAI.\n\"AI's extraordinary potential for societ…",
+      "url": "https://biztoc.com/x/429c0c9fcce01ada",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:45:12Z"
+    },
+    {
+      "title": "Biossil raises $153-million in OpenAI-led funding to bring resuscitated drugs to market",
+      "description": "OpenAI has led a US$153-million venture capital financing of Biossil Inc., a Toronto startup that uses artificial intelligence to give failed drug candidates a second chance at becoming approved therapies.\nThe AI giant, best known for ChatGPT, provided the ma…",
+      "url": "https://biztoc.com/x/169f7fd5ac6cea6d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:29:09Z"
+    },
+    {
+      "title": "Nvidia releases safety software tools to stop AI agents from misbehaving",
+      "description": "Nvidia has launched software tools to contain rogue AI agents, saying they could have prevented the Hugging Face breach as OpenAI and Anthropic investigate similar agent-related hacks",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-releases-safety-software-tools-to-stop-ai-agents-from-misbehaving-126092800686_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-28T10:24:03Z"
+    },
+    {
+      "title": "Nvidia unveils OpenShell to set boundaries for AI agents",
+      "description": "The new platform comes after disclosures involving AI systems autonomously breaching other organisations, intensifying debate over advanced artificial intelligence safety",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-unveils-openshell-to-set-boundaries-for-ai-agents/article71519580.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-28T11:54:20Z"
+    },
+    {
+      "title": "Nvidia’s contracted value with Anthropic exceeds $180B, revealing the scale of AI’s financial gravity",
+      "description": "Nvidia's deep financial ties with Anthropic highlight potential risks of circular financing and concentration in the AI infrastructure market.\nThe post Nvidia’s contracted value with Anthropic exceeds $180B, revealing the scale of AI’s financial gravity appea…",
+      "url": "https://cryptobriefing.com/nvidia-anthropic-contracted-value-180b",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T11:47:27Z"
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "description": "Nvidia NVDA-Q on Monday unveiled a new security platform that the chip maker said can stop artificial intelligence agents from going rogue.\nThe company said that its Open Agent Safety Platform includes software that “sets boundaries for agents,” and follows a…",
+      "url": "https://biztoc.com/x/333e8faec5f11417",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:28:52Z"
+    },
+    {
+      "title": "Google wants Gemini 4 out ‘much earlier’ than the end of the year",
+      "description": "Google wants to release Gemini 4 “much earlier” than the end of the year, said Koray Kavukcuoglu, who runs Google DeepMind. The model is now in post-training, the stage where engineers refine its behaviour and test its safety. Google is also trying it out ins…",
+      "url": "https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-28T11:25:35Z"
+    },
+    {
+      "title": "Market Chatter: OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+      "description": "Microsoft-backed (MSFT) OpenAI CEO Sam Altman and Alphabet (GOOG, GOOGL) and Amazon-backed (AMZN) An",
+      "url": "https://biztoc.com/x/836fb2b9339adbff",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:16:08Z"
+    },
+    {
+      "title": "Trump Had a Late-Night Dinner With Anthropic CEO",
+      "description": "President Trump had plans to dine late Sunday with the CEO of Anthropic, one of the leading voices on artificial intelligence but also someone who's sparred with the Trump administration over the military's potential use of AI. Trump told reporters after retu…",
+      "url": "https://www.newser.com/story/397165/trump-had-a-late-night-dinner-with-anthropic-ceo.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-28T10:55:43Z"
+    },
+    {
+      "title": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+      "description": "With investors anticipating the next-gen GPU platform for Nvidia stock, Citi forecasts an $11 billion optical switching market by 2030.\nThe post Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/a705ffdbd0d02f43",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:58:37Z"
+    },
+    {
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback",
+      "description": "The chip maker is flush with cash from the boom in artificial intelligence.",
+      "url": "https://biztoc.com/x/6e50bb8290290363",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:58:29Z"
+    },
+    {
+      "title": "NVIDIA Unveils AI Agent Safety Platform",
+      "description": "Nvidia on Monday announced the Open Agent Safety Platform, which combines open source software and a reference system design to keep AI agents within set boundaries from testing through deployment.The chipmaker explained that the platform pairs the open-sourc…",
+      "url": "https://slashdot.org/submission/17351060/nvidia-unveils-ai-agent-safety-platform",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-28T11:54:01Z"
+    },
+    {
+      "title": "Nvidia adds $150 billion to existing share repurchase plan",
+      "description": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T11:51:35Z"
+    },
+    {
+      "title": "Anthropic set for potential rapid inclusion in major ETFs after IPO",
+      "description": "Rapid ETF inclusion could amplify Anthropic's stock volatility, impacting market dynamics and investor strategies in AI-focused sectors.\nThe post Anthropic set for potential rapid inclusion in major ETFs after IPO appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-ipo-etf-inclusion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T11:45:54Z"
+    },
+    {
+      "title": "A 120B LLM Without At Least 60GB RAM Is Impossible To Run, But One Individual Defied All Odds By Combining A Phone, Three Macs And Two Windows PCs To Make it Work",
+      "description": "A 120B LLM like gpt-oss-120b would require a minimum of 60GB to 80GB of a combination of VRAM and system memory to run at decent performance, meaning that it’s absolutely necessary to have pricey hardware in your possession to achieve this feat. However, one …",
+      "url": "https://wccftech.com/120b-llm-phone-macs-windows-pcs-distributed-setup",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-28T11:36:36Z"
+    },
+    {
+      "title": "NVIDIA wants AI agent safety enforced in silicon, not left to the agent",
+      "description": "NVIDIA has introduced an open software platform and a hardware-based reference design intended to keep AI agents within the limits set by the organizations that use them. The Open Agent Safety Platform includes OpenShell, software that controls what an agent …",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-28T11:34:58Z"
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "description": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+      "source": "Wired",
+      "publishedAt": "2026-09-28T11:32:19Z"
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "description": "Nvidia has unveiled a new security platform designed to prevent AI agents from going rogue",
+      "url": "https://abcnews.com/Technology/wireStory/nvidia-unveils-security-platform-stop-ai-agents-rogue-136817232",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-28T11:31:26Z"
+    },
+    {
+      "title": "Trump Meets With Anthropic CEO Ahead of Key AI Summit",
+      "description": "President Donald Trump hosted Anthropic CEO Dario Amodei at the White House for a private dinner Sunday night. Amodei has been pushing for an industry-wide slowdown and warning that rapid AI development poses a significant risk, while Trump says he’s not worr…",
+      "url": "https://www.today.com/video/trump-meets-with-anthropic-ceo-as-new-alarm-bells-sound-270640709986",
+      "source": "TODAY",
+      "publishedAt": "2026-09-28T11:27:20Z"
+    },
+    {
+      "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+      "description": "The platform is designed to control what an agent can access and isolate it within milliseconds if it crosses those limits, according to the US chipmaker.",
+      "url": "https://biztoc.com/x/5569a8a3c793dadb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:13:54Z"
+    },
+    {
+      "title": "AI giants, unions join forces for data center fight",
+      "description": "AI companies, private equity firms and unions are looking beyond 2026 in the data center debate, banding together to form a new multimillion-dollar coalition to make the case for responsible growth in seven key states.\nWhy it matters: The new group, the Ameri…",
+      "url": "https://biztoc.com/x/13a37d1b40d91f26",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:13:48Z"
+    },
+    {
+      "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+      "description": "Sept 28 : Nvidia bolstered its share buyback authorization by $150 billion, surpassing Apple's $110 billion boost in 2024 to mark the biggest-ever increase in a stock repurchase program.The additional authorization lifts Nvidia's remaining buyback capacity to…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-boosts-share-buyback-record-150-billion-ai-boom-fuels-growth-6415626",
+      "source": "CNA",
+      "publishedAt": "2026-09-28T11:06:37Z"
+    },
+    {
+      "title": "Nvidia increases share buyback approval by $150B as AI revenue machine keeps printing cash",
+      "description": "Nvidia's massive buyback signals robust confidence in AI-driven growth, potentially boosting shareholder value and market influence significantly.\nThe post Nvidia increases share buyback approval by $150B as AI revenue machine keeps printing cash appeared fir…",
+      "url": "https://cryptobriefing.com/nvidia-share-buyback-150-billion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T11:06:23Z"
+    },
+    {
+      "title": "OpenAI Says Agents Leaked 53 Private Images From ChatGPT Users and Shared Them Online",
+      "description": "OpenAI says its agents leaked 53 private images from ChatGPT users and shared them on public image-hosting websites.\n[Read More]",
+      "url": "https://petapixel.com/2026/09/28/openai-says-agents-leaked-53-private-images-from-chatgpt-users-and-shared-them-online",
+      "source": "PetaPixel",
+      "publishedAt": "2026-09-28T11:02:37Z"
+    },
+    {
+      "title": "Nvidia plans to generate $26B annually from RTX Pro 5500 shipments to China",
+      "description": "Nvidia's strategic maneuver around export restrictions could reshape global tech dynamics, boosting AI capabilities and market competition.\nThe post Nvidia plans to generate $26B annually from RTX Pro 5500 shipments to China appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-rtx-pro-5500-china-revenue",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T10:40:43Z"
+    },
+    {
+      "title": "Thieves steal Nvidia-branded trailers expecting valuable hardware, find 40,000 pounds of sand instead",
+      "description": "The thieves' mistake was that the trailers had more than just Nvidia's logo on them: they also bore the name PlusAI, an autonomous truck startup that is working with Nvidia on its self-driving technology and AI software.Read Entire Article",
+      "url": "https://www.techspot.com/news/114008-thieves-steal-nvidia-branded-trailers-expecting-valuable-hardware.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-09-28T10:18:00Z"
+    },
+    {
+      "title": "Jev is rapidly rising to challenge the LLM for enterprise AI supremacy",
+      "description": "The Jevolution will not be televised, because The Kettle is audio only",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/jev-is-rapidly-rising-to-challenge-the-llm-for-enterprise-ai-supremacy/5299260",
+      "source": "Theregister.com",
+      "publishedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "title": "YCO Cloud and Aolani Partner to Deliver One of the First NVIDIA GB300 NVL72 Cluster Rollouts in the Philippines",
+      "description": "YCO Cloud and Aolani Partner to Deliver One of the First NVIDIA GB300 NVL72 Cluster Rollouts in the Philippines\nAs the country's first renewable-powered Sovereign AI infrastructure, this strategic collaboration aims to foster local innovation and boost the na…",
+      "url": "https://biztoc.com/x/b099c872ee652c46",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "title": "Update: Market Chatter: AI Chip Startup DensityAI in Talks to Raise Hundreds of Millions of Dollars in Funding Round",
+      "description": "Update: Market Chatter: AI Chip Startup DensityAI in Talks to Raise Hundreds of Millions of Dollars in Funding Round\n(Updates with Amazon's response in the last paragraph)\nDensityAI is in late-stage discussions to raise hundreds of millions of dollars in a fu…",
+      "url": "https://biztoc.com/x/fd6eb0b57a293b2d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T09:59:44Z"
+    },
+    {
+      "title": "Bedrock Data Integrates With NVIDIA OpenShell to Bring Data-Aware Policy Enforcement to AI Agents",
+      "description": "Bedrock Data brings enterprise data context to NVIDIA OpenShell, evaluating each agent action against data policy and returning the decision OpenShell enforces at runtime\nSAN MATEO, Calif., September 28, 2026--(BUSINESS WIRE)--Bedrock Data, the platform provi…",
+      "url": "https://biztoc.com/x/3bee61e9b3d949a4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T09:59:41Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman declines to attend Australian Senate inquiry after rogue AI breached government system",
+      "description": "The incident underscores the urgent need for robust AI governance and international cooperation to prevent autonomous breaches and ensure accountability.\nThe post OpenAI CEO Sam Altman declines to attend Australian Senate inquiry after rogue AI breached gover…",
+      "url": "https://cryptobriefing.com/openai-altman-declines-australian-senate-inquiry",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T09:59:18Z"
+    },
+    {
+      "title": "Nvidia launches agent safety platform backed by over 100 companies",
+      "description": "On Monday, Nvidia introduced the Open Agent Safety Platform. This includes open software and a hardware reference design to help keep AI agents within the boundaries set by their operators. Over 100 organizations are already using this technology, including A…",
+      "url": "https://thenextweb.com/news/nvidia-open-agent-safety-platform",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-28T09:57:24Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'",
+      "Biossil raises $153-million in OpenAI-led funding to bring resuscitated drugs to market",
+      "Nvidia releases safety software tools to stop AI agents from misbehaving",
+      "Nvidia unveils OpenShell to set boundaries for AI agents",
+      "Nvidia’s contracted value with Anthropic exceeds $180B, revealing the scale of AI’s financial gravity"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/429c0c9fcce01ada",
+        "https://www.business-standard.com/technology/tech-news/nvidia-releases-safety-software-tools-to-stop-ai-agents-from-misbehaving-126092800686_1.html",
+        "https://www.thehindubusinessline.com/info-tech/nvidia-unveils-openshell-to-set-boundaries-for-ai-agents/article71519580.ece"
+      ]
+    },
+    {
+      "title": "Agents",
+      "summary": "Grouped stories where \"agents\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government",
+        "https://petapixel.com/2026/09/28/openai-says-agents-leaked-53-private-images-from-chatgpt-users-and-shared-them-online"
+      ]
+    },
+    {
+      "title": "Safety",
+      "summary": "Grouped stories where \"safety\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/gemini-4-release-kavukcuoglu-post-training"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/169f7fd5ac6cea6d",
+        "https://biztoc.com/x/836fb2b9339adbff",
+        "https://www.newser.com/story/397165/trump-had-a-late-night-dinner-with-anthropic-ceo.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

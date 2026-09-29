@@ -1,0 +1,465 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-29",
+  "last_updated_utc": "2026-09-29T12:01:05.275Z",
+  "news": [
+    {
+      "title": "Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson",
+      "description": "Chip Engelland, widely regarded as the league's best shooting coach, has started his work in Houston with Alperen Şengün and Amen Thompson.",
+      "url": "https://www.houstonchronicle.com/sports/rockets/article/chip-engelland-shooting-alperen-sengun-22451501.php?amp%3Butm_campaign=yahoo_syndication",
+      "source": "Houston Chronicle",
+      "publishedAt": "2026-09-28T12:00:00Z"
+    },
+    {
+      "title": "These AI Stocks Took Off Or Tumbled In Q3. Here's Why",
+      "description": "AI stocks show diverging fortunes in Q3, with software plays and Nvidia rebounding while Ciena, CoreWeave, Broadcom and Google lagged.\nThe post These AI Stocks Took Off Or Tumbled In Q3. Here's Why. appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/f97cc92490b7aadb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:58:38Z"
+    },
+    {
+      "title": "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+      "description": "With investors anticipating the next-gen GPU platform for Nvidia stock, Citi forecasts an $11 billion optical switching market by 2030.\nThe post Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/a705ffdbd0d02f43",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:58:37Z"
+    },
+    {
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback",
+      "description": "The chip maker is flush with cash from the boom in artificial intelligence.",
+      "url": "https://biztoc.com/x/6e50bb8290290363",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:58:29Z"
+    },
+    {
+      "title": "Accused hate group leader cozy with 'kill the gays' activists sent cash to GOP congressman",
+      "description": "Rep. Andy Biggs (R-AZ), who is running for governor of Arizona, took donations from leaders of an accused\r\n anti-LGBTQ+ hate group for which he formerly served as a board member, according to recent state election filings\r\n.The Biggs for Arizona campaign took…",
+      "url": "https://www.rawstory.com/raw-investigates/andy-biggs-2677930810",
+      "source": "Raw Story",
+      "publishedAt": "2026-09-28T11:55:32Z"
+    },
+    {
+      "title": "Nvidia unveils OpenShell to set boundaries for AI agents",
+      "description": "The new platform comes after disclosures involving AI systems autonomously breaching other organisations, intensifying debate over advanced artificial intelligence safety",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-unveils-openshell-to-set-boundaries-for-ai-agents/article71519580.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-28T11:54:20Z"
+    },
+    {
+      "title": "Fall Superfoods to Add to Your Grocery List For Better Health",
+      "description": "The marketing hype around “superfoods” can make healthy eating seem complicated, but the term generally refers to nutrient-dense foods that can boost immunity and help lower the risk of certain diseases, inflammation, cholesterol and cancer, according to the …",
+      "url": "https://www.theroot.com/fall-superfoods-to-add-to-your-grocery-list-for-better-2000128034",
+      "source": "The Root",
+      "publishedAt": "2026-09-28T11:54:02Z"
+    },
+    {
+      "title": "NVIDIA Unveils AI Agent Safety Platform",
+      "description": "Nvidia on Monday announced the Open Agent Safety Platform, which combines open source software and a reference system design to keep AI agents within set boundaries from testing through deployment.The chipmaker explained that the platform pairs the open-sourc…",
+      "url": "https://slashdot.org/submission/17351060/nvidia-unveils-ai-agent-safety-platform",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-28T11:54:01Z"
+    },
+    {
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "description": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-28T11:53:08Z"
+    },
+    {
+      "title": "Nvidia adds $150 billion to existing share repurchase plan",
+      "description": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T11:51:35Z"
+    },
+    {
+      "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
+      "description": "Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s most sought-after tech listings this year, as investors bet on its push into silicon photonics and its role in domestic artificial intellig…",
+      "url": "https://biztoc.com/x/438169bf1bcfcd1d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:43:39Z"
+    },
+    {
+      "title": "Discord's system resource hogging days may be over, with new 'Game Mode'",
+      "description": "Finally, Discord is working on a 'Game Mode' to reduce CPU and GPU consumption while gaming, but it seems there's still a lot of work to be done.",
+      "url": "https://www.techradar.com/computing/software/discords-pc-system-resource-hogging-days-are-numbered-a-new-game-mode-is-coming-to-reduce-cpu-and-gpu-usage-while-gaming",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-28T11:39:26Z"
+    },
+    {
+      "title": "NVIDIA wants AI agent safety enforced in silicon, not left to the agent",
+      "description": "NVIDIA has introduced an open software platform and a hardware-based reference design intended to keep AI agents within the limits set by the organizations that use them. The Open Agent Safety Platform includes OpenShell, software that controls what an agent …",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-28T11:34:58Z"
+    },
+    {
+      "title": "Vulnerability Summary for the Week of September 21, 2026",
+      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country …",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+      "source": "Cisa.gov",
+      "publishedAt": "2026-09-28T11:32:46Z"
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "description": "Nvidia has unveiled a new security platform designed to prevent AI agents from going rogue",
+      "url": "https://abcnews.com/Technology/wireStory/nvidia-unveils-security-platform-stop-ai-agents-rogue-136817232",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-28T11:31:26Z"
+    },
+    {
+      "title": "3 aftermarket GPU features I'd still pay extra for",
+      "description": "When you're already spending thousands, why not go the extra mile?",
+      "url": "https://www.xda-developers.com/aftermarket-gpu-features-id-still-pay-extra-for",
+      "source": "XDA Developers",
+      "publishedAt": "2026-09-28T11:30:18Z"
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "description": "Nvidia NVDA-Q on Monday unveiled a new security platform that the chip maker said can stop artificial intelligence agents from going rogue.\nThe company said that its Open Agent Safety Platform includes software that “sets boundaries for agents,” and follows a…",
+      "url": "https://biztoc.com/x/333e8faec5f11417",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:28:52Z"
+    },
+    {
+      "title": "Nvidia launches record $150bn share buyback",
+      "description": "Chipmaker’s plan to repurchase stock comes as share-price gains have slowed this year",
+      "url": "https://biztoc.com/x/eeb5612cf5538606",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:28:41Z"
+    },
+    {
+      "title": "The next iPad Mini could get the iPhone Duo's A20 Pro chip, but that's not all",
+      "description": "Apple could be refreshing its tablets, as new iPad Mini leaks point to a major chipset upgrade and a new display for gaming.",
+      "url": "https://www.pockettactics.com/apple/ipad-mini-a20-leak",
+      "source": "Pockettactics.com",
+      "publishedAt": "2026-09-28T11:22:42Z"
+    },
+    {
+      "title": "TSMC to Scale 2 nm Production to 120,000 Wafers per Month by the End of 2026",
+      "description": "TSMC has reportedly started expanding its manufacturing capacity as demand continues to outpace supply. According to a recent report from UDN, TSMC aims to increase its 2 nm manufacturing capacity at the N2 node, targeting an output of about 120,000 wafers pe…",
+      "url": "https://www.techpowerup.com/353153/tsmc-to-scale-2-nm-production-to-120-000-wafers-per-month-by-the-end-of-2026",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-28T11:22:21Z"
+    },
+    {
+      "title": "Uttar Pradesh's ethanol supply chain attracts investments in distilleries",
+      "description": "Uttar Pradesh is attracting over ₹1,000 crore in private investment from distillers, while rising ethanol output and excise exports are strengthening the state's sugarcane value chain",
+      "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-s-ethanol-supply-chain-attracts-investments-in-distilleries-126092800854_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-28T11:20:00Z"
+    },
+    {
+      "title": "Global AI trade could revive after recent pullback, JP Morgan says",
+      "description": "The recent pullback in the global AI trade has improved investor positioning, made valuations attractive and could spur a re-engagement, particularly in semiconductor stocks, JP Morgan analysts said on Monday.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-trade-could-revive-after-recent-pullback-jp-morgan-says/articleshow/134540810.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T11:19:53Z"
+    },
+    {
+      "title": "POLYN Delivers First VibroSense™ TMS Engineering Sensor Nodes for Customer Evaluation",
+      "description": "MUNICH, September 28, 2026--(BUSINESS WIRE)--POLYN Technology, developer of innovative application-specific neuromorphic analog signal-processing (NASP™) chips, announced today a major milestone in the rollout of its VibroSense TMS solution, which has already…",
+      "url": "https://biztoc.com/x/8e3ae4fffdbe3e22",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:15:37Z"
+    },
+    {
+      "title": "Flexopack: Building resilience against higher costs, tariffs and geopolitical uncertainty",
+      "description": "Rising raw material prices, energy costs, supply chain disruptions caused by volatile geopolitical conditions, and a shortage of personnel with specialised technical knowledge and experience in the production, development and…\nFlexopack: Building resilience a…",
+      "url": "https://www.naftemporiki.gr/english/2167579/flexopack-building-resilience-against-higher-costs-tariffs-and-geopolitical-uncertainty",
+      "source": "Naftemporiki.gr",
+      "publishedAt": "2026-09-28T11:14:35Z"
+    },
+    {
+      "title": "Here We Remain: A World That Abides Slaughter",
+      "description": "Atop all the others inflicted on us came last week's sickening spectacle of two vengeful, lying, broken old men - one a longtime killer of children, one a petty useful idiot abetting him - alternately celebrating and threatening genocide before \"we the people…",
+      "url": "https://www.commondreams.org/further/here-we-remain-a-world-that-abides-slaughter",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-28T11:14:22Z"
+    },
+    {
+      "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+      "description": "The platform is designed to control what an agent can access and isolate it within milliseconds if it crosses those limits, according to the US chipmaker.",
+      "url": "https://biztoc.com/x/5569a8a3c793dadb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:13:54Z"
+    },
+    {
+      "title": "Nvidia approves $150B stock buyback increase",
+      "description": "Nvidia Corp.'s board authorized on Monday a $150 billion increase in its stock repurchase program, which now totals $235 billion. The company stated that it is \"the largest share repurchase authorizat...",
+      "url": "https://biztoc.com/x/1bb7a3495ffe1d1b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T11:13:53Z"
+    },
+    {
+      "title": "Nvidia adds $150 billion to existing share repurchase plan",
+      "description": "Sept 28 : Nvidia is buying back additional shares worth $150 billion under its existing stock repurchase plan, in what the chip giant said was the largest increase in share repurchase authorization on record.Shares of the Santa Clara, California-based company…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-adds-150-billion-existing-share-repurchase-plan-6415626",
+      "source": "CNA",
+      "publishedAt": "2026-09-28T11:06:37Z"
+    },
+    {
+      "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+      "description": "Sept 28 : Nvidia bolstered its share buyback authorization by $150 billion, surpassing Apple's $110 billion boost in 2024 to mark the biggest-ever increase in a stock repurchase program.The additional authorization lifts Nvidia's remaining buyback capacity to…",
+      "url": "https://www.channelnewsasia.com/business/nvidia-boosts-share-buyback-record-150-billion-ai-boom-fuels-growth-6415626",
+      "source": "CNA",
+      "publishedAt": "2026-09-28T11:06:37Z"
+    },
+    {
+      "title": "Nvidia increases share buyback approval by $150B as AI revenue machine keeps printing cash",
+      "description": "Nvidia's massive buyback signals robust confidence in AI-driven growth, potentially boosting shareholder value and market influence significantly.\nThe post Nvidia increases share buyback approval by $150B as AI revenue machine keeps printing cash appeared fir…",
+      "url": "https://cryptobriefing.com/nvidia-share-buyback-150-billion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T11:06:23Z"
+    },
+    {
+      "title": "I'm a nutritionist, here's the best breakfast, lunch and dinner to eat to prevent a heart attack - and they're all cheap as chips",
+      "description": "There are certain heart health rules we all know well - stay away from butter and bacon for one, cook with olive oil and eat more salmon.",
+      "url": "https://www.dailymail.com/health/article-16159843/Im-nutritionist-heres-best-breakfast-lunch-dinner-eat-prevent-heart-attack-theyre-cheap-chips.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-28T11:02:35Z"
+    },
+    {
+      "title": "Using the SNES Super FX Chip to Run Super Mario 64",
+      "description": "Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using car…",
+      "url": "https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64",
+      "source": "Hackaday",
+      "publishedAt": "2026-09-28T11:00:00Z"
+    },
+    {
+      "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+      "description": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company’s existing share repurchase program, increasing the total remaining amount authorized to $235 billion.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-09-28T11:00:00Z"
+    },
+    {
+      "title": "Finastra launches Supply Chain Finance to Help Banks Accelerate Working Capital Growth",
+      "description": "Move delivers cloud, AI and API-enabled payables and receivables finance, in its first phase, including native risk distribution that can be integrated with Finastra's award-winning Trade Innovation and Loan IQ applications. MIAMI, Sept. 28, 2026 /PRNewswire/…",
+      "url": "https://www.prnewswire.com/news-releases/finastra-launches-supply-chain-finance-to-help-banks-accelerate-working-capital-growth-302890867.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-28T11:00:00Z"
+    },
+    {
+      "title": "Why ACs, TVs and smartphones are set to get costlier before Diwali",
+      "description": "Consumer Electronics Price Hike: From copper and aluminium to memory chips and freight, several cost pressures are converging just before India's biggest shopping season",
+      "url": "https://www.business-standard.com/industry/news/why-acs-tvs-and-smartphones-are-set-to-get-costlier-before-diwali-126092800751_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-28T10:50:02Z"
+    },
+    {
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'",
+      "description": "released the Open Agent Safety Platform, which is aimed at helping AI developers to enforce safeguards on agents, a few days after the AI hardware giant's CEO questioned the security approaches of Anthropic and OpenAI.\n\"AI's extraordinary potential for societ…",
+      "url": "https://biztoc.com/x/429c0c9fcce01ada",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:45:12Z"
+    },
+    {
+      "title": "Nvidia: Spot The Real Asset And Trade From A Position Of Knowledge, Not Enthusiasm",
+      "description": "What makes an asset an asset? Is it its ability to appreciate in price over time, like gold and other precious metals? Is it the fact that it earns you passive income, like bonds or rentable real\nSummary\n- Nvidia Corp (NVDA) is fundamentally a proxy for the e…",
+      "url": "https://biztoc.com/x/dfa803f941ad2d8a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:43:51Z"
+    },
+    {
+      "title": "National Fish and Chip Awards 2026: Top 40 chippies batter the competition to make this year's longlist",
+      "description": "The top 40 fish and chip shops across the country have been shortlisted for a prestigious prize awarded by the National Federation of Fish Friers.",
+      "url": "https://www.dailymail.com/travel/article-16165953/National-fish-chip-awards-longlist-40.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-28T10:41:50Z"
+    },
+    {
+      "title": "Nvidia plans to generate $26B annually from RTX Pro 5500 shipments to China",
+      "description": "Nvidia's strategic maneuver around export restrictions could reshape global tech dynamics, boosting AI capabilities and market competition.\nThe post Nvidia plans to generate $26B annually from RTX Pro 5500 shipments to China appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-rtx-pro-5500-china-revenue",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T10:40:43Z"
+    },
+    {
+      "title": "Open Boxes: Samsung Galaxy Chromebook Plus Google AI: 15.6\" FHD AMOLED, Intel Core 3 100U, 8GB LPDDR5, 256GB UFS $248.99 (1 replies)",
+      "description": "Open Boxes [bestbuy.com] (YMMV) available:Excellent - $295.99\nGood - $272.99\nFair - $248.99\n\nSamsung Galaxy Chromebook Plus 15.6\" with Google AI AMOLED display – Intel Core 3 – 8GB Memory –",
+      "url": "https://slickdeals.net/f/20069274-open-boxes-samsung-galaxy-chromebook-plus-google-ai-15-6-fhd-amoled-intel-core-3-100u-8gb-lpddr5-256gb-ufs-248-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-28T10:40:09Z"
+    },
+    {
+      "title": "Bosgame P6 Neo Ryzen 7 Mini Desktop PC for $435 + free shipping",
+      "description": "Expandable storage, triple-monitor support, extensive connectivity, and a small footprint make this a capable compact PC for work and everyday multitasking. At $434.99, it's $145 off the $579.99 list price via coupon code \"BOS6800H25\". Deal ends October 6.  B…",
+      "url": "https://www.dealnews.com/products/Bosgame/Bosgame-P6-Neo-Ryzen-7-Mini-Desktop-PC/538308.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-09-28T10:36:17Z"
+    },
+    {
+      "title": "Acer Swift Go 16 AI (2026): 16\" FHD+ 120Hz IPS Touch, Ryzen AI 9 465, 32GB LPDDR5, 1TB SSD $999.99 (1 replies)",
+      "description": "Available at:Best Buy [bestbuy.com]\nBest Buy via eBay [ebay.com]\n\n\nAcer Swift Go 16 AI Copilot+ PC 16\" WUXGA Touchscreen Laptop AMD Ryzen AI 9 465 2026 32GB Memory – 1TB Storage Obsidian Black",
+      "url": "https://slickdeals.net/f/20069262-acer-swift-go-16-ai-2026-16-fhd-120hz-ips-touch-ryzen-ai-9-465-32gb-lpddr5-1tb-ssd-999-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-28T10:35:33Z"
+    },
+    {
+      "title": "Gunnison Copper Appoints U.S. Defense Sector Executive as Chief Financial Officer",
+      "description": "Jennifer Hays brings decades of finance leadership, including Intel Corporation and most recently served as CFO of a U.S. defense company\nPhoenix, Arizona--(Newsfile Corp. - September 28, 2026) - Gunnison Copper Corp. (TSX: GCU) (OTCQB: GCUMF) (FSE: 3XS0) (\"G…",
+      "url": "https://biztoc.com/x/35760922a9abf44e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-28T10:30:33Z"
+    },
+    {
+      "title": "Nvidia releases safety software tools to stop AI agents from misbehaving",
+      "description": "Nvidia has launched software tools to contain rogue AI agents, saying they could have prevented the Hugging Face breach as OpenAI and Anthropic investigate similar agent-related hacks",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-releases-safety-software-tools-to-stop-ai-agents-from-misbehaving-126092800686_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-28T10:24:03Z"
+    },
+    {
+      "title": "China expands travel restrictions to families of top AI and chip executives",
+      "description": "China's expanded travel restrictions could deter talent retention and innovation, impacting global tech collaboration and competitiveness.\nThe post China expands travel restrictions to families of top AI and chip executives appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/china-travel-restrictions-ai-chip-executives-families",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-28T10:20:26Z"
+    },
+    {
+      "title": "Device Hierarchy PRO by Anexas",
+      "description": "Shows the game Hierarchy and Inspector Panels on target device. Allows modifying game objects and components on device. Shows FPS, CPU and GPU times.* Shows the game Hierarchy and Inspector Panels on target device without needing to connect to Unity Editor to…",
+      "url": "https://assetstore.unity.com/packages/tools/utilities/device-hierarchy-pro-398356",
+      "source": "Unity.com",
+      "publishedAt": "2026-09-28T10:20:14Z"
+    },
+    {
+      "title": "Apple iPad 12 Leak Reveals A19 Chip, 8GB RAM and a Possible 2027 Launch",
+      "description": "Apple’s new entry-level iPad could launch in spring 2027 with better performance, upgraded connectivity and Apple Intelligence support, while retaining a similar price.",
+      "url": "https://in.mashable.com/tech/114376/apple-ipad-12-leak-reveals-a19-chip-8gb-ram-and-a-possible-2027-launch",
+      "source": "Mashable",
+      "publishedAt": "2026-09-28T10:18:14Z"
+    },
+    {
+      "title": "Thieves steal Nvidia-branded trailers expecting valuable hardware, find 40,000 pounds of sand instead",
+      "description": "The thieves' mistake was that the trailers had more than just Nvidia's logo on them: they also bore the name PlusAI, an autonomous truck startup that is working with Nvidia on its self-driving technology and AI software.Read Entire Article",
+      "url": "https://www.techspot.com/news/114008-thieves-steal-nvidia-branded-trailers-expecting-valuable-hardware.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-09-28T10:18:00Z"
+    },
+    {
+      "title": "(PR) GMKtec Launches EVO-X5 Pro with AMD Ryzen AI Max+ PRO 495 and 192 GB Unified Memory",
+      "description": "GMKtec today officially launched the EVO-X5 Pro, a flagship desktop AI supercomputer built for the emerging Agentic PC era. Powered by the AMD Ryzen AI Max+ PRO 495 and equipped with up to 192 GB of LPDDR5X-8533 unified memory, the EVO-X5 Pro combines large-s…",
+      "url": "https://www.techpowerup.com/353151/gmktec-launches-evo-x5-pro-with-amd-ryzen-ai-max-pro-495-and-192-gb-unified-memory",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-09-28T10:09:31Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson",
+      "These AI Stocks Took Off Or Tumbled In Q3. Here's Why",
+      "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia",
+      "Nvidia Adds Record $150 Billion to Stock Buyback",
+      "Accused hate group leader cozy with 'kill the gays' activists sent cash to GOP congressman"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/f97cc92490b7aadb",
+        "https://biztoc.com/x/a705ffdbd0d02f43",
+        "https://biztoc.com/x/6e50bb8290290363"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.houstonchronicle.com/sports/rockets/article/chip-engelland-shooting-alperen-sengun-22451501.php?amp%3Butm_campaign=yahoo_syndication",
+        "https://biztoc.com/x/438169bf1bcfcd1d",
+        "https://www.pockettactics.com/apple/ipad-mini-a20-leak"
+      ]
+    },
+    {
+      "title": "Platform",
+      "summary": "Grouped stories where \"platform\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cisa.gov/news-events/bulletins/sb26-271"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/8e3ae4fffdbe3e22",
+        "https://www.prnewswire.com/news-releases/finastra-launches-supply-chain-finance-to-help-banks-accelerate-working-capital-growth-302890867.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.rawstory.com/raw-investigates/andy-biggs-2677930810",
+        "https://www.theroot.com/fall-superfoods-to-add-to-your-grocery-list-for-better-2000128034",
+        "https://www.techradar.com/computing/software/discords-pc-system-resource-hogging-days-are-numbered-a-new-game-mode-is-coming-to-reduce-cpu-and-gpu-usage-while-gaming"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Houston Rockets shooting coach Chip Engelland's first tweaks for Alperen Şengün, Amen Thompson. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
