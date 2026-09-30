@@ -1,0 +1,444 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-09-30",
+  "last_updated_utc": "2026-09-30T11:51:38.865Z",
+  "news": [
+    {
+      "title": "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to",
+      "description": "OpenAI’s GPT-6 Astra carried out supply chain attacks on software outside the scope of a security test, according to the UK AI Security Institute (AISI). Anatomy of an unsanctioned simulated supply-chain attack (Source: AISI) AISI tested the model before its …",
+      "url": "https://www.helpnetsecurity.com/2026/09/29/openai-gpt-6-astra-supply-chain-attacks-test-simulations",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-29T11:41:50Z"
+    },
+    {
+      "title": "AMD to acquire another AI software firm, World Labs",
+      "description": "The planned acquisition is expected to close by the end of 2026",
+      "url": "https://www.itpro.com/business/acquisition/amd-to-acquire-another-ai-software-firm-world-labs",
+      "source": "Itpro.com",
+      "publishedAt": "2026-09-29T11:41:20Z"
+    },
+    {
+      "title": "AMD drops an EPYC $15,000, 256-core beast",
+      "description": "AMD has shared the full SKU list for its 6th Generation EPYC 9006 (codenamed Venice) series, with 1Ku pricing.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896996",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T11:32:36Z"
+    },
+    {
+      "title": "Open Boxes: Dell XPS (2026): 13.4\" QHD+ IPS 120Hz Touch, Intel Core 5 320, 8GB LPDDR5, 512GB SSD $519.99 (0 replies)",
+      "description": "Open Boxes [bestbuy.com] (YMMV) available:Excellent - $563.99\nGood - $535.99\nFair - $519.99\n\nDell XPS 13.4\" 3K Touchscreen Laptop Intel Core 5 Series 3 320 2026 8GB Memory 512GB Storage Sky - Ope",
+      "url": "https://slickdeals.net/f/20073846-open-boxes-dell-xps-2026-13-4-qhd-ips-120hz-touch-intel-core-5-320-8gb-lpddr5-512gb-ssd-519-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-29T11:31:48Z"
+    },
+    {
+      "title": "Former EVGA Employee Blames NVIDIA’s Tightening Grip For Company’s GPU Collapse, Left Years Before The 2022 Exit",
+      "description": "A former EVGA employee explains why he left the company even though he loved his job. Brendon Hedrick Explains Why He Left EVGA Years Before the Company Exited the GPU Business Nearly four years ago, EVGA officially stopped making GPUs. The company, which exc…",
+      "url": "https://wccftech.com/former-evga-employee-blames-nvidias-tightening-grip-for-companys-gpu-collapse",
+      "source": "Wccftech",
+      "publishedAt": "2026-09-29T11:27:18Z"
+    },
+    {
+      "title": "Neoclouds Put GPU Capacity Ahead of the Rest of the Catalog",
+      "description": "GPU Shortage Turned Into a Second Cloud Market When a training job needs hundreds of tightly coupled GPUs, the rest of a cloud catalog is noise. Extra regions and managed databases do not help if accelerator inventory is sold out. Neoclouds exist for that con…",
+      "url": "https://cloudtweaks.com/2026/09/neoclouds-gpu-hours-ahead-catalog",
+      "source": "Cloudtweaks.com",
+      "publishedAt": "2026-09-29T11:25:46Z"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "description": "Find insight on Eutelsat, Nvidia, YMTC and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "url": "https://biztoc.com/x/214aefa9e9875c95",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T11:25:28Z"
+    },
+    {
+      "title": "AMD drops an EPYC $15,000, 256-core beast",
+      "description": "AMD has shared the full SKU list for its 6th Generation EPYC 9006 (codenamed Venice) series, with 1Ku pricing.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-29T11:20:00Z"
+    },
+    {
+      "title": "Show HN: TrawlSec – turns threat-Intel monitoring into SOC2/ISO27001 evidence",
+      "description": "TrawlSec generates the threat intelligence monitoring evidence auditors ask for. Findings, reviewer sign-off, and exportable reports mapped to SOC 2 and ISO 27001 A.5.7 — ready before the audit, not scrambled together for it.",
+      "url": "https://trawlsec.com/",
+      "source": "Trawlsec.com",
+      "publishedAt": "2026-09-29T11:18:33Z"
+    },
+    {
+      "title": "REQ: Vital Audio Vital Pro v1.6.4 WiN macOS LiNUX",
+      "description": "<!--dle_image_begin:https://audioz.download/uploads/posts/2022-09/thumbs/1663954560_euirxdowyaipufc.jpg|--><!--dle_image_end-->Vital is a visual synthesizer. See what's happening behind the scenes with animated controls, filter responses, waveforms, smooth LF…",
+      "url": "https://audioz.download/request/301840-req-vital-audio-vital-pro-v164-win-macos-linux.html",
+      "source": "Audioz.download",
+      "publishedAt": "2026-09-29T11:18:01Z"
+    },
+    {
+      "title": "Electron is one of Windows 11's biggest RAM offenders, and Discord's Game Mode doesn't fix it - Windows Latest",
+      "description": "Electron is one of Windows 11's biggest RAM offenders, and Discord's Game Mode doesn't fix itWindows Latest Discord is working on reducing CPU and GPU usage while gaming via its new 'Game Mode' — but what does this mean for screen sharing?TechRadar Discord Is…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896906",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T11:12:16Z"
+    },
+    {
+      "title": "Nvidia's answer to rogue AI changes the conversation",
+      "description": "Nvidia CEO Jensen Huang just made two huge moves that might change how we think about AI risk entirely. First, a new agent safety platform engineered to catch and quarantine rogue AI agents in milliseconds, then a record-shattering $235 billion stock buyback …",
+      "url": "https://biztoc.com/x/9c4181f22b2f01a7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T11:11:20Z"
+    },
+    {
+      "title": "Nvidia Says It Can Stop Rogue AI in 'Milliseconds'",
+      "description": "Nvidia thinks it has a fix for one of AI's scariest habits: trying to bust out of its digital cage. On Monday, the chip giant unveiled the Open Agent Safety Platform, software meant to keep AI agents from escaping their confines, roaming the internet, and pok…",
+      "url": "https://www.newser.com/story/397257/nvidia-says-it-can-stop-rogue-ai-in-milliseconds.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-29T11:11:00Z"
+    },
+    {
+      "title": "Atomic Raises $12.5M to Build the AI Control System for Physical Goods Companies",
+      "description": "Founded by former Tesla supply chain leaders, Atomic already automates 90% of purchasing for DoorDash's DashMart business and helped Good Chop cut inventory in half while more than doubling revenue.\nBOSTON, Sept. 29, 2026 /PRNewswire/ -- Atomic, the AI-native…",
+      "url": "https://biztoc.com/x/71f73cdcf7f39977",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T11:10:28Z"
+    },
+    {
+      "title": "Etsy Aims to Get More Personal and Boost Business With AI",
+      "description": "Plus: Oura postpones IPO over market uncertainty; Goldman board discusses plan to name John Waldron next CEO; Nvidia adds $150 billion to buyback plan.",
+      "url": "https://biztoc.com/x/e47175e01b45765f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T11:10:25Z"
+    },
+    {
+      "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
+      "description": "When Nvidia announced a record stock buyback on Monday, the chipmaker's share price was, by one key metric, at its cheapest level in a decade. CEO Jensen Huang saw it as a bargain.\nNvidia's price-to-earnings ratio for fiscal 2028, which begins this coming Feb…",
+      "url": "https://biztoc.com/x/9e6b46f28ed12902",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T11:10:21Z"
+    },
+    {
+      "title": "Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170",
+      "description": "This powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, unlocks 4K gameplay for $1,999.99.",
+      "url": "https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-29T11:10:00Z"
+    },
+    {
+      "title": "MEXC Earnings Season Data: Nearly Half of Tokenized Stock Trading Volume Occurs Outside Regular U.S. Hours",
+      "description": "Mutsamudu, Comoros, September 29, 2026 — MEXC, a pioneer in 0-fee digital asset trading, today released stock trading data from the July-August 2026 earnings season, highlighting a continued shift in U.S. stock market participation beyond regular trading hour…",
+      "url": "http://www.newsbtc.com/news/mexc-earnings-season-data-nearly-half-of-tokenized-stock-trading-volume-occurs-outside-regular-u-s-hours",
+      "source": "newsBTC",
+      "publishedAt": "2026-09-29T11:09:26Z"
+    },
+    {
+      "title": "AMD pays $8.2 billion for AI lab led by Fei-Fei Li; why her work on teaching AI to understand the real world matters",
+      "description": "AMD has agreed to acquire AI startup World Labs for $8.2 billion, with renowned AI researcher Fei-Fei Li set to become the chipmaker’s chief scientist. Li, who co-founded World Labs in 2024, has focused on spatial intelligence, developing AI systems designed …",
+      "url": "https://timesofindia.indiatimes.com/education/news/amd-pays-8-2-billion-for-ai-lab-led-by-fei-fei-li-why-her-work-on-teaching-ai-to-understand-the-real-world-matters/articleshow/134564148.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-29T11:04:43Z"
+    },
+    {
+      "title": "Nvidia Develops Software to Prevent AI From Going Rogue",
+      "description": "While everyone else panics over AI, including AI CEOs, Nvidia CEO Jensen Huang stays remarkably calm and rational.\nThe post Nvidia Develops Software to Prevent AI From Going Rogue first appeared on Le·gal In·sur·rec·tion.",
+      "url": "https://legalinsurrection.com/2026/09/nvidia-develops-software-to-prevent-ai-from-going-rogue",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-09-29T11:00:04Z"
+    },
+    {
+      "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist",
+      "description": "Nvidia is looking to spend hundreds of billions of dollars buying its stock at a time when it's historically cheap based on earnings expectations.",
+      "url": "https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-29T11:00:01Z"
+    },
+    {
+      "title": "Sourcing Journal Releases Executive Sentiment Survey",
+      "description": "Sourcing Journal released its 2026 Fall Summit Report, which examines how supply chain and sourcing executives perceive growing geopolitical uncertainty and shifting trade policies.",
+      "url": "http://wwd.com/sourcing-journal/industry-news/sourcing-journal-releases-executive-sentiment-survey-report-1239284865",
+      "source": "WWD",
+      "publishedAt": "2026-09-29T11:00:00Z"
+    },
+    {
+      "title": "Nvidia announces record $150 billion share buyback amid AI boom",
+      "description": "Nvidia has increased its share buyback authorisation by a record $150 billion, taking its total remaining repurchase capacity to $235 billion as the",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-announces-record-150-billion-share-buyback-amid-ai-boom/articleshow/134563925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-29T10:57:21Z"
+    },
+    {
+      "title": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra asethic component'",
+      "description": "A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896710",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T10:53:55Z"
+    },
+    {
+      "title": "Nvidia's $150B buyback could fuel next stock rally - Yahoo Finance",
+      "description": "Nvidia's $150B buyback could fuel next stock rallyYahoo Finance How Nvidia’s Buyback Created Phantom ValueWSJ NVIDIA Announces a $150 Billion Share Repurchase Authorization IncreaseNVIDIA Newsroom Nvidia’s board increases chipmaker’s share buyback plan by $15…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896650",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T10:52:30Z"
+    },
+    {
+      "title": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra asethic component'",
+      "description": "A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-29T10:50:00Z"
+    },
+    {
+      "title": "AMD agrees to buy Fei-Fei Li’s World Labs for $8.2bn in stock",
+      "description": "AMD has agreed to buy World Labs, the AI model startup led by Fei-Fei Li, in an all-stock deal valued at about $8.2bn. AMD announced the deal on Monday. Li will join AMD as executive vice president and chief scientist, reporting to CEO Lisa Su. AMD expects th…",
+      "url": "https://thenextweb.com/news/amd-world-labs-8-2bn-fei-fei-li-chief-scientist",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-29T10:48:02Z"
+    },
+    {
+      "title": "In 2019, Chip and Joanna Gaines bought Waco’s neglected Cottonland Castle; after years restoring the 6,176-sq-ft landmark, the ‘Fixer Upper’ property listed for $2.7 million has found a buyer",
+      "description": "In 2019, Chip and Joanna Gaines bought Waco’s neglected Cottonland Castle; after years restoring the 6,176-sq-ft landmark, the ‘Fixer Upper’ property listed for $2.7 million has found a buyer",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2019-chip-and-joanna-gaines-bought-wacos-neglected-cottonland-castle-after-years-restoring-the-6176-sq-ft-landmark-the-fixer-upper-property-listed-for-2-7-million-has-found-a-buyer/articleshow/134563734.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-29T10:46:42Z"
+    },
+    {
+      "title": "Middle East Institute: Ankara’s Nuclear Ambitions in the Post-Iran War Environment",
+      "description": "Gönül Tol*, September 28, 2026A longer version of this article was originally published by MEI on September 10, 2026.In February 2026, Turkish Foreign Minister Hakan Fidan suggested that shifting international dynamics could push Turkey to acquire nuclear wea…",
+      "url": "https://i-epikaira.blogspot.com/2026/09/middle-east-institute-ankaras-nuclear.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-29T10:44:40Z"
+    },
+    {
+      "title": "Elon Musk just handed Nvidia investors another big win",
+      "description": "Elon Musk has become one of the most reliable sources of good news for Nvidia shareholders this year. He added another chapter on Sept. 25. \nA single post laid out a chip buildout schedule that would make even the most bullish AI infrastructure forecasts look…",
+      "url": "https://biztoc.com/x/b7aefdbb69c51a0a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T10:40:41Z"
+    },
+    {
+      "title": "144 shops selling substandard baby milk bottles raided",
+      "description": "In a recent special operation conducted island-wide by the Consumer Affairs Authority, one hundred and forty-four shops selling substandard baby milk bottles and reusable plastic bottles were raided. During this series of sudden raids, investigating officers …",
+      "url": "https://english.gossiplankanews.com/2026/09/144-shops-selling-substandard-baby-milk.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-09-29T10:30:18Z"
+    },
+    {
+      "title": "Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs",
+      "description": "Intel has showcased a patent it filed in 2022 to embed MicroLEDs inside chip packaging. The company suggests this could be used for package diagnostic testing, customized lighting on chip surfaces, but perhaps more importantly, an alternative integration for …",
+      "url": "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-29T10:30:00Z"
+    },
+    {
+      "title": "Nvidia is trading like an oil stock — and taking advantage of the moment",
+      "description": "The AI chip king is closing in on a record high, riding high even as its peers struggle. But of all the tech darlings, Nvidia (NVDA) has the most modest multiple.\nDespite being the heart of the AI trade and a shining example of post-COVID growth in the US, ev…",
+      "url": "https://biztoc.com/x/246d9f16aed73a18",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T10:26:14Z"
+    },
+    {
+      "title": "Palo Alto Networks and NVIDIA want tighter control over AI agents",
+      "description": "Palo Alto Networks is expanding its work with NVIDIA to help companies control what AI agents can access and do. The collaboration covers agent activity, network traffic and identity management through NVIDIA’s Open Agent Safety Platform reference design. Pal…",
+      "url": "https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security",
+      "source": "Help Net Security",
+      "publishedAt": "2026-09-29T10:21:25Z"
+    },
+    {
+      "title": "Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement",
+      "description": "Former Nvidia advisor Eric Gullichsen says a 1993 stock option grant leaves him owed about $1 billion in stock.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896460",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T10:12:49Z"
+    },
+    {
+      "title": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
+      "description": "Investing.com -- European semiconductor shares rose on Tuesday, led by X-Fab Silicon Foundries, on reports that AI startup Anthropic's IPO prospectus pointed to a sharp increase in spending on cloud, computing and infrastructure.\nThe prospectus forecast $518 …",
+      "url": "https://biztoc.com/x/c007301541b4dc80",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T10:10:49Z"
+    },
+    {
+      "title": "Global Market: European stocks edge higher, tech shares lead gains",
+      "description": "European shares rose 0.3%, led by technology and semiconductor stocks, as investors responded to Anthropic’s AI expansion plans and potential $2 trillion valuation. Gains were capped by higher oil prices, elevated bond yields and Middle East tensions. Markets…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-higher-tech-shares-lead-gains/articleshow/134562690.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-29T10:06:19Z"
+    },
+    {
+      "title": "Atomic Raises $12.5M to Build the AI Control System for Physical Goods Companies",
+      "description": "Founded by former Tesla supply chain leaders, Atomic already automates 90% of purchasing for DoorDash's DashMart business and helped Good Chop cut inventory in half while more than doubling revenue. BOSTON, Sept. 29, 2026 /PRNewswire/ -- Atomic, the AI-native…",
+      "url": "https://www.prnewswire.com/news-releases/atomic-raises-12-5m-to-build-the-ai-control-system-for-physical-goods-companies-302892093.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-29T10:00:00Z"
+    },
+    {
+      "title": "Anisotropic superconducting diode effect in planar Josephson junctions",
+      "description": "We theoretically investigate the magnetic and crystalline anisotropies of the superconducting diode effect (SDE) in proximitized planar Josephson junctions (JJs) with coexisting Rashba and Dresselhaus spin--orbit couplings (SOCs) under an in-plane magnetic fi…",
+      "url": "https://link.aps.org/doi/10.1103/1ysg-82ks",
+      "source": "Aps.org",
+      "publishedAt": "2026-09-29T10:00:00Z"
+    },
+    {
+      "title": "Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement",
+      "description": "The 9,375 disputed options would have cost $468.75 to exercise in 1996, but he and his lawyers agreed that the statute of limitations worked against them.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/early-nvidia-advisor-says-hes-owed-usd1-billion-in-stock-due-to-vesting-error-1993-stock-options-amount-to-around-4-5-million-shares-after-splits",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-29T10:00:00Z"
+    },
+    {
+      "title": "Cozyshops Vol.2 Lite - 10 Free Props by Sari3D",
+      "description": "A free 10-prop taster of CozyShops Vol.2 — warm, stylized low-poly bakery pieces sharing a single 512×512 atlas.<ul><li>- Universal Render Pipeline (URP), Unity 6000.0 LTS and up</li><li>- 10 prop prefabs + a demo scene</li><li>- One 512×512 color atlas and 1…",
+      "url": "https://assetstore.unity.com/packages/3d/props/food/cozyshops-vol-2-lite-10-free-props-411482",
+      "source": "Unity.com",
+      "publishedAt": "2026-09-29T09:56:12Z"
+    },
+    {
+      "title": "China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
+      "description": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital going to domestic suppliers of chipmaking equipment, according to a source.\nThe firm, listed on …",
+      "url": "https://biztoc.com/x/bf5749f29efab8ae",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T09:55:37Z"
+    },
+    {
+      "title": "iQOO 16 and iQOO Pad Ultra full specs leak",
+      "description": "Less than 24 hours before their official unveiling, the full specs of both the iQOO 16 and the iQOO Pad Ultra have been outed today courtesy of Digital Chat Station on Weibo.\n\nSo, according to him, the iQOO 16 has a 6.85-inch Samsung M16 \"LEAD\" OLED screen wi…",
+      "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-09-29T09:53:02Z"
+    },
+    {
+      "title": "Nvidia's cash machine and cheaper stock make the case for historic buyback: Chart of the Day - Yahoo Finance",
+      "description": "Nvidia's cash machine and cheaper stock make the case for historic buyback: Chart of the DayYahoo Finance Nvidia Announces Record $150 Billion Share Buyback Amid Rising AI Chip CompetitionYahoo NVIDIA Announces a $150 Billion Share Repurchase Authorization In…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185896360",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-29T09:52:58Z"
+    },
+    {
+      "title": "If You Invest $500 a Month in This High-Yield Dividend Stock, Here's the Dividend Income It Could Produce Over 10 Years (Spoiler: It's More Than $23,000)",
+      "description": "If You Invest $500 a Month in This High-Yield Dividend Stock, Here's the Dividend Income It Could Produce Over 10 Years (Spoiler: It's More Than $23,000)\nVerizon Communications (NYSE: VZ) is a blue chip stock worth considering -- especially if you're seeking …",
+      "url": "https://biztoc.com/x/8371534857ddd8f3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T09:41:09Z"
+    },
+    {
+      "title": "Nvidia's $150B buyback could fuel next stock rally",
+      "description": "The hot trade into year-end and early 2027 may just be a tried-and-true one: Nvidia (NVDA).\nAnd the NVDA bulls could thank the company's jaw-dropping new stock buyback plan for any added momentum.\nThe king of AI chips revealed a stunning new $150 billion stoc…",
+      "url": "https://biztoc.com/x/740c3fc2bf08a8cd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T09:41:04Z"
+    },
+    {
+      "title": "Nvidia, AMD said to lobby against US chip export ban to China",
+      "description": "Nvidia and AMD are working to persuade the Trump administration not to impose a ban on semiconductor exports to China, Politico reported on Tuesday. Three sources familiar with the matter confirmed th...",
+      "url": "https://biztoc.com/x/c61e96599e19e2eb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T09:40:36Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to",
+      "AMD to acquire another AI software firm, World Labs",
+      "AMD drops an EPYC $15,000, 256-core beast",
+      "Open Boxes: Dell XPS (2026): 13.4\" QHD+ IPS 120Hz Touch, Intel Core 5 320, 8GB LPDDR5, 512GB SSD $519.99 (0 replies)",
+      "Former EVGA Employee Blames NVIDIA’s Tightening Grip For Company’s GPU Collapse, Left Years Before The 2022 Exit"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/former-evga-employee-blames-nvidias-tightening-grip-for-companys-gpu-collapse",
+        "https://biztoc.com/x/214aefa9e9875c95",
+        "https://biztoc.com/x/9c4181f22b2f01a7"
+      ]
+    },
+    {
+      "title": "Billion",
+      "summary": "Grouped stories where \"billion\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/education/news/amd-pays-8-2-billion-for-ai-lab-led-by-fei-fei-li-why-her-work-on-teaching-ai-to-understand-the-real-world-matters/articleshow/134564148.cms",
+        "https://biztoc.com/x/bf5749f29efab8ae"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/real-estate/news/in-2019-chip-and-joanna-gaines-bought-wacos-neglected-cottonland-castle-after-years-restoring-the-6176-sq-ft-landmark-the-fixer-upper-property-listed-for-2-7-million-has-found-a-buyer/articleshow/134563734.cms",
+        "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs",
+        "https://biztoc.com/x/c007301541b4dc80"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.helpnetsecurity.com/2026/09/29/openai-gpt-6-astra-supply-chain-attacks-test-simulations",
+        "https://www.itpro.com/business/acquisition/amd-to-acquire-another-ai-software-firm-world-labs",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185896996"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI’s GPT-6 Astra ran supply chain attacks despite being told not to. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
