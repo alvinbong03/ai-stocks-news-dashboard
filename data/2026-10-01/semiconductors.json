@@ -1,0 +1,461 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-01",
+  "last_updated_utc": "2026-10-01T12:25:16.492Z",
+  "news": [
+    {
+      "title": "The state of agentic AI in chip design tools in 2026",
+      "description": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T12:20:00Z"
+    },
+    {
+      "title": "TwinMed Deploys Five DeepFabric AI Agents Across Procurement",
+      "description": "Agents now in production support about 3,200 purchase orders a month across 260 suppliers, giving buyers more time for sourcing and supplier relationships. SANTA FE SPRINGS, Calif., Sept. 30, 2026 /PRNewswire/ -- DeepFabric, the agentic platform for supply ch…",
+      "url": "https://www.prnewswire.com/news-releases/twinmed-deploys-five-deepfabric-ai-agents-across-procurement-302894380.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-30T12:15:00Z"
+    },
+    {
+      "title": "The Ethernet spec was first drafted on this day in 1980",
+      "description": "On this day in 1980, version 1.0 of the Ethernet specification was published by Digital Equipment Corporation (DEC), Intel, and Xerox.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185907046",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-30T12:12:05Z"
+    },
+    {
+      "title": "Arasan to demonstrate the industry's first MIPI SWI3S™ IP at the MIPI Member meet in Taipei",
+      "description": "Arasan Chip Systems, announces that it will demonstrate the industries first MIPI SWI3S™ Manager IP and Peripheral IP on Oct 21, 2026 in Taipei SAN JOSE, Calif., Sept. 30, 2026 /PRNewswire/ -- Arasan Chip Systems a leading provider of Semiconductor IP Cores f…",
+      "url": "https://www.prnewswire.com/news-releases/arasan-to-demonstrate-the-industrys-first-mipi-swi3s-ip-at-the-mipi-member-meet-in-taipei-302891552.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-30T12:10:00Z"
+    },
+    {
+      "title": "Reinvesting T. Rowe Price's Dividend for 20 Years Changes the Math Completely. Here's How",
+      "description": "There are not many dividend stocks that are better than T. Rowe Price (NASDAQ: TROW).\nThe asset management firm has increased its dividend for 40 straight years, putting it well on its way to becoming a Dividend King.\nMissed Nvidia in 2009? This Rare Signal I…",
+      "url": "https://biztoc.com/x/03837dbfd990de83",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T12:01:36Z"
+    },
+    {
+      "title": "ASML Holding N.V. vs. Marvell Technology: Which Technology Stock Is a Better Buy in 2026?",
+      "description": "As the global demand for processing power continues to climb, investors are evaluating the hardware companies that make modern computing possible. Is ASML Holding N.V. (NASDAQ:ASML) or Marvell Technology (NASDAQ:MRVL) the better investment for 2026?\nASML prov…",
+      "url": "https://biztoc.com/x/13a0fa375250391c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T12:01:23Z"
+    },
+    {
+      "title": "Nvidia Stock Just Did Something for the First Time in 10 Years. Here's What History Says Happens Next",
+      "description": "Nvidia Stock Just Did Something for the First Time in 10 Years. Here's What History Says Happens Next.\nAfter becoming the company that turned artificial intelligence (AI) from a research project into a generational spending boom, Nvidia (NASDAQ: NVDA) has del…",
+      "url": "https://biztoc.com/x/fe835fee490551b0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T12:01:07Z"
+    },
+    {
+      "title": "The Ethernet spec was first drafted on this day in 1980",
+      "description": "On this day in 1980, version 1.0 of the Ethernet specification was published by Digital Equipment Corporation (DEC), Intel, and Xerox.",
+      "url": "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T12:00:00Z"
+    },
+    {
+      "title": "PlaySync Pro - Tweak in Real Time. Persist with Confidence by ByteLura",
+      "description": "PlaySync Pro is an enterprise-grade Unity Editor persistence and game balancing suite that permanently bridges the gap between Play Mode experimentation and Edit Mode permanence.Key Features List :Core Persistence & Tracking\r\n<ul><li>Live Diff Tracking</li><l…",
+      "url": "https://assetstore.unity.com/packages/tools/utilities/playsync-pro-tweak-in-real-time-persist-with-confidence-400334",
+      "source": "Unity.com",
+      "publishedAt": "2026-09-30T11:57:09Z"
+    },
+    {
+      "title": "Hewlett Packard Enterprise secures $1.2B Vultr order for AMD Helios AI racks",
+      "description": "HPE's $1.2B Vultr order highlights the escalating investment in AI infrastructure, potentially boosting HPE's financial growth and market position.\nThe post Hewlett Packard Enterprise secures $1.2B Vultr order for AMD Helios AI racks appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/hpe-vultr-amd-helios-ai-racks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-30T11:55:39Z"
+    },
+    {
+      "title": "Developer trains a small AI on a single RTX 3080 Ti gaming GPU to 'play' Pokémon Red",
+      "description": "A developer trained a JEPA world model, based on LeWorldModel research co-authored by Yann LeCun, on an RTX 3080 Ti to play Pok&#233;mon Red.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185906934",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-30T11:52:16Z"
+    },
+    {
+      "title": "Acer Nitro V 15 Intel Core 5 210H, 1x16GB DDR4, 1TB SSD / RTX5050 8GB $1398 + Delivery / $0 C&C @ Harvey Norman",
+      "description": "Terrible value compared with deals 3 months ago.. however.. it is pretty much the cheapest RTX5050 gaming laptop around now.. 75w RTX5050, single stick 16gb ddr4 sodimm, 1TB ssd, TB4 port. Low …",
+      "url": "https://www.ozbargain.com.au/node/977179",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-09-30T11:32:03Z"
+    },
+    {
+      "title": "Developer trains a small AI on a single RTX 3080 Ti gaming GPU to 'play' Pokémon Red",
+      "description": "A developer trained a JEPA world model, based on LeWorldModel research co-authored by Yann LeCun, on an RTX 3080 Ti to play Pokémon Red.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-trains-a-small-ai-on-a-single-rtx-3080-ti-gaming-gpu-to-play-pokemon-red-model-discovered-what-each-button-does-by-predicting-what-happens-next",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T11:30:00Z"
+    },
+    {
+      "title": "Jim Cramer’s Nvidia Take is Surprisngly Sound For Once",
+      "description": "The post Jim Cramer’s Nvidia Take is Surprisngly Sound For Once appeared first on 24/7 Wall St..\nMy position in NVIDIA (NASDAQ:NVDA) has grown after every earnings report for years, and I plan to keep going. This week Jim Cramer made a case that matches the m…",
+      "url": "https://biztoc.com/x/488acce0d384d8c3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T11:29:56Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: AI data center buildout could create 1 million jobs and reshape the US economy",
+      "description": "Nvidia CEO Jensen Huang: AI data center buildout could create 1 million jobs and reshape the US economy\nNvidia (NVDA) CEO Jensen Huang, sitting on a panel next to SpaceX (SPCX) and Tesla (TSLA) CEO Elon Musk as corporate AI leaders spent most of the day at th…",
+      "url": "https://biztoc.com/x/185f3f1d786d6a32",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T11:16:12Z"
+    },
+    {
+      "title": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence'",
+      "description": "Google, Anthropic, Meta, Nvidia, OpenAI, xAI Executives Sign White House Accord on 'Super Intelligence'\nAlphabet's Google (GOOG, GOOGL), Anthropic, Meta (META), Nvidia (NVDA), OpenAI and SpaceX's xAI (SPCX) agreed to implement a four-layer control and audit s…",
+      "url": "https://biztoc.com/x/1c50694ef5e89b27",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T11:15:36Z"
+    },
+    {
+      "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+      "description": "After President Donald Trump's lunch with AI leaders on Tuesday, the leading artificial intelligence companies are right where they were before: policing themselves.\nTrump hosted top execs from Alphabet, Meta, SpaceX, Nvidia, Palantir, Anthropic, OpenAI, and …",
+      "url": "https://biztoc.com/x/731a9578c8e7f59c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T11:14:18Z"
+    },
+    {
+      "title": "Three New Apple Smart Home Products Coming on October 13",
+      "description": "Apple plans to introduce a series of new smart home products on Tuesday, October 13, according to Bloomberg's Mark Gurman. \n\n\n\n\n\nApple reportedly plans to debut its long-awaited smart home hub device, a new HomePod mini, and a new Apple TV. The new ‌HomePod m…",
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13",
+      "source": "MacRumors",
+      "publishedAt": "2026-09-30T11:04:16Z"
+    },
+    {
+      "title": "Jacobs launches digital twin platform for AI data centers at NVIDIA GTC",
+      "description": "Jacobs' digital twin platform could revolutionize AI data center efficiency, driving sustainable growth and innovation in AI infrastructure.\nThe post Jacobs launches digital twin platform for AI data centers at NVIDIA GTC appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jacobs-digital-twin-nvidia-ai-data-center",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-30T11:01:30Z"
+    },
+    {
+      "title": "Rockets Shooting Coach Gives Pointers To Team’s 2 Young Stars",
+      "description": "To many Houston Rockets fans, serious shooting improvement in 2026-27 seemed a forlorn hope. Even the Rockets adding renowned shooting coach Chip Engelland in the offseason did little to change that. But thanks to the front-line reporting of Varun Shankar of …",
+      "url": "https://sports.yahoo.com/articles/rockets-shooting-coach-gives-pointers-110031180.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-30T11:00:31Z"
+    },
+    {
+      "title": "SUANNUTRA Brings Lemon Verbena Cultivation to Home Soil",
+      "description": "Local cultivation of lemon verbena in Valencia delivers a more resilient supply chain ensuring standardized quality, full traceability and greater transparency. MADRID, September 30, 2026 /PRNewswire/ -- SUANNUTRA SA, a wellbeing solutions developer, paves a …",
+      "url": "https://www.prnewswire.com/news-releases/suannutra-brings-lemon-verbena-cultivation-to-home-soil-302894254.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-30T11:00:00Z"
+    },
+    {
+      "title": "‘This is how AI should be used’ — OpenAI head of hardware breaks down the AI-assisted design of its Jalapeño ASIC",
+      "description": "OpenAI says AI-assisted Jalapeño chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off.",
+      "url": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T10:59:59Z"
+    },
+    {
+      "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
+      "description": "In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.",
+      "url": "https://biztoc.com/x/ba1048dca195058f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T10:59:08Z"
+    },
+    {
+      "title": "Exclusive: GPU Cloud Provider GMI Raises $668 Million From Nvidia and Others",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/exclusive-gpu-cloud-provider-gmi-raises-668-million-nvidia-others",
+      "source": "The Information",
+      "publishedAt": "2026-09-30T10:55:47Z"
+    },
+    {
+      "title": "America is planning more AI datacenters than its chip supply can fill",
+      "description": "Satellite imagery shows construction accelerating, but advanced packaging could cap 2027 deployment in the low 20s of gigawatts",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185906624",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-30T10:52:16Z"
+    },
+    {
+      "title": "Descartes To Showcase Supply Chain and Logistics AI and Technology Innovations at 2026 Innovation Forum",
+      "description": "ATLANTA and LONDON, Sept. 30, 2026 (GLOBE NEWSWIRE) — Descartes Systems Group (Nasdaq:DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, will showcase its artificial intelligence (AI) and logistics technology innovations…",
+      "url": "https://financialpost.com/globe-newswire/descartes-to-showcase-supply-chain-and-logistics-ai-and-technology-innovations-at-2026-innovation-forum",
+      "source": "Financial Post",
+      "publishedAt": "2026-09-30T10:46:19Z"
+    },
+    {
+      "title": "AI in America has a huge 1.7 million job shortage problem",
+      "description": "To deliver on the stock market's bold expectations for AI profits, you actually need human beings to build the data centers and handle a ton of other manual jobs in the supply chain.\nBut that skilled trade labor is getting increasingly scarce.\nThe US will nee…",
+      "url": "https://biztoc.com/x/a64bb657cc9d83a8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T10:45:31Z"
+    },
+    {
+      "title": "wraithwall-toolkit",
+      "description": "Deception-engineering tools pulled from a production platform that takes live attacker traffic, supply-chain canary tokens, honeypot logs → MITRE ATT&CK scoring, and a signed, versionable deception-config spec. Pure Python, MIT.",
+      "url": "https://kitploit.com/en/tools/github/niffyhunt/wraithwall-toolkit",
+      "source": "Kitploit.com",
+      "publishedAt": "2026-09-30T10:45:27Z"
+    },
+    {
+      "title": "America is planning more AI datacenters than its chip supply can fill",
+      "description": "Satellite imagery shows construction accelerating, but advanced packaging could cap 2027 deployment in the low 20s of gigawatts",
+      "url": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
+      "source": "Theregister.com",
+      "publishedAt": "2026-09-30T10:45:00Z"
+    },
+    {
+      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "description": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal\nSix companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place.\n- OpenAI, Google, Meta, Anthropic, Nvi…",
+      "url": "https://biztoc.com/x/2af469a450f5f4ed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T10:44:33Z"
+    },
+    {
+      "title": "Europe’s carmakers face growing competition from AI for vital supplies",
+      "description": "Europe's car industry is most at risk from its reliance on a handful of countries for chips and critical materials, according to a new report which warns that going electric is pitting automakers against AI and data centres for the same supplies.",
+      "url": "https://biztoc.com/x/5fe0f4704b508ec7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T10:44:27Z"
+    },
+    {
+      "title": "Slate UI Runtime Kit by KinaForge Studio",
+      "description": "A complete Unity 6 uGUI framework with 60 Canvas widgets, vector rounded geometry, theme editor, procedural audio, charts & game controls to build cohesive game UI fast.Unity Compatibility: Unity 6 (6000.0.48f1+) and compatible future releases.<ul><li>Render …",
+      "url": "https://assetstore.unity.com/packages/tools/gui/slate-ui-runtime-kit-401436",
+      "source": "Unity.com",
+      "publishedAt": "2026-09-30T10:31:09Z"
+    },
+    {
+      "title": "CPU Vs. GPU - Which Should You Upgrade First?",
+      "description": "The CPU and GPU in your computer a two of the most crucial components, so when it's time to upgrade, it can be difficult to decide which one to upgrade first.",
+      "url": "https://www.bgr.com/2269038/cpu-or-gpu-which-upgrade-first",
+      "source": "BGR",
+      "publishedAt": "2026-09-30T10:17:00Z"
+    },
+    {
+      "title": "Former EVGA employee recounts company’s degrading relationship with Nvidia before 2022 blow-up",
+      "description": "In a personal blog, former EVGA product manager Brendon Ray Hedrick shared how the first Nvidia Founders Edition GPUs alarmed the company and how pricing pressure and risky forward-looking tech ultimately led to the end of the two companies' storied partnersh…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185906434",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-30T10:13:22Z"
+    },
+    {
+      "title": "5 ‘no bargaining chip’ in PSKY-WBD merger insists president Reemah Sakaan",
+      "description": "RTS LONDON: UK broadcaster 5 will not become a “bargaining chip” for Paramount Skydance (PSKY) if its US$110bn mega-merger with Warner Bros Discovery (WBD) is approved, claims 5 president Reemah Sa...",
+      "url": "https://www.c21media.net/news/5-no-bargaining-chip-in-psky-wbd-merger-insists-president-reemah-sakaan",
+      "source": "C21media.net",
+      "publishedAt": "2026-09-30T10:08:30Z"
+    },
+    {
+      "title": "Gold Circuit turns Amazon into a shareholder for Trainium servers",
+      "description": "Gold Circuit Electronics (GCE) plans to bring in Amazon as a strategic investor through a private placement expected to raise NT$1.59 billion (US$49.88 million), lifting the two companies from a simple supply-chain relationship to a strategic partnership back…",
+      "url": "https://www.digitimes.com/news/a20260930PD245/amazon-gce-pcb-aws-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-30T10:06:28Z"
+    },
+    {
+      "title": "Former EVGA employee recounts company’s degrading relationship with Nvidia before 2022 blow-up",
+      "description": "In a personal blog, former EVGA product manager Brendon Ray Hedrick shared how the first Nvidia Founders Edition GPUs alarmed the company and how pricing pressure and risky forward-looking tech ultimately led to the end of the two companies' storied partnersh…",
+      "url": "https://www.tomshardware.com/pc-components/gpus/former-evga-employee-recounts-companys-degrading-relationship-with-nvidia-before-2022-blow-up-founders-editions-pricing-mandates-and-forward-looking-tech-all-led-to-friction",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T10:00:00Z"
+    },
+    {
+      "title": "The Five Trump Scandals That Deserve Thorough Investigation",
+      "description": "“We’re going to hold the crooks accountable,” House Democratic leader Hakim Jeffries told the Associated Press last week in anticipation of the Democrats’ likely retaking the House on November 3. (The political forecaster Charlie Cook says a Democratic House …",
+      "url": "https://newrepublic.com/article/216005/five-trump-scandals-deserve-investigation",
+      "source": "The New Republic",
+      "publishedAt": "2026-09-30T10:00:00Z"
+    },
+    {
+      "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia",
+      "description": "Vercel Security Checkpoint\ncle1::1790762341-TmcmZdvDAfmnYMU4JR4CqlnBc3MW9tFf",
+      "url": "https://biztoc.com/x/30449b2d1fcacd9f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T09:59:21Z"
+    },
+    {
+      "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+      "description": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist.\n                                          …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185906184",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-30T09:32:37Z"
+    },
+    {
+      "title": "Lenovo ThinkPad L13 Gen 3 (S&D): 13.3\" FHD IPS Touch, i5-1135G7, 8GB LPDDR4X, 256GB SSD, Win 11 Pro $199.99",
+      "description": "SPECS: 13.3-inch Touchscreen Display (1920x1080 Resolution)\nIntel Core i5-1135G7 CPU (2.40 GHz)\n8GB RAM, 256GB SSD\nIntegrated webcam, backlit keyboard\n2 × USB-C 3.2 Gen 2 (both support Power Delivery",
+      "url": "https://slickdeals.net/f/20078061-lenovo-thinkpad-l13-gen-3-s-d-13-3-fhd-ips-touch-i5-1135g7-8gb-lpddr4x-256gb-ssd-win-11-pro-199-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-09-30T09:31:22Z"
+    },
+    {
+      "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+      "description": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-09-30T09:30:00Z"
+    },
+    {
+      "title": "Global benchmarks mostly rise despite ongoing worries about the Iran war",
+      "description": "Global shares are trading mostly higher, boosted by optimism about artificial intelligence and computer chips despite ongoing worries about the war in Iran",
+      "url": "https://biztoc.com/x/be27619653cfb0aa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T09:28:44Z"
+    },
+    {
+      "title": "Russian Foreign Intel Head Calls His Contacts With CIA Leadership Good",
+      "description": "MOSCOW (Sputnik) - Russian Foreign Intelligence Service (SVR) Director Sergei Naryshkin on Wednesday described his contacts with the leadership of the CIA as good.",
+      "url": "https://sputnikglobe.com/20260930/russian-foreign-intel-head-calls-his-contacts-with-cia-leadership-good-1124812685.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-30T09:24:36Z"
+    },
+    {
+      "title": "Global benchmarks mostly rise despite ongoing worries about the Iran war",
+      "description": "Global shares are trading mostly higher, boosted by optimism about artificial intelligence and computer chips despite ongoing worries about the war in Iran",
+      "url": "https://abcnews.com/Business/wireStory/global-benchmarks-rise-despite-ongoing-worries-iran-war-136877745",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-30T09:19:29Z"
+    },
+    {
+      "title": "Apple A20 Pro ditches PoP memory packaging for WMCM",
+      "description": "Apple's A20 Pro chip has dropped traditional package-on-package (PoP) packaging in favor of Wafer-Level Multi-Chip Module (WMCM), with memory and processor dies laid out side by side to potentially improve packaging yield and thermal performance, according to…",
+      "url": "https://www.digitimes.com/news/a20260930PD242/apple-packaging-processor-gaa-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-30T09:13:40Z"
+    },
+    {
+      "title": "Taiwan backs TSMC's US push but insists core R&D stays home",
+      "description": "Taiwan's semiconductor industry, which originated in the Hsinchu Science Park and later expanded to the Central and Southern Taiwan Science Parks, now encompasses manufacturing bases across three continents, Premier Jung-Tai Cho said in a policy report to Tai…",
+      "url": "https://www.digitimes.com/news/a20260930PD240/taiwan-tsmc-manufacturing-development-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-30T09:04:47Z"
+    },
+    {
+      "title": "ASE Technology buys Singapore factory for AI chip testing expansion",
+      "description": "ASE Technology Holding's Singapore unit has approved the purchase of a factory in Yishun Industrial Park from Dutch LED maker Lumileds Singapore for about US$68.44 million, or about NT$2.152 billion. The site is intended to support future capacity expansion.",
+      "url": "https://www.digitimes.com/news/a20260930PD244/ase-testing-expansion-manufacturing-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-30T09:03:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "The state of agentic AI in chip design tools in 2026",
+      "TwinMed Deploys Five DeepFabric AI Agents Across Procurement",
+      "The Ethernet spec was first drafted on this day in 1980",
+      "Arasan to demonstrate the industry's first MIPI SWI3S™ IP at the MIPI Member meet in Taipei",
+      "Reinvesting T. Rowe Price's Dividend for 20 Years Changes the Math Completely. Here's How"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers",
+        "https://biztoc.com/x/03837dbfd990de83",
+        "https://biztoc.com/x/fe835fee490551b0"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185907046",
+        "https://www.prnewswire.com/news-releases/arasan-to-demonstrate-the-industrys-first-mipi-swi3s-ip-at-the-mipi-member-meet-in-taipei-302891552.html",
+        "https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://sports.yahoo.com/articles/rockets-shooting-coach-gives-pointers-110031180.html",
+        "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185906624"
+      ]
+    },
+    {
+      "title": "Supply",
+      "summary": "Grouped stories where \"supply\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/twinmed-deploys-five-deepfabric-ai-agents-across-procurement-302894380.html",
+        "https://www.prnewswire.com/news-releases/suannutra-brings-lemon-verbena-cultivation-to-home-soil-302894254.html",
+        "https://financialpost.com/globe-newswire/descartes-to-showcase-supply-chain-and-logistics-ai-and-technology-innovations-at-2026-innovation-forum"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/13a0fa375250391c",
+        "https://assetstore.unity.com/packages/tools/utilities/playsync-pro-tweak-in-real-time-persist-with-confidence-400334",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=185906934"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The state of agentic AI in chip design tools in 2026. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The state of agentic AI in chip design tools in 2026. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The state of agentic AI in chip design tools in 2026. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The state of agentic AI in chip design tools in 2026. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The state of agentic AI in chip design tools in 2026. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
