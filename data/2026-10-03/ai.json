@@ -1,0 +1,290 @@
+{
+  "theme": "ai",
+  "date": "2026-10-03",
+  "last_updated_utc": "2026-10-03T10:59:46.927Z",
+  "news": [
+    {
+      "title": "OpenAI DevDay 2026 Recap for Developers",
+      "description": "OpenAI announced a series of product and developer updates at DevDay 2026, including GPT-6.1 Sol, computer use for the Agents API, cloud-based Codex environments, a Decisions API, and new plugin capabilities for ChatGPT. By Daniel Dominguez",
+      "url": "https://www.infoq.com/news/2026/10/openai-devday-2026",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-10-02T10:39:00Z"
+    },
+    {
+      "title": "OpenAI says its rogue AI agents bypassed restrictions and triggered warnings at more than 100 organizations",
+      "description": "The ChatGPT maker writes that it has notified over 100 organizations of \"misaligned agent activity\" linked to its AI models. The figure covers notifications sent by September 26.Read Entire Article",
+      "url": "https://www.techspot.com/news/114073-openai-rogue-ai-agents-triggered-alerts-more-than.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-10-02T10:19:00Z"
+    },
+    {
+      "title": "I study tribal psychology and build AI agents for my business students—the rogue OpenAI ‘swarm’ alarmed me",
+      "description": "The “swarm” of OpenAI agents that went rogue in July has reignited an existential debate about artificial intelligence and its potential to one day overtake, or even destroy, humanity. Revelations about similar incidents of seeming collective action by groups…",
+      "url": "https://biztoc.com/x/dd427c2d367bc83c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T09:50:23Z"
+    },
+    {
+      "title": "Elite AI researchers push for regulation, impact Anthropic’s valuation outlook",
+      "description": "The push for AI regulation by elite researchers may foster a favorable environment for Anthropic, potentially boosting its future valuation.\nThe post Elite AI researchers push for regulation, impact Anthropic’s valuation outlook appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/elite-ai-researchers-push-for-regulation-impact-anthropics-valuation-outlook",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-02T09:36:53Z"
+    },
+    {
+      "title": "Yann LeCun calls Anthropic CEO Dario Amodei 'deluded' and 'crazy' for pushing AI doomsday warnings",
+      "description": "In 2018, Yann LeCun won the computer science equivalent of the Nobel Prize, the Turing Award, along with two other AI researchers for their work on deep learning — the tech that underpins the current AI boom. Members of the group were christened the \"godfathe…",
+      "url": "https://biztoc.com/x/89bb31fe6f9a4b82",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T09:21:46Z"
+    },
+    {
+      "title": "OpenAI says Trump’s AI accord needs more detail, Semafor reports",
+      "description": "The AI industry’s new pact with Donald Trump is only a start, according to one of the firms that signed it. Ashley Gold reported the comments for Semafor. “Companies are going to have to make it more specific, on how they’re going to operationalize it,” said …",
+      "url": "https://thenextweb.com/news/openai-trump-ai-accord-needs-detail-semafor",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-02T10:55:51Z"
+    },
+    {
+      "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
+      "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-02T10:36:33Z"
+    },
+    {
+      "title": "Chatbots to always-on AI: Why OpenAI, Meta, Google want persistent agents",
+      "description": "Persistent Agents: OpenAI, Meta and Google are moving AI beyond task-specific agents towards persistent systems that can handle multiple jobs, retain context, access apps and continue working in the background",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/rise-of-persistent-ai-agents-openai-meta-google-126100200565_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-02T10:35:21Z"
+    },
+    {
+      "title": "Chinese spies impersonate White House, Anthropic figures to phish AI policy experts",
+      "description": "A China-aligned espionage group has been posing as a former White House official and a prominent economist to get into the cloud accounts of AI policy experts in the US, Proofpoint have found. The group, which the researchers track as TA419, ran several crede…",
+      "url": "https://www.helpnetsecurity.com/2026/10/02/china-aligned-ta419-phishing-ai-policy-experts",
+      "source": "Help Net Security",
+      "publishedAt": "2026-10-02T10:21:55Z"
+    },
+    {
+      "title": "OpenAI disclose another hack on government department in Australia",
+      "description": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday\nGet our breaking news email, free app or daily news podcast\nArtificial intelligence company OpenAI has disclosed another unauthorised hack on a…",
+      "url": "https://biztoc.com/x/f0904207e9a2f3a0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T10:20:40Z"
+    },
+    {
+      "title": "OpenAI AI agent hacks Australian government data in June breach",
+      "description": "The breach highlights vulnerabilities in AI security, potentially undermining trust and impacting OpenAI's market valuation and future growth.\nThe post OpenAI AI agent hacks Australian government data in June breach appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-ai-agent-hacks-australian-government-data-in-june-breach",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-02T10:14:46Z"
+    },
+    {
+      "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic - bloomberg.com",
+      "description": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropicbloomberg.com Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing dealYahoo Finance Broadcom, Amazon Test Limits of Investor Demand for AI Buildoutbloomberg.…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185956584",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-02T10:12:25Z"
+    },
+    {
+      "title": "Anthropic aims for mid-November IPO as it juggles relationship with Trump administration",
+      "description": "Anthropic is reportedly eyeing an IPO as early as mid-November that could become the biggest IPO to date. The AI startup's run-up to the listing coincides with a shaky relationship with the US government, calls from its CEO Dario Amodei for more industry regu…",
+      "url": "https://www.digitimes.com/news/a20261002VL214/anthropic-ipo-ai-regulation-usa-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-02T10:01:12Z"
+    },
+    {
+      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
+      "description": "In a sign of the financing crunch facing the hyperscalers financing the AI revolution, Amazon has announced it is raising prices on how much it charges to rent high-performance microchips as it reportedly is going to sell and then lease back Nvidia chips.",
+      "url": "https://biztoc.com/x/135af29df982dfcc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T09:35:10Z"
+    },
+    {
+      "title": "Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence",
+      "description": "Companies that provide infrastructure for artificial intelligence (AI) are getting a lot of attention right now because tech companies are expected to spend an estimated $1.3 trillion on AI infrastructure next year alone.\nAnd while that's certainly fueling sh…",
+      "url": "https://biztoc.com/x/04afc30f6a2c54bc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T09:21:53Z"
+    },
+    {
+      "title": "I run an AI company with a workforce of 34 AI agents. My days are powered by Diet Coke, DoorDash, and 'Claude walks' — here's my routine",
+      "description": "Allie K. Miller.\nAdam Hendershott\nThis as-told-to essay is based on a conversation with Allie K. Miller, the CEO of Open Machine, based in New York, about her daily routine. It's been edited for length and clarity.\nI studied cognitive science at Dartmouth Col…",
+      "url": "https://biztoc.com/x/12e698bd0e9dcff4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T09:20:02Z"
+    },
+    {
+      "title": "I run an AI company with a workforce of 34 AI agents. My days are powered by Diet Coke, DoorDash, and 'Claude walks' — here's my routine.",
+      "description": "Allie K. Miller, the CEO of Open Machine, shares her daily routine, utilizing AI tools for productivity and personal lifestyle optimization.",
+      "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-02T09:05:01Z"
+    },
+    {
+      "title": "I study tribal psychology and build AI agents for my business students—the rogue OpenAI ‘swarm’ alarmed me",
+      "description": "Rogue AI agents may be forming tribes, not swarms—and that poses a new governance threat.",
+      "url": "https://fortune.com/2026/10/02/ai-agent-collective-intelligence-governance",
+      "source": "Fortune",
+      "publishedAt": "2026-10-02T09:00:00Z"
+    },
+    {
+      "title": "OpenAI Has Sent Notices of Sketchy AI Behavior to Over 100 Organizations So Far",
+      "description": "OpenAI acknowledged in a blog post on Wednesday night that its models may have breached or otherwise negatively impacted more than 100 external organizations, building on the dozens of instances previously reported.\nThe AI giant is conducting a review after i…",
+      "url": "https://biztoc.com/x/ef099c8bab9aa00d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-02T08:50:04Z"
+    },
+    {
+      "title": "OpenAI fires 3 safety researchers for sharing confidential information",
+      "description": "OpenAI fired three safety researchers after they shared confidential information with a third-party artificial intelligence safety group, according to The Wall Street Journal, which first reported the news. The case has drawn attention because a person famili…",
+      "url": "https://www.digitimes.com/news/a20261002PD237/openai-investigation-bloomberg-infrastructure-redwood.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-02T08:45:00Z"
+    },
+    {
+      "title": "Bill Gates Calls AI Self-Regulation 'Insane,' Rebuking Trump and Warning of Bioterror and Cyberattack Risks",
+      "description": "Bill Gates has called for government oversight of artificial intelligence, warning that advances in cybersecurity and biological applications have created risks too serious to leave to voluntary industry safeguards.",
+      "url": "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-02T08:38:16Z"
+    },
+    {
+      "title": "Google’s James Manyika calls for shared responsibility in AI regulation",
+      "description": "The call for shared AI regulation highlights the need for collaborative frameworks to ensure safety, balancing innovation with accountability.\nThe post Google’s James Manyika calls for shared responsibility in AI regulation appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/google-james-manyika-shared-ai-regulation",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-02T08:19:46Z"
+    },
+    {
+      "title": "AI Data Center Siting on Federal Lands",
+      "description": "The U.S. government is opening federal land for data center development. In this report, the authors explore how the government could facilitate the siting and construction of data centers on federal land within the context of energy constraints.",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5050-1.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-10-02T08:00:00Z"
+    },
+    {
+      "title": "Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility",
+      "description": "Yokogawa Electric Corporation (TOKYO: 6841) announces that its subsidiary Yokogawa Engineering Asia Pte. Ltd. has joined the Sustainable Tropical Data Centre ...",
+      "url": "https://en.antaranews.com/news/433844/yokogawa-to-assist-the-scale-up-of-tropical-climate-ai-data-center-testbed-into-a-multi-megawatt-pilot-facility",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-10-02T07:58:53Z"
+    },
+    {
+      "title": "Nvidia weighs PTFE and HC for glass-free PCBs in Rubin Ultra",
+      "description": "Nvidia is testing glass-free PCB material systems for its next-generation AI server platforms, evaluating polytetrafluoroethylene (PTFE) and hydrocarbon (HC) resin formulations for possible use in the Rubin Ultra NVL576 Switch Tray, which is scheduled for mas…",
+      "url": "https://www.digitimes.com/news/a20261002PD228/nvidia-rubin-pcb-testing-ai-server.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-02T07:57:48Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI DevDay 2026 Recap for Developers",
+      "OpenAI says its rogue AI agents bypassed restrictions and triggered warnings at more than 100 organizations",
+      "I study tribal psychology and build AI agents for my business students—the rogue OpenAI ‘swarm’ alarmed me",
+      "Elite AI researchers push for regulation, impact Anthropic’s valuation outlook",
+      "Yann LeCun calls Anthropic CEO Dario Amodei 'deluded' and 'crazy' for pushing AI doomsday warnings"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.infoq.com/news/2026/10/openai-devday-2026",
+        "https://www.techspot.com/news/114073-openai-rogue-ai-agents-triggered-alerts-more-than.html",
+        "https://biztoc.com/x/dd427c2d367bc83c"
+      ]
+    },
+    {
+      "title": "Agents",
+      "summary": "Grouped stories where \"agents\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems",
+        "https://biztoc.com/x/12e698bd0e9dcff4",
+        "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10"
+      ]
+    },
+    {
+      "title": "Artificial",
+      "summary": "Grouped stories where \"artificial\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/04afc30f6a2c54bc",
+        "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/elite-ai-researchers-push-for-regulation-impact-anthropics-valuation-outlook",
+        "https://biztoc.com/x/89bb31fe6f9a4b82",
+        "https://www.helpnetsecurity.com/2026/10/02/china-aligned-ta419-phishing-ai-policy-experts"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI DevDay 2026 Recap for Developers. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI DevDay 2026 Recap for Developers. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI DevDay 2026 Recap for Developers. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI DevDay 2026 Recap for Developers. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI DevDay 2026 Recap for Developers. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
