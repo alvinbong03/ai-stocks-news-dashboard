@@ -1,0 +1,270 @@
+{
+  "theme": "ai",
+  "date": "2026-10-05",
+  "last_updated_utc": "2026-10-05T13:23:43.305Z",
+  "news": [
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "description": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-10-04T10:53:21Z"
+    },
+    {
+      "title": "Anthropic asks Claude users to share conversations for AI training",
+      "description": "Anthropic's data-sharing request highlights the tension between AI advancement and user privacy, impacting trust and industry practices.\nThe post Anthropic asks Claude users to share conversations for AI training appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-04T09:36:19Z"
+    },
+    {
+      "title": "Machine learning: The conscience of the creator",
+      "description": "As Anthropic develops AI models such as Claude, the focus is on instilling morals and intelligence in machines. Christopher Olah, a co-founder, raises profound questions regarding the consciousness and potential suffering of these entities. The company is cra…",
+      "url": "https://timesofindia.indiatimes.com/science/machine-learning-the-conscience-of-the-creator/articleshow/134671033.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-04T07:19:09Z"
+    },
+    {
+      "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+      "description": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn&rsquo;t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.\n                                    …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186020704",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-04T13:12:36Z"
+    },
+    {
+      "title": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
+      "description": "Kennedy is suddenly bullish on artificial intelligence—so we asked some AI assistants to rate his vaccine claims.",
+      "url": "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap",
+      "source": "The Bulwark",
+      "publishedAt": "2026-10-04T13:09:08Z"
+    },
+    {
+      "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+      "description": "An AI engineer used GPT-6 Astra to reveal the contents of a cipher that hadn’t been read since the Napoleonic Wars. The task was initiated with a single image and prompt, and took just six hours from start to finish.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-04T13:08:46Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has emerged as the biggest foil to AI doomerism about the existential risk to humanity",
+      "description": "The AI chipmaking giant is stepping in to prevent further AI agent breaches.",
+      "url": "https://fortune.com/2026/10/04/nvidia-jensen-huang-ai-doomerism-foil-risk",
+      "source": "Fortune",
+      "publishedAt": "2026-10-04T12:00:00Z"
+    },
+    {
+      "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
+      "description": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time HighYahoo Finance AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS RevisionsSeeking Alpha Don’t Miss These 4 Stocks in the AI Infrastructure RaceInvestorPlace Best AI Stocks In O…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186020276",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-04T11:53:31Z"
+    },
+    {
+      "title": "FDR’s lesson for AI regulation",
+      "description": "What’s the best way to regulate artificial intelligence companies? The surprising answer comes from Franklin D. Roosevelt. The 32nd president famously declared that “the only thing we have to fear is fear itself,” and in the critical field of financial market…",
+      "url": "https://biztoc.com/x/d66afa9e068dfaee",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-04T09:57:31Z"
+    },
+    {
+      "title": "‘Time for trial and error is over’: OpenAI safety employee David Robinson quits over AI risks",
+      "description": "David Robinson said AI companies, including OpenAI, were not being \"nearly careful enough\" and argued that safety research and expertise should play a much bigger role before more powerful AI systems are developed. Robinson spent 3-1/2 years at OpenAI, where …",
+      "url": "https://timesofindia.indiatimes.com/world/us/time-for-trial-and-error-is-over-openai-safety-employee-david-robinson-quits-over-ai-risks/articleshow/134670046.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-04T05:31:03Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has emerged as the biggest foil to AI doomerism about the existential risk to humanity",
+      "description": "Nvidia CEO Jensen Huang has repeatedly rejected warnings about AI’s existential threat to humanity, mounting a robust defense for going full speed ahead. \nIn an interview with CBS News two weeks ago, he said “2030 is not going to be the end of the world. Ther…",
+      "url": "https://biztoc.com/x/ad6eed1679f63ad3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-04T12:42:22Z"
+    },
+    {
+      "title": "Anthropic prompts users to share voice data to enhance AI models",
+      "description": "Anthropic's data strategy could enhance its AI models' competitiveness, impacting its market position against major AI players like Google.\nThe post Anthropic prompts users to share voice data to enhance AI models appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-prompts-users-to-share-voice-data-to-enhance-ai-models",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-04T09:34:47Z"
+    },
+    {
+      "title": "FDR’s lesson for AI regulation",
+      "description": "Like the financial industry of the 1930s, the AI industry is currently largely unregulated, heightening fears that it could do widespread harm.",
+      "url": "https://fortune.com/2026/10/04/how-fdr-roosevelt-would-regulate-ai",
+      "source": "Fortune",
+      "publishedAt": "2026-10-04T09:30:00Z"
+    },
+    {
+      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: Learn to use Claude for coding and automation with lifetime access to the Claude AI Professional E-Degree, now $14.97 (reg. $159).\r\n\n\n\n\nMost people use Claude only for quick questions, then close the tab without ever trying the buil…",
+      "url": "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
+      "source": "Macworld",
+      "publishedAt": "2026-10-04T08:00:00Z"
+    },
+    {
+      "title": "Nvidia Gets Its Leather Jacket Back",
+      "description": "Summary\n- After more than four months, Nvidia has finally gotten its act together, and the AI bull market's leading star traded at an all-time high yesterday.\n- At 96 trading days, the current streak without a new high for NVDA ranks as the third-longest sinc…",
+      "url": "https://biztoc.com/x/c3549898b0a95020",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-04T07:42:33Z"
+    },
+    {
+      "title": "How Schneider Electric’s AI Data Center and Decarbonization Push Will Impact Schneider Electric (ENXTPA:SU) Investors",
+      "description": "How Schneider Electric’s AI Data Center and Decarbonization Push Will Impact Schneider Electric (ENXTPA:SU) Investors\n- In late September 2026, Schneider Electric and partners Wärtsilä and Stanley Consultants introduced a \"Generator-to-Chip\" power approach an…",
+      "url": "https://biztoc.com/x/202c1abe45ade3cf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-04T06:42:31Z"
+    },
+    {
+      "title": "Amazon vows $1 billion for data center towns, decries 'myths'",
+      "description": "Amazon has pledged more than $1 billion over five years for U.S. communities that host its data centers, the latest tech giant seeking to win over residents increasingly hostile to the AI-fueled construction boom.",
+      "url": "https://www.hurriyetdailynews.com/amazon-vows-1-billion-for-data-center-towns-decries-myths-227673",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-04T06:42:00Z"
+    },
+    {
+      "title": "AI needs safety layers like nuclear plants: Ex-OpenAI engineer",
+      "description": "Another former OpenAI employee has added his voice to a chorus of frantic calls to make AI safe, saying the industry must mimic the aviation or nuclear power sectors with their layers of safeguards to avoid disaster.",
+      "url": "https://www.hurriyetdailynews.com/ai-needs-safety-layers-like-nuclear-plants-ex-openai-engineer-227672",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-04T06:40:00Z"
+    },
+    {
+      "title": "Bill Gates Warns AI Could Cause a Billion Deaths, Urges Regulation",
+      "description": "Microsoft co-founder Bill Gates said artificial intelligence (AI) is powerful enough to cause a billion deaths if used by people with malicious intent, according to an interview with NBC News‘ “Meet the Press” [1]. Gates said governments should not rely on te…",
+      "url": "https://www.naturalnews.com/2026-10-04-bill-gates-warns-ai-deaths-urges-regulation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-04T06:00:00Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Just Reaffirmed His Jaw-Dropping Projection for 2030",
+      "description": "Jensen Huang, one of the co-founders of Nvidia (NASDAQ: NVDA), is no stranger to making bold predictions. One that he has been floating for a few years is that data center capital expenditures will reach $3 trillion to $4 trillion annually by 2030. That's a m…",
+      "url": "https://biztoc.com/x/24eef065275d1b5e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-04T05:42:51Z"
+    },
+    {
+      "title": "CoreWeave Ships Forge — GPU Compute Landlord Becomes Agent Platform Provider",
+      "description": "GPU compute landlords are becoming agent platform providers. CoreWeave signaled the move at Fully Connected 2026 in San Francisco with the launch of CoreWeave Forge, a unified development layer that connects the full AI improvement lifecycle – Run, Observe, C…",
+      "url": "https://forkast.news/coreweave-ships-forge-gpu-compute-landlord-becomes-agent-platform-provider",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-04T05:31:14Z"
+    },
+    {
+      "title": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
+      "description": "Every chat leaves a trace. A new tool reveals the startlingly specific inferences ChatGPT makes about your job, location, habits, and more.\nEver wonder what AI chatbots actually know about you? Hint: It’s far more than what appears on screen. Every prompt you…",
+      "url": "https://me.pcmag.com/en/security/38229/i-asked-a-privacy-tool-what-chatgpt-knows-about-me-the-result-was-terrifyingly-accurate",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-04T03:36:08Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic asks Claude users to share voice data for AI model training",
+      "Anthropic asks Claude users to share conversations for AI training",
+      "Machine learning: The conscience of the creator",
+      "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours",
+      "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t."
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training",
+        "https://cryptobriefing.com/anthropic-asks-users-share-voice-data",
+        "https://cryptobriefing.com/anthropic-prompts-users-to-share-voice-data-to-enhance-ai-models"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/science/machine-learning-the-conscience-of-the-creator/articleshow/134671033.cms",
+        "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap",
+        "https://www.macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fortune.com/2026/10/04/nvidia-jensen-huang-ai-doomerism-foil-risk",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186020276",
+        "https://biztoc.com/x/ad6eed1679f63ad3"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186020704",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+        "https://biztoc.com/x/d66afa9e068dfaee"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic asks Claude users to share voice data for AI model training. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic asks Claude users to share voice data for AI model training. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic asks Claude users to share voice data for AI model training. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic asks Claude users to share voice data for AI model training. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic asks Claude users to share voice data for AI model training. Main topic cluster: Data. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
