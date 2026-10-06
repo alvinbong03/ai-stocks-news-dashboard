@@ -1,0 +1,308 @@
+{
+  "theme": "ai",
+  "date": "2026-10-06",
+  "last_updated_utc": "2026-10-06T12:38:41.252Z",
+  "news": [
+    {
+      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "description": "Senior leaders from Anthropic, OpenAI, Google and Meta are slated to testify under oath during a New York City Council hearing about the potential dangers of artificial intelligence on Monday, following a month of intense debate surrounding the risks posed by…",
+      "url": "https://biztoc.com/x/e2cbb0a03b9d1d93",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T10:58:45Z"
+    },
+    {
+      "title": "Who is Jacob Coxon? Former Anthropic researcher to testify at New York City AI hearing today",
+      "description": "Last month, Jacob Coxon quit Anthropic, issuing warnings that the ‘people building AI earnestly believe that it could kill us all by the end of the decade’. He also accused his former employer OpenAI of ‘gambling with our lives.’",
+      "url": "https://www.livemint.com/companies/people/who-is-jacob-coxon-former-anthropic-researcher-to-testify-at-new-york-city-ai-hearing-today-11791198345082.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-05T12:28:55Z"
+    },
+    {
+      "title": "Anthropic Targets Historic IPO As Investors Weigh AI Risks",
+      "description": "Anthropic is reportedly preparing for a potential initial public offering as early as November, despite rising interest rates, market uncertainty and growing concerns about AI safety, according to CNN.\nThe AI company could raise up to $100 billion at a valuat…",
+      "url": "https://biztoc.com/x/8b604f126b445bd8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T12:13:47Z"
+    },
+    {
+      "title": "Former OpenAI safety employee says company’s safety culture is broken — exits company after failed kill switch and July HuggingFace hack",
+      "description": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.\n                                                                                 …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186028530",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-05T11:52:26Z"
+    },
+    {
+      "title": "Former OpenAI safety employee says company’s safety culture is broken — exits company after failed kill switch and July HuggingFace hack",
+      "description": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-05T11:50:00Z"
+    },
+    {
+      "title": "Cerebras stock pops after OpenAI CEO Altman lauds 'close partner'",
+      "description": "stock is up in premarket trading after OpenAI (OPAI.PVT) CEO Sam Altman reaffirmed the AI lab's partnership with the AI chipmaker.\n\"Cerebras is a close partner,\" Altman posted on X, \"and we have a deep engagement pushing on the frontiers of speed.\"\nCerebras s…",
+      "url": "https://biztoc.com/x/37eb352aeb841120",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T11:15:59Z"
+    },
+    {
+      "title": "While OpenAI and Anthropic battle over data privacy, more companies look to open models and ‘sovereign AI’",
+      "description": "Data privacy has emerged as a key consideration for companies when choosing an AI vendor, amid fears that frontier AI companies, such as OpenAI and Anthropic, may be quietly using their customers’ intellectual property to improve their models.Some executives …",
+      "url": "https://biztoc.com/x/d3655fa77985701d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T11:13:47Z"
+    },
+    {
+      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "description": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-05T10:42:51Z"
+    },
+    {
+      "title": "AMD has promised OpenAI and Meta up to 320 million shares at a penny each",
+      "description": "AMD's strategic share offer to AI giants could reshape the AI chip market, boosting AMD's market position while diluting existing shares.\nThe post AMD has promised OpenAI and Meta up to 320 million shares at a penny each appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/amd-openai-meta-penny-share-warrants",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-05T10:25:33Z"
+    },
+    {
+      "title": "While OpenAI and Anthropic battle over data privacy, more companies look to open models and ‘sovereign AI’",
+      "description": "Reports of rogue agents and allegations of IP theft by top tech CEOs are fueling business paranoia about surrendering IP. Here are the options some are exploring to move fast without introducing significant risk.",
+      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
+      "source": "Fortune",
+      "publishedAt": "2026-10-05T10:25:25Z"
+    },
+    {
+      "title": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+      "description": "Google&rsquo;s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental impact assessment.\n              …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186028770",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-05T12:34:12Z"
+    },
+    {
+      "title": "OpenAI safety leader resigns, raising governance concerns",
+      "description": "Robinson's exit underscores potential instability at OpenAI, possibly affecting its safety commitments and financial outlook amid leadership shifts.\nThe post OpenAI safety leader resigns, raising governance concerns appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-safety-leader-resigns-raising-governance-concerns",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-05T12:22:06Z"
+    },
+    {
+      "title": "AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time",
+      "description": "ChatGPT and Perplexity are now being scraped as businesses attempt to monitor brand mentions and citations.",
+      "url": "https://www.techradar.com/pro/ai-giants-targeted-by-scraping-bots-chatgpt-and-perplexity-enter-the-most-scraped-websites-list-for-the-first-time",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-05T12:20:00Z"
+    },
+    {
+      "title": "Amazon ends secret data center pacts and pledges $1 billion to host towns",
+      "description": "AWS' Data Center Commitment program aims to sweeten the pill for those who live near AI data centers.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-05T12:20:00Z"
+    },
+    {
+      "title": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+      "description": "Google’s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental impact assessment.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-05T12:15:37Z"
+    },
+    {
+      "title": "Show HN: Lazychat – A lazygit-style TUI for running Claude Code and Codex",
+      "description": "One terminal for all your AI coding agents. Run Claude Code and Codex side by side, see which one needs you, with Git and a shell one key away.  - Perpeer/lazychat",
+      "url": "https://github.com/Perpeer/lazychat",
+      "source": "Github.com",
+      "publishedAt": "2026-10-05T11:56:57Z"
+    },
+    {
+      "title": "Mac用多機能ランチャー「Alfred」が次期バージョン6.0で新しいAlfred UIを利用したLaunchpadやLLMを利用したAI Workflow、Text Transform機能などを実装予定。",
+      "description": "Mac用多機能ランチャー「Alfred」が次期バージョン6.0で新しいAlfred UIを利用したLaunchpadやLLMを利用したAI Workflow、Text Transform機能などを実装する予定だと発表し […]\nThe post Mac用多機能ランチャー「Alfred」が次期バージョン6.0で新しいAlfred UIを利用したLaunchpadやLLMを利用したAI Workflow、Text Transform機能などを実装予定。 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20261005-alfred-6-sneak-peek.html",
+      "source": "Applech2.com",
+      "publishedAt": "2026-10-05T11:50:08Z"
+    },
+    {
+      "title": "OpenAI CEO Says the 'World Should Accept Some Bad Things' from AI",
+      "description": "In a recent interview, Altman argues that people will ultimately do more good than bad with AI technologies.\nThe CEO of OpenAI, Sam Altman, believes that risks associated with AI are outweighed by its benefits.In a recent interview with Politico’s Decoded ser…",
+      "url": "https://uk.pcmag.com/ai/167654/openai-ceo-says-the-world-should-accept-some-bad-things-from-ai",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-05T11:32:25Z"
+    },
+    {
+      "title": "OpenAI is putting ads inside ChatGPT’s image generation",
+      "description": "OpenAI is testing a visual ad format during image generation in ChatGPT, placed by guardrails that assess whether a conversation is emotionally vulnerable or sensitive before an ad appears. Ads already run in 31 European countries, and ChatGPT’s designation a…",
+      "url": "https://thenextweb.com/news/chatgpt-visual-ads-dsa-europe",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-05T11:28:04Z"
+    },
+    {
+      "title": "OpenAI to test visual ads inside ChatGPT’s image generator this month",
+      "description": "OpenAI's visual ads in ChatGPT could redefine digital marketing, offering brands innovative engagement while raising user experience concerns.\nThe post OpenAI to test visual ads inside ChatGPT’s image generator this month appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-test-visual-ads-chatgpt",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-05T11:24:41Z"
+    },
+    {
+      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
+      "description": "RuneScape creator Jagex has responded to the use of generative AI in a trailer for RuneScape 3's Dragon Slayer 2 quest shown during RuneFest. Read more",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-10-05T11:08:39Z"
+    },
+    {
+      "title": "OpenAI to test new visual ads in ChatGPT",
+      "description": "OpenAI announced on Monday that it will begin testing a new visual advertising format during image generation in ChatGPT later this month in the United States, initially with a limited group of advert...",
+      "url": "https://biztoc.com/x/19c186e7bf678a15",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T10:58:59Z"
+    },
+    {
+      "title": "OpenAI will show banner ads in ChatGPT while you generate images",
+      "description": "",
+      "url": "https://www.niemanlab.org/reading/openai-will-show-banner-ads-in-chatgpt-while-you-generate-images",
+      "source": "Niemanlab.org",
+      "publishedAt": "2026-10-05T10:58:01Z"
+    },
+    {
+      "title": "AM Intelligence orders 20,000 more Nvidia GPUs for India, Malaysia",
+      "description": "AMI secures 20,000 Nvidia GPUs for India and Malaysia, boosting capacity to 100 MW and fueling global AI data-center expansion.",
+      "url": "https://www.thehindubusinessline.com/info-tech/am-intelligence-orders-20000-more-nvidia-gpus-for-india-malaysia/article71546846.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-05T10:57:32Z"
+    },
+    {
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "description": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-10-05T10:28:45Z"
+    },
+    {
+      "title": "Nvidia still 'the one' for AI? BNP Paribas raises target to $345, sees up to 47% upside",
+      "description": "BNP Paribas has retained its Outperform rating on Nvidia and raised its target price to $345 from $285, implying 47% upside. The brokerage sees Nvidia’s full-stack AI platform, including GPUs, networking and software, helping it navigate the shift towards inc…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-still-the-one-for-ai-bnp-paribas-raises-target-to-345-sees-up-to-47-upside/articleshow/134698952.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-05T10:21:40Z"
+    },
+    {
+      "title": "OpenAI moves to make ChatGPT ads more measurable — and more visual",
+      "description": "Since OpenAI started selling ads in ChatGPT in February, advertisers have kept coming back to the same complaints: they can’t measure the ads properly, they don’t have enough formats to work with and there isn’t enough inventory to absorb what they want to sp…",
+      "url": "https://biztoc.com/x/1d9fd0571bd439a3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T10:13:50Z"
+    },
+    {
+      "title": "OpenAI CEO Says 'Bad Things' Part of AI Trade-Off",
+      "description": "OpenAI CEO Sam Altman has said that the public should accept that AI will cause some harm as the technology continues to advance, but he added that the benefits of AI will ultimately outweigh the risks.\nDuring an interview with Politico, Altman highlighted a …",
+      "url": "https://biztoc.com/x/8fa641c0234a73f2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-05T10:13:48Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "Who is Jacob Coxon? Former Anthropic researcher to testify at New York City AI hearing today",
+      "Anthropic Targets Historic IPO As Investors Weigh AI Risks",
+      "Former OpenAI safety employee says company’s safety culture is broken — exits company after failed kill switch and July HuggingFace hack",
+      "Cerebras stock pops after OpenAI CEO Altman lauds 'close partner'"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e2cbb0a03b9d1d93",
+        "https://www.livemint.com/companies/people/who-is-jacob-coxon-former-anthropic-researcher-to-testify-at-new-york-city-ai-hearing-today-11791198345082.html",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186028530"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/ai-giants-targeted-by-scraping-bots-chatgpt-and-perplexity-enter-the-most-scraped-websites-list-for-the-first-time"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/8b604f126b445bd8"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186028770",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans",
+        "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
