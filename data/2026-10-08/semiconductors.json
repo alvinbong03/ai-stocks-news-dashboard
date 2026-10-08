@@ -1,0 +1,424 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-08",
+  "last_updated_utc": "2026-10-08T12:44:21.871Z",
+  "news": [
+    {
+      "title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
+      "description": "According to a process development engineer at SK hynix's future technology research institute, who spoke with Damnang, SK hynix is reportedly facing challenges in developing hybrid bonding technology for its HBM memory. These issues are significant enough th…",
+      "url": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-07T12:31:02Z"
+    },
+    {
+      "title": "Chip stock could soar nearly 200%, analyst says: \"If you don’t buy it, they will\"",
+      "description": "Investing.com -- DA Davidson analyst Gil Luria raised its price target on Micron stock to $3,000 from $2,100, the highest on Wall Street, arguing that the broader market has fundamentally underestimated Micron's multi-year growth runway as artificial intellig…",
+      "url": "https://biztoc.com/x/cb03a7615d7f98f5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T12:30:56Z"
+    },
+    {
+      "title": "Bridge Neurotech raises $13.5M to read brains with ultrasound, no implant",
+      "description": "Bridge Neurotech came out of stealth on Tuesday with $13.5M in funding. It plans a brain-computer interface that needs no surgery and no implant. The startup wants to use ultrasound to read brain activity through the skull. It also signed a research deal with…",
+      "url": "https://thenextweb.com/news/bridge-neurotech-13-5m-ultrasound-brain-computer-interface",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-07T12:29:32Z"
+    },
+    {
+      "title": "Microsoft and Nvidia CEOs to launch Surface Laptop Ultra on Wednesday",
+      "description": "Microsoft chief executive Satya Nadella and Nvidia’s Jensen Huang will present the Surface Laptop Ultra in San Francisco on Wednesday, the first Surface built around Nvidia’s RTX Spark chip. The laptop is designed to let AI agents run on the device rather tha…",
+      "url": "https://thenextweb.com/news/microsoft-nvidia-surface-laptop-ultra-launch",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-07T12:29:22Z"
+    },
+    {
+      "title": "Emacs Carnival Oct 2026: Exploring keys and voice input in Emacs",
+      "description": "<ul>\n<li>Making more use of the keyboard</li>\n<li>Some reasons why I'm curious about speech recognition</li>\n<li>Quick benefits from voice commands</li>\n<li>Prior work on voice control of Emacs: Voicemacs, Emacslisten</li>\n<li>Imagining a hybrid approach: key…",
+      "url": "https://sachachua.com/blog/2026/10/emacs-carnival-oct-2026-exploring-keys-and-voice-input-in-emacs",
+      "source": "Sachachua.com",
+      "publishedAt": "2026-10-07T12:18:31Z"
+    },
+    {
+      "title": "P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing",
+      "description": "Sales growth at P.&G. has slowed for years as households with lower incomes are increasingly turning to store brands, which are usually priced lower than P.&G.’s products. At the same time, tariffs and rising energy costs caused by geopolitical conflicts have…",
+      "url": "https://freerepublic.com/focus/f-chat/4398256/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-07T12:18:00Z"
+    },
+    {
+      "title": "Should You Buy Nvidia Stock in October?",
+      "description": "For technology investors, Nvidia (NASDAQ: NVDA) has been the gift that keeps on giving. Shares in the chipmaker are up 28.5% year to date. And this caps off a 1,110% rally over the last half-decade as the company benefits from surging demand for its AI data c…",
+      "url": "https://biztoc.com/x/ce2fb6547c87680e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T12:14:47Z"
+    },
+    {
+      "title": "Xreal's Aura Android XR smartglasses will cost you at least $1,279",
+      "description": "Xreal's Aura smartglasses are powered by Qualcomm's Snapdragon Reality Elite chip.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186059656",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-07T12:12:56Z"
+    },
+    {
+      "title": "Nvidia Isn’t the Only Company Getting Rich From the AI Boom",
+      "description": "The post Nvidia Isn’t the Only Company Getting Rich From the AI Boom appeared first on 24/7 Wall St..\nGPU makers dominate headlines, but AI clusters need the cables, optics and chips that move data between processors. Credo Technology (NASDAQ:CRDO) sells that…",
+      "url": "https://biztoc.com/x/6087e947d1bb96c6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T12:12:35Z"
+    },
+    {
+      "title": "Microsoft Windows and Surface event 2026: Live updates as Satya Nadella and Jensen Huang take the stage",
+      "description": "More details on the Surface Laptop Ultra and NVIDIA RTX Spark are coming, but what else?",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186059652",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-07T12:12:35Z"
+    },
+    {
+      "title": "Acer Gateway Chromebook 314 Celeron N4500 14\" Laptop for $200 w/ Prime + free shipping",
+      "description": "This Gateway Chromebook is $70 off and at the best price we've seen since the previous Prime Day sale. It runs Chrome OS with 4GB of memory and 64GB of storage, paired with a 14\" Full HD display. Buy Now at Amazon\r\n Features\r\n <ul> <li>Intel Celeron N4500 dua…",
+      "url": "https://www.dealnews.com/Acer-Gateway-Chromebook-314-Celeron-N4500-14-Laptop-for-200-w-Prime-free-shipping/22256537.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-07T12:10:45Z"
+    },
+    {
+      "title": "Simply NKD Chips Variety Pack 21-Count Only $8.86 Shipped on Amazon (Reg. $15)",
+      "description": "For a limited time, dash over to Amazon where you can snag Simply NKD Variety Pack 21-Count for just $8.86 (regularly $15.33) when you clip a digital coupon and opt to Subscribe & Save! Simply NKD Variety Pack 21-Count $10.42 (reg. $15.33) Clip the 10% off di…",
+      "url": "https://hip2save.com/deals/simply-nkd-chips",
+      "source": "Hip2save.com",
+      "publishedAt": "2026-10-07T12:05:09Z"
+    },
+    {
+      "title": "Former Google, Nvidia Execs Launch Company to Ease GPU Crunch",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/former-google-nvidia-execs-launch-company-ease-gpu-crunch",
+      "source": "The Information",
+      "publishedAt": "2026-10-07T12:00:40Z"
+    },
+    {
+      "title": "New ProcureAbility Study Reveals Procurement Readiness Gap: Defined AI Roadmaps and Proactive Resilience Strategies Each Reported by Just 8% of Respondents",
+      "description": "ST. PETERSBURG, Fla., Oct. 7, 2026 /PRNewswire/ -- ProcureAbility®, a Jabil company and a leading provider of procurement and supply chain services, today announced findings from the \"2026 State of Procurement Report.\" The report, created in collaboration wit…",
+      "url": "https://www.prnewswire.com/news-releases/new-procureability-study-reveals-procurement-readiness-gap-defined-ai-roadmaps-and-proactive-resilience-strategies-each-reported-by-just-8-of-respondents-302900570.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-07T12:00:00Z"
+    },
+    {
+      "title": "How Rockets assistant Chip Engelland is channeling John Wooden to help Amen Thompson, Alperen Şengün",
+      "description": "He learned attention to detail from John Wooden as a UCLA ball boy. Now Chip Engelland is bringing those lessons to Houston's young stars.",
+      "url": "https://www.houstonchronicle.com/sports/rockets/article/chip-engelland-rockets-shooting-coach-22464157.php?amp%3Butm_campaign=yahoo_syndication",
+      "source": "Houston Chronicle",
+      "publishedAt": "2026-10-07T12:00:00Z"
+    },
+    {
+      "title": "Samsung Foundry to Manufacture Anthropic AI ASIC on 2 nm Node",
+      "description": "Samsung Foundry may be on the verge of securing a significant deal with AI lab Anthropic to manufacture AI accelerators. According to the latest report, Anthropic is developing its custom AI accelerator on Samsung's SF2 2 nm node, which will initially be prod…",
+      "url": "https://www.techpowerup.com/353457/samsung-foundry-to-manufacture-anthropic-ai-asic-on-2-nm-node",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-07T11:59:06Z"
+    },
+    {
+      "title": "TSMC stock just hit a record — and the gains may be only starting",
+      "description": "More gains may be in the cards for Taiwan Semiconductor (TSM) even as the stock has enjoyed a massive year of moving up and to the right on the charts.\n\"Another round of consensus earnings upgrades likely to come [on TSMC],\" Citi analyst Atif Malik wrote in a…",
+      "url": "https://biztoc.com/x/3177e610aa3793c7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:59:03Z"
+    },
+    {
+      "title": "Is Back In The Spotlight",
+      "description": "stock is back in focus after fresh analysis highlighted a mix of strong revenue expansion and weaker profitability metrics compared with the broader semiconductor industry, raising questions about how investors should interpret its current valuation.\nRecent t…",
+      "url": "https://biztoc.com/x/21d607018a647d69",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:58:42Z"
+    },
+    {
+      "title": "Leak Tips NVIDIA RTX Spark-Powered Microsoft Surface Laptop Specs - TechPowerUp",
+      "description": "Leak Tips NVIDIA RTX Spark-Powered Microsoft Surface Laptop SpecsTechPowerUp Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco eventReuters What to expect at Microsoft's special Windows & Surface event on October 7: Surface Laptop Ultra and RTX …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186059532",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-07T11:52:37Z"
+    },
+    {
+      "title": "YMMV: Lenovo Legion 5: 15.3\" FHD+ 165Hz, Ryzen 7 260, RTX 5060, 16GB DDR5, 512GB SSD $976.99 (7 replies)",
+      "description": "Available In-store only (YMMV).\n\nSPECS:15.3\" WUXGA (1920x1200) 16:10, 165Hz, 300-nits, 100% sRGB, Dolby Vision, Anti-glare, IPS Display, G-SYNC\nAMD Ryzen 7 260 (8C / 16T, 3.8 / 5.1GHz, 8MB L2 / 1",
+      "url": "https://slickdeals.net/f/20121501-ymmv-lenovo-legion-5-15-3-fhd-165hz-ryzen-7-260-rtx-5060-16gb-ddr5-512gb-ssd-976-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-07T11:45:45Z"
+    },
+    {
+      "title": "Three Stocks Are Now 21% of the S&P 500, the Most Ever",
+      "description": "The post Three Stocks Are Now 21% of the S&P 500, the Most Ever appeared first on 24/7 Wall St..\nAt the close on October 6, 2026, the S&P 500 finished at a record 7,818.93, up 0.58%. Three companies now account for an unusually large share of that level.\nNVID…",
+      "url": "https://biztoc.com/x/eccddc33c99cd289",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:42:56Z"
+    },
+    {
+      "title": "Microsoft set to unveil AI laptop powered by Nvidia chips",
+      "description": "Microsoft MSFT-Q will unveil on Wednesday a new laptop powered by Nvidia’s NVDA-Q chips, seeking to turn Windows into a platform for AI agents to handle tasks such as writing code without having to access the cloud, analysts said.\nFor Microsoft, the move repr…",
+      "url": "https://biztoc.com/x/468c9121128a15cc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:42:50Z"
+    },
+    {
+      "title": "Nvidia or Broadcom in October: 1 AI Chip Stock Gets My Money",
+      "description": "The post Nvidia or Broadcom in October: 1 AI Chip Stock Gets My Money appeared first on 24/7 Wall St..\nNVIDIA (NASDAQ:NVDA) or Broadcom (NASDAQ:AVGO): which AI chip stock fits a retirement-focused portfolio better? Both companies profit from the same data cen…",
+      "url": "https://biztoc.com/x/7fda61b930767897",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:28:13Z"
+    },
+    {
+      "title": "Broadcom Owns the Backstage; AMD Fights for the Spotlight",
+      "description": "The post Broadcom Owns the Backstage; AMD Fights for the Spotlight appeared first on 24/7 Wall St..\nBroadcom (NASDAQ:AVGO) and AMD (NASDAQ:AMD) both beat expectations on AI data center demand. Broadcom designs custom chips that hyperscalers use under their ow…",
+      "url": "https://biztoc.com/x/d53842a01972721c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:28:02Z"
+    },
+    {
+      "title": "MintNeuro raises $5M to scale chips purpose-built for neural devices",
+      "description": "MintNeuro, an Imperial College London spinout developing specialised chips for neural devices from implants to wearables, has raised $5 million to drive its commercial scale-up. The company is developing a semiconductor platform for devices that connect with …",
+      "url": "https://biztoc.com/x/b02f664a45183e7b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:27:53Z"
+    },
+    {
+      "title": "SpaceX Wants to Borrow $40 Billion to Buy Nvidia Chips",
+      "description": "The post SpaceX Wants to Borrow $40 Billion to Buy Nvidia Chips appeared first on 24/7 Wall St..\nA recent report citing people familiar with the matter said SpaceX (NASDAQ:SPCX) is seeking about $40 billion of financing to pay for an order of AI chips from NV…",
+      "url": "https://biztoc.com/x/54af608260f16af5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:27:33Z"
+    },
+    {
+      "title": "Even At Today’s Multiples I Keep Adding Synopsys Over And Over",
+      "description": "The post Even At Today’s Multiples I Keep Adding Synopsys Over And Over appeared first on 24/7 Wall St..\nI have added Synopsys (NASDAQ:SNPS) after every earnings report this year. Before any AI chip reaches a fab, engineers design, verify, and sign off on it …",
+      "url": "https://biztoc.com/x/2a7607e0e2034824",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:27:11Z"
+    },
+    {
+      "title": "Microsoft and Nvidia unveil Surface Laptop Ultra with Grace Blackwell chip at San Francisco event",
+      "description": "The Surface Laptop Ultra's local AI processing could redefine data privacy and cost efficiency, influencing future laptop designs and market dynamics.\nThe post Microsoft and Nvidia unveil Surface Laptop Ultra with Grace Blackwell chip at San Francisco event a…",
+      "url": "https://cryptobriefing.com/microsoft-nvidia-surface-laptop-ultra-san-francisco",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-07T11:23:50Z"
+    },
+    {
+      "title": "The Most Important AI Company You've Never Heard Of",
+      "description": "The $25 billion AI startup built by DeepMind alums and backed by Nvidia is rumored to be launching an open-source model in the near future. Host Ejaaz Ahamadeen unpacks why swaths of American AI startups already rely on open Chinese models and what a Western …",
+      "url": "https://biztoc.com/x/c7ef4cb41016e232",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:14:31Z"
+    },
+    {
+      "title": "SpaceX Seeks $40 Billion Financing for Nvidia Chips, FT Reports",
+      "description": "SpaceX (NASDAQ:SPCX) is seeking $40 billion in financing for purchases of Nvidia (NASDAQ:NVDA) artificial intelligence chips, with Apollo Global Management (NYSE:APO) expected to lead the transaction, according to the Financial Times, citing people familiar w…",
+      "url": "https://biztoc.com/x/d40a75148d639aff",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:13:49Z"
+    },
+    {
+      "title": "Samsung Heads Into Q3 Earnings With 5 Open Questions About Its Chip Boom",
+      "description": "Samsung Electronics will publish preliminary Q3 earnings guidance on Thursday. Analysts expect operating profit of 106.1 trillion won ($79.1 billion), which would mark a fourth straight record quarter.\nDemand for artificial intelligence (AI) infrastructure is…",
+      "url": "https://biztoc.com/x/59fcf2e0c3eeee10",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T11:13:47Z"
+    },
+    {
+      "title": "How to watch the Microsoft Windows and Surface event",
+      "description": "Microsoft CEO Satya Nadella and NVIDIA CEO Jensen Huang join Windows and Devices chief Pavan Davuluri at the company's San Francisco event today.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186059336",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-07T11:13:29Z"
+    },
+    {
+      "title": "This monster RTX 5090 Alienware gaming PC costs less than buying the GPU and CPU alone",
+      "description": "Buy a PC once, then never think about it again.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-monster-rtx-5090-alienware-gaming-pc-costs-less-than-buying-the-gpu-and-cpu-alone-take-usd500-off-a-powerful-9950x3d-rig",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-07T11:10:00Z"
+    },
+    {
+      "title": "AMD to 'substantially increase' chip supply in 2027 — but not for consumers",
+      "description": "AMD is upping chip production levels next year — but this is for AI, so it won't help consumers with the RAM crisis.",
+      "url": "https://www.techradar.com/computing/gpu/amd-ceo-vows-to-substantially-increase-chip-supply-in-2027-but-this-isnt-good-news-for-the-price-of-laptops-or-consoles",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-07T11:09:43Z"
+    },
+    {
+      "title": "MSI Crosshair A16 HX MLG Edition with AMD Ryzen 9 and RTX 5070 now open for pre-order at RM10,499",
+      "description": "MSI has officially opened pre-orders in Malaysia on 6th October 2026 for its latest high-performance gaming laptop, the MSI Crosshair A16 HX MLG Edition.  Designed for serious gamers and creators seeking maximum horsepower, this special-edition rig packs AMD’…",
+      "url": "https://soyacincau.com/2026/10/07/msi-crosshair-a16-hx-mlg-edition-with-amd-ryzen-9-and-rtx-5070-now-open-for-pre-order-at-rm10499",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-10-07T11:07:15Z"
+    },
+    {
+      "title": "Micro Center Slashes Nearly $140 Off AMD’s Ryzen 5 7600X3D, Making It The Cheapest AM5 X3D Chip At $179",
+      "description": "The Ryzen 5 7600X3D usually sells for around $300, but Micro Center's sale dropped it to under $200. Micro Center Slashes $140 From Ryzen 5 7600X3D's Price, Dropping it to Just $179 Just yesterday, Micro Center surprised its customers by dropping the price of…",
+      "url": "https://wccftech.com/ryzen-5-7600x3d-drops-to-179",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-07T11:04:52Z"
+    },
+    {
+      "title": "Amazon’s Lessons for Multifamily Operators",
+      "description": "Property maintenance remains the most underinvested net operating income lever in multifamily operations.  Maintenance has long been treated as a necessary expense to keep properties operational, but that limited perspective misses its much broader influence …",
+      "url": "http://commercialobserver.com/2026/10/amazon-lessons-multifamily-operators",
+      "source": "Commercial Observer",
+      "publishedAt": "2026-10-07T11:00:10Z"
+    },
+    {
+      "title": "Forget Nvidia and AMD, This Under-the-Radar Chip Stock Could Win the AI Semiconductor Race",
+      "description": "Most investors already know that there's a massive build-out of AI infrastructure underway and that it's likely to continue at least until 2030. However, the key question for long-term-thinking investors is where to invest as the build-out phase begins to slo…",
+      "url": "https://biztoc.com/x/3499c20995ed785e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T10:59:11Z"
+    },
+    {
+      "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock",
+      "description": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
+      "url": "https://biztoc.com/x/5fd10d7f21e5b5c9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T10:57:26Z"
+    },
+    {
+      "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
+      "description": "AMD’s CEO has been meeting executives in Taiwan and South Korea.",
+      "url": "https://biztoc.com/x/64146134ad83c32c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T10:57:08Z"
+    },
+    {
+      "title": "Nikkei Falls as Profit-Taking Hits AI and Chip Shares",
+      "description": "Tokyo stocks fell on October 7, with the Nikkei 225 closing at 70,036, down 648 points, as investors took profits in semiconductor and artificial intelligence-related shares after the index’s rapid climb above 70,000 earlier in the week. (News On Japan)",
+      "url": "https://newsonjapan.com/article/150979.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-10-07T10:54:04Z"
+    },
+    {
+      "title": "SpaceX Seeks $40 Billion to Buy Nvidia Chips in AI Bet",
+      "description": "Bloomberg has learned Elon Musk's SpaceX is in talks with banks and investors to raise $40 billion to buy chips from Nvidia in ...",
+      "url": "https://biztoc.com/x/0576af4ff96ef0e6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-07T10:48:12Z"
+    },
+    {
+      "title": "'We carry Africa in our hearts and will build partnership for generations to come': Jaishankar",
+      "description": "India's External Affairs Minister S Jaishankar is visiting Ghana to strengthen bilateral relations and discuss strategic cooperation. He held talks with his Ghanaian counterpart regarding trade, investment, and multilateral cooperation. India plans to support…",
+      "url": "https://economictimes.indiatimes.com/news/india/we-carry-africa-in-our-hearts-and-will-build-partnership-for-generations-to-come-jaishankar/articleshow/134763373.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T10:37:50Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
+      "Chip stock could soar nearly 200%, analyst says: \"If you don’t buy it, they will\"",
+      "Bridge Neurotech raises $13.5M to read brains with ultrasound, no implant",
+      "Microsoft and Nvidia CEOs to launch Surface Laptop Ultra on Wednesday",
+      "Emacs Carnival Oct 2026: Exploring keys and voice input in Emacs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/microsoft-nvidia-surface-laptop-ultra-launch",
+        "https://biztoc.com/x/ce2fb6547c87680e",
+        "https://biztoc.com/x/6087e947d1bb96c6"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/cb03a7615d7f98f5",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186059656",
+        "https://www.houstonchronicle.com/sports/rockets/article/chip-engelland-rockets-shooting-coach-22464157.php?amp%3Butm_campaign=yahoo_syndication"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/new-procureability-study-reveals-procurement-readiness-gap-defined-ai-roadmaps-and-proactive-resilience-strategies-each-reported-by-just-8-of-respondents-302900570.html",
+        "https://biztoc.com/x/b02f664a45183e7b"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://hip2save.com/deals/simply-nkd-chips",
+        "https://biztoc.com/x/d53842a01972721c"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
+        "https://thenextweb.com/news/bridge-neurotech-13-5m-ultrasound-brain-computer-interface",
+        "https://sachachua.com/blog/2026/10/emacs-carnival-oct-2026-exploring-keys-and-voice-input-in-emacs"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
