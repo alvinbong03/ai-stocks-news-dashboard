@@ -1,0 +1,266 @@
+{
+  "theme": "ai",
+  "date": "2026-10-11",
+  "last_updated_utc": "2026-10-11T11:59:31.460Z",
+  "news": [
+    {
+      "title": "OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?",
+      "description": "OpenAI, Anthropic, Google and xAI have backed calls for stronger AI safety measures while continuing product launches, leaving the question of who will lead in 2027 unresolved.",
+      "url": "https://www.ibtimes.com.au/openai-anthropic-google-xai-2027-ai-race-1876498",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-10T09:57:52Z"
+    },
+    {
+      "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
+      "description": "Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations after discovering instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and accessing systems on real-world websit…",
+      "url": "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites",
+      "source": "The Tribune India",
+      "publishedAt": "2026-10-10T11:23:30Z"
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company…",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "source": "Internet",
+      "publishedAt": "2026-10-10T09:18:45Z"
+    },
+    {
+      "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
+      "description": "An artificial intelligence (AI) model developed by Anthropic submitted a false tip about an unsolved murder through a Philadelphia police website during an automated test.\nThe Philadelphia Police Department said Anthropic notified authorities on Oct. 7 about …",
+      "url": "https://biztoc.com/x/cebb426625036ac6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T08:32:20Z"
+    },
+    {
+      "title": "AI Chip Stocks Fall After Report on OpenAI Revenue Shortfall",
+      "description": "Micron Technology, Nvidia and other artificial-intelligence-related chip stocks declined Thursday, Oct. 8, after investors reacted to a report on OpenAI’s revenue, according to the Financial Times (FT). The report said OpenAI told investors its annualized rev…",
+      "url": "https://www.naturalnews.com/2026-10-10-chip-stocks-fall-after-openai-revenue-shortfall.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-10T06:00:00Z"
+    },
+    {
+      "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
+      "description": "David Robinson is the latest tech industry employee to quit over AI safety concerns. He tells NPR's Scott Simon the \"culture is broken\" at OpenAI.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+      "source": "NPR",
+      "publishedAt": "2026-10-10T11:40:46Z"
+    },
+    {
+      "title": "As companies pour billions into Earth-based AI infrastructure, Google is taking the data center race off-planet",
+      "description": "The moonshot idea of putting AI data centers into outer space just moved one step closer to reality, despite doubts about its feasibility.\nLast week, Google’s Project Suncatcher launched a refrigerator-sized satellite carrying four AI chips into orbit on a Sp…",
+      "url": "https://biztoc.com/x/5d730846d0b19e8c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T11:17:31Z"
+    },
+    {
+      "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards",
+      "description": "Anthropic says its investigation uncovered several instances of unintended model behaviour, prompting it to expand its review beyond cybersecurity evaluations",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards/article71567795.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-10T10:55:32Z"
+    },
+    {
+      "title": "Report Links AI Data Center Air Pollution to Risks for Children’s Developing Brains and Lungs",
+      "description": "A report published by Children’s Health Defense (CHD) states that air pollution from artificial intelligence (AI) data centers may affect children’s developing brains and lungs, according to the organization. The report focuses on data centers in the U.S. tha…",
+      "url": "https://activistpost.com/report-links-ai-data-center-air-pollution-to-risks-for-childrens-developing-brains-and-lungs",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-10-10T10:00:00Z"
+    },
+    {
+      "title": "Jamie Dimon tells AI companies to stop fighting data center opposition: 'Build them where they're wanted'",
+      "description": "Jamie Dimon tells AI companies to stop fighting data center opposition: 'Build them where they're wanted'\nJPMorgan Chase CEO Jamie Dimon has a solution for the political backlash directed at data centers — and it's pretty straightforward advice for AI executi…",
+      "url": "https://biztoc.com/x/be5b0adfe2da9cdf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T11:47:38Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "description": "Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion.\nCustomers can now shop around for access to the chips at the gi…",
+      "url": "https://biztoc.com/x/95f19aa4362a18b7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T11:17:26Z"
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case - BBC",
+      "description": "Rogue Anthropic AI agent gave police fake tip in unsolved murder caseBBC Investigating unintended model actions in our evaluations and internal useAnthropic Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say6abc Philadelphia…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186092300",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-10T11:12:06Z"
+    },
+    {
+      "title": "Anthropic AI Agents Tried to Access Government Websites",
+      "description": "Anthropic just revealed that one of its AI test systems quietly went rogue online—enough so that the White House got a briefing. In a blog post on Friday, the San Francisco firm said a nonpublic research model, acting autonomously, tried to access multiple fe…",
+      "url": "https://www.newser.com/story/397908/anthropic-ai-agents-tried-to-access-government-websites.html",
+      "source": "Newser",
+      "publishedAt": "2026-10-10T11:10:00Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-10T11:00:01Z"
+    },
+    {
+      "title": "Generative AI Still Needs Artists’ Judgment, Says Netflix’s Eyeline GenFX Chief James Rustad at Busan",
+      "description": "Generative AI can widen the options for a visual effects shot, but artists still decide which of them serve the story, according to James Rustad, global head of GenFX at Eyeline, Netflix’s in-house VFX studio. Rustad made the case at an InnoAsia session “Maki…",
+      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383",
+      "source": "Variety",
+      "publishedAt": "2026-10-10T10:50:03Z"
+    },
+    {
+      "title": "As companies pour billions into Earth-based AI infrastructure, Google is taking the data center race off-planet",
+      "description": "Google will conduct experiments with its satellite in space for a year.",
+      "url": "https://fortune.com/2026/10/10/google-project-suncatcher-ai-data-centers-space-satellite-launch-orbital-computing-spacex-blue-origin-artificial-intelligence-energy-demand",
+      "source": "Fortune",
+      "publishedAt": "2026-10-10T10:44:00Z"
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "source": "BBC News",
+      "publishedAt": "2026-10-10T10:06:23Z"
+    },
+    {
+      "title": "Learn Claude AI for work with four courses for $19.99 during Deal Days",
+      "description": "Four CPD-certified courses show you how to use Claude for Excel, project management, reporting and web design.\nThe post Learn Claude AI for work with four courses for $19.99 during Deal Days appeared first on Popular Science.",
+      "url": "https://www.popsci.com/sponsored-content/learn-claude-ai-for-work-with-four-courses-for-less-during-deal-days-sponsored-deal",
+      "source": "Popular Science",
+      "publishedAt": "2026-10-10T10:00:00Z"
+    },
+    {
+      "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
+      "description": "An AI model by Anthropic sent a fabricated tip about an unsolved homicide to Philadelphia police, who criticised the company for a two-month reporting dela\n\nRead More: https://punchng.com/anthropic-ai-model-sent-fake-murder-tip-to-philadelphia-police/",
+      "url": "https://punchng.com/anthropic-ai-model-sent-fake-murder-tip-to-philadelphia-police",
+      "source": "The Punch",
+      "publishedAt": "2026-10-10T09:20:10Z"
+    },
+    {
+      "title": "Anthropic AI model sent fake murder tip to US police",
+      "description": "An AI model developed by Anthropic submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said, criticising the company for taking two months to report the incident.",
+      "url": "https://www.rte.ie/news/2026/1010/1594824-anthropic-murder-tip",
+      "source": "RTE",
+      "publishedAt": "2026-10-10T09:19:10Z"
+    },
+    {
+      "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
+      "description": "Exclusive: Anthropic breaches spark White House AI reporting mandateAxios Investigating unintended model actions in our evaluations and internal useAnthropic Anthropic AI model submits false tip on unsolved Philly murder, police sayNBC10 Philadelphia Anthropi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186091604",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-10T09:13:41Z"
+    },
+    {
+      "title": "How QuantumScape's QS PowerBlock AI Data Center Push Has Changed Its Investment Story (QS)",
+      "description": "Earlier this week, QuantumScape announced the QS PowerBlock, a modular solid-state lithium-metal battery system for AI data centers that delivered four times the power density and five times the runtime of Open Compute Project Open Rack V3 benchmarks in contr…",
+      "url": "https://biztoc.com/x/49d76ebf01352ba0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T08:17:03Z"
+    },
+    {
+      "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
+      "description": "When in August OpenAI released its ChatGPT for Teens, a tool with \"stronger built-in safety protections\" geared toward 13- to 17-year-olds, experts said it showed promise. New research, however, reveals it has important limitations.\nOn Wednesday, media rating…",
+      "url": "https://biztoc.com/x/b071989ad7795fb8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T07:32:17Z"
+    },
+    {
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
+      "description": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. WebsiteThe New York Times Investigating unintended model actions in our evaluations and internal useAnthropic Anthropic AI model submits false tip on unsolved Philly murder, police sayNBC10 Philadel…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186090992",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-10T06:52:35Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?",
+      "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites - The Tribune",
+      "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
+      "AI Chip Stocks Fall After Report on OpenAI Revenue Shortfall"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/openai-anthropic-google-xai-2027-ai-race-1876498",
+        "https://www.tribuneindia.com/news/business/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites",
+        "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-10-10-chip-stocks-fall-after-openai-revenue-shortfall.html",
+        "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+        "https://biztoc.com/x/5d730846d0b19e8c"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI vs Anthropic vs Gemini vs Grok: Who Will Win the AI Race in 2027?. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

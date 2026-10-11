@@ -1,0 +1,405 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-11",
+  "last_updated_utc": "2026-10-11T12:00:26.607Z",
+  "news": [
+    {
+      "title": "Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping",
+      "description": "At Walmart, this Lenovo V14 G5 laptop is down to just $629. It's a strong price for a build with these specs. For context, we saw the same build with a 512GB SSD for just $30 less in July; this one has a 1TB SSD. It also has 16GB of RAM. Shipping is free.  Bu…",
+      "url": "https://www.dealnews.com/Lenovo-V14-G5-13-th-Gen-i7-14-Laptop-w-1-TB-SSD-for-629-free-shipping/22269443.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-10T11:59:08Z"
+    },
+    {
+      "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+      "description": "The open-source AnyPS5 project has reached 100% GPU shader instruction coverage.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186092518",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-10T11:52:06Z"
+    },
+    {
+      "title": "NVIDIA Reportedly Ending the RTX 5090, Reserves GB202 Silicon for Workstation GPUs",
+      "description": "NVIDIA has reportedly stopped allocating GB202 silicon to the GeForce RTX 5090, according to leaker MEGAsizeGPU (@Zed__Wang) on X. \"No more GB202 for 5090, confirmed,\" the leaker posted, adding in a follow-up that \"all future GB202 supplies are RTX Pro exclus…",
+      "url": "https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-10T11:36:04Z"
+    },
+    {
+      "title": "MoE models changed what \"fits on my GPU\" means, and most hardware advice hasn't caught up",
+      "description": "MoE models changed what \"fits on my GPU\" means, and most hardware advice hasn't caught upxda-developers.com",
+      "url": "https://www.xda-developers.com/moe-models-changed-what-fits-on-my-gpu-means-and-most-hardware-advice-hasnt-caught-up",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-10T11:31:36Z"
+    },
+    {
+      "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+      "description": "The new project is not an emulator, but an attempt to get PS5 games running natively on PC.",
+      "url": "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-10T11:30:00Z"
+    },
+    {
+      "title": "Top frier reveals his favourite place for fish and chips in the UK - and where he stands on the cod vs haddock debate",
+      "description": "Andrew Crook, president of the National Federation of Fish Friers, says people think the fish supper is a simple dish - but if you don't get everything right, it can be a disappointing dinner.",
+      "url": "https://www.dailymail.com/travel/article-16186957/best-fish-chips-UK-stands-cod-haddock-debate.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-10T11:22:43Z"
+    },
+    {
+      "title": "Show HN: MCP to find the cheapest GPU to run your model",
+      "description": "Ask your coding agent where a GPU is cheapest. GPUFind's MCP server answers from every provider's published prices, each with when it was confirmed and a link to the provider's own pricing page. 500 free tool calls a month.",
+      "url": "https://www.gpufind.cloud/mcp-tool",
+      "source": "Gpufind.cloud",
+      "publishedAt": "2026-10-10T11:18:30Z"
+    },
+    {
+      "title": "As companies pour billions into Earth-based AI infrastructure, Google is taking the data center race off-planet",
+      "description": "The moonshot idea of putting AI data centers into outer space just moved one step closer to reality, despite doubts about its feasibility.\nLast week, Google’s Project Suncatcher launched a refrigerator-sized satellite carrying four AI chips into orbit on a Sp…",
+      "url": "https://biztoc.com/x/5d730846d0b19e8c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T11:17:31Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "description": "Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion.\nCustomers can now shop around for access to the chips at the gi…",
+      "url": "https://biztoc.com/x/95f19aa4362a18b7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T11:17:26Z"
+    },
+    {
+      "title": "America's truckers issue dire warning as soaring diesel costs threaten 'domino effect'",
+      "description": "Truckers say diesel at $6.32 per gallon is slashing profits and cutting routes, warning of a domino effect that could ripple through the supply chain.",
+      "url": "https://www.foxnews.com/politics/americas-truckers-issue-dire-warning-soaring-diesel-costs-threaten-domino-effect",
+      "source": "Fox News",
+      "publishedAt": "2026-10-10T11:00:25Z"
+    },
+    {
+      "title": "[AC] $149.99 | AMD Ryzen 5 7600X 6-Core/12-Thread Unlocked Desktop Processor at Amazon",
+      "description": "Amazon [amazon.com] has *AMD Ryzen 5 7600X 6-Core/12-Thread Unlocked Desktop Processor* for $175.95 - $25.96 when you 'clip' the coupon on product page = *$149.99*. \n*Shipping is free*. \n \n*Savings*...",
+      "url": "https://slickdeals.net/f/20138130-ac-149-99-amd-ryzen-5-7600x-6-core-12-thread-unlocked-desktop-processor-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-10T11:00:10Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "description": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-10T11:00:01Z"
+    },
+    {
+      "title": "Are Firing Squad Executions Seeing a Revival in the U.S.?",
+      "description": "Supply-chain issues and a series of botched executions involving lethal injection are causing officials to weigh alternative options for carrying out the death penalty.",
+      "url": "https://time.com/article/2026/10/10/firing-squad-execution-lethal-injection-christa-pike-fort-hood-shooter",
+      "source": "Time",
+      "publishedAt": "2026-10-10T11:00:00Z"
+    },
+    {
+      "title": "$2069.10 | Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip (24GB | 1TB, Space Black) at Amazon",
+      "description": "Amazon [amazon.com] has *Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip *(24GB | 1TB, Space Black) for *$2069.10*. \n*Shipping is free*. \n \namazon.com/dp/B0GR1JK9W3 [amazon.com] \n \nPlease report...",
+      "url": "https://slickdeals.net/f/20138127-2069-10-apple-2026-macbook-pro-laptop-with-apple-m5-pro-chip-24gb-1tb-space-black-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-10T10:56:04Z"
+    },
+    {
+      "title": "Jim Cramer makes major SpaceX call tied to Nvidia",
+      "description": "I remember watching the first Starship flight test from my phone right from the turf. It was supposed to be a glance. Instead, I ended up in the turf’s parking lot for a couple of minutes. \nI spend most of my days analyzing markets, studying trade setups, and…",
+      "url": "https://biztoc.com/x/87b6a8fd59328514",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T10:17:48Z"
+    },
+    {
+      "title": "There’s a reason billionaires keep bending the knee to Trump",
+      "description": "Jensen Huang had a brief but revealing slip of the tongue recently.\nStanding at the White House, the Nvidia CEO referred to large-language models as “AI” — then quickly corrected himself: “super intelligence.”\nThat’s because President Donald Trump has decided…",
+      "url": "https://biztoc.com/x/b8defd00b984d2aa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T10:17:44Z"
+    },
+    {
+      "title": "Amazon's List Of Best-Selling CPUs Proves Which Brand Is More Popular In 2026",
+      "description": "AMD and Intel have been competing with each other for years, but the best-selling CPUs show one brand clearly outpacing the other by a wide margin.",
+      "url": "https://www.bgr.com/2277762/amazon-best-selling-cpus-which-brand-more-popular",
+      "source": "BGR",
+      "publishedAt": "2026-10-10T10:17:00Z"
+    },
+    {
+      "title": "Nvidia’s comms chief leaves after four months, Business Insider reports",
+      "description": "Anna Soellner, who ran corporate communications at Nvidia, has left after about four months, Geoff Weiss reported for Business Insider. Soellner joined the chipmaker around June, according to her LinkedIn profile. Her boss was Mylene Mangalindan, who leads th…",
+      "url": "https://thenextweb.com/news/nvidia-comms-chief-anna-soellner-leaves",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-10T10:10:51Z"
+    },
+    {
+      "title": "The U.S. is going to the moon for a resource Canada has at scale",
+      "description": "Chris Cassin: Stockpiling helium-3 could give Canada a bargaining chip in trade talks, but we aren't doing it. Find out more.",
+      "url": "https://financialpost.com/news/economy/us-going-moon-resource-canada-has-scale",
+      "source": "Financial Post",
+      "publishedAt": "2026-10-10T10:00:25Z"
+    },
+    {
+      "title": "Elon Musk says SpaceX could one day be worth vastly more than Earth's economy. Here's what that would take",
+      "description": "Elon Musk is known for making outlandish predictions.\nChip Somodevilla/Getty Images\nElon Musk says SpaceX could be worth \"orders of magnitude\" more than the entire global economy.\nThat implies a $12 quadrillion-plus valuation, or roughly 5,500 times SpaceX's …",
+      "url": "https://biztoc.com/x/2eb7986f3aee16aa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T09:47:26Z"
+    },
+    {
+      "title": "Show HN: Offline voice assistant, NO dedicated GPU, less 15Gb RAM",
+      "description": "Most voice assistants are walkie-talkies. You press, speak, wait. This one keeps the microphone open while it answers, so you can interrupt mid-sentence, change your mind, or correct yourself and get a reaction within one audio buffer. Everything runs locally…",
+      "url": "https://grigio.org/offline-voice-assistant-no-dedicated-gpu-less-15gb-ram",
+      "source": "Grigio.org",
+      "publishedAt": "2026-10-10T09:41:13Z"
+    },
+    {
+      "title": "XPENG names robotaxi service YOYO and opens invitation-based registration in China",
+      "description": "XPENG announced XPENG YOYO as the brand for its robotaxi business on October 8 and opened online registration to users in China through invitation codes. The move expands access beyond employee testing as the company prepares for broader operations. The robot…",
+      "url": "https://technode.com/2026/10/10/xpeng-names-robotaxi-service-yoyo-and-opens-invitation-based-registration-in-china",
+      "source": "TechNode",
+      "publishedAt": "2026-10-10T09:19:47Z"
+    },
+    {
+      "title": "Is JEOL (TSE:6951) Using HAXIS To Sharpen Its Semiconductor Tooling Edge?",
+      "description": "JEOL Ltd. has launched HAXIS, a new low-angle ion-milling scanning electron microscope for semiconductor failure analysis, combining LIM delayering, SEM imaging, and passive voltage contrast to deliver clear, highly reproducible observations with reduced dama…",
+      "url": "https://biztoc.com/x/98cb897c25104444",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T09:17:46Z"
+    },
+    {
+      "title": "Not Micron. Not Sandisk. This Memory Stock Is Quietly Gaining Share",
+      "description": "In the past, the memory chip market was a cyclical industry that went through boom-and-bust cycles every few years. But over the past few years, the rapid growth of the generative AI market has caused the demand for new memory chips to consistently outstrip i…",
+      "url": "https://biztoc.com/x/88f6f62a40c3507d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T09:17:41Z"
+    },
+    {
+      "title": "SUSS MicroTec (XTRA:SMHN) Could Be 40% Undervalued After Wafer Cleaning Push",
+      "description": "SUSS MicroTec (XTRA:SMHN) has moved into wafer level cleaning with its new GreenTec Solutions line and GT200 system, targeting a €5.4b market tied to advanced packaging and AI driven semiconductor demand.\nRecent trading tells a mixed story for SUSS MicroTec. …",
+      "url": "https://biztoc.com/x/892373560ec4efe8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T09:02:36Z"
+    },
+    {
+      "title": "Samsung & SK hynix Have Set A Dangerous Greed Cycle That Has Trickled Down To Suppliers Like ASML, Who Now Want To Match Their Customers’ Profit Margins",
+      "description": "The profits being raked in by Samsung and SK hynix during the DRAM shortage have made both memory manufacturers the source of envy amongst high-profile suppliers like ASML, which is now reportedly seeking a price hike to match what its clients are generating …",
+      "url": "https://wccftech.com/samsung-sk-hynix-greed-asml-euv-duv-parts-price-hike",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-10T09:01:22Z"
+    },
+    {
+      "title": "Apple cuts iPhone 18 Pro orders due to soft demand",
+      "description": "Apple cut October orders for the iPhone 18 Pro/Pro Max by at least 15% as demand softens amid higher memory-chip costs and price hikes post-launch.",
+      "url": "https://www.thehindubusinessline.com/info-tech/apple-cuts-iphone-18-pro-orders-due-to-soft-demand/article71567514.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-10T08:58:12Z"
+    },
+    {
+      "title": "GMKtec EVO-X3 “AMD Ryzen AI MAX+ 395” Mini PC Review: Enhanced Cooling In A Local AI Powerhouse",
+      "description": "GMKtec has been making Mini PCs for years now. They are based out of the technology hub of Shenzhen, China, and have maintained strategic partnerships with AMD, Intel & Microsoft, and currently offer a wide array of solutions, all the way from entry-level to …",
+      "url": "https://wccftech.com/review/gmktec-evo-x3-amd-ryzen-ai-max-395-mini-pc-review",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-10T08:55:05Z"
+    },
+    {
+      "title": "VideoProc Converter AI 7.8 (Win&Mac)",
+      "description": "Give your favorite videos and photos a fresh look with VideoProc Converter AI. Bring old family recordings into clearer view, make your phone footage look better on a big screen, and polish AI-generated videos and images before sharing. Upscale videos to HD o…",
+      "url": "https://www.giveawayoftheday.com/videoproc-converter-ai-7-8",
+      "source": "Giveawayoftheday.com",
+      "publishedAt": "2026-10-10T08:00:00Z"
+    },
+    {
+      "title": "NVIDIA Reportedly Axes RTX 5090 Production, Diverting GB202 Chips To PRO Cards As Gamers Get An RTX 5080 24 GB",
+      "description": "NVIDIA is reportedly ending production of the RTX 5090 and will now introduce a new model for enthusiasts, the RTX 5080 24 GB. NVIDIA GeForce RTX 50 Lineup To Get Major Changes Soon, RTX 5080 24 GB Replaces RTX 5090 32 GB The NVIDIA GeForce RTX 5090 launched …",
+      "url": "https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-10T07:50:46Z"
+    },
+    {
+      "title": "Refurb Dell Optiplex 3080 Micro PC for From $370 + free shipping w/ Prime",
+      "description": "Woot has just dropped the price on a bunch of different refurbished configurations of this Dell Optiplex 3080 Micro PC. It starts at $370 for a build with 16GB of RAM and a 256GB SSD, which is $329 cheaper than what Amazon charges for a new one with half the …",
+      "url": "https://www.dealnews.com/Refurb-Dell-Optiplex-3080-Micro-PC-for-From-370-free-shipping-w-Prime/22269161.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-10T07:07:58Z"
+    },
+    {
+      "title": "Could Be 8% Undervalued As Backlog Conversion Drives The Narrative",
+      "description": "just highlighted its new FORTITUDE gallium nitride chip, a grain of rice sized component that consolidates electromagnetic processing for satellites, radar, GPS and future 6G systems.\nDespite the FORTITUDE announcement and other recent product updates, such a…",
+      "url": "https://biztoc.com/x/2b6a9cb7e0340bd3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T06:47:05Z"
+    },
+    {
+      "title": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks — But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",
+      "description": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks — But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms\n- The selling was concentrated across several of Ark's ETFs rather than limited to one part of the portfolio.\n- ARK Innovation ETF pared its …",
+      "url": "https://biztoc.com/x/5750c53f83012b7e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T06:31:53Z"
+    },
+    {
+      "title": "Trump awards science medal to Elon Musk, Jensen Huang",
+      "description": "US President Donald Trump will award the National Medal of Science to Nvidia CEO Jensen Huang and several other tech leaders, with major figures from the industry set to gather again on October 8, local time. The honors highlight Trump's push to spotlight tec…",
+      "url": "https://www.digitimes.com/news/a20261008PD232/ceo-donald-trump-award-nvidia-dell.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:29:33Z"
+    },
+    {
+      "title": "Semco moves glass substrates to package-level testing",
+      "description": "Samsung Electro-Mechanics (Semco) has reportedly completed initial reliability testing of its 100mm glass substrates and moved to package-level verification using customer chips, marking progress toward commercializing next-generation packaging technology as …",
+      "url": "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:27:18Z"
+    },
+    {
+      "title": "JNTC bets US$259 million on glass substrates ahead of 2028 ramp",
+      "description": "South Korea's JNTC plans to invest KRW347 billion (approx. US$259 million) in glass substrate manufacturing as it reports a sharp reduction in copper-filling time for thick glass cores, potentially easing a major bottleneck in advanced semiconductor packaging…",
+      "url": "https://www.digitimes.com/news/a20261008VL223/jntc-2028-manufacturing-glass-substrate-packaging.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:27:06Z"
+    },
+    {
+      "title": "SK Hynix sends memory chips into orbit for testing",
+      "description": "SK Hynix's dynamic random-access memory (DRAM) and Universal Flash Storage (UFS) products have reached orbit aboard a South Korean satellite that successfully established communication with the ground following the country's fifth Nuri rocket launch. The miss…",
+      "url": "https://www.digitimes.com/news/a20261008VL225/sk-hynix-testing-dram-ufs-launch.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:26:32Z"
+    },
+    {
+      "title": "Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst",
+      "description": "Malaysia is moving from traditional semiconductor back-end manufacturing toward higher value-added work, with advanced packaging set to drive growth over the next two to three years, according to Nur Hilwani, Technology & Market Analyst, Semiconductor Equipme…",
+      "url": "https://www.digitimes.com/news/a20261008VL226/malaysia-packaging-manufacturing-growth-yole.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:26:21Z"
+    },
+    {
+      "title": "AI headphones expose audio market's missing platform",
+      "description": "As artificial intelligence (AI) moves into headphones, a problem often hidden by hardware specs is becoming clearer: the audio market has a huge installed base, but lacks a common platform to connect different brands, chips, software, and services. Bragi CEO …",
+      "url": "https://www.digitimes.com/news/a20261007PD241/audio-ic-ai-demand-voice-assistant.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-10T06:25:51Z"
+    },
+    {
+      "title": "Ugreen NASync DXP8800 Ultra review",
+      "description": "The Ugreen NASync DXP8800 Ultra is the DXP8800 Plus with a newer Intel processor and a higher memory ceiling. It also costs much more.",
+      "url": "https://www.techradar.com/computing/ugreen-nasync-dxp8800-ultra-review",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-10T06:15:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping",
+      "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+      "NVIDIA Reportedly Ending the RTX 5090, Reserves GB202 Silicon for Workstation GPUs",
+      "MoE models changed what \"fits on my GPU\" means, and most hardware advice hasn't caught up",
+      "Top frier reveals his favourite place for fish and chips in the UK - and where he stands on the cod vs haddock debate"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "One",
+      "summary": "Grouped stories where \"one\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.dealnews.com/Lenovo-V14-G5-13-th-Gen-i7-14-Laptop-w-1-TB-SSD-for-629-free-shipping/22269443.html",
+        "https://biztoc.com/x/5d730846d0b19e8c",
+        "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/353578/nvidia-reportedly-ending-the-rtx-5090-reserves-gb202-silicon-for-workstation-gpus",
+        "https://biztoc.com/x/95f19aa4362a18b7",
+        "https://biztoc.com/x/87b6a8fd59328514"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.dailymail.com/travel/article-16186957/best-fish-chips-UK-stands-cod-haddock-debate.html",
+        "https://biztoc.com/x/88f6f62a40c3507d",
+        "https://www.digitimes.com/news/a20261008VL220/semco-glass-substrate-testing-expansion.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slickdeals.net/f/20138127-2069-10-apple-2026-macbook-pro-laptop-with-apple-m5-pro-chip-24gb-1tb-space-black-at-amazon",
+        "https://financialpost.com/news/economy/us-going-moon-resource-canada-has-scale",
+        "https://www.thehindubusinessline.com/info-tech/apple-cuts-iphone-18-pro-orders-due-to-soft-demand/article71567514.ece"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186092518",
+        "https://www.xda-developers.com/moe-models-changed-what-fits-on-my-gpu-means-and-most-hardware-advice-hasnt-caught-up",
+        "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping. Main topic cluster: One. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping. Main topic cluster: One. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping. Main topic cluster: One. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping. Main topic cluster: One. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping. Main topic cluster: One. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
