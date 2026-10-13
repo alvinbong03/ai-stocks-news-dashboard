@@ -1,0 +1,432 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-13",
+  "last_updated_utc": "2026-10-13T13:24:43.186Z",
+  "news": [
+    {
+      "title": "Global smartphone shipments record worst third quarter in 14 years amid memory shortage",
+      "description": "Oct 12 : Global smartphone shipments fell 20 per cent on-year to their lowest third-quarter level since 2012, as soaring memory chip costs and supply shortages pressured manufacturers and pushed up prices, preliminary estimates from Counterpoint Research show…",
+      "url": "https://www.channelnewsasia.com/business/global-smartphone-shipments-record-worst-third-quarter-in-14-years-amid-memory-shortage-6453266",
+      "source": "CNA",
+      "publishedAt": "2026-10-12T13:20:12Z"
+    },
+    {
+      "title": "LTTS launches EI Lab featuring NVIDIA accelerated AI-native factory",
+      "description": "LTTS launches EI Lab with NVIDIA to showcase AI-native manufacturing, digital twins, and autonomous systems on the shop floor.",
+      "url": "https://www.thehindubusinessline.com/info-tech/ltts-launches-ei-lab-featuring-nvidia-accelerated-ai-native-factory/article71575215.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-12T13:17:54Z"
+    },
+    {
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "description": "Microsoft will ramp up use of its homegrown artificial intelligence chips after years of reliance on Nvidia's graphics processing units, as the software giant attempts to bolster its AI stack.\nStarting with its third-generation Maia AI accelerator, unveiled o…",
+      "url": "https://biztoc.com/x/50d4a73ac0a1e75e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:15:40Z"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "description": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the “primary AI inference system” for Microsoft’s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it’s als…",
+      "url": "https://biztoc.com/x/df85736a66f5f0f4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:15:32Z"
+    },
+    {
+      "title": "Applied Materials unveils $5B research facility in Silicon Valley in bid to streamline AI chipmaking",
+      "description": "The Santa Clara-based firm – a key supplier of equipment and software that tech giants like TSMC, Intel and Samsung use to build chips – is aiming to achieve faster breakthroughs by having scientists, engineers and researchers from companies and universities …",
+      "url": "https://nypost.com/2026/10/12/business/applied-materials-unveils-5b-research-facility-in-silicon-valley-in-bid-to-streamline-ai-chipmaking",
+      "source": "New York Post",
+      "publishedAt": "2026-10-12T13:14:33Z"
+    },
+    {
+      "title": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
+      "description": "Microsoft's Maia 300 chip could reshape AI hardware dynamics, challenging Nvidia's dominance and potentially altering market competition.\nThe post Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-12T13:05:13Z"
+    },
+    {
+      "title": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
+      "description": "Microsoft will scale its in-house Azure Maia AI accelerators to multi-gigawatt deployments starting in 2027, making Maia the primary AI inference system for its products and services. The company also unveiled Maia 300, the third generation of the chip family…",
+      "url": "https://www.digitimes.com/news/a20261012VL205/microsoft-azure-copilot-ai-chip-accelerator-bandwidth-tsmc.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-12T13:05:00Z"
+    },
+    {
+      "title": "Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
+      "description": "Qualcomm (NASDAQ:QCOM) signed one of the world's biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its bigges…",
+      "url": "https://biztoc.com/x/931a1c307c987f65",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:02:55Z"
+    },
+    {
+      "title": "Applied Digital Has $36 Billion in Contracted Revenue. Wolfspeed Has the Better Stock Chart",
+      "description": "The post Applied Digital Has $36 Billion in Contracted Revenue. Wolfspeed Has the Better Stock Chart. appeared first on 24/7 Wall St..\nApplied Digital (NASDAQ:APLD) builds AI data centers. Wolfspeed (NYSE:WOLF) makes power chips that go inside them. The marke…",
+      "url": "https://biztoc.com/x/ec4be207741d5fe7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:01:04Z"
+    },
+    {
+      "title": "Someone Just Spent $21 Million Betting Nvidia Falls Below $180 by January",
+      "description": "The post Someone Just Spent $21 Million Betting Nvidia Falls Below $180 by January appeared first on 24/7 Wall St..\nA trader recently paid a large sum for the right to sell Nvidia (NASDAQ:NVDA) shares well below their market price. The position was 100,000 pu…",
+      "url": "https://biztoc.com/x/2f7bc01c74acb2f2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:00:54Z"
+    },
+    {
+      "title": "Satisfy Your Crave Protein Bar 12-Piece Pack for $14 w/ Sub & Save + free shipping w/ Prime",
+      "description": "You can apply the promo code \"50OFFCRAVE\" to cut an extra 50% off this 12-pack of Satisfy Your Crave protein bars at Amazon. Plus, if you check out via Subscribe & Save, you'll knock another 10% off. It's available in Chocolate Caramel Crisp, Chocolate Chip C…",
+      "url": "https://www.dealnews.com/Satisfy-Your-Crave-Protein-Bar-12-Piece-Pack-for-14-w-Sub-Save-free-shipping-w-Prime/22274647.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-12T13:00:47Z"
+    },
+    {
+      "title": "Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse?",
+      "description": "The post Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse? appeared first on 24/7 Wall St..\nOracle (NYSE:ORCL) and Broadcom (NASDAQ:AVGO) both reported in September, and both now sit in the middle of the AI credit scare. Oracle borrows mon…",
+      "url": "https://biztoc.com/x/04cc3e8c353326a2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:00:25Z"
+    },
+    {
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "description": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-12T13:00:01Z"
+    },
+    {
+      "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores — rack design ships next year in CPU-only and all-in-one configurations",
+      "description": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-12T13:00:00Z"
+    },
+    {
+      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last",
+      "description": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
+      "url": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-12T13:00:00Z"
+    },
+    {
+      "title": "Broadcom and Intel CEOs say capital, not chips, is AI’s next bottleneck",
+      "description": "Rising capital costs could slow AI infrastructure growth, shifting focus from hardware shortages to financial strategies and investment returns.\nThe post Broadcom and Intel CEOs say capital, not chips, is AI’s next bottleneck appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/broadcom-intel-ceos-capital-ai-bottleneck",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-12T12:59:01Z"
+    },
+    {
+      "title": "Flexcompute Raises Strategic Investment From Samsung Ventures and Applied Ventures to Build the Physics World Model",
+      "description": "Backing from semiconductor and manufacturing leaders will scale Flexcompute's research toward AI that understands the laws of physics, not just patterns in data BOSTON, Oct. 12, 2026 /PRNewswire/ -- Flexcompute, the physics company, today announced strategic …",
+      "url": "https://www.prnewswire.com/news-releases/flexcompute-raises-strategic-investment-from-samsung-ventures-and-applied-ventures-to-build-the-physics-world-model-302903764.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T12:55:00Z"
+    },
+    {
+      "title": "Musk Wants More Control Over Chips",
+      "description": "This article first appeared on GuruFocus.\nTesla Inc. (TSLA, Financials), the electric-vehicle and technology business, may try to do more in-house creation of bespoke chips as CEO Elon Musk seeks to speed up the design process.Musk told customers and investor…",
+      "url": "https://biztoc.com/x/371fc97f7c98233b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T12:48:05Z"
+    },
+    {
+      "title": "HelixSR mod brings NVIDIA's DLSS 3.7 to AMD-based gaming handhelds",
+      "description": "HelixSR is a new mod that gets NVIDIA DLSS 3.7 working on AMD hardware by presenting it through FSR 3.1 compatibility. Early testing on handhelds such as the ROG Ally X suggests promising performance, including lower upscaling times compared with FSR 4 in one…",
+      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/mod-brings-nvidia-dlss-to-ally-x",
+      "source": "Windows Central",
+      "publishedAt": "2026-10-12T12:45:48Z"
+    },
+    {
+      "title": "MANUFACTURERS RAMP UP PURCHASING IN SEPTEMBER AS GLOBAL DEMAND STRENGTHENS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX",
+      "description": "Global purchasing activity growth climbed close to its 2026 high, pointing to firmer manufacturing output in Q4 All three major regions register stronger purchasing, with the US, Germany, Taiwan and South Korea seeing accelerated factory buying in particular …",
+      "url": "https://www.prnewswire.com/news-releases/manufacturers-ramp-up-purchasing-in-september-as-global-demand-strengthens-gep-global-supply-chain-volatility-index-302905219.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T12:28:00Z"
+    },
+    {
+      "title": "MANUFACTURERS RAMP UP PURCHASING IN SEPTEMBER AS GLOBAL DEMAND STRENGTHENS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX",
+      "description": "Global purchasing activity growth climbed close to its 2026 high, pointing to firmer manufacturing output in Q4 All three major regions register stronger purchasing, with the US, Germany, Taiwan and South Korea seeing accelerated factory buying in particular …",
+      "url": "https://www.prnewswire.com/news-releases/manufacturers-ramp-up-purchasing-in-september-as-global-demand-strengthens-gep-global-supply-chain-volatility-index-302905220.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T12:28:00Z"
+    },
+    {
+      "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place",
+      "description": "Australia is a relatively small country by population, with just 28 million citizens. But it has become a major hub for artificial intelligence (AI) data center projects because of its vast land mass and favorable political climate. In fact, an Australian com…",
+      "url": "https://biztoc.com/x/919fa5086edc7096",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T12:15:56Z"
+    },
+    {
+      "title": "Exclusive: Apple Routed a Graphite Pipe Through the iPhone Duo’s Hinge. Here’s Why",
+      "description": "The A20 Pro is Apple's most advanced mobile processor ever. I sat down with the silicon and thermal engineering teams at Apple to learn how custom technology keeps the chip cool, maximizing performance in the iPhone Duo and 18 Pro lines.\nThe iPhone 18 Pro and…",
+      "url": "https://uk.pcmag.com/mobile-phones/167873/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-12T12:02:19Z"
+    },
+    {
+      "title": "Goldman names 3 names to benefit as high-performance NAND tackles AI’s memory wall",
+      "description": "Investing.com -- Goldman Sachs named the stocks it sees as the likely beneficiaries of emerging high-performance memory chips designed to ease a growing bottleneck in AI inference, in a note on Monday.\nSanDisk, SK Hynix and Samsung Electronics are the stocks …",
+      "url": "https://biztoc.com/x/ae0e5f0b6d29e4ab",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T12:01:04Z"
+    },
+    {
+      "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
+      "description": "This page aggregates Nvidia's driver updates to make issues easier to track.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/coder-creates-nvidiawatch-tracker-site-that-monitors-hundreds-of-gpu-driver-bugs-site-charts-open-issues-fixes-and-forum-feedback-across-updates",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-12T12:00:00Z"
+    },
+    {
+      "title": "AMD Rumored To Launch RDNA 5 In Second Half Of 2027; Also Quashes Rumors Of Next-Gen Using 4 GB GDDR7 Memory",
+      "description": "A prominent leaker says we will likely see the RDNA 5-based GPUs launching in the latter part of 2027. Kepler Says AMD is Expected to Launch RDNA 5 at Computex 2027 at the Earliest, But a Delayed Launch is Likely Prominent Leaker Kepler_L2 has once again reve…",
+      "url": "https://wccftech.com/amd-rumored-to-launch-rdna-5-in-later-part-of-2027",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-12T11:55:05Z"
+    },
+    {
+      "title": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory — Russian repair specialist reveals sophisticated new",
+      "description": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.\n                                                                         …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186257144",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-12T11:54:00Z"
+    },
+    {
+      "title": "EU Commission Leadership Main Mastermind of Campaign Against Rosatom in Hungary - Russian Intel",
+      "description": "MOSCOW (Sputnik) - The leadership of the European Commission has become the main mastermind of the information campaign launched in Europe against the Russian state nuclear corporation Rosatom and the construction of the Paks-II Nuclear Power Plant (NPP) in H…",
+      "url": "https://sputnikglobe.com/20261012/eu-commission-leadership-main-mastermind-of-campaign-against-rosatom-in-hungary---russian-intel-1124869985.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-12T11:41:34Z"
+    },
+    {
+      "title": "She Told Them What Happened. Why Was NOBODY Charged?",
+      "description": "On this week’s Epstein Update, Kait & Cliff turn to Cornell, where follow up on a student assaulted by multiple fraternity members went nowhere for 2 years. Cliff, whose mother went to Cornell, and Kait, a mother of 3 daughters, wonder how many failed for no …",
+      "url": "https://crooksandliars.com/2026/10/she-told-them-what-happened-why-was-nobody",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-10-12T11:35:39Z"
+    },
+    {
+      "title": "Lattice Semiconductor Schedules Third Quarter 2026 Results Conference Call",
+      "description": "HILLSBORO, Ore., October 12, 2026--(BUSINESS WIRE)--Lattice Semiconductor Corporation (Nasdaq: LSCC), the low power programmable and platform firmware leader, today announced that it will hold its third quarter 2026 conference call on Monday, November 2, 2026…",
+      "url": "https://biztoc.com/x/914ea98c8f10dc95",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:30:58Z"
+    },
+    {
+      "title": "Tavant Launches Mortgage Data Foundry to Advance Data-Driven Lending and AI Innovation",
+      "description": "New offering enables lenders to lower the cost of every loan and close more of their pipeline through governed real-time insights across all data sources and systems\nSANTA CLARA, Calif., October 12, 2026--(BUSINESS WIRE)--Tavant, a leading platform-powered AI…",
+      "url": "https://biztoc.com/x/faf208b553b0e1b6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:30:45Z"
+    },
+    {
+      "title": "Bloom Energy vs. Vertiv: Which AI Infrastructure Stock Is the Better Buy After the Pullback?",
+      "description": "The artificial intelligence (AI) boom is moving beyond chips and software, creating new opportunities for the companies building the infrastructure behind data centers. Bloom Energy (NYSE: BE) and Vertiv Holdings (NYSE: VRT) are two of the most interesting co…",
+      "url": "https://biztoc.com/x/51d6862c3fa88f38",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:30:27Z"
+    },
+    {
+      "title": "Buyer pays $350 for broken RTX 4090 project only to find realistic fake GPU die and swapped memory — Russian repair specialist reveals sophisticated new cam using dummy PCBs",
+      "description": "A customer paid approximately $350 for what appeared to be a repairable RTX 4090, only to receive a fake GPU with components that were painstakingly designed to resemble the real thing.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/buyer-pays-usd350-for-broken-rtx-4090-project-only-to-find-realistic-fake-gpu-die-and-swapped-memory-russian-repair-specialist-reveals-sophisticated-new-cam-using-dummy-pcbs",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-12T11:30:00Z"
+    },
+    {
+      "title": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made",
+      "description": "The post Adding Nvidia During The Current Uncertainty is How Fortunes Are Made appeared first on 24/7 Wall St..\nI have bought NVIDIA (NASDAQ:NVDA) in calm months and ugly ones. Every time the market panics about AI, I add more. Last week gave me another chanc…",
+      "url": "https://biztoc.com/x/d5909a6090370257",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:29:59Z"
+    },
+    {
+      "title": "Multiple Intel CPU Families Witness 15-20% Price Hike While AMD Is Also Expected To Raise CPU Prices Soon",
+      "description": "Another price hike has been implemented, and this time, multiple CPU families are reportedly getting affected. Intel Reportedly Increases Panther Lake Price by 15-20%; Meteor Lake, Arrow Lake, And Alder Lake Also Affected While AMD is Expected to Follow the S…",
+      "url": "https://wccftech.com/multiple-intel-cpu-families-witness-15-20-price-hike-while-amd-is-also-expected-to-raise-cpu-prices-soon",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-12T11:24:23Z"
+    },
+    {
+      "title": "Global oil buffers weaken as global conflict expands",
+      "description": "Economists and executives warned of thinning global oil buffers, with conflicts in the Middle East and Ukraine piling pressure on the energy supply chain. Goldman Sachs over the weekend raised its forecast for average year-end oil prices, warning of “downside…",
+      "url": "https://biztoc.com/x/f64267ce5bbd8ddc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:15:10Z"
+    },
+    {
+      "title": "One quiet Apple supplier may be cashing in where no one expects",
+      "description": "I’ve been watching the AI buildout for a while and noticed that some of the companies benefiting aren’t always the popular names investors look for. Most of the time, investors focus on news from Nvidia (NVDA), Microsoft (MSFT), and other big names, and it’s …",
+      "url": "https://biztoc.com/x/224d7fce2dee9d18",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:14:40Z"
+    },
+    {
+      "title": "OLED iPad Mini Could Be $200 More Expensive Than Current Model",
+      "description": "Apple's upcoming OLED iPad mini will be \"considerably more expensive\" than the current $599 model, according to Bloomberg's Mark Gurman. Writing in his latest Power On newsletter, Gurman referenced his own sources indicating a price hike, while saying his gue…",
+      "url": "https://www.macrumors.com/2026/10/12/oled-ipad-mini-more-expensive-than-current-model",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-12T11:10:16Z"
+    },
+    {
+      "title": "Apple MacBook Pro: 14\", M5 Max, 36GB RAM, 2TB SSD, Silver $3299.99",
+      "description": "Apple MacBook Pro 14 inch Laptop M5 Max chip with 18 core CPU and 32 core GPU 36GB Memory 2TB SSD Space Black - Best Buy \n \nhttps://www.bestbuy.com/product/a...=excellent",
+      "url": "https://slickdeals.net/f/20145291-apple-macbook-pro-14-m5-max-36gb-ram-2tb-ssd-silver-3299-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-12T11:06:39Z"
+    },
+    {
+      "title": "REGENXBIO to Host Investor Event Highlighting Surabgene Lomparvovec (Sura-vec) in Wet AMD on October 20",
+      "description": "Event to include clinical program overview and perspectives from leading retina specialists ahead of topline pivotal data readout anticipated in 4Q 2026 ROCKVILLE, Md., Oct. 12, 2026 /PRNewswire/ -- REGENXBIO Inc. (Nasdaq: RGNX) today announced it will host a…",
+      "url": "https://www.prnewswire.com/news-releases/regenxbio-to-host-investor-event-highlighting-surabgene-lomparvovec-sura-vec-in-wet-amd-on-october-20-302905229.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:05:00Z"
+    },
+    {
+      "title": "insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds",
+      "description": "One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…",
+      "url": "https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905480.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:00:00Z"
+    },
+    {
+      "title": "insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds",
+      "description": "One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…",
+      "url": "https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905481.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:00:00Z"
+    },
+    {
+      "title": "Lenovo Yoga 7i 2 in 1 (Open Boxes): 16\" FHD+ IPS Touch, Intel Ultra 7 256V, 16GB LPDDR5, 512GB SSD $599.99 (0 replies)",
+      "description": "Open Boxes [bestbuy.com] (YMMV) available:Excellent - $647.99\nGood - $623.99\nFair - $599.99\n\nLenovo Yoga 7i 2 in 1 16\" 2K Touchscreen Laptop Core Ultra 7 Processor 256V 2024 16GB Memory 512GB Sto",
+      "url": "https://slickdeals.net/f/20145270-lenovo-yoga-7i-2-in-1-open-boxes-16-fhd-ips-touch-intel-ultra-7-256v-16gb-lpddr5-512gb-ssd-599-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-12T10:58:33Z"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "description": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's als…",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge",
+      "publishedAt": "2026-10-12T10:56:42Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Global smartphone shipments record worst third quarter in 14 years amid memory shortage",
+      "LTTS launches EI Lab featuring NVIDIA accelerated AI-native factory",
+      "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "Applied Materials unveils $5B research facility in Silicon Valley in bid to streamline AI chipmaking"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.thehindubusinessline.com/info-tech/ltts-launches-ei-lab-featuring-nvidia-accelerated-ai-native-factory/article71575215.ece",
+        "https://biztoc.com/x/50d4a73ac0a1e75e",
+        "https://biztoc.com/x/df85736a66f5f0f4"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.channelnewsasia.com/business/global-smartphone-shipments-record-worst-third-quarter-in-14-years-amid-memory-shortage-6453266",
+        "https://www.digitimes.com/news/a20261012VL205/microsoft-azure-copilot-ai-chip-accelerator-bandwidth-tsmc.html",
+        "https://biztoc.com/x/931a1c307c987f65"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nypost.com/2026/10/12/business/applied-materials-unveils-5b-research-facility-in-silicon-valley-in-bid-to-streamline-ai-chipmaking",
+        "https://biztoc.com/x/ec4be207741d5fe7",
+        "https://cryptobriefing.com/broadcom-intel-ceos-capital-ai-bottleneck"
+      ]
+    },
+    {
+      "title": "Appeared",
+      "summary": "Grouped stories where \"appeared\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186257144",
+        "https://www.tomshardware.com/pc-components/gpus/buyer-pays-usd350-for-broken-rtx-4090-project-only-to-find-realistic-fake-gpu-die-and-swapped-memory-russian-repair-specialist-reveals-sophisticated-new-cam-using-dummy-pcbs"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations",
+        "https://www.prnewswire.com/news-releases/flexcompute-raises-strategic-investment-from-samsung-ventures-and-applied-ventures-to-build-the-physics-world-model-302903764.html",
+        "https://www.prnewswire.com/news-releases/manufacturers-ramp-up-purchasing-in-september-as-global-demand-strengthens-gep-global-supply-chain-volatility-index-302905219.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Global smartphone shipments record worst third quarter in 14 years amid memory shortage. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Global smartphone shipments record worst third quarter in 14 years amid memory shortage. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Global smartphone shipments record worst third quarter in 14 years amid memory shortage. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Global smartphone shipments record worst third quarter in 14 years amid memory shortage. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Global smartphone shipments record worst third quarter in 14 years amid memory shortage. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,341 @@
+{
+  "theme": "ai",
+  "date": "2026-10-13",
+  "last_updated_utc": "2026-10-13T13:23:49.674Z",
+  "news": [
+    {
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "description": "Microsoft will ramp up use of its homegrown artificial intelligence chips after years of reliance on Nvidia's graphics processing units, as the software giant attempts to bolster its AI stack.\nStarting with its third-generation Maia AI accelerator, unveiled o…",
+      "url": "https://biztoc.com/x/50d4a73ac0a1e75e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:15:40Z"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "description": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the “primary AI inference system” for Microsoft’s products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it’s als…",
+      "url": "https://biztoc.com/x/df85736a66f5f0f4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:15:32Z"
+    },
+    {
+      "title": "The Model as Disciplinary Agent: Anthropic’s Claude Gains the Right to Walk Away",
+      "description": "The emergence of the disciplinary agent marks a transition in how large language models interact with their users. By embedding termination capabilities directly into the interface, Anthropic is moving beyond passive content filtering toward an active, autono…",
+      "url": "https://forkast.news/the-model-as-disciplinary-agent-anthropics-claude-gains-the-right-to-walk-away",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-12T12:53:05Z"
+    },
+    {
+      "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place",
+      "description": "Australia is a relatively small country by population, with just 28 million citizens. But it has become a major hub for artificial intelligence (AI) data center projects because of its vast land mass and favorable political climate. In fact, an Australian com…",
+      "url": "https://biztoc.com/x/919fa5086edc7096",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T12:15:56Z"
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "description": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's als…",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge",
+      "publishedAt": "2026-10-12T10:56:42Z"
+    },
+    {
+      "title": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
+      "description": "Microsoft's Maia 300 chip could reshape AI hardware dynamics, challenging Nvidia's dominance and potentially altering market competition.\nThe post Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-12T13:05:13Z"
+    },
+    {
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "description": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-12T13:00:01Z"
+    },
+    {
+      "title": "Teamland Brings Claude AI Workshops to Boston, Orlando and Online, Expands Corporate AI Training Access",
+      "description": "Approved Claude SMB Trainer organization offers free hands-on workshops and private workplace AI training for businesses. TORONTO, Oct. 12, 2026 /PRNewswire/ -- Teamland, a provider of corporate AI training, is hosting hands-on Claude workshops for small busi…",
+      "url": "https://www.prnewswire.com/news-releases/teamland-brings-claude-ai-workshops-to-boston-orlando-and-online-expands-corporate-ai-training-access-302905651.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T12:33:00Z"
+    },
+    {
+      "title": "Iren Shares Rise 5% Premarket Following Reported Multi-Year AI Cloud Deal With Anthropic",
+      "description": "Iren (NASDAQ:IREN) shares climbed 5% in premarket trading on Monday following a report that the data centre operator had signed a multi-year agreement to provide artificial intelligence cloud computing services to Anthropic.\nAccording to The Information, the …",
+      "url": "https://biztoc.com/x/f6600e92583dac5c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T12:17:07Z"
+    },
+    {
+      "title": "HCLTech signs pact with Anthropic to set up dedicated AI business unit",
+      "description": "HCLTech will set up a dedicated business unit and centre to develop AI solutions using Anthropic's Claude models and support their enterprise adoption",
+      "url": "https://www.business-standard.com/companies/news/hcltech-signs-pact-with-anthropic-to-set-up-dedicated-ai-business-unit-126101200830_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-12T12:09:56Z"
+    },
+    {
+      "title": "HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic AI across global enterprises",
+      "description": "HCLTech to establish a dedicated Anthropic Business Unit and Center of Excellence (CoE) to accelerate deployments of Claude in enterprise environments HCLSoftware becomes an Anthropic ISV partner, embedding Claude and Claude Code into select enterprise produc…",
+      "url": "https://www.prnewswire.com/news-releases/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises-302905630.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T12:03:00Z"
+    },
+    {
+      "title": "HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic AI across global enterprises",
+      "description": "HCLTech to establish a dedicated Anthropic Business Unit and Center of Excellence (CoE) to accelerate deployments of Claude in enterprise environments HCLSoftware becomes an Anthropic ISV partner, embedding Claude and Claude Code into select enterprise produc…",
+      "url": "https://www.prnewswire.com/news-releases/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises-302905626.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:56:00Z"
+    },
+    {
+      "title": "Can we trust OpenAI and Anthropic to monitor their own technology?",
+      "description": "In today’s CEO Daily: Anthropic and OpenAI’s models keep going rogue\nThe big leadership story: Americans are uniting against data centers\nThe markets: Korea plunges amid a choppy day in Asia\nPlus: All the news and watercooler chat from Fortune.\nGood morning. …",
+      "url": "https://biztoc.com/x/8bc06ad8970f8008",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T09:59:09Z"
+    },
+    {
+      "title": "Anthropic, OpenAI face scrutiny over AI security incidents",
+      "description": "AI security lapses raise doubts about self-monitoring, impacting market confidence and potentially shifting leadership in AI model rankings.\nThe post Anthropic, OpenAI face scrutiny over AI security incidents appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-openai-face-scrutiny-over-ai-security-incidents",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-12T09:48:09Z"
+    },
+    {
+      "title": "LTTS launches EI Lab featuring NVIDIA accelerated AI-native factory",
+      "description": "LTTS launches EI Lab with NVIDIA to showcase AI-native manufacturing, digital twins, and autonomous systems on the shop floor.",
+      "url": "https://www.thehindubusinessline.com/info-tech/ltts-launches-ei-lab-featuring-nvidia-accelerated-ai-native-factory/article71575215.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-12T13:17:54Z"
+    },
+    {
+      "title": "The happiest man in gaming hates generative AI",
+      "description": "It's impossible to not be swept up in Tarn Adams' enthusiasm. To speak to him is to feel like you're talking to the happiest man in gaming. Along with his brother Zach, he's been working on the wonderfully chaotic procedurally generated world of Dwarf Fortres…",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-10-12T13:11:17Z"
+    },
+    {
+      "title": "Flex Expands Prefabricated Modular Data Center Portfolio to Accelerate AI Factory Deployment",
+      "description": "Integrated solutions combine power, compute and cooling to speed deployment by up to 50% News summary Introduces AI Modules that integrate power, compute and cooling in prefabricated modular solutions to accelerate AI factory deployment by up to 50% Enables f…",
+      "url": "https://www.prnewswire.com/news-releases/flex-expands-prefabricated-modular-data-center-portfolio-to-accelerate-ai-factory-deployment-302905201.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T13:05:00Z"
+    },
+    {
+      "title": "Celestica Introduces the DS6005 Data Center Switch with Co-Packaged Optics to Enable Power-Efficient AI Fabrics",
+      "description": "New 102.4Tbps, 1.5OU fully liquid-cooled system is designed to increase bandwidth density and reduce power in OCP ORv3 deployments TORONTO, Oct. 12, 2026 (GLOBE NEWSWIRE) — Celestica Inc. (NYSE: CLS) (TSX: CLS), a global leader in data center infrastructure a…",
+      "url": "https://financialpost.com/globe-newswire/celestica-introduces-the-ds6005-data-center-switch-with-co-packaged-optics-to-enable-power-efficient-ai-fabrics",
+      "source": "Financial Post",
+      "publishedAt": "2026-10-12T13:01:38Z"
+    },
+    {
+      "title": "Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse?",
+      "description": "The post Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse? appeared first on 24/7 Wall St..\nOracle (NYSE:ORCL) and Broadcom (NASDAQ:AVGO) both reported in September, and both now sit in the middle of the AI credit scare. Oracle borrows mon…",
+      "url": "https://biztoc.com/x/04cc3e8c353326a2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T13:00:25Z"
+    },
+    {
+      "title": "Microsoft unveils Maia 300, its most powerful AI chip yet - and it might make using Teams, Copilot and Cowork much better at last",
+      "description": "Maia 300 is designed for the next generation of AI workloads, offering greater efficiency and power.",
+      "url": "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-12T13:00:00Z"
+    },
+    {
+      "title": "Coder creates NvidiaWatch tracker site that monitors hundreds of GPU driver bugs",
+      "description": "This page aggregates Nvidia's driver updates to make issues easier to track.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/coder-creates-nvidiawatch-tracker-site-that-monitors-hundreds-of-gpu-driver-bugs-site-charts-open-issues-fixes-and-forum-feedback-across-updates",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-12T12:00:00Z"
+    },
+    {
+      "title": "Pennsylvania Launches Map for Americans To Track Data Center Plans",
+      "description": "Pennsylvania has launched a public map allowing residents to track proposed data centers seeking environmental permits.\nThe expansion of artificial intelligence infrastructure is becoming an increasingly prominent issue ahead of the 2026 U.S. midterm election…",
+      "url": "https://biztoc.com/x/e73d56c01fa35318",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:45:07Z"
+    },
+    {
+      "title": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made",
+      "description": "The post Adding Nvidia During The Current Uncertainty is How Fortunes Are Made appeared first on 24/7 Wall St..\nI have bought NVIDIA (NASDAQ:NVDA) in calm months and ugly ones. Every time the market panics about AI, I add more. Last week gave me another chanc…",
+      "url": "https://biztoc.com/x/d5909a6090370257",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T11:29:59Z"
+    },
+    {
+      "title": "India's HCLTech signs a pact with Anthropic, to set up business unit",
+      "description": "BENGALURU, Oct 12 : India's HCLTech on Monday signed a partnership Anthropic to accelerate enterprise adoption of Agentic AI with a focus on safety, cybersecurity and governance. • HCLTech will establish a dedicated business unit with a centre of excellence t…",
+      "url": "https://www.channelnewsasia.com/business/indias-hcltech-signs-pact-anthropic-set-up-business-unit-6452836",
+      "source": "CNA",
+      "publishedAt": "2026-10-12T11:05:33Z"
+    },
+    {
+      "title": "insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds",
+      "description": "One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…",
+      "url": "https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905480.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:00:00Z"
+    },
+    {
+      "title": "insidepacket Launches the AI Access Platform: One On-Ramp Between Enterprises and GPU Clouds",
+      "description": "One access solution: providers sell it under their brand; operators run it as their marketplace; enterprises reach participating compute providers in minutes. PALO ALTO, Calif. and LONDON, Oct. 12, 2026 /PRNewswire/ -- insidepacket today announced the AI Acce…",
+      "url": "https://www.prnewswire.com/news-releases/insidepacket-launches-the-ai-access-platform-one-on-ramp-between-enterprises-and-gpu-clouds-302905481.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T11:00:00Z"
+    },
+    {
+      "title": "This Graph of Data Center Spending Compared to All Other Construction Will Give You Chills",
+      "description": "Against all odds, the US economy continues to grow at a record-setting pace. Yet as new economic data shows, that growth is anything but healthy, and predicated almost entirely on the AI boom.\nA new essay by podcaster and writer Derek Thompson takes a look at…",
+      "url": "https://biztoc.com/x/947e4d5151d1cb7f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T10:29:30Z"
+    },
+    {
+      "title": "Milk faces more regulation than AI - Microsoft president",
+      "description": "Artificial Intelligence needs urgent global regulation with independent evaluators able to vet new developments, the president of Microsoft said, warning that AI currently faces fewer safety requirements than milk.",
+      "url": "https://www.rte.ie/news/business/2026/1012/1595009-brad-smith-on-ai-regulation",
+      "source": "RTE",
+      "publishedAt": "2026-10-12T10:16:37Z"
+    },
+    {
+      "title": "Digest: OpenAI Wants ChatGPT Ads in Agency Media Plans; Xbox Launches Film and TV Division",
+      "description": "In today’s MadTech Daily, we discuss OpenAI targeting a permanent place in agency ad budgets, Xbox launching a film and TV division, and advertising spend dropping 3.4% in August.\nThe post Digest: OpenAI Wants ChatGPT Ads in Agency Media Plans; Xbox Launches …",
+      "url": "https://www.exchangewire.com/blog/2026/10/12/digest-openai-wants-chatgpt-ads-in-agency-media-plans-xbox-launches-film-and-tv-division",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-10-12T10:10:08Z"
+    },
+    {
+      "title": "Nvidia in discussions to acquire or expand stake in Reflection AI",
+      "description": "Nvidia is in early discussions to either increase its investment in Reflection AI or potentially acquire the US-based open-source AI start-up, the Financial Times reported, citing sources familiar with the matter.\nReflection AI, which develops open-weight mod…",
+      "url": "https://biztoc.com/x/dce4d71b23ef5340",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T09:59:57Z"
+    },
+    {
+      "title": "Sea and OpenAI bring Regional Codex Hackathon to Malaysia with over RM200K in API credits up for grabs",
+      "description": "Technology company Sea and artificial intelligence research firm OpenAI have officially announced the Malaysian edition of their Regional Codex Hackathon Series. Scheduled to take place at the Mandarin Oriental in Kuala Lumpur on Saturday, 5 December 2026, th…",
+      "url": "https://soyacincau.com/2026/10/12/sea-and-openai-bring-regional-codex-hackathon-to-malaysia-with-over-rm200k-in-api-credits-up-for-grabs",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-10-12T09:49:30Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "The Model as Disciplinary Agent: Anthropic’s Claude Gains the Right to Walk Away",
+      "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place",
+      "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/50d4a73ac0a1e75e",
+        "https://biztoc.com/x/df85736a66f5f0f4",
+        "https://biztoc.com/x/919fa5086edc7096"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://forkast.news/the-model-as-disciplinary-agent-anthropics-claude-gains-the-right-to-walk-away",
+        "https://biztoc.com/x/f6600e92583dac5c",
+        "https://www.business-standard.com/companies/news/hcltech-signs-pact-with-anthropic-to-set-up-dedicated-ai-business-unit-126101200830_1.html"
+      ]
+    },
+    {
+      "title": "Microsoft",
+      "summary": "Grouped stories where \"microsoft\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/microsoft-unveils-maia-300-its-most-powerful-ai-chip-yet-and-it-might-make-using-teams-copilot-and-cowork-much-better-at-last",
+        "https://www.rte.ie/news/business/2026/1012/1595009-brad-smith-on-ai-regulation"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/flex-expands-prefabricated-modular-data-center-portfolio-to-accelerate-ai-factory-deployment-302905201.html",
+        "https://financialpost.com/globe-newswire/celestica-introduces-the-ds6005-data-center-switch-with-co-packaged-optics-to-enable-power-efficient-ai-fabrics",
+        "https://biztoc.com/x/e73d56c01fa35318"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/teamland-brings-claude-ai-workshops-to-boston-orlando-and-online-expands-corporate-ai-training-access-302905651.html",
+        "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+        "https://biztoc.com/x/04cc3e8c353326a2"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
