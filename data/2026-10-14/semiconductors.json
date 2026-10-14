@@ -1,0 +1,431 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-14",
+  "last_updated_utc": "2026-10-14T11:03:09.805Z",
+  "news": [
+    {
+      "title": "The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs",
+      "description": "The ESP32-S31 can still blink an LED. It just does way more first.",
+      "url": "https://www.makeuseof.com/new-esp32-wi-fi-6-gigabit-ethernet-chip-blink-leds",
+      "source": "MakeUseOf",
+      "publishedAt": "2026-10-13T11:00:16Z"
+    },
+    {
+      "title": "U.S. Chip Firms Bet Big on R&D",
+      "description": "On 12 October Applied Materials unveiled a multi-billion dollar research facility in Sunnyvale, California, at the heart of Silicon Valley. The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercia…",
+      "url": "https://spectrum.ieee.org/semiconductor-research",
+      "source": "Ieee.org",
+      "publishedAt": "2026-10-13T11:00:05Z"
+    },
+    {
+      "title": "What to expect from Europe’s most valuable company before it kicks off tech earnings",
+      "description": "ASML will report its third-quarter financial earnings before the opening bell in Amsterdam, Netherlands on Wednesday.",
+      "url": "https://biztoc.com/x/b876539c79ecab6c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T10:56:38Z"
+    },
+    {
+      "title": "The Deep Value Play for Growth Investors Isn't Artificial Intelligence, It's This Forgotten Industry",
+      "description": "Investing in artificial intelligence (AI) stocks has been all the rage in recent years. Nvidia, Palantir Technologies, and Broadcom have been among the most popular investments due to their impressive results and growth potential.\nBut valuations are high, and…",
+      "url": "https://biztoc.com/x/6f69f829f85f4b0b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T10:55:30Z"
+    },
+    {
+      "title": "SoftBank Group (TSE:9984) Shares Fall On AI Financing Concerns",
+      "description": "SoftBank Group (TSE:9984) joined a broad pullback in Asian tech shares on 12 October 2026 after fresh AI financing concerns.\n- Investors reacted to reports that ChangXin Memory Technologies in China has advanced its chip architecture, sharpening competition i…",
+      "url": "https://biztoc.com/x/e820a173797b38da",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T10:55:13Z"
+    },
+    {
+      "title": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
+      "description": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack &mdash; $71 million and counting thanks to implanted eSIM and LTE modules\n                                                                     …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186294336",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-13T10:52:36Z"
+    },
+    {
+      "title": "Broadcom: The More Google Designs, The More It May Need Hock Tan",
+      "description": "Summary\n- Broadcom remains a buy as its AI semiconductor revenue surges, supported by deep engineering partnerships with Google, OpenAI, and Meta.\n- AVGO's 3.5D XDSiP platform and advanced chip packaging expertise are critical as Moore's Law slows and custome…",
+      "url": "https://biztoc.com/x/ab16466622050684",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T10:41:33Z"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. The company has been investigating reports of users losing funds from w…",
+      "url": "https://slashdot.org/submission/17351462/ledger-confirms-spy-chip-implant-behind-wallet-crypto-thefts",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-13T10:41:05Z"
+    },
+    {
+      "title": "iPhone Takes Bigger Slice of a Shrinking Smartphone Market",
+      "description": "Apple's share of worldwide smartphone shipments rose to a third-quarter record of 22% in the third quarter of 2026, despite a decline in its own iPhone shipments, according to preliminary figures from Counterpoint Research.\n\n\n\n\n\nApple finished the quarter jus…",
+      "url": "https://www.macrumors.com/2026/10/13/iphone-takes-bigger-slice-of-shrinking-market",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-13T10:32:57Z"
+    },
+    {
+      "title": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
+      "description": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack — $71 million and counting thanks to implanted eSIM and LTE modules",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-13T10:30:00Z"
+    },
+    {
+      "title": "BotSharp’s Starter Ships a Hard-Coded Signing Key. Every Agent Built On It Inherits the Forgery Path.",
+      "description": "The signing key for the framework’s login tokens sits in the starter template’s configuration file, in the repository, in plain text. This flaw, identified as CVE-2026-108860, represents a failure of trust-through-defaults at the supply-chain layer. A framewo…",
+      "url": "https://forkast.news/botsharps-starter-ships-a-hard-coded-signing-key-every-agent-built-on-it-inherits-the-forgery-path",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-13T10:14:42Z"
+    },
+    {
+      "title": "Prediction: A $1,000 Investment in TSMC Stock Will More Than Double by 2030. Here’s Why You Should Buy It Before Oct. 15",
+      "description": "Taiwan Semiconductor Manufacturing (NYSE:TSM), popularly known as TSMC, has been one of the biggest beneficiaries of the global chip boom, primarily due to its position as the largest semiconductor foundry that manufactures chips for major consumer electronic…",
+      "url": "https://biztoc.com/x/7239d5f8be7c221b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T10:09:35Z"
+    },
+    {
+      "title": "How AI coding tools could amplify software supply-chain attacks",
+      "description": "AI coding tools are changing how developers obtain and use software. But the growing volume of automated package installations is creating new challenges for enterprise security teams. A vulnerability uncovered by Bloom Security demonstrates how weaknesses in…",
+      "url": "https://thenextweb.com/news/npm-trusted-publishing-flaw-ai-agents-slugfest",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-13T10:00:34Z"
+    },
+    {
+      "title": "Axera Claims AX8860 AI Chip Can Beat the DGX Spark in AI LLMs by 25%, Offering 273 GB/s Bandwidth, 128 GB LP5X Memory, All at 40W While A 4-Module PCIe Card Pumps Out Over 1000 TOPs",
+      "description": "Axera has unveiled its latest AI chip, the AX8860, which is being claimed to offer a 25% speed-up over the DGX Spark at half the price & at 40W. Axera's AX8860 AI Chip Offers 128 GB Memory At Half The Price of The DGX Spark & Runs AI LLMs 25-30% Faster Chines…",
+      "url": "https://wccftech.com/axera-ax8860-ai-chip-beat-dgx-spark-ai-llms-128-gb-memory-40w-less-cost",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-13T10:00:10Z"
+    },
+    {
+      "title": "Displacive feature and kinetics of the first-order β-Sn to γ-Sn transition under rapid compression",
+      "description": "A first-order structural phase transition is typically a displacive or reconstructive transformation. The latter has been considered a nondirect group--subgroup symmetry transition. However, with an alternative pathway, recent group-theoretical symmetry analy…",
+      "url": "https://link.aps.org/doi/10.1103/yzqf-mh8g",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-13T10:00:00Z"
+    },
+    {
+      "title": "Dissipative Kerr soliton self-balancing from Kerr-induced synchronization",
+      "description": "Author(s): Pradyoth Shandilya, Kartik Srinivasan, Curtis Menyuk, and Grégory MoilleThe authors demonstrate how locking an on-chip frequency comb to a reference laser induces a mechanism that redistributes energy across the spectrum of comb lines. By tapping i…",
+      "url": "https://link.aps.org/doi/10.1103/921d-nf7h",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-13T10:00:00Z"
+    },
+    {
+      "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition",
+      "description": "South Korean stocks tumbled in particular, as reports of a breakthrough by a Chinese chip rival heightened concerns about competition.",
+      "url": "https://biztoc.com/x/2f8b03761719f17c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:59:51Z"
+    },
+    {
+      "title": "Alphabet’s Ruth Porat brings a pragmatic optimism to the AI race—and a warning about the possible downsides",
+      "description": "In today’s CEO Daily: Dispatches from the Most Powerful Women Summit\nThe big leadership story: More than half of all U.S. work hours might be automated by 2035\nThe markets: More frantic selling in Asia as chip stocks nosedive\nPlus: All the news and watercoole…",
+      "url": "https://biztoc.com/x/b549e9803b1136ff",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:59:46Z"
+    },
+    {
+      "title": "Cucumbers, curd and chips: Soha Ali Khan shares a quick, crunchy and hydrating snack",
+      "description": "Soha Ali Khan shares a delightful and easy-to-follow recipe for cucumber boats, a deliciously nutritious snack perfect for any occasion. Utilizing simple ingredients like cucumbers, hung curd, and chips, this healthy treat is perfect for those aiming for well…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/cucumbers-curd-and-chips-soha-ali-khan-shares-a-quick-crunchy-and-hydrating-snack/articleshow/134914215.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-13T09:55:26Z"
+    },
+    {
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’",
+      "description": "Shares in semiconductor companies fell on Tuesday after the boss of Broadcom compared many AI investors to “casino” gamblers, and the Chinese memory chip maker CXMT said it had made good progress on a new chip architecture.\nSouth Korea’s benchmark Kospi index…",
+      "url": "https://biztoc.com/x/ce61d9b45561838a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:53:38Z"
+    },
+    {
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "description": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network\nThe hardware-wallet maker gave its first public account of how a covert component in devices sold by CryptoBilis could steal users’ master keys without changi…",
+      "url": "https://biztoc.com/x/281e5b6edfc09a55",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:53:28Z"
+    },
+    {
+      "title": "Rellia by Anxietype Foundry",
+      "description": "Free download of Rellia Font. Released in 2026 by Anxietype Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/rellia-font-f170971",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-10-13T09:51:17Z"
+    },
+    {
+      "title": "Miracle Friday by Anxietype Foundry",
+      "description": "Free download of Miracle Friday Font. Released in 2026 by Anxietype Foundry and licensed for personal-use only. Use our font generator to create a custom image that you can download.",
+      "url": "https://www.fontspace.com/miracle-friday-font-f170969",
+      "source": "Fontspace.com",
+      "publishedAt": "2026-10-13T09:47:36Z"
+    },
+    {
+      "title": "[SnS, AC] $11.52* | 40-pk 0.85-oz Lay's Kettle Cooked Variety Pack Potato Chips at Amazon (28.8ï¿  each) (0 replies)",
+      "description": "Amazon [amazon.com] has 40-pk 0.85-oz Lay's Kettle Cooked Variety Pack Potato Chips for $13.56 - 10% at checkout - 5% when you check out via Subscribe & Save = $11.52.\nShipping is free with P",
+      "url": "https://slickdeals.net/f/20151264-sns-ac-11-52-40-pk-0-85-oz-lay-s-kettle-cooked-variety-pack-potato-chips-at-amazon-28-8-each",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-13T09:46:39Z"
+    },
+    {
+      "title": "Large businesses must help MSMEs upgrade, build competitiveness, says MSME secretary Khera",
+      "description": "MEME ministry secretary Bharat Khera has called for greater technology transfer, vendor development and supply chain integration as smaller firms face global disruptions and rising costs.",
+      "url": "https://www.livemint.com/industry/india-msmes-technology-upgrade-supply-chain-exports-11791879100094.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-13T09:46:23Z"
+    },
+    {
+      "title": "SLTF The Loneta Editorial Typeface by SilverStag Type Foundry",
+      "description": "The Loneta Editorial makes a bet many font families avoid. It ships with only two styles, Regular and Italic, and nothing else.\nDownload from Creative Market.\nFollow WE AND THE COLOR: Facebook /...",
+      "url": "https://www.tumblr.com/weandthecolor/830350976045187072/sltf-the-loneta-editorial-typeface-by-silverstag",
+      "source": "Tumblr.com",
+      "publishedAt": "2026-10-13T09:39:59Z"
+    },
+    {
+      "title": "Elon Musk just nailed it on why chip stocks like Micron and Sandisk are being drilled on surprising news out of China",
+      "description": "Elon Musk just nailed it on why chip stocks like Micron and Sandisk are being drilled on surprising news out of China\nHot chip stocks like Micron (MU) and Sandisk (SNDK) are taking it on the chin out of the gate this week.\nAsk the world's richest person, Elon…",
+      "url": "https://biztoc.com/x/08dafb8208eef17a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:39:26Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'",
+      "description": "AMD CEO Lisa Su said AI inference and agentic workloads are driving demand for AI infrastructure.\n- She expects CPU demand could grow 50% annually to exceed $200 billion by 2030.\n- AMD has begun shipping its Helios AI racks to major customers, including Meta,…",
+      "url": "https://biztoc.com/x/f1d4b464335bfe10",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:38:55Z"
+    },
+    {
+      "title": "Global chip selloff deepens as AI worries, China competition weigh",
+      "description": "Investing.com -- Shares of U.S. and European chipmakers fell Tuesday as a selloff in AI-exposed stocks deepened, pulling the broader technology sector lower amid concerns over the sustainability of AI investment and intensifying competition.\nIn U.S. premarket…",
+      "url": "https://biztoc.com/x/16f9730895b48da9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:38:45Z"
+    },
+    {
+      "title": "President Donald Trump's Investment Team Dumped AMD in August and Bought Up to $25 Million in One of the Cheapest \"Magnificent Seven\" Stocks",
+      "description": "Several of the world's savviest billionaire money managers oversee hundreds of trades per quarter. But this pales in comparison to President Donald Trump's independent, third-party investment team, which has executed more than 29,000 trades in stocks, exchang…",
+      "url": "https://biztoc.com/x/97977cf887112008",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:38:33Z"
+    },
+    {
+      "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer",
+      "description": "Nvidia (NVDA -1.29%) and Advanced Micro Devices (AMD -2.28%) are similar companies. While AMD's consumer business is larger and it has a wider product lineup, these two compete head-to-head in arguably the most important technological battle in the world: GPU…",
+      "url": "https://biztoc.com/x/beb91813db3f5780",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:38:23Z"
+    },
+    {
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "description": "The hardware-wallet maker gave its first public account of how a covert component in devices sold by CryptoBilis could steal users’ master keys without changing Ledger’s software.",
+      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-13T09:27:47Z"
+    },
+    {
+      "title": "Hitachi Energy, E2E Networks, Anant Raj, other AI-linked stocks slide up to 5% as global AI rout hits Indian markets",
+      "description": "Indian AI- and energy-linked stocks decline as a global technology sell-off deepens, with South Korea’s KOSPI plunging amid intensifying competition in the AI sector. Investors reassess AI valuations following sharp losses in Asian semiconductor stocks.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-e2e-networks-anant-raj-other-ai-linked-stocks-slide-up-to-5-as-global-ai-rout-hits-indian-markets/articleshow/134913521.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-13T09:19:29Z"
+    },
+    {
+      "title": "SLTF The Loneta Editorial Typeface by SilverStag Type Foundry",
+      "description": "The Loneta Editorial Gives Magazines a High-Contrast Serif and a Handwritten Italic The Loneta Editorial makes a bet many font families avoid. It ships with only two styles, Regular and Italic, and nothing else. I like that bet. SilverStag Type Foundry drew a…",
+      "url": "https://weandthecolor.com/sltf-the-loneta-editorial-typeface-by-silverstag-type-foundry/212643",
+      "source": "Weandthecolor.com",
+      "publishedAt": "2026-10-13T09:18:18Z"
+    },
+    {
+      "title": "Cheap Android Phones Are Shipping With Malware That Can’t Be Uninstalled, Infecting Thousands Across 150 Countries: Bitdefender",
+      "description": "Thousands of budget Android phone owners around the world have been hit with malware that was already on their devices before they ever switched them on. The malware, dubbed Midnight Mimosa, is baked into the firmware of low-cost Android phones built on Media…",
+      "url": "https://dailyhodl.com/2026/10/13/cheap-android-phones-are-shipping-with-malware-that-cant-be-uninstalled-infecting-thousands-across-150-countries-bitdefender",
+      "source": "The Daily Hodl",
+      "publishedAt": "2026-10-13T09:15:22Z"
+    },
+    {
+      "title": "What America Should Learn From Sweden's State Ownership Failure | Opinion",
+      "description": "The most unlikely bipartisan issue in the United States right now is state ownership of the means of production. Donald Trump is turning Uncle Sam into a stock picker. His administration has now taken or agreed to take equity positions in 34 companies, includ…",
+      "url": "https://biztoc.com/x/e9798eba84905a00",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:08:27Z"
+    },
+    {
+      "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
+      "description": "The trillion-dollar AI race is moving from software to silicon, as Microsoft's massive bet on its proprietary Maia chips proves Big Tech wants to wean itself off Nvidia's dominance.\nWhy it matters: Microsoft's plan to power its AI products with custom silicon…",
+      "url": "https://biztoc.com/x/78e3467c3848e03a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T09:03:38Z"
+    },
+    {
+      "title": "Ohio State gained ground with several recruits following Maryland win",
+      "description": "Ohio State played host to a handful of recruits for the Maryland game and gained ground with multiple blue-chip prospects",
+      "url": "https://www.landgrantholyland.com/ohio-state-recruiting/123732/ohio-state-buckeyes-2028-recruiting-gained-with-multiple-recruits-following-maryland-win",
+      "source": "Land-Grant Holy Land",
+      "publishedAt": "2026-10-13T09:01:00Z"
+    },
+    {
+      "title": "Foundry Kingdom, a new typeface for the people.",
+      "description": "Rooted in the early English grotesques of the 19th century, Foundry Kingdom carries an industrial echo of cast metal, railway lettering, and newspaper type battered by use",
+      "url": "https://www.slanted.de/foundry-kingdom-a-new-typeface-for-the-people",
+      "source": "Slanted.de",
+      "publishedAt": "2026-10-13T09:00:20Z"
+    },
+    {
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "description": "Ledger Donjon found implants used microcontrollers to read 24-word setup phrases and send them over LTE, without compromising security chips or altering transactions.",
+      "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-10-13T08:45:10Z"
+    },
+    {
+      "title": "Global Market: AI trade faces biggest test yet as chip stocks tumble across Asia",
+      "description": "Asian AI stocks tumbled as rising bond yields, higher financing costs, and concerns over excessive infrastructure spending weakened investor confidence. South Korea’s Kospi and Japan’s chipmakers suffered sharp losses, while AI-related funding faced tougher s…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-trade-faces-biggest-test-yet-as-chip-stocks-tumble-across-asia/articleshow/134912693.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-13T08:42:11Z"
+    },
+    {
+      "title": "Acer Nitro V16 Core 7 240H 16\" Gaming Laptop for $1,350 + free shipping",
+      "description": "At Newegg, get the Acer Nitro V16 Core 7 240H 16\" Gaming Laptop for $1350. That's a savings of $350. Shipping is free. Buy Now at Newegg\r\n Features\r\n <ul> <li>Intel Core 7 240H processor with speeds up to 5.2GHz</li> <li>GeForce RTX 5060 Laptop GPU w/ 8GB of …",
+      "url": "https://www.dealnews.com/Acer-Nitro-V16-Core-7-240-H-16-Gaming-Laptop-for-1-350-free-shipping/22279234.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-13T08:41:31Z"
+    },
+    {
+      "title": "Nikkei Falls 1,253 Points as AI and Chip Selloff Hits Tokyo",
+      "description": "Tokyo stocks fell sharply on October 13, with the Nikkei 225 closing at 67,778, down 1,253 points, as selling in artificial intelligence and semiconductor-related shares dragged the headline index below 68,000 after a three-day holiday weekend. (News On Japan)",
+      "url": "https://newsonjapan.com/article/151035.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-10-13T08:39:37Z"
+    },
+    {
+      "title": "Intel optimizes IPv6 networking into nothingness, say users",
+      "description": "If you're encountering some odd IPv6 networking issues, the culprit might be the Intel Connectivity Performance Suite (ICPS), although the chipmaker has kept quiet about the problem. A Samsung Galaxy Book owner contacted The Register about some decidedly odd …",
+      "url": "https://biztoc.com/x/35b5d9b51b73ff5c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-13T08:38:13Z"
+    },
+    {
+      "title": "ZOTAC Gaming MEK RTX 5050 Ryzen 5 5500 Gaming Desktop PC for $880 + free shipping",
+      "description": "At Newegg, get the ZOTAC Gaming MEK RTX 5050 Ryzen 5 5500 Gaming Desktop PC for $880. That's a savings of $120. Shipping is free. Buy Now at Newegg\r\n Features\r\n <ul> <li>AMD Ryzen 5 5500 processor with 6 cores and 12 threads, up to 4.2GHz</li> <li>NVIDIA GeFo…",
+      "url": "https://www.dealnews.com/ZOTAC-Gaming-MEK-RTX-5050-Ryzen-5-5500-Gaming-Desktop-PC-for-880-free-shipping/22279233.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-13T08:36:28Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs",
+      "U.S. Chip Firms Bet Big on R&D",
+      "What to expect from Europe’s most valuable company before it kicks off tech earnings",
+      "The Deep Value Play for Growth Investors Isn't Artificial Intelligence, It's This Forgotten Industry",
+      "SoftBank Group (TSE:9984) Shares Fall On AI Financing Concerns"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.makeuseof.com/new-esp32-wi-fi-6-gigabit-ethernet-chip-blink-leds",
+        "https://spectrum.ieee.org/semiconductor-research",
+        "https://biztoc.com/x/e820a173797b38da"
+      ]
+    },
+    {
+      "title": "Chips",
+      "summary": "Grouped stories where \"chips\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186294336",
+        "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets",
+        "https://economictimes.indiatimes.com/magazines/panache/cucumbers-curd-and-chips-soha-ali-khan-shares-a-quick-crunchy-and-hydrating-snack/articleshow/134914215.cms"
+      ]
+    },
+    {
+      "title": "Foundry",
+      "summary": "Grouped stories where \"foundry\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.fontspace.com/rellia-font-f170971",
+        "https://www.fontspace.com/miracle-friday-font-f170969",
+        "https://www.tumblr.com/weandthecolor/830350976045187072/sltf-the-loneta-editorial-typeface-by-silverstag"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/b876539c79ecab6c",
+        "https://biztoc.com/x/6f69f829f85f4b0b",
+        "https://www.macrumors.com/2026/10/13/iphone-takes-bigger-slice-of-shrinking-market"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
