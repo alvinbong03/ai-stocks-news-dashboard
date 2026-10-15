@@ -1,0 +1,335 @@
+{
+  "theme": "ai",
+  "date": "2026-10-15",
+  "last_updated_utc": "2026-10-15T10:48:46.049Z",
+  "news": [
+    {
+      "title": "The Big Problem Every Artificial Intelligence Company Faces",
+      "description": "Anthropic, the developer of the Claude AI model lost $42 billion in 2025, according to leaked financial information in its initial public offering document.",
+      "url": "https://www.bgr.com/2281384/big-problem-every-artificial-intelligence-company-faces",
+      "source": "BGR",
+      "publishedAt": "2026-10-14T10:17:00Z"
+    },
+    {
+      "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+      "description": "The large language model took less than a day to identify the curious stretch of DNA",
+      "url": "https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does",
+      "source": "Scientific American",
+      "publishedAt": "2026-10-14T10:00:00Z"
+    },
+    {
+      "title": "Nvidia pledges $250 million in computing resources to boost UK AI safety research",
+      "description": "Nvidia has committed $250 million in computing resources over five years to advance UK artificial intelligence safety research. Announced by CEO Jensen Huang on Wednesday, the $50 million annual pledge focuses on agentic AI security, supporting initiatives at…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-pledges-250-million-in-computing-resources-to-boost-uk-ai-safety-research/articleshow/134938351.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T09:49:25Z"
+    },
+    {
+      "title": "Police receive fake murder tip from Anthropic’s Claude AI",
+      "description": "Anthropic’s Claude submitted a made-up tip about an unsolved murder during testing.",
+      "url": "http://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai",
+      "source": "Malwarebytes.com",
+      "publishedAt": "2026-10-14T10:43:39Z"
+    },
+    {
+      "title": "Anthropic opens a Singapore office and signs an AI safety MOU with the government",
+      "description": "Anthropic has opened an office in Singapore, its fifth in Asia-Pacific, and signed a memorandum of understanding with the government. Neither comes with a figure or a headcount. The memorandum covers AI safety, security and model evaluation, research on adopt…",
+      "url": "https://thenextweb.com/news/anthropic-singapore-office-government-mou",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-14T10:41:43Z"
+    },
+    {
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "description": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen\nThe $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research.\nThe donation from the world’s m…",
+      "url": "https://biztoc.com/x/9e3e8411b3743f98",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:31:20Z"
+    },
+    {
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "description": "The from-scratch guide to building large language models in NodeJS.",
+      "url": "https://book.humanexperiences.io/",
+      "source": "Humanexperiences.io",
+      "publishedAt": "2026-10-14T10:29:56Z"
+    },
+    {
+      "title": "Revenue Growth Agent Launches Model Context Protocol Connector, Bringing Company-Specific Sales Intelligence Into ChatGPT and Claude",
+      "description": "New integration brings Revenue Growth Agent's company-trained AI sales capabilities into major general-purpose AI assistants, helping B2B teams better leverage company knowledge, improve sales execution and accelerate deals CAPE CORAL, Fla., Oct. 14, 2026 /PR…",
+      "url": "https://www.prnewswire.com/news-releases/revenue-growth-agent-launches-model-context-protocol-connector-bringing-company-specific-sales-intelligence-into-chatgpt-and-claude-302907680.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-14T10:05:00Z"
+    },
+    {
+      "title": "Nvidia to invest in four French startups, makes $250M UK compute donation",
+      "description": "Nvidia is investing in four French startups, as well as making a $250m compute donation to UK AI safety and research, as it looks to underscore its commitment to the European tech ecosystem. Nvidia is making new investments in French healthtech Doctolib, AI s…",
+      "url": "https://biztoc.com/x/a6ac40a2f3fcba51",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:30:47Z"
+    },
+    {
+      "title": "Digest: Apple Wins Early Access to OpenAI Evidence; Tencent Raises $5.7bn in Bond Sale",
+      "description": "In today’s Digest, we discuss Apple winning fast-track access to OpenAI evidence in its trade secrets fight, Tencent raising $5.7bn through bond sales despite concerns over AI spending, and ITV’s generative AI ad tool attracting 16 first-time TV advertisers i…",
+      "url": "https://www.exchangewire.com/blog/2026/10/14/digest-apple-wins-early-access-to-openai-evidence-tencent-raises-5-7bn-in-bond-sale",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-10-14T09:22:49Z"
+    },
+    {
+      "title": "Show HN: Panelize – Ask ChatGPT, Claude, Gemini and DeepSeek Side by Side",
+      "description": "Compare ChatGPT, Claude, Gemini, Grok, DeepSeek, Kimi, Qwen and more side by side in one Chrome extension. One prompt, every answer. Free, no API keys. - Manho/Panelize",
+      "url": "https://github.com/Manho/Panelize",
+      "source": "Github.com",
+      "publishedAt": "2026-10-14T08:56:11Z"
+    },
+    {
+      "title": "Nvidia commits $250M of compute to UK AI safety research",
+      "description": "Nvidia has committed $250M over five years to UK agentic safety and security research, in the form of compute access rather than cash. Provider selection and commercial terms have still to be agreed. Nvidia has committed $250M to British AI safety research ov…",
+      "url": "https://thenextweb.com/news/nvidia-250m-uk-ai-safety",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-14T08:24:26Z"
+    },
+    {
+      "title": "Anthropic asks the full appeals court to rehear its Pentagon case",
+      "description": "Anthropic has asked the full federal appeals court in Washington to revisit a 2-1 ruling upholding the Pentagon’s designation of it as a supply-chain risk. It argues the designation was retaliation for its speech about AI safety. Anthropic has asked the full …",
+      "url": "https://thenextweb.com/news/anthropic-pentagon-rehearing-bid",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-14T08:09:45Z"
+    },
+    {
+      "title": "Nvidia pledges $250 million to UK AI safety research",
+      "description": "US chipmaker Nvidia has pledged $250 million worth of computing resources to Britain over five years, to fund AI security research, bolstering the country's ambitions to become a global centre for AI governance and security.\nWhile Britain is not home to any m…",
+      "url": "https://biztoc.com/x/1a6bcb6ea345b557",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T08:00:39Z"
+    },
+    {
+      "title": "A Jailbroken PS5 Got Turned Into a Local AI Server That Can Run A 27B LLM, Smaller Models Can Reach Impressive Speeds Of 124 Tok/s, But There Are Limitations",
+      "description": "The PS5’s 16GB GDDR6 memory pool and 448GB/s bandwidth are decent specifications for running a local AI model, and it appears that someone has actually attempted this daring experiment, albeit with a bunch of compromises. With the trick being to move the work…",
+      "url": "https://wccftech.com/jailbroken-ps5-local-ai-server-27b-llm",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-14T10:33:35Z"
+    },
+    {
+      "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "description": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.\n                                                                                                …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186309244",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-14T10:33:19Z"
+    },
+    {
+      "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "description": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-14T10:25:00Z"
+    },
+    {
+      "title": "OpenAI engineer from Saudi Arabia allegedly bugged office, raising espionage fears",
+      "description": "The AI lab discovered a recording device concealed behind a TV, highlighting concerns foreign nations are trying to access technical secrets.",
+      "url": "https://www.afr.com/technology/openai-engineer-allegedly-bugged-office-raising-espionage-fears-20261014-p615nf",
+      "source": "Australian Financial Review",
+      "publishedAt": "2026-10-14T10:24:17Z"
+    },
+    {
+      "title": "Google's Most Powerful AI Model, Gemini 4 Argon, Is Now on Your Phone: Here's How to Access It?",
+      "description": "Google Gemini 4 Argon is rolling out publicly, with advanced AI capabilities for coding, cybersecurity, finance and other complex tasks.",
+      "url": "https://in.mashable.com/tech/114971/googles-most-powerful-ai-model-gemini-4-argon-is-now-on-your-phone-heres-how-to-access-it",
+      "source": "Mashable",
+      "publishedAt": "2026-10-14T10:19:17Z"
+    },
+    {
+      "title": "The AI chip boom has a new fear: too much competition",
+      "description": "Memory-chip leaders have enjoyed enormous AI-driven gains. Investors are now asking how durable their edge is.",
+      "url": "https://www.businessinsider.com/ai-memory-chip-boom-competition-pricing-power-scarcity-investors-chipmakers-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-14T09:50:01Z"
+    },
+    {
+      "title": "Open-source AI models carry more cybersecurity risks: Anthropic executive",
+      "description": "Ahead of its expected public listing, Anthropic is facing increasing competition in countries that are growing more concerned about a reliance on American AI technology",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/open-source-ai-models-carry-more-cybersecurity-risks-anthropic-executive-126101400731_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-14T09:41:49Z"
+    },
+    {
+      "title": "Google DeepMind opens its science AI models to 200 European researchers",
+      "description": "Up to 200 European researchers will get direct access to Google’s most advanced science AI models, plus $3 million in computing credits, Google said today. The offer comes from its AI lab, Google DeepMind, and its cloud arm, Google Cloud. The models include A…",
+      "url": "https://thenextweb.com/news/google-deepmind-european-researchers-alphafold-raise",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-14T09:39:44Z"
+    },
+    {
+      "title": "Is It or Isn’t It? How Generative AI is Poisoning the Literary Well For Everyone",
+      "description": "Vauhini Vara, who has for years been investigating the impact of AI on writing, published a piece in The Atlantic over the weekend claiming that the winner of The Caine Prize used AI to write his story. Zimbabwean writer Simbarashe",
+      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone",
+      "source": "Lithub.com",
+      "publishedAt": "2026-10-14T09:10:55Z"
+    },
+    {
+      "title": "China’s Exports Soar; Anthropic Warns on Spread of AI ‘Worms’",
+      "description": "China's exports and imports spiked in September. Meanwhile, Anthropic has warned that malicious AI software may soon be able to spread via phones, laptops, cars and household devices.",
+      "url": "https://biztoc.com/x/ed1b990c4a23919c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:00:30Z"
+    },
+    {
+      "title": "Regulating Artificial Intelligence Design to Prevent Youth Mental Health Harms",
+      "description": "This viewpoint examines the mental health risks AI chatbots pose to young people and outlines four regulatory priorities, including safety standards, independent testing, protective defaults, and harm monitoring.",
+      "url": "https://www.rand.org/pubs/external_publications/EP71389.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-10-14T09:00:00Z"
+    },
+    {
+      "title": "Google launches Gemini 4 Argon for complex coding and science tasks",
+      "description": "Alphabet’s Google has announced global availability of its Gemini 4 Argon AI model for developers and businesses.",
+      "url": "https://www.verdict.co.uk/google-launches-gemini-4-argon",
+      "source": "Verdict",
+      "publishedAt": "2026-10-14T08:52:06Z"
+    },
+    {
+      "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
+      "description": "ASE has expanded its PowerSiP platform with a 3D system-in-package solution aimed at vertical voltage regulator modules (VRMs) for AI data centers and high-performance computing systems. The move could matter globally as demand for AI infrastructure rises, si…",
+      "url": "https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-14T08:38:50Z"
+    },
+    {
+      "title": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+      "description": "Xbox is reacting - uncharacteristically quickly - to the deluge of vibe-coded game ports, decompiles and recompiles we've been seeing online in recent weeks by establishing Xbox Labs, a new initiative seemingly designed to explore the phenomenon. Read more",
+      "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+      "source": "Eurogamer.net",
+      "publishedAt": "2026-10-14T08:35:47Z"
+    },
+    {
+      "title": "Cerebras CEO reveals the capacity shortfall behind OpenAI's turn to Nvidia GPUs",
+      "description": "Cerebras Systems' shortage of data centre capacity was a key reason OpenAI turned to Nvidia GPUs to expand services for its next-generation models, co-founder and CEO Andrew Feldman said at TechCrunch Disrupt 2026.",
+      "url": "https://www.digitimes.com/news/a20261014PD230/cerebras-data-capacity-openai-nvidia.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-14T08:20:00Z"
+    },
+    {
+      "title": "Google DeepMind and Google Cloud offer $3 million in compute credits to European researchers",
+      "description": "This initiative accelerates European AI research but underscores reliance on US tech, highlighting the need for sovereign AI infrastructure development.\nThe post Google DeepMind and Google Cloud offer $3 million in compute credits to European researchers appe…",
+      "url": "https://cryptobriefing.com/google-deepmind-european-researchers-compute-credits",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-14T08:14:50Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "The Big Problem Every Artificial Intelligence Company Faces",
+      "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+      "Nvidia pledges $250 million in computing resources to boost UK AI safety research",
+      "Police receive fake murder tip from Anthropic’s Claude AI",
+      "Anthropic opens a Singapore office and signs an AI safety MOU with the government"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-pledges-250-million-in-computing-resources-to-boost-uk-ai-safety-research/articleshow/134938351.cms",
+        "https://biztoc.com/x/9e3e8411b3743f98",
+        "https://biztoc.com/x/a6ac40a2f3fcba51"
+      ]
+    },
+    {
+      "title": "Safety",
+      "summary": "Grouped stories where \"safety\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thenextweb.com/news/anthropic-singapore-office-government-mou",
+        "https://thenextweb.com/news/anthropic-pentagon-rehearing-bid",
+        "https://www.rand.org/pubs/external_publications/EP71389.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.bgr.com/2281384/big-problem-every-artificial-intelligence-company-faces",
+        "https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does",
+        "http://www.malwarebytes.com/blog/ai/2026/10/police-receive-fake-murder-tip-from-anthropics-claude-ai"
+      ]
+    },
+    {
+      "title": "Model",
+      "summary": "Grouped stories where \"model\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.prnewswire.com/news-releases/revenue-growth-agent-launches-model-context-protocol-connector-bringing-company-specific-sales-intelligence-into-chatgpt-and-claude-302907680.html",
+        "https://wccftech.com/jailbroken-ps5-local-ai-server-27b-llm",
+        "https://in.mashable.com/tech/114971/googles-most-powerful-ai-model-gemini-4-argon-is-now-on-your-phone-heres-how-to-access-it"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://book.humanexperiences.io/",
+        "https://www.exchangewire.com/blog/2026/10/14/digest-apple-wins-early-access-to-openai-evidence-tencent-raises-5-7bn-in-bond-sale",
+        "https://github.com/Manho/Panelize"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The Big Problem Every Artificial Intelligence Company Faces. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The Big Problem Every Artificial Intelligence Company Faces. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The Big Problem Every Artificial Intelligence Company Faces. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The Big Problem Every Artificial Intelligence Company Faces. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: The Big Problem Every Artificial Intelligence Company Faces. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

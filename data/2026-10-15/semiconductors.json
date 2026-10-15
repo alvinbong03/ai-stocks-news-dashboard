@@ -1,0 +1,390 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-15",
+  "last_updated_utc": "2026-10-15T10:53:08.226Z",
+  "news": [
+    {
+      "title": "Show HN: Run macOS on FreeBSD's Bhyve on AMD",
+      "description": "I needed to run macOS for tests on my FreeBSD server.Got it booting by working at the CPU-register level and troubleshooting the interaction between bhyve’s emulator and XNU—work done by gpt sol, guided by a human.Hope this is useful. Happy to answer question…",
+      "url": "https://github.com/PotemkinCo/macos-amd-bhyve",
+      "source": "Github.com",
+      "publishedAt": "2026-10-14T10:46:42Z"
+    },
+    {
+      "title": "Former Shin Bet chief suing Netanyahu: 'Fabricated blood libel in attempt to shift blame for October 7'",
+      "description": "Ronen Bar, in a legal response to accusations made by Netanyahu against him, details at least 20 warnings on Gaza's security situation and provides evidence the service did share intel with Netanyahu's office hours before Hamas' attack",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-14/ty-article/.premium/ex-shin-bet-head-suing-netanyahu-for-blood-libel-trying-to-shift-oct-7-blame/000001a1-391b-dd50-a1ad-3bfb9bf50000",
+      "source": "Haaretz",
+      "publishedAt": "2026-10-14T10:45:45Z"
+    },
+    {
+      "title": "vivo X500 E's design and key specs revealed through Google Play Console listing",
+      "description": "Last week, we spotted the vivo X500 E on Bluetooth SIG's website with model designation V2656. Now, it has appeared on Google Play Console with key specs and an image.\n\nThe image included in the Google Play Console listing reveals the vivo X500 E has a flat d…",
+      "url": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-10-14T10:39:03Z"
+    },
+    {
+      "title": "A Jailbroken PS5 Got Turned Into a Local AI Server That Can Run A 27B LLM, Smaller Models Can Reach Impressive Speeds Of 124 Tok/s, But There Are Limitations",
+      "description": "The PS5’s 16GB GDDR6 memory pool and 448GB/s bandwidth are decent specifications for running a local AI model, and it appears that someone has actually attempted this daring experiment, albeit with a bunch of compromises. With the trick being to move the work…",
+      "url": "https://wccftech.com/jailbroken-ps5-local-ai-server-27b-llm",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-14T10:33:35Z"
+    },
+    {
+      "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "description": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.\n                                                                                                …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186309244",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-14T10:33:19Z"
+    },
+    {
+      "title": "The numbers that show we are approaching the top of the AI boom",
+      "description": "Good morning. On Fortune’s radar today:\nOpenAI employee accused of planting secret recording device.\nHouthis strike Saudi Aramco HQ as oil climbs to $106.\nWe’re approaching the top of the AI boom, these numbers show.\nMarkets: ASML beats expectations.\nThe U.S.…",
+      "url": "https://biztoc.com/x/36d65b1936d7e53e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:31:24Z"
+    },
+    {
+      "title": "Chip-Gear Giant ASML Posts Mixed Q3 Results, Guides Up",
+      "description": "ASML delivered mixed results for the third quarter but guided higher than views for sales in the current quarter.\nThe post Chip-Gear Giant ASML Posts Mixed Q3 Results, Guides Up appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/8b147d412edf92fe",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:31:21Z"
+    },
+    {
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "description": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen\nThe $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research.\nThe donation from the world’s m…",
+      "url": "https://biztoc.com/x/9e3e8411b3743f98",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:31:20Z"
+    },
+    {
+      "title": "Why Nabisco’s 100-Calorie Pack Failed in the 2000s—And How a New Wave of Founders Finally Cracked the $1B Code",
+      "description": "From 170-calorie meat sticks to freeze-dried fruit chips, how a multi-billion-dollar portion control market rose from the ashes of a legacy snack flop.",
+      "url": "https://biztoc.com/x/6ed01493a5261e2e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:31:06Z"
+    },
+    {
+      "title": "Europe, U.S. futures rise as semiconductor supplier ASML beats expectations",
+      "description": "ASML, the Dutch company that is the only supplier of the “extreme ultraviolet lithography” machines needed to make the most advanced semiconductor chips, reported Q3 profits that beat expectations and said it had customers interested in placing orders through…",
+      "url": "https://biztoc.com/x/1f77f0fce829348a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:30:55Z"
+    },
+    {
+      "title": "Cisco bullish on India, to expand chip design team, says CEO Chuck Robbins",
+      "description": "Cisco's leadership is focusing on expanding its silicon design team in India due to available talent. The company has successfully implemented a meaningful manufacturing strategy, showcasing its commitment to the market. Cisco plans to introduce its sovereign…",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/cisco-bullish-on-india-to-expand-chip-design-team-says-ceo-chuck-robbins/articleshow/134939253.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T10:25:03Z"
+    },
+    {
+      "title": "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US",
+      "description": "A Japanese retailer has increased the prices of RTX 50-series GPUs between 12.71% and 41.10%, with the mainstream models bearing the brunt of the price increases.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-14T10:25:00Z"
+    },
+    {
+      "title": "(PR) Rambus Advances Power-Efficient AI Infrastructure with Industry-Leading PMIC Designed for LPDDR6 SOCAMM2",
+      "description": "Rambus Inc., a premier chip and silicon IP provider making data faster and safer, today announced an industry-leading Power Management IC (PMIC) designed to enable low-power, high-performance LPDDR6 Small Outline Compression Attached Memory Modules (SOCAMM2).…",
+      "url": "https://www.techpowerup.com/353700/rambus-advances-power-efficient-ai-infrastructure-with-industry-leading-pmic-designed-for-lpddr6-socamm2",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-14T10:15:20Z"
+    },
+    {
+      "title": "CXMT’s 4F² DDR5 Memory Plan To ‘Leapfrog’ Samsung & Others By Two Years Is A Paper Tiger, Say Analysts, As Sanctions Push It Into Bitter Corner",
+      "description": "Chinese memory chip manufacturer CXMT's recent claim that it would 'leapfrog' established memory giants Samsung, SK hynix and Micron by two years is nothing but that of a paper tiger, analysts from Rosenblatt believe. CXMT's President, Dr. Cao Kanyu, recently…",
+      "url": "https://wccftech.com/cxmts-4f%C2%B2-ddr5-memory-plan-to-leapfrog-samsung-others-by-two-years-is-a-paper-tiger-say-analysts-as-sanctions-push-it-into-bitter-corner",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-14T10:04:49Z"
+    },
+    {
+      "title": "Update: ASML Fiscal Q3 Earnings, Sales Rise",
+      "description": "(Updates with dividend, CEO comments in paragraphs 7 to 9) ASML Holding (ASML) reported fiscal Q3",
+      "url": "https://biztoc.com/x/92fa5b31eb8c9b56",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:02:30Z"
+    },
+    {
+      "title": ", What Is Behind The Fresh Attention?",
+      "description": "is back in the spotlight after confirming a new Roadster livestream, teasing SpaceX powered features, and outlining the Terafab chip venture with Intel, all while Cybercab faces fresh regulatory attention.\nTesla's share price has eased in the last week and ov…",
+      "url": "https://biztoc.com/x/85f9bdd8babecbd4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:02:19Z"
+    },
+    {
+      "title": "As the US and China race ahead in AI, France carves its own path with Nvidia’s help",
+      "description": "Nvidia bets almost $10 billion in Europe as Paris pushes for AI sovereignty.\nAmerican Artificial intelligence giant Nvidia is spending big in France with a string of new investments in its technology and health companies, showing how Paris is safeguarding its…",
+      "url": "https://biztoc.com/x/f7714f231904cc57",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T10:00:40Z"
+    },
+    {
+      "title": "Milyli Launches AI-Powered Redaction for Blackout, Bringing Automated Sensitive Data Protection to Native Excel, PDF, and More",
+      "description": "CHICAGO, Oct. 14, 2026 /PRNewswire/ -- Milyli today announced the release of Automated AI Redaction for Blackout, its industry-leading redaction and data protection platform. Powered by Azure Language through Foundry Tools, the new capabilities allow organiza…",
+      "url": "https://www.prnewswire.com/news-releases/milyli-launches-ai-powered-redaction-for-blackout-bringing-automated-sensitive-data-protection-to-native-excel-pdf-and-more-302906757.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-14T10:00:00Z"
+    },
+    {
+      "title": "The Fall Chocolate Chip Cookie, Upgraded: Brown Butter, Dates, and Salted Caramel",
+      "description": "Chewy in the middle, crisp on the edges, and spiced like autumn.\nThe post The Fall Chocolate Chip Cookie, Upgraded: Brown Butter, Dates, and Salted Caramel appeared first on Camille Styles.",
+      "url": "https://camillestyles.com/food/recipes/dessert/date-salted-caramel-chocolate-chip-cookies",
+      "source": "Camillestyles.com",
+      "publishedAt": "2026-10-14T10:00:00Z"
+    },
+    {
+      "title": "Home consoles face extinction as cloud and AI boom, BI research says",
+      "description": "Bloomberg Intelligence forecasts that streamed games will become a $38B market by 2035 and that the dedicated console will stop being a mass-market product. The case depends on surplus GPU capacity pushing compute prices down late this decade, which has not h…",
+      "url": "https://thenextweb.com/news/cloud-gaming-38b-consoles-extinct",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-14T09:58:21Z"
+    },
+    {
+      "title": "India working to rebuild ties with China, but future remains uncertain: Piyush Goyal",
+      "description": "India is working to strengthen its relations with China, emphasizing the need for fair trade agreements and consistent engagement. The trade deficit with China has widened, raising concerns for India's economic outlook. Efforts are underway to enhance semicon…",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-working-to-rebuild-ties-with-china-but-future-remains-uncertain-piyush-goyal/articleshow/134938233.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T09:53:17Z"
+    },
+    {
+      "title": "Europe, U.S. futures rise as semiconductor supplier ASML beats expectations",
+      "description": "A lot of eyes are on the French bond market right now as Paris struggles to deal with its national debt.",
+      "url": "https://fortune.com/2026/10/14/europe-us-futures-rise-semiconductor-supplier-asml-beats-expectations",
+      "source": "Fortune",
+      "publishedAt": "2026-10-14T09:53:02Z"
+    },
+    {
+      "title": "The AI chip boom has a new fear: too much competition",
+      "description": "Memory-chip leaders have enjoyed enormous AI-driven gains. Investors are now asking how durable their edge is.",
+      "url": "https://www.businessinsider.com/ai-memory-chip-boom-competition-pricing-power-scarcity-investors-chipmakers-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-14T09:50:01Z"
+    },
+    {
+      "title": "Nvidia pledges $250 million in computing resources to boost UK AI safety research",
+      "description": "Nvidia has committed $250 million in computing resources over five years to advance UK artificial intelligence safety research. Announced by CEO Jensen Huang on Wednesday, the $50 million annual pledge focuses on agentic AI security, supporting initiatives at…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-pledges-250-million-in-computing-resources-to-boost-uk-ai-safety-research/articleshow/134938351.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T09:49:25Z"
+    },
+    {
+      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+      "description": "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.",
+      "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-14T09:45:53Z"
+    },
+    {
+      "title": "Nvidia to invest in four French startups, makes $250M UK compute donation",
+      "description": "Nvidia is investing in four French startups, as well as making a $250m compute donation to UK AI safety and research, as it looks to underscore its commitment to the European tech ecosystem. Nvidia is making new investments in French healthtech Doctolib, AI s…",
+      "url": "https://biztoc.com/x/a6ac40a2f3fcba51",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:30:47Z"
+    },
+    {
+      "title": "Trump could stop intel sharing with Ukraine",
+      "description": "The Trump administration is \"actively\" considering stopping intelligence sharing with Ukraine, Semafor reported on Wednesday, citing an unnamed official. While the United States is still sharing intel...",
+      "url": "https://biztoc.com/x/a432903e648ee34a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:30:46Z"
+    },
+    {
+      "title": "We are working to develop relations with China once again: Piyush Goyal",
+      "description": "Commerce and Industry Minister Piyush Goyal stated that India seeks to improve relations with China, ensuring fair deals. Bilateral trade between India and China reached USD 127.7 billion, which reflects significant growth in exports and imports. Furthermore,…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/we-are-working-to-develop-relations-with-china-once-again-piyush-goyal/articleshow/134937907.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T09:25:44Z"
+    },
+    {
+      "title": "Global Market: European shares rise as ASML rally lifts tech stocks; investors eye US CPI",
+      "description": "European shares increased modestly as the pan-European STOXX 600 index recovered from previous losses. ASML's strong demand led technology stocks to gain, while concerns about geopolitical risks remained. Oil prices rose following attacks on vessels in the St…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-asml-rally-lifts-tech-stocks-investors-eye-us-cpi/articleshow/134937855.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T09:24:20Z"
+    },
+    {
+      "title": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",
+      "description": "Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus\n- Investors watch for the September CPI inflation report, the Fed's Beige Book, and quarterly earnings reports from Bank of America,…",
+      "url": "https://biztoc.com/x/31517fcfdd7bcae4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:16:29Z"
+    },
+    {
+      "title": "CPI ahead; more banks to report; ASML earnings",
+      "description": "Investing.com - Futures linked to the main U.S. stock indices inch mostly higher, as traders prepared for the release of key inflation data and awaited another batch of bank earnings. Upcoming consumer price data could offer a glimpse into the state of inflat…",
+      "url": "https://biztoc.com/x/fe27a437eae8a75e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:15:47Z"
+    },
+    {
+      "title": "ASML posts record €11.7 billion in sales but warns it can’t keep up with AI demand",
+      "description": "Dutch equipment supplier ASML warned on Wednesday that its planned supply of machines will not fully meet customers’ AI-driven demand in 2027 and 2028, as it reported record quarterly sales of around €11.7 billion and lifted the lower end of its full-year sal…",
+      "url": "https://biztoc.com/x/68925bbc949f91f6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:15:27Z"
+    },
+    {
+      "title": "Stock Market Today: Investors Await Inflation Report, Bank Earnings",
+      "description": "ASML stock rises after earnings",
+      "url": "https://biztoc.com/x/7da5f185fcec0078",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:15:09Z"
+    },
+    {
+      "title": "Ukraine received no intel about incoming missiles, Zelenskyy says - Euronews.com",
+      "description": "Ukraine received no intel about incoming missiles, Zelenskyy saysEuronews.com Allies gave Ukraine no warning of impending missile attack, Zelensky saysCNN Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Eur…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186308490",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-14T09:12:48Z"
+    },
+    {
+      "title": "Broadcom, Marvell and TSMC cash in as Big Tech builds custom AI chips",
+      "description": "The shift to custom AI chips by Big Tech could reshape the semiconductor industry, challenging existing market leaders and altering investment dynamics.\nThe post Broadcom, Marvell and TSMC cash in as Big Tech builds custom AI chips appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/broadcom-marvell-tsmc-custom-ai-chips",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-14T09:12:21Z"
+    },
+    {
+      "title": "Micron's Customer Contracts Just Took the Memory Cycle Off the Table",
+      "description": "Micron Technology (NASDAQ: MU) has been one of the best-performing stocks on Wall Street in 2026 -- it was up 230% year to date as of Oct. 13. The concern among investors is that the memory market has long been highly cyclical. When demand for memory chips su…",
+      "url": "https://biztoc.com/x/09d7469bc6016e40",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T09:00:41Z"
+    },
+    {
+      "title": "12-Ct 1.1-Oz Quest Nutrition Tortilla Protein Chips (Variety Pack) $20.05 w/ S&S",
+      "description": "Amazon has *12-Count 1.1-Oz Quest Nutrition Tortilla Protein Chips* (Game Day Variety Pack) for $21.10 - 5% when you check out via Subscribe & Save = *$20.05*. *Shipping is free* with Prime or on...",
+      "url": "https://slickdeals.net/f/20144760-12-ct-1-1-oz-quest-nutrition-tortilla-protein-chips-variety-pack-20-05-w-s-s",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-14T08:51:47Z"
+    },
+    {
+      "title": "Tata's flagship chip fab faces pressure from its own shareholders",
+      "description": "Tata Group's semiconductor fab in Gujarat, held up as the foundation of India's chipmaking ambitions, now faces scrutiny from within, as the group's controlling shareholder presses for quicker returns on capital-intensive bets.",
+      "url": "https://www.digitimes.com/news/a20261014VL218/tata-group-90nm-fab-investment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-14T08:50:17Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: Run macOS on FreeBSD's Bhyve on AMD",
+      "Former Shin Bet chief suing Netanyahu: 'Fabricated blood libel in attempt to shift blame for October 7'",
+      "vivo X500 E's design and key specs revealed through Google Play Console listing",
+      "A Jailbroken PS5 Got Turned Into a Local AI Server That Can Run A 27B LLM, Smaller Models Can Reach Impressive Speeds Of 124 Tok/s, But There Are Limitations",
+      "Nvidia GPU prices spike in Japan; prices up to 41% higher than Amazon US"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Asml",
+      "summary": "Grouped stories where \"asml\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/36d65b1936d7e53e",
+        "https://biztoc.com/x/8b147d412edf92fe",
+        "https://biztoc.com/x/1f77f0fce829348a"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/cons-products/electronics/cisco-bullish-on-india-to-expand-chip-design-team-says-ceo-chuck-robbins/articleshow/134939253.cms",
+        "https://www.techpowerup.com/353700/rambus-advances-power-efficient-ai-infrastructure-with-industry-leading-pmic-designed-for-lpddr6-socamm2",
+        "https://wccftech.com/cxmts-4f%C2%B2-ddr5-memory-plan-to-leapfrog-samsung-others-by-two-years-is-a-paper-tiger-say-analysts-as-sanctions-push-it-into-bitter-corner"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186309244",
+        "https://biztoc.com/x/9e3e8411b3743f98",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-gpu-prices-spike-in-japan-prices-up-to-41-percent-higher-than-amazon-us-rtx-5060-ti-sees-the-biggest-increase-among-the-rtx-50-series-stack"
+      ]
+    },
+    {
+      "title": "Memory",
+      "summary": "Grouped stories where \"memory\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/jailbroken-ps5-local-ai-server-27b-llm",
+        "https://biztoc.com/x/09d7469bc6016e40"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/PotemkinCo/macos-amd-bhyve",
+        "https://www.haaretz.com/israel-news/israel-security/2026-10-14/ty-article/.premium/ex-shin-bet-head-suing-netanyahu-for-blood-libel-trying-to-shift-oct-7-blame/000001a1-391b-dd50-a1ad-3bfb9bf50000",
+        "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Run macOS on FreeBSD's Bhyve on AMD. Main topic cluster: Asml. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Run macOS on FreeBSD's Bhyve on AMD. Main topic cluster: Asml. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Run macOS on FreeBSD's Bhyve on AMD. Main topic cluster: Asml. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Run macOS on FreeBSD's Bhyve on AMD. Main topic cluster: Asml. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Run macOS on FreeBSD's Bhyve on AMD. Main topic cluster: Asml. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
