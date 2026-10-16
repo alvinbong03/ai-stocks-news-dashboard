@@ -1,0 +1,383 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-16",
+  "last_updated_utc": "2026-10-16T10:33:45.177Z",
+  "news": [
+    {
+      "title": "Samsung unveils an extremely small 256TB SSD for AI data centers",
+      "description": "Samsung remains the world's biggest memory chipmaker for good reason. The company continuously develops cutting-edge technologies to push the performance and efficiency of its silicon. Now, Samsung has unveiled a compact, ultra-dense 256TB SSD designed specif…",
+      "url": "https://www.sammobile.com/news/samsung-extremely-small-256tb-ssd-ai-data-centers",
+      "source": "SamMobile",
+      "publishedAt": "2026-10-15T10:31:47Z"
+    },
+    {
+      "title": "Russian chipmakers demo homegrown RISC-V and Arm silicon with retro games",
+      "description": "Russian semiconductor players shows off bespoke CPU and SoC designs — Arm and Elbrus architectures on display",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/russian-semiconductor-players-shows-off-bespoke-cpu-and-soc-designs-arm-and-elbrus-architectures-on-display",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-15T10:30:00Z"
+    },
+    {
+      "title": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds",
+      "description": "CEO Jensen Huang is unlikely to ignore the building pressure on CoreWeave's (CRWV) stock price and bond values.\nThe simple reason why is that he can't look the other way given how intertwined Nvidia is with the most well-known — and debated — neocloud.\nFor on…",
+      "url": "https://biztoc.com/x/0d4a7cc7048ce146",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T10:15:16Z"
+    },
+    {
+      "title": "TSMC posts record quarterly profit as AI chip demand surges",
+      "description": "Chip giant Taiwan Semiconductor Manufacturing Company (TSMC) on Thursday posted another record quarterly profit, beating analysts' expectations due to a surge in orders for AI chips.\nNet income of 763.06 billion Taiwan dollars ($23.56 billion) in the third qu…",
+      "url": "https://biztoc.com/x/1c2aa3ba3998b6ba",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T10:15:07Z"
+    },
+    {
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "description": "Much of today’s scientific progress begins with computation.  But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology.…",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "source": "Nvidia.com",
+      "publishedAt": "2026-10-15T10:00:12Z"
+    },
+    {
+      "title": "Sellafield and partners unite to provide life-changing funding",
+      "description": "Sellafield Ltd and supply chain partners have raised £162,500 to support care-experienced young people through Cumberland Council's Enrichment Fund.",
+      "url": "https://www.gov.uk/government/news/sellafield-and-partners-unite-to-provide-life-changing-funding",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-15T10:00:02Z"
+    },
+    {
+      "title": "Bistable squeezing in a multimode circuit-quantum-acoustodynamics system",
+      "description": "Recent experiments in circuit quantum acoustodynamics (cQAD) have demonstrated on-chip multimode phononic interactions and single-mode phonon squeezing [von L\\\"upke  et al., Nat. Phys. 20, 564 (2024)], yet the generation of bistable squeezing and the redistri…",
+      "url": "https://link.aps.org/doi/10.1103/1cbf-c3z1",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-15T10:00:00Z"
+    },
+    {
+      "title": "Is the semiconductor industry headed for an almighty crash?",
+      "description": "There are reasons to believe a bust, if it comes, will be less vertiginous than the boom",
+      "url": "https://biztoc.com/x/6e08170b08261c82",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:58:49Z"
+    },
+    {
+      "title": "RRP Electronics inaugurates AWLP facility",
+      "description": "With the addition of advanced wafer-level packaging, the company says it is now expanding its portfolio to address increasingly complex semiconductor and electronics applications",
+      "url": "https://www.thehindubusinessline.com/companies/rrp-electronics-inaugurates-awlp-facility/article71587339.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-15T09:56:20Z"
+    },
+    {
+      "title": "Wall Street’s biggest obsessions are showing up in inflation",
+      "description": "Gasoline costs and AI-driven chip shortages are pressuring US consumers, leaving the Fed with few easy solutions.",
+      "url": "https://www.businessinsider.com/oil-prices-ai-boom-us-inflation-fed-gasoline-computers-consumers-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-15T09:50:01Z"
+    },
+    {
+      "title": "Two killed, one seriously hurt in explosion at Intel’s chip plant in Israel",
+      "description": "Two workers have died in an explosion at Intel’s Kiryat Gat chip plant; police suspect a gas cylinder malfunction.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/two-killed-one-seriously-hurt-in-explosion-at-intels-chip-plant-in-israel-police-suspect-a-gas-cylinder-malfunction-and-the-fire-involved-a-toxic-gas-used-to-clean-chipmaking-tools",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-15T09:34:15Z"
+    },
+    {
+      "title": "After Elon Musk’s Invitation, TSMC CEO Reportedly Says Open To Working On Terafab But Must Run It",
+      "description": "TSMC reported a 69% jump in third-quarter net profit, beating analyst expectations.\n- Musk earlier said his companies would build and operate Terafab themselves.\n- Retail sentiment for TSM turned 'extremely bullish' despite a premarket decline.\nTaiwan Semicon…",
+      "url": "https://biztoc.com/x/1e6eca345ef5ed81",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:29:40Z"
+    },
+    {
+      "title": "Trump administration doubles its equity stake in GlobalFoundries, will partner with company in new semiconductor plant",
+      "description": "Trump administration doubles its equity stake in GlobalFoundries, will partner with company in new semiconductor plant\nPresident Trump and chipmaker GlobalFoundries (GFS) announced a multifaceted series of deals Wednesday, doubling what was already a sizable …",
+      "url": "https://biztoc.com/x/efb6e9d98c1d5bf1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:29:37Z"
+    },
+    {
+      "title": "Why Are Nasdaq Futures Sinking Premarket? CRWV, MU, TSM, SKHY, IBRX, RKLB, TSLA Stocks In Focus",
+      "description": "Global semiconductor stock selloff has hit risk appetite. South Korea's Kospi slipped over 7% on Thursday, with SK Hynix and Samsung among the hardest-hit stocks.\n- TSM, the world's largest contract chipmaker, reported strong Q3 earnings and raised its 2026 g…",
+      "url": "https://biztoc.com/x/5b8b6bdb6634e5e4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:29:29Z"
+    },
+    {
+      "title": "TSMC is open to working on Musk’s Terafab but says it must run the fab",
+      "description": "TSMC is willing to work with Elon Musk’s Terafab chip project, but any fab involved would have to be run by TSMC, chairman and chief executive C.C. Wei said on the company’s third-quarter earnings call on Thursday. He added that the two sides have not yet rea…",
+      "url": "https://thenextweb.com/news/tsmc-terafab-musk-wei-must-run-fab",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-15T09:29:28Z"
+    },
+    {
+      "title": "Global chipmakers sink as inflation data fuels rate-hike fears, AI rout",
+      "description": "Investing.com -- Global semiconductor stocks fell sharply Thursday, extending a rout from a day earlier after fresh U.S. inflation data stoked fears of further Federal Reserve interest-rate increases.\nMemory chip giants SK Hynix and Micron slumped 6.7% and 4.…",
+      "url": "https://biztoc.com/x/b0623e55ec3dfbd0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:29:03Z"
+    },
+    {
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "description": "Chip makers and tech investors such as Samsung and SoftBank plunge as global investors fret over potential interest rate hikes\nBusiness news – live updates\nLarry Elliott: the global economy is muddling through. But a storm is coming\nAn accelerating sell-off o…",
+      "url": "https://biztoc.com/x/3a9f477276e64f58",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T09:28:57Z"
+    },
+    {
+      "title": "TSMC bars capacity resale, aims to leave no AI money on the table",
+      "description": "TSMC will not let customers sublease or auction off their wafer capacity allocations, chairman C.C. Wei said during the company's October 15 earnings call. With AI chip demand still far outstripping supply, Wei said TSMC intends to leave no food on the table,…",
+      "url": "https://www.digitimes.com/news/a20261015PD244/tsmc-capacity-demand-wafer-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T09:20:45Z"
+    },
+    {
+      "title": "Taiwan chip giant TSMC says net profit hit record in third quarter",
+      "description": "The result marked the sixth straight record quarterly net profit for the world’s biggest contract maker of microchips. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
+      "source": "The Straits Times",
+      "publishedAt": "2026-10-15T09:17:02Z"
+    },
+    {
+      "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+      "description": "TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes co…",
+      "url": "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T09:15:13Z"
+    },
+    {
+      "title": "EU seeks China deal to lift ASML supplier sanctions amid rare-earth crisis",
+      "description": "The European Union (EU) is negotiating with China to lift sanctions on Sindlhauser Materials GmbH, a small German business that is part of ASML's supply chain, according to people familiar with the matter. In exchange, the EU would remove trade restrictions o…",
+      "url": "https://www.digitimes.com/news/a20261015PD246/eu-asml-russia-business-beijing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T09:11:32Z"
+    },
+    {
+      "title": "TSMC open to partnership with Elon Musk’s Terafab as chip giant's Q3 profit hits record $23.6 billion",
+      "description": "TSMC is discussing a partnership with Elon Musk’s Terafab but insists on running the chip plant as the Taiwanese giant reports record quarterly profit of NT$763.1 billion.",
+      "url": "https://www.livemint.com/companies/news/tsmc-open-to-partnership-with-elon-musk-s-terafab-as-chip-giants-q3-profit-hits-record-23-6-billion-11792051967864.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-15T09:03:54Z"
+    },
+    {
+      "title": "An FBI arrest revives fears that U.S. tech companies are hiring spies",
+      "description": "On paper, Abdulrahman Alfozan seemed like an ideal candidate for one of Silicon Valley's most coveted artificial intelligence jobs.The Saudi national attended the Massachusetts Institute of Technology and landed an engineering job at Meta, according to his Li…",
+      "url": "https://www.yahoo.com/news/us/articles/fbi-arrest-revives-fears-u-090000730.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-15T09:00:00Z"
+    },
+    {
+      "title": "Virtuozzo Infrastructure System Advances with NVIDIA Updates and Lite Deployment Option",
+      "description": "8.0 release introduces lite deployments starting with one server and local storage, updates NVIDIA support for GPU workloads, and brings VMware migration into general availability.",
+      "url": "https://www.virtuozzo.com/company/blog/product-updates/nvidia-lite-deployment-infrastructure-8-0-release",
+      "source": "Virtuozzo.com",
+      "publishedAt": "2026-10-15T08:49:24Z"
+    },
+    {
+      "title": "TSMC CEO C.C. Wei sees no slowdown as chip foundry posts record profit",
+      "description": "TSMC's sustained growth amid high chip demand highlights its pivotal role in tech innovation, but macroeconomic uncertainties loom.\nThe post TSMC CEO C.C. Wei sees no slowdown as chip foundry posts record profit appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tsmc-record-profit-no-ai-slowdown",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-15T08:48:52Z"
+    },
+    {
+      "title": "Aurotek posts record 3Q26 revenue, up 58% on automation demand",
+      "description": "Aurotek Corp. reported record consolidated revenue of NT$1.113 billion (US$34.7 million) in the third quarter of 2026, up 57.93% from a year earlier. Orders from semiconductor, high-end artificial intelligence (AI) server and electronics manufacturing custome…",
+      "url": "https://www.digitimes.com/news/a20261015PD241/revenue-demand-automation-growth-equipment.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T08:40:58Z"
+    },
+    {
+      "title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
+      "description": "FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T…",
+      "url": "https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T08:39:50Z"
+    },
+    {
+      "title": "TSMC to Add a New 3nm Fab as AI Orders Pile up",
+      "description": "",
+      "url": "https://www.theinformation.com/briefings/tsmc-add-new-3nm-fab-ai-orders-pile",
+      "source": "The Information",
+      "publishedAt": "2026-10-15T08:36:26Z"
+    },
+    {
+      "title": "Michael Burry Warns Wall Street’s ‘Pain Trade’ Can Last As Mag 7 Weakness Could Deepen ‘Red October’ Call",
+      "description": "Michael Burry warned that \"pain trades become widowmaker trades\" because they can persist for a long time.\n- He highlighted a \"Red October\" scenario that would gain conviction if the \"Magnificent Seven\" followed semiconductor stocks lower alongside bond yield…",
+      "url": "https://biztoc.com/x/ee1fbf593b9bd480",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T08:28:37Z"
+    },
+    {
+      "title": "Low Poly Nature - Trees & Bushes (Animated) by Poldi Pub",
+      "description": "60 game-ready low poly trees & bushes with wind, hit reactions and tree felling - real-world scale, clean pivots, Built-in & URP.• 60 vegetation prefabs, 132-1282 triangles each• 8 prop prefabs (logs, stumps) and 4 effect prefabs (puff cloud, leaf, wood chip)…",
+      "url": "https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-nature-trees-bushes-animated-412086",
+      "source": "Unity.com",
+      "publishedAt": "2026-10-15T08:28:12Z"
+    },
+    {
+      "title": "Consumer appliances start-up Foundry raises pre-seed funding of ₹12 crore",
+      "description": "The funding will support technology development and product engineering as Foundry prepares to launch its first range of kitchen appliances in H2 2027",
+      "url": "https://www.thehindubusinessline.com/companies/consumer-appliances-start-up-foundry-raises-pre-seed-funding-of-12-crore/article71587126.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-15T08:26:37Z"
+    },
+    {
+      "title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
+      "description": "Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-perform…",
+      "url": "https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T08:25:00Z"
+    },
+    {
+      "title": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
+      "description": "TSMC chairman and CEO C.C. Wei said on October 15 that the chipmaker sees no ceiling on its profitability as demand for AI accelerators continues to outpace supply. Wei also said AI-related growth could exceed the company's long-term forecast and outlined pla…",
+      "url": "https://www.digitimes.com/news/a20261015PD240/tsmc-high-na-euv-adoption-2030.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T08:14:39Z"
+    },
+    {
+      "title": "SK Hynix reportedly ties US NAND fab plan to approval for chip equipment exports to China",
+      "description": "SK Hynix is seeking US approval to ship additional American chipmaking equipment to its NAND flash facility in Dalian, China, linking the request to a potential investment in a new US factory, Reuters reported on October 15, citing two people familiar with th…",
+      "url": "https://www.digitimes.com/news/a20261015VL222/sk-hynix-equipment-nand-exports-solidigm.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T08:11:12Z"
+    },
+    {
+      "title": "AIRA Factoring Surpasses THB 1 Billion in Digital Supply Chain Financing, Powered by NEC Thailand",
+      "description": "AIRA Factoring Public Company Limited has achieved a major digital transformation milestone, exceeding THB 1 Billion in cumulative lending transactions ...",
+      "url": "https://en.antaranews.com/news/435617/aira-factoring-surpasses-thb-1-billion-in-digital-supply-chain-financing-powered-by-nec-thailand",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-10-15T08:08:26Z"
+    },
+    {
+      "title": "India's RRP Electronics opens advanced wafer-level packaging facility in Navi Mumbai",
+      "description": "India's RRP Electronics has inaugurated an Advanced Wafer-Level Packaging (AWLP) facility at its semiconductor unit in Navi Mumbai, Maharashtra, adding SIM and eSIM module production and specialized testing to its outsourced semiconductor assembly and test (O…",
+      "url": "https://www.digitimes.com/news/a20261014VL217/rrp-electronics-mumbai-packaging-chairman-testing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-15T07:59:00Z"
+    },
+    {
+      "title": "TSM Stock Still Caught In AI Chip Rout Despite Record Q3 Profit And Bright Outlook: Retail Stays Bullish",
+      "description": "TSM Stock Still Caught In AI Chip Rout Despite Record Q3 Profit And Bright Outlook: Retail Stays Bullish\n- TSM stock fell in the overnight session ahead of Thursday.\n- The global chip selloff continued amid questions about AI infrastructure spending and risin…",
+      "url": "https://biztoc.com/x/55bc407b55f960be",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-15T07:59:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Samsung unveils an extremely small 256TB SSD for AI data centers",
+      "Russian chipmakers demo homegrown RISC-V and Arm silicon with retro games",
+      "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds",
+      "TSMC posts record quarterly profit as AI chip demand surges",
+      "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1c2aa3ba3998b6ba",
+        "https://link.aps.org/doi/10.1103/1cbf-c3z1",
+        "https://www.businessinsider.com/oil-prices-ai-boom-us-inflation-fed-gasoline-computers-consumers-2026-10"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/semiconductors/russian-semiconductor-players-shows-off-bespoke-cpu-and-soc-designs-arm-and-elbrus-architectures-on-display",
+        "https://biztoc.com/x/6e08170b08261c82",
+        "https://www.thehindubusinessline.com/companies/rrp-electronics-inaugurates-awlp-facility/article71587339.ece"
+      ]
+    },
+    {
+      "title": "Tsmc",
+      "summary": "Grouped stories where \"tsmc\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/1e6eca345ef5ed81",
+        "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
+        "https://www.theinformation.com/briefings/tsmc-add-new-3nm-fab-ai-orders-pile"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.sammobile.com/news/samsung-extremely-small-256tb-ssd-ai-data-centers",
+        "https://en.antaranews.com/news/435617/aira-factoring-surpasses-thb-1-billion-in-digital-supply-chain-financing-powered-by-nec-thailand"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0d4a7cc7048ce146",
+        "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+        "https://www.gov.uk/government/news/sellafield-and-partners-unite-to-provide-life-changing-funding"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Samsung unveils an extremely small 256TB SSD for AI data centers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Samsung unveils an extremely small 256TB SSD for AI data centers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Samsung unveils an extremely small 256TB SSD for AI data centers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Samsung unveils an extremely small 256TB SSD for AI data centers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Samsung unveils an extremely small 256TB SSD for AI data centers. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
