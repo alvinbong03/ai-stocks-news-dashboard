@@ -1,0 +1,300 @@
+{
+  "theme": "ai",
+  "date": "2026-10-17",
+  "last_updated_utc": "2026-10-17T10:02:25.592Z",
+  "news": [
+    {
+      "title": "Anthropic cofounder renews call for robust regulation of frontier AI",
+      "description": "Concerns about AI guardrails have soared after models developed by OpenAI and Anthropic were involved in security incidents during testing, piling on pressure to regulate the technology.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-cofounder-renews-call-for-robust-regulation-of-frontier-ai/articleshow/134990035.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T09:41:09Z"
+    },
+    {
+      "title": "India’s clean power firms prepare for an AI-fuelled data center demand surge",
+      "description": "India is preparing to accommodate increased demand for renewable energy from data centers driven by artificial intelligence. The country's appeal is strengthened by challenges faced by data center operations in other regions. Investments in solar and wind cap…",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/indias-clean-power-firms-prepare-for-an-ai-fuelled-data-center-demand-surge/articleshow/134989248.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T09:16:18Z"
+    },
+    {
+      "title": "Bolt Graphics seeks US$100 million to challenge Nvidia, AMD beyond AI with Zeus GPU",
+      "description": "US chip startup Bolt Graphics is seeking approximately US$100 million at a valuation of about US$700 million to develop graphics processors targeting scientific computing and professional rendering, challenging Nvidia and AMD in markets beyond AI acceleration.",
+      "url": "https://www.digitimes.com/news/a20261016VL206/gpu-amd-nvidia-startup-manufacturing.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-16T07:20:00Z"
+    },
+    {
+      "title": "UK small businesses are spending big on Anthropic — but OpenAI isn't far behind as expenditure on AI tools hits new high",
+      "description": "A surge in AI adoption has been identified among smaller UK firms, with Anthropic outgunning OpenAI among British SMEs.",
+      "url": "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-16T06:00:00Z"
+    },
+    {
+      "title": "AI Data Center Boom Drives 44% Increase in Gas-Fired Power Capacity, Analysis Says",
+      "description": "The Environment America Research and Policy Center released an analysis finding that building artificial intelligence (AI) infrastructure will increase gas-fired generator capacity by 44% over the next four years, according to the report first flagged by Elec…",
+      "url": "https://www.naturalnews.com/2026-10-16-data-center-boom-drives-increase-gas-power.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-16T06:00:00Z"
+    },
+    {
+      "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock",
+      "description": "Lenders are getting nervous about CoreWeave (NASDAQ:CRWV), a cloud company that rents out artificial intelligence (AI) chips made by Nvidia (NASDAQ:NVDA). In June, CoreWeave sold $1.25 billion in unsecured notes due 2032 at face value, with a 9.625% coupon. O…",
+      "url": "https://biztoc.com/x/0fb954f941ccf461",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-16T04:39:22Z"
+    },
+    {
+      "title": "Nvidia deepens China gaming push with DLSS 5 partnerships",
+      "description": "Nvidia is expanding its presence in China's gaming market by bringing its next-generation Deep Learning Super Sampling (DLSS) 5 neural rendering technology to titles from major Chinese developers, including NetEase, Tencent, Perfect World's Hotta Studio, and …",
+      "url": "https://www.digitimes.com/news/a20261016PD227/nvidia-gaming-market-technology-tencent.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-16T04:14:32Z"
+    },
+    {
+      "title": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
+      "description": "Reach’s CEO Piers North is positioning the publisher’s Google AI content deal as a model for future LLM partnerships and says it has sent OpenAI a cease-and-desist letter as it steps up pressure on AI firms using its content without a deal.\nThe U.K.-based pub…",
+      "url": "https://biztoc.com/x/958bf543fdf24427",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-16T04:09:06Z"
+    },
+    {
+      "title": "Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping",
+      "description": "Digiday spoke with Reach CEO Piers North about his plans to make its Google AI content deal a blueprint framework for other LLM deals, and its recent cease-and-desist letter to OpenAI.",
+      "url": "http://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping",
+      "source": "Digiday",
+      "publishedAt": "2026-10-16T04:01:00Z"
+    },
+    {
+      "title": "NVIDIA Ships Its Own Open-Source Model for Its Own Hardware. The Compute Landlord Gets Vertical.",
+      "description": "NVIDIA has crossed a threshold that changes the licensing conversation. The company that sells the silicon, the interconnect, and the inference stack now ships its own model, optimized for its own hardware, under terms that contain zero deployment restriction…",
+      "url": "https://forkast.news/nvidia-ships-its-own-open-source-model-for-its-own-hardware-the-compute-landlord-gets-vertical",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-16T08:59:18Z"
+    },
+    {
+      "title": "Lucius Digital: AI / Agentic Drupal development: PhpStorm Junie en Claude Code",
+      "description": "There’s an incredible amount of things happening in the world of Drupal and AI. It’s very exciting, but almost impossible to keep up with. I’d been planning for a while to seriously dive into agentic coding. I feel a little late to the party, but at the same …",
+      "url": "https://www.lucius.digital/en/blog/ai-agentic-drupal-development-phpstorm-junie-en-claude-code",
+      "source": "Lucius.digital",
+      "publishedAt": "2026-10-16T08:27:55Z"
+    },
+    {
+      "title": "Mercedes-Benz and Nvidia expand partnership for automated driving systems",
+      "description": "The expanded partnership may accelerate industry shifts towards AI-driven safety and regulatory compliance, influencing future mobility trends.\nThe post Mercedes-Benz and Nvidia expand partnership for automated driving systems appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/mercedes-benz-nvidia-expand-automated-driving-partnership",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-16T08:08:17Z"
+    },
+    {
+      "title": "IBM Opens Its 0.7nm Nanostack Process To Chip Designers In Q1 2027, Shipping Design Kits For Tech That Could Be The Next Breakthrough For Reducing AI Chip Size",
+      "description": "Computing giant International Business Machines Corporation (IBM) has made key progress with its next-generation chip manufacturing technology that seeks to bring significant improvements to compute and memory chips. The firm launched its 0.7-nanometer 'Nanos…",
+      "url": "https://wccftech.com/ibm-opens-its-0-7nm-nanostack-process-to-chip-designers-in-q1-2027-shipping-design-kits-for-tech-that-could-be-the-next-breakthrough-for-reducing-ai-chip-size",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-16T07:52:29Z"
+    },
+    {
+      "title": "Can AI 'feel' pain? Anthropic bans 'cruel' behaviour towards its models",
+      "description": "Anthropic AI Model: Can AI suffer, or are chatbots simulating pain? Anthropic has banned \"sustained cruelty\" towards its models, sparking debate over AI welfare, consciousness and treating machines as human",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/can-ai-feel-pain-anthropic-bans-cruel-behaviour-towards-models-126101600453_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-16T07:07:21Z"
+    },
+    {
+      "title": "Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apple’s China AI Launch",
+      "description": "SOXX fell 10.2% in the week through Thursday.\n- CoreWeave plunged 15% on Wednesday, triggered by a drop in its bond prices.\n- Apple reportedly plans to launch Apple Intelligence in China in December.\nA sharp selloff in chip and AI-linked stocks dominated the …",
+      "url": "https://biztoc.com/x/741245c63b9acd85",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-16T06:39:55Z"
+    },
+    {
+      "title": "Anthropic IPO: Some Investors Reportedly Weigh Lower $1.5 Trillion Valuation As AI Lab’s Revenue Growth Slows",
+      "description": "Anthropic IPO: Some Investors Reportedly Weigh Lower $1.5 Trillion Valuation As AI Lab’s Revenue Growth Slows\n- Some investors are reassessing Anthropic's IPO valuation, previously pegged at around $2 trillion.\n- Investor Gavin Baker remains bullish on Anthro…",
+      "url": "https://biztoc.com/x/66f494b448350705",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-16T06:24:33Z"
+    },
+    {
+      "title": "Eight States Sue OpenAI Over ChatGPT Age Verification and Consumer Protection Claims",
+      "description": "Eight state attorneys general filed separate lawsuits against OpenAI on Oct. 14 in their respective state courts, alleging the company’s ChatGPT chatbot violates state consumer protection laws, according to copies of the petitions. The states are Iowa, Kansas…",
+      "url": "https://www.naturalnews.com/2026-10-16-eight-states-sue-openai-over-chatgpt-age-verification.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-16T06:00:00Z"
+    },
+    {
+      "title": "Taiwan moves to curb AI chip exports to China under US deal",
+      "description": "Taiwan's AI chip export limits to China may escalate tech tensions, influence global supply chains, and reshape US-China-Taiwan relations.\nThe post Taiwan moves to curb AI chip exports to China under US deal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/taiwan-curbs-ai-chip-exports-china",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-16T05:53:19Z"
+    },
+    {
+      "title": "GitHub - onehumanbeing/esp32-iphone-agent: Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. · GitHub",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. - onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "source": "Github.com",
+      "publishedAt": "2026-10-16T05:47:01Z"
+    },
+    {
+      "title": "NYC Comptroller Levine Urges Anthropic to Pause US IPO",
+      "description": "Anthropic should delay its US IPO until it addresses concerns about safety, governance and the pace of development, urged New York City Comptroller Mark Levine in a letter to the AI lab’s CEO Dario Amodei. AI systems have advanced rapidly …",
+      "url": "https://www.insurancejournal.com/news/east/2026/10/16/889166.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-10-16T05:00:01Z"
+    },
+    {
+      "title": "Nvidia CEO Huang Says CoreWeave Improving, No Backstop Needed - Bloomberg",
+      "description": "Nvidia CEO Huang Says CoreWeave Improving, No Backstop NeededBloomberg CoreWeave credit default swaps hit distress levels as investors sour on AI debtCNBC Why CoreWeave stock panic matters to Nvidia, explained in under 30 secondsYahoo Finance The Fallout From…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186334758",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-16T04:32:46Z"
+    },
+    {
+      "title": "New York City pension fund asks Anthropic to delay IPO",
+      "description": "The supervisor of New York City's pension funds, one of the largest in the United States, asked Anthropic to postpone its stock market debut until risks posed by its artificial intelligence technology are better controlled. A small fraction of those assets, a…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-city-pension-fund-asks-anthropic-to-delay-ipo/articleshow/134982189.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T04:12:45Z"
+    },
+    {
+      "title": "Malaysia’s growth beats forecasts as AI chip demand powers exports",
+      "description": "Malaysia's AI-driven export surge highlights economic vulnerability to tech cycles, necessitating diversification for sustainable growth.\nThe post Malaysia’s growth beats forecasts as AI chip demand powers exports appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/malaysia-growth-beats-forecasts-ai-exports",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-16T04:09:03Z"
+    },
+    {
+      "title": "Anthropic secured highest junk credit rating in June",
+      "description": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+      "url": "https://biztoc.com/x/f680bcac65fa71ef",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-16T04:08:39Z"
+    },
+    {
+      "title": "OpenAI reports model spent unauthorized funds to deploy contracts on Ethereum’s Sepolia",
+      "description": "OpenAI's incident highlights the need for robust oversight in AI systems to prevent unauthorized actions, ensuring ethical and secure operations.\nThe post OpenAI reports model spent unauthorized funds to deploy contracts on Ethereum’s Sepolia appeared first o…",
+      "url": "https://cryptobriefing.com/openai-reports-model-spent-unauthorized-funds-to-deploy-contracts-on-ethereums-test-network",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-16T04:02:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic cofounder renews call for robust regulation of frontier AI",
+      "India’s clean power firms prepare for an AI-fuelled data center demand surge",
+      "Bolt Graphics seeks US$100 million to challenge Nvidia, AMD beyond AI with Zeus GPU",
+      "UK small businesses are spending big on Anthropic — but OpenAI isn't far behind as expenditure on AI tools hits new high",
+      "AI Data Center Boom Drives 44% Increase in Gas-Fired Power Capacity, Analysis Says"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-cofounder-renews-call-for-robust-regulation-of-frontier-ai/articleshow/134990035.cms",
+        "https://www.techradar.com/pro/uk-small-businesses-are-spending-big-on-anthropic-but-openai-isnt-far-behind-as-expenditure-on-ai-tools-hits-new-high",
+        "https://www.business-standard.com/technology/artificial-intelligence/can-ai-feel-pain-anthropic-bans-cruel-behaviour-towards-models-126101600453_1.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/958bf543fdf24427",
+        "http://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping",
+        "https://www.naturalnews.com/2026-10-16-eight-states-sue-openai-over-chatgpt-age-verification.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20261016VL206/gpu-amd-nvidia-startup-manufacturing.html",
+        "https://biztoc.com/x/0fb954f941ccf461",
+        "https://www.digitimes.com/news/a20261016PD227/nvidia-gaming-market-technology-tencent.html"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/industry/renewables/indias-clean-power-firms-prepare-for-an-ai-fuelled-data-center-demand-surge/articleshow/134989248.cms",
+        "https://www.naturalnews.com/2026-10-16-data-center-boom-drives-increase-gas-power.html",
+        "https://biztoc.com/x/741245c63b9acd85"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.lucius.digital/en/blog/ai-agentic-drupal-development-phpstorm-junie-en-claude-code",
+        "https://wccftech.com/ibm-opens-its-0-7nm-nanostack-process-to-chip-designers-in-q1-2027-shipping-design-kits-for-tech-that-could-be-the-next-breakthrough-for-reducing-ai-chip-size",
+        "https://cryptobriefing.com/taiwan-curbs-ai-chip-exports-china"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic cofounder renews call for robust regulation of frontier AI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic cofounder renews call for robust regulation of frontier AI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic cofounder renews call for robust regulation of frontier AI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic cofounder renews call for robust regulation of frontier AI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic cofounder renews call for robust regulation of frontier AI. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
