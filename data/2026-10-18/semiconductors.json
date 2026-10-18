@@ -1,0 +1,304 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-18",
+  "last_updated_utc": "2026-10-18T10:16:53.753Z",
+  "news": [
+    {
+      "title": "Chart of the Week: The chip stock split",
+      "description": "Losses across semi stocks have been unequal",
+      "url": "https://biztoc.com/x/3b0160c686f18f63",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-17T10:07:12Z"
+    },
+    {
+      "title": "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+      "description": "A Lego enthusiast recreated the rare ASML Lego kit, added their own customizations, and shared the plans for free on Rebrickable.",
+      "url": "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-17T10:00:00Z"
+    },
+    {
+      "title": "BME280 Sensor: Temperature, Humidity and Pressure with ESP32",
+      "description": "The Bosch Sensortec BME280 measures temperature, humidity and atmospheric pressure in a tiny 2.5 x 2.5 mm chip. We look at how the module works and test it with an ESP32-C3 SuperMini and an OLED display.\nThe post BME280 Sensor: Temperature, Humidity and Press…",
+      "url": "https://www.open-electronics.org/bme280-sensor-temperature-humidity-and-pressure-with-esp32",
+      "source": "Open-electronics.org",
+      "publishedAt": "2026-10-17T10:00:00Z"
+    },
+    {
+      "title": "Japan approves TSMC plan to make 3-nanometer chips at its second Kumamoto fab",
+      "description": "Japan's Ministry of Economy, Trade and Industry (METI) on Oct. 16 approved a revised plan from Taiwan Semiconductor Manufacturing Co. (TSMC) to build 3-nanometer logic chips at its second fab in Kumamoto Prefecture, on the southern island of Kyushu. 3nm is on…",
+      "url": "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-17T09:59:55Z"
+    },
+    {
+      "title": "Taiwan Moves to Criminalize AI Chip Smuggling to China Under Foreign Trade Act",
+      "description": "Taiwan is formalizing its stance on the illicit transfer of high-end computing hardware to China. Minister of Economic Affairs Kung Ming-hsin announced on October 12 that the government intends to add AI servers and advanced semiconductors to the list of item…",
+      "url": "https://forkast.news/taiwan-moves-to-criminalize-ai-chip-smuggling-to-china-under-foreign-trade-act",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-17T08:32:27Z"
+    },
+    {
+      "title": "Who is Ankit Jain? Former Dyson India MD’s startup Foundry raises ₹12 crore in a pre-seed funding round",
+      "description": "Former Dyson India MD Ankit Jain’s startup Foundry has raised  ₹12 crore in pre-seed funding. The premium home appliance company plans to launch its first kitchen products in the second half of 2027, using the funds for technology development and product engi…",
+      "url": "https://www.livemint.com/companies/people/who-is-ankit-jain-former-dyson-india-md-s-startup-foundry-raises-rs-12-crore-in-a-pre-seed-funding-round-11792225024953.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-17T08:26:59Z"
+    },
+    {
+      "title": "REQ: MacWhisper v15.2",
+      "description": "Version 14.0 (1451) Is the ltest version i can find anywhere and its here. :(any newer version would be appreciated !Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper, Qwen as well as Nvidia Pa…",
+      "url": "https://audioz.download/request/302782-download_req-macwhisper-152-improved-speaker-recognition-realtime-meetings-apple-intelligence-new-qwen-model.html",
+      "source": "Audioz.download",
+      "publishedAt": "2026-10-17T08:14:23Z"
+    },
+    {
+      "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+      "description": "sys2txt is a command line tool that records whatever audio your Linux machine is playing (via PulseAudio/PipeWire's monitor source) and transcribes it live with Whisper, OpenAI's AI-based speech-to-text model.I use it to caption meetings, videos, and calls pl…",
+      "url": "https://joe-heffer.github.io/sys2txt",
+      "source": "Github.io",
+      "publishedAt": "2026-10-17T08:14:12Z"
+    },
+    {
+      "title": "NVIDIA RTX Spark Ships a Petaflop to the Desktop. The Compute Landlord Extends the Lease.",
+      "description": "The $2,599 entry point for NVIDIA’s RTX Spark platform, launching October 16, 2026, across major OEMs including ASUS, Dell, HP, Lenovo, Microsoft, and MSI, is not merely a price tag. It is a structural signal that the era of local inference has moved from exp…",
+      "url": "https://forkast.news/nvidia-rtx-spark-ships-a-petaflop-to-the-desktop-the-compute-landlord-extends-the-lease",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-17T08:02:28Z"
+    },
+    {
+      "title": "Dell’s business laptop drops from $1,099 to $265",
+      "description": "TL;DR: A grade A refurbished Dell Latitude 5420 with an 11th Gen i5, 8GB RAM, 256GB SSD, and Windows 11 Pro is $264.99 (MSRP $1,099). Limited inventory available.\r\n\n\n\n\nA brand-new business laptop with Windows 11 Pro, Thunderbolt 4, and an 11th Gen Intel proce…",
+      "url": "https://www.pcworld.com/article/3262781/dells-business-laptop-drops-from-1099-to-265.html",
+      "source": "PCWorld",
+      "publishedAt": "2026-10-17T08:00:00Z"
+    },
+    {
+      "title": "TSMC: The 2nm Growth Opportunity Makes It A Strong Buy",
+      "description": "Investment Thesis\nI am initiating coverage of Taiwan Semiconductor Manufacturing Company (TSM) with a strong Buy and a price target of $577. This represents an upside potential of 37% from the current level of $422. My investment\nThis article was written by\nA…",
+      "url": "https://biztoc.com/x/e335f8ba35eddb91",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-17T07:36:50Z"
+    },
+    {
+      "title": "Missed Out On Micron and Sandisk? Make Sure You Don't Miss Out On This Memory Stock",
+      "description": "There's always a second chance in the stock market. Investors who missed out on Apple and Amazon in the early 2000s had access to picks like Tesla and Nvidia in the 2010s. Even in this past decade, stocks like Palantir minted new millionaires.\nMicron (NASDAQ:…",
+      "url": "https://biztoc.com/x/057e31a7b16e5b6e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-17T07:36:45Z"
+    },
+    {
+      "title": "Citi sees China AI supply-chain IPOs holding firm despite valuation pullback",
+      "description": "Investor confidence in China's AI hardware sector suggests resilience, but geopolitical risks and potential downturns could test market stability.\nThe post Citi sees China AI supply-chain IPOs holding firm despite valuation pullback appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/citi-china-ai-supply-chain-ipos-hong-kong",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-17T07:34:20Z"
+    },
+    {
+      "title": "The Luckiest Groom In The World Was Brought To Tears After Being Gifted An ASUS’ ROG Astral RTX 5090 By His Wife On His Wedding, A GPU Worth $12,000",
+      "description": "NVIDIA’s RTX 5090 was already one of the most valuable pieces of technology in modern computing because not only was it difficult to get a hold of, but the sheer demand for graphics cards and AI forced the GPU to spike in price and disappear from the company’…",
+      "url": "https://wccftech.com/groom-brought-to-tears-asus-rog-astral-rtx-5090-wedding-gift",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-17T07:16:49Z"
+    },
+    {
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "description": "btop is beautiful. But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing? No watts, no GPU, no per-core clocks.So I built siltop: btop's calm, with eyes on the silicon. Real power, clocks and temps straight from…",
+      "url": "https://github.com/CLoaKY233/siltop",
+      "source": "Github.com",
+      "publishedAt": "2026-10-17T07:01:07Z"
+    },
+    {
+      "title": "(Grade A Refurb) HP OMEN 17: 17.3\" QHD IPS 240Hz, Ryzen 7 350, RTX 5070, 32GB DDR5, 1TB SSD $1349.99 (0 replies)",
+      "description": "SPECS:Model: HP OMEN Gaming Laptop 17-db1097nr\nPart Number: B98J8UA#ABA\nOperating System: Windows 11 Home\nProcessor: AMD Ryzen AI 7 350, 2.0 GHz base, up to 5.0 GHz max boost, 8-core/16-thread, 16 MB",
+      "url": "https://slickdeals.net/f/20171010-grade-a-refurb-hp-omen-17-17-3-qhd-ips-240hz-ryzen-7-350-rtx-5070-32gb-ddr5-1tb-ssd-1349-99",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-17T06:57:53Z"
+    },
+    {
+      "title": "China to restrict solar, AI exports",
+      "description": "HONG KONG -- China on Friday said that it plans to restrict or ban exports of 40 technologies that span artificial intelligence, chips and solar power as its technology race with countries including the United States intensifies.",
+      "url": "https://www.arkansasonline.com/news/2026/oct/17/china-to-restrict-solar-ai-exports",
+      "source": "Arkansas Online",
+      "publishedAt": "2026-10-17T06:54:40Z"
+    },
+    {
+      "title": "0x36 Cyberhades Podcast: Mira mamá un coche volando ...",
+      "description": "Un coche/cohete volador ;) y RoboCop para Neo Geo abren el debate sobre crear con IA y valorar el resultado. Hablamos de modelos con puertas traseras, supuestos implantes en Ledger y phishing de calendario.\nDel ordenador del Apolo (y algunas anécdotas del his…",
+      "url": "https://www.cyberhades.com/2026/10/17/0x36-cyberhades-podcast-mira-mam%C3%A1-un-coche-volando-...",
+      "source": "Cyberhades.com",
+      "publishedAt": "2026-10-17T06:00:42Z"
+    },
+    {
+      "title": "CoreWeave Stock Faces A Debt Funding Test",
+      "description": "CoreWeave is pushing ahead with a large AI cloud buildout funded by heavy borrowing, including distressed bonds and complex insurance-linked capital, while also adding 240 MW of high-density capacity in India through AdaniConneX and NVIDIA Vera Rubin hardware…",
+      "url": "https://biztoc.com/x/9e1275afa9fa686b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-17T05:51:16Z"
+    },
+    {
+      "title": "Elon Musk’s China RAM Warning Raises Questions for Samsung, SK Hynix as South Korea Faces Potential Memory Chip Oversupply and Less Time To Diversify",
+      "description": "Elon Musk’s China RAM Warning Raises Questions for Samsung, SK Hynix as South Korea Faces Potential Memory Chip Oversupply and Less Time To Diversify\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nElon Mus…",
+      "url": "https://biztoc.com/x/718ad2bb9c5c7bb4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-17T05:21:04Z"
+    },
+    {
+      "title": "Bitcoin uit het Satoshi-tijdperk wordt geconfronteerd met een grotere kwantumdreiging na Googles nieuwe doorbraak met Willow",
+      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+      "url": "https://www.coindesk.com/nl/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-17T05:18:50Z"
+    },
+    {
+      "title": "구글의 새로운 윌로우(Willow) 돌파구 이후 사토시 시절 비트코인이 더 큰 양자 위협에 직면하다",
+      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+      "url": "https://www.coindesk.com/ko/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-17T04:20:13Z"
+    },
+    {
+      "title": "Ang Bitcoin noong panahon ni Satoshi ay nahaharap sa mas malaking banta sa quantum matapos ang bagong tagumpay ng Google sa Willow",
+      "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+      "url": "https://www.coindesk.com/fil/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-17T04:18:40Z"
+    },
+    {
+      "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "description": "The Indian IT sector experienced an impressive surge, achieving its highest weekly increase in 18 years, driven by unexpectedly strong quarterly results from companies like HCLTech. The Nifty IT index jumped 11.7%, amidst falling semiconductor stock prices in…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-17T04:16:40Z"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3: 15\" FHD+ IPS, Ryzen 7 8840HS, 16GB DDR5, 512GB SSD $599",
+      "description": "*SPECS:*[list][*]15.3\" FHD+ (1920x1200, WUXGA +) 16:10, 60Hz, 300-nits, 45% NTSC, Anti-glare, IPS Display[*]AMD Ryzen 7 8840HS (8C / 16T, 3.3 / 5.1GHz, 8MB L2 / 16MB L3)[*]AMD Ryzen AI, up to 16...",
+      "url": "https://slickdeals.net/f/20170677-lenovo-ideapad-slim-3-15-fhd-ips-ryzen-7-8840hs-16gb-ddr5-512gb-ssd-599",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-17T04:16:35Z"
+    },
+    {
+      "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal",
+      "description": "Blackstone funds ​would ‌invest $9 billion in the debt backed by ‌Anthropic’s ​5-year lease payments ⁠on the chips, the ‌report said",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-offers-blackstone-double-digit-yield-in-chip-financing-deal/article71595293.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-17T04:16:05Z"
+    },
+    {
+      "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
+      "description": "Investor confidence in the market is wavering due to recent declines in AI-linked stocks and semiconductor firms. Upcoming quarterly results from major players, including Meta Platforms, are being closely monitored by investors. Analysts are watching whether …",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-17T03:59:31Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Chart of the Week: The chip stock split",
+      "ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica",
+      "BME280 Sensor: Temperature, Humidity and Pressure with ESP32",
+      "Japan approves TSMC plan to make 3-nanometer chips at its second Kumamoto fab",
+      "Taiwan Moves to Criminalize AI Chip Smuggling to China Under Foreign Trade Act"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/3b0160c686f18f63",
+        "https://www.open-electronics.org/bme280-sensor-temperature-humidity-and-pressure-with-esp32",
+        "https://forkast.news/taiwan-moves-to-criminalize-ai-chip-smuggling-to-china-under-foreign-trade-act"
+      ]
+    },
+    {
+      "title": "Hardware",
+      "summary": "Grouped stories where \"hardware\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/citi-china-ai-supply-chain-ipos-hong-kong",
+        "https://biztoc.com/x/9e1275afa9fa686b"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://audioz.download/request/302782-download_req-macwhisper-152-improved-speaker-recognition-realtime-meetings-apple-intelligence-new-qwen-model.html",
+        "https://forkast.news/nvidia-rtx-spark-ships-a-petaflop-to-the-desktop-the-compute-landlord-extends-the-lease",
+        "https://biztoc.com/x/057e31a7b16e5b6e"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts",
+        "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html",
+        "https://www.livemint.com/companies/people/who-is-ankit-jain-former-dyson-india-md-s-startup-foundry-raises-rs-12-crore-in-a-pre-seed-funding-round-11792225024953.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Chart of the Week: The chip stock split. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Chart of the Week: The chip stock split. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Chart of the Week: The chip stock split. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Chart of the Week: The chip stock split. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Chart of the Week: The chip stock split. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
