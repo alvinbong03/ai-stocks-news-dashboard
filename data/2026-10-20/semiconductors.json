@@ -1,0 +1,389 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-20",
+  "last_updated_utc": "2026-10-20T10:51:20.249Z",
+  "news": [
+    {
+      "title": "How China's proposed AI export controls could affect open-weight ecosystem",
+      "description": "China's AI Export Controls: China's proposed export controls on advanced AI technologies could affect access to Chinese open-weight models, with implications for global developers, Indian enterprises and the push for open AI",
+      "url": "https://www.business-standard.com/technology/tech-news/china-ai-export-controls-open-weight-models-126101900723_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-19T10:46:45Z"
+    },
+    {
+      "title": "A Beastly LLM Rig With Not One But Four RTX 5090 GPUs Bypassed The 12VHPWR Power Connector, Melting The Main Plug And Socket, Owner Says 13A Fuse Wasn’t Enough",
+      "description": "One RTX 5090 was already a ticking time bomb for the 12VHPWR power connector, as the latter has been the weakest link of the GPU, so imagine how much stress four of these graphics cards will be inflicting on the connectors? Quite a bit, as one owner shows tha…",
+      "url": "https://wccftech.com/quad-rtx-5090-rig-melts-wall-plug-and-socket-13a-fuse",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-19T10:45:00Z"
+    },
+    {
+      "title": "JPMorgan announces $5 billion in investments in companies critical to US national security",
+      "description": "By Nupur Anand\nNEW YORK, Oct 19 (Reuters) - JPMorgan Chase said it has invested $5 billion in equity in industries critical to US economic and national security, as banks seek to capitalize on growing demand for domestic manufacturing, energy infrastructure a…",
+      "url": "https://biztoc.com/x/c49b1f6a578b6791",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T10:39:30Z"
+    },
+    {
+      "title": "ASML: No AI Slowdown In Sight As Orders And Margins Surge",
+      "description": ", the world's leading semiconductor equipment manufacturer in the lithography system market, just reported better-than-expected earnings for its third quarter amid continual AI-driven demand strength.\nWith Anthropic and U.S. hyperscalers going on a spending b…",
+      "url": "https://biztoc.com/x/51f8b8c4e6ac8fc3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T10:37:39Z"
+    },
+    {
+      "title": "Nvidia dodged the AI selloff, and Jensen Huang has a theory why",
+      "description": "Jensen Huang spent the week selling Europe on artificial intelligence while Wall Street sold off the stocks built on it. \nBy the closing bell on October 16, the S&P 500’s technology sector had fallen more than 3%, the Nasdaq had lost about 2%, and energy was …",
+      "url": "https://biztoc.com/x/d2987a644d1956cb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T10:37:37Z"
+    },
+    {
+      "title": "Atomera to Announce Third Quarter 2026 Financial Results and Host Webinar on Thursday, October 29, 2026",
+      "description": "LOS GATOS, Calif., Oct. 19, 2026 /PRNewswire/ -- Atomera Incorporated (NASDAQ: ATOM), a semiconductor materials and technology licensing company, announced today that it plans to release its third quarter 2026 financial results after the market closes on Thur…",
+      "url": "https://www.prnewswire.com/news-releases/atomera-to-announce-third-quarter-2026-financial-results-and-host-webinar-on-thursday-october-29-2026-302912038.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-19T10:30:00Z"
+    },
+    {
+      "title": "Cyberpunk Neon Signs & Boards - 200 Sci-Fi Props by Akram Ali",
+      "description": "A collection of 200 animated cyberpunk and sci-fi neon signs with realistic electrical flicker, dynamic glow controller, 12 optimized shared HDR materials, and full URP & Built-in pipeline support.• Number of textures: 0 (Optimized shader color parameters for…",
+      "url": "https://assetstore.unity.com/packages/3d/props/electronics/cyberpunk-neon-signs-boards-200-sci-fi-props-417836",
+      "source": "Unity.com",
+      "publishedAt": "2026-10-19T10:23:11Z"
+    },
+    {
+      "title": "Saxony and Arizona Expand Collaboration in the Semiconductor Industry",
+      "description": "DRESDEN, Germany, Oct. 19, 2026 /PRNewswire/ -- Saxony and the U.S. state of Arizona intend to further expand their ties in the semiconductor industry. Saxony Trade & Invest Corp. (WFS) and the Arizona Commerce Authority (ACA) used SEMICON West, the leading U…",
+      "url": "https://www.prnewswire.com/news-releases/saxony-and-arizona-expand-collaboration-in-the-semiconductor-industry-302912483.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-19T10:02:00Z"
+    },
+    {
+      "title": "Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800",
+      "description": "This Newegg deal on an ABS Flux II Aqua gaming PC gives you a machine ready for 1440p and 4K gameplay for $1,799.99. This pre-built comes with a 20-core Intel Core i7-14700F CPU, an Nvidia GeForce RTX 5070, a 1TB SSD, and 32GB of DDR5 RAM.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-19T10:01:38Z"
+    },
+    {
+      "title": "A Custom Chip on a Breadboard: Zachary Tong’s TTA Processor",
+      "description": "A maker designed a custom chip, had it fabricated through wafer.space and proved it works on a breadboard driven by a Raspberry Pi Pico and a row of LEDs. Here is how the TTA processor went from Spade code to silicon.\nThe post A Custom Chip on a Breadboard: Z…",
+      "url": "https://www.open-electronics.org/a-custom-chip-on-a-breadboard-zachary-tongs-tta-processor",
+      "source": "Open-electronics.org",
+      "publishedAt": "2026-10-19T10:00:00Z"
+    },
+    {
+      "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made",
+      "description": "They power our phones, cars, dishwashers—and the A.I. systems that prop up the economy. They’re also at the heart of fierce geopolitical rivalry. Gideon Lewis-Kraus reports.",
+      "url": "https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made",
+      "source": "The New Yorker",
+      "publishedAt": "2026-10-19T10:00:00Z"
+    },
+    {
+      "title": "Machine-learning disordered Hubbard model underlying semiconductor quantum dot based two-dimensional spin qubit arrays",
+      "description": "We theoretically develop a machine-learning-based method for inferring the random onsite-energy fluctuations in disordered two-dimensional (2D) generalized Hubbard models underlying spin-qubit platforms, using vision-based neural networks trained on tensor-ne…",
+      "url": "https://link.aps.org/doi/10.1103/lt2l-s7bk",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-19T10:00:00Z"
+    },
+    {
+      "title": "Nikkei Closes at 64,916 as Technology Stocks Drag Market Lower",
+      "description": "Japan's Nikkei Stock Average closed 407.59 points lower at 64,916.70 on October 19, a decline of 0.62%, recovering from an intraday plunge of more than 1,400 points as concerns over artificial intelligence investment weighed on semiconductor and technology sh…",
+      "url": "https://newsonjapan.com/article/151090.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-10-19T09:51:40Z"
+    },
+    {
+      "title": "Market Chatter: Anthropic Offers Blackstone High Yield in Chip Financing Deal",
+      "description": "Anthropic has offered Blackstone (BX) a yield of more than 10% on its investment as part of a larger",
+      "url": "https://biztoc.com/x/c5064e012b218b85",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T09:38:43Z"
+    },
+    {
+      "title": "Intel CEO Lip-Bu Tan Says China Is “Not That Far Behind” In Chip Manufacturing, Despite US Sanctions Blocking Its Access To EUV Machines",
+      "description": "Intel CEO Lip-Bu Tan believes that China is not significantly behind the US when it comes to chip manufacturing prowess. The CEO made the remarks in an interview with Nikkei Asia, where he also discussed Intel's restructuring efforts and attempts to establish…",
+      "url": "https://wccftech.com/intel-ceo-lip-bu-tan-says-china-is-not-that-far-behind-in-chip-manufacturing-despite-us-sanctions-blocking-its-access-to-euv-machines",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-19T09:34:41Z"
+    },
+    {
+      "title": "‘No early warning’: Zelenskyy says allies failed to alert Kyiv before Russian strikes; Rubio says US intel sharing never paused",
+      "description": "Ukrainian president Volodymyr Zelenskyy claimed that Kyiv received no early warning from its international partners ahead of Russia’s latest ballistic",
+      "url": "https://timesofindia.indiatimes.com/world/europe/no-early-warning-zelenskyy-says-allies-failed-to-alert-kyiv-before-russian-strikes-rubio-says-us-intel-sharing-never-paused/articleshow/135044402.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-19T09:29:33Z"
+    },
+    {
+      "title": "Supplier.cloud – Monitor supply chain compliance and third-party risk end to end",
+      "description": "Monitor supply chain compliance and third-party risk end to end",
+      "url": "https://betalist.com/startups/supplier-cloud",
+      "source": "Betalist.com",
+      "publishedAt": "2026-10-19T09:20:00Z"
+    },
+    {
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "description": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
+      "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-19T09:15:00Z"
+    },
+    {
+      "title": "Lenovo ThinkPad E16 Ryzen 7 250 16\" Laptop for $1,069 + free shipping",
+      "description": "At Newegg, get the Lenovo ThinkPad E16 Ryzen 7 250 16\" Laptop for $1069. That's a savings of $550.  Buy Now at Newegg\r\n Features\r\n <ul> <li>AMD Ryzen 7 250 processor with speeds up to 5.1GHz</li> <li>16\" FHD+ 1920x1200 non-touch display at 60Hz</li> <li>16GB …",
+      "url": "https://www.dealnews.com/Lenovo-Think-Pad-E16-Ryzen-7-250-16-Laptop-for-1-069-free-shipping/22296475.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-19T09:09:21Z"
+    },
+    {
+      "title": "Nvidia CEO among top business execs to attend German investment summit",
+      "description": "Germany is set to host top business executives, including Nvidia boss Jensen Huang, on Monday for a summit that Chancellor Friedrich Merz hopes will help to attract private investment to boost the sluggish economy.\nEurope's largest economy has struggled to at…",
+      "url": "https://biztoc.com/x/6a63f76aa240930c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T09:08:43Z"
+    },
+    {
+      "title": "AI Capex And Earnings: What Happens When Growth Slows",
+      "description": "AI capex and earnings are now so tightly tied that spending doesn't have to fall to hurt profits. It only has to stop accelerating.\r\n\n\r\n\n\n\n\n\n\nAlmost half of the S&P 500's earnings growth this year traces back to one activity: companies buying chips, servers, …",
+      "url": "https://realinvestmentadvice.com/resources/blog/ai-capex-and-earnings-what-happens-when-growth-slows",
+      "source": "Realinvestmentadvice.com",
+      "publishedAt": "2026-10-19T09:08:00Z"
+    },
+    {
+      "title": "Five Veterans Groups Receive $1 Million in New SBA Grants to Help Entrepreneurs Boost US Business Production",
+      "description": "Funding Earmarked to Further Equip Veteran Business Owners to Support America’s Supply Chain",
+      "url": "https://military.com/veterans-groups-receive-1-million-in-new-sba-grants-help-entrepreneurs-boost-us-business-production",
+      "source": "Military.com",
+      "publishedAt": "2026-10-19T09:00:17Z"
+    },
+    {
+      "title": "Amazon knows how to build big. The AI boom is testing just how big it can go.",
+      "description": "Amazon's $220 billion AI buildout is draining cash as power shortages, costly Nvidia servers, and construction challenges pile up.",
+      "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-19T09:00:01Z"
+    },
+    {
+      "title": "Train journey ahead? 5 things you should check before settling into your berth",
+      "description": "There is a particular kind of relief in finding your berth after a tiring day. You put your bag down, take out your phone, maybe grab a packet of chips and finally feel ready to relax. If you have an overnight journey, you might already be planning to sleep t…",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/train-journey-ahead-5-things-you-should-check-before-settling-into-your-berth/photostory/135044648.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-19T08:59:46Z"
+    },
+    {
+      "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
+      "description": "Ukraine relies on US intel through Starshield to spot fast-moving ballistic missiles that Russia ​fires at its cities.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-19T08:58:04Z"
+    },
+    {
+      "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+      "description": "Samsung Electronics is developing the Exynos 2700 for broader use across its Galaxy S27 lineup in 2027, while Huawei has moved its next-generation Kirin chips into testing. The competing efforts are raising pressure on Samsung to improve application processor…",
+      "url": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-19T08:55:00Z"
+    },
+    {
+      "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
+      "description": "Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI chip development and advanced packaging.",
+      "url": "https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-19T08:55:00Z"
+    },
+    {
+      "title": "‘No early warning’: Zelenskyy says allies failed to alert Kyiv before Russian strikes; Rubio says US intel sharing never paused",
+      "description": "Ukrainian president Volodymyr Zelenskyy claimed that Kyiv received no early warning from its international partners ahead of Russia’s latest ballistic",
+      "url": "https://timesofindia.indiatimes.com/india/no-early-warning-zelenskyy-says-allies-failed-to-alert-kyiv-before-russian-strikes-rubio-says-us-intel-sharing-never-paused/articleshow/135044402.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-19T08:53:50Z"
+    },
+    {
+      "title": "Rubio says no pause in US intel sharing with Ukraine",
+      "description": "US Secretary of State Marco Rubio on Monday denied any suspension of intelligence sharing with Ukraine, urging President Volodymyr Zelensky to focus on end\n\nRead More: https://punchng.com/rubio-says-no-pause-in-us-intel-sharing-with-ukraine/",
+      "url": "https://punchng.com/rubio-says-no-pause-in-us-intel-sharing-with-ukraine",
+      "source": "The Punch",
+      "publishedAt": "2026-10-19T08:53:12Z"
+    },
+    {
+      "title": "MINISFORUM MS-S1 Max Ryzen AI Max+ 395 Mini PC Workstation for $3,799 + free shipping",
+      "description": "Using promo code \"SPCN2\" drops this mini workstation to $3,799. That's a savings of $2200. Buy Now at Newegg\r\n Features\r\n <ul> <li>AMD Ryzen AI Max+ 395 processor w/ 16 cores and 32 threads</li> <li>128GB of LPDDR5 memory and 2TB SSD storage</li> <li>AMD Rade…",
+      "url": "https://www.dealnews.com/MINISFORUM-MS-S1-Max-Ryzen-AI-Max-395-Mini-PC-Workstation-for-3-799-free-shipping/22296466.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-19T08:48:07Z"
+    },
+    {
+      "title": "Anthropic offers Blackstone more than 10% return in US$60 billion AI chip financing deal",
+      "description": "Anthropic is offering Blackstone a total return of more than 10% to help finance a US$60 billion artificial intelligence (AI) chip procurement package, as higher infrastructure financing costs make expanding computing capacity more expensive. The proposed arr…",
+      "url": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-19T08:47:46Z"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Tech Rebound After AI Selloff; Nvidia, Micron, SpaceX, Tesla, AMD, and More Movers",
+      "description": "Oct. 19, 2026 at 4:34am ET\nIs the artificial-intelligence bloodbath finally over, or will a slew of Big Tech earnings reports only make things worse? That’s the big question for the market this week with the likes of Facebook owner Meta Platforms, video strea…",
+      "url": "https://biztoc.com/x/dfee81d025ca62f1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T08:36:44Z"
+    },
+    {
+      "title": "MSI Codex R2 Core i5-14400F RTX 5060 Gaming Desktop for $1,499 + free shipping",
+      "description": "At Newegg, get the MSI Codex R2 Core i5-14400F RTX 5060 Gaming Desktop for $1499. That's a savings of $200. Buy Now at Newegg\r\n Features\r\n <ul> <li>Intel Core i5-14400F processor (14th Gen)</li> <li>32GB DDR5 RAM</li> <li>2TB NVMe SSD storage</li> <li>GeForce…",
+      "url": "https://www.dealnews.com/MSI-Codex-R2-Core-i5-14400-F-RTX-5060-Gaming-Desktop-for-1-499-free-shipping/22296459.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-19T08:27:12Z"
+    },
+    {
+      "title": "Samsung may use rival TSMC for Nvidia’s custom HBM4E base dies",
+      "description": "Samsung typically manufactures the base dies for its high-bandwidth memory (HBM) chips in-house. However, the company has reportedly agreed to Nvidia's request to use TSMC's 3nm process for the base dies in NVHBM, a custom HBM4E chip for Nvidia's AI infrastru…",
+      "url": "https://www.sammobile.com/news/samsung-agrees-tsmc-make-custom-nvidia-nvhbm-base-die",
+      "source": "SamMobile",
+      "publishedAt": "2026-10-19T08:25:37Z"
+    },
+    {
+      "title": "Sonic Acts Biennial 2026",
+      "description": "Contributed by British Standard TypeSource: www.instagram.com License: All Rights Reserved. Sonic Acts Biennial 2026 brought together more than 200 artists across over 20 venues in Amsterdam, spanning sound, moving image, performance, installation and other f…",
+      "url": "https://fontsinuse.com/uses/77618/sonic-acts-biennial-2026",
+      "source": "Fontsinuse.com",
+      "publishedAt": "2026-10-19T08:23:58Z"
+    },
+    {
+      "title": "Reply Earns \"NVIDIA Physical AI Specialization\" for Production-Ready Robotics and Digital Twins",
+      "description": "TURIN, Italy, October 19, 2026--(BUSINESS WIRE)--Reply [EXM, STAR: REY] is among the first NVIDIA partners in the world to achieve the \"Physical AI Specialization\" within the NVIDIA Partner Network (NPN), in recognition of its expertise in developing and depl…",
+      "url": "https://biztoc.com/x/d362ab6349805e75",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T08:22:33Z"
+    },
+    {
+      "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+      "description": "Samsung has typically adopted a “turnkey” approach when developing HBM’s core and base dies, but according to the latest report, NVIDIA’s custom NVHBM requires a more streamlined approach in manufacturing involving Samsung and TSMC. Both firms have seemingly …",
+      "url": "https://biztoc.com/x/d692752027d2f3cd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-19T08:21:20Z"
+    },
+    {
+      "title": "The road not taken Part 2 of 2: TSMC's first CTO said no to Intel twice but still wonders what if",
+      "description": "Chenming Hu co-invented the FinFET transistor with colleagues at the University of California, Berkeley, in the 1990s and became TSMC's first chief technology officer in 2001. Decades earlier, as a graduate student, he was invited by Intel co-founder Andy Gro…",
+      "url": "https://www.digitimes.com/news/a20261019PD218/intel-taiwan-academia-sinica-tsmc-electronics.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-19T08:20:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "How China's proposed AI export controls could affect open-weight ecosystem",
+      "A Beastly LLM Rig With Not One But Four RTX 5090 GPUs Bypassed The 12VHPWR Power Connector, Melting The Main Plug And Socket, Owner Says 13A Fuse Wasn’t Enough",
+      "JPMorgan announces $5 billion in investments in companies critical to US national security",
+      "ASML: No AI Slowdown In Sight As Orders And Margins Surge",
+      "Nvidia dodged the AI selloff, and Jensen Huang has a theory why"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/d2987a644d1956cb",
+        "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+        "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://wccftech.com/intel-ceo-lip-bu-tan-says-china-is-not-that-far-behind-in-chip-manufacturing-despite-us-sanctions-blocking-its-access-to-euv-machines",
+        "https://timesofindia.indiatimes.com/world/europe/no-early-warning-zelenskyy-says-allies-failed-to-alert-kyiv-before-russian-strikes-rubio-says-us-intel-sharing-never-paused/articleshow/135044402.cms",
+        "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://newsonjapan.com/article/151090.php",
+        "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.open-electronics.org/a-custom-chip-on-a-breadboard-zachary-tongs-tta-processor",
+        "https://biztoc.com/x/c5064e012b218b85"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/technology/tech-news/china-ai-export-controls-open-weight-models-126101900723_1.html",
+        "https://wccftech.com/quad-rtx-5090-rig-melts-wall-plug-and-socket-13a-fuse",
+        "https://biztoc.com/x/c49b1f6a578b6791"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How China's proposed AI export controls could affect open-weight ecosystem. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How China's proposed AI export controls could affect open-weight ecosystem. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How China's proposed AI export controls could affect open-weight ecosystem. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How China's proposed AI export controls could affect open-weight ecosystem. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: How China's proposed AI export controls could affect open-weight ecosystem. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
