@@ -1,0 +1,333 @@
+{
+  "theme": "ai",
+  "date": "2026-10-23",
+  "last_updated_utc": "2026-10-23T10:54:37.969Z",
+  "news": [
+    {
+      "title": "Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027",
+      "description": "Two of the leading AI labs are choosing divergent fundraising paths. Anthropic, which developed the Claude family of large language models (LLMs), is planning an initial public offering (IPO) as early as mid-November and could file for it as soon as Friday, a…",
+      "url": "https://biztoc.com/x/182733d0447b0cd2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T09:52:31Z"
+    },
+    {
+      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+      "description": "AIの性能分析を行っているArtificial Analysisが、各種AIの性格を分析するベンチマークテスト「AA-PersonalityBench」を開発し、その結果を公開しました。AA-PersonalityBench: AI Personality & Communication Style Benchmark | Artificial Analysishttps://artificialanalysis.ai/evaluations/aa-personalitybenchAnnouncing AA-Pe…",
+      "url": "https://news.livedoor.com/article/detail/32631979",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-22T10:14:00Z"
+    },
+    {
+      "title": "Achieving AI-style reasoning without an LLM",
+      "description": "Minotaur AI Deep Dive: Achieving Reasoning Without a Language Model In the last post we introduced Minotaur, an AI that reasons with no language model and no GPU. This post looks at why language models think the way people do, at what was tried before them an…",
+      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model",
+      "source": "Fleetingswallow.com",
+      "publishedAt": "2026-10-22T08:46:58Z"
+    },
+    {
+      "title": "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: The ChatPlayground AI Unlimited Plan for life is $59.97 (reg. $619) through Oct. 25. Send one prompt to 20+ models, including ChatGPT, Claude, Gemini, and DeepSeek, and see the answers side by side.\r\n\n\n\n\nSearch “ChatGPT vs. Claude,”…",
+      "url": "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html",
+      "source": "Macworld",
+      "publishedAt": "2026-10-22T08:00:00Z"
+    },
+    {
+      "title": "Anthropic Could File IPO Paperwork as Soon as Friday",
+      "description": "Anthropic could make its IPO paperwork public as soon as Friday (Oct. 23). That would move the Claude developer one step closer to what could be the largest stock market debut ever. The deal is also a major test for the AI boom, as investors grow wary of the …",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-could-file-ipo-paperwork-as-soon-as-friday",
+      "source": "pymnts.com",
+      "publishedAt": "2026-10-22T10:43:21Z"
+    },
+    {
+      "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+      "description": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.\n                                                                    …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186409760",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-22T10:33:08Z"
+    },
+    {
+      "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
+      "description": "Anthropic has opened a waitlist for Claude Duet, an AI agent for US Pro and Max subscribers that monitors apps and asks before acting.",
+      "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent",
+      "source": "The Next Web",
+      "publishedAt": "2026-10-22T10:32:16Z"
+    },
+    {
+      "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+      "description": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-22T10:30:00Z"
+    },
+    {
+      "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+      "description": "Nvidia (NASDAQ:NVDA) is arguably the most critical company in the artificial intelligence (AI) ecosystem, given the central role its chips and software play in powering AI workloads.\nThat deep expertise means Nvidia is well-suited to identifying other potenti…",
+      "url": "https://biztoc.com/x/8c4bc29f95652d8f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T09:52:07Z"
+    },
+    {
+      "title": "Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race",
+      "description": "Anthropic's personal agent is currently in preview and only available to Pro and Max subscribers through a waitlist.\nAnthropic on Wednesday announced a new personal AI agent that can accomplish tasks on your behalf, called Claude Duet. The agent, built around…",
+      "url": "https://uk.pcmag.com/ai/168044/anthropics-claude-duet-agent-joins-muse-dots-in-personal-ai-race",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-22T09:35:54Z"
+    },
+    {
+      "title": "Anthropic’s Claude Duet wants to do your job while you’re offline",
+      "description": "Claude Duet isn’t just another chatbot — it’s an AI agent that actually gets work done.",
+      "url": "https://www.androidcentral.com/apps-software/ai/anthropics-claude-duet-wants-to-do-your-job-while-youre-offline",
+      "source": "Android Central",
+      "publishedAt": "2026-10-22T08:54:41Z"
+    },
+    {
+      "title": "(VIDEO) Anthropic Launches Claude Duet, an Always-On AI Agent App That Works for You",
+      "description": "Anthropic has unveiled Claude Duet, a background AI agent for professionals and small businesses that monitors connected apps, completes tasks and requests approval for high-risk actions.",
+      "url": "https://www.ibtimes.com.au/anthropic-claude-duet-ai-agent-launch-1877193",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-22T08:50:48Z"
+    },
+    {
+      "title": "Infineon, NVIDIA push gallium nitride power for 800-volt AI data centers",
+      "description": "Infineon Technologies is expanding its work with Nvidia on 800-volt direct current power architectures for AI data centers, with a focus on gallium nitride (GaN) chips in the intermediate bus converter (IBC), the company said on October 21.",
+      "url": "https://www.digitimes.com/news/a20261022VL220/infineon-data-gallium-gan-2025.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-22T07:26:46Z"
+    },
+    {
+      "title": "ChatGPT can now lock chats behind a PIN, but they are not encrypted",
+      "description": "OpenAI is rolling out Locked Chats for ChatGPT on every plan, including Free. A four-digit PIN, Face ID or Touch ID now hides selected conversations from history and search. Encryption, retention and model training stay the same, and resetting a forgotten PIN…",
+      "url": "https://www.notebookcheck.net/ChatGPT-can-now-lock-chats-behind-a-PIN-but-they-are-not-encrypted.1431008.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-22T07:20:00Z"
+    },
+    {
+      "title": "DeepSeek raises $15 billion to challenge Anthropic, OpenAI and other US AI labs",
+      "description": "The Chinese AI pioneer DeepSeek has raised about 100 billion yuan ($15 billion) in its latest fundraising round, one of the country’s largest ever and a sign of the startup’s ambitions to compete globally with the likes of Anthropic PBC and OpenAI.",
+      "url": "https://www.livemint.com/companies/news/deepseek-raises-15-billion-to-challenge-anthropic-openai-and-other-us-ai-labs-11792649782182.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-22T06:20:13Z"
+    },
+    {
+      "title": "ChatGPT Ads Are Coming to 26 New Markets",
+      "description": "OpenAI has begun rolling out ads in ChatGPT to Free and Go users across 26 new markets. The company also said that over 100,000 advertisers have now run ads on ChatGPT.\nThe post ChatGPT Ads Are Coming to 26 New Markets appeared first on Thurrott.com.",
+      "url": "https://www.thurrott.com/a-i/343131/chatgpt-ads-are-coming-to-26-new-markets",
+      "source": "Thurrott.com",
+      "publishedAt": "2026-10-22T10:26:14Z"
+    },
+    {
+      "title": "Samsung Electro-Mechanics lands $2.8 billion chip substrate investment from Tesla and Nvidia",
+      "description": "This investment highlights a shift towards strategic partnerships in tech, ensuring supply chain stability and fostering innovation in AI technologies.\nThe post Samsung Electro-Mechanics lands $2.8 billion chip substrate investment from Tesla and Nvidia appea…",
+      "url": "https://cryptobriefing.com/samsung-electro-mechanics-tesla-nvidia-investment",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-22T09:54:08Z"
+    },
+    {
+      "title": "Anthropic Could Take Major IPO Step as Soon as Friday: What Investors Need to Know",
+      "description": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nAnthropic reportedly could publicly file its registration statement (S-1) investor prospectus as soon as Friday, bringing the AI company closer to a potential…",
+      "url": "https://biztoc.com/x/c8857728a1f93c02",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T09:51:39Z"
+    },
+    {
+      "title": "Can ChatGPT Replace Human Therapy? The Truth About AI Mental Health Support",
+      "description": "Can ChatGPT Replace Human Therapy? The Truth About AI Mental Health Supportyoutube.com",
+      "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5J8uX_nXlL4",
+      "source": "YouTube",
+      "publishedAt": "2026-10-22T09:30:40Z"
+    },
+    {
+      "title": "Can a Weakening Jobs Report Slow Wall Street’s AI Slide? - Global X Artificial Intelligence & Technology ETF…",
+      "description": "Artificial intelligence stocks have been struggling in Q4, but could the weakening US job market provide a tailwind for the artificial intelligence boom? The Global X Artificial Intelligence & Technology",
+      "url": "https://biztoc.com/x/775be1faea3388bb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T09:20:30Z"
+    },
+    {
+      "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+      "description": "Software can expose complex functionality to unauthenticated users even when that functionality is disabled or unnecessary. Anthropic’s Frontier Red Team used Claude to examine 25 open-source projects and reported 493 issues involving unnecessary exposure, co…",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source",
+      "source": "Help Net Security",
+      "publishedAt": "2026-10-22T09:10:55Z"
+    },
+    {
+      "title": "Top Anthropic engineer says Claude now writes 'literally all' her team's code",
+      "description": "Katelyn Lesse, head of platform engineering at Anthropic.\nChris Ratcliffe/Bloomberg via Getty Images\nAnthropic platform engineering head Katelyn Lesse said that Claude now writes all her team's code.\nLesse shared ways that Claude Code has helped the company b…",
+      "url": "https://biztoc.com/x/6e6a4dcc3422ff6d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T09:05:43Z"
+    },
+    {
+      "title": "Top Anthropic engineer says Claude now writes 'literally all' her team's code",
+      "description": "At Grafana Labs' ObservabilityCON, Anthropic engineering leader Katelyn Lesse says that Claude Code has completely replaced human coding on her team.",
+      "url": "https://www.businessinsider.com/anthropic-katelyn-lesse-team-shifted-to-ai-coding-entirely-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-22T09:00:05Z"
+    },
+    {
+      "title": "Firm behind planned Anthropic data centre in Nova Scotia denies owing fees to N.L.",
+      "description": "EverWind, a company planning a massive data centre in Nova Scotia for artificial intelligence giant Anthropic, is in the midst of a dispute about land fees for a failed wind-powered hydrogen project in southern Newfoundland.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/everwind-nl-fees-9.7391257",
+      "source": "CBC News",
+      "publishedAt": "2026-10-22T08:59:04Z"
+    },
+    {
+      "title": "Anthropic IPO Faces New Hurdle As NYC Comptroller Urges Delay: Claude Parent's Market Debut Odds Slide",
+      "description": "Anthropic’s IPO faces NYC safety concerns and falling prediction-market odds, though Altimeter’s Brad Gerstner expects a debut within weeks.",
+      "url": "https://biztoc.com/x/714542e6a6acd44a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T07:48:38Z"
+    },
+    {
+      "title": "AI-found bugs are expected to rise, and OpenAI has a five-stage response plan",
+      "description": "OpenAI has proposed a five-stage process for handling critical vulnerabilities in widely used software. The process grew out of a two-month response to flaws in PHP, the open-source language that runs websites and web applications. Calif found one of the PHP …",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/openai-vulnerability-disclosure-plan",
+      "source": "Help Net Security",
+      "publishedAt": "2026-10-22T07:35:52Z"
+    },
+    {
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
+      "description": "SEOUL, Oct 22 : South Korea's Samsung Electro-Mechanics will receive investment valued at 3.7 trillion won ($2.8 billion) from Tesla and Nvidia to build facilities making advanced chip substrates, known as FC-BGA for AI semiconductors, the Maeil Business News…",
+      "url": "https://www.channelnewsasia.com/business/samsung-electro-mechanics-gets-28-billion-chip-investment-tesla-nvidia-report-says-6481841",
+      "source": "CNA",
+      "publishedAt": "2026-10-22T07:24:01Z"
+    },
+    {
+      "title": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market",
+      "description": "Showcases NVIDIA-focused solutions, including camera modules and a Multi-modal Vision System, at GTC Berlin on October 20 Collaboration to expand into robotic vision sensing and robotic hands; next-generation solutions to be unveiled next year Accelerating le…",
+      "url": "https://www.prnewswire.com/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-22T07:00:00Z"
+    },
+    {
+      "title": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market",
+      "description": "Showcases NVIDIA-focused solutions, including camera modules and a Multi-modal Vision System, at GTC Berlin on October 20 Collaboration to expand into robotic vision sensing and robotic hands; next-generation solutions to be unveiled next year Accelerating le…",
+      "url": "https://www.prnewswire.co.uk/news-releases/lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market-302914994.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-10-22T07:00:00Z"
+    },
+    {
+      "title": "OpenAI partners with Google Cloud to offer AI models, codex workflows",
+      "description": "OpenAI’s frontier models and Codex workflows will be accessible through Google Cloud’s Model Garden and Marketplace, enabling enterprises to evaluate, purchase, and deploy AI-powered pipelines within existing GCP ecosystems.",
+      "url": "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-22T06:16:53Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027",
+      "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+      "Achieving AI-style reasoning without an LLM",
+      "Settle ChatGPT vs. Claude yourself with ChatPlayground AI — $59.97 for life",
+      "Anthropic Could File IPO Paperwork as Soon as Friday"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/182733d0447b0cd2",
+        "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-could-file-ipo-paperwork-as-soon-as-friday",
+        "https://thenextweb.com/news/anthropic-claude-duet-ai-agent"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://news.livedoor.com/article/detail/32631979",
+        "https://www.macworld.com/article/3266400/settle-chatgpt-vs-claude-yourself-with-chatplayground-ai-59-97-for-life.html"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186409760",
+        "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks",
+        "https://www.notebookcheck.net/ChatGPT-can-now-lock-chats-behind-a-PIN-but-they-are-not-encrypted.1431008.0.html"
+      ]
+    },
+    {
+      "title": "Company",
+      "summary": "Grouped stories where \"company\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/8c4bc29f95652d8f",
+        "https://www.digitimes.com/news/a20261022VL220/infineon-data-gallium-gan-2025.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model",
+        "https://cryptobriefing.com/samsung-electro-mechanics-tesla-nvidia-investment",
+        "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5J8uX_nXlL4"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
