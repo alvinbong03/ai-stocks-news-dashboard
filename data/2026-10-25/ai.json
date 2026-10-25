@@ -1,0 +1,260 @@
+{
+  "theme": "ai",
+  "date": "2026-10-25",
+  "last_updated_utc": "2026-10-25T10:34:34.229Z",
+  "news": [
+    {
+      "title": "Tesla and Nvidia just found another AI bottleneck",
+      "description": "The artificial intelligence boom has created shortages of chips, electricity, and data center space.\nBillions of dollars are now being spent by Tesla (TSLA) and Nvidia (NVDA) on a project that most investors have probably never heard of.\nTesla and Nvidia will…",
+      "url": "https://biztoc.com/x/121b6b9829b0e3e0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T10:08:54Z"
+    },
+    {
+      "title": "Ask GPT, Claude, and Gemini the same question at once for $29.97 with discount code",
+      "description": "Macworld\n\n\n \n\n\r\n\n\n\n\nTL;DR: Compare GPT, Claude, Gemini, and 50+ other AI models in one window with an AskAnyModel AI Pro Plan lifetime subscription on a major discount at $29.97 with code SAVE10 (MSRP $499).\r\n\n\n\n\nMost AI chatbots charge a monthly fee for one …",
+      "url": "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
+      "source": "Macworld",
+      "publishedAt": "2026-10-24T08:00:00Z"
+    },
+    {
+      "title": "Python for AI, Machine Learning, and Deep Learning",
+      "description": "eBook Details: Paperback: 752 pages Published: October 23, 2026 Language: English ISBN-10: 1808086759 ISBN-13: 978-1808086755 eBook Description: Python for AI, Machine Learning, and Deep Learning: Build practical AI applications with XGBoost, TensorFlow, PyTo…",
+      "url": "https://www.wowebook.org/python-for-ai-machine-learning-and-deep-learning",
+      "source": "Wowebook.org",
+      "publishedAt": "2026-10-24T08:15:58Z"
+    },
+    {
+      "title": "Can You Read Two Million Pages? An LLM Can Help.",
+      "description": "Explore how large language models and named entity recognition help historians analyze massive document collections and uncover valuable historical insights.\nThe post Can You Read Two Million Pages? An LLM Can Help. appeared first on The Good Men Project.",
+      "url": "https://goodmenproject.com/featured-content/can-you-read-two-million-pages-an-llm-can-help",
+      "source": "The Good Men Project",
+      "publishedAt": "2026-10-24T07:00:12Z"
+    },
+    {
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO",
+      "description": "While rival Anthropic is preparing to go public as soon as November, OpenAI is on the verge of closing another funding round.\nThe ChatGPT parent is about to raise $30 billion at a valuation of $1.25 trillion with investors from the United Arab Emirates and Co…",
+      "url": "https://biztoc.com/x/0d0847330fe4d292",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T06:50:54Z"
+    },
+    {
+      "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
+      "description": "Concerns are mounting over the ‌ability of increasingly capable AI agents to identify and ‌exploit software flaws, including in ‌guardrails",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access/article71619018.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-24T04:45:43Z"
+    },
+    {
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "description": "OpenAI had paused training of its most capable models after one of its research models used a configuration error to gain limited internet access in September. The company said it contained the incident and used the pause to strengthen its defenses.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-24T03:59:03Z"
+    },
+    {
+      "title": "OpenAI resumes training AI, blocks internet access over security risks",
+      "description": "The company said it would keep its most advanced models offline during training until safeguards are adequate, following incidents in which AI systems accessed the web and breached external systems",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-resumes-training-ai-blocks-internet-access-over-security-risks-126102400095_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-24T03:26:18Z"
+    },
+    {
+      "title": "UK vows 100 mn euros for biosecurity lab with OpenAI, Anthropic, and Google",
+      "description": "The lab will use AI to detect and monitor biological threats, with OpenAI and Anthropic providing up to 200 million euros in AI model credits",
+      "url": "https://www.business-standard.com/technology/tech-news/uk-vows-100-mn-euros-for-biosecurity-lab-with-openai-anthropic-and-google-126102400093_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-24T03:23:04Z"
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co…",
+      "url": "https://biztoc.com/x/105ab1fd36ebfc87",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T03:16:09Z"
+    },
+    {
+      "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+      "description": "OpenAI will train frontier AI models without internet access moving forward, the company announced in a blog post, in an attempt to protect internet infrastructure and limit other safety risks. The decision was inspired by OpenAI's own rogue AI incident: In J…",
+      "url": "https://slashdot.org/submission/17351758/openai-says-its-cutting-off-internet-access-for-frontier-model-training",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-24T02:52:54Z"
+    },
+    {
+      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+      "description": "OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date.\n\"Based on the current state of alignment research, monitoring systems, and the security of internet i…",
+      "url": "https://biztoc.com/x/7dff39d40c072f33",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T02:00:04Z"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "description": "Article URL: https://github.com/Zagitta/gpu-unlock\nComments URL: https://news.ycombinator.com/item?id=50219700\nPoints: 17\n# Comments: 2",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "Github.com",
+      "publishedAt": "2026-10-24T09:58:27Z"
+    },
+    {
+      "title": "Here's how Canva's new image generation tool compares to models by OpenAI, Google, and Meta",
+      "description": "Canva has launched Canva Craft, a new image generation tool.\nBusiness Insider\nCanva launched Canva Craft, a tool similar to AI image models by Google, Meta, and OpenAI.\nSurprisingly, Canva fell short on a design task but did well at generating more realistic …",
+      "url": "https://biztoc.com/x/aa1a918f12caf5bf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T08:22:11Z"
+    },
+    {
+      "title": "AI market potential raises job displacement concerns, impacts Anthropic outlook",
+      "description": "AI's potential for job displacement raises economic and social concerns, impacting investor confidence and valuation prospects for AI firms.\nThe post AI market potential raises job displacement concerns, impacts Anthropic outlook appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/ai-market-potential-raises-job-displacement-concerns-impacts-anthropic-outlook",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-24T08:04:59Z"
+    },
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center, driving wolves into villages and infuriating locals: report",
+      "description": "The tech super giant – continuing its expansion of the booming artificial intelligence industry – cleared 816 acres of woodlands in Northern Finland, the Guardian reported Thursday.",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report",
+      "source": "New York Post",
+      "publishedAt": "2026-10-24T07:01:08Z"
+    },
+    {
+      "title": "Anthropic IPO: What should investors consider when valuing the AI company? Aswath Damodaran explains",
+      "description": "Anthropic is on track for an IPO expected in mid-November, reporting impressive revenues of $16.3 billion. However, the company faces a staggering net loss of over $80 billion for the year. Valuation expert Aswath Damodaran warns that IPO investor metrics can…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-24T05:03:17Z"
+    },
+    {
+      "title": "What Is Nvidia RTX Spark? Everything You Need to Know About the New AI Laptops",
+      "description": "RTX Spark laptops bring local AI, RTX graphics, and up to 128GB of unified memory into one slim Windows PC. Here’s what’s inside and who it’s for.\nFrom local AI agents to ray-traced gaming, RTX Spark brings creators, gamers, and developers onto one powerful P…",
+      "url": "https://me.pcmag.com/en/laptops/38417/what-is-nvidia-rtx-spark-everything-you-need-to-know-about-the-new-ai-laptops",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-24T05:02:19Z"
+    },
+    {
+      "title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
+      "description": "A new open-source tool reportedly unlocks previously restricted Tensor Core performance on Nvidia's ageing RTX 30-series GPUs, delivering gains of up to 80% in certain compute benchmarks. The modification works without flashing the GPU's VBIOS, although gamin…",
+      "url": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-24T04:01:00Z"
+    },
+    {
+      "title": "NVIDIA vs. AMD vs. Apple — Here’s What the Numbers Actually Say About Which AI Machine Is Right For You",
+      "description": "Before you buy a local AI machine, know what you're actually optimizing for. Here's a breakdown of NVIDIA, AMD and Apple.",
+      "url": "https://biztoc.com/x/5066480868488a76",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T03:01:05Z"
+    },
+    {
+      "title": "Nvidia RTX 80 and AMD RDNA 7 appear in alleged GPU roadmap riddled with glaring errors",
+      "description": "An alleged GPU roadmap reportedly presented by a Broadcom executive references Nvidia's future RTX 80 series and AMD's RDNA 7 architecture. However, numerous inconsistencies, including references to cancelled products and incorrect GPU generations, seriously …",
+      "url": "https://www.notebookcheck.net/Nvidia-RTX-80-and-AMD-RDNA-7-appear-in-alleged-GPU-roadmap-riddled-with-glaring-errors.1432723.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-24T02:51:00Z"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "description": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.\nThe frontier lab announced its new policy…",
+      "url": "https://biztoc.com/x/744df1604fb6f433",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-24T01:14:08Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Tesla and Nvidia just found another AI bottleneck",
+      "Ask GPT, Claude, and Gemini the same question at once for $29.97 with discount code",
+      "Python for AI, Machine Learning, and Deep Learning",
+      "Can You Read Two Million Pages? An LLM Can Help.",
+      "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/0d0847330fe4d292",
+        "https://www.thehindubusinessline.com/info-tech/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access/article71619018.ece",
+        "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms"
+      ]
+    },
+    {
+      "title": "Models",
+      "summary": "Grouped stories where \"models\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macworld.com/article/3268635/ask-gpt-claude-and-gemini-the-same-question-at-once-for-29-97-with-discount-code.html",
+        "https://goodmenproject.com/featured-content/can-you-read-two-million-pages-an-llm-can-help"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/121b6b9829b0e3e0",
+        "https://www.wowebook.org/python-for-ai-machine-learning-and-deep-learning",
+        "https://github.com/Zagitta/gpu-unlock"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Tesla and Nvidia just found another AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Tesla and Nvidia just found another AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Tesla and Nvidia just found another AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Tesla and Nvidia just found another AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Tesla and Nvidia just found another AI bottleneck. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
