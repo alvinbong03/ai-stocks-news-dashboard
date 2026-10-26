@@ -1,0 +1,275 @@
+{
+  "theme": "ai",
+  "date": "2026-10-26",
+  "last_updated_utc": "2026-10-26T12:07:45.368Z",
+  "news": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, monitorin…",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "Internet",
+      "publishedAt": "2026-10-25T06:54:29Z"
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "description": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.\n         …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449672",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-25T10:33:09Z"
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "description": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-25T10:30:00Z"
+    },
+    {
+      "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+      "description": "OpenAI paused frontier model training for 11 days after AI agents exposed security weaknesses, VM escapes and covert communication channels. OpenAI published a detailed report this week explaining how it improved security in the systems used to train and test…",
+      "url": "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-10-25T09:56:32Z"
+    },
+    {
+      "title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy",
+      "description": "Nvidia (NASDAQ: NVDA) and Micron (NASDAQ: MU) each have been playing key roles in the artificial intelligence (AI) revolution. Nvidia is the maker of the logic chip that powers the \"thinking\" of AI models, while Micron makes the memory and storage solutions t…",
+      "url": "https://biztoc.com/x/35279c955bcee1f7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T09:21:23Z"
+    },
+    {
+      "title": "Claude Finds Bugs That Survived Trillions of Software Test Runs",
+      "description": "Anthropic’s Claude AI model identified software bugs that conventional testing had not caught, according to a report published by Interesting Engineering. The work was described as a new approach to finding bugs in critical code. The finding applies to AI-ass…",
+      "url": "https://www.naturalnews.com/2026-10-25-claude-finds-bugs-survived-software-test-runs.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "title": "OpenAI Discloses Two Incidents of AI Agents Weakening Monitoring Systems",
+      "description": "OpenAI disclosed two internal incidents in which AI-powered coding agents weakened the company’s monitoring systems, according to a report from its alignment research team on Oct. 20. The incidents involved OpenAI’s GPT-6.1 Sol and GPT-6 Astra models and occu…",
+      "url": "https://www.naturalnews.com/2026-10-25-openai-discloses-incidents-agents-weakening-monitoring-systems.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-25T06:00:00Z"
+    },
+    {
+      "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+      "description": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nNvidia Corp. C…",
+      "url": "https://biztoc.com/x/22eedceb85b07060",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T02:57:45Z"
+    },
+    {
+      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell",
+      "description": "As technology companies spend hundreds of billions of dollars each year on data centers, semiconductors, and other power infrastructure, investors are wondering whether the artificial intelligence (AI) revolution can sustain its momentum.\nWhat happens if AI s…",
+      "url": "https://biztoc.com/x/b782534d5c306e76",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T01:11:38Z"
+    },
+    {
+      "title": "Human vs. ChatGPT NFL Week 7 betting picks: Human clings to profit as AI claims third straight win",
+      "description": "Human analyst is still profitable by just 0.09 units as he takes on ChatGPT with five more NFL bets, including a Titans upset and a shared Bengals pick.",
+      "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-7-betting-picks-human-clings-profit-ai-claims-third-straight-win",
+      "source": "Fox News",
+      "publishedAt": "2026-10-25T11:50:08Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch",
+      "description": "The declaration of AGI's arrival could significantly boost demand for AI infrastructure, impacting investment strategies and market dynamics.\nThe post Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/nvidia-ceo-huang-agi-arrived-stocks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T11:35:52Z"
+    },
+    {
+      "title": "Nvidia RTX Spark takes on AMD Strix Halo, and AMD has reason to worry",
+      "description": "The head-start CUDA gives is hard to ignore",
+      "url": "https://www.xda-developers.com/nvidia-rtx-spark-takes-on-amd-strix-halo-and-amd-has-reason-to-worry",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-25T11:30:21Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
+      "description": "Quantum computing's integration with AI could revolutionize scientific research, enhancing data fidelity and accelerating innovation.\nThe post Nvidia CEO Jensen Huang says quantum computers could help train AI appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T11:08:13Z"
+    },
+    {
+      "title": "AI agents solve 49 of 50 unpublished physics problems in DeepMind-backed study",
+      "description": "AI's near-perfect problem-solving in theoretical physics highlights its potential to revolutionize research efficiency and accuracy.\nThe post AI agents solve 49 of 50 unpublished physics problems in DeepMind-backed study appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ai-agents-solve-49-of-50-physics-problems",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T10:49:39Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says China excels in AI research",
+      "description": "China's AI research dominance challenges US competitiveness, urging policy shifts to attract global talent and foster US-China collaboration.\nThe post Nvidia CEO Jensen Huang says China excels in AI research appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jensen-huang-china-ai-research-talent",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T10:34:40Z"
+    },
+    {
+      "title": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own",
+      "description": "The only $20 I'm paying to is my savings account",
+      "url": "https://www.xda-developers.com/my-self-hosted-ai-models-research-code-and-generate-images-and-all-they-cost-is-a-gpu-i-already-own",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-25T10:00:20Z"
+    },
+    {
+      "title": "Peter Schiff Says Google Gemini Challenged Government’s Case Against His Bank: ‘Did Nothing Wrong’",
+      "description": "Peter Schiff says Google’s Gemini AI may contradict official bank probe claims, accusing regulators and media of misleading the public.",
+      "url": "https://biztoc.com/x/1c616b33809df4fa",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T08:34:54Z"
+    },
+    {
+      "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
+      "description": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit\nSpace Exploration Technologies (NASDAQ:SPCX) reported strong third-quarter results on Oct. 20. The company's artificial intelligence (AI) segment --…",
+      "url": "https://biztoc.com/x/53ca68e3311dce8d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T08:20:31Z"
+    },
+    {
+      "title": "Chamath Palihapitiya Takes Dig at Claude as Economist Warns of AI Bubble: ‘AI Moves in Mysterious Ways’ -…",
+      "description": "Palihapitiya mocked Claude’s poor writing while sharing Dario Perkins’ warning that markets may face history’s biggest financial bubble.",
+      "url": "https://biztoc.com/x/c5199fbdf9e06f54",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T07:02:57Z"
+    },
+    {
+      "title": "Microsoft cancels UK AI data center project due to power delays",
+      "description": "The cancellation highlights the UK's grid limitations, potentially hindering its AI leadership ambitions and impacting future tech investments.\nThe post Microsoft cancels UK AI data center project due to power delays appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/microsoft-cancels-uk-ai-data-center-power",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T04:05:54Z"
+    },
+    {
+      "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+      "description": "OpenAI acknowledged that while internet access can help models learn useful skills, it also 'gives a capable, misaligned agent opportunities to affect systems beyond our control.'\nIn the wake of a string of incidents in which frontier models from OpenAI, Goog…",
+      "url": "https://me.pcmag.com/en/ai/38433/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
+      "source": "PCMag.com",
+      "publishedAt": "2026-10-25T03:56:07Z"
+    },
+    {
+      "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+      "description": "Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional organic package substrate to the silicon interposer carrying …",
+      "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-25T00:45:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "OpenAI Paused Frontier AI Training After a Security Incident",
+      "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy",
+      "Claude Finds Bugs That Survived Trillions of Software Test Runs"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186449672",
+        "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+        "https://biztoc.com/x/35279c955bcee1f7"
+      ]
+    },
+    {
+      "title": "Research",
+      "summary": "Grouped stories where \"research\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+        "https://www.naturalnews.com/2026-10-25-openai-discloses-incidents-agents-weakening-monitoring-systems.html",
+        "https://cryptobriefing.com/ai-agents-solve-49-of-50-physics-problems"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/microsoft-cancels-uk-ai-data-center-power"
+      ]
+    },
+    {
+      "title": "Agents",
+      "summary": "Grouped stories where \"agents\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://securityaffairs.com/201673/ai/openai-paused-frontier-ai-training-after-a-security-incident.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.naturalnews.com/2026-10-25-claude-finds-bugs-survived-software-test-runs.html",
+        "https://biztoc.com/x/b782534d5c306e76",
+        "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-7-betting-picks-human-clings-profit-ai-claims-third-straight-win"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

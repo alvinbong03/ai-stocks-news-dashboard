@@ -1,0 +1,333 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-26",
+  "last_updated_utc": "2026-10-26T12:11:11.547Z",
+  "news": [
+    {
+      "title": "Ryzen overclocking is coming to Linux as AMD prepares an official driver",
+      "description": "AMD has submitted Linux kernel patches for an official Ryzen overclocking driver. The initial version offers only basic controls for CPU power limits and SMT, but it could pave the way for more comprehensive Ryzen tuning tools on Linux.",
+      "url": "https://www.notebookcheck.net/Ryzen-overclocking-is-coming-to-Linux-as-AMD-prepares-an-official-driver.1433586.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-25T12:05:00Z"
+    },
+    {
+      "title": "Chocolate Chip Chickpea Cookies",
+      "description": "This healthy chocolate chip chickpea cookies recipe is secretly eggless, refined sugar free, and vegan. They taste so good, no…\nThe post Chocolate Chip Chickpea Cookies appeared first on Chocolate Covered Katie.",
+      "url": "https://chocolatecoveredkatie.com/chocolate-chip-chickpea-cookies-recipe",
+      "source": "Chocolatecoveredkatie.com",
+      "publishedAt": "2026-10-25T12:04:59Z"
+    },
+    {
+      "title": "Behind Enemy Lines: Top intel on Seattle before Chiefs vs. Seahawks",
+      "description": "Go behind enemy lines to get top intel on all things Seattle football in this interview with Kole Musgrove of Seahawks Wire.",
+      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/10/25/behind-enemy-lines-top-intel-kansas-city-chiefs-seattle-seahawks-sunday-night-football-nfl-week-7/92429055007",
+      "source": "USA Today",
+      "publishedAt": "2026-10-25T12:03:20Z"
+    },
+    {
+      "title": "Kebab-loving dad sheds 7 stone by doing just 30 minutes of daily exercise: 'The pounds fell off surprisingly quickly'",
+      "description": "By his late 30s, Nick Drane weighed 23st 7lb and could 'easily finish' a KFC family feast - 16 pieces of fried chicken and six portions of salt-covered chips - all on his own.",
+      "url": "https://www.dailymail.com/health/article-16232547/dad-exercise-weight-loss-cycling.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-25T11:59:06Z"
+    },
+    {
+      "title": "WildRig malware and recurring Defender exclusions",
+      "description": "WildRig malware and recurring Defender exclusions - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hi,\n \nIm looking for help with a suspected malware infection on my Windows 11 PC.\n \nFor a little while, Ive had unusually low FPS in games. Task Ma…",
+      "url": "https://www.bleepingcomputer.com/forums/t/819652/wildrig-malware-and-recurring-defender-exclusions",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-10-25T11:51:51Z"
+    },
+    {
+      "title": "Stock Buybacks over Cage-free Commitment: What Unilever’s Greed Is Costing Animals",
+      "description": "Fresh off its expensive World Cup advertisement spend, which included covering the referee time board with its deodorant name, Unilever recently announced more stock buybacks. At a time when Unilever, one of the world’s largest packaged goods companies, has b…",
+      "url": "https://www.commondreams.org/opinion/unilever-cage-free-failure",
+      "source": "Common Dreams",
+      "publishedAt": "2026-10-25T11:41:02Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch",
+      "description": "The declaration of AGI's arrival could significantly boost demand for AI infrastructure, impacting investment strategies and market dynamics.\nThe post Nvidia CEO Jensen Huang says AGI has arrived, and analysts name the stocks to watch appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/nvidia-ceo-huang-agi-arrived-stocks",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T11:35:52Z"
+    },
+    {
+      "title": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually is - XDA",
+      "description": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it actually isXDA Review: The ASUS ProArt P16 RTX Spark is exceptional in the right hands and excessive in the wrong onesWindows Central ASUS ProArt P16 Review: A Sleek Sho…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449980",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-25T11:32:14Z"
+    },
+    {
+      "title": "Nvidia RTX Spark takes on AMD Strix Halo, and AMD has reason to worry",
+      "description": "The head-start CUDA gives is hard to ignore",
+      "url": "https://www.xda-developers.com/nvidia-rtx-spark-takes-on-amd-strix-halo-and-amd-has-reason-to-worry",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-25T11:30:21Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "description": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449874",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-25T11:12:37Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
+      "description": "Quantum computing's integration with AI could revolutionize scientific research, enhancing data fidelity and accelerating innovation.\nThe post Nvidia CEO Jensen Huang says quantum computers could help train AI appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T11:08:13Z"
+    },
+    {
+      "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "description": "AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-25T11:00:00Z"
+    },
+    {
+      "title": "Berkshire shares shake the Buffett blues with new all-time highs - CNBC",
+      "description": "Berkshire shares shake the Buffett blues with new all-time highsCNBC Berkshire Stock Is Hot Again. Is It Still a Bargain?Barron's Buffett’s Berkshire just trounced chip stocks and flashed a rare dot-com-era signalYahoo Finance Berkshire Stock Hits New High, M…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449774",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-25T10:52:30Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says China excels in AI research",
+      "description": "China's AI research dominance challenges US competitiveness, urging policy shifts to attract global talent and foster US-China collaboration.\nThe post Nvidia CEO Jensen Huang says China excels in AI research appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jensen-huang-china-ai-research-talent",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-25T10:34:40Z"
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "description": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.\n         …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186449672",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-25T10:33:09Z"
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+      "description": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-25T10:30:00Z"
+    },
+    {
+      "title": "Reg readers land on 'Binface' as name for UK space cleanup mission",
+      "description": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches Kernel maintainers stop asking who used AI, as long as the code is good\n- Nvidia woos wary Europeans with more open weights models New embedding, parsing, and reranking models promis…",
+      "url": "https://biztoc.com/x/f49082ff2195c3b6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T10:22:17Z"
+    },
+    {
+      "title": "My self-hosted AI models research, code, and generate images, and all they cost is a GPU I already own",
+      "description": "The only $20 I'm paying to is my savings account",
+      "url": "https://www.xda-developers.com/my-self-hosted-ai-models-research-code-and-generate-images-and-all-they-cost-is-a-gpu-i-already-own",
+      "source": "XDA Developers",
+      "publishedAt": "2026-10-25T10:00:20Z"
+    },
+    {
+      "title": "China’s export controls around PV cells could slow India’s upstream solar push",
+      "description": "The restrictions can throw a wrench for Indian module manufacturers who are now planning to enter upstream segments like cells, Ingots wafers and polysilicon",
+      "url": "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-25T09:43:51Z"
+    },
+    {
+      "title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy",
+      "description": "Nvidia (NASDAQ: NVDA) and Micron (NASDAQ: MU) each have been playing key roles in the artificial intelligence (AI) revolution. Nvidia is the maker of the logic chip that powers the \"thinking\" of AI models, while Micron makes the memory and storage solutions t…",
+      "url": "https://biztoc.com/x/35279c955bcee1f7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T09:21:23Z"
+    },
+    {
+      "title": "India Infrastructure Stocks Riding The Supply Chain Shift",
+      "description": "Supply chains are being rewired in real time as tariffs shift, factories relocate and multinationals rethink how much risk they are willing to carry in any one country. That disruption creates winners and losers. Ignore it and you risk missing where new capit…",
+      "url": "https://biztoc.com/x/4def92f90775d603",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-25T09:20:52Z"
+    },
+    {
+      "title": "India must boost solar manufacturing amid China export curbs: Solex chief",
+      "description": "The government needs to incentivse domestic production of solar equipment to avoid any supply crunch amid China's proposed curb on exports of key technologies of photovoltaic module manufacturing, a senior industry executive said.\nChina has proposed restricti…",
+      "url": "https://www.business-standard.com/industry/news/india-must-boost-solar-manufacturing-amid-china-export-curbs-solex-chief-126102500247_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-25T09:17:29Z"
+    },
+    {
+      "title": "Synology DiskStation DS1525neo+ 5-Bay NAS $1,360 Delivered (Metro) with Code @ Atomic Networks",
+      "description": "Synology DS1525neo+ 5-bay NAS: AMD Ryzen V1500B quad-core, 4GB DDR4 (expandable to 32GB), 2× 2.5GbE, 2× M.2 NVMe cache slots. $1,360 with code OZB1525 (normally $1,448). Free metro …",
+      "url": "https://www.ozbargain.com.au/node/980320",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-10-25T08:40:02Z"
+    },
+    {
+      "title": "GeForce Unlocked: Modders Boost RTX 30 and RTX 40 Compute Performance by Up to 2x",
+      "description": "NVIDIA's GeForce RTX 30-series and RTX 40-series graphics cards are based on the same dies as their professional-grade GPUs. This means the compute potential of consumer-oriented RTX GPUs is restricted by NVIDIA's firmware stack, but modders have managed to u…",
+      "url": "https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-30-and-rtx-40-compute-performance-by-up-to-2x",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-25T08:14:32Z"
+    },
+    {
+      "title": "GeForce Unlocked: Modders Boost RTX 20, RTX 30, and RTX 40 Compute Performance by Up to 2x",
+      "description": "NVIDIA's GeForce RTX 30-series and RTX 40-series graphics cards are based on the same dies as their professional-grade GPUs. This means the compute potential of consumer-oriented RTX GPUs is restricted by NVIDIA's firmware stack, but modders have managed to u…",
+      "url": "https://www.techpowerup.com/354110/geforce-unlocked-modders-boost-rtx-20-rtx-30-and-rtx-40-compute-performance-by-up-to-2x",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-25T08:14:32Z"
+    },
+    {
+      "title": "Texas QB Arch Manning Drops Honest Quote After Win Over Ole Miss",
+      "description": "The No. 19 Texas Longhorns entered Saturday night with a must-win mindset against the No. 7 Ole Miss Rebels.Nobody played with a bigger chip on his shoulder than Texas quarterback Arch Manning, who hasn’t had the season many envisioned so far. The criticism w…",
+      "url": "https://heavy.com/sports/college-football/texas-longhorns/texas-qb-arch-manning-drops-honest-quote-after-win-over-ole-miss",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-25T08:05:55Z"
+    },
+    {
+      "title": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In CPU, GPU Workloads",
+      "description": "New details surrounding the Exynos 2700 talk about the chipset’s internal tests allegedly outperforming the Snapdragon 8 Elite Extreme Gen 6 in both CPU and GPU workloads. The latest claim paints Qualcomm’s top-end SoC in a negative light, indicating that its…",
+      "url": "https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-internal-tests",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-25T07:43:03Z"
+    },
+    {
+      "title": "$1.99 | The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip (eBook) by Stephen Witt",
+      "description": "Available Retailers:Amazon [amazon.com] (Kindle eBook)\niBooks [apple.com]\nBarnes & Noble [barnesandnoble.com] (NOOK eBook)\nGoogle Play Store [google.com]\nKobo [kobo.com]\n\nAuthor: Stephen Witt\nPubl",
+      "url": "https://slickdeals.net/f/20203902-1-99-the-thinking-machine-jensen-huang-nvidia-and-the-world-s-most-coveted-microchip-ebook-by-stephen-witt",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-25T07:40:03Z"
+    },
+    {
+      "title": "[AC] $64.71 | GIGABYTE H610M D3W WIFI6 Intel LGA 1700 Micro ATX Motherboard at Amazon",
+      "description": "Amazon [amazon.com] has *GIGABYTE H610M D3W WIFI6 Intel LGA 1700 Micro ATX Motherboard* for $109.99 - $45.28 when you 'clip' the coupon on product page = *$64.71*. \n*Shipping is free*. \n \n*Savings*...",
+      "url": "https://slickdeals.net/f/20203875-ac-64-71-gigabyte-h610m-d3w-wifi6-intel-lga-1700-micro-atx-motherboard-at-amazon",
+      "source": "Slickdeals.net",
+      "publishedAt": "2026-10-25T07:22:33Z"
+    },
+    {
+      "title": "Texas football: Arch Manning closes out headline-heavy week with Ole Miss win",
+      "description": "Arch Manning said that he played with a chip on his shoulder against Ole Miss on Saturday. In a 34-27 win, Manning committed three turnovers but also accounted for three touchdowns.",
+      "url": "https://www.statesman.com/sports/longhorns/football/article/arch-manning-stats-texas-football-ole-miss-22482997.php?amp%3Butm_campaign=yahoo_syndication",
+      "source": "Austin American-Statesman",
+      "publishedAt": "2026-10-25T07:20:00Z"
+    },
+    {
+      "title": "AMD Ryzen 7 7800x3d CPU A$378.44 Delivered @ Binary Tech Store AliExpress",
+      "description": "Looking to upgrade my R5 2600. Found this deal on Ali. AMD Ryzen 7 7800X3D R7 5GHz Unlocked 8-Core 16-Thread Desktop Gaming CPU Processor, Socket AM5. Note:Without Package",
+      "url": "https://www.ozbargain.com.au/node/980305",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-10-25T07:09:10Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Ryzen overclocking is coming to Linux as AMD prepares an official driver",
+      "Chocolate Chip Chickpea Cookies",
+      "Behind Enemy Lines: Top intel on Seattle before Chiefs vs. Seahawks",
+      "Kebab-loving dad sheds 7 stone by doing just 30 minutes of daily exercise: 'The pounds fell off surprisingly quickly'",
+      "WildRig malware and recurring Defender exclusions"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-ceo-huang-agi-arrived-stocks",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186449980",
+        "https://www.xda-developers.com/nvidia-rtx-spark-takes-on-amd-strix-halo-and-amd-has-reason-to-worry"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://chocolatecoveredkatie.com/chocolate-chip-chickpea-cookies-recipe",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186449874",
+        "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket"
+      ]
+    },
+    {
+      "title": "Amd",
+      "summary": "Grouped stories where \"amd\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Ryzen-overclocking-is-coming-to-Linux-as-AMD-prepares-an-official-driver.1433586.0.html",
+        "https://www.ozbargain.com.au/node/980320",
+        "https://www.ozbargain.com.au/node/980305"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/10/25/behind-enemy-lines-top-intel-kansas-city-chiefs-seattle-seahawks-sunday-night-football-nfl-week-7/92429055007",
+        "https://www.dailymail.com/health/article-16232547/dad-exercise-weight-loss-cycling.html",
+        "https://www.bleepingcomputer.com/forums/t/819652/wildrig-malware-and-recurring-defender-exclusions"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ryzen overclocking is coming to Linux as AMD prepares an official driver. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ryzen overclocking is coming to Linux as AMD prepares an official driver. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ryzen overclocking is coming to Linux as AMD prepares an official driver. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ryzen overclocking is coming to Linux as AMD prepares an official driver. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Ryzen overclocking is coming to Linux as AMD prepares an official driver. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
