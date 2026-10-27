@@ -1,0 +1,303 @@
+{
+  "theme": "ai",
+  "date": "2026-10-27",
+  "last_updated_utc": "2026-10-27T11:28:49.059Z",
+  "news": [
+    {
+      "title": "Claude Duet is here: Anthropic's 24/7 AI agent, tested",
+      "description": "Anthropic just launched Claude Duet, a 24/7 personal agent that works on its own computer in the cloud and comes to you with what needs your attention. Host Ejaaz Ahamadeen tests it for 48 hours, compares it to Meta Muse, OpenAI Dots and Grok Bot, and breaks …",
+      "url": "https://biztoc.com/x/56fac2c049268a76",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:27:43Z"
+    },
+    {
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "description": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project \nBusiness live – latest updates\nAnthropic sued for allegedly using 274 Elvis songs to train AI models\nAnthropic’s Claude model accessed voter…",
+      "url": "https://biztoc.com/x/11f35d2b911a1466",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:24:34Z"
+    },
+    {
+      "title": "Unveils Crescent Island GPU D Series For Agentic AI",
+      "description": "Intel (NasdaqGS:INTC) introduced its new GPU D-series, code-named Crescent Island, aimed at large-scale, memory-heavy agentic AI inference.\n- The firm also revealed Xeon-based rack designs that pair with the D-series to support dense AI deployments in data ce…",
+      "url": "https://biztoc.com/x/9eac9104a4e08ecd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:12:09Z"
+    },
+    {
+      "title": "Anthropic details what stops Claude Duet from going rogue",
+      "description": "Anthropic has outlined the security and privacy protections behind Claude Duet, its proactive AI agent that can monitor connected accounts and complete tasks while users are away. The safeguards include approval requirements, checks for sensitive information …",
+      "url": "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards",
+      "source": "Help Net Security",
+      "publishedAt": "2026-10-26T10:41:47Z"
+    },
+    {
+      "title": "Elvis Presley's estate sues Claude AI",
+      "description": "The current owners of the musical creations of the world-renowned and immensely popular musician Elvis Presley have taken massive legal action against the cutting-edge technology company 'Anthropic'. This is based on allegations that Presley's seminal song cr…",
+      "url": "https://english.gossiplankanews.com/2026/10/elvis-presleys-estate-sues-claude-ai.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-10-26T10:30:25Z"
+    },
+    {
+      "title": "Anthropic reveals how Claude Mythos 5 crossed security testing boundaries",
+      "description": "Anthropic says Claude Mythos 5 targeted real developers with fake identities to push malicious code during a security test. A cybersecurity test is supposed to measure what an AI model can do within an agreed boundary. In one UK AI Security Institute evaluati…",
+      "url": "https://securityaffairs.com/201729/ai/anthropic-reveals-how-claude-mythos-5-crossed-security-testing-boundaries.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-10-26T08:05:12Z"
+    },
+    {
+      "title": "Anthropic’s Claude Reportedly Bypassed Georgia Vote-Data Paywall, Prompting New AI Safeguard Concerns Ahead…",
+      "description": "Anthropic’s Claude bypassed a paywall to access Georgia vote-count data, raising fresh concerns about AI safeguards ahead of midterms.",
+      "url": "https://biztoc.com/x/97bfca14d033e404",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T08:04:41Z"
+    },
+    {
+      "title": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス",
+      "description": "AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。Anthropic's Claude accessed Georgia voter data without authorizationhttps://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-dataAnthropic's Claude accessed Georgia state vote coun…",
+      "url": "https://news.livedoor.com/article/detail/32660266",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-26T07:48:00Z"
+    },
+    {
+      "title": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
+      "description": "I'd often make Google searches whose AI overviews would lead me to ask followups and create AI Mode threads. The key problem was that these chats were ephemeral. So I decided to make this extension that can help replay the chats and responses verbatim in your…",
+      "url": "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag",
+      "source": "Google News",
+      "publishedAt": "2026-10-26T07:35:56Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now",
+      "description": "A little over a year ago, Nvidia (NVDA -0.59%) CEO Jensen Huang made a bold projection: He informed investors that Nvidia expects global data center capital expenditures to reach up to $4 trillion annually by 2030. What's even more impressive is the floor he …",
+      "url": "https://biztoc.com/x/28044c257ce6b809",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T07:03:49Z"
+    },
+    {
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "description": "Linux kernel modules lift Nvidia&rsquo;s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186460192",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-26T11:13:25Z"
+    },
+    {
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "description": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-26T11:00:00Z"
+    },
+    {
+      "title": "Foxconn launches AI factory powered by Nvidia supercomputing cluster",
+      "description": "Foxconn's AI factory exemplifies the transformative potential of AI in manufacturing, showcasing significant efficiency and productivity gains.\nThe post Foxconn launches AI factory powered by Nvidia supercomputing cluster appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/foxconn-launches-ai-factory-nvidia-cluster",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-26T10:10:39Z"
+    },
+    {
+      "title": "When ChatGPT writes your obituary",
+      "description": "Donna Guthrie had obituaries on her mind after her brother passed away in May. She recently celebrated her 80th birthday and started wondering how she might be remembered. So, she asked ChatGPT to write her obituary. It's the topic of today's “Uncanny AI,” ou…",
+      "url": "https://www.marketplace.org/episode/2026/10/26/chatgpt-wrote-her-obituary-without-much-input",
+      "source": "Marketplace.org",
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "title": "Nvidia hires sales and marketing leaders from Google and Microsoft",
+      "description": "Nvidia's strategic hires signal a shift towards complex enterprise AI solutions, potentially reshaping its market approach and investor expectations.\nThe post Nvidia hires sales and marketing leaders from Google and Microsoft appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-hires-sales-marketing-leaders-google-microsoft",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-26T09:53:19Z"
+    },
+    {
+      "title": "Michael Burry Backs Ken Griffin on AI Bubble Concerns, Says GPU Overcapacity Warning Is Obvious to Anyone…",
+      "description": "Michael Burry backs Ken Griffin's AI bubble and GPU overcapacity warning, calling it obvious to anyone with a 'working brain cell'.",
+      "url": "https://biztoc.com/x/b260541431fb07c1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T09:52:32Z"
+    },
+    {
+      "title": "The race is on: Why Apple is suddenly challenging Nvidia as the world’s most valuable company",
+      "description": "Nvidia remains an AI powerhouse, but Apple's cash-rich consumer business offers investors a different kind of Big Tech bet.",
+      "url": "https://www.businessinsider.com/apple-stock-rally-nvidia-selloff-most-valuable-company-market-cap-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-26T09:50:01Z"
+    },
+    {
+      "title": "Digest: Anthropic Teams with Hg; DeepSeek Raises $15bn;",
+      "description": "In today’s ExchangeWire news digest: Anthropic teams up with Hg to launch a European AI consultancy, DeepSeek raises $15bn as it tries to close the gap with US AI rivals, and WPP’s chief AI officer says shopping bots could reshape [...]\nThe post Digest: Anthr…",
+      "url": "https://www.exchangewire.com/blog/2026/10/26/digest-anthropic-teams-with-hg-deepseek-raises-15bn",
+      "source": "ExchangeWire",
+      "publishedAt": "2026-10-26T09:00:00Z"
+    },
+    {
+      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+      "description": "Creative Assembly has issued a statement regarding the use of generative AI in Total War: Shogun 2 – Complete Edition, which led to the game's removal from sale last week. Read more",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+      "source": "GamesIndustry.biz",
+      "publishedAt": "2026-10-26T08:40:16Z"
+    },
+    {
+      "title": "CapCut is coming to ChatGPT, letting you create videos directly inside chat",
+      "description": "CapCut has officially announced a new plugin for ChatGPT, allowing users to make and edit videos right inside the OpenAI chat app. The new tool is made to help people turn their ideas into real videos without leaving the chat. View this post on Instagram CapC…",
+      "url": "https://soyacincau.com/2026/10/26/capcut-is-coming-to-chatgpt-letting-you-create-videos-directly-inside-chat",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-10-26T08:18:53Z"
+    },
+    {
+      "title": "Anthropic AI Model Used Fake Identities To Pressure Real Developers Into Accepting Malware",
+      "description": "An Anthropic AI model tried to plant malicious code in a real GitHub project during a UK AI Security Institute cyber test and used fake identities to pressure developers into approving it.\nThe post Anthropic AI Model Used Fake Identities To Pressure Real Deve…",
+      "url": "https://dailyhodl.com/2026/10/26/anthropic-ai-model-used-fake-identities-to-pressure-real-developers-into-accepting-malware",
+      "source": "The Daily Hodl",
+      "publishedAt": "2026-10-26T08:15:57Z"
+    },
+    {
+      "title": "NVDA Stock Ticks Higher Overnight: a16z Data Shows GPU Rental Prices Rising Sharply, Even For Older Chips",
+      "description": "NVDA Stock Ticks Higher Overnight: a16z Data Shows GPU Rental Prices Rising Sharply, Even For Older Chips\n- Nvidia's H200 GPU rental prices have surged 160% year-to-date.\n- Rental rates for older H100 and A100 chips have also risen, defying the typical deprec…",
+      "url": "https://biztoc.com/x/94041a705045cc61",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T08:05:20Z"
+    },
+    {
+      "title": "SWI Compute Emerges from Stealth to Turn Gigawatts of Power Into NVIDIA AI Factories, Starting in Europe",
+      "description": "SINGAPORE and AMSTERDAM, Oct. 26, 2026 /PRNewswire/ -- SWI Compute today emerged from stealth to build and operate NVIDIA AI factories, launching first in Europe. The global AI infrastructure company is backed by 3.6 gigawatts of power capacity that SWI Group…",
+      "url": "https://www.prnewswire.com/news-releases/swi-compute-emerges-from-stealth-to-turn-gigawatts-of-power-into-nvidia-ai-factories-starting-in-europe-302918805.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-26T07:45:00Z"
+    },
+    {
+      "title": "SWI Compute Emerges from Stealth to Turn Gigawatts of Power Into NVIDIA AI Factories, Starting in Europe",
+      "description": "SINGAPORE and AMSTERDAM, Oct. 26, 2026 /PRNewswire/ -- SWI Compute today emerged from stealth to build and operate NVIDIA AI factories, launching first in Europe. The global AI infrastructure company is backed by 3.6 gigawatts of power capacity that SWI Group…",
+      "url": "https://www.prnewswire.co.uk/news-releases/swi-compute-emerges-from-stealth-to-turn-gigawatts-of-power-into-nvidia-ai-factories-starting-in-europe-302918810.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-10-26T07:45:00Z"
+    },
+    {
+      "title": "SWI Compute Emerges from Stealth to Turn Gigawatts of Power Into NVIDIA AI Factories, Starting in Europe",
+      "description": "SINGAPORE and AMSTERDAM, Oct. 26, 2026 /PRNewswire/ -- SWI Compute today emerged from stealth to build and operate NVIDIA AI factories, launching first in Europe. The global AI infrastructure company is backed by 3.6 gigawatts of power capacity that SWI Group…",
+      "url": "https://www.prnewswire.com/news-releases/swi-compute-emerges-from-stealth-to-turn-gigawatts-of-power-into-nvidia-ai-factories-starting-in-europe-302918810.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-26T07:45:00Z"
+    },
+    {
+      "title": "AI funding concerns weigh on tech stocks as OpenAI seeks $30B",
+      "description": "AI funding challenges could dampen tech sector growth, affecting investor confidence and potentially stalling innovation and market recovery.\nThe post AI funding concerns weigh on tech stocks as OpenAI seeks $30B appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ai-funding-concerns-weigh-on-tech-stocks-as-openai-seeks-30b",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-26T07:39:06Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Claude Duet is here: Anthropic's 24/7 AI agent, tested",
+      "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "Unveils Crescent Island GPU D Series For Agentic AI",
+      "Anthropic details what stops Claude Duet from going rogue",
+      "Elvis Presley's estate sues Claude AI"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/28044c257ce6b809",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186460192",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/56fac2c049268a76",
+        "https://biztoc.com/x/11f35d2b911a1466",
+        "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag"
+      ]
+    },
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/9eac9104a4e08ecd"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.marketplace.org/episode/2026/10/26/chatgpt-wrote-her-obituary-without-much-input",
+        "https://biztoc.com/x/b260541431fb07c1",
+        "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Duet is here: Anthropic's 24/7 AI agent, tested. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Duet is here: Anthropic's 24/7 AI agent, tested. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Duet is here: Anthropic's 24/7 AI agent, tested. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Duet is here: Anthropic's 24/7 AI agent, tested. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Claude Duet is here: Anthropic's 24/7 AI agent, tested. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

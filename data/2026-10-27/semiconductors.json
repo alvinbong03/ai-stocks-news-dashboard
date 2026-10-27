@@ -1,0 +1,398 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-27",
+  "last_updated_utc": "2026-10-27T11:32:03.014Z",
+  "news": [
+    {
+      "title": "ETFs Are Buying NVIDIA (NVDA) on Thursday",
+      "description": "This article first appeared on GuruFocus.\nFifty-seven ETFs were buying NVIDIA (NVDA) shares versus 20 selling last Thursday, for net buying of $295.5 million by dollar value. More funds traded on the buy side, and no larger offsetting selling emerged. The mov…",
+      "url": "https://biztoc.com/x/504145d1ee6d4aca",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:27:45Z"
+    },
+    {
+      "title": "Foxconn boasts AI factories progress",
+      "description": "Foxconn revealed on Monday that its use of NVIDIA artificial intelligence helped cut labor hours spent on production scheduling by 25% and engineering workload for injection-molding process changeover...",
+      "url": "https://biztoc.com/x/eaa164972b3a4dcb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:25:01Z"
+    },
+    {
+      "title": "Conversion Kit Aims to Put PC Hardware Inside 2019 Mac Pro",
+      "description": "Owners of Apple's 2019 Mac Pro could repurpose its enclosure for a custom PC using a conversion kit being crowdfunded by Practical Prototyping (via Hackster).\n\n\n\n\n\n\n\nThe project comes after Apple discontinued the Mac Pro in March, confirming that it has no pl…",
+      "url": "https://www.macrumors.com/2026/10/26/mac-pro-conversion-kit-to-put-pc-hardware-inside",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-26T11:24:42Z"
+    },
+    {
+      "title": "Modder turns NES into a Windows-like desktop with original hardware",
+      "description": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-26T11:20:00Z"
+    },
+    {
+      "title": "China’s proposed solar technology export curbs may delay India’s domestic manufacturing push: Report",
+      "description": "China's plan to impose export controls on photovoltaic technologies could create challenges for India's solar manufacturing sector and affect supply chains. These restrictions may lead to delays and increased costs for domestic players aiming for backward int…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/chinas-proposed-solar-technology-export-curbs-may-delay-indias-domestic-manufacturing-push-report/articleshow/135210269.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-26T11:18:50Z"
+    },
+    {
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "description": "Linux kernel modules lift Nvidia&rsquo;s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186460192",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-26T11:13:25Z"
+    },
+    {
+      "title": "Earnings to watch: NXP Semiconductors (NXPI) reports Q3 results tomorrow",
+      "description": "Chip manufacturer NXP Semiconductors (NASDAQ: NXPI) will be announcing earnings results this Tuesday after market hours. Here's what to look for.\nNXP Semiconductors beat analysts' revenue expectations last quarter, reporting revenues of $3.50 billion, up 19.5…",
+      "url": "https://biztoc.com/x/92315a8cdd42a536",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:12:33Z"
+    },
+    {
+      "title": "Sansan And 2 Japanese Founder Led Growth Stocks",
+      "description": "Central banks are hinting at tighter policy as inflation stays stubborn, which makes dependable growth harder to find and pushes investors to look past the usual blue chips. Fast growing Japanese companies where executives own a meaningful stake can align man…",
+      "url": "https://biztoc.com/x/afa73ff415235411",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:12:24Z"
+    },
+    {
+      "title": "Is Semiconductor Manufacturing International (SEHK:981) Overvalued On Its Earnings?",
+      "description": "Semiconductor Manufacturing International has seen its share price retreat sharply in recent months, which raises a straightforward question for investors who focus on the numbers. Is the current valuation of Semiconductor Manufacturing International still in…",
+      "url": "https://biztoc.com/x/5ebd1c3ae2207d59",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:12:20Z"
+    },
+    {
+      "title": "Unveils Crescent Island GPU D Series For Agentic AI",
+      "description": "Intel (NasdaqGS:INTC) introduced its new GPU D-series, code-named Crescent Island, aimed at large-scale, memory-heavy agentic AI inference.\n- The firm also revealed Xeon-based rack designs that pair with the D-series to support dense AI deployments in data ce…",
+      "url": "https://biztoc.com/x/9eac9104a4e08ecd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T11:12:09Z"
+    },
+    {
+      "title": "'Lazy Bond Villains': Malcolm Nance On The New 'Globigarchy'",
+      "description": "Malcolm Nance—former Navy intel officer and author of \"The Plot to Hack America\" and two other NY Times bestsellers on the Trump/Putin nexus of global corruption and autocracy—had Cliff on a surprise \"Black Man Spy\" Live to discuss corruption of U.S. foreign …",
+      "url": "https://crooksandliars.com/2026/10/lazy-bond-villains-malcolm-nance-new",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-10-26T11:00:43Z"
+    },
+    {
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "description": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-26T11:00:00Z"
+    },
+    {
+      "title": "Microsoft Prepares Windows 11 For Intel APX, Bringing Potential Performance Gains To Nova Lake And Future AMD CPUs",
+      "description": "Microsoft is preparing Windows 11 to support Advanced Performance Extensions (APX), a major upgrade to the x86-64 instruction set that could improve performance and efficiency on upcoming Intel and AMD processors. As spotted by Windows enthusiast Xeno on X, t…",
+      "url": "https://wccftech.com/microsoft-prepares-windows-11-for-intel-apx-bringing-potential-performance-gains-to-nova-lake-and-future-amd-cpus",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-26T10:53:18Z"
+    },
+    {
+      "title": "S&P 500: Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+      "description": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
+      "url": "https://www.faz.net/aktuell/wall-street-journal/nvidia-micron-and-other-ai-giants-account-for-two-thirds-of-corporate-profit-growth-201621423.html",
+      "source": "Faz.net",
+      "publishedAt": "2026-10-26T10:49:19Z"
+    },
+    {
+      "title": "What to expect from Manhattan Associates’s (MANH) Q3 earnings",
+      "description": "Supply chain software provider Manhattan Associates (NASDAQ:MANH) will be reporting earnings this Tuesday after the bell. Here's what you need to know.\nManhattan Associates beat analysts' revenue expectations last quarter, reporting revenues of $297.8 million…",
+      "url": "https://biztoc.com/x/34b4151901019c4d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T10:41:08Z"
+    },
+    {
+      "title": "Got $5,000? 3 Growth Stocks to Buy and Hold Through 2030",
+      "description": "If you have some extra cash that you won't need for several years, putting it into growth stocks with durable competitive advantages could pay off. Nvidia (NASDAQ: NVDA) leads in AI computing, Spotify Technology (NYSE: SPOT) in audio streaming, and ServiceNow…",
+      "url": "https://biztoc.com/x/52d043406b570b6d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T10:40:52Z"
+    },
+    {
+      "title": "Foxconn launches AI factory powered by Nvidia supercomputing cluster",
+      "description": "Foxconn's AI factory exemplifies the transformative potential of AI in manufacturing, showcasing significant efficiency and productivity gains.\nThe post Foxconn launches AI factory powered by Nvidia supercomputing cluster appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/foxconn-launches-ai-factory-nvidia-cluster",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-26T10:10:39Z"
+    },
+    {
+      "title": "Trade-margin cap on cancer drugs may push up costs elsewhere in supply chain: Experts",
+      "description": "Trade-margin caps on cancer drugs may reduce prices for patients but risk shifting costs to hospitals, supply chains, and other services.",
+      "url": "https://www.thehindubusinessline.com/news/national/trade-margin-cap-on-cancer-drugs-may-push-up-costs-elsewhere-in-supply-chain-experts/article71626276.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-26T10:00:26Z"
+    },
+    {
+      "title": "Exciton-Based Sensing of Remote Electron Correlations in 2D Heterostructures",
+      "description": "Many monolayer transition metal dichalcogenides, including ${\\mathrm{MoS}}_{2}$, ${\\mathrm{MoSe}}_{2}$, ${\\mathrm{WS}}_{2}$, and ${\\mathrm{WSe}}_{2}$, are direct band gap two-dimensional (2D) semiconductors with sharp optical resonances at excitonic bound sta…",
+      "url": "https://link.aps.org/doi/10.1103/246f-2p98",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "title": "Alloy engineering of excitonic properties in TMD monolayers",
+      "description": "Author(s): Eirini Katsipoulaki, Adlen Smiri, Panagiotis Spiliotakis, Konstantinos Mourzidis, Danae Katrisioti, Takashi Taniguchi, Kenji Watanabe, Georgios Kopidakis, Zdeněk Sofer, Gang Wang, Emmanuel Stratakis, George Kioseoglou, Iann C. Gerber, Xavier Marie,…",
+      "url": "https://link.aps.org/doi/10.1103/m7kc-8q5v",
+      "source": "Aps.org",
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "title": "Nvidia hires sales and marketing leaders from Google and Microsoft",
+      "description": "Nvidia's strategic hires signal a shift towards complex enterprise AI solutions, potentially reshaping its market approach and investor expectations.\nThe post Nvidia hires sales and marketing leaders from Google and Microsoft appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-hires-sales-marketing-leaders-google-microsoft",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-26T09:53:19Z"
+    },
+    {
+      "title": "Elon Musk Says Neoclouds Are Cooked, and SpaceX Won't Be Buying Them - Business Insider",
+      "description": "Elon Musk Says Neoclouds Are Cooked, and SpaceX Won't Be Buying ThemBusiness Insider Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'CNBC SpaceX secures $40B in financing for GPUs as Elon Musk warns of AI cloud industry co…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186459802",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-26T09:52:57Z"
+    },
+    {
+      "title": "Michael Burry Backs Ken Griffin on AI Bubble Concerns, Says GPU Overcapacity Warning Is Obvious to Anyone…",
+      "description": "Michael Burry backs Ken Griffin's AI bubble and GPU overcapacity warning, calling it obvious to anyone with a 'working brain cell'.",
+      "url": "https://biztoc.com/x/b260541431fb07c1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T09:52:32Z"
+    },
+    {
+      "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
+      "description": "The chief stock-market strategist for Morgan Stanley is sticking with a forecast that the S&P 500 will end the year at 8,000, but growing caution is on display as he identified that support for the key semiconductor sector could come considerably lower.",
+      "url": "https://biztoc.com/x/9cce1c47043c9443",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T09:52:22Z"
+    },
+    {
+      "title": "The race is on: Why Apple is suddenly challenging Nvidia as the world’s most valuable company",
+      "description": "Nvidia remains an AI powerhouse, but Apple's cash-rich consumer business offers investors a different kind of Big Tech bet.",
+      "url": "https://www.businessinsider.com/apple-stock-rally-nvidia-selloff-most-valuable-company-market-cap-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-26T09:50:01Z"
+    },
+    {
+      "title": "Rapidus and HCLTech announce partnership for next-generation semiconductor technologies",
+      "description": "TOKYO and NOIDA, India, Oct. 26, 2026 /PRNewswire/ -- HCLTech (NSE: HCLTECH) (BSE: HCLTECH), a leading global technology company, and Rapidus Corporation, a Japanese company developing and manufacturing advanced logic semiconductors, today officially inaugura…",
+      "url": "https://www.prnewswire.co.uk/news-releases/rapidus-and-hcltech-announce-partnership-for-next-generation-semiconductor-technologies-302919223.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-10-26T09:50:00Z"
+    },
+    {
+      "title": "HCLTech, Japan's Rapidus announce partnership for next-generation semiconductor technologies",
+      "description": "The two centres will provide specialised semiconductor engineering capabilities, including mask design, design infrastructure, process design kit development, design technology co-optimization and layout design",
+      "url": "https://www.thehindubusinessline.com/info-tech/hcltech-japans-rapidus-announce-partnership-for-next-generation-semiconductor-technologies/article71626313.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-26T09:48:15Z"
+    },
+    {
+      "title": "Asus releases premium mini PC with RTX 5080 and Phantom Blade Zero chassis",
+      "description": "Asus has launched a special-edition ROG NUC 16 mini PC inspired by Phantom Blade Zero, featuring up to a GeForce RTX 5080 Laptop GPU and a 24-core Intel processor. The compact gaming system sports a striking black-and-red design, but its top configuration cos…",
+      "url": "https://www.notebookcheck.net/Asus-releases-premium-mini-PC-with-RTX-5080-and-Phantom-Blade-Zero-chassis.1433932.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-26T09:48:00Z"
+    },
+    {
+      "title": "Rapidus and HCLTech announce partnership for next-generation semiconductor technologies",
+      "description": "TOKYO and NOIDA, India, Oct. 26, 2026 /PRNewswire/ -- HCLTech (NSE: HCLTECH) (BSE: HCLTECH), a leading global technology company, and Rapidus Corporation, a Japanese company developing and manufacturing advanced logic semiconductors, today officially inaugura…",
+      "url": "https://www.prnewswire.com/news-releases/rapidus-and-hcltech-announce-partnership-for-next-generation-semiconductor-technologies-302919222.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-26T09:47:00Z"
+    },
+    {
+      "title": "Samsung & SK hynix Reportedly Set To Ramp 8-Layer HBM4 Shipments For NVIDIA’s Rubin Ultra In Q2 2027, As Heat And Yield Issues Continue To Complicate 12-Layer Stack Manufacturing",
+      "description": "NVIDIA reportedly entered into discussions with Samsung and SK hynix in the third quarter of 2026 to supply HBM4 memory with 8-layer stacks instead of 12-layer ones, despite a previous update mentioning that Rubin GPUs will stick with the more advanced memory…",
+      "url": "https://wccftech.com/samsung-sk-hynix-downgraded-hbm4-q2-2027-nvidia-rubin-ultra",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-26T09:46:09Z"
+    },
+    {
+      "title": "Rambus partners with ChipAgents on agentic AI for chip design",
+      "description": "Rambus and ChipAgents have announced a strategic collaboration intended to accelerate chip design using agentic AI.",
+      "url": "https://www.verdict.co.uk/rambus-partners-with-chipagents",
+      "source": "Verdict",
+      "publishedAt": "2026-10-26T09:33:55Z"
+    },
+    {
+      "title": "HCL opens 2 development centres to support Rapidus' chip engineering needs",
+      "description": "Indian IT services firm HCL Technologies and Rapidus Corporation on Monday inaugurated two HCLTech development centres in India to support the Japanese chipmaker's growing semiconductor engineering needs.\nThe centres, located in Bengaluru and Hubli, will draw…",
+      "url": "https://www.business-standard.com/companies/news/hcl-opens-2-development-centres-to-support-rapidus-chip-engineering-needs-126102600638_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-26T09:33:08Z"
+    },
+    {
+      "title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft - Neowin",
+      "description": "Windows 11 64-bit performance boost coming soon thanks to Intel & MicrosoftNeowin Windows 11’s new “better performance” toggle shows up, but your current PC will never be able to use itWindows Latest Intel APX in Windows 11: Microsoft Is Testing a New CPU Ext…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186459674",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-26T09:32:57Z"
+    },
+    {
+      "title": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In C",
+      "description": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In CPU, GPU WorkloadsWccftech Samsung Galaxy S27 could finally shed the laggard chip image with next-gen Exynos chi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186459672",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-26T09:32:47Z"
+    },
+    {
+      "title": "Intel APX Support Lands in Windows 11 Ahead of \"Nova Lake\" Launch",
+      "description": "Intel's Advanced Performance Extensions (APX) are officially supported on Windows 11 PCs. However, there are currently no consumer PCs capable of utilizing APX. Intel's APX is set to debut with the \"Nova Lake\" processors in early 2027, but software developmen…",
+      "url": "https://www.techpowerup.com/354134/intel-apx-support-lands-in-windows-11-ahead-of-nova-lake-launch",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-26T09:28:46Z"
+    },
+    {
+      "title": "Road Trip Snacks Ranked Best To Worst",
+      "description": "Avoid messy snacks like chips and crackers on road trips and rely food like simple bars and jerky instead. You'll be just as satiated, but with less clean up.",
+      "url": "https://www.jalopnik.com/2293561/road-trip-snacks-ranked-best-to-worst",
+      "source": "Jalopnik",
+      "publishedAt": "2026-10-26T09:25:00Z"
+    },
+    {
+      "title": "Stocktwits Tech Watch: More Big Earnings, Apple’s Touch-Screen MacBook And Intel Results In Focus",
+      "description": "Microsoft, Alphabet and Amazon earnings will offer fresh clues on whether massive AI investments are translating into growth, with investors also watching CapEx updates.\n- Seagate's results will offer insight into hard disk drive demand, while Intel's report …",
+      "url": "https://biztoc.com/x/b6e50d7e17792514",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T09:23:27Z"
+    },
+    {
+      "title": "Intel’s CEO Reportedly Had A Conversation With AMD’s Lisa Su On Potential Areas Of Collaboration, Says 0.9 PDK On The 14A Process Coming Soon",
+      "description": "Intel's CEO has revealed a number of valuable nuggets at a recent fireside chat, expounding on potential areas of collaboration with AMD and the tape-out-ready risk production status of the next-gen 14A process. Lip-Bu Tan: A customer waited 6 to 8 months hop…",
+      "url": "https://wccftech.com/intels-ceo-reportedly-had-a-conversation-with-amds-lisa-su-on-potential-areas-of-collaboration-says-0-9-pdk-on-the-14a-process-coming-soon",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-26T09:17:00Z"
+    },
+    {
+      "title": "Nvidia's sales and marketing leadership is seeing a changing of the guard — and new faces are gaining influence",
+      "description": "Nvidia CEO Jensen Huang.\nBloomberg/Getty Images\nNvidia's sales and marketing leadership is changing as its sales pitch evolves.\nVeterans are retiring, opening the door to internal succession and outside hires.\nNvidia CEO Jensen Huang's daughter Madison is als…",
+      "url": "https://biztoc.com/x/8b1619681edaa204",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T09:06:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "ETFs Are Buying NVIDIA (NVDA) on Thursday",
+      "Foxconn boasts AI factories progress",
+      "Conversion Kit Aims to Put PC Hardware Inside 2019 Mac Pro",
+      "Modder turns NES into a Windows-like desktop with original hardware",
+      "China’s proposed solar technology export curbs may delay India’s domestic manufacturing push: Report"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/504145d1ee6d4aca",
+        "https://biztoc.com/x/eaa164972b3a4dcb",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186460192"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+        "https://biztoc.com/x/9eac9104a4e08ecd",
+        "https://crooksandliars.com/2026/10/lazy-bond-villains-malcolm-nance-new"
+      ]
+    },
+    {
+      "title": "Manufacturing",
+      "summary": "Grouped stories where \"manufacturing\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://economictimes.indiatimes.com/news/economy/foreign-trade/chinas-proposed-solar-technology-export-curbs-may-delay-indias-domestic-manufacturing-push-report/articleshow/135210269.cms",
+        "https://biztoc.com/x/5ebd1c3ae2207d59",
+        "https://www.prnewswire.co.uk/news-releases/rapidus-and-hcltech-announce-partnership-for-next-generation-semiconductor-technologies-302919223.html"
+      ]
+    },
+    {
+      "title": "Semiconductor",
+      "summary": "Grouped stories where \"semiconductor\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/9cce1c47043c9443",
+        "https://www.thehindubusinessline.com/info-tech/hcltech-japans-rapidus-announce-partnership-for-next-generation-semiconductor-technologies/article71626313.ece",
+        "https://www.business-standard.com/companies/news/hcl-opens-2-development-centres-to-support-rapidus-chip-engineering-needs-126102600638_1.html"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.macrumors.com/2026/10/26/mac-pro-conversion-kit-to-put-pc-hardware-inside",
+        "https://biztoc.com/x/92315a8cdd42a536",
+        "https://biztoc.com/x/afa73ff415235411"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ETFs Are Buying NVIDIA (NVDA) on Thursday. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ETFs Are Buying NVIDIA (NVDA) on Thursday. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ETFs Are Buying NVIDIA (NVDA) on Thursday. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ETFs Are Buying NVIDIA (NVDA) on Thursday. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: ETFs Are Buying NVIDIA (NVDA) on Thursday. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
