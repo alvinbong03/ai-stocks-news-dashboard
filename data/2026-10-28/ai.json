@@ -1,0 +1,326 @@
+{
+  "theme": "ai",
+  "date": "2026-10-28",
+  "last_updated_utc": "2026-10-28T11:59:32.426Z",
+  "news": [
+    {
+      "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "description": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI safety measures may not prevent catastrophic risks. OpenAI an…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186471960",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-27T10:32:49Z"
+    },
+    {
+      "title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "description": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI safety measures may not prevent catastrophic risks. OpenAI an…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-27T10:00:00Z"
+    },
+    {
+      "title": "Nvidia backs Simplismart in $14M round to make AI models run leaner",
+      "description": "Nvidia's investment in Simplismart highlights a strategic shift towards optimizing AI efficiency, potentially reshaping GPU demand dynamics.\nThe post Nvidia backs Simplismart in $14M round to make AI models run leaner appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-backs-simplismart-14m-funding-round",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-27T11:04:55Z"
+    },
+    {
+      "title": "OpenAI faces copyright lawsuits from major publications over AI training",
+      "description": "The outcome could redefine AI training practices, impacting how companies access and use copyrighted content, with significant industry-wide effects.\nThe post OpenAI faces copyright lawsuits from major publications over AI training appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/openai-copyright-lawsuits-publishers-fair-use",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-27T10:14:43Z"
+    },
+    {
+      "title": "Show HN: Imp, an LLM Server for RTX 50 GPUs, Written by Claude Code",
+      "description": "LLM server for NVIDIA Blackwell only (GeForce RTX 50, RTX PRO). On one RTX 5090, Qwen3.8-27B one user: 96.3 tok/s, 1.38x vLLM without speculative decoding, 1.23x llama.cpp on the same GGUF. Serves ...",
+      "url": "https://github.com/kekzl/imp",
+      "source": "Github.com",
+      "publishedAt": "2026-10-27T09:50:39Z"
+    },
+    {
+      "title": "Anthropic prospectus cheers investors ahead of IPO",
+      "description": "Global stock markets rose on Tuesday as Anthropic’s long-awaited IPO prospectus renewed hope in the AI trade. The frontier AI firm said revenue had grown fourteenfold in the first half of the year compared to the same period in 2025, and disclosed a $112 bill…",
+      "url": "https://biztoc.com/x/c428112d511f02b2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:49:32Z"
+    },
+    {
+      "title": "Wall Street Has a New Blockbuster Stock Split Coming in 2027 -- It's an Artificial Intelligence (AI) Stock That's Up 1,615% in 14 Years",
+      "description": "Wall Street Has a New Blockbuster Stock Split Coming in 2027 -- It's an Artificial Intelligence (AI) Stock That's Up 1,615% in 14 Years\nStock splits are a form of financial engineering that companies can use to alter their stock prices for a whole host of rea…",
+      "url": "https://biztoc.com/x/4a4d5bc8c5b5968a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:37:01Z"
+    },
+    {
+      "title": "Act of Claude: Anthropic’s IPO bid",
+      "description": "Also on the daily podcast: our midterm-battlegrounds series continues in Alaska and redefining the second",
+      "url": "https://biztoc.com/x/e79916d9884091e1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:33:52Z"
+    },
+    {
+      "title": "How Anthropic Redesigned Source Control for AI-Driven Development",
+      "description": "Anthropic recently detailed how it migrated its monorepo from Git to Scion. Scion is a source control system that moves repository operations to the server side and uses content-addressed storage and tiered caches for agent and CI workloads. The design sacrif…",
+      "url": "https://www.infoq.com/news/2026/10/anthropic-source-control",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-10-27T11:25:00Z"
+    },
+    {
+      "title": "Your Nvidia GPU Has A Surprising Fix For Bad Microphone Quality",
+      "description": "If you're unhappy with your microphone's quality or the extra noise it picks up, you don't have to go out and buy a new one - try this solution instead.",
+      "url": "https://www.bgr.com/2293420/nvidia-gpu-surprising-fix-bad-microphone-quality",
+      "source": "BGR",
+      "publishedAt": "2026-10-27T11:17:00Z"
+    },
+    {
+      "title": "NVIDIA Commits $3 Billion to Meta, Expands Muse Partnership",
+      "description": "NVIDIA and Meta expand their AI partnership for Muse models. NVIDIA plans a $3B equity investment as Meta scales next-gen infrastructure.",
+      "url": "https://biztoc.com/x/afa3d792e6f3c8dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:03:17Z"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "description": "As the AI boom strains computing capacity, Nvidia has backed Indian startup Simplismart in a $14 million funding round, betting on software that helps companies run AI models more efficiently and, in some cases, with fewer GPUs.\nNvidia participated in the all…",
+      "url": "https://biztoc.com/x/53a09ad2ba867613",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:02:50Z"
+    },
+    {
+      "title": "Anthropic Could Defy the AI Spending Curse: Analysts See Early Profit Signs and Massive Cash Cushion",
+      "description": "Anthropic heads toward its IPO with surging enterprise revenue, early signs of profitability, and massive cash cushion against compute costs.",
+      "url": "https://biztoc.com/x/c99502962fe95bed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:02:46Z"
+    },
+    {
+      "title": "Why investors will likely ignore the $81 billion hole that Anthropic must dig itself out of",
+      "description": "Good morning. On Fortune’s radar today:\nAnthropic S-1: Surprisingly excellent.\nAI has produced ‘zero financial payoff to corporate America outside of tech.’\nMarkets: Oil up, stocks mixed.\nIncreasing delinquencies in U.S. consumer debt.\n60% of applicants for t…",
+      "url": "https://biztoc.com/x/8d20fc1708d571cd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:02:41Z"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs | TechCrunch",
+      "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T11:02:37Z"
+    },
+    {
+      "title": "Anthropic is printing money, but AI isn’t paying off outside tech",
+      "description": "Good morning. Today I’m reading about Netflix’s bloody week, playing with Apple Music’s fun new 404 page, mourning Arc’s untimely demise, and devouring Maggie O’Farrell’s new novel, Land.\n\n\n\nAs a reminder, Inbox is the tech newsletter that goes beyond the new…",
+      "url": "http://9to5google.com/2026/10/27/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech",
+      "source": "9to5google.com",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "description": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "KOSPI Soars 3% Back Above 5,600 as Samsung and SK Hynix Rally on Anthropic IPO Boost Before Chip Earnings",
+      "description": "South Korean shares rallied sharply as renewed confidence in artificial intelligence boosted Samsung Electronics and SK Hynix, drawing foreign investors back after heavy recent selling.",
+      "url": "https://www.ibtimes.com.au/south-korean-stocks-ai-chip-rally-1877463",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-27T10:56:26Z"
+    },
+    {
+      "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+      "description": "OpenAI has announced that its AI models have made several scientific discoveries in mathematics, computer science and physics.\nThe AI giant said on Monday that the three new discoveries concerned the fields of harmonic analysis, complexity theory and quantum …",
+      "url": "https://biztoc.com/x/81d84b9758288ff5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T10:47:14Z"
+    },
+    {
+      "title": "Anthropic could just stop",
+      "description": "Anthropic CEO Dario Amodei says his AI company can drive a “race to the top.” Where’s the evidence? | Finn Gomez/Getty Images \nWe’re living through an AI-fueled “Black October” and things are changing fast. Hackers are using AI to breach countless companies. …",
+      "url": "https://biztoc.com/x/55b7f5e680a48290",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T10:47:07Z"
+    },
+    {
+      "title": "Anthropic files for NASDAQ IPO, eyes major AI market expansion",
+      "description": "Anthropic's IPO could reshape the AI market landscape, intensifying competition and influencing future investment dynamics in the sector.\nThe post Anthropic files for NASDAQ IPO, eyes major AI market expansion appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-files-for-nasdaq-ipo-eyes-major-ai-market-expansion",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-27T10:42:42Z"
+    },
+    {
+      "title": "Anthropic aims for $2T valuation in NASDAQ IPO debut",
+      "description": "Anthropic's IPO could redefine market dynamics, testing investor confidence in specialized AI firms and influencing future tech valuations.\nThe post Anthropic aims for $2T valuation in NASDAQ IPO debut appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-aims-for-2t-valuation-in-nasdaq-ipo-debut",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-27T10:38:54Z"
+    },
+    {
+      "title": "Anthropic could just stop",
+      "description": "We’re living through an AI-fueled “Black October” and things are changing fast. Hackers are using AI to breach countless companies. AI tools have uncovered security flaws that could leave 70 percent of all websites vulnerable. Governments are scrambling to se…",
+      "url": "https://www.vox.com/future-perfect/507875/anthropic-ipo-stop-ai-race-safety",
+      "source": "Vox",
+      "publishedAt": "2026-10-27T10:29:14Z"
+    },
+    {
+      "title": "CloudHQ CEO Hossein Fateh On What Could Curb the Data Center Boom",
+      "description": "It’s been a — mostly — great time to be a data center developer. The market was already on the upswing when the rise of artificial intelligence companies kicked that into overdrive by clamoring for server space to run their models. In the first half of the ye…",
+      "url": "http://commercialobserver.com/2026/10/cloudhq-hossein-fateh-data-centers",
+      "source": "Commercial Observer",
+      "publishedAt": "2026-10-27T10:29:13Z"
+    },
+    {
+      "title": "When is Anthropic IPO? Tom Brown leads seven co-founders with $24 billion stake as founders pledge 80% of their wealth to charity but could still retain company control",
+      "description": "Anthropic IPO: AI giant Anthropic filed for an IPO on Monday and is reportedly aiming to go public by the end of November. Anthropic’s IPO could make its seven co-founders billionaires, with Tom Brown holding the largest stake. The founders have pledged to gi…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/when-is-anthropic-ipo-tom-brown-leads-seven-co-founders-with-24-billion-stake-as-founders-pledge-80-of-their-wealth-to-charity-but-could-still-retain-company-control/articleshow/135230557.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T10:26:37Z"
+    },
+    {
+      "title": "A new AI e-degree shows you smarter ways to use Claude, and it’s on sale for $20",
+      "description": "Four courses showing you better ways to use AI.\nThe post A new AI e-degree shows you smarter ways to use Claude, and it’s on sale for $20 appeared first on Popular Science.",
+      "url": "https://www.popsci.com/sponsored-content/a-new-ai-e-degree-shows-you-smarter-ways-to-use-claude-and-its-on-sale-sponsored-deal",
+      "source": "Popular Science",
+      "publishedAt": "2026-10-27T10:00:00Z"
+    },
+    {
+      "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+      "description": "Data center gear is being stolen in transit to the tune of hundreds of millions &mdash; grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals\n                                                                                        …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186471732",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-27T09:53:54Z"
+    },
+    {
+      "title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer",
+      "description": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command…",
+      "url": "https://biztoc.com/x/eb346e1b8394d9cf",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T09:45:15Z"
+    },
+    {
+      "title": "AI chip boom tripled South Korea's economic growth in the third quarter",
+      "description": "South Korea's economy grew faster than expected in the third quarter. However, analysts warned that its heavy reliance on the chip industry leaves the country vulnerable to a slowdown in global AI spending.",
+      "url": "https://biztoc.com/x/8d97ad1117469879",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T09:45:07Z"
+    },
+    {
+      "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+      "description": "Data center gear is being stolen in transit to the tune of hundreds of millions — grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-27T09:40:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+      "Nvidia backs Simplismart in $14M round to make AI models run leaner",
+      "OpenAI faces copyright lawsuits from major publications over AI training",
+      "Show HN: Imp, an LLM Server for RTX 50 GPUs, Written by Claude Code",
+      "Anthropic prospectus cheers investors ahead of IPO"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186471960",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+        "https://biztoc.com/x/c428112d511f02b2"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-backs-simplismart-14m-funding-round",
+        "https://cryptobriefing.com/openai-copyright-lawsuits-publishers-fair-use",
+        "http://commercialobserver.com/2026/10/cloudhq-hossein-fateh-data-centers"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://github.com/kekzl/imp",
+        "https://www.bgr.com/2293420/nvidia-gpu-surprising-fix-bad-microphone-quality",
+        "https://biztoc.com/x/afa3d792e6f3c8dc"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/4a4d5bc8c5b5968a",
+        "https://biztoc.com/x/81d84b9758288ff5",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186471732"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,384 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-28",
+  "last_updated_utc": "2026-10-28T12:00:26.296Z",
+  "news": [
+    {
+      "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+      "description": "Microsoft has begun testing the option to enable Intel's Advanced Performance Extensions, or APX, which will bring a performance boost to some apps &mdash; although no chips with APX support are available as yet.\n                                              …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186472486",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-27T11:53:46Z"
+    },
+    {
+      "title": "Rumour: Nintendo Switch 2 Lite could feature Samsung’s new 8LPU+ process",
+      "description": "Samsung is always working on ways to make its computer chips more efficient and it seems likely that the long-speculated Nintendo Switch 2 Lite could use the company’s new 8LPU+ process. This would mean that the yet-to-be-announced Nintendo Switch 2 Lite woul…",
+      "url": "https://mynintendonews.com/2026/10/27/rumour-nintendo-switch-2-lite-could-feature-samsungs-new-8lpu-process",
+      "source": "My Nintendo News",
+      "publishedAt": "2026-10-27T11:41:09Z"
+    },
+    {
+      "title": "We will see India becoming major exporter of goods and services to China: Piyush Goyal",
+      "description": "Commerce and Industry Minister Piyush Goyal emphasised India's willingness to engage with Chinese suppliers. He highlighted the importance of fair play and judicial processes regarding pricing discrepancies. India aims to enhance exports to China and the ASEA…",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/we-will-see-india-becoming-major-exporter-of-goods-and-services-to-china-piyush-goyal/articleshow/135232787.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T11:40:36Z"
+    },
+    {
+      "title": "OLED iPad mini 8 vs. iPad mini 7: What’s new and different?",
+      "description": "The iPad mini 8 brings much more than an OLED display, with a thinner design, faster A20 Pro chip and several other major upgrades over the iPad mini 7.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+      "url": "https://www.cultofmac.com/buying-guides/oled-ipad-mini-8-vs-7-whats-new-different",
+      "source": "Cult of Mac",
+      "publishedAt": "2026-10-27T11:37:04Z"
+    },
+    {
+      "title": "Acer Prices Predator Atlas 8 At $1,299 Featuring Powerful Arc G3 Extreme With 24 GB RAM And 512 GB Storage",
+      "description": "Compared to other Arc G3 Extreme-based handhelds, Acer's offering is cheaper, but it also has lower RAM and storage capacity. Acer Predator Atlas 8 to go on Sale at $1,299 on Best Buy on November 1; Features Arc G3 Extreme and 24 GB RAM Acer has listed its ne…",
+      "url": "https://wccftech.com/acer-prices-predator-atlas-8-at-1299-featuring-powerful-arc-g3-extreme-with-24-gb-ram-and-512-gb-storage",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-27T11:35:33Z"
+    },
+    {
+      "title": "Sony's next PlayStation handheld may get exclusive access to AMD's mobile RDNA 5",
+      "description": "According to Digital Foundry, Sony might have some kind of exclusive access to the mobile variant of AMD's upcoming RDNA 5 architecture. The nature of that exclusivity remains unclear, however. Sony and AMD may have a formal deal, or Sony may simply be the on…",
+      "url": "https://www.techspot.com/news/114345-sony-next-playstation-handheld-may-get-exclusive-access.html",
+      "source": "TechSpot",
+      "publishedAt": "2026-10-27T11:34:00Z"
+    },
+    {
+      "title": "Humanoid Robots Could Need 20 Times More Memory Chips by 2030",
+      "description": "The post Humanoid Robots Could Need 20 Times More Memory Chips by 2030 appeared first on 24/7 Wall St..\nElon Musk needed two words to dismiss a skeptic on X on October 26, 2026: “Silly analysis.” The Tesla (NASDAQ:TSLA) chief executive posted the reply at 1:3…",
+      "url": "https://biztoc.com/x/05952f84b3036d9e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:33:56Z"
+    },
+    {
+      "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+      "description": "Microsoft has begun testing the option to enable Intel's Advanced Performance Extensions, or APX, which will bring a performance boost to some apps — although no chips with APX support are available as yet.",
+      "url": "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-27T11:30:00Z"
+    },
+    {
+      "title": "Gwyndod supply chain mobilised to deliver UK’s first SMRs",
+      "description": "More than 400 suppliers came together on Ynys Môn to explore opportunities to support the delivery of Gwyndod.",
+      "url": "https://www.gov.uk/government/news/gwyndod-supply-chain-mobilised-to-deliver-uks-first-smrs",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-27T11:26:12Z"
+    },
+    {
+      "title": "“Raptor Lake Next”の16-coreと20-coreのモデルが積荷目録に掲載される",
+      "description": "Intel \"Raptor Lake Next\" 16-Core and 20-Core CPUs Surface（TechPowerUp）Intel Raptor Lake Next 16-core and 20-core CPUs may have surfaced in shipping logs（VideoCardz）Intel Raptor Lake Next CPUs are shipping, with records revealing cache and clock speed specs（Cl…",
+      "url": "https://northwood.blog.fc2.com/blog-entry-13243.html",
+      "source": "Fc2.com",
+      "publishedAt": "2026-10-27T11:20:02Z"
+    },
+    {
+      "title": "“Nova Lake-S”の28-coreのPassMark CPU Markスコア",
+      "description": "28-Core Intel Nova Lake-S CPU Shows Promising Performance Boost in Leaked Benchmark（TechPowerUp）Intel Core Ultra 4000 Nova Lake-S leak: 28-core CPU beats Core Ultra 9 285K in single-thread test（VideoCardz）“Nova Lake-S”がそう遠くない時期にローンチを控えている。“Nova Lake-S”はCore U…",
+      "url": "https://northwood.blog.fc2.com/blog-entry-13242.html",
+      "source": "Fc2.com",
+      "publishedAt": "2026-10-27T11:19:30Z"
+    },
+    {
+      "title": "Amkor Technology Halved Over The Last 6 Months: Two Chip Analysts Say 145% Returns Await Those Who Buy Now",
+      "description": "The post Amkor Technology Halved Over The Last 6 Months: Two Chip Analysts Say 145% Returns Await Those Who Buy Now appeared first on 24/7 Wall St..\nAmkor Technology (NASDAQ:AMKR) currently trades at $36.81, while the consensus price target sits at $74.50. Th…",
+      "url": "https://biztoc.com/x/64510766b8812959",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:18:42Z"
+    },
+    {
+      "title": "Prediction: Broadcom Stock Could Be Worth Twice as Much by 2030",
+      "description": "The post Prediction: Broadcom Stock Could Be Worth Twice as Much by 2030 appeared first on 24/7 Wall St..\nAI semiconductor revenue at Broadcom (NASDAQ:AVGO | AVGO Price Prediction) just reached $16.70B, up 221% year over year. Total revenue rose 85.5% to $29.…",
+      "url": "https://biztoc.com/x/c7332b004cc78e56",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:18:33Z"
+    },
+    {
+      "title": "CoreWeave Vs. Nvidia: Demand For Silicon is Not The Same Thing as Solvent, Credit-Backed Demand for Physical Infrastructure",
+      "description": "The post CoreWeave Vs. Nvidia: Demand For Silicon is Not The Same Thing as Solvent, Credit-Backed Demand for Physical Infrastructure appeared first on 24/7 Wall St..\nCoreWeave (NASDAQ:CRWV) and NVIDIA (NASDAQ:NVDA) both posted record quarters in August, and b…",
+      "url": "https://biztoc.com/x/17618a269b6433a7",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:18:29Z"
+    },
+    {
+      "title": "Your Nvidia GPU Has A Surprising Fix For Bad Microphone Quality",
+      "description": "If you're unhappy with your microphone's quality or the extra noise it picks up, you don't have to go out and buy a new one - try this solution instead.",
+      "url": "https://www.bgr.com/2293420/nvidia-gpu-surprising-fix-bad-microphone-quality",
+      "source": "BGR",
+      "publishedAt": "2026-10-27T11:17:00Z"
+    },
+    {
+      "title": "RTX Spark showdown — Surface Laptop Ultra vs. ASUS ProArt P16",
+      "description": "The Surface Laptop Ultra and the ASUS ProArt P16 are among the two initial NVIDIA RTX Spark laptops we've thoroughly tested. Wondering which one is right for you? This in-depth comparison I put together can help.",
+      "url": "https://www.windowscentral.com/hardware/laptops/surface-laptop-ultra-vs-asus-proart-p16-rtx-spark",
+      "source": "Windows Central",
+      "publishedAt": "2026-10-27T11:15:00Z"
+    },
+    {
+      "title": "Nvidia backs Simplismart in $14M round to make AI models run leaner",
+      "description": "Nvidia's investment in Simplismart highlights a strategic shift towards optimizing AI efficiency, potentially reshaping GPU demand dynamics.\nThe post Nvidia backs Simplismart in $14M round to make AI models run leaner appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-backs-simplismart-14m-funding-round",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-27T11:04:55Z"
+    },
+    {
+      "title": "NVIDIA Commits $3 Billion to Meta, Expands Muse Partnership",
+      "description": "NVIDIA and Meta expand their AI partnership for Muse models. NVIDIA plans a $3B equity investment as Meta scales next-gen infrastructure.",
+      "url": "https://biztoc.com/x/afa3d792e6f3c8dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:03:17Z"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "description": "As the AI boom strains computing capacity, Nvidia has backed Indian startup Simplismart in a $14 million funding round, betting on software that helps companies run AI models more efficiently and, in some cases, with fewer GPUs.\nNvidia participated in the all…",
+      "url": "https://biztoc.com/x/53a09ad2ba867613",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T11:02:50Z"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs | TechCrunch",
+      "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T11:02:37Z"
+    },
+    {
+      "title": "Worthy: Mizzou will benefit from Jason Crowe Jr. having a chip on his shoulder",
+      "description": "University of Missouri freshman men’s basketball player Jason Crowe Jr. was one of the best high school scorers in the nation. He comes to college basketball on a mission to prove he’s a true point guard.",
+      "url": "https://www.stltoday.com/sports/column/lynn-worthy/article_57db451c-a2d7-4f20-9f67-a1afe0d5eaf5.html",
+      "source": "STLtoday.com",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
+      "description": "Khawaja Shams shares a distributed systems perspective on scaling LLM inference stacks efficiently. He discusses practical strategies for optimizing GPU utilization, managing KV cache memory cliffs, leveraging tiered storage, reducing tail latency, and implem…",
+      "url": "https://www.infoq.com/presentations/llm-inference-kv-cache",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "5 of the biggest retail horror stories of 2026",
+      "description": "From Nike’s turnaround setbacks to Chip Wilson’s battle with Lululemon, the spookiest sights weren’t found on retailers’ shelves this year.",
+      "url": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866",
+      "source": "Retail Dive",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "description": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-27T11:00:00Z"
+    },
+    {
+      "title": "Nikkei Jumps 1.7% to Snap Three-Day Losing Streak as Advantest and SoftBank Lead AI Rebound in Tokyo",
+      "description": "Japan's Nikkei 225 rose 1.73% as semiconductor shares rallied on renewed AI enthusiasm, while investors weighed US technology earnings, yen weakness and upcoming policy decisions.",
+      "url": "https://www.ibtimes.com.au/japan-nikkei-ai-chip-stocks-rally-1877461",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-27T10:57:01Z"
+    },
+    {
+      "title": "KOSPI Soars 3% Back Above 5,600 as Samsung and SK Hynix Rally on Anthropic IPO Boost Before Chip Earnings",
+      "description": "South Korean shares rallied sharply as renewed confidence in artificial intelligence boosted Samsung Electronics and SK Hynix, drawing foreign investors back after heavy recent selling.",
+      "url": "https://www.ibtimes.com.au/south-korean-stocks-ai-chip-rally-1877463",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-27T10:56:26Z"
+    },
+    {
+      "title": "Port-rich Vzmore mini PC launches with performance-focused Intel CPU and eGPU support",
+      "description": "Vzmore has launched the iX9 mini PC. It's powered by the Intel Core Ultra 9 185H, a performance CPU from Meteor Lake. There's a rich port selection, with dual USB4 ports bringing eGPU support. The discounted launch price is $899.",
+      "url": "https://www.notebookcheck.net/Port-rich-Vzmore-mini-PC-launches-with-performance-focused-Intel-CPU-and-eGPU-support.1434998.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-27T10:48:00Z"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
+      "description": "Sensex, Nifty, Share Prices Highlgihts: Market benchmark indices Sensex and Nifty ended largely unchanged in a highly volatile trade on Tuesday amid persistently elevated crude oil prices, selling in blue-chip bank stocks and caution ahead of the US Federal R…",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-october-2026/article71626702.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-27T10:47:20Z"
+    },
+    {
+      "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
+      "description": "Apple's upcoming iPhone 18e model will retain a 60Hz display but could gain an upgraded front-facing camera, according to the leaker known as \"Digital Chat Station.\"\n\n\n\n\n\nIn a new post on Weibo, the leaker said that the device will feature a 6.12-inch OLED di…",
+      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades",
+      "source": "MacRumors",
+      "publishedAt": "2026-10-27T10:41:44Z"
+    },
+    {
+      "title": "Zacatecas Silver Reports High-Grade Gold and Silver Rock Chip Sampling at Cumaro, Sonora, with Assays up to 40.6 g/t Gold and 253 g/t Silver",
+      "description": "VANCOUVER, British Columbia, Oct. 27, 2026 (GLOBE NEWSWIRE) — Zacatecas Silver Corp. (TSXV: ZAC | OTCQB: ZCTSF | FRA: 7TV) (“Zacatecas Silver” or the “Company”) is pleased to report results from a reconnaissance rock chip sampling program at its Cumaro gold-s…",
+      "url": "https://financialpost.com/globe-newswire/zacatecas-silver-reports-high-grade-gold-and-silver-rock-chip-sampling-at-cumaro-sonora-with-assays-up-to-40-6-g-t-gold-and-253-g-t-silver",
+      "source": "Financial Post",
+      "publishedAt": "2026-10-27T10:36:21Z"
+    },
+    {
+      "title": "Big Tech just went from crushing the average stock to losing to it: Chart of the Day",
+      "description": "Wall Street spent October selling chip stocks and buying toothpaste.\nConsumer staples are headed for their best month in nearly five years as semiconductors crater, and the average S&P 500 stock is on track for its sharpest turnaround against the index in dec…",
+      "url": "https://biztoc.com/x/7b0dd426d29421ed",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T10:33:22Z"
+    },
+    {
+      "title": "Nvidia investing $3 billion in Meta in Muse partnership",
+      "description": "Nvidia will invest $3 billion in Meta as part of an expanded partnership that includes closer collaboration on the Muse agent platform, the companies said Tuesday.\nWhy it matters: A multibillion-dollar Nvidia investment is becoming all but table stakes for se…",
+      "url": "https://biztoc.com/x/c68eb145c334247f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-27T10:33:01Z"
+    },
+    {
+      "title": "HP releases new MacBook Neo rival with OLED touchscreen display and Intel Wildcat Lake",
+      "description": "HP has officially launched the Star Book Air 14 laptop in China. HP’s new machine comes as a direct rival to the MacBook Neo, featuring an aluminum alloy body, an Intel Core 5 320 processor, an OLED touchscreen, and a 60 Wh battery rated at up to 42.5 hours.",
+      "url": "https://www.notebookcheck.net/HP-releases-new-MacBook-Neo-rival-with-OLED-touchscreen-display-and-Intel-Wildcat-Lake.1433912.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-27T10:24:00Z"
+    },
+    {
+      "title": "Toon Tropical: Stylized Island & Dig Site Pack by Halfwatt Games",
+      "description": "165 hand-styled toon models and 4 animated characters for tropical islands, beaches and an archaeology dig, with ink outlines, themes, day/night and a single palette texture.<ul><li>Unity version: 6000.0 LTS or newer.</li><li>Render pipelines: URP (17+) and B…",
+      "url": "https://assetstore.unity.com/packages/3d/environments/landscapes/toon-tropical-stylized-island-dig-site-pack-421046",
+      "source": "Unity.com",
+      "publishedAt": "2026-10-27T10:13:14Z"
+    },
+    {
+      "title": "Kamrui GK3 Plus Intel Celeron N3350 Mini Desktop PC for $177 + free shipping",
+      "description": "Compact enough to tuck behind a monitor, this mini PC suits basic office work, browsing, or a home media setup where you don't need dedicated graphics power, and at $177.09 it's $122.90 off the $299.99 list price. Apply coupon code \"N3350SAVE\" to save. Deal e…",
+      "url": "https://www.dealnews.com/Kamrui-GK3-Plus-Intel-Celeron-N3350-Mini-Desktop-PC-for-177-free-shipping/22318292.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-27T10:03:13Z"
+    },
+    {
+      "title": "India needs resilient semiconductor supply chains to move up the value chain",
+      "description": "India’s semiconductor industry needs resilient supply chains, advanced packaging, emerging technologies and industry-academia partnerships to strengthen manufacturing capabilities",
+      "url": "https://www.thehindubusinessline.com/info-tech/india-needs-resilient-semiconductor-supply-chains-to-move-up-the-value-chain/article71630713.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-27T10:02:00Z"
+    },
+    {
+      "title": "Asus Vivobook 17 Core 7 150U 17.3\" Laptop for $800 + free shipping",
+      "description": "At Newegg, get the Asus Vivobook 17 Core 7 150U 17.3\" Laptop for $800. That's a savings of $200. Shipping is free. Buy Now at Newegg\r\n Features\r\n <ul> <li>17.3\" Full HD (1920 x 1080) non-touch display, 60Hz</li> <li>Intel Core 7 150U 10-core processor w/ inte…",
+      "url": "https://www.dealnews.com/Asus-Vivobook-17-Core-7-150-U-17-3-Laptop-for-800-free-shipping/22318275.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-10-27T10:00:45Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+      "Rumour: Nintendo Switch 2 Lite could feature Samsung’s new 8LPU+ process",
+      "We will see India becoming major exporter of goods and services to China: Piyush Goyal",
+      "OLED iPad mini 8 vs. iPad mini 7: What’s new and different?",
+      "Acer Prices Predator Atlas 8 At $1,299 Featuring Powerful Arc G3 Extreme With 24 GB RAM And 512 GB Storage"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.cultofmac.com/buying-guides/oled-ipad-mini-8-vs-7-whats-new-different",
+        "https://biztoc.com/x/64510766b8812959",
+        "https://www.stltoday.com/sports/column/lynn-worthy/article_57db451c-a2d7-4f20-9f67-a1afe0d5eaf5.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/17618a269b6433a7",
+        "https://www.bgr.com/2293420/nvidia-gpu-surprising-fix-bad-microphone-quality",
+        "https://www.windowscentral.com/hardware/laptops/surface-laptop-ultra-vs-asus-proart-p16-rtx-spark"
+      ]
+    },
+    {
+      "title": "Intel",
+      "summary": "Grouped stories where \"intel\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186472486",
+        "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus",
+        "https://northwood.blog.fc2.com/blog-entry-13243.html"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/05952f84b3036d9e",
+        "https://biztoc.com/x/c7332b004cc78e56",
+        "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://mynintendonews.com/2026/10/27/rumour-nintendo-switch-2-lite-could-feature-samsungs-new-8lpu-process",
+        "https://economictimes.indiatimes.com/news/economy/foreign-trade/we-will-see-india-becoming-major-exporter-of-goods-and-services-to-china-piyush-goyal/articleshow/135232787.cms",
+        "https://wccftech.com/acer-prices-predator-atlas-8-at-1299-featuring-powerful-arc-g3-extreme-with-24-gb-ram-and-512-gb-storage"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel's APX offers 'better performance' in Windows 11 according to new Insider setting. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel's APX offers 'better performance' in Windows 11 according to new Insider setting. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel's APX offers 'better performance' in Windows 11 according to new Insider setting. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel's APX offers 'better performance' in Windows 11 according to new Insider setting. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Intel's APX offers 'better performance' in Windows 11 according to new Insider setting. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
