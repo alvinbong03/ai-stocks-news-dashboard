@@ -1,0 +1,256 @@
+{
+  "theme": "ai",
+  "date": "2026-10-29",
+  "last_updated_utc": "2026-10-29T12:09:37.880Z",
+  "news": [
+    {
+      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond",
+      "description": "The post OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond appeared first on 24/7 Wall St..\nOpenAI has spent more on NVIDIA (NASDAQ:NVDA) graphics processors than almost any other company, and it now plans to buy Google’s own AI chip…",
+      "url": "https://biztoc.com/x/addc5ca265c24ee0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:33:04Z"
+    },
+    {
+      "title": "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+      "description": "In this article, you will learn how to compare two strategies for adapting a large language model to a specific domain: fine-tuning with LoRA versus training a scikit-learn classifier on frozen embeddings.",
+      "url": "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head",
+      "source": "Machinelearningmastery.com",
+      "publishedAt": "2026-10-28T11:00:00Z"
+    },
+    {
+      "title": "Economist Steve Hanke Questions AI ‘Hype’ as Just 2.9% of US Consumers Pay for ChatGPT, Claude, Gemini or…",
+      "description": "Economist Steve Hanke says just 2.9% of U.S. consumers pay for leading AI assistants, questioning hype around AI adoption and retention.",
+      "url": "https://biztoc.com/x/eb64801795abdc1f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T10:47:24Z"
+    },
+    {
+      "title": "Economist Steve Hanke Questions AI ‘Hype’ as Just 2.9% of US Consumers Pay for ChatGPT, Claude, Gemini or Grok: ‘The Public Is Not Buying’",
+      "description": "Economist Steve Hanke Questions AI ‘Hype’ as Just 2.9% of US Consumers Pay for ChatGPT, Claude, Gemini or Grok: ‘The Public Is Not Buying’\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nEconomist Steve Han…",
+      "url": "https://biztoc.com/x/37cedd43405a2a6b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T10:01:15Z"
+    },
+    {
+      "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
+      "description": "Data preparation startup Prophecy Inc. today launched DataGPT, a new service that allows business analysts to run complete data workflows from inside OpenAI Group PBC’s ChatGPT, Anthropic PBC’s Claude and Microsoft Corp.’s Copilot. Each answer arrives with a …",
+      "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-10-28T09:00:01Z"
+    },
+    {
+      "title": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers",
+      "description": "Anthropic engineering manager Felix Rieseberg says coding tests are obsolete in the AI era.\nUtku Ucrak/Anadolu via Getty Images\nAn Anthropic manager says Claude has made traditional coding interviews a poor hiring signal.\nHis advice to juniors: target busines…",
+      "url": "https://biztoc.com/x/e215eff7f30c0a9d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:02:30Z"
+    },
+    {
+      "title": "Hiltzik: Anthropic says its goal is to help humanity, but you may not want to believe it",
+      "description": "Anthropic says its goal is to help humanity, but you may not want to believe it\n- Click here to listen to this article\nAnthropic, the big artificial intelligence lab, wants everyone to understand that it’s deeply devoted to developing advanced AI “for the ben…",
+      "url": "https://biztoc.com/x/80e4604d00dc09b5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T10:15:59Z"
+    },
+    {
+      "title": "ThinkMarkets launches 24/7 pre-IPO markets on Anthropic and OpenAI",
+      "description": "LONDON, Oct. 28, 2026 (GLOBE NEWSWIRE) -- Traders can go long or short on the two AI companies as it breaks, including overnight and on weekends, before either company's shares begin trading.\nThinkMarkets has launched pre-IPO markets on Anthropic and OpenAI, …",
+      "url": "https://biztoc.com/x/25f04800f16758ef",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T09:31:03Z"
+    },
+    {
+      "title": "Anthropic expands US government AI deal despite Pentagon blacklist",
+      "description": "Anthropic's expanded GSA deal highlights potential growth in non-military sectors, possibly boosting its market position despite Pentagon restrictions.\nThe post Anthropic expands US government AI deal despite Pentagon blacklist appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/anthropic-expands-us-government-ai-deal-despite-pentagon-blacklist",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-28T12:03:52Z"
+    },
+    {
+      "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "description": "Palit denies news that Galax is going out of production.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-28T11:56:26Z"
+    },
+    {
+      "title": "Exclusive | Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks - WSJ",
+      "description": "Exclusive | Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ RisksWSJ Chart: Anthropic's cash pile towers over nearly every U.S. companyCNBC Inside Anthropic’s IPO + How AI Agents Spy on Your Messages : Machine GodsNPR From bioweapons to black…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186483386",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-28T11:52:41Z"
+    },
+    {
+      "title": "Ochsner’s Trainor Says ChatGPT Health Is Forcing a Patient AI Decision",
+      "description": "Amy Trainor, RN, SVP and chief information officer at Ochsner Health, discusses why about 4,500 patients connecting their records to ChatGPT have put a near-term decision in front of the 47-hospital system: whether to expand Epic's Emmie assistant in MyChart.…",
+      "url": "https://healthsystemcio.com/2026/10/28/chatgpt-health-patient-ai-decision",
+      "source": "Healthsystemcio.com",
+      "publishedAt": "2026-10-28T11:00:50Z"
+    },
+    {
+      "title": "Anthropic manager says the 'coding interview is dead' — here's his advice for junior developers",
+      "description": "Felix Rieseberg says AI has made coding tests obsolete. He urged junior engineers to instead show business impact through focused prototypes.",
+      "url": "https://www.businessinsider.com/coding-interview-dead-ai-junior-developer-hiring-tips-anthropic-claude-2026-10",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-28T10:56:21Z"
+    },
+    {
+      "title": "Anthropic 公開 AI 藥物研發進展，攜手六家機構並收購新創 Mithril",
+      "description": "Anthropic 與 BigHat Biosciences、Bristol Myers Squibb、Divergence Labs、Enveda、Generate Biomedicines 及 The Column Group，這六家藥物研發機構的合作有了初步成果。 Anthropic 的策略是...",
+      "url": "https://technews.tw/2026/10/28/early-progress-on-accelerating-drug-development-with-claude",
+      "source": "Technews.tw",
+      "publishedAt": "2026-10-28T10:09:39Z"
+    },
+    {
+      "title": "SK Hynix, Nvidia and Micron send one clear message to investors with their stocks off the highs",
+      "description": "Some of the biggest players in the AI trade are sending a clear message to investors who have watched their stock prices fall off record highs.\nThat message is that the sell-offs are unwarranted, and they will use stock buybacks to boost shareholder returns.\n…",
+      "url": "https://biztoc.com/x/f719d3b64842e081",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T10:01:11Z"
+    },
+    {
+      "title": "Nvidia is scared: Leaker suggests RTX 5090 and RTX 5080 discontinuation signals impending AI collapse",
+      "description": "Nvidia has reportedly discontinued the GeForce RTX 5090 and the RTX 5080 GPUs. Leaker Moore's Law Is Dead thinks that these cancellations have more to do with the state of the AI industry than Nvidia preparing to launch the RTX 50 Super series.",
+      "url": "https://www.notebookcheck.net/Nvidia-is-scared-Leaker-suggests-RTX-5090-and-RTX-5080-discontinuation-signals-impending-AI-collapse.1434007.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-28T09:49:00Z"
+    },
+    {
+      "title": "Map Shows Texas Data Center Boom as Pollution Warning Issued",
+      "description": "Texas' rapidly expanding data-center industry could threaten decades of progress in reducing air pollution, according to new research examining the enormous amounts of electricity the state's AI boom may need.\nA recent assessment published by the Houston Adva…",
+      "url": "https://biztoc.com/x/6825a8f014bebce3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T09:16:41Z"
+    },
+    {
+      "title": "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
+      "description": "The Democratic senator is “deeply troubled” by risks Anthropic raised in its IPO paperwork and wants answers to a long list of questions before the AI giant goes public.",
+      "url": "https://biztoc.com/x/c8ee8ad1071bdb99",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T09:14:56Z"
+    },
+    {
+      "title": "Oracle accelerates AI chip diversification with Cerebras, Google, and SambaNova deals",
+      "description": "Oracle has signed partnerships with Cerebras and other chipmakers to host their chips in its cloud infrastructure. The Cerebras deal gives the chipmaker a new large customer to anchor its post-IPO trajectory, while allowing Oracle to reduce its reliance on Nv…",
+      "url": "https://www.digitimes.com/news/a20261028VL226/oracle-cerebras-chips-nvidia-infrastructure.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-28T08:36:39Z"
+    },
+    {
+      "title": "SK Hynix profits soar amid roaring AI chip demand - Financial Times",
+      "description": "SK Hynix profits soar amid roaring AI chip demandFinancial Times SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investorsCNBC SK hynix Announces 3Q26 Financial ResultsSK hynix SK Hynix unveils $75 billion shareholder return p…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186481694",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-28T08:32:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond",
+      "Fine-Tuning vs. Frozen Embeddings: When to Adapt the LLM vs. the Sklearn Head",
+      "Economist Steve Hanke Questions AI ‘Hype’ as Just 2.9% of US Consumers Pay for ChatGPT, Claude, Gemini or…",
+      "Economist Steve Hanke Questions AI ‘Hype’ as Just 2.9% of US Consumers Pay for ChatGPT, Claude, Gemini or Grok: ‘The Public Is Not Buying’",
+      "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot",
+        "https://biztoc.com/x/e215eff7f30c0a9d",
+        "https://biztoc.com/x/80e4604d00dc09b5"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/addc5ca265c24ee0",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+        "https://biztoc.com/x/f719d3b64842e081"
+      ]
+    },
+    {
+      "title": "Chatgpt",
+      "summary": "Grouped stories where \"chatgpt\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/eb64801795abdc1f",
+        "https://biztoc.com/x/37cedd43405a2a6b",
+        "https://healthsystemcio.com/2026/10/28/chatgpt-health-patient-ai-decision"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://machinelearningmastery.com/fine-tuning-vs-frozen-embeddings-when-to-adapt-the-llm-vs-the-sklearn-head",
+        "https://biztoc.com/x/6825a8f014bebce3",
+        "https://www.digitimes.com/news/a20261028VL226/oracle-cerebras-chips-nvidia-infrastructure.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

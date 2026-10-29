@@ -1,0 +1,424 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-10-29",
+  "last_updated_utc": "2026-10-29T12:10:33.333Z",
+  "news": [
+    {
+      "title": "TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch",
+      "description": "TSMC is reportedly considering raising prices for its CoWoS (Chip on Wafer on Substrate) advanced packaging by as much as 20%, according to supply chain sources cited by Taiwan's Commercial Times. Foundries and outsourced packaging firms are apparently weighi…",
+      "url": "https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-28T12:06:41Z"
+    },
+    {
+      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Live: Nasdaq futures rise as SK Hynix profit surge lifts chip stocks",
+      "description": "Fed Meeting Live Updates | US Stock Market Live: Nasdaq futures rise as chip stocks gain after SK Hynix posted a more than sevenfold jump in quarterly profit. Micron, Nvidia and AMD advance, while Alphabet gains on a report that OpenAI plans to buy its AI chi…",
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-10-28T12:03:22Z"
+    },
+    {
+      "title": "Apple AirPods 4 Wireless Earbuds With Active Noise Cancellation For $99 From Woot!",
+      "description": "Apple AirPods 4 Wireless Earbuds With Active Noise Cancellation For $99 From Woot! Active Noise Cancellation (ANC) Transparency Mode and Personalized Spatial Audio USB-C Charging Case with Wireless Charging H2 Chip\nThe post Apple AirPods 4 Wireless Earbuds Wi…",
+      "url": "https://www.dansdeals.com/shopping-deals/woot/apple-airpods-4-wireless-earbuds-with-active-noise-cancellation-for-99-from-woot-2",
+      "source": "Dansdeals.com",
+      "publishedAt": "2026-10-28T12:00:46Z"
+    },
+    {
+      "title": "WWF Details Textile Water Conservation Collaborations, Launches Forest Traceability Tool Finder",
+      "description": "The organization's \"Drop by Drop\" report spotlights five case studies of supply chain-wide collaboration on water management.",
+      "url": "http://wwd.com/sourcing-journal/sustainability/wwf-textile-water-conservation-projects-forest-traceability-tool-finder-1239388557",
+      "source": "WWD",
+      "publishedAt": "2026-10-28T12:00:00Z"
+    },
+    {
+      "title": "Money Moves: Apparel Supply Chain Investments Shift to AI, Robotics and Last-Mile Logistics",
+      "description": "Top logistics and e-commerce companies are shifting capital expenditures away from expanding their physical footprint and toward automation and AI.",
+      "url": "http://wwd.com/sourcing-journal/industry-news/money-moves-companies-shift-their-investments-1239385271",
+      "source": "WWD",
+      "publishedAt": "2026-10-28T12:00:00Z"
+    },
+    {
+      "title": "I've been using Lenovo's Pro 9n laptop with RTX Spark for weeks. Here's what I think.",
+      "description": "Lenovo's new Pro 9n laptop with NVIDIA's RTX Spark chip has been in my hands undergoing testing for a few weeks. Here's what you can expect from the system, as well as how it compares to other RTX Spark PCs we've already tested.",
+      "url": "https://www.windowscentral.com/hardware/lenovo/lenovo-pro-9n-rtx-spark-review",
+      "source": "Windows Central",
+      "publishedAt": "2026-10-28T12:00:00Z"
+    },
+    {
+      "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "description": "Palit denies news that Galax is going out of production.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-28T11:56:26Z"
+    },
+    {
+      "title": "Acer Predator Atlas 8 tested: Asus ROG Xbox Ally X20 stands no chance despite same price",
+      "description": "The Intel Arc G3 Extreme-powered Acer Predator Atlas 8 handheld gaming console has been tested. This is the first Acer handheld console in the US. The console proves to be much faster than the similarly priced Asus ROG Xbox Ally X20.",
+      "url": "https://www.notebookcheck.net/Acer-Predator-Atlas-8-tested-Asus-ROG-Xbox-Ally-X20-stands-no-chance-despite-same-price.1435067.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-28T11:53:00Z"
+    },
+    {
+      "title": "What SPDR Portfolio S&P 500 Growth (SPYG) Bought: NVIDIA Leads on Monday",
+      "description": "This article first appeared on GuruFocus.\nState Street SPDR Portfolio S&P 500 Growth ETF (SPYG) kept up its pattern of broad additions, increasing every one of its 152 positions and making no decreases in Monday's session. The fund's ETF activity totaled $77.…",
+      "url": "https://biztoc.com/x/cc30398fc0dd34a2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:49Z"
+    },
+    {
+      "title": "What ProShares Ultra QQQ (QLD) Bought: NVIDIA Leads on Oct. 26",
+      "description": "This article first appeared on GuruFocus.\nProShares Ultra QQQ 2x Shares (QLD) posted a net gain of $242.7 million in ETF activity on Monday, with gross traded of $242.7 million and no shares sold. The fund increased all 96 of its positions and decreased none.…",
+      "url": "https://biztoc.com/x/c4414873e452950c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:32Z"
+    },
+    {
+      "title": "What iShares Russell 1000 Growth ETF (IWF) Sold: NVIDIA Leads on Oct. 26",
+      "description": "This article first appeared on GuruFocus.\niShares Russell 1000 Growth ETF (IWF) extended its recent run of net selling on Monday, with $223.1 million in gross sales and no purchases. The fund's ETF activity reduced 358 positions and increased none, leaving ne…",
+      "url": "https://biztoc.com/x/4f4a878163a0e15d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:29Z"
+    },
+    {
+      "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Oct. 26",
+      "description": "This article first appeared on GuruFocus.\nInvesco NASDAQ 100 ETF (QQQM) was the sole fund in Monday's session, buying $272.2 million of stock and selling none, against $110.42 billion in assets. QQQM increased all 101 of its positions and decreased none, for …",
+      "url": "https://biztoc.com/x/e3506ba121f5a0fe",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:26Z"
+    },
+    {
+      "title": "Sells $359.1 Million of NVIDIA on Oct. 26",
+      "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) was the sole fund in this report, and it moved entirely to the sell side on Monday. The ETF sold $4.37 billion of stock and bought nothing, cutting all 101 of its positions and leaving none inc…",
+      "url": "https://biztoc.com/x/1d928d70319fe4ca",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:12Z"
+    },
+    {
+      "title": "ETFs Are Net Sellers of Advanced Micro Devices (AMD) on Oct. 26",
+      "description": "This article first appeared on GuruFocus.\nIn Monday's session, 28 ETFs were buying Advanced Micro Devices (AMD) shares versus 19 selling, yet the net ETF flows came out negative at $53.5 million because more funds traded the other way but in smaller amounts. …",
+      "url": "https://biztoc.com/x/46f4905ba6e710ec",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:50:04Z"
+    },
+    {
+      "title": "Save $249 on 32GB of DDR5 with this 9800X3D parts bundle",
+      "description": "Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi motherboard and 32GB of DDR5-6000 RAM, now just $1,094.99.",
+      "url": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-28T11:48:55Z"
+    },
+    {
+      "title": "AMD Jumped 5% and Is Closing In on $1 Trillion Again",
+      "description": "The post AMD Jumped 5% and Is Closing In on $1 Trillion Again appeared first on 24/7 Wall St..\nAMD (NASDAQ:AMD) became a trillion-dollar company this fall and regained the title within weeks. On Tuesday, October 27, 2026, AMD rose 5.45% to close at $560.26. T…",
+      "url": "https://biztoc.com/x/a97e29fe90717b3a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:48:28Z"
+    },
+    {
+      "title": "SK Hynix says the memory-chip shortage will last until 2030—and more than half its production is booked for the next two years",
+      "description": "SK Hynix generated $78.3 billion in quarterly revenue, its highest-ever quarterly total.",
+      "url": "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030",
+      "source": "Fortune",
+      "publishedAt": "2026-10-28T11:40:35Z"
+    },
+    {
+      "title": "KLEVV Launches Its First EXPO ULL-Compatible DDR5 Memory With Up To 8000 MT/s And 128 GB Capacity",
+      "description": "The new KLEVV memory can reportedly hit 8000 MT/s at CL38 and offers full compatibility with both AMD and Intel platforms. KLEVV Debuts CRAS V RGB PRIME DDR5, Featuring 6000 MT/s at CL26 and 8000 MT/s at CL38; Features AMD EXPO ULL and Supports Intel XMP as W…",
+      "url": "https://wccftech.com/klevv-launches-cras-v-rgb-prime-ddr5-memory-boasting-up-to-8000-mt-s",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-28T11:38:42Z"
+    },
+    {
+      "title": "Bombardier Signs MOU with BAE Systems to Collaborate Toward Next-Generation Combat Air Programs",
+      "description": "Areas of expertise targeted include R&D, systems integration, workforce and supply chain development, industrialization and in-service lifecycle management Collaboration reflects Bombardier’s ambition to support next-generation defence industrial capabilities…",
+      "url": "https://financialpost.com/globe-newswire/bombardier-signs-mou-with-bae-systems-to-collaborate-toward-next-generation-combat-air-programs",
+      "source": "Financial Post",
+      "publishedAt": "2026-10-28T11:36:41Z"
+    },
+    {
+      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond",
+      "description": "The post OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond appeared first on 24/7 Wall St..\nOpenAI has spent more on NVIDIA (NASDAQ:NVDA) graphics processors than almost any other company, and it now plans to buy Google’s own AI chip…",
+      "url": "https://biztoc.com/x/addc5ca265c24ee0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:33:04Z"
+    },
+    {
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "description": "Bitcoin (BTC) rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "source": "CoinDesk",
+      "publishedAt": "2026-10-28T11:32:31Z"
+    },
+    {
+      "title": "SK Hynix Expects Memory Demand to Outpace Supply Through 2030",
+      "description": "SK hynix reported its latest Q3 2026 quarterly results with a record $78.129 billion in net revenue. However, the company also shared a market outlook, highlighting its long-term supply agreements and plans for expansion with new fab capacity and facilities u…",
+      "url": "https://www.techpowerup.com/354215/sk-hynix-expects-memory-demand-to-outpace-supply-through-2030",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-10-28T11:31:10Z"
+    },
+    {
+      "title": "Accredited official statistics: Household Energy Efficiency Statistics, headline release November 2026",
+      "description": "This release includes measures installed under the Energy Company Obligation (ECO) and the Green Deal schemes. It also includes further analysis and geographical breakdowns of ECO measures, ECO delivery costs, estimated carbon and energy savings from measures…",
+      "url": "https://www.gov.uk/government/statistics/announcements/household-energy-efficiency-statistics-headline-release-november-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-28T11:23:21Z"
+    },
+    {
+      "title": "Asus ProArt P16 RTX Spark review: Nvidia’s next-gen SoC yields stellar gaming, creative and AI power",
+      "description": "With its innovative Nvidia SoC, the Asus ProArt P16 RTX Spark is perfect for vibecoding, Photoshopping or gaming on the go — but that price might give you pause.",
+      "url": "https://www.techradar.com/computing/windows-laptops/asus-proart-p16-rtx-spark",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-28T11:22:10Z"
+    },
+    {
+      "title": "Nvidia Vs. Apple: Opposing Philosophies Racing Toward The Same $6 Trillion Goal",
+      "description": "The post Nvidia Vs. Apple: Opposing Philosophies Racing Toward The Same $6 Trillion Goal appeared first on 24/7 Wall St..\nNVIDIA (NASDAQ:NVDA) and Apple (NASDAQ:AAPL) are worth about $5.26 trillion and $5.07 trillion. Their latest earnings reports show two op…",
+      "url": "https://biztoc.com/x/0f4aa05ff8d9f4f6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:18:39Z"
+    },
+    {
+      "title": "Memory-Chip Maker SK Hynix Smashes Q3 Targets, Stock Jumps",
+      "description": "South Korea-based memory-chip maker SK Hynix smashed expectations for the third quarter. SK Hynix stock jumped on the news.\nThe post Memory-Chip Maker SK Hynix Smashes Q3 Targets, Stock Jumps appeared first on Investor's Business Daily.",
+      "url": "https://biztoc.com/x/5eb5439e48e1be2c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:18:17Z"
+    },
+    {
+      "title": "South Korean chip giant SK Hynix's 3Q profits surge",
+      "description": "South Korean chip giant SK Hynix reported a sevenfold increase in third-quarter profits from a year ago, the latest sign of a tech boom driving nationwide economic growth. The earnings, which were powered by surging demand from the AI infrastructure buildout,…",
+      "url": "https://biztoc.com/x/8f4657d68024ee45",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:18:15Z"
+    },
+    {
+      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "description": "Google has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.\nNow, the company is pushing its equipment outside of its ow…",
+      "url": "https://biztoc.com/x/a17ad576c5c336b0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:17:58Z"
+    },
+    {
+      "title": "2D Infinite Character Forge - Cozy Life by Lucasoft Arts",
+      "description": "Create infinite animated pixel characters with 2D Infinite Character Forge – a Procedural pixel character generator and animator.Package type: Editor tool + runtime library (procedural 2D pixel-art character generator). No pre-made sprite sheets: all characte…",
+      "url": "https://assetstore.unity.com/packages/2d/characters/2d-infinite-character-forge-cozy-life-419106",
+      "source": "Unity.com",
+      "publishedAt": "2026-10-28T11:12:43Z"
+    },
+    {
+      "title": "Nasdaq futures rise as SK Hynix lifts chip stocks and traders await Fed decision, Big Tech earnings: Live updates - CNBC",
+      "description": "Nasdaq futures rise as SK Hynix lifts chip stocks and traders await Fed decision, Big Tech earnings: Live updatesCNBC Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate DecisionWSJ SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186482930",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-28T11:12:39Z"
+    },
+    {
+      "title": "Lenovo launches Panther Lake-powered laptop with large 90Wh battery and OCuLink port",
+      "description": "The Lenovo Lecoo Pro 16 Core Edition has been launched in China. It's powered by a top-end processor from the Intel Panther Lake lineup. There's a 120Hz display on the front, and the laptop has an OCuLink port. The launch price is CNY 9,999, about $1,499.",
+      "url": "https://www.notebookcheck.net/Lenovo-launches-Panther-Lake-powered-laptop-with-large-90Wh-battery-and-OCuLink-port.1436211.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-28T11:12:00Z"
+    },
+    {
+      "title": "Why Wall Street is dead wrong about the AI tech panic",
+      "description": "Resonate Wealth Partners CIO Alex Giuliano and TPW Advisory Founder Jay Pelosky discuss why the market's recent panic over semiconductor stocks might be a massive overreaction.\n0:05 spk_0\nWelcome back. This is Trader Talk, and I am Kenny Pulcari, your host. A…",
+      "url": "https://biztoc.com/x/324e6eabc4e84107",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-28T11:03:52Z"
+    },
+    {
+      "title": "Highway Robbery Goes High-Tech as Thieves Target America’s AI Boom",
+      "description": "Since June, these crews have reportedly stolen more than $100 million in servers, chips, copper wire, cooling systems, and related equipment.\nThe post Highway Robbery Goes High-Tech as Thieves Target America’s AI Boom first appeared on Le·gal In·sur·rec·tion.",
+      "url": "https://legalinsurrection.com/2026/10/highway-robbery-goes-high-tech-as-thieves-target-americas-ai-boom",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-10-28T11:00:21Z"
+    },
+    {
+      "title": "Emulate the 486 in Your Browser",
+      "description": "You might fondly remember the days of the Intel 486, but you probably don’t have one on your desk anymore. If you’d like to emulate that classic hardware, you can now do it in your brow…",
+      "url": "https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser",
+      "source": "Hackaday",
+      "publishedAt": "2026-10-28T11:00:20Z"
+    },
+    {
+      "title": "FaceFlow - Face Tracking, Recognition & Face Swap by REOTHER",
+      "description": "Face tracking, participant recognition, expressions and face swapping for Unity on Windows. Includes an editable Studio scene, webcam and video input, C# source and setup guides.PLATFORMWindows x64. Tested player scripting backend: Mono. Unity 2022.3.21f1 and…",
+      "url": "https://assetstore.unity.com/packages/tools/ai-ml-integration/faceflow-face-tracking-recognition-face-swap-409818",
+      "source": "Unity.com",
+      "publishedAt": "2026-10-28T11:00:19Z"
+    },
+    {
+      "title": "3D Artist Creates One-of-a-Kind Rendering Workstation That Features 15 RTX 4090 GPUs On A Single Motherboard, Powered By Five 1600W PSUs",
+      "description": "A 3D Studio artist has managed to set up a monster workstation that features 15 NVIDIA GeForce RTX 4090 GPUs running on a single motherboard. Marulli Studio Sets Up Workstation With 15 RTX 4090 GPUs, Consuming Almost 8kW of Power Current workstation motherboa…",
+      "url": "https://wccftech.com/3d-artist-creates-rendering-workstation-with-15-rtx-4090-gpus-on-single-motherboard",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-28T11:00:18Z"
+    },
+    {
+      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "description": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-28T11:00:01Z"
+    },
+    {
+      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual Xeon 6 server",
+      "description": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-28T11:00:00Z"
+    },
+    {
+      "title": "Going Global with Intelligent Connectivity, Expanding into Europe | BICV Debuts at IZB 2026 in Wolfsburg",
+      "description": "WOLFSBURG, Germany, Oct. 28, 2026 /PRNewswire/ -- Held biennially, the International Suppliers Fair (IZB) in Wolfsburg is one of Europe's most influential automotive supply chain shows, running October 27–29. BICV Technology Co., Ltd. (hereinafter BICV), a le…",
+      "url": "https://www.prnewswire.co.uk/news-releases/going-global-with-intelligent-connectivity-expanding-into-europe--bicv-debuts-at-izb-2026-in-wolfsburg-302922036.html",
+      "source": "PR Newswire UK",
+      "publishedAt": "2026-10-28T10:55:00Z"
+    },
+    {
+      "title": "US imports of semiconductors and computer gear hit $74.8 billion in August 2026",
+      "description": "The surge in US semiconductor imports highlights growing reliance on foreign tech, potentially impacting trade balance and investor confidence.\nThe post US imports of semiconductors and computer gear hit $74.8 billion in August 2026 appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/us-semiconductor-imports-august-2026",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-28T10:49:01Z"
+    },
+    {
+      "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls",
+      "description": "Malaysia's customs department has seized 30 servers with advanced AI chips in a suspected export-control violation.",
+      "url": "https://www.news4jax.com/tech/2026/10/28/malaysia-seizes-servers-with-advanced-ai-chips-suspected-of-violating-export-controls",
+      "source": "WJXT News4JAX",
+      "publishedAt": "2026-10-28T10:46:22Z"
+    },
+    {
+      "title": "After memory, AI drives up chip costs: Will phones and laptops get pricier?",
+      "description": "Smartphone and Laptop Prices: AI demand is driving up chip costs, with TSMC reportedly weighing a 20 per cent increase in advanced packaging prices. With memory already pushing up device prices, could devices get more expensive?",
+      "url": "https://www.business-standard.com/technology/tech-news/ai-chip-costs-tsmc-cowos-price-hike-smartphone-laptop-prices-126102801174_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-28T10:37:48Z"
+    },
+    {
+      "title": "Phantom Blade Zero Gets a 5 GB Day One Patch That Improves Ray Tracing Performance, but S-Game Warns Against New NVIDIA Drivers",
+      "description": "Chinese developer S-Game is about to release Phantom Blade Zero on PC and PlayStation 5 worldwide, and action game fans are in for something truly stunning, as Soul's adventure to save his life is so engaging that I couldn't do anything but award it a perfect…",
+      "url": "https://wccftech.com/phantom-blade-zero-a-5-gb-day-one-patch-improves-ray-tracing-nvidia-drivers",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-28T10:37:21Z"
+    },
+    {
+      "title": "Apple AirPods 4 Wireless Earbuds With Active Noise Cancellation For $99 From Woot!",
+      "description": "Apple AirPods 4 Wireless Earbuds With Active Noise Cancellation For $99 From Woot! Active Noise Cancellation (ANC) Transparency Mode and Personalized Spatial Audio USB-C Charging Case with Wireless Charging H2 Chip; Bluetooth Wireless Earbuds\nThe post Apple A…",
+      "url": "https://www.dansdeals.com/shopping-deals/woot/apple-airpods-4-wireless-earbuds-with-active-noise-cancellation-for-99-from-woot",
+      "source": "Dansdeals.com",
+      "publishedAt": "2026-10-28T10:36:33Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch",
+      "FED Meeting Live | Dow Jones Futures | US Stock Market Live: Nasdaq futures rise as SK Hynix profit surge lifts chip stocks",
+      "Apple AirPods 4 Wireless Earbuds With Active Noise Cancellation For $99 From Woot!",
+      "WWF Details Textile Water Conservation Collaborations, Launches Forest Traceability Tool Finder",
+      "Money Moves: Apparel Supply Chain Investments Shift to AI, Robotics and Last-Mile Logistics"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://m.economictimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
+        "https://www.windowscentral.com/hardware/lenovo/lenovo-pro-9n-rtx-spark-review",
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.notebookcheck.net/Acer-Predator-Atlas-8-tested-Asus-ROG-Xbox-Ally-X20-stands-no-chance-despite-same-price.1435067.0.html",
+        "https://biztoc.com/x/46f4905ba6e710ec",
+        "https://biztoc.com/x/a97e29fe90717b3a"
+      ]
+    },
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techpowerup.com/354217/tsmc-could-charge-up-to-20-more-for-cowos-packaging-amid-ai-crunch",
+        "https://www.dansdeals.com/shopping-deals/woot/apple-airpods-4-wireless-earbuds-with-active-noise-cancellation-for-99-from-woot-2",
+        "https://fortune.com/2026/10/28/sk-hynix-memory-shortage-2030"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "http://wwd.com/sourcing-journal/sustainability/wwf-textile-water-conservation-projects-forest-traceability-tool-finder-1239388557",
+        "http://wwd.com/sourcing-journal/industry-news/money-moves-companies-shift-their-investments-1239385271",
+        "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: TSMC Could Charge Up to 20% More for CoWoS Packaging Amid AI Crunch. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
