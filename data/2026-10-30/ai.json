@@ -1,0 +1,305 @@
+{
+  "theme": "ai",
+  "date": "2026-10-30",
+  "last_updated_utc": "2026-10-30T12:00:36.792Z",
+  "news": [
+    {
+      "title": "Show HN: Endlesstokens – an LLM API billed by time, not tokens",
+      "description": "Unlimited AI tokens on a flat time pass. No token cap, no per-token bill: an OpenAI- and Anthropic-compatible API for Claude Code, Cline and your agents.",
+      "url": "https://endlesstokens.ai/",
+      "source": "Endlesstokens.ai",
+      "publishedAt": "2026-10-29T10:17:38Z"
+    },
+    {
+      "title": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers — company details massive $800 billion in TPU and GPU contracts",
+      "description": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-29T11:30:00Z"
+    },
+    {
+      "title": "We like Claude and Gemini. We like paying $70 once for all of our AI tools even more.",
+      "description": "Fast, dependable help.",
+      "url": "https://nypost.com/2026/10/29/shopping/get-the-1min-ai-advanced-business-plan-lifetime-subscription-for-69-9",
+      "source": "New York Post",
+      "publishedAt": "2026-10-29T11:20:00Z"
+    },
+    {
+      "title": "Nvidia chief Jensen Huang reportedly targeted in Chinese spy plot",
+      "description": "US intelligence agencies reportedly identified a Megaspeed executive with ties to Nvidia CEO Jensen Huang as a Chinese intelligence asset, raising concerns over AI chip exports.",
+      "url": "https://www.business-standard.com/world-news/us-intelligence-links-nvidia-ceo-contact-to-china-spying-concerns-report-126102901145_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-29T11:08:57Z"
+    },
+    {
+      "title": "Anthropic, OpenAI claim AI breakthrough challenges Exponential Time Hypothesis",
+      "description": "This AI breakthrough could redefine computational research, influencing future AI advancements and competitive dynamics in the tech industry.\nThe post Anthropic, OpenAI claim AI breakthrough challenges Exponential Time Hypothesis appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/anthropic-openai-claim-ai-breakthrough-challenges-exponential-time-hypothesis",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-29T10:48:46Z"
+    },
+    {
+      "title": "Unreleased Claude model found attack chains in Chrome, Safari: Anthropic",
+      "description": "Anthropic says Claude chained software flaws into working exploits, highlighting the growing role of AI in vulnerability research and cybersecurity risks",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/unreleased-claude-model-found-attack-chains-in-chrome-safari-anthropic-126102901074_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-29T10:47:53Z"
+    },
+    {
+      "title": "Google unveils Gemini 4 Carbon, an AI that can find and fix security flaws",
+      "description": "Google DeepMind unveiled Gemini 4 Carbon recently, a frontier AI model engineered for autonomous software security and vulnerability patching.  The release comes two weeks after the debut of Gemini 4 Argon and moves Google to the top of the Artificial Analysi…",
+      "url": "https://soyacincau.com/2026/10/29/google-unveils-gemini-4-carbon-an-ai-that-can-find-and-fix-security-flaws",
+      "source": "SoyaCincau.com",
+      "publishedAt": "2026-10-29T09:08:49Z"
+    },
+    {
+      "title": "AI for personal finance: Can you trust artificial intelligence to manage your investments? What investors must know",
+      "description": "AI can help investors identify costly funds, idle cash and gaps in financial planning, but it may not replace human judgement. A 1 Finance report says effective financial advice extends beyond investment returns to goal planning, behavioural coaching and moni…",
+      "url": "https://www.livemint.com/money/personal-finance/ai-for-personal-finance-can-you-trust-artificial-intelligence-to-manage-your-investments-what-investors-must-know-11793274152687.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-29T11:47:04Z"
+    },
+    {
+      "title": "Former Intel CEO Patrick Gelsinger Backs Breakthrough New Memory Technology That Could Resolve Big AI Chip Bottleneck",
+      "description": "Former Intel CEO Patrick Gelsinger has come out in support of memory chip designer Nagare Labs and its Z2RAM technology. Gelsinger shared his thoughts about the firm with The Register, where he said the firm was combining the best aspects of SRAM, DRAM and fl…",
+      "url": "https://wccftech.com/former-intel-ceo-patrick-gelsinger-backs-breakthrough-new-memory-technology-that-could-resolve-big-ai-chip-bottleneck",
+      "source": "Wccftech",
+      "publishedAt": "2026-10-29T11:42:40Z"
+    },
+    {
+      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
+      "description": "IT is responsible for about 2 - 4% of all global emissions, and electricity use at Microsoft and Google has climbed because of AI, according to their own reports. Sustainability ought to be a top-level architectural concern. Some recommendations are: use pre-…",
+      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-10-29T11:41:00Z"
+    },
+    {
+      "title": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt",
+      "description": "Barclays Plc is looking to buy default protection on more than $10 billion of debt to finance artificial intelligence infrastructure in a bid to create capacity for more lending as hyperscaler funding needs soar. The London-based lender has been assessing …",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/29/890719.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-10-29T11:39:40Z"
+    },
+    {
+      "title": "Kevin O'Leary Says Anthropic IPO Offers What SpaceX Didn't: 'Could Be a Hot Trade'",
+      "description": "Kevin O’Leary favors Anthropic’s IPO over SpaceX for expected day-one liquidity, but high valuation, losses and AI risks remain.",
+      "url": "https://biztoc.com/x/11550c16cfefbc4a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-29T11:37:37Z"
+    },
+    {
+      "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
+      "description": "Core developers avoid AI coding assistants, while community contributors face disclosure and review rules",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186495212",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-29T11:33:09Z"
+    },
+    {
+      "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
+      "description": "Core developers avoid AI coding assistants, while community contributors face disclosure and review rules",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084",
+      "source": "Theregister.com",
+      "publishedAt": "2026-10-29T11:29:00Z"
+    },
+    {
+      "title": "Anthropic CEO called for a slowdown, then told investors he'd race ahead",
+      "description": "Anthropic’s Dario Amodei and the CEOs of OpenAI and SpaceX said they wanted to curb the technology’s rapid progress. Six weeks later, there’s little sign of the companies decelerating.",
+      "url": "https://www.inquirer.com/business/technology/artificial-intelligence-slowdown-anthropic-20261029.html",
+      "source": "The Philadelphia Inquirer",
+      "publishedAt": "2026-10-29T11:11:01Z"
+    },
+    {
+      "title": "ServiceNow’s 19% Crash Says Wall Street Thinks AI Will Eat Software. Its OpenAI Deal Says the Opposite",
+      "description": "The post ServiceNow’s 19% Crash Says Wall Street Thinks AI Will Eat Software. Its OpenAI Deal Says the Opposite. appeared first on 24/7 Wall St..\nServiceNow (NYSE:NOW) shares fell 19% in premarket trading on October 29, 2026, after third-quarter results filed…",
+      "url": "https://biztoc.com/x/0898f7c81e74c775",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-29T11:05:43Z"
+    },
+    {
+      "title": "Marvell’s Lumentum Bid Is a Bet That Light, Not Copper, Wins the AI Data Center",
+      "description": "The post Marvell’s Lumentum Bid Is a Bet That Light, Not Copper, Wins the AI Data Center appeared first on 24/7 Wall St..\nLate on October 28, 2026, Bloomberg reported that Marvell Technology (NASDAQ:MRVL) is near a deal to buy Lumentum Holdings (NASDAQ:LITE) …",
+      "url": "https://biztoc.com/x/0c338f9960ab94c8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-29T11:05:41Z"
+    },
+    {
+      "title": "OpenAI Agents Get Governed Workflow Access via ServiceNow Action Fabric — With No Price Named",
+      "description": "ServiceNow ships governed OpenAI workflows inside ChatGPT and stacks an eleven-member alliance built partly on token metering — and neither release names a price for the integration.",
+      "url": "https://forkast.news/openai-agents-get-governed-workflow-access-via-servicenow-action-fabric-with-no-price-named",
+      "source": "Forkast.news",
+      "publishedAt": "2026-10-29T11:01:40Z"
+    },
+    {
+      "title": "Samsung sees AI chip shortage worsening",
+      "description": "Samsung Electronics has posted a 15-fold jump in quarterly chip profit, powered by the AI boom, but its shares tumbled as investors balked at a lack of fresh shareholder-return plans and an outlook that lagged rival SK Hynix's.",
+      "url": "https://www.rte.ie/news/business/2026/1029/1597201-samsung-sees-ai-chip-shortage-worsening",
+      "source": "RTE",
+      "publishedAt": "2026-10-29T10:59:26Z"
+    },
+    {
+      "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS - 9to5Mac",
+      "description": "OpenAI expanding ChatGPT dot access to iMessage and RCS9to5Mac How OpenAI turned its coding tools into dots, an always-on personal assistantTechCrunch OpenAI brings its always-on Dots agent into text messagesRuntimeWire Your Google Messages chats are getting …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186494808",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-29T10:52:07Z"
+    },
+    {
+      "title": "OpenAI and other AI labs face calls for real-time monitoring of AI agents",
+      "description": "Real-time AI monitoring is crucial to prevent unauthorized actions, ensuring AI systems remain within ethical and operational boundaries.\nThe post OpenAI and other AI labs face calls for real-time monitoring of AI agents appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-ai-agents-real-time-monitoring",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-29T10:38:42Z"
+    },
+    {
+      "title": "AI data center boom faces backlash at US ballot box",
+      "description": "WASHINGTON, Oct 29 : Voters in 10 US states will decide on Election Day whether to curb data center development in their communities, as the rapid buildout needed to power the AI boom stirs local opposition.Resistance is especially visible in Ohio, one of the…",
+      "url": "https://www.channelnewsasia.com/business/ai-data-center-boom-faces-backlash-us-ballot-box-6503046",
+      "source": "CNA",
+      "publishedAt": "2026-10-29T10:01:48Z"
+    },
+    {
+      "title": "Anthropic Says Nobody Needs a Mental Model of Claude Code. Practitioners Are Testing That",
+      "description": "Anthropic has published how the Claude Code team reviews code now that Claude writes roughly 90% of it, including a claim that nobody keeps a complete mental model of the codebase. The post documents a pull request that ran more than fifty review rounds overn…",
+      "url": "https://www.infoq.com/news/2026/10/anthropic-code-review",
+      "source": "InfoQ.com",
+      "publishedAt": "2026-10-29T09:58:00Z"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "description": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186494284",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-29T09:52:06Z"
+    },
+    {
+      "title": "Nvidia Faces DOJ Scrutiny Over $12.9 Billion Hugging Face Deal Amid Concerns About Unfair AI Advantage:…",
+      "description": "The DOJ is scrutinizing Nvidia’s $12.9 billion Hugging Face deal amid broader concerns over AI competition and business practices.",
+      "url": "https://biztoc.com/x/da0e2f53a57cf79b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-29T09:49:47Z"
+    },
+    {
+      "title": "Nvidia CEO seen as target of Chinese spy plot",
+      "description": "US intelligence agencies reportedly identified Alice Huang or Huang Le, a Chinese citizen and executive at a Singapore-based data center company, as a suspected Chinese intelligence asset who may have...",
+      "url": "https://biztoc.com/x/d87d93e4d33aabec",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-29T09:49:36Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: Endlesstokens – an LLM API billed by time, not tokens",
+      "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers — company details massive $800 billion in TPU and GPU contracts",
+      "We like Claude and Gemini. We like paying $70 once for all of our AI tools even more.",
+      "Nvidia chief Jensen Huang reportedly targeted in Chinese spy plot",
+      "Anthropic, OpenAI claim AI breakthrough challenges Exponential Time Hypothesis"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://endlesstokens.ai/",
+        "https://cryptobriefing.com/anthropic-openai-claim-ai-breakthrough-challenges-exponential-time-hypothesis",
+        "https://www.inquirer.com/business/technology/artificial-intelligence-slowdown-anthropic-20261029.html"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+        "https://www.business-standard.com/technology/artificial-intelligence/unreleased-claude-model-found-attack-chains-in-chrome-safari-anthropic-126102901074_1.html",
+        "https://biztoc.com/x/11550c16cfefbc4a"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://nypost.com/2026/10/29/shopping/get-the-1min-ai-advanced-business-plan-lifetime-subscription-for-69-9"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "summary": "Grouped stories where \"intelligence\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.business-standard.com/world-news/us-intelligence-links-nvidia-ceo-contact-to-china-spying-concerns-report-126102901145_1.html",
+        "https://www.livemint.com/money/personal-finance/ai-for-personal-finance-can-you-trust-artificial-intelligence-to-manage-your-investments-what-investors-must-know-11793274152687.html",
+        "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://soyacincau.com/2026/10/29/google-unveils-gemini-4-carbon-an-ai-that-can-find-and-fix-security-flaws",
+        "https://wccftech.com/former-intel-ceo-patrick-gelsinger-backs-breakthrough-new-memory-technology-that-could-resolve-big-ai-chip-bottleneck",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186495212"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Endlesstokens – an LLM API billed by time, not tokens. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Endlesstokens – an LLM API billed by time, not tokens. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Endlesstokens – an LLM API billed by time, not tokens. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Endlesstokens – an LLM API billed by time, not tokens. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Endlesstokens – an LLM API billed by time, not tokens. Main topic cluster: Openai. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
