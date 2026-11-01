@@ -1,0 +1,241 @@
+{
+  "theme": "ai",
+  "date": "2026-11-01",
+  "last_updated_utc": "2026-11-01T12:33:22.493Z",
+  "news": [
+    {
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "description": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186526528",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-31T10:52:09Z"
+    },
+    {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshoot",
+      "description": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation &mdash; users also claim their non-malicious generic reverse-engineering tasks are block",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186527370",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-31T12:32:26Z"
+    },
+    {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "description": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-31T12:20:00Z"
+    },
+    {
+      "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
+      "description": "Artificial intelligence (AI) infrastructure stocks have been under pressure lately, as investors are worried about high financing costs and the ballooning debt that many infrastructure companies are taking on to fund the build-out of data centers.\nThis explai…",
+      "url": "https://biztoc.com/x/3e4bca1f07f3ff99",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-31T11:40:10Z"
+    },
+    {
+      "title": "OpenAI funding target cut by $10 billion as AI slumps",
+      "description": "OpenAI cuts fundraising target to about $20 billion at a $1.25 trillion valuation amid AI-led market volatility and competitive pressure from Anthropic.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-funding-target-cut-by-10-billion-as-ai-slumps/article71648520.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-31T07:34:29Z"
+    },
+    {
+      "title": "Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186527188",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-31T12:13:47Z"
+    },
+    {
+      "title": "OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO",
+      "description": "OpenAI reportedly is now seeking to raise $20 billion at a $1.25 trillion valuation. Meta, Microsoft just raised funds while the Anthropic IPO looms.\nThe post OpenAI Cuts Funding Target Amid Meta, Microsoft Offerings, Anthropic IPO appeared first on Investor'…",
+      "url": "https://biztoc.com/x/01d5e77f0b559741",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-31T12:10:21Z"
+    },
+    {
+      "title": "Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "description": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-10-31T12:00:00Z"
+    },
+    {
+      "title": "Southwest ChatGPT Partnership Points to AI-Powered Travel Search",
+      "description": "The Southwest ChatGPT partnership lets travellers search for flights in ChatGPT, showing how AI assistants could reshape airline shopping.\nThe post Southwest ChatGPT Partnership Points to AI-Powered Travel Search appeared first on Tech for Travel.",
+      "url": "https://techfortravel.co.uk/airlines-news-southwest-chatgpt-partnership-points-to-ai-powered-travel-search",
+      "source": "Techfortravel.co.uk",
+      "publishedAt": "2026-10-31T12:00:00Z"
+    },
+    {
+      "title": "Nvidia loses its $5 trillion crown as Apple takes the top spot",
+      "description": "Apple has overtaken Nvidia to become the world’s most valuable company again, as investors look for safer places to put their money amid growing concerns about the cost of AI infrastructure. Apple's market capitalization reached $5.03 trillion on Friday, comp…",
+      "url": "https://www.notebookcheck.net/Nvidia-loses-its-5-trillion-crown-as-Apple-takes-the-top-spot.1438760.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-31T10:23:00Z"
+    },
+    {
+      "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+      "description": "NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...",
+      "url": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+      "source": "Phoronix",
+      "publishedAt": "2026-10-31T09:50:00Z"
+    },
+    {
+      "title": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit",
+      "description": "The Human Consent Foundation, the Cate Blanchett-backed nonprofit trying to protect the likenesses of individuals from unauthorized scraping by AI models, and a legion of Hollywood companies have filed an amicus brief in the New York Times‘ lawsuit against Op…",
+      "url": "https://biztoc.com/x/6981cf38c2d43bb2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-31T09:07:37Z"
+    },
+    {
+      "title": "OpenAI Tightens ChatGPT Weapons-Related Restrictions for Teens, Adds Account Pauses Over Violent Discussions",
+      "description": "OpenAI is tightening ChatGPT’s weapons-related safeguards for teens, adding automatic chat endings and potential account pauses.",
+      "url": "https://biztoc.com/x/360d524b1b477315",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-31T08:52:18Z"
+    },
+    {
+      "title": "Tampered Claude Code extension in Cursor planted an SSH backdoor",
+      "description": "A tampered build of Anthropic's Claude Code extension was available in Cursor's extension marketplace on October 29. It adds an attacker's SSH key, sends system details to a remote server and sets up a startup item. Updating to version 2.1.314 does not remove…",
+      "url": "https://www.notebookcheck.net/Tampered-Claude-Code-extension-in-Cursor-planted-an-SSH-backdoor.1438690.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-10-31T08:08:00Z"
+    },
+    {
+      "title": "Anthropic reveals nearly $900 billion in future commitments in IPO filing",
+      "description": "Anthropic's massive commitments highlight the high-stakes nature of AI investments, posing significant risks and dependencies on key tech partners.\nThe post Anthropic reveals nearly $900 billion in future commitments in IPO filing appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/anthropic-ipo-filing-900-billion-commitments",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-31T07:56:14Z"
+    },
+    {
+      "title": "Anthropic files for IPO, aims for $2T valuation on NASDAQ",
+      "description": "Anthropic's IPO could reshape AI market dynamics, but historical IPO trends and net losses may temper investor enthusiasm and valuation.\nThe post Anthropic files for IPO, aims for $2T valuation on NASDAQ appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-files-for-ipo-aims-for-2t-valuation-on-nasdaq",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-31T07:54:27Z"
+    },
+    {
+      "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+      "description": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries f…",
+      "url": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-31T07:00:00Z"
+    },
+    {
+      "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+      "description": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked.\nThe post Google Opens Connected Apps Preview For AI Mode & Gemini appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-10-31T07:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshoot",
+      "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
+      "OpenAI funding target cut by $10 billion as AI slumps"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186526528",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186527370",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked"
+      ]
+    },
+    {
+      "title": "First",
+      "summary": "Grouped stories where \"first\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://techfortravel.co.uk/airlines-news-southwest-chatgpt-partnership-points-to-ai-powered-travel-search",
+        "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry",
+        "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/6981cf38c2d43bb2",
+        "https://biztoc.com/x/360d524b1b477315"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/3e4bca1f07f3ff99",
+        "https://www.notebookcheck.net/Nvidia-loses-its-5-trillion-crown-as-Apple-takes-the-top-spot.1438760.0.html",
+        "https://www.phoronix.com/news/CUDA-Oxide-0.3"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google joins OpenAI and Anthropic in promising new scraping controls. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google joins OpenAI and Anthropic in promising new scraping controls. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google joins OpenAI and Anthropic in promising new scraping controls. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google joins OpenAI and Anthropic in promising new scraping controls. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Google joins OpenAI and Anthropic in promising new scraping controls. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
