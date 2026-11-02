@@ -1,0 +1,224 @@
+{
+  "theme": "ai",
+  "date": "2026-11-02",
+  "last_updated_utc": "2026-11-02T14:35:04.619Z",
+  "news": [
+    {
+      "title": "Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer",
+      "description": "AI engineering teams training fast, low-cost domain-specific models (`Llama-3.3-8B`, `Qwen-2.5-7B`, `gpt-4o-mini`, `Gemini Flash`) to match the accuracy of expensive frontier reasoning models frequently search to hire a freelance synthetic data generation, kn…",
+      "url": "https://www.aldianfazrihady.com/en-us/blog/a11ce363-0000-4000-8000-000000000363/freelance-synthetic-data-generation-anonymization-llm-fine-tuning-dataset-programmer",
+      "source": "Aldianfazrihady.com",
+      "publishedAt": "2026-11-01T07:08:10Z"
+    },
+    {
+      "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
+      "description": "ChatGPT currently leads major AI image-generation rankings, while Gemini offers strong value, Grok focuses on cinematic visuals and Claude provides diagrams and code-based graphics instead.",
+      "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-11-01T13:57:37Z"
+    },
+    {
+      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30",
+      "description": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia&rsquo;s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546033",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-01T14:12:57Z"
+    },
+    {
+      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+      "description": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-01T14:00:00Z"
+    },
+    {
+      "title": "Claude: Stop Using Me to Recreate Games",
+      "description": "Anthropic’s Claude Code and Opus 5.5 model are reportedly blocking attempts at reverse-engineering, including via the popular open-source Reverse Engineer Anything (REA) tool.\nOver the past year, frontier AI models have radically changed the playing field for…",
+      "url": "https://uk.pcmag.com/ai/168188/claude-stop-using-me-to-recreate-games",
+      "source": "PCMag.com",
+      "publishedAt": "2026-11-01T13:45:16Z"
+    },
+    {
+      "title": "Alphabet Says Its AI Spending Will Keep Rising. 2 Data Center Stocks to Buy and Hold Through 2030",
+      "description": "Alphabet (NASDAQ:GOOGL)(NASDAQ:GOOG) spent $51.4 billion on capital projects in the third quarter of 2026 while it builds out its artificial intelligence infrastructure. That was more than double its spending a year before. And it isn't planning to slow down.…",
+      "url": "https://biztoc.com/x/678d3abb21ca782d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T11:53:20Z"
+    },
+    {
+      "title": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server Signal Loss In Next-Gen NVLink Switch Boards",
+      "description": "Current AI chips face a transmission bottleneck where they’re pushing 200Gbps per lane, so even the slightest interference can affect performance. Possibly realizing that there needs to be a better way to maintain optimal server throughput, NVIDIA is reported…",
+      "url": "https://wccftech.com/nvidia-eyeing-teflon-ptfe-ai-server-signal-loss-nvlink-switch-boards",
+      "source": "Wccftech",
+      "publishedAt": "2026-11-01T09:10:50Z"
+    },
+    {
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+      "description": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. \nThe post Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine J…",
+      "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387",
+      "source": "Search Engine Journal",
+      "publishedAt": "2026-11-01T08:00:00Z"
+    },
+    {
+      "title": "Before Buying Anthropic Stock, Here's What History Says About Investing in IPOs",
+      "description": "After publicly releasing its S-1 filing on Oct. 26, the artificial intelligence (AI) start-up Anthropic is racing to go public as soon as the week of Nov. 16. That timeline gives investors less than a month to decide whether to invest on the first day shares …",
+      "url": "https://biztoc.com/x/5231afd8d4e62f0f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T06:47:24Z"
+    },
+    {
+      "title": "PSUs are back—but they should exercise caution when implementing artificial intelligence",
+      "description": "Public sector units (PSUs) are having a rebirth globally, but their rapid adoption of artificial intelligence (AI) has prompted an urgent need to install governance and regulatory guardrails. This is of special importance in India. Here's why.",
+      "url": "https://www.livemint.com/opinion/online-views/why-public-sector-units-must-slow-down-ai-implementation-11793509854820.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-01T14:30:33Z"
+    },
+    {
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "description": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-11-01T13:53:11Z"
+    },
+    {
+      "title": "OpenAI plans post-midterm push to reshape the AI debate in Washington",
+      "description": "OpenAI's strategic shift in AI policy and terminology aims to influence future legislative landscapes and shape AI discourse in U.S. politics.\nThe post OpenAI plans post-midterm push to reshape the AI debate in Washington appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/openai-post-midterm-ai-policy-push",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-01T13:51:26Z"
+    },
+    {
+      "title": "Show HN: Safely connect GrokBot to your PC/VM: chosen folders and Claude/Codex",
+      "description": "Let a remote AI agent such as Grok Bot work with the Claude Code, Codex and Hermes sessions on your machines, safely: an authenticated, OpenAPI-described bridge behind a Cloudflare Tunnel. - janreg...",
+      "url": "https://github.com/janreges/safe-grokbot-bridge",
+      "source": "Github.com",
+      "publishedAt": "2026-11-01T09:47:36Z"
+    },
+    {
+      "title": "Samsung to inject $262M in Japan's AI chip hub",
+      "description": "Samsung Electronics Co. said on Sunday it will invest 350 billion won (approximately $262 million) over the next five years in its Advanced Package Lab in Japan, a global research and development hub ...",
+      "url": "https://biztoc.com/x/59be6046bce7eee8",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T09:36:21Z"
+    },
+    {
+      "title": "Hire a Freelance OpenAI Responses API, Agents SDK, Realtime WebRTC & o3-mini Programmer",
+      "description": "Startups and enterprises migrating from legacy OpenAI Assistants threads to the new OpenAI Responses API, OpenAI Agents SDK, Structured Outputs, Realtime WebRTC Audio API, and `o3-mini` / `gpt-4o` reasoning pipelines frequently search to hire a freelance Open…",
+      "url": "https://www.aldianfazrihady.com/en-us/blog/a11ce340-0000-4000-8000-000000000340/freelance-openai-responses-api-realtime-api-o3-mini-agents-sdk-programmer",
+      "source": "Aldianfazrihady.com",
+      "publishedAt": "2026-11-01T07:08:10Z"
+    },
+    {
+      "title": "Hire a Freelance Google Gemini 2.5 Pro, 2M Token Context Caching & Multimodal AI Programmer",
+      "description": "Companies analyzing hour-long videos, 1,000-page PDF bundles, or entire Git repositories in a single prompt frequently search to hire a freelance Google Gemini 2.5 Pro, Gemini Flash, Context Caching & Vertex AI programmer. I am Aldian Fazrihady, a Google Clou…",
+      "url": "https://www.aldianfazrihady.com/en-us/blog/a11ce341-0000-4000-8000-000000000341/freelance-google-gemini-2-5-pro-context-caching-multimodal-ai-programmer",
+      "source": "Aldianfazrihady.com",
+      "publishedAt": "2026-11-01T07:08:10Z"
+    },
+    {
+      "title": "Hire a Freelance Python Machine Learning Programmer: PyTorch, Scikit-Learn & ONNX",
+      "description": "Classical machine learning and custom deep learning models—built with PyTorch, TensorFlow, scikit-learn, Sentence-Transformers, and ONNX Runtime—solve predictive scoring, anomaly detection, image classification, and token-level NLP problems with deterministic…",
+      "url": "https://www.aldianfazrihady.com/en-us/blog/a11ce227-0000-4000-8000-000000000227/freelance-programmer-scientific-python-pytorch-scikit-learn-ml",
+      "source": "Aldianfazrihady.com",
+      "publishedAt": "2026-11-01T06:36:48Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer",
+      "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
+      "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30",
+      "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+      "Claude: Stop Using Me to Recreate Games"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Hire",
+      "summary": "Grouped stories where \"hire\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.aldianfazrihady.com/en-us/blog/a11ce363-0000-4000-8000-000000000363/freelance-synthetic-data-generation-anonymization-llm-fine-tuning-dataset-programmer",
+        "https://www.aldianfazrihady.com/en-us/blog/a11ce340-0000-4000-8000-000000000340/freelance-openai-responses-api-realtime-api-o3-mini-agents-sdk-programmer",
+        "https://www.aldianfazrihady.com/en-us/blog/a11ce341-0000-4000-8000-000000000341/freelance-google-gemini-2-5-pro-context-caching-multimodal-ai-programmer"
+      ]
+    },
+    {
+      "title": "Search",
+      "summary": "Grouped stories where \"search\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186546033",
+        "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer. Main topic cluster: Hire. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer. Main topic cluster: Hire. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer. Main topic cluster: Hire. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer. Main topic cluster: Hire. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Hire a Freelance Synthetic Data Generation, Distillation & LLM Fine-Tuning Dataset Programmer. Main topic cluster: Hire. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}

@@ -1,0 +1,290 @@
+{
+  "theme": "semiconductors",
+  "date": "2026-11-02",
+  "last_updated_utc": "2026-11-02T14:35:58.826Z",
+  "news": [
+    {
+      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "description": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546179",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-01T14:33:09Z"
+    },
+    {
+      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "description": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infras…",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-01T14:21:23Z"
+    },
+    {
+      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30",
+      "description": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia&rsquo;s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186546033",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-01T14:12:57Z"
+    },
+    {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "description": "When I first heard about the new $149 HomePod Mini 2 at Apple’s Welcome Home event last month, I was disappointed. It’s been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff…",
+      "url": "https://biztoc.com/x/a9e1ba94e6c0fe5e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T14:10:37Z"
+    },
+    {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "description": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff…",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
+      "publishedAt": "2026-11-01T14:05:26Z"
+    },
+    {
+      "title": "AMD might have accidentally created the best value GPU in 2026",
+      "description": "The RX 6000 series continues to age majestically.",
+      "url": "https://www.makeuseof.com/amd-might-have-accidentally-created-the-best-value-gpu-in-2026",
+      "source": "MakeUseOf",
+      "publishedAt": "2026-11-01T14:00:16Z"
+    },
+    {
+      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+      "description": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-01T14:00:00Z"
+    },
+    {
+      "title": "Over 1,000 FPS: Xiaomi's new high-end chip becomes a nightmare for Google",
+      "description": "Xiaomi Pad 9 Pro Max review: 13.3\" 3.4K display (144 Hz) for work and entertainment. The 3 nm Xring O3 chip with 16 GB of RAM delivers immense laptop-level power under HyperOS 4. Thanks to USB-C DP-In, the 645 g aluminum tablet can also serve as an external m…",
+      "url": "https://www.notebookcheck.net/Over-1-000-FPS-Xiaomi-s-new-high-end-chip-becomes-a-nightmare-for-Google.1434076.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-11-01T13:46:00Z"
+    },
+    {
+      "title": "AMD Ryzen 7 9800X3D CPU US$324.23 (~A$462.39) with PayPal AU Stock Delivered @ Yeah Magic Flagship Store",
+      "description": "A new all time low price on this beast of a CPU. Stack with 35% cashback at TopCashback for an extra A$50 back. Elite Members can get if for around US$285.36 (~A$406.96). This is AU stock for faster …",
+      "url": "https://www.ozbargain.com.au/node/981214",
+      "source": "Ozbargain.com.au",
+      "publishedAt": "2026-11-01T13:17:55Z"
+    },
+    {
+      "title": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
+      "description": "In 2008, I accompanied a graduate student delegation sponsored by Applied Materials to visit the University of California, Berkeley. The trip was arranged with hopes of meeting Dr. Chenming Hu, but he was away from his laboratory that day, leaving his student…",
+      "url": "https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-11-01T13:12:46Z"
+    },
+    {
+      "title": "Six decades in the making: Why the world can't easily copy Taiwan's chip ecosystem",
+      "description": "Taiwan's semiconductor strength is often described today through leading-edge process nodes, advanced packaging capacity, or its pivotal role in the global AI supply chain. At the Taiwan Semiconductor Industry Association's (TSIA) 30th anniversary gathering i…",
+      "url": "https://www.digitimes.com/news/a20261029VL224/taiwan-tsia-manufacturing-packaging-technology.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-11-01T13:09:11Z"
+    },
+    {
+      "title": "Behind Enemy Lines: Top intel on Denver before Chiefs vs. Broncos",
+      "description": "Go behind enemy lines to get top intel on all things Denver football in this interview with Brandon Walker of Broncos Wire.",
+      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/01/behind-enemy-lines-top-intel-kansas-city-chiefs-denver-broncos-nfl-week-8/92547908007",
+      "source": "USA Today",
+      "publishedAt": "2026-11-01T12:56:33Z"
+    },
+    {
+      "title": "Will the AI Bubble Burst in the Face of the Working Class?",
+      "description": "The AI bubble and it’s possible disintegration gives us some pretty grim insights into the question of what happens when the richest people in the world rebuild the economy in a way that it no longer needs working people, but still expects them to pay their b…",
+      "url": "https://www.commondreams.org/opinion/ai-bubble-working-class",
+      "source": "Common Dreams",
+      "publishedAt": "2026-11-01T12:56:02Z"
+    },
+    {
+      "title": "Should You Buy Stocks Ahead of the Midterms? History Says There's a 100% Chance Of This Happening If You Do",
+      "description": "Should You Buy Stocks Ahead of the Midterms? History Says There's a 100% Chance Of This Happening If You Do.\nInvestors have recently been rocked by a big sell-off in the tech sector, especially in AI-related semiconductor stocks. Add in the ongoing war in Ira…",
+      "url": "https://biztoc.com/x/6e5a7cc2ea55115d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T12:40:40Z"
+    },
+    {
+      "title": "Snapdragon X2 Elite Users Report Up To 87% Slower LLM Performance After Adreno Driver Update, Premiere Renders Also Taking 6x Longer",
+      "description": "Qualcomm’s in-house Oryon CPU cores were the stepping stones of something great that entered the PC ecosystem, but its Adreno GPUs still needed a ton of tuning. Typically, these improvements are witnessed in driver updates, but Snapdragon X2 Elite users are r…",
+      "url": "https://wccftech.com/snapdragon-x2-elite-adreno-driver-32-0-181-0-slowdown-local-ai-premiere",
+      "source": "Wccftech",
+      "publishedAt": "2026-11-01T12:31:24Z"
+    },
+    {
+      "title": "3 Dividend Stocks With Yields Over 5%",
+      "description": "AI heavyweights have poured money into chips and data centers, with corporate investment in artificial intelligence hitting US$581.7b in 2025. Cash is flowing into growth stories, which can leave steady dividend payers overlooked. That creates an opening for …",
+      "url": "https://biztoc.com/x/372e8380d3b11739",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T12:24:30Z"
+    },
+    {
+      "title": "A chip off the old block? Wayne Rooney's son Kai, 16, is dazzling in Man United's academy after scoring FOUR goals in a game - insiders reveal the secrets behind his rise",
+      "description": "Just over 24 years ago, a 16-year-old footballing phenomenon called Wayne Rooney made his mark with that goal for Everton against Arsenal.",
+      "url": "https://www.dailymail.com/sport/football/article-16243125/Wayne-Rooneys-son-Kai-Manchester-United-academy.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-01T12:00:46Z"
+    },
+    {
+      "title": "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
+      "description": "The AI trade just had its scariest October in years. The rest of the stock market barely noticed.\nThe biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia (NVDA) and Alphabet (GOOGL) have e…",
+      "url": "https://biztoc.com/x/26d2d5cdf0befdc4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T11:38:58Z"
+    },
+    {
+      "title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+      "description": "Last week, we opened the Morning Brief newsletter by saying the first week of Big Tech earnings looked promising — until Thursday. This time, we're here to say the second week of Big Tech earnings looked promising — until Tuesday.\nLackluster earnings from Alp…",
+      "url": "https://biztoc.com/x/745390a9fdf3cb75",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T11:38:56Z"
+    },
+    {
+      "title": "Nvidia Q3 FY2027 Preview: The Fabless Model Just Got A $279 Billion Footnote",
+      "description": "Setting The Stage\nIn March I published a panel regression on NVIDIA Corporation (NVDA). Interestingly, the number that stood out was a structural operating margin premium of about 39 percentage points, which I\nThis article was written by\nAnalyst’s Disclosure:…",
+      "url": "https://biztoc.com/x/70a3342c09ad08fd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T11:38:22Z"
+    },
+    {
+      "title": "4-star Washington football WR commit flips to Wisconsin Badgers",
+      "description": "The Washington Huskies lost one of their blue-chip wide receivers in the 2027 class to the Wisconsin Badgers on Saturday afternoon.",
+      "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/recruiting/2026/11/01/dontay-tyson-uw-football-jedd-fisch-kevin-cummings-jedd-fisch-wisconsin-badgers/92537613007",
+      "source": "USA Today",
+      "publishedAt": "2026-11-01T11:03:37Z"
+    },
+    {
+      "title": "A Digital Electronic Sieve Built with Thirty ATtiny412 Chips",
+      "description": "A modern rebuild of a 1982 number sieve: thirty ATtiny412 microcontrollers filter candidates for a quadratic equation while a Raspberry Pi Pico clocks them and verifies the survivors.\nThe post A Digital Electronic Sieve Built with Thirty ATtiny412 Chips appea…",
+      "url": "https://www.open-electronics.org/a-digital-electronic-sieve-built-with-thirty-attiny412-chips",
+      "source": "Open-electronics.org",
+      "publishedAt": "2026-11-01T11:00:00Z"
+    },
+    {
+      "title": "AI stocks just lost $5 trillion — but the stock market's sweetest stretch might be now",
+      "description": "The AI trade just had its scariest October in years. The rest of the stock market barely noticed.The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia (NVDA) and Alphabet (GOOGL) have ea…",
+      "url": "https://finance.yahoo.com/markets/article/ai-stocks-just-lost-5-trillion--but-history-says-the-stock-markets-sweetest-stretch-starts-now-110000768.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-01T11:00:00Z"
+    },
+    {
+      "title": "Battery Capacity for New iPad Mini Revealed",
+      "description": "An EU energy label was uploaded by Apple for the new iPad Mini 8, revealing the battery capacity of the device measuring at 4,900 mAh. The capacity is lower by just a bit compared to the previous model at 5,034. The website has similar battery life for the de…",
+      "url": "https://www.ilounge.com/news/ipad/battery-capacity-for-new-ipad-mini-revealed",
+      "source": "iLounge",
+      "publishedAt": "2026-11-01T10:49:34Z"
+    },
+    {
+      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "description": "The Wall Street Journal's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over the past year due to a severe memory chip shortage, which stems from AI companies building ou…",
+      "url": "https://biztoc.com/x/64081fec6ae5606f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-01T10:37:22Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30",
+      "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "AMD might have accidentally created the best value GPU in 2026",
+      "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Chip",
+      "summary": "Grouped stories where \"chip\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/a9e1ba94e6c0fe5e",
+        "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "https://www.notebookcheck.net/Over-1-000-FPS-Xiaomi-s-new-high-end-chip-becomes-a-nightmare-for-Google.1434076.0.html"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186546033",
+        "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+        "https://biztoc.com/x/70a3342c09ad08fd"
+      ]
+    },
+    {
+      "title": "October",
+      "summary": "Grouped stories where \"october\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186546179",
+        "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.makeuseof.com/amd-might-have-accidentally-created-the-best-value-gpu-in-2026",
+        "https://www.ozbargain.com.au/node/981214",
+        "https://www.digitimes.com/news/a20261030VL231/tsmc-finfet-applied-materials-california.html"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "TSM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMD",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "ASML",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "INTC",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "QCOM",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages. Main topic cluster: Chip. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
