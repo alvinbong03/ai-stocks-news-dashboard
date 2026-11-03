@@ -1,0 +1,250 @@
+{
+  "theme": "ai",
+  "date": "2026-11-03",
+  "last_updated_utc": "2026-11-03T13:30:35.057Z",
+  "news": [
+    {
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "description": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\nLike other typical stealer families, VOLT…",
+      "url": "https://biztoc.com/x/17ad5ddc6e779cd4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T10:03:50Z"
+    },
+    {
+      "title": "Nvidia stock valuation gets torched by tech stock rout",
+      "description": "For all the interviews Nvidia (NVDA) CEO Jensen Huang has been doing over the past six months, banging the drum for a powerful AI future in the process (powered by his chips, naturally), you would think shares of the AI chip darling would be trading on peak v…",
+      "url": "https://biztoc.com/x/404a4907cd6b5d6e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T11:23:26Z"
+    },
+    {
+      "title": "DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardized Infrastructure for AI",
+      "description": "DayOne Data Centers Limited (&quot;DayOne&quot;), a Singapore-headquartered global digital infrastructure platform, today announced that its proprietary ...",
+      "url": "https://en.antaranews.com/news/439555/dayone-supports-nvidia-dsx-pod-reference-design-advancing-standardized-infrastructure-for-ai",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-11-02T10:38:19Z"
+    },
+    {
+      "title": "Elon Musk vs Sam Altman: After OpenAI CEO questions people's RAM usage at home, Musk defends ordinary users with a meme",
+      "description": "Elon Musk has taken a dig at OpenAI CEO Sam Altman after the latter questioned why people keep large amounts of RAM in their personal computers when the limited memory supply could be used more efficiently by AI data centres. Sharing a meme on X, Musk defende…",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/elon-musk-vs-sam-altman-after-openai-ceo-questions-peoples-ram-usage-at-home-musk-defends-ordinary-users-with-a-meme/articleshow/135462819.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-02T13:22:20Z"
+    },
+    {
+      "title": "Can Artificial Intelligence Improve Trading Decisions?",
+      "description": "Every trading pitch has an AI angle now: signal generators, bots that trade while you sleep. But how much of this technology may improve trading decisions, and how much is marketing?\n\nRead More: https://punchng.com/can-artificial-intelligence-improve-trading-…",
+      "url": "https://punchng.com/can-artificial-intelligence-improve-trading-decisions",
+      "source": "The Punch",
+      "publishedAt": "2026-11-02T12:55:58Z"
+    },
+    {
+      "title": "Blackstone-backed data center operator tests AI debt fears",
+      "description": "The Scoop\nWall Street is finding out just how expensive things can get in a matter of months.\nFor a look at how much investors’ jitters are reshaping AI-related debt financing, look to QTS, an investment-grade Blackstone-backed data center operator, that just…",
+      "url": "https://biztoc.com/x/38e28f28e39c014f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T12:52:00Z"
+    },
+    {
+      "title": "Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it",
+      "description": "The Dell Pro Max T2 scored 4.5 stars in our tests. By getting the newsletter, it has the same cost as the Nvidia RTX Pro Blackwell 6000 GPU it's equipped with.",
+      "url": "https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it",
+      "source": "TechRadar",
+      "publishedAt": "2026-11-02T12:35:09Z"
+    },
+    {
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks",
+      "description": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP &mdash; company \"iterating to ensure [...] the right balance\"",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186555819",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-02T12:34:10Z"
+    },
+    {
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks",
+      "description": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-02T12:30:00Z"
+    },
+    {
+      "title": "ChatGPT now lets you lock private chats with a PIN",
+      "description": "OpenAI's new locked chats feature lets you protect ChatGPT conversations with a PIN, Face ID or Touch ID, but there are key privacy limitations.",
+      "url": "https://www.foxnews.com/tech/chatgpt-lets-lock-private-chats-pin",
+      "source": "Fox News",
+      "publishedAt": "2026-11-02T12:26:43Z"
+    },
+    {
+      "title": "Melius Research cuts price targets for Nvidia and Marvell Technology",
+      "description": "The revised targets suggest potential shifts in AI hardware market dynamics, impacting investor expectations and strategic positioning.\nThe post Melius Research cuts price targets for Nvidia and Marvell Technology appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/melius-research-cuts-nvidia-marvell-targets",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-02T11:54:45Z"
+    },
+    {
+      "title": "Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks",
+      "description": "Semiconductor stocks trade at about 13.5 times forward earnings, below the S&P 500's 18.5.\n- Analysts expect semiconductor earnings to grow 114.3% in 2026 and 77.9% in 2027, according to Yardeni Research.\n- Yardeni suggested holding back cash for buying oppor…",
+      "url": "https://biztoc.com/x/ce151e8759e77770",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T11:38:20Z"
+    },
+    {
+      "title": "Show HN: Knock – stop Claude Code burning tokens exploring big codebases",
+      "description": "Local-first code map and memory for AI coding agents, served over MCP. Cut a Claude Code investigation on a 4,776-file repo from $0.49 to $0.25 (measured). - HasanGilani/knock",
+      "url": "https://github.com/HasanGilani/knock",
+      "source": "Github.com",
+      "publishedAt": "2026-11-02T10:55:20Z"
+    },
+    {
+      "title": "OpenAI, Anthropic set up first election 'war rooms'",
+      "description": "OpenAI and Anthropic will establish dedicated \"war rooms\" to monitor their platforms and ensure accurate information is provided about the US midterm elections, marking a first for both companies, Sem...",
+      "url": "https://biztoc.com/x/86bf9fb6a1203e36",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T10:49:27Z"
+    },
+    {
+      "title": "OpenAI and Abu Dhabi launch machine-readable government initiative",
+      "description": "Abu Dhabi's AI-native government initiative could revolutionize regulatory processes, enhancing efficiency and data sovereignty while setting a global precedent.\nThe post OpenAI and Abu Dhabi launch machine-readable government initiative appeared first on Cry…",
+      "url": "https://cryptobriefing.com/openai-abu-dhabi-machine-readable-government",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-02T10:44:46Z"
+    },
+    {
+      "title": "Hugging Face ‘numbat’ repo claims leaked Anthropic model, but the weights look synthetic",
+      "description": "The incident highlights the challenges AI platforms face in verifying authenticity and managing potential misinformation in large-scale repositories.\nThe post Hugging Face ‘numbat’ repo claims leaked Anthropic model, but the weights look synthetic appeared fi…",
+      "url": "https://cryptobriefing.com/numbat-hugging-face-anthropic-leak-fake",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-02T10:38:11Z"
+    },
+    {
+      "title": "El-Sayed Issues Data Center Warning as Voters Are ‘Deathly Afraid’",
+      "description": "Democratic Senate candidate Abdul El-Sayed has said that some Michigan voters are \"deathly afraid\" of the rapid growth of data centers.\nArtificial intelligence and the rapid construction of data centers have emerged as key issues ahead of the midterm election…",
+      "url": "https://biztoc.com/x/dc3d79305c9bfb99",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T10:03:34Z"
+    },
+    {
+      "title": "Board Partners Reportedly Still Await NVIDIA GeForce RTX 5080 24 GB GPU Kits",
+      "description": "NVIDIA's board partners reportedly still lack the supply of GeForce RTX 5080 24 GB design kits, making a nearby launch seemingly impossible. According to BenchLife, design kits have not yet been provided to NVIDIA's add-in card partners. These design kits typ…",
+      "url": "https://www.techpowerup.com/354396/board-partners-reportedly-still-await-nvidia-geforce-rtx-5080-24-gb-gpu-kits",
+      "source": "Techpowerup.com",
+      "publishedAt": "2026-11-02T10:00:44Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "Nvidia stock valuation gets torched by tech stock rout",
+      "DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardized Infrastructure for AI",
+      "Elon Musk vs Sam Altman: After OpenAI CEO questions people's RAM usage at home, Musk defends ordinary users with a meme",
+      "Can Artificial Intelligence Improve Trading Decisions?"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Data",
+      "summary": "Grouped stories where \"data\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/17ad5ddc6e779cd4",
+        "https://en.antaranews.com/news/439555/dayone-supports-nvidia-dsx-pod-reference-design-advancing-standardized-infrastructure-for-ai",
+        "https://economictimes.indiatimes.com/magazines/panache/elon-musk-vs-sam-altman-after-openai-ceo-questions-peoples-ram-usage-at-home-musk-defends-ordinary-users-with-a-meme/articleshow/135462819.cms"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/404a4907cd6b5d6e",
+        "https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it",
+        "https://cryptobriefing.com/melius-research-cuts-nvidia-marvell-targets"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186555819",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+        "https://github.com/HasanGilani/knock"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.foxnews.com/tech/chatgpt-lets-lock-private-chats-pin",
+        "https://biztoc.com/x/86bf9fb6a1203e36"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://punchng.com/can-artificial-intelligence-improve-trading-decisions",
+        "https://biztoc.com/x/ce151e8759e77770",
+        "https://cryptobriefing.com/numbat-hugging-face-anthropic-leak-fake"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value. Main topic cluster: Data. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value. Main topic cluster: Data. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
