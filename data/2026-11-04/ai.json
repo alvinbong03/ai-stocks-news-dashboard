@@ -1,0 +1,335 @@
+{
+  "theme": "ai",
+  "date": "2026-11-04",
+  "last_updated_utc": "2026-11-04T13:41:27.033Z",
+  "news": [
+    {
+      "title": "AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in",
+      "description": "Big money, big lawsuits, and claims that if AI training isn’t ruled as ‘fair use’ it would “threaten not merely a single industry, but the broader economy” – not to mention hamper cancer research, cybersecurity defences and emergency response systems. It’s qu…",
+      "url": "https://musically.com/2026/11/03/ai-roundup-lyria-lawsuit-anthropics-q3-openai-pile-in",
+      "source": "Music Ally",
+      "publishedAt": "2026-11-03T12:30:00Z"
+    },
+    {
+      "title": "Anthropic swings back to operating loss as $895 billion compute bill looms over IPO",
+      "description": "Anthropic’s revenue jumped 47% to $17 billion (€15.1bn) last quarter, but the developer of the Claude AI models slipped back into an operating loss and revealed close to $900 billion (€804bn) in commitments, mostly for computing, numbers investors will weigh …",
+      "url": "https://biztoc.com/x/25ff64038c311bf4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T13:32:39Z"
+    },
+    {
+      "title": "Nvidia tells data center operators to limit business from Chinese customers with new global restrictions, report claims — allegedly restricted to 49% of the total, ensuring 51% are non-Chinese outfits",
+      "description": "Nvidia has told cloud providers who use its data center products that they must sell less than half of their services to Chinese companies as part of a new policy that will further impact China's ability to keep up with the global AI surge.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-03T13:31:11Z"
+    },
+    {
+      "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
+      "description": "Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-03T13:00:00Z"
+    },
+    {
+      "title": "OpenAI pushes policy rebrand to a skeptical audience",
+      "description": "The News\nOpenAI’s attempt to rebrand data centers and set a new tone for AI policy discourse after the midterms is landing with a thud in some circles, including with members of Congress.\nThe company’s latest policy push is multi-pronged. It involves calling …",
+      "url": "https://biztoc.com/x/40dc4f7ac8faea70",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T10:28:14Z"
+    },
+    {
+      "title": "A new way of measuring AI models suggests China's threat to OpenAI and Anthropic may have been overblown",
+      "description": "The DeepSeek logo on a smartphone\nIllustration by Omar Marques/SOPA Images/LightRocket via Getty Images\nArtificial Analysis's revamped ranking widened the gap between top closed and open-weight AI models.\nMany tests are now private, but the firm also changed …",
+      "url": "https://biztoc.com/x/08beddaa54cc82f1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T10:12:50Z"
+    },
+    {
+      "title": "A new way of measuring AI models suggests China's threat to OpenAI and Anthropic may have been overblown",
+      "description": "Chinese AI models fell behind US rivals after Artificial Analysis revamped its tests, raising questions about open-weight AI's performance.",
+      "url": "https://www.businessinsider.com/chinese-ai-models-rankings-artificial-analysis-private-tests-anthropic-openai-2026-11",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-03T10:00:02Z"
+    },
+    {
+      "title": "Anthropic says revenue surged 1100 percent ahead of IPO",
+      "description": "Anthropic's listing, expected as early as next week, comes amid growing nervousness among investors about the huge sums being poured into AI. Revenue reached $17 billion in the third quarter, up from $1.4 billion a year earlier.\nThe post Anthropic says revenu…",
+      "url": "https://www.digitaljournal.com/article/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo",
+      "source": "Digital Journal",
+      "publishedAt": "2026-11-03T13:35:00Z"
+    },
+    {
+      "title": "Show HN: Diogenes – Account-less MCP Gateway to 45 Gemini models and guardrails",
+      "description": "Account-less access to 45 Google Gemini models & AI agents (Antigravity, Deep Research Pro, Nano Banana) and 121 edge microservices across 9 modular TDQS 5.0 MCP packages via Lightning L402, Solana x402, Base MPP, and Garlicoin.",
+      "url": "https://diogenesgateway.com/",
+      "source": "Diogenesgateway.com",
+      "publishedAt": "2026-11-03T13:30:05Z"
+    },
+    {
+      "title": "Anthropic files for Nasdaq IPO under ticker ANT, setting up a giant pure-play AI listing",
+      "description": "Anthropic's IPO could significantly impact the AI industry, setting a precedent for future AI investments and highlighting market confidence.\nThe post Anthropic files for Nasdaq IPO under ticker ANT, setting up a giant pure-play AI listing appeared first on C…",
+      "url": "https://cryptobriefing.com/anthropic-ipo-nasdaq-ticker-ant",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-03T13:29:10Z"
+    },
+    {
+      "title": "AMD, Nvidia Could Join Tesla On Samsung’s Texas Chip Plant Customer List: Report",
+      "description": "The facility is expected to manufacture base dies for high-bandwidth memory chips used in AI processors.\n- The plant will cover about 2.7 million square feet, with construction scheduled to begin this month and production expected to start in 2030.\n- Samsung'…",
+      "url": "https://biztoc.com/x/816b50139ba44a34",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T13:04:52Z"
+    },
+    {
+      "title": "8 LLM Inference Frameworks You Should Try in 2026",
+      "description": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+      "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+      "source": "Kdnuggets.com",
+      "publishedAt": "2026-11-03T13:00:00Z"
+    },
+    {
+      "title": "Who is Dan Driscoll? OpenAI hires ex-US Army Secretary and Trump's 'drone guy' to lead national security AI push",
+      "description": "OpenAI has appointed former US Army Secretary Dan Driscoll as its senior counsellor for national security modernisation. He will advise the company and its partners on deploying AI in defence, cybersecurity and military operations.",
+      "url": "https://www.livemint.com/companies/people/who-is-dan-driscoll-openai-hires-ex-us-army-secretary-and-trumps-drone-guy-to-lead-national-security-ai-push-11793708416815.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-03T12:58:01Z"
+    },
+    {
+      "title": "China deploys 'world's first' 800-volt DC power system for massive AI data center — seeks to quench power needs with higher conversion and efficiency ins",
+      "description": "Firm says it has completed the world&rsquo;s first commercial data center deployment of an integrated 800-volt DC power system.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186568240",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-03T12:53:50Z"
+    },
+    {
+      "title": "Anthropic expects more than 3.5 GW of compute capacity by end of 2026",
+      "description": "Anthropic's massive compute expansion highlights the AI sector's escalating resource demands, posing financial risks amid uncertain market dynamics.\nThe post Anthropic expects more than 3.5 GW of compute capacity by end of 2026 appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/anthropic-3-5-gw-compute-capacity-2026",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-03T12:49:26Z"
+    },
+    {
+      "title": "'The people deserve to have their RAM too!' Elon Musk mocks OpenAI Sam Altman's claim that people owning home PCs with RAM is 'terrible'",
+      "description": "Altman's claim that RAM only belongs in data centers attracts the ire of Elon Musk.",
+      "url": "https://www.techradar.com/pro/the-people-deserve-to-have-their-ram-too-elon-musk-mocks-openai-sam-altmans-claim-that-people-owning-home-pcs-with-ram-is-terrible",
+      "source": "TechRadar",
+      "publishedAt": "2026-11-03T12:47:29Z"
+    },
+    {
+      "title": "China deploys 'world's first' 800-volt DC power system for massive AI data center — seeks to quench power needs with higher conversion and efficiency inside a smaller footprint",
+      "description": "New power system is already operational in Ulanqab, China, where it will eventually ‘support up to one million AI accelerators.’",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/china-deploys-worlds-first-800-volt-dc-power-system-for-massive-ai-data-center-seeks-to-quench-power-needs-with-higher-conversion-and-efficiency-inside-a-smaller-footprint",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-03T12:40:09Z"
+    },
+    {
+      "title": "Microsoft AI Chief Says AI Development Should Stop If Artificial Intelligence Begins Showing Signs Of Consciousness",
+      "description": "Microsoft AI CEO Mustafa Suleyman has warned against developing conscious artificial intelligence, arguing that AI development should be halted if credible evidence of machine consciousness emerges. His remarks come amid growing disagreements within the AI in…",
+      "url": "https://wccftech.com/microsoft-ai-chief-says-ai-development-should-stop-if-artificial-intelligence-begins-showing-signs-of-consciousness",
+      "source": "Wccftech",
+      "publishedAt": "2026-11-03T12:20:38Z"
+    },
+    {
+      "title": "AI chip smugglers exploit export loopholes to move banned HBM to China",
+      "description": "The smuggling of AI chips highlights vulnerabilities in export controls, potentially escalating tensions and impacting global semiconductor markets.\nThe post AI chip smugglers exploit export loopholes to move banned HBM to China appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/ai-chip-smugglers-hbm-china-loophole",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-03T12:16:50Z"
+    },
+    {
+      "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanction",
+      "description": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.\n                                                                        …",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186567944",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-03T12:12:19Z"
+    },
+    {
+      "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
+      "description": "Customs authorities only check the performance specifications of a server's processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-03T12:04:32Z"
+    },
+    {
+      "title": "Show HN: Recursive Human Intelligence: Actionable feedback from your LLM chats",
+      "description": "Before Recursive Super Intelligence.. a lot of alpha can be squeezed by recursively improve humans.. Dont you think? That's the idea of Recursive Human Intelligence.Practically: it is a desktop that reads Claude Code, Codex, Pi chats, groups them into pattern…",
+      "url": "https://github.com/andrearitossa/recursive-human-intelligence",
+      "source": "Github.com",
+      "publishedAt": "2026-11-03T11:49:20Z"
+    },
+    {
+      "title": "Beijing urges fairness amid rumored Nvidia curbs",
+      "description": "China called for fair and transparent practices following a report that Nvidia Corporation had instructed data center partners to reduce their business with Chinese customers.Foreign Ministry spokespe...",
+      "url": "https://biztoc.com/x/9aa9de4ea62a80a9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T11:14:43Z"
+    },
+    {
+      "title": "Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks",
+      "description": "Nick Saraev says Amazon closed his account after canceling Nvidia DGX Spark orders; Tim Sweeney reports canceled orders after a GPU buy.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186567360",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-03T11:12:17Z"
+    },
+    {
+      "title": "Creator says Amazon closed his account after he tried to buy seven Nvidia DGX Sparks",
+      "description": "Nick Saraev says Amazon closed his account after canceling Nvidia DGX Spark orders; Tim Sweeney reports canceled orders after a GPU buy.",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-11-03T11:00:00Z"
+    },
+    {
+      "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
+      "description": "In this article, learn how to choose the right LLM inference optimization technique using a practical decision tree based on your model, traffic, latency, and hardware constraints.",
+      "url": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach",
+      "source": "Machinelearningmastery.com",
+      "publishedAt": "2026-11-03T11:00:00Z"
+    },
+    {
+      "title": "Nvidia Tightens the Screws on China's AI Access — Cloud Partners Worldwide Must Restrict Chinese Customers…",
+      "description": "Nvidia reportedly requires cloud partners to earn 51% of revenue from non-Chinese customers, tightening access to overseas AI infrastructure.",
+      "url": "https://biztoc.com/x/1f05b374e46801af",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T10:58:54Z"
+    },
+    {
+      "title": "'The First Victim': Chamath Palihapitiya Warns AI Startups are In the Crosshairs as OpenAI, Google Move Into…",
+      "description": "Palihapitiya warns AI giants like OpenAI and Google could disrupt AI-native startups by expanding into software applications and workplace tools.",
+      "url": "https://biztoc.com/x/776bc1ff3eff7e0d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T10:27:52Z"
+    },
+    {
+      "title": "Samsung to produce AMD and Nvidia chip parts at second Texas plant",
+      "description": "Samsung's Texas expansion enhances US tech sovereignty, challenges TSMC's dominance, and strengthens AI supply chains with strategic partnerships.\nThe post Samsung to produce AMD and Nvidia chip parts at second Texas plant appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/samsung-amd-nvidia-texas-hbm-plant",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-03T10:22:16Z"
+    },
+    {
+      "title": "Machine learning modularity",
+      "description": "Based on a transformer-based sequence-to-sequence architecture combined with a dynamic batching algorithm, this work introduces a machine learning framework for automatically simplifying complex expressions involving multiple elliptic gamma functions, includi…",
+      "url": "https://link.aps.org/doi/10.1103/j99v-l6zq",
+      "source": "Aps.org",
+      "publishedAt": "2026-11-03T10:00:00Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in",
+      "Anthropic swings back to operating loss as $895 billion compute bill looms over IPO",
+      "Nvidia tells data center operators to limit business from Chinese customers with new global restrictions, report claims — allegedly restricted to 49% of the total, ensuring 51% are non-Chinese outfits",
+      "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
+      "OpenAI pushes policy rebrand to a skeptical audience"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "China",
+      "summary": "Grouped stories where \"china\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits",
+        "https://biztoc.com/x/08beddaa54cc82f1",
+        "https://www.businessinsider.com/chinese-ai-models-rankings-artificial-analysis-private-tests-anthropic-openai-2026-11"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://musically.com/2026/11/03/ai-roundup-lyria-lawsuit-anthropics-q3-openai-pile-in",
+        "https://biztoc.com/x/25ff64038c311bf4",
+        "https://www.digitaljournal.com/article/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/40dc4f7ac8faea70",
+        "https://www.livemint.com/companies/people/who-is-dan-driscoll-openai-hires-ex-us-army-secretary-and-trumps-drone-guy-to-lead-national-security-ai-push-11793708416815.html",
+        "https://www.techradar.com/pro/the-people-deserve-to-have-their-ram-too-elon-musk-mocks-openai-sam-altmans-claim-that-people-owning-home-pcs-with-ram-is-terrible"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/816b50139ba44a34",
+        "https://slashdot.org/firehose.pl?op=view&amp;id=186567360",
+        "https://www.tomshardware.com/desktops/mini-pcs/amazon-closes-ai-creators-account-after-he-attempts-to-buy-seven-nvidia-dgx-spark-mini-pcs-epic-ceo-tim-sweeney-says-his-regular-orders-were-canceled-before-arrival-after-he-tried-to-buy-two-gpus"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
+        "https://diogenesgateway.com/",
+        "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in. Main topic cluster: China. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in. Main topic cluster: China. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in. Main topic cluster: China. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in. Main topic cluster: China. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in. Main topic cluster: China. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
