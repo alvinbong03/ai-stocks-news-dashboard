@@ -1,0 +1,246 @@
+{
+  "theme": "ai",
+  "date": "2026-11-25",
+  "last_updated_utc": "2026-11-25T16:42:02.745Z",
+  "news": [
+    {
+      "title": "Show HN: LLM API cost and carbon calculator for your own token mix",
+      "description": "SOMA AI's free LLM API cost calculator compares the monthly list-price cost of Anthropic, OpenAI, Google and Mistral-served models for your token mix, with caching and batch, next to SAEF estimates of CO2e, electricity and water. Prices checked 23 November 20…",
+      "url": "https://somaai.earth/ai-footprint/llm-api-cost-calculator",
+      "source": "Somaai.earth",
+      "publishedAt": "2026-11-24T16:08:22Z"
+    },
+    {
+      "title": "Nvidia’s $30 billion OpenAI stake comes with a much bigger safety net",
+      "description": "Nvidia's substantial investment and guarantees in OpenAI highlight its strategic commitment to AI, potentially influencing tech industry dynamics.\nThe post Nvidia’s $30 billion OpenAI stake comes with a much bigger safety net appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/nvidia-30-billion-openai-investment-guarantees",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-24T16:38:15Z"
+    },
+    {
+      "title": "Anthropic, OpenAI Insiders Insist They've Built Something So Dangerous They Can't Control It... And Want Everyone Leashed",
+      "description": "Anthropic, OpenAI Insiders Insist They've Built Something So Dangerous They Can't Control It... And Want Everyone Leashed\n \nAI FUD is back - this time with more employees at Anthropic and OpenAI are saying that their companies' most powerful models are too da…",
+      "url": "https://biztoc.com/x/34031552ab75a0de",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T16:33:23Z"
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia, but Wall Street Is Already Getting Nervous Again",
+      "description": "The post Jensen Huang Is Back at Nvidia, but Wall Street Is Already Getting Nervous Again appeared first on 24/7 Wall St..\nWall Street’s enthusiasm for artificial intelligence (AI) has rarely been more apparent than during Monday’s trading session. After seve…",
+      "url": "https://biztoc.com/x/f2764233be990876",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T16:18:37Z"
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "description": "Jensen Huang’s comeback as Nvidia’s CEO is understandably making waves, leaving people wondering about the longer-term implications of his quick reinstatement and the U.S. government’s active role in his return. But there was another development yesterday tha…",
+      "url": "https://biztoc.com/x/58a9fb4444e54929",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T16:18:21Z"
+    },
+    {
+      "title": "Anthropic builds Siren, a honeypot test designed to tempt AI agents into misbehaving",
+      "description": "Siren highlights the growing need for robust AI safety measures, emphasizing the challenge of predicting autonomous systems' real-world actions.\nThe post Anthropic builds Siren, a honeypot test designed to tempt AI agents into misbehaving appeared first on Cr…",
+      "url": "https://cryptobriefing.com/anthropic-siren-honeypot-test-ai-agents",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-24T16:06:00Z"
+    },
+    {
+      "title": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue",
+      "description": "Nearly 580,000 Nvidia H200 artificial-intelligence chips were approved for export to Chinese customers under a Trump administration framework. That framework permitted the sales while directing a share of the revenue to the U.S. government. House Foreign Affa…",
+      "url": "https://biztoc.com/x/9733b931615c7c1a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T16:03:34Z"
+    },
+    {
+      "title": "Amazon's Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-24T15:51:33Z"
+    },
+    {
+      "title": "Nvidia shares tumble, weighing on Nasdaq",
+      "description": "AI giants Nvidia and Anthropic both tumbled.",
+      "url": "https://www.nzherald.co.nz/business/nvidia-shares-tumble-weighing-on-nasdaq/UU62SEX5DRG2ZCTX5R4WNRGVVY",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-11-24T15:49:50Z"
+    },
+    {
+      "title": "Why Nvidia Couldn’t Quit Jensen Huang",
+      "description": "Developing AI requires tremendous coordination across firms and sectors, from the AI labs themselves to energy and computing infrastructure, as well as long-term vision and patience. Whereas much of this coordination and planning is led by the government in C…",
+      "url": "https://www.project-syndicate.org/commentary/why-nvidia-reinstated-jensen-huang-by-s-alex-yang-and-angela-huyue-zhang-2026-11",
+      "source": "Project Syndicate",
+      "publishedAt": "2026-11-24T16:37:54Z"
+    },
+    {
+      "title": "Claude rolling out updated Android app with Material 3 Expressive redesign - 9to5Google",
+      "description": "Claude rolling out updated Android app with Material 3 Expressive redesign9to5Google Claude's Android app gets a Material 3 Expressive redesignMezha.net Claude App Gets Major Mobile Redesign with New FeaturesAnalytics Insight Anthropic refreshes the Claude ap…",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186852909",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-24T16:33:17Z"
+    },
+    {
+      "title": "Chinese State Media Celebrates Jensen Huang's Nvidia Return",
+      "description": "Chinese state media have welcomed the return of Jensen Huang as CEO of Nvidia, portraying the boss of the artificial intelligence giant as the victim of a \"witch hunt.\"\nHuang was reinstated at the company on Monday, 11 days after he resigned following his adm…",
+      "url": "https://biztoc.com/x/d61114a0650be492",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T16:21:52Z"
+    },
+    {
+      "title": "NVIDIA Releases Game Ready Driver 621.40 As A Hotfix For The Hotfix 621.35 Version To Finally Fix The Excessive Writes Bug Plaguing SSDs",
+      "description": "After reports came in that NVIDIA’s 621.35 Hotfix driver release didn’t reduce the number of excessive writes to the SSD, the GPU maker pushed forward with another release, this time the GeForce Game Ready and Studio Driver version 621.40, with the company st…",
+      "url": "https://wccftech.com/nvidia-driver-621-40-whql-fixes-excessive-ssd-writes",
+      "source": "Wccftech",
+      "publishedAt": "2026-11-24T16:21:07Z"
+    },
+    {
+      "title": "IREN buys former South Australian school to house workers for 800MW data center",
+      "description": "IREN's strategic pivot to AI cloud services highlights a broader industry shift from crypto mining, contingent on regulatory approvals.\nThe post IREN buys former South Australian school to house workers for 800MW data center appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/iren-buys-south-australia-school-data-center",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-24T16:12:27Z"
+    },
+    {
+      "title": "Why Jensen Huang return to Nvidia matters to America's AI ambitions",
+      "description": "Jensen Huang's return to Nvidia comes on the heels of a vigorous pressure campaign led by Donald Trump. This scenario underscores the complex relationship between corporate governance and national security, particularly in the fast-evolving AI sector. Huang's…",
+      "url": "https://timesofindia.indiatimes.com/world/us/why-jensen-huang-return-to-nvidia-matters-to-americas-ai-ambitions/articleshow/136136354.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-24T16:11:06Z"
+    },
+    {
+      "title": "OpenAI and Cisco team up to stop AI-generated security threats before they get too big",
+      "description": "Shirudo is a new AI-powered open source runtime that helps take the edge off applying patches.",
+      "url": "https://www.techradar.com/pro/security/openai-and-cisco-team-up-to-stop-ai-generated-security-threats-before-they-get-too-big",
+      "source": "TechRadar",
+      "publishedAt": "2026-11-24T16:05:00Z"
+    },
+    {
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "description": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+      "source": "Wired",
+      "publishedAt": "2026-11-24T16:00:00Z"
+    },
+    {
+      "title": "ChatGPT is giving Plus users a Google Docs-style workspace",
+      "description": "OpenAI has added Space to ChatGPT Plus, giving you a version of Google Docs right inside your ChatGPT account.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-is-giving-plus-users-a-google-docs-style-workspace-for-interactive-pages-and-presentations-and-some-pages-can-even-update-themselves",
+      "source": "TechRadar",
+      "publishedAt": "2026-11-24T16:00:00Z"
+    },
+    {
+      "title": "If Anthropic Does This It Could Reach $130 By Year End",
+      "description": "The post If Anthropic Does This It Could Reach $130 By Year End appeared first on 24/7 Wall St..\nAt $87.64, Anthropic (NASDAQ:ANT) could reach $130 by year end if a few specific things go right. The frontier AI developer has been public for only three session…",
+      "url": "https://biztoc.com/x/363928989f70f92b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-24T15:47:52Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: LLM API cost and carbon calculator for your own token mix",
+      "Nvidia’s $30 billion OpenAI stake comes with a much bigger safety net",
+      "Anthropic, OpenAI Insiders Insist They've Built Something So Dangerous They Can't Control It... And Want Everyone Leashed",
+      "Jensen Huang Is Back at Nvidia, but Wall Street Is Already Getting Nervous Again",
+      "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/nvidia-30-billion-openai-investment-guarantees",
+        "https://biztoc.com/x/f2764233be990876",
+        "https://biztoc.com/x/58a9fb4444e54929"
+      ]
+    },
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://somaai.earth/ai-footprint/llm-api-cost-calculator",
+        "https://biztoc.com/x/34031552ab75a0de",
+        "https://cryptobriefing.com/anthropic-siren-honeypot-test-ai-agents"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.techradar.com/pro/security/openai-and-cisco-team-up-to-stop-ai-generated-security-threats-before-they-get-too-big",
+        "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-is-giving-plus-users-a-google-docs-style-workspace-for-interactive-pages-and-presentations-and-some-pages-can-even-update-themselves"
+      ]
+    },
+    {
+      "title": "Post",
+      "summary": "Grouped stories where \"post\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cryptobriefing.com/iren-buys-south-australia-school-data-center"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: LLM API cost and carbon calculator for your own token mix. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: LLM API cost and carbon calculator for your own token mix. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: LLM API cost and carbon calculator for your own token mix. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: LLM API cost and carbon calculator for your own token mix. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: LLM API cost and carbon calculator for your own token mix. Main topic cluster: Nvidia. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
