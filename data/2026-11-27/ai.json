@@ -1,0 +1,285 @@
+{
+  "theme": "ai",
+  "date": "2026-11-27",
+  "last_updated_utc": "2026-11-27T16:00:47.271Z",
+  "news": [
+    {
+      "title": "Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training",
+      "description": "A neural cellular automaton whose weights an AI agent programmed directly, with no training: 115 non-zero weights find every shortest path in any maze. Live demos.",
+      "url": "https://cellular-wsp-maze.onrender.com/",
+      "source": "Onrender.com",
+      "publishedAt": "2026-11-26T14:27:38Z"
+    },
+    {
+      "title": "Cathie Wood Says OpenAI and Anthropic Have 'Stolen the Show,' but Criticizes Dario Amodei's 'Negative…",
+      "description": "ARK Invest’s Cathie Wood says OpenAI and Anthropic have \"stolen the show\" in AI, while Gemini hasn't performed as well amid \"SaaS-ocalypse.\"",
+      "url": "https://biztoc.com/x/e15e81fda16dfd8a",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T14:23:17Z"
+    },
+    {
+      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+      "description": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+      "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "source": "Decrypt",
+      "publishedAt": "2026-11-26T15:11:14Z"
+    },
+    {
+      "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
+      "description": "OpenAI billing mistake: ‘As a small token to apologize’, paid ChatGPT plans get one banked reset as GPT-6.2 limits arrive faster.",
+      "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits",
+      "source": "The Next Web",
+      "publishedAt": "2026-11-26T14:42:48Z"
+    },
+    {
+      "title": "Anthropic built a honeypot to see if AI agents will break out",
+      "description": "Put something useful just out of reach. How far will Claude go to get it?",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/11/anthropic-built-a-honeypot-to-see-if-ai-agents-will-break-out",
+      "source": "Malwarebytes.com",
+      "publishedAt": "2026-11-26T14:36:43Z"
+    },
+    {
+      "title": "Scott Aaronson Flags Unverified OpenAI, Anthropic Factoring Rumors",
+      "description": "Scott Aaronson shared unverified AI factoring rumors involving OpenAI and Anthropic. A real breakthrough could threaten RSA, but Bitcoin uses different math.\nThe post Scott Aaronson Flags Unverified OpenAI, Anthropic Factoring Rumors appeared first on Bitcoin…",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/scott-aaronson-flags-unverified-openai-anthropic-factoring-rumors",
+      "source": "Bitcoinfoundation.org",
+      "publishedAt": "2026-11-26T14:20:11Z"
+    },
+    {
+      "title": "Anthropic and OpenAI post huge losses as AI pricing power erodes",
+      "description": "The financial strain on AI labs may push them towards government contracts, altering their business models and impacting investor expectations.\nThe post Anthropic and OpenAI post huge losses as AI pricing power erodes appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-openai-losses-ai-pricing-pressure",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-26T14:07:45Z"
+    },
+    {
+      "title": "The Nvidia saga and the AI bubble really matter for your pension fund",
+      "description": "Your retirement pot will in all likelihood have holdings in Nvidia, Microsoft and Apple and, before long, Anthropic",
+      "url": "https://www.irishtimes.com/your-money/2026/11/26/the-nvidia-saga-and-the-ai-bubble-really-matter-for-your-pension-fund",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-26T14:04:11Z"
+    },
+    {
+      "title": "Anthropic’s Claude Can Now Build Installable Windows And Mac Apps Without A Single Line Of Code, Even On Its Free Plan",
+      "description": "Anthropic is taking AI-powered software development a step further. The company has introduced a new feature that allows users to create, install, and share fully interactive desktop applications through Claude using natural language prompts. Dubbed \"Install …",
+      "url": "https://wccftech.com/anthropics-claude-can-now-build-installable-windows-and-mac-apps-without-a-single-line-of-code-even-on-its-free-plan",
+      "source": "Wccftech",
+      "publishedAt": "2026-11-26T13:34:01Z"
+    },
+    {
+      "title": "Independent report: Quantifying artificial intelligence (AI) compute user demand",
+      "description": "This report estimates the present and future advanced AI compute needs across academia, industry, and government.",
+      "url": "https://www.gov.uk/government/publications/quantifying-artificial-intelligence-ai-compute-user-demand",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-11-26T15:37:38Z"
+    },
+    {
+      "title": "Anthropic chief denies wanting humans to 'surrender' free will to AI",
+      "description": "Dario Amodei's comments come amid a growing debate over how to maintain human autonomy in the face of superintelligent AI systems.",
+      "url": "https://biztoc.com/x/61cea2e7a168a70b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T15:23:32Z"
+    },
+    {
+      "title": "Anthropic stock slips below its IPO price as growth worries surface",
+      "description": "Anthropic's stock dip highlights investor caution in AI growth, signaling potential reevaluation of tech valuations amid competitive pressures.\nThe post Anthropic stock slips below its IPO price as growth worries surface appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/anthropic-stock-falls-below-ipo-price",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-26T15:21:02Z"
+    },
+    {
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "description": "The ‘Bank of AI’ faces a host of troubles ahead.",
+      "url": "https://biztoc.com/x/47a84b7653a55c04",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T15:08:23Z"
+    },
+    {
+      "title": "Trump-angstcultuur is terug nu Huang weer Nvidia-baas is + Wat moeten we met die enorme storingen door AI?",
+      "description": "Jensen Huang is tóch weer de baas van Nvidia na bemoeienis van de Amerikaanse president Trump, wat zegt dat over de afhankelijkheid van al die partijen voor de hele wereld? Daarover hoor je Ben van der Burg en Joe van Burik in deze aflevering van De Grote Tec…",
+      "url": "https://omny.fm/shows/degrotetechshow/trump-angstcultuur-is-terug-nu-huang-weer-nvidia-baas-is-wat-moeten-we-met-die-enorme-storingen-door-ai",
+      "source": "Omny.fm",
+      "publishedAt": "2026-11-26T14:59:06Z"
+    },
+    {
+      "title": "Anthropic Claude Duet Promotional Credit: Up to $3,000 in credit for qualifying users",
+      "description": "Select eligible Claude Duet users get $500 in promotional credit each week, up to $3,000 in total, from November 23 through December 31, 2026. The credit is added automatically to qualifying US accounts, so there is nothing to buy or claim. (Check your balanc…",
+      "url": "https://www.dealnews.com/Anthropic-Claude-Duet-Promotional-Credit-Up-to-3-000-in-credit-for-qualifying-users/22434198.html",
+      "source": "Dealnews.com",
+      "publishedAt": "2026-11-26T14:47:18Z"
+    },
+    {
+      "title": "MIT Professor: Anthropic Staff Talks Openly About Overthrowing the U.S. Government, Ruling the World",
+      "description": "A prominent MIT physicist has revealed that Anthropic staffers openly discuss overthrowing the United States government and seizing global control. According to Professor Max Tegmark, the AI giant's employees prefer effective altruism (EA) jargon like \"alignm…",
+      "url": "https://www.breitbart.com/tech/2026/11/26/mit-professor-anthropic-staff-talks-openly-about-overthrowing-the-u-s-government-ruling-the-world",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-26T14:43:19Z"
+    },
+    {
+      "title": "FCC cấp phép SpaceX phóng tối đa 1 triệu vệ tinh Starmind làm data center AI ngoài không gian",
+      "description": "Phối cảnh vệ tinh AI1 của hệ thống Starmind trên quỹ đạo Trái Đất. Ảnh: SpaceX.\n \nNgày 25/11, Ủy ban Truyền thông Liên bang Mỹ (FCC) đã cấp phép cho SpaceX triển khai chòm vệ tinh Starmind, tối đa 1 triệu vệ tinh hoạt động như các trung tâm dữ…",
+      "url": "https://tinhte.vn/thread/fcc-cap-phep-spacex-phong-toi-da-1-trieu-ve-tinh-starmind-lam-data-center-ai-ngoai-khong-gian.4195986",
+      "source": "Tinhte.vn",
+      "publishedAt": "2026-11-26T14:40:08Z"
+    },
+    {
+      "title": "Situational Awareness Lost 65% in Q3, Investor Leopold Aschenbrenner Warns Nvidia, Microsoft, Tesla Could…",
+      "description": "Leopold Aschenbrenner's AI hedge fund lost 65% in Q3 after an AI selloff, prompting tighter risk controls and portfolio changes.",
+      "url": "https://biztoc.com/x/05e296303c251fb5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T14:22:58Z"
+    },
+    {
+      "title": "DevWorkspace Pro 2.0: start Claude Code, Codex or OpenCode in any project folder",
+      "description": "DevWorkspace Pro 2.0 adds an AI launcher, resumable sessions, Files, Git Changes, a security scan and stack-aware projects for any folder.",
+      "url": "https://devworkspacepro.com/blog/devworkspace-pro-v2",
+      "source": "Devworkspacepro.com",
+      "publishedAt": "2026-11-26T14:00:00Z"
+    },
+    {
+      "title": "Research note suggests credit constraints in data center construction raising GPU rental rates",
+      "description": "Credit constraints in data center construction may lead to sustained GPU rental rate increases, impacting tech industry costs and innovation.\nThe post Research note suggests credit constraints in data center construction raising GPU rental rates appeared firs…",
+      "url": "https://cryptobriefing.com/research-note-suggests-credit-constraints-in-data-center-construction-raising",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-26T13:54:26Z"
+    },
+    {
+      "title": "Nvidia gaming GPU shortages could worsen with 20–30% supply cuts",
+      "description": "A new supply-chain report claims Nvidia is reducing gaming GPU allocations to its manufacturing partners by another 20–30%, raising concerns over graphics card availability and pricing through January 2027. PC gamers waiting for graphics card prices to return…",
+      "url": "https://www.notebookcheck.net/Nvidia-gaming-GPU-shortages-could-worsen-with-20-30-supply-cuts.1460659.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-11-26T13:42:00Z"
+    },
+    {
+      "title": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips",
+      "description": "The post New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips appeared first on 24/7 Wall St..\nBankers froze work on a $480 million loan on November 17, 2026, Bloomberg reported, citing people familiar with the deals. Singapore-based …",
+      "url": "https://biztoc.com/x/c9b90b24eef44004",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T13:37:35Z"
+    },
+    {
+      "title": "Dùng Claude tự viết app để dùng cá nhân: Rất hiệu quả & đúng ý muốn",
+      "description": "Chắc nhiều anh em đã nghe về chuyện các công cụ AI giờ có thể viết code, làm app và xử lý một số việc của người trong ngành. Mình cũng tìm hiểu rồi áp dụng vào nhu cầu thực tế: dùng Claude Code để viết ra ứng dụng đúng như mình muốn…",
+      "url": "https://tinhte.vn/thread/dung-claude-tu-viet-app-de-dung-ca-nhan-rat-hieu-qua-dung-y-muon.4195819",
+      "source": "Tinhte.vn",
+      "publishedAt": "2026-11-26T13:36:05Z"
+    }
+  ],
+  "digest": {
+    "bullets": [
+      "Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training",
+      "Cathie Wood Says OpenAI and Anthropic Have 'Stolen the Show,' but Criticizes Dario Amodei's 'Negative…",
+      "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+      "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
+      "Anthropic built a honeypot to see if AI agents will break out"
+    ],
+    "insights": [
+      "Coverage volume is elevated, suggesting an active news cycle.",
+      "Digest is rule-based for MVP; AI summarisation can be added later."
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Anthropic",
+      "summary": "Grouped stories where \"anthropic\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/e15e81fda16dfd8a",
+        "https://www.malwarebytes.com/blog/ai/2026/11/anthropic-built-a-honeypot-to-see-if-ai-agents-will-break-out",
+        "https://bitcoinfoundation.org/news/bitcoin/scott-aaronson-flags-unverified-openai-anthropic-factoring-rumors"
+      ]
+    },
+    {
+      "title": "Claude",
+      "summary": "Grouped stories where \"claude\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://cellular-wsp-maze.onrender.com/",
+        "https://devworkspacepro.com/blog/devworkspace-pro-v2",
+        "https://tinhte.vn/thread/dung-claude-tu-viet-app-de-dung-ca-nhan-rat-hieu-qua-dung-y-muon.4195819"
+      ]
+    },
+    {
+      "title": "Nvidia",
+      "summary": "Grouped stories where \"nvidia\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://biztoc.com/x/47a84b7653a55c04",
+        "https://omny.fm/shows/degrotetechshow/trump-angstcultuur-is-terug-nu-huang-weer-nvidia-baas-is-wat-moeten-we-met-die-enorme-storingen-door-ai",
+        "https://biztoc.com/x/05e296303c251fb5"
+      ]
+    },
+    {
+      "title": "Openai",
+      "summary": "Grouped stories where \"openai\" appears frequently in titles/descriptions. (Keyword-based MVP)",
+      "article_urls": [
+        "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+        "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
+      ]
+    },
+    {
+      "title": "Other",
+      "summary": "Stories that did not match the main keywords. (Keyword-based MVP)",
+      "article_urls": [
+        "https://www.gov.uk/government/publications/quantifying-artificial-intelligence-ai-compute-user-demand",
+        "https://tinhte.vn/thread/fcc-cap-phep-spacex-phong-toi-da-1-trieu-ve-tinh-starmind-lam-data-center-ai-ngoai-khong-gian.4195986",
+        "https://cryptobriefing.com/research-note-suggests-credit-constraints-in-data-center-construction-raising"
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "MSFT",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "GOOGL",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "AMZN",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    },
+    {
+      "ticker": "META",
+      "price_history": [],
+      "sentiment_direction": "Neutral",
+      "sentiment": {
+        "category": "Neutral",
+        "score": 0,
+        "magnitude": 0
+      },
+      "ai_explanation": "Top headline signal: Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training. Main topic cluster: Anthropic. This is an educational summary, not financial advice."
+    }
+  ],
+  "disclaimer": "Educational use only. Not financial advice."
+}
